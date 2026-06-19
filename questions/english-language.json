@@ -8819,5 +8819,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3882",
     "passage": ""
+  },
+  {
+    "id": 3883,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or words which best completes each sentence : I can't afford another loan, i have .... money left in my account",
+    "options": {
+      "A": "a few",
+      "B": "a little",
+      "C": "little",
+      "D": "few",
+      "E": "some"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence implies that the speaker has almost no money left in their account. The word \"little\" is used with uncountable nouns (such as \"money\") to indicate a small, insufficient amount.  \"A few\" is used with countable nouns, e.g., \"a few coins.\"  \"A little\" means some, but it does not imply insufficiency, which is the speaker's concern. \"Few\" is used with countable nouns, e.g., \"few notes.\"  \"Some\" means an unspecified amount and does not express the sense of insufficiency implied in the sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3883",
+    "passage": ""
   }
 ]
