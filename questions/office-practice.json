@@ -2007,5 +2007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66561",
     "passage": ""
+  },
+  {
+    "id": 66562,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The machine used to produce large number of copies of a document from the",
+    "options": {
+      "A": "electronic typewriter",
+      "B": "collating machine",
+      "C": "duplicating machine",
+      "D": "scanning machine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Duplicating machine is a device for making dupicate copies from a master copy of printed, typed, drawn, or other material and utilizing various reproduction techniques to this end.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66562",
+    "passage": ""
   }
 ]
