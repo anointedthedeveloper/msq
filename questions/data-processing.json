@@ -9566,5 +9566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77050",
     "passage": ""
+  },
+  {
+    "id": 77051,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "How many types of index (es) is/are there in the structured query language server?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "4",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Clustered: Clustered indexes sort and store the data rows in the table or view based on their key values. Nonclustered: Nonclustered indexes have a structure separate from the data rows.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77051",
+    "passage": ""
   }
 ]
