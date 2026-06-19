@@ -9545,5 +9545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77049",
     "passage": ""
+  },
+  {
+    "id": 77050,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A data model has how many components?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A data model theory has three main components: The structural part, a collection of data structures that are used to create databases representing the entities or objects modeled by the database",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77050",
+    "passage": ""
   }
 ]
