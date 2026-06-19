@@ -12283,5 +12283,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4492",
     "passage": ""
+  },
+  {
+    "id": 4493,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following is used in rocket fuels?",
+    "options": {
+      "A": "HNO 3",
+      "B": "CH 3 COOH",
+      "C": "H 2 SO 4",
+      "D": "HCl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "- Due to its unique powerful oxidizing nature, Nitric acid is often used in rocket fuels as a propeller\nNB: Ethanol (not Ethanoic acid) is used alone or mixed with petrol as fuel for racing cars and in rockets.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4493",
+    "passage": ""
   }
 ]
