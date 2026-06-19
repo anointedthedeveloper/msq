@@ -9238,5 +9238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14264",
     "passage": ""
+  },
+  {
+    "id": 14265,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If the decay constant of a radioactive substance is 0.231s-\\(^1\\), the half-life is?",
+    "options": {
+      "A": "3.00 s",
+      "B": "0.12 s",
+      "C": "0.33 s",
+      "D": "1.50 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Half-life, T (1)/2 = (0.693)/∆ = (0.693)/ 0.231 = 3.0sec\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14265",
+    "passage": ""
   }
 ]
