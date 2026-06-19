@@ -13018,5 +13018,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4777",
     "passage": ""
+  },
+  {
+    "id": 4778,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An effect of thermal pollution on water bodies is that the",
+    "options": {
+      "A": "volume of water reduces",
+      "B": "volume of chemical waste increase",
+      "C": "level of oxides of nitrogen increase",
+      "D": "level of oxygen reduces"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Thermal pollution involves the discharge of heated water (often from power plants or industrial processes) into natural water bodies. This temperature increase directly causes a reduction in dissolved oxygen levels because gases are less soluble in warmer liquids.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4778",
+    "passage": ""
   }
 ]
