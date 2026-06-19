@@ -1488,5 +1488,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49783",
     "passage": ""
+  },
+  {
+    "id": 49784,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "How many days are allowed in life insurance as days of grace",
+    "options": {
+      "A": "25 days",
+      "B": "30 days",
+      "C": "35 days",
+      "D": "60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Grace periods for late payments last anywhere from 30 to 60 days and your life insurance remains in force during that time. \"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49784",
+    "passage": ""
   }
 ]
