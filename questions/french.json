@@ -5254,5 +5254,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75888",
     "passage": ""
+  },
+  {
+    "id": 75889,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "On va a la _ pour apprendre.",
+    "options": {
+      "A": "pharmacie",
+      "B": "école",
+      "C": "banque",
+      "D": "mairie"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "On va à l'école pour apprendre et grandir chaque jour.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75889",
+    "passage": ""
   }
 ]
