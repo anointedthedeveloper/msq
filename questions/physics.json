@@ -5605,5 +5605,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12912",
     "passage": ""
+  },
+  {
+    "id": 12913,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The pitch of a sound note depends on",
+    "options": {
+      "A": "timbre",
+      "B": "frequency",
+      "C": "harmonics",
+      "D": "quality"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The pitch of a note depends on the frequency and wavelength of the source of the sound. a high-frequency (low wavelength ) produces a high-pitched note and a low-frequency ( high wavelength) produces a low-pitched note.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12913",
+    "passage": ""
   }
 ]
