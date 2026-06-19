@@ -1614,5 +1614,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61408",
     "passage": ""
+  },
+  {
+    "id": 61409,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "In Figure 6 the signals from modem X to modem Y is",
+    "options": {
+      "A": "analogue",
+      "B": "digital",
+      "C": "imaginary",
+      "D": "aperiodic"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/FPCQhtazaZ976heYjBTSXed5I6Wou4p1VSSjJRUn.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900976/myschool/computer-studies/FPCQhtazaZ976heYjBTSXed5I6Wou4p1VSSjJRUn.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61409",
+    "passage": ""
   }
 ]
