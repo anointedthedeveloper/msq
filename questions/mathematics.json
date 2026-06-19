@@ -12745,5 +12745,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22607",
     "passage": ""
+  },
+  {
+    "id": 22641,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "From the graph determine the roots of the equation y = 2x\\(^2\\) + x - 6",
+    "options": {
+      "A": "-3, 4",
+      "B": "-2, -6",
+      "C": "-2, 1.5",
+      "D": "-1, 1",
+      "E": "2, 1.5"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/SL5zOWVSOKYW3U5ABjmn64OUvJJcdpXDxewaVu7Z.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869240/myschool/mathematics/SL5zOWVSOKYW3U5ABjmn64OUvJJcdpXDxewaVu7Z.jpg",
+    "correct_answer": "C",
+    "explanation": "Where the curve cut x-axis is the root of the equation i.e. x = -2.0 and x = 1.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22641",
+    "passage": ""
   }
 ]
