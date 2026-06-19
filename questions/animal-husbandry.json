@@ -1403,5 +1403,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49720",
     "passage": ""
+  },
+  {
+    "id": 49721,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following operations may be carried out on the part labeled I ?",
+    "options": {
+      "A": "Disbudding",
+      "B": "Docking",
+      "C": "Fumigation",
+      "D": "Trimming"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/swe88vtVqIGtOAglebm5f1bilQNJlPxcsKKnKGKK.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890951/myschool/animal-husbandry/swe88vtVqIGtOAglebm5f1bilQNJlPxcsKKnKGKK.png",
+    "correct_answer": "D",
+    "explanation": "Hoof trimming is an essential part of sheep and goat management. Flocks are to be checked on a regular basis for hoof growth. Overgrown hooves may make walking painful, predispose the animal to other foot and leg problems, and competing for feed difficult.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49721",
+    "passage": ""
   }
 ]
