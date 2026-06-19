@@ -10205,5 +10205,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4203",
     "passage": ""
+  },
+  {
+    "id": 4204,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question bellow choose the expression or word which best completes each sentence : The principal remarked that it was the high standard of discipline that was instrumental .... the high percentage of passes in the school",
+    "options": {
+      "A": "upon",
+      "B": "to",
+      "C": "with",
+      "D": "on",
+      "E": "in"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The phrase “instrumental to” means “a major contributing factor to something” . So the sentence reads correctly as:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4204",
+    "passage": ""
   }
 ]
