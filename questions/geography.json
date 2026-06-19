@@ -1651,5 +1651,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/982",
     "passage": ""
+  },
+  {
+    "id": 983,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The most obvious physical feature that distinguishes undisturbed mature soil from an immature soil is the",
+    "options": {
+      "A": "humus content",
+      "B": "layered profile",
+      "C": "nutrient status",
+      "D": "topsoil texture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/983",
+    "passage": ""
   }
 ]
