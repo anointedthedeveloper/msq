@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75240",
     "passage": ""
+  },
+  {
+    "id": 75242,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which traditional Nigerian art uses symbolic drawings often on the body or walls?",
+    "options": {
+      "A": "Adinkra",
+      "B": "Batik",
+      "C": "Uli",
+      "D": "Nsibidi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Uli is an Igbo art form using dyes to create designs on skin or walls.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75242",
+    "passage": ""
   }
 ]
