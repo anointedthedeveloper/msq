@@ -11031,5 +11031,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22096",
     "passage": ""
+  },
+  {
+    "id": 22097,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "Simplify 0.63954 ÷ 0.003 giving your answer correct to two significant figures",
+    "options": {
+      "A": "213.18",
+      "B": "213.00",
+      "C": "213",
+      "D": "210",
+      "E": "21"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "= \\(\\frac{0.63954}{0.003}\\)\nmoving the decimal places, we have\n= \\(\\frac{639.54}{3}\\)\n= 213.18\n\\(\\approxeq\\) 210 (to 2 s.f.)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22097",
+    "passage": ""
   }
 ]
