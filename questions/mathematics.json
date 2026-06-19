@@ -6130,5 +6130,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8835",
     "passage": ""
+  },
+  {
+    "id": 8836,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In triangle XYZ, ∠XYZ = 15o, ∠XZY = 45o and lXYl = 7 cm. Find lYZl.",
+    "options": {
+      "A": "14√2 cm",
+      "B": "\\(7\\left(\\frac{\\sqrt{6}}{2}\\right)\\)",
+      "C": "7√2 cm",
+      "D": "7 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "∠yxz = 180 - (45 + 15) = 180 - 60 = 120o Using sine rule \\(\\frac{x}{sinx}=\\frac{7}{sinz}\\) \\(\\frac{x}{sin 120}=\\frac{7}{sin 45}\\) x = \\(\\frac{7 sin 120}{sin45}\\) x = \\(\\frac{7sin(180-120)}{sin 45}\\) x = \\(\\frac{7 sin 60}{sin 45}=\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\) x = \\(\\left(7\\left(\\frac{\\sqrt{3}}{2}\\right)\\div \\frac{1}{\\sqrt{2}}\\right)\\) x = 7\\(\\left(\\frac{\\sqrt{6}}{2}\\right)\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8836",
+    "passage": ""
   }
 ]
