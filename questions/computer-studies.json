@@ -2660,5 +2660,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61820",
     "passage": ""
+  },
+  {
+    "id": 61821,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The mechanical counting device called pascaline was invented by......... pascal?",
+    "options": {
+      "A": "Blaize",
+      "B": "Bloom",
+      "C": "John",
+      "D": "Philip",
+      "E": "Susan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61821",
+    "passage": ""
   }
 ]
