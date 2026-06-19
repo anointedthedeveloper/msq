@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73550",
     "passage": ""
+  },
+  {
+    "id": 73552,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Gịnị ka a na-akpọ \"chair\" n'Igbo?",
+    "options": {
+      "A": "Nzụ ọdee",
+      "B": "Oche",
+      "C": "Ụgbọọjị",
+      "D": "Akwụkwọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Oche. Oche is the Igbo word for \"chair\". Here's a breakdown of the other options: - A. Akwụkwọ means \"book\" in Igbo. - B. Nzụ ọdee means \"table\" in Igbo. - D. Ụgbọọjị is not a recognized term in Igbo language. - E. Ụlọ means \"house\" or \"home\" in Igbo. So, the correct answer is C. Oche, which is the Igbo word for \"chair\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73552",
+    "passage": ""
   }
 ]
