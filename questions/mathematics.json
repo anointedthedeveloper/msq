@@ -5059,5 +5059,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8324",
     "passage": ""
+  },
+  {
+    "id": 8423,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Three straight lines EF, GH and LK interest at O as shown above. If ∠KOF = 52\no\nand ∠LOH = 85\no\n, calculate the size of ∠EOG.",
+    "options": {
+      "A": "26 o",
+      "B": "43 o",
+      "C": "52 o",
+      "D": "85 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25759752835_math200525jpg.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868488/myschool/mathematics/25759752835_math200525jpg.jpg",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8423",
+    "passage": ""
   }
 ]
