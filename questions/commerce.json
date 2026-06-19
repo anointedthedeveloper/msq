@@ -11823,5 +11823,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7134",
     "passage": ""
+  },
+  {
+    "id": 7135,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The business environment that takes into cognizance the age distribution, ethnic mix and educational level of the consumer is?",
+    "options": {
+      "A": "demographic evironment",
+      "B": "economic evironment",
+      "C": "cultural environment",
+      "D": "natural environment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The demographic aspect of a business is concerned with the characteristics of the population in a specific area and includes multiple factors like age, race, income, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7135",
+    "passage": ""
   }
 ]
