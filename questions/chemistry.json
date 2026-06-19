@@ -5268,5 +5268,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2274",
     "passage": ""
+  },
+  {
+    "id": 2511,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "CO(g) + H2O(g) → CO2(g) + H2(g) From the reaction above, calculate the standard enthalpies of formation if CO2(g), H2O(g) and CO(g) in kJ mol-1 are -394, -242, and -110 respectively.",
+    "options": {
+      "A": "-262 kJ mol -1",
+      "B": "-42 kJ mol -1",
+      "C": "+42 kJ mol -1",
+      "D": "+262 kJ mol -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "CO + H2O → CO2 + H2     DH = - 394 kJ mol-1\nThe equation for the standard enthalpy change of formation is\nΔHreaction = ΔH(products) − ΔH(reactants)\n= - 394 - ( - 242 - 110) = - 394 - ( - 352) = - 394 + 352 = - 42 kJ mol-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2511",
+    "passage": ""
   }
 ]
