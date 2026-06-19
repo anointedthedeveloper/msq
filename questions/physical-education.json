@@ -3883,5 +3883,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70720",
     "passage": ""
+  },
+  {
+    "id": 70721,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the penalty for a charging foul in basketball?",
+    "options": {
+      "A": "Personal foul against the defensive player",
+      "B": "No penalty, play continues",
+      "C": "Free throws for the offensive team",
+      "D": "Turnover to the defensive team"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A charging foul in basketball results in a turnover to the defensive team.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70721",
+    "passage": ""
   }
 ]
