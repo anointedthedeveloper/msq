@@ -4093,5 +4093,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12268",
     "passage": ""
+  },
+  {
+    "id": 12269,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If an object just begins to slide on a surface inclined at 30\no\nto the horizontal,the coefficient of friction is",
+    "options": {
+      "A": "√3",
+      "B": "√3 / 2",
+      "C": "1 / √2",
+      "D": "1 / √3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "o\no\n1\n√3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12269",
+    "passage": ""
   }
 ]
