@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/804",
     "passage": ""
+  },
+  {
+    "id": 805,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1995",
+    "question": "A bank statement is a document",
+    "options": {
+      "A": "ordering a bank to pay on demand a stated sum of money",
+      "B": "containing records of receipts, payments and balance on an account",
+      "C": "used for paying into bank account",
+      "D": "used for regular withdrawal of money from a savings account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/805",
+    "passage": ""
   }
 ]
