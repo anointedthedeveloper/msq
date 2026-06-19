@@ -15234,5 +15234,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65970",
     "passage": ""
+  },
+  {
+    "id": 67757,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is used for modulation and demodulation ?",
+    "options": {
+      "A": "Gateway",
+      "B": "Protocol",
+      "C": "Modem",
+      "D": "Multiplex"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A modem(modulator-demodulator) is a hardware device that connects a computer or router to a broadband network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67757",
+    "passage": ""
   }
 ]
