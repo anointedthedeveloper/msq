@@ -3488,5 +3488,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75943",
     "passage": ""
+  },
+  {
+    "id": 75944,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Miss Rosey, the clerical assistant at XYZ Ltd, keeps documents in the file according to dates received. This system of filing is",
+    "options": {
+      "A": "subject filing",
+      "B": "chronological filing",
+      "C": "geographical filing",
+      "D": "alphabetical filing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Chronological filing is a method of filing documents in order of their date, either ascending or descending. This system is often used for things like invoices, bank statements, or reports that are often referred to by the date they were created or processed. In the given scenario, Miss Rosey is keeping documents in the file according to dates received, which is a characteristic of chronological filing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75944",
+    "passage": ""
   }
 ]
