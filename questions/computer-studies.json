@@ -16410,5 +16410,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67842",
     "passage": ""
+  },
+  {
+    "id": 67843,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of these application packages can be used to create a spreadsheet ?",
+    "options": {
+      "A": "Microsoft powerpoint",
+      "B": "Microsoft excel",
+      "C": "Macwrite",
+      "D": "Microsoft word"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Microsoft Excel is an application package that is specifically designed for creating spreadsheets. It provides features for creating, editing, and managing data in a tabular format.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67843",
+    "passage": ""
   }
 ]
