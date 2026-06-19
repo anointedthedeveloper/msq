@@ -1571,5 +1571,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49739",
     "passage": ""
+  },
+  {
+    "id": 49740,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The disease caused by the bacterium Bacillus anthracis in pigs is",
+    "options": {
+      "A": "anthrax",
+      "B": "aspergillosis",
+      "C": "brucellosis",
+      "D": "rinderpest"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Bacillus anthracis is the etiologic agent of anthrax, a common disease of livestock and, occasionally, of humans.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49740",
+    "passage": ""
   }
 ]
