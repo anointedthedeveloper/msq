@@ -6172,5 +6172,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13718",
     "passage": ""
+  },
+  {
+    "id": 13727,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The current in a reverse-biased junction is due to?",
+    "options": {
+      "A": "minority carriers",
+      "B": "electrons",
+      "C": "majority carriers",
+      "D": "holes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13727",
+    "passage": ""
   }
 ]
