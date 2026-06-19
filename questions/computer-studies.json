@@ -2177,5 +2177,23 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61730",
     "passage": ""
+  },
+  {
+    "id": 61731,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "(a) List: (i) three application areas of a word processing program;\n(ii) three types of data item.\n(b) identify program; the four data types available in Table 2.\nTable 2\nStudent I.D.\nGender\nA 00022\nC 00021\nB 00023",
+    "options": {
+      "D": "Name\nDate of Birth\nScore in Computer Studies\nGender\nA 00022\nOdi, G. A\n13/10/97\n38\nM\nC 00021\nZakari, M.\n15/05/98\n71\nM\nB 00023\nNgozi Tella\n16/09/96\n62\nF"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Office, business (memos, letters and letter head, legal copies, reference documents) education, home, Iterature and publication.\n(ii) roll number, age, name, date of birth, gender, identity number.\n(b) Student identity number -  Column 1\nName - Column 2\nDate of birth (DOB) - Column 3\nGender -  Column 5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61731",
+    "passage": ""
   }
 ]
