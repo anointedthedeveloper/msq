@@ -3037,5 +3037,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58419",
     "passage": ""
+  },
+  {
+    "id": 58422,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the options A to D is not a medium of information transmission?",
+    "options": {
+      "A": "Cable",
+      "B": "Satellite",
+      "C": "Television set",
+      "D": "Wireless transmission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The transmission medium can be defined as a pathway that can transmit information from a sender to a receiver.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58422",
+    "passage": ""
   }
 ]
