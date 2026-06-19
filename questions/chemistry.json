@@ -4302,5 +4302,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2132",
     "passage": ""
+  },
+  {
+    "id": 2133,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following gives a precipitate when treated with NaOH solution?",
+    "options": {
+      "A": "AlCl 3",
+      "B": "NH 4 CL",
+      "C": "CH 3 COONa",
+      "D": "Na 2 CO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The reaction of aluminum chloride, AlCl\\(_3\\) and sodium hydroxide (NaOH) produces a white precipitate of aluminum hydroxide Al(OH)\\(_3\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2133",
+    "passage": ""
   }
 ]
