@@ -13095,5 +13095,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21248",
     "passage": ""
+  },
+  {
+    "id": 21249,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A boy standing a distance from the foot of a tall cliff claps his hands and hears an echo 0.5s later. If the speed of sound is 340ms1, how far is he from the cliff?",
+    "options": {
+      "A": "17m",
+      "B": "34m",
+      "C": "85m",
+      "D": "170m",
+      "E": "680m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21249",
+    "passage": ""
   }
 ]
