@@ -2911,5 +2911,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6255",
     "passage": ""
+  },
+  {
+    "id": 6261,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The ocean route with the greatest traffic is the",
+    "options": {
+      "A": "North atlantic route",
+      "B": "Cape of Good Hope route",
+      "C": "North pacific route",
+      "D": "North American-South American route",
+      "E": "Mediterranean-Asiatic-Australian route"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6261",
+    "passage": ""
   }
 ]
