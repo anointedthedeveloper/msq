@@ -11595,5 +11595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14483",
     "passage": ""
+  },
+  {
+    "id": 14484,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A force F required to keep a 5 kg mass moving round a cycle of radius 3.5 m at a speed of 7 ms-1. What is the speed, if the force is tripled?",
+    "options": {
+      "A": "4.0 ms -1",
+      "B": "6.6 ms -1",
+      "C": "12.1 ms -1",
+      "D": "21.0 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The force which is centripetal F = \\(\\frac{MV^2}{R}\\) = \\(\\frac{5 \\times 7^2}{3.5}\\) = 70\nSince force is 70 N when speed is 7m/s\nSpeed = ? when force 70N is tripled →  70 * 3 = 210N\n210 = \\(\\frac{5×v^2}{3.5}\\) 210 × 3.5 = 5 * v\\(^2\\) 735 ÷ 5 = v\\(^2\\) v\\(^2\\) = 147 v =12.12m/s\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14484",
+    "passage": ""
   }
 ]
