@@ -14570,5 +14570,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23113",
     "passage": ""
+  },
+  {
+    "id": 23115,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the area of an equivalent triangle of side 16cm",
+    "options": {
+      "A": "64√3cm 2",
+      "B": "72√3cm 2",
+      "C": "96cm 2",
+      "D": "128√3cm 2",
+      "E": "128cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1\n2\no\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23115",
+    "passage": ""
   }
 ]
