@@ -16263,5 +16263,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67835",
     "passage": ""
+  },
+  {
+    "id": 67836,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "An action performed in the GUI operating systems to hide a window but keep the program running in the background is ?",
+    "options": {
+      "A": "hide",
+      "B": "multitasking",
+      "C": "minimize",
+      "D": "maximize"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Minimize is an action performed in the GUI operating systems to hide a window but keep the program running in the background",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67836",
+    "passage": ""
   }
 ]
