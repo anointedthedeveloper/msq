@@ -2481,5 +2481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66824",
     "passage": ""
+  },
+  {
+    "id": 66825,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Miss Rosey, the clerical assistant at XYZ Ltd, keeps documents in the file according to dates received. This system of filing is",
+    "options": {
+      "A": "geographical filing",
+      "B": "chronological filing",
+      "C": "alphabetical filing",
+      "D": "subject filing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "chronological filing is organizing and ordering document and records in a dated sequence. This sequence can be according to their date of receipt, or date and time of their creation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66825",
+    "passage": ""
   }
 ]
