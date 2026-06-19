@@ -15185,5 +15185,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24120",
     "passage": ""
+  },
+  {
+    "id": 24121,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "What is the value of R when G shows no deflection in the circuit illustrated above?",
+    "options": {
+      "A": "80Ω",
+      "B": "75Ω",
+      "C": "45Ω",
+      "D": "20Ω",
+      "E": "10Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2772229408_wcphy199040.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891975/myschool/physics/2772229408_wcphy199040.jpg",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24121",
+    "passage": ""
   }
 ]
