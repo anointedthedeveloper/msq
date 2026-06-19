@@ -5835,5 +5835,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2632",
     "passage": ""
+  },
+  {
+    "id": 2633,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A given volume of methane diffuses in 20s. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions? [C = 12, H = 1, S = 32, O = 16",
+    "options": {
+      "A": "5s",
+      "B": "20s",
+      "C": "40s",
+      "D": "60s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Applying the Graham's law definition; i.e,\n\\(\\frac{RSO_2}{RCH_4}\\) = \\(\\sqrt{\\frac{MCH_4}{MSO_2}}\\)\n\\(\\frac{tSO_2}{tCH_4}\\) = \\(\\sqrt{\\frac{MSO_2}{MCH_4}}\\) (rate of diffusion ∝ \\(\\frac{1}{time taken}\\))\nWhere t(SO\\(_2\\)) = ?, M(SO\\(_2\\)) = 64\nt(CH\\(_4\\)) = 20 sec, M(CH\\(_4\\)) = 16\nTherefore, \\(\\frac{t(SO_2)}{20}\\) = \\(\\sqrt{\\frac{64}{16}}\\)\n\\(\\frac{t(SO_2)}{20}\\) = \\(\\frac{8}{4}\\)\nt(SO\\(_2\\)) = 8 x \\(\\frac{20}{4}\\)\n= 40 sec.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2633",
+    "passage": ""
   }
 ]
