@@ -15868,5 +15868,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23193",
     "passage": ""
+  },
+  {
+    "id": 23194,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Simplify: \\(\\frac{\\log \\sqrt{27}}{\\log {81}}\\)",
+    "options": {
+      "A": "1/6",
+      "B": "3/8",
+      "C": "1/2",
+      "D": "3/4",
+      "E": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\log \\sqrt{27}}{\\log 81}\\)\n= \\(\\frac{\\log \\sqrt{3^3}}{\\log 3^4}\\)\n= \\(\\frac{\\log 3^{\\frac{3}{2}}}{\\log 3^4}\\)\n= \\(\\frac{\\frac{3}{2} \\log 3}{4 \\log 3}\\)\n= \\(\\frac{\\frac{3}{2}}{4}\\)\n= \\(\\frac{3}{8}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23194",
+    "passage": ""
   }
 ]
