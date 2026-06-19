@@ -1825,5 +1825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50395",
     "passage": ""
+  },
+  {
+    "id": 50396,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If the solution set of \\(x^{2} + kx - 5 = 0\\) is (-1, 5), find the value of k.",
+    "options": {
+      "A": "-6",
+      "B": "-4",
+      "C": "4",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given x = (-1, 5) for the equation \\(x^{2} + kx - 5 = 0\\)\n\\(x = -1 \\implies x + 1 = 0\\); \\(x = 5 \\implies x - 5 = 0\\)\n\\((x + 1)(x - 5) = 0\\), expanding,\n\\(x^{2} - 5x + x - 5 = 0   \\therefore  x^{2} - 4x -  5 = 0\\)\n\\(\\therefore\\) k = -4.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50396",
+    "passage": ""
   }
 ]
