@@ -1663,5 +1663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73043",
     "passage": ""
+  },
+  {
+    "id": 73044,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Kí ni ó máa ń wà ní iparí létà?",
+    "options": {
+      "A": "Àdirési akolétà",
+      "B": "Ádírési eni ti a kọ létà sí",
+      "C": "Kókó létà",
+      "D": "Orúkọ eni tí ó ko létà"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73044",
+    "passage": ""
   }
 ]
