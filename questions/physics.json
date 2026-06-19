@@ -5017,5 +5017,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12792",
     "passage": ""
+  },
+  {
+    "id": 12793,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a reverse biased junction diode, current flows in by",
+    "options": {
+      "A": "positive holes alone",
+      "B": "majority carriers",
+      "C": "electron alone",
+      "D": "minority carriers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12793",
+    "passage": ""
   }
 ]
