@@ -2854,5 +2854,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11141",
     "passage": ""
+  },
+  {
+    "id": 11143,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The diagram above shows a solid figure with base PQ and center of gravity G on a inclined plane. Which of the following statements is correct",
+    "options": {
+      "A": "The solid will fall over if the vertical line through G lies outside the base",
+      "B": "The solid will fall over if the vertical line through  lies inside the base",
+      "C": "The solid will not fall over if the vertical line through G lies outside the base",
+      "D": "The solid can never fall over"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2717003028_phy19996.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888518/myschool/physics/2717003028_phy19996.jpg",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11143",
+    "passage": ""
   }
 ]
