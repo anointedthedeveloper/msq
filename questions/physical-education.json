@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64164",
     "passage": ""
+  },
+  {
+    "id": 64165,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following best describes physical fitness?",
+    "options": {
+      "A": "lift heavy load",
+      "B": "overcome stress",
+      "C": "perform work",
+      "D": "relate freely"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Physical fitness is mostly associated with the ability to overcome stress.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64165",
+    "passage": ""
   }
 ]
