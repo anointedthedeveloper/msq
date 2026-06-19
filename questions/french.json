@@ -1959,5 +1959,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48205",
     "passage": ""
+  },
+  {
+    "id": 48206,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Le deuxiéme type de traitement peut",
+    "options": {
+      "A": "faire réapparaitre le cancer",
+      "B": "conduire à la perte du sein",
+      "C": "reconstituer la glande mammaire",
+      "D": "render inpossible la reconstruction"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/l9oVGP5HZTjVzTaEclzFmFH5Fb8nG4FuDJIZZ5KN.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898430/myschool/french/l9oVGP5HZTjVzTaEclzFmFH5Fb8nG4FuDJIZZ5KN.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48206",
+    "passage": ""
   }
 ]
