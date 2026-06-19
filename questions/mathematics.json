@@ -9091,5 +9091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9358",
     "passage": ""
+  },
+  {
+    "id": 9359,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A cliff on the bank of a river is 300 meter high. if the angle of depression of a point on the opposite side of the river is 60º, find the width of the river?",
+    "options": {
+      "A": "100m",
+      "B": "75√3 m",
+      "C": "100√3m",
+      "D": "200√3m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tan 60° = \\(\\frac{300}{\\text{x}}\\)\nx = \\(\\frac{300}{tan 60}\\)\nx = \\(\\frac{300}{\\sqrt{3}}\\)\nx =  \\(\\frac{300}{\\sqrt{3}}\\) x  \\(\\frac{\\sqrt{3}}{\\sqrt{3}}\\)\nx = \\(\\frac{300\\sqrt{3}}{3}\\)\nx = 100\\(\\sqrt{3}\\)m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9359",
+    "passage": ""
   }
 ]
