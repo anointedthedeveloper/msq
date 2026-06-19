@@ -1537,5 +1537,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/583",
     "passage": ""
+  },
+  {
+    "id": 584,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option which is nearest in meaning to the sentences in each of the following questions: The dog was limping. It appeared that one of its legs might have been injured",
+    "options": {
+      "A": "The dog was limping as if it had an injured leg",
+      "B": "The dog was limping as it had an injured leg",
+      "C": "The dog was limping so it had an injured leg",
+      "D": "The dog was limping so as it had an injured leg",
+      "E": "The dog was limping for it had an injured leg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"It appeared that one of its legs might have been injured.” This means the injury is not confirmed — it only seems so .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/584",
+    "passage": ""
   }
 ]
