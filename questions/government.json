@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/138",
     "passage": ""
+  },
+  {
+    "id": 139,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The application of the principle of separation of powers seems impracticable because powers is",
+    "options": {
+      "A": "delegated",
+      "B": "centralized",
+      "C": "fused",
+      "D": "separated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/139",
+    "passage": ""
   }
 ]
