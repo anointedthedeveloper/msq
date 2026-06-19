@@ -1493,5 +1493,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/580",
     "passage": ""
+  },
+  {
+    "id": 581,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nWe got to the hall after the play ....",
+    "options": {
+      "A": "is started",
+      "B": "was starting",
+      "C": "had started",
+      "D": "has started",
+      "E": "would start"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/581",
+    "passage": ""
   }
 ]
