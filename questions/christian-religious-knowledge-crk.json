@@ -1757,5 +1757,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/996",
     "passage": ""
+  },
+  {
+    "id": 999,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "...was a persecutor of the church before his conversion",
+    "options": {
+      "A": "Barnabas",
+      "B": "Matthias",
+      "C": "James",
+      "D": "Silas",
+      "E": "Paul"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/999",
+    "passage": ""
   }
 ]
