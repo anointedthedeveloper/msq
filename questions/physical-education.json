@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64172",
     "passage": ""
+  },
+  {
+    "id": 64187,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are types of passes in basketball except",
+    "options": {
+      "A": "bounce",
+      "B": "chest",
+      "C": "hook",
+      "D": "lay-up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Lay-up is not a type of pass in basketball rather it is a type of dribble in basketball",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64187",
+    "passage": ""
   }
 ]
