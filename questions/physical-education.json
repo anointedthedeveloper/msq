@@ -5268,5 +5268,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70848",
     "passage": ""
+  },
+  {
+    "id": 70849,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which medication class is commonly used to treat epilepsy?",
+    "options": {
+      "A": "Antihistamines",
+      "B": "Antidepressants",
+      "C": "Antipyretics",
+      "D": "Anticonvulsants"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Anticonvulsants, also known as antiepileptic drugs (AEDs), are medications specifically designed to treat seizures associated with epilepsy. They work by balancing the electrical activity in the brain, reducing the likelihood of seizures occurring.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70849",
+    "passage": ""
   }
 ]
