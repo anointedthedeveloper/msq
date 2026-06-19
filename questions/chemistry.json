@@ -6234,5 +6234,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2651",
     "passage": ""
+  },
+  {
+    "id": 2652,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "2CO(g) + O\\(_2\\)(g) → 2CO\\(_2\\)(g) Given that ΔH[CO]is -110.4 kJmol-1 and ΔH[CO\\(_2\\)] is -393.0 kJmol-1, the energy change for the reaction above is",
+    "options": {
+      "A": "-503.7 kJ",
+      "B": "-282.6 kJ",
+      "C": "+282.6 kJ",
+      "D": "+503.7 kJ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Energy change = ΔH\\(_{product}\\) - ΔH\\(_{reactants}\\)\nGiven: ΔH\\(_{CO_2}\\) = - 393,  ΔH\\(_{CO}\\) = - 110.4 ,  ΔH\\(_{O_2}\\) = 0 (The standard enthalpy of formation for molecular oxygen (O\\(_2\\)) is zero because oxygen in its diatomic form (O\\(_2\\)) is the most stable form of oxygen under standard conditions).\nEnergy change (ΔH) = ΔH\\(_{CO_2}\\) - (ΔH\\(_{CO}\\) + ΔH\\(_{O_2}\\)) = - 393 - ( - 110.4 + 0) = - 393 + 110.4\n= -282.6 kJ\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2652",
+    "passage": ""
   }
 ]
