@@ -6822,5 +6822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2957",
     "passage": ""
+  },
+  {
+    "id": 2958,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "2H\\(_2\\) + O\\(_2\\) → 2H\\(_2\\)O    ΔH = - 571kJ In the equation above, how much heat will be liberated if 12.0g of hydrogen is burnt in excess oxygen?",
+    "options": {
+      "A": "-1142 kJ",
+      "B": "-571 kJ",
+      "C": "+1142 kJ",
+      "D": "-1713 kJ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2H\\(_2\\) + O\\(_2\\) → 2H\\(_2\\)O   ΔH = -571kJ\nFor Hydrogen, Number of moles = \\(\\frac{mass}{Molar mass}\\)\nStoichiometrically,       2    =   \\(\\frac{mass}{2}\\)\nMass of Hydrogen = 2 x 2 = 4g If 4.0g of Hydrogen burns in O\\(_2\\) to produce - 571 kJ of energy ∴ 12.0g of Hydrogen will burn in O\\(_2\\) to produce  x kJ of energy x  =  \\(\\frac{{12}\\times{- 571}}{4}\\)\n=  - 1713kJ\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2958",
+    "passage": ""
   }
 ]
