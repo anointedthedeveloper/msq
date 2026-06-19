@@ -11947,5 +11947,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4476",
     "passage": ""
+  },
+  {
+    "id": 4477,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Coffee stains can best be removed by?",
+    "options": {
+      "A": "Kerosine",
+      "B": "turpentine",
+      "C": "a solution of borax in water",
+      "D": "ammonia solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Borax solution refers to sodium borax in water. it is used for cleaning purposes. borax is mildly alkaline and can help break down acidic stains, such as those from coffee\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4477",
+    "passage": ""
   }
 ]
