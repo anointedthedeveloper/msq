@@ -7526,5 +7526,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62541",
     "passage": ""
+  },
+  {
+    "id": 62542,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Identify the logic gate in figure 2",
+    "options": {
+      "A": "AND gate",
+      "B": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/JPxpQd7xyvRuBJCdhbc8AmwQgzLINNL0KEOUW34Y.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781902585/myschool/computer-studies/JPxpQd7xyvRuBJCdhbc8AmwQgzLINNL0KEOUW34Y.jpg",
+    "correct_answer": "B",
+    "explanation": "The figure above is  the NAND gate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62542",
+    "passage": ""
   }
 ]
