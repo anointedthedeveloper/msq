@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75204",
     "passage": ""
+  },
+  {
+    "id": 75205,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أين تقع مكة المكرمة؟",
+    "options": {
+      "A": "مصر",
+      "B": "الیمن",
+      "C": "السعودية",
+      "D": "العراق"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mecca is located in present-day Saudi Arabia, a holy city.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75205",
+    "passage": ""
   }
 ]
