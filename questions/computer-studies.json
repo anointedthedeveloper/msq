@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/57672",
     "passage": ""
+  },
+  {
+    "id": 57683,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A similarity between data and information is that both?",
+    "options": {
+      "A": "can be displayed on the monitor",
+      "B": "are computer inputs",
+      "C": "are processed facts",
+      "D": "are computer results"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Both data and information can be represented in various formats, such as numbers, text, images, and audio. Hence, OPTION A is Correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/57683",
+    "passage": ""
   }
 ]
