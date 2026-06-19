@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64256",
     "passage": ""
+  },
+  {
+    "id": 64259,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Deficiency in vitamin C in the body leads to",
+    "options": {
+      "A": "Anaemia",
+      "B": "diarrhea",
+      "C": "goiter",
+      "D": "scurvy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Deficiency in Vitamin C causes scurvy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64259",
+    "passage": ""
   }
 ]
