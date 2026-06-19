@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76284",
     "passage": ""
+  },
+  {
+    "id": 76286,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The triad above is in its",
+    "options": {
+      "A": "third inversion",
+      "B": "second inversion",
+      "C": "root position",
+      "D": "first inversion"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/akUWrUQLbLsWZRrFuunWfs4BaqaDlblT9G3QJEfb.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890409/myschool/music/akUWrUQLbLsWZRrFuunWfs4BaqaDlblT9G3QJEfb.png",
+    "correct_answer": "D",
+    "explanation": "The triad is in its first inversion . In music theory, a triad is in first inversion when the third of the chord is the lowest note (the bass note). Looking at the staff, the notes shown are F, Ab, and Db. Since the F (the third of a Db major triad) is at the bottom, it is classified as a first inversion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76286",
+    "passage": ""
   }
 ]
