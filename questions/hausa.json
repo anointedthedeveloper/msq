@@ -606,5 +606,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73435",
     "passage": ""
+  },
+  {
+    "id": 73436,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Fito da wakilin suna na uku kuma jam'i.",
+    "options": {
+      "A": "su",
+      "B": "ita",
+      "C": "ku",
+      "D": "mu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The third person plural possessive pronoun is: Answer: Su (Su is the correct answer, as it is the third person plural possessive pronoun. Ita i second person singular feminine, ku is second person singular masculine, mu is first person plural, and shi is third person singular masculine)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73436",
+    "passage": ""
   }
 ]
