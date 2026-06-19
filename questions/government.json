@@ -9161,5 +9161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/3084",
     "passage": ""
+  },
+  {
+    "id": 3087,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The agency responsible for investigating allegations of maladministration in the civil service is the",
+    "options": {
+      "A": "Federal Civil Service Commission",
+      "B": "Code of Conduct Bureau",
+      "C": "Public Comlaints Commission",
+      "D": "Federal Character Commission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Public Complaints Commission (PCC) is the agency responsible for investigating allegations of maladministration in the civil service and other public institutions in Nigeria. It serves as an ombudsman , handling complaints from the public about injustice, corruption, and administrative inefficiency.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/3087",
+    "passage": ""
   }
 ]
