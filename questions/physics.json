@@ -13249,5 +13249,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21256",
     "passage": ""
+  },
+  {
+    "id": 21257,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Two parallel conductors carry equal currents in the same direction. Which of the following statement is not a correct observation?",
+    "options": {
+      "A": "Each of teh conductors will experience a force",
+      "B": "Each of the conductors can move",
+      "C": "The forces on the conductors will be equal",
+      "D": "There are concentric lines of force around each conductor",
+      "E": "The two conductors will repel each other"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21257",
+    "passage": ""
   }
 ]
