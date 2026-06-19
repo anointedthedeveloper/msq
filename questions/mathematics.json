@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/539",
     "passage": ""
+  },
+  {
+    "id": 543,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Evaluate: \\(\\int^{z}_{0}(sin x - cos x) dx \\hspace{1mm} Where\\hspace{1mm}letter\\hspace{1mm}z = \\frac{\\pi}{4}. (\\pi = pi)\\)",
+    "options": {
+      "A": "\\(\\sqrt{2 +1}\\)",
+      "B": "\\(\\sqrt{2 }-1\\)",
+      "C": "\\(-\\sqrt{2 }-1\\)",
+      "D": "\\(1-\\sqrt{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\int_{0}^{z} (\\sin x - \\cos x) \\, dx\\)\nwhere \\( z = \\frac{\\pi}{4} \\), we have:\n\\(\\int_{0}^{\\frac{\\pi}{4}} (\\sin x - \\cos x) \\, dx = \\left[-\\cos x - \\sin x\\right]_{0}^{\\frac{\\pi}{4}}\\)\nEvaluating at the bounds gives:\n\\(-\\sqrt{2} - (-1) = -\\sqrt{2} + 1\\)\nThus, the value of the integral is:\n\\(\\int_{0}^{\\frac{\\pi}{4}} (\\sin x - \\cos x) \\, dx = 1 - \\sqrt{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/543",
+    "passage": ""
   }
 ]
