@@ -5080,5 +5080,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8423",
     "passage": ""
+  },
+  {
+    "id": 8424,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The sum of the interior angle of a regular polygon is 1800\no\n. Calculate the size of one exterior angle of the polygon",
+    "options": {
+      "A": "30 o",
+      "B": "24 o",
+      "C": "18 o",
+      "D": "12 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8424",
+    "passage": ""
   }
 ]
