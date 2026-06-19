@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48049",
     "passage": ""
+  },
+  {
+    "id": 48050,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following towns is famous for the production of calabash?",
+    "options": {
+      "A": "Jos",
+      "B": "Nok",
+      "C": "Oyo",
+      "D": "Benin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48050",
+    "passage": ""
   }
 ]
