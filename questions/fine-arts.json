@@ -2665,5 +2665,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75399",
     "passage": ""
+  },
+  {
+    "id": 75400,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following careers is closely associated with applied arts?",
+    "options": {
+      "A": "Sculptor",
+      "B": "Musician",
+      "C": "Fashion designer",
+      "D": "Dancer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Applied arts add artistic design to everyday, useful objects. A fashion designer is an applied artist because they create clothing that is both creative and practical.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75400",
+    "passage": ""
   }
 ]
