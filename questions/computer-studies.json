@@ -17544,5 +17544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69843",
     "passage": ""
+  },
+  {
+    "id": 69844,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following data is alpha-numeric?",
+    "options": {
+      "A": "568",
+      "B": "10.00",
+      "C": "SS3",
+      "D": "Twenty-five"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The alpha-numeric data is a combination of alphabetic and numeric characters. Let's check each option: 568 - This is numeric data because it contains only numbers. SS3 - This is alpha-numeric data because it contains both alphabetic characters (\"SS\") and a numeric character (\"3\"). 10.00 - This is numeric data because it contains numbers and a decimal point, which is still considered numeric. Twenty-five - This is alphabetic data because it contains only letters and represents a textual representation of the number 25. So, the alpha-numeric data among the options is \"SS3\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69844",
+    "passage": ""
   }
 ]
