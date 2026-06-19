@@ -1713,5 +1713,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/613",
     "passage": ""
+  },
+  {
+    "id": 614,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentence:\nIf he had left home earlier, he .... late",
+    "options": {
+      "A": "would not be",
+      "B": "would have not be",
+      "C": "would not been",
+      "D": "would have been not",
+      "E": "would not have been"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The correct option is '' would not have been''.\nWould is a conditional mood. “ Have + been ” marks the past tense. As you may know, conditional grammar expresses an idea that is not real. It didn't happen\nFrom the above statement, we can see that ,he didn't leave earlier, so he  arrived late at his destination.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/614",
+    "passage": ""
   }
 ]
