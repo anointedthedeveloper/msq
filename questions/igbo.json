@@ -1866,5 +1866,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73770",
     "passage": ""
+  },
+  {
+    "id": 73771,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Write 260 in Igbo. Narị abụọ na",
+    "options": {
+      "A": "isii",
+      "B": "iri isii",
+      "C": "itoọlụ",
+      "D": "isii isii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In Igbo language, \"narị\" means \"hundred\", \"abụọ\" means \"two\", and \"iri\" means \"ten\". To express \"260\" in Igbo, you combine \"narị abụọ\" (two hundred) with \"iri isii\" (sixty) to get \"narị abụọ na iri isii\". Therefore, \"260\" in Igbo is indeed \"Narị abụọ na iri isii\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73771",
+    "passage": ""
   }
 ]
