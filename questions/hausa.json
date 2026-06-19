@@ -963,5 +963,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73525",
     "passage": ""
+  },
+  {
+    "id": 73574,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Gano jimla korau a wad'annan.",
+    "options": {
+      "A": "Kar ka zo gobe",
+      "B": "Ya zo jiya\r\n\r\nC",
+      "C": "Ta iya kitso",
+      "D": "Ta yi zugu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Which of the following is a feminine noun? Answer: Mota (Mota is a feminine noun, while the other options are masculine nouns) Identify the sentence with a subordinate clause. Answer: A. Kar ka zo gobe (This sentence contains a subordinate clause, while the other options do not)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73574",
+    "passage": ""
   }
 ]
