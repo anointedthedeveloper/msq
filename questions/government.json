@@ -1805,5 +1805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1024",
     "passage": ""
+  },
+  {
+    "id": 1026,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The main legislative body in Nigeria between 1966 and 1975 was the",
+    "options": {
+      "A": "Supreme Military Council",
+      "B": "Armed Forces Ruling Council",
+      "C": "Provisional Ruling Council",
+      "D": "National Security Council"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1026",
+    "passage": ""
   }
 ]
