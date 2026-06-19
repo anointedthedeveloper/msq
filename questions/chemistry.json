@@ -10918,5 +10918,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4307",
     "passage": ""
+  },
+  {
+    "id": 4308,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "For a given solute, the concentration of its saturated solution in different solvents are",
+    "options": {
+      "A": "the same at the same temperature",
+      "B": "different at the same temperature",
+      "C": "the same at different temperature",
+      "D": "constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4308",
+    "passage": ""
   }
 ]
