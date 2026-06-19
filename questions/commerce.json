@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/800",
     "passage": ""
+  },
+  {
+    "id": 801,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1995",
+    "question": "The insurance policy which provides full cover against all risks at sea is known as",
+    "options": {
+      "A": "Policy with Particular Average",
+      "B": "Policy Free of Particular Average",
+      "C": "Marine Freight Insurance",
+      "D": "Marine Voyage Policy Insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/801",
+    "passage": ""
   }
 ]
