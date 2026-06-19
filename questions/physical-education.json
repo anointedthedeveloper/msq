@@ -6296,5 +6296,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76483",
     "passage": ""
+  },
+  {
+    "id": 76485,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In which city was the 26th edition of the NUGA Games held in 2022?",
+    "options": {
+      "A": "Lagos",
+      "B": "Abeokuta",
+      "C": "Abuja",
+      "D": "Benin City"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The 26th NUGA Games took place in Lagos in 2022, hosted by the University of Lagos (UNILAG). It was notable for its high level of organization, participation from over 70 universities, and the return of NUGA after the COVID-19 pandemic disruptions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76485",
+    "passage": ""
   }
 ]
