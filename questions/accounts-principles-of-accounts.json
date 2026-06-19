@@ -4702,5 +4702,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5510",
     "passage": ""
+  },
+  {
+    "id": 5511,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Given: cash book item: Paid to suppliers N10,800 Expenses paid N6,900 Drawings made N900 Balances at start N15,750 Balances at end N3,870 Drawings from bank to shop N1,720 Determine the receipt from debtors?",
+    "options": {
+      "A": "N22,470",
+      "B": "N17,470",
+      "C": "N8,440",
+      "D": "N5,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Starting Balance: N15,750, Ending Balance: N3,870,\nTotal Cash Outflows:\nPaid to suppliers: N10,800\nExpenses paid: N6,900\nDrawings made: N900\nDrawings from bank to shop: N1,720\nTotal Cash Outflows = N10,800 + N6,900 + N900 + N1,720 = N20,320\nNet Cash Movement = Ending Balance - Starting Balance = N3,870 - N15,750 = -N11,880\nReceipts from Debtors = Total Cash Inflows = Ending Balance − Starting Balance + Total Cash Outflows = N3,870 + N20,320 − N15,750 = N8,440.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5511",
+    "passage": ""
   }
 ]
