@@ -4143,5 +4143,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58700",
     "passage": ""
+  },
+  {
+    "id": 58701,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following formulas would calculate the total score of ONYEBUEKE DEBORAH in the five subjects",
+    "options": {
+      "A": "=SUM(B2:B6)",
+      "B": "=SUM(A6:G6)",
+      "C": "=SUM(A2:A6)",
+      "D": "=SUM(B6:F6)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58701",
+    "passage": ""
   }
 ]
