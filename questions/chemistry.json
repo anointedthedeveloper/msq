@@ -12598,5 +12598,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4685",
     "passage": ""
+  },
+  {
+    "id": 4687,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Two hydrocarbons X and Y were treated with bromine water. X decolorised the solution and Y did not not. Which class of compound does Y belong?",
+    "options": {
+      "A": "Benzene",
+      "B": "Alkynes",
+      "C": "Alkenes",
+      "D": "Alkanes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Bromine water is an orange solution of bromine. It becomes colorless when it is shaken with an alkene. Alkenes can decolorize bromine water, but alkanes cannot.\nX is ethene which decolorizes bromine water showing that ethene is unsaturated.\nY is an alkane.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4687",
+    "passage": ""
   }
 ]
