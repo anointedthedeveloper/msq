@@ -3474,5 +3474,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61857",
     "passage": ""
+  },
+  {
+    "id": 61858,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "A/AN is a virus program that copies and multiplies itself by using computer networks and security flaws?",
+    "options": {
+      "A": "Asimov 1539",
+      "B": "Elkern",
+      "C": "Polyboot.B",
+      "D": "Stator",
+      "E": "Worm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A worm( a type of malware) is a virus program that copies and multiplies itself by using computer networks and security flaws. A classic worm example is the I LOVE YOU virus discovered in 2000. Another worm, Stuxnet, was found in July 2010.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61858",
+    "passage": ""
   }
 ]
