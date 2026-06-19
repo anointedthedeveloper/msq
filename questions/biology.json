@@ -2616,5 +2616,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1237",
     "passage": ""
+  },
+  {
+    "id": 1238,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "if three 30 cm lengths of glass tubes are tightly packed with clay, sand and loamy soils respectively and then stood in a beaker of water for one week, the level of water will be",
+    "options": {
+      "A": "lowest in the tube with clay",
+      "B": "the same in all tubes",
+      "C": "lowest in the tube with loamy soil",
+      "D": "highest in the tube with sandy soil",
+      "E": "lowest in the tube with sandy soil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "capillarity refers to how well water rises up in the soil. from the capillarity experiment, the water rises by capillarity fastest in the sand, followed by the loamy soil, and is slowest in the clay soil. But after a day or two, the water fails to rise any farther in the sand, whereas in the clay it continues to rise until it reaches the top of the tube while the level in the loam continues to be intermediate but may later reach the top of the tube as in the clay.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1238",
+    "passage": ""
   }
 ]
