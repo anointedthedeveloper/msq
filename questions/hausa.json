@@ -7550,5 +7550,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75997",
     "passage": ""
+  },
+  {
+    "id": 76186,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wadanne daga cikin wadannan kalmomi ne masu ma'anar kusanci?",
+    "options": {
+      "A": "Gida - Gari",
+      "B": "Tsoho - Yaro",
+      "C": "Gida - Daki",
+      "D": "Kasuwa - Gona"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Gida\" da \"daki\" suna da alaka ta kusanci wurare a gida.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76186",
+    "passage": ""
   }
 ]
