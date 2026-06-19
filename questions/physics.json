@@ -3274,5 +3274,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11737",
     "passage": ""
+  },
+  {
+    "id": 11739,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The correct position for a fuse in the diagram above is",
+    "options": {
+      "A": "between P and Q",
+      "B": "Q",
+      "C": "S",
+      "D": "P"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16306804956_phy200039.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888720/myschool/physics/16306804956_phy200039.jpg",
+    "correct_answer": "D",
+    "explanation": "In the provided circuit diagram, the correct position for a fuse is between the \"Line\" connection and the component labeled \"P\".\nThe purpose of a fuse is to protect the circuit and the connected device from excessive current flow that could potentially cause damage. By placing the fuse at position P, it will be in series with the \"live\" or \"hot\" wire, allowing it to interrupt the circuit if the current exceeds the fuse's rated capacity.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11739",
+    "passage": ""
+  },
+  {
+    "id": 11743,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If current flows in the direction of the arrows in the solenoid above, the north pole is at",
+    "options": {
+      "A": "P",
+      "B": "Y",
+      "C": "X",
+      "D": "Q"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6gVKTPtN5VMrUFqPR046TnB7fjrJnAQ1PIl5XPO1.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888754/myschool/physics/6gVKTPtN5VMrUFqPR046TnB7fjrJnAQ1PIl5XPO1.png",
+    "correct_answer": "D",
+    "explanation": "In a solenoid, the north pole is determined using the right-hand grip rule: if the current flows in the direction of the arrows, the north pole is at the end where the thumb points when the fingers follow the current. Therefore, the north pole is at the end labeled Q.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11743",
+    "passage": ""
   }
 ]
