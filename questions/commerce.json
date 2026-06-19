@@ -12705,5 +12705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7297",
     "passage": ""
+  },
+  {
+    "id": 7299,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A new company requiring a large amount of equity finance may source funds from the?",
+    "options": {
+      "A": "capital market",
+      "B": "central bank",
+      "C": "money market",
+      "D": "commercial banks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Commercial banks lend large amounts of funds to businesses or corporate entities at a predetermined interest rate. They only lend to companies requiring medium to long-term finances, which is usually large scale.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7299",
+    "passage": ""
   }
 ]
