@@ -6378,5 +6378,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2607",
     "passage": ""
+  },
+  {
+    "id": 2608,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "If an animal is very active and has good muscular control, it is likely to have well-developed",
+    "options": {
+      "A": "Olfactory lobes",
+      "B": "Cerebral hemisphere",
+      "C": "Optic lobes",
+      "D": "Cerebellum",
+      "E": "Spinal cord"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The cerebellum is the part of the brain primarily responsible for coordinating voluntary movement, balance, and muscular control. Animals that are highly active and exhibit precise motor skills—such as birds in flight or mammals running—tend to have a significantly well-developed cerebellum to manage these complex physical tasks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2608",
+    "passage": ""
   }
 ]
