@@ -12919,5 +12919,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21234",
     "passage": ""
+  },
+  {
+    "id": 21236,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following statements is/are not correct about image formed by a plane mirror?\nI. The magnification produced is 1\nII. The image distance is same as the object distance\nIII. The image is real\nIV. The image is laterally inverted",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I & II only",
+      "E": "II & IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21236",
+    "passage": ""
   }
 ]
