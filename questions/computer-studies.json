@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60250",
     "passage": ""
+  },
+  {
+    "id": 60251,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following statements is not true about a computer file?",
+    "options": {
+      "A": "It is very fast to access any record within a file",
+      "B": "It is created electronically",
+      "C": "Initial setup is inexpensive",
+      "D": "File creation and access are less laborious"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60251",
+    "passage": ""
   }
 ]
