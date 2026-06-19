@@ -724,5 +724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/372",
     "passage": ""
+  },
+  {
+    "id": 373,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Smooth oval hills composed mainly of boulders or glacial sands and gravels are known as",
+    "options": {
+      "A": "eskers",
+      "B": "drumlins",
+      "C": "moraines",
+      "D": "aretes",
+      "E": "pyramidal peaks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/373",
+    "passage": ""
   }
 ]
