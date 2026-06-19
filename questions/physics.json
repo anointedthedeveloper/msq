@@ -11406,5 +11406,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14467",
     "passage": ""
+  },
+  {
+    "id": 14469,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A radioactive isotope has a decay constant of 10-5s4. Calculate half life",
+    "options": {
+      "A": "6.93 x 10 -5 s",
+      "B": "6.93 x 10 5 s",
+      "C": "6.93 x10 4 s",
+      "D": "6.93 x 10 -4 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "T (1)/2 = (0.693)/λ = (0.693)/10-5 = 0.693 x 105 = 6.93 x 104 sec\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14469",
+    "passage": ""
   }
 ]
