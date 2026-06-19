@@ -6780,5 +6780,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2955",
     "passage": ""
+  },
+  {
+    "id": 2956,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When iron is exposed to moisture and it rusts, the value of ΔG for the reaction is",
+    "options": {
+      "A": "neutral",
+      "B": "zero",
+      "C": "positive",
+      "D": "negative"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The rusting of iron is a spontaneous reaction, meaning it occurs naturally without external energy input, as iron oxidizes to form rust (iron oxide) when exposed to oxygen and moisture. Although, it is a slow process, but  there is an increase in entropy (ΔS) as well as the emission of heat which makes it a spontaneous reaction as the resulting change in Gibbs free energy will be negative.i.e ΔG = - ve\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2956",
+    "passage": ""
   }
 ]
