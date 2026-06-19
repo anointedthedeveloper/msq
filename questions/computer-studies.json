@@ -20339,5 +20339,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76753",
     "passage": ""
+  },
+  {
+    "id": 76755,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In a computer, the set of instructions that directs it in performing a particular task is called",
+    "options": {
+      "A": "information",
+      "B": "program",
+      "C": "data",
+      "D": "file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a computer, a program is a set of instructions that directs the computer to perform a particular task. These instructions are written in a programming language that the computer can understand and execute.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76755",
+    "passage": ""
   }
 ]
