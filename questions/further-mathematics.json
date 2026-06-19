@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50167",
     "passage": ""
+  },
+  {
+    "id": 50170,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "How many ways can 6 students be seated around a circular table?",
+    "options": {
+      "A": "36",
+      "B": "48",
+      "C": "120",
+      "D": "720"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In a circular seating arrangement, we fix the position of one person and then rotate the others, so we have\n\\((6-1)! = 5! = 5\\times4\\times3\\times2 = 120\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50170",
+    "passage": ""
   }
 ]
