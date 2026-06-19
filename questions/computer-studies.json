@@ -2309,5 +2309,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61749",
     "passage": ""
+  },
+  {
+    "id": 61751,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of the following is not among the features of presentation package?",
+    "options": {
+      "A": "Animation",
+      "B": "Insertion of range and cell",
+      "C": "Insertion of video and audio",
+      "D": "Slide",
+      "E": "Slide show"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61751",
+    "passage": ""
   }
 ]
