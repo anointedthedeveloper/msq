@@ -4603,5 +4603,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75573",
     "passage": ""
+  },
+  {
+    "id": 75574,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Lequel de ces pays a une frontière avec le Togo ?",
+    "options": {
+      "A": "Niger",
+      "B": "Bénin",
+      "C": "Algérie",
+      "D": "Libéria"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Benin shares a border with Togo to the west in West Africa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75574",
+    "passage": ""
   }
 ]
