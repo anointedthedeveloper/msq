@@ -2774,5 +2774,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66838",
     "passage": ""
+  },
+  {
+    "id": 66839,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The procedure to be followed by a mailroom clerk in handling incoming mails is",
+    "options": {
+      "A": "receiving, sorting, opening scrutinizing",
+      "B": "sorting, receiving, opening, scrutinizing",
+      "C": "receiving, sorting, scrutinizing. opening",
+      "D": "opening, receiving, sorting, scrutinizing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The steps in handling mail are:\n-receiving the mail - sorting the mail - opening the mail - scrutiny of the contents - date stamping - recording the mail - distribution of mail - follow up action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66839",
+    "passage": ""
   }
 ]
