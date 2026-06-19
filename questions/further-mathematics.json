@@ -2580,5 +2580,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50431",
     "passage": ""
+  },
+  {
+    "id": 50432,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(\\log_{3} x = \\log_{9} 3\\), find the value of x.",
+    "options": {
+      "A": "\\(3^{2}\\)",
+      "B": "\\(3^{\\frac{1}{2}}\\)",
+      "C": "\\(3^{\\frac{1}{3}}\\)",
+      "D": "\\(2^{13}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_{3} x = \\log_{9} 3  \\implies \\log_{3} x = \\log_{9} 9^{\\frac{1}{2}} = \\frac{1}{2}\\log_{9} 9\\)\n\\(\\log_{3} x = \\frac{1}{2} \\)\n\\(\\therefore x = 3^{\\frac{1}{2}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50432",
+    "passage": ""
   }
 ]
