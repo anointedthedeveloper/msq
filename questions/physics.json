@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/313",
     "passage": ""
+  },
+  {
+    "id": 317,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A car of mass 800kg attains a speed of 25m/s in 20 secs. The power developed in the engine is",
+    "options": {
+      "A": "1 . 25 x 10 4 W",
+      "B": "2 . 50 x 10 4 W",
+      "C": "1 . 25 x 10 6 W",
+      "D": "2 . 50 x 10 6 W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To calculate the power developed in the engine, we need to determine the work done and the time taken.\n1. Calculate the final kinetic energy (KE) of the car: \\(KE = \\frac{1}{2}mv^2 \\) where \\( m = 800 \\text{ kg} \\) and \\( v = 25 \\text{ m/s} \\).\n\\( KE = \\frac{1}{2} \\times 800 \\, \\text{kg} \\times (25 \\, \\text{m/s})^2 \\) \\( KE = 0.5 \\times 800 \\times 625 = 250000 \\text{ J} \\, (\\text{joules})\\)\n2. Calculate the power (P)  developed in the engine using the formula: \\(P = \\frac{W}{t} \\) where \\( W \\) is the work done (in this case, equal to the kinetic energy calculated) and \\( t \\) is the time taken.\n\\(P = \\frac{250000 \\, \\text{J}}{20 \\, \\text{s}} = 12500 \\text{ W} \\, (\\text{watts}) \\)\nThus, the power developed in the engine is 12500 watts (or 12.5 kW).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/317",
+    "passage": ""
   }
 ]
