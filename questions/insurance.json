@@ -2180,5 +2180,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49889",
     "passage": ""
+  },
+  {
+    "id": 49892,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "To insure any property, the insured must have",
+    "options": {
+      "A": "insurable interest",
+      "B": "goodwill",
+      "C": "premium",
+      "D": "valuable consideration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Insurable interest is defined as the reasonable concern of a person to obtain insurance for any individual or property against unforeseen events such as death, losses, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49892",
+    "passage": ""
   }
 ]
