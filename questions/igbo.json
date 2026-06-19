@@ -2223,5 +2223,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73787",
     "passage": ""
+  },
+  {
+    "id": 73788,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ụlọ ọle ka nna gị nwere?",
+    "options": {
+      "A": "M nwere ụlọ abụọ",
+      "B": "Anyị nwere ya anọ",
+      "C": "Nna m nwere ụlọ abụọ",
+      "D": "Ha nwere ụlọ anọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Nna m nwere ụlọ abụọ (which means \"My father has two houses\"). The question asks \"How many houses does your father have?\" and the answer is \"Two houses\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73788",
+    "passage": ""
   }
 ]
