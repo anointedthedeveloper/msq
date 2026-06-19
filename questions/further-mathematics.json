@@ -3798,5 +3798,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50589",
     "passage": ""
+  },
+  {
+    "id": 50591,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Integrate \\((x - \\frac{1}{x})^{2}\\) with respect to x.",
+    "options": {
+      "A": "\\(\\frac{1}{3}(x - \\frac{1}{x})^{3} + c\\)",
+      "B": "\\(\\frac{x^{3}}{3} - x\\sqrt{\\frac{1}{x^{3}}} + c\\)",
+      "C": "\\(\\frac{x^{3}}{3} - 2x + \\frac{1}{x^{3}} + c\\)",
+      "D": "\\(\\frac{x^3}{3} - 2x - \\frac{1}{x} + c\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\((x - \\frac{1}{x})^{2} = x^2 - 2 + \\frac{1}{x^2}\\)\n\\(\\int (x^2 + \\frac{1}{x^2} - 2) \\mathrm {d} x\\)\n= \\(\\int (x^2 + x^{-2} - 2) \\mathrm {d} x\\)\n= \\(\\frac{x^3}{3} - 2x - \\frac{1}{x}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50591",
+    "passage": ""
   }
 ]
