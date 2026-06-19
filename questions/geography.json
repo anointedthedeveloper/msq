@@ -328,5 +328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/354",
     "passage": ""
+  },
+  {
+    "id": 355,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following type of agriculture would you expect to find around a big city in an industrial society such as in Europe?",
+    "options": {
+      "A": "Dairy farming",
+      "B": "Grain farming",
+      "C": "Fish farming",
+      "D": "Animal husbandry",
+      "E": "Intensive subsistence agriculture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/355",
+    "passage": ""
   }
 ]
