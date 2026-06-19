@@ -702,5 +702,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/498",
     "passage": ""
+  },
+  {
+    "id": 499,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The green snake which lives in the green grass is using a perfect ....",
+    "options": {
+      "A": "ambush",
+      "B": "under cover",
+      "C": "camouflage",
+      "D": "shelter",
+      "E": "subterfuge"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence describes how the green snake blends into the green grass, making it difficult to be seen. This is a clear example of camouflage , which refers to the ability to blend in with the surroundings to avoid detection.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/499",
+    "passage": ""
   }
 ]
