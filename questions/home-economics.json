@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73234",
     "passage": ""
+  },
+  {
+    "id": 73235,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The freedom and benefit that is guaranteed to people by law is called ............",
+    "options": {
+      "A": "Right",
+      "B": "Education",
+      "C": "Privilege",
+      "D": "Respect"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A right is a freedom or benefit that is guaranteed to individuals by law, ensuring that they are treated fairly and without discrimination. Rights are universal and inalienable, meaning they cannot be taken away. Examples of rights include the right to life, liberty, and security of person, freedom of speech and expression, and the right to education.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73235",
+    "passage": ""
   }
 ]
