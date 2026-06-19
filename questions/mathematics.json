@@ -2581,5 +2581,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3367",
     "passage": ""
+  },
+  {
+    "id": 3369,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The binary operation * is defined on the set of integers p and q by p*q = pq + p + q. Find 2 * (3 * 4).",
+    "options": {
+      "A": "59",
+      "B": "19",
+      "C": "67",
+      "D": "38"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(p \\ast q = pq + p + q\\)\n\\(2 \\ast (3 \\ast 4) \\)\n\\(3 \\ast 4 = 12 + 3 + 4 = 19\\)\n\\(2 \\ast 19 = 38 + 2 + 19 = 59\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3369",
+    "passage": ""
   }
 ]
