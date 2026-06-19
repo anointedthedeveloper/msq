@@ -7978,5 +7978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14022",
     "passage": ""
+  },
+  {
+    "id": 14024,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Counting of currency notes with moist fingers is based on the principles of?",
+    "options": {
+      "A": "diffusion",
+      "B": "cohesion",
+      "C": "adhesion",
+      "D": "viscosity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "since currency and finger contain unlike molecules, the force involved is adhesion\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14024",
+    "passage": ""
   }
 ]
