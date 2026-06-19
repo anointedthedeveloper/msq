@@ -4113,5 +4113,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1755",
     "passage": ""
+  },
+  {
+    "id": 1756,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "When a salt loses its water of crystallization to the atmosphere on exposure, the process is said to be",
+    "options": {
+      "A": "Efflorescence",
+      "B": "Deliquescence",
+      "C": "Effervescence",
+      "D": "Fluorescence"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A salt that contains water of crystallization is called a hydrated salt. The water molecules attached to the salt are called water of crystallization. When a hydrated salt is exposed to air, it can lose its water of crystallization through evaporation. This process is called efflorescence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1756",
+    "passage": ""
   }
 ]
