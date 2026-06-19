@@ -250,5 +250,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/19",
     "passage": ""
+  },
+  {
+    "id": 20,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Factorize completely \\(x^{2} + 2xy + y^{2} + 3x + 3y - 18\\).",
+    "options": {
+      "A": "(x+y+6)(x+y-3)",
+      "B": "(x-y-6)(x-y+3)",
+      "C": "(x-y+6)(x-y-3)",
+      "D": "(x+y-6)(x+y+3)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Expand the options and collect like terms to check which gives the presented expression.\nExpansion of Options A:\n(x+y+6)(x+y-3) → \\(x^2+xy-3x + xy+y^2-3y +6x+6y-18\\)\nCollect like terms: \\(x^2 + xy + xy + y^2 +6x - 3x +6y - 3y - 18\\)\n= \\(x^2 + 2xy + y^2 + 3x + 3y - 18\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/20",
+    "passage": ""
+  },
+  {
+    "id": 21,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. if she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+    "options": {
+      "A": "4≤X≤5",
+      "B": "5≤X≤8",
+      "C": "5≤X≤10",
+      "D": "8≤X≤10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Number of oranges = X; Costing N5X.\nNumber of mangoes = 2X; Costing N8X.\n\\(\\therefore 65 \\leq 5X + 8X \\leq 130\\)\n\\(5 \\leq X \\leq 10\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/21",
+    "passage": ""
+  },
+  {
+    "id": 22,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Three consecutive positive integers k, l and m are such that l\\(^2\\) = 3(k+m). Find the value of m.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "l\\(^2\\) = 3 (k + m)\nSince they are consecutive positive numbers, we have\nl = k+1, m = k+2.\n\\(\\to\\) (k+1)\\(^2\\) = 3(k + k + 2)\nk\\(^2\\) + 2k + 1 = 3(2k + 2)\nk\\(^2\\) + 2k + 1 = 6k + 6\nk\\(^2\\) + 2k - 6k + 1 - 6 = 0\nk\\(^2\\) - 4k - 5 = 0\nk\\(^2\\) - 5k + k - 5 = 0\nk(k - 5) + 1(k - 5) = 0\nk = -1 or 5\nSince k, l and m are positive, then k = 5.\nm = k + 2 = 5 + 2\n= 7.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22",
+    "passage": ""
   }
 ]
