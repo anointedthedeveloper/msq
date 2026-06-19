@@ -9574,5 +9574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14281",
     "passage": ""
+  },
+  {
+    "id": 14282,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The diagram above represents the stress-strain graph for a typical metal rod. What does the X represent?",
+    "options": {
+      "A": "Breaking point",
+      "B": "Yield point",
+      "C": "Elastic limit",
+      "D": "Proportional limit"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6817746970_phy20061.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890419/myschool/physics/6817746970_phy20061.jpg",
+    "correct_answer": "A",
+    "explanation": "In the stress - strain graph shown above, X represents the breaking point of the wire\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14282",
+    "passage": ""
   }
 ]
