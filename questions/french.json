@@ -2692,5 +2692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71086",
     "passage": ""
+  },
+  {
+    "id": 71087,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceElle a travaillé_____la jounée.",
+    "options": {
+      "A": "toutes",
+      "B": "tout",
+      "C": "tous",
+      "D": "toute"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is toute The correct sentence would be: \"Elle a travaillé toute la journée.\" Which translates to \"She worked all day.\" \"Toute\" is a feminine form of \"tout\", which means \"all\" or \"entire\", and it agrees with the feminine noun \"journée\" (day).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71087",
+    "passage": ""
   }
 ]
