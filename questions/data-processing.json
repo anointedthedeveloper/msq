@@ -8546,5 +8546,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72340",
     "passage": ""
+  },
+  {
+    "id": 72341,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The diagram in Figure 1 illustrates process called",
+    "options": {
+      "A": "information processing",
+      "B": "information transmission",
+      "C": "modulation",
+      "D": "synchronization"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6WiJRTi8q6fJ5NJbHcbGc9Ws2fRnN6Lt3emzzUXZ.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912253/myschool/data-processing/6WiJRTi8q6fJ5NJbHcbGc9Ws2fRnN6Lt3emzzUXZ.jpg",
+    "correct_answer": "B",
+    "explanation": "The process is known as information transmission.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72341",
+    "passage": ""
   }
 ]
