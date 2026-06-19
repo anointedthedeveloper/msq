@@ -2581,5 +2581,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75392",
     "passage": ""
+  },
+  {
+    "id": 75394,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following art movements focused on light and quick brushstrokes?",
+    "options": {
+      "A": "Cubism",
+      "B": "Abstract Expressionism",
+      "C": "Impressionism",
+      "D": "Surrealism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Impressionism began in 19th-century France and aims to capture the fleeting effects of light and color. Artists used quick, short brushstrokes and unblended colors to create a shimmering, vibrant impression of a moment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75394",
+    "passage": ""
   }
 ]
