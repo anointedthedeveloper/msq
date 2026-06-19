@@ -1551,5 +1551,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61405",
     "passage": ""
+  },
+  {
+    "id": 61406,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use Figure 4 to answer question 25\nIf N in the flowchart is represented by 10, which of the following conditions is not true?",
+    "options": {
+      "A": "If C > 10, do not pick orange.",
+      "B": "If C = 10, stop picking orange",
+      "C": "If C < 10, keep picking orange",
+      "D": "If C = 10, continue picking orange"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/sVKKSP6ncvHrdA2aguasYqHMOBUImDpLE88g7pbn.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900954/myschool/computer-studies/sVKKSP6ncvHrdA2aguasYqHMOBUImDpLE88g7pbn.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61406",
+    "passage": ""
   }
 ]
