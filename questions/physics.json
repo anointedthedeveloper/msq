@@ -3736,5 +3736,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12038",
     "passage": ""
+  },
+  {
+    "id": 12041,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "an electric cell with nominal voltage E has a resistance of 3Ω connected across it. If the voltage falls to 0.6E, the internal resistance of the cell is",
+    "options": {
+      "A": "1Ω",
+      "B": "2Ω",
+      "C": "3Ω",
+      "D": "4Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "IR = 0.6 X I ( R + r )\nI X 3 = 0.6 X I ( 3 + r )\n3I / 0.6I = 3 + r\n5 = 3 + r\nr = 2 ohms",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12041",
+    "passage": ""
+  },
+  {
+    "id": 12253,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "\\(^{23}_{11}\\)Na + X  → \\(^{20}_9\\)F + \\(^4_2\\)He\nWhat particle is X in the reaction above?",
+    "options": {
+      "A": "Alpha",
+      "B": "Beta",
+      "C": "Neurons",
+      "D": "Gamma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The particle in the reaction is a neutron\n\\(^{23}_{11}\\)Na + \\(^1_0\\)n  → \\(^{20}_9\\)F + \\(^4_2\\)He",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12253",
+    "passage": ""
   }
 ]
