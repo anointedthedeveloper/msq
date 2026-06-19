@@ -10855,5 +10855,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4301",
     "passage": ""
+  },
+  {
+    "id": 4303,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "When sodium trioxocarbonate (IV) decahydrate loses its water of crystallization to the atmosphere, the process is?",
+    "options": {
+      "A": "deliquescence",
+      "B": "efflorescence",
+      "C": "hygroscopic",
+      "D": "effervesecence"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "efflorescence, spontaneous loss of water by a hydrated salt, e.g  Sodium trioxocarbonate (IV) decahydrate \\(Na_2CO_3. 10H_2O)\\) also known as washing soda\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4303",
+    "passage": ""
   }
 ]
