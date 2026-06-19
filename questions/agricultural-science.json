@@ -7432,5 +7432,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/17004",
     "passage": ""
+  },
+  {
+    "id": 17006,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "Coal is an example of",
+    "options": {
+      "A": "igneous rock",
+      "B": "metamorphic rock",
+      "C": "plutonic rock",
+      "D": "volcanic rock",
+      "E": "sedimentary rock"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/17006",
+    "passage": ""
   }
 ]
