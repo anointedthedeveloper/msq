@@ -11847,5 +11847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14495",
     "passage": ""
+  },
+  {
+    "id": 14496,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An air craft attempt to fly due north at 100 kmh-1. If the wind blows against it from east to west at 60 kmh-1, its resultant velocity is?",
+    "options": {
+      "A": "117 kmh -1 , N31 o E",
+      "B": "127 kmh -1 , N31 o E",
+      "C": "117 kmh -1 , N31 o W",
+      "D": "127 kmh -1 , N31 o W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(R^2 = 100^2 + 60^2\\) 10000+3600 = 13600 R = \\(\\sqrt{13600}\\) = 117km 60km & 100km = tanθ = \\(\\frac{60}{100}\\) \\(tan^{-1}\\) 0.6 = 31º west of the North 117km N31ºw\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14496",
+    "passage": ""
   }
 ]
