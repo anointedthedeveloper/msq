@@ -14329,5 +14329,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64811",
     "passage": ""
+  },
+  {
+    "id": 64824,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The program that is loaded into a special area on a microprocessor or ROM on a one-time basis and becomes part of the hardware is called?",
+    "options": {
+      "A": "firmware",
+      "B": "liveware",
+      "C": "software",
+      "D": "utility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64824",
+    "passage": ""
   }
 ]
