@@ -2484,5 +2484,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61812",
     "passage": ""
+  },
+  {
+    "id": 61813,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Every computer system connected to the Internet must have a unique address?",
+    "options": {
+      "A": "Domain name",
+      "B": "Instant message",
+      "C": "Internet protocol",
+      "D": "Internet relay",
+      "E": "Internet service"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61813",
+    "passage": ""
   }
 ]
