@@ -8104,5 +8104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3290",
     "passage": ""
+  },
+  {
+    "id": 3291,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "One mole of a hydrocarbon contains 36g of carbon and its vapour density is 20. The structure of the hydrocarbon is",
+    "options": {
+      "A": "CH 3 C ≡ CH",
+      "B": "CH 3 CH = CH 2",
+      "C": "CH 3 CH 2 C ≡ CH",
+      "D": "CH 3 CH 2 CH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3291",
+    "passage": ""
   }
 ]
