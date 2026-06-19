@@ -2033,5 +2033,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49861",
     "passage": ""
+  },
+  {
+    "id": 49863,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A term insurance policy is cheap because?",
+    "options": {
+      "A": "there is no claim if the insured survives the period",
+      "B": "the claim is small and easy to pay",
+      "C": "there is claim if the insured survives the period",
+      "D": "there is no payment due to the insured"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Term insurance is generally cheaper because the coverage is only provided for a specific period of time. In most cases, the insurance company will never pay out because you will outlive the term and the policy will expire.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49863",
+    "passage": ""
   }
 ]
