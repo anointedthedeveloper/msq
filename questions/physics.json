@@ -3841,5 +3841,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12256",
     "passage": ""
+  },
+  {
+    "id": 12257,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "From the generating station to each substation power is transmitted at a very high voltage so as to reduce",
+    "options": {
+      "A": "hysteresis loss",
+      "B": "eddy current loss",
+      "C": "magnetic flux leakage",
+      "D": "heating in the coils"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Power is transmitted at very high voltages primarily to reduce heating in the coils(cables). High Voltage: Lowers current, minimizing resistive (I\\(^2\\)R) losses, which cause heating. Eddy Currents: While they can be a concern in certain applications, such as transformers, they are not the primary issue in high-voltage transmission.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12257",
+    "passage": ""
   }
 ]
