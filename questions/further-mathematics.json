@@ -2622,5 +2622,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50433",
     "passage": ""
+  },
+  {
+    "id": 50434,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(f : x \\to x^{2}\\) and \\(g : x \\to x + 3\\), where \\(x \\in R\\), find \\(f o g(2)\\).",
+    "options": {
+      "A": "25",
+      "B": "9",
+      "C": "7",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(f : x \\to x^{2} ; g : x \\to x + 3\\)\n\\(g(2) = 2 + 3 = 5\\)\n\\(f o g(2) = f(5) = 5^{2} = 25\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50434",
+    "passage": ""
   }
 ]
