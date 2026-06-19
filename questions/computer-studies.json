@@ -20633,5 +20633,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76863",
     "passage": ""
+  },
+  {
+    "id": 76864,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The path labeled III is the",
+    "options": {
+      "A": "study review",
+      "B": "feasibility study",
+      "C": "system design",
+      "D": "system implementation"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/bLlBc1HIcocycuAG2gMr5BdOCsV3ym2NuZqiAhvV.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905144/myschool/computer-studies/bLlBc1HIcocycuAG2gMr5BdOCsV3ym2NuZqiAhvV.png",
+    "correct_answer": "D",
+    "explanation": "The path labeled 'III' represents the system implementation phase of the software development life cycle (SDLC). System implementation involves translating the system design into a working software product. This phase includes coding, testing, and integrating the various components of the software.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76864",
+    "passage": ""
   }
 ]
