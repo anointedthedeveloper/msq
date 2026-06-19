@@ -1949,5 +1949,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73774"
+  },
+  {
+    "id": 73775,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the name of aeroplane in Igbo?",
+    "options": {
+      "A": "Ọgbatụmtụm",
+      "B": "Ụgbọmmiri",
+      "C": "Ụgbọala",
+      "D": "Ụgbọelu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73775"
   }
 ]
