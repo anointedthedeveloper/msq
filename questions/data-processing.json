@@ -5849,5 +5849,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62597",
     "passage": ""
+  },
+  {
+    "id": 62598,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The protocol for transferring file(s) from one machine to another is",
+    "options": {
+      "A": "SNMP",
+      "B": "SMTP",
+      "C": "FTP",
+      "D": "FAT"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "FTP (File Transfer Protocol) is a protocol used to transfer files between clients and servers on a network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62598",
+    "passage": ""
   }
 ]
