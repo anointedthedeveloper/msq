@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76322",
     "passage": ""
+  },
+  {
+    "id": 76323,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Allemande is a dance in",
+    "options": {
+      "A": "4/4 time",
+      "B": "3/2 time",
+      "C": "6/4 time",
+      "D": "3/4 time"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Allemande is a stately German dance that was a standard fixture of the Baroque instrumental suite. It is characterized by its moderate tempo and quadruple meter (usually 4/4 time), often beginning with a short upbeat (anacrusis).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76323",
+    "passage": ""
   }
 ]
