@@ -16189,5 +16189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7640",
     "passage": ""
+  },
+  {
+    "id": 7641,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Second-tier Securities Market differ from the First-tier Securities Market in that the former is?",
+    "options": {
+      "A": "highly restricted",
+      "B": "regulated by the SEC",
+      "C": "regulated by the NIPC",
+      "D": "less restricted"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The First Tier Securities Market provides a forum for buying and selling of shares of companies in the market. The First-Tier markets are for well established large scale. companies.\nA second-tier security market is a market where securities of companies that cannot be traded in the first-tier security market are quoted. It is for smaller companies which are unable to meet the requirements for listing on the more stringent segment (main market) of the Exchange",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7641",
+    "passage": ""
   }
 ]
