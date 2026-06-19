@@ -4926,5 +4926,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2381",
     "passage": ""
+  },
+  {
+    "id": 2382,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following elements are necessary for the formation of chlorophyll in a plant?",
+    "options": {
+      "A": "magnesium and iron",
+      "B": "Calcium and potassium",
+      "C": "Calcium and sulphur",
+      "D": "Potasium and sulphur",
+      "E": "Phosphorus and potassium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2382",
+    "passage": ""
   }
 ]
