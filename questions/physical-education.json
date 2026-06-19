@@ -4449,5 +4449,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70747",
     "passage": ""
+  },
+  {
+    "id": 70748,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How is the administrative structure of the IOC organized?",
+    "options": {
+      "A": "Director-General, Treasurer, and Executive Committee",
+      "B": "President, Secretary-General, and Board of Directors",
+      "C": "CEO, COO, and Advisory Council",
+      "D": "Chairman, Vice-Chairman, and General Secretary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The IOC is organized with a President, Secretary-General, and Board of Directors.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70748",
+    "passage": ""
   }
 ]
