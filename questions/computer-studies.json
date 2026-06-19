@@ -2353,5 +2353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61754",
     "passage": ""
+  },
+  {
+    "id": 61756,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of these packages is appropriate for preparing payroll of workers?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Microsoft Access",
+      "C": "Microsoft Excel",
+      "D": "Microsoft Word"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61756",
+    "passage": ""
   }
 ]
