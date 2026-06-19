@@ -3925,5 +3925,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7979",
     "passage": ""
+  },
+  {
+    "id": 7981,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Determine the locus of a point inside a square PQRS which is eqidistant from PQ and QR",
+    "options": {
+      "A": "The diagonal QS",
+      "B": "the perpendicular bisector of PQ",
+      "C": "The diagonal PR",
+      "D": "side SR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7981",
+    "passage": ""
   }
 ]
