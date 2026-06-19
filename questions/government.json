@@ -2372,5 +2372,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1209",
     "passage": ""
+  },
+  {
+    "id": 1210,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The citizenship of a country could be acquired through",
+    "options": {
+      "A": "parliamentary legislation",
+      "B": "birth and naturalization",
+      "C": "registeration and arbitration",
+      "D": "presidential proclamation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1210",
+    "passage": ""
   }
 ]
