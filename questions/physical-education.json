@@ -6737,5 +6737,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76508",
     "passage": ""
+  },
+  {
+    "id": 76509,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is an effective method for controlling minor bleeding from a small cut?",
+    "options": {
+      "A": "Wrapping the wound in a tight bandage without applying pressure first.",
+      "B": "Washing the wound with an antiseptic and then leaving it exposed.",
+      "C": "Applying firm pressure to the wound with a clean cloth or bandage.",
+      "D": "Applying a tourniquet just above the cut."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "For minor bleeding (such as from a small cut), the most effective and immediate way to control it is to apply direct, firm pressure using a clean cloth, sterile gauze, or bandage. This pressure helps the blood clot and stops the bleeding.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76509",
+    "passage": ""
   }
 ]
