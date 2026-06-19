@@ -16452,5 +16452,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67844",
     "passage": ""
+  },
+  {
+    "id": 67845,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What generation of computer is characterized by the use of vacuum tubes for circuitry and magnetic drums for main memory?",
+    "options": {
+      "A": "second generation",
+      "B": "fourth generation",
+      "C": "first generation",
+      "D": "third generation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The first generation computer systems used vacuum tubes for circuitry and magnetic drums for main memory, and they were often enormous, taking up entire rooms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67845",
+    "passage": ""
   }
 ]
