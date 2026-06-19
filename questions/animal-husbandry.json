@@ -584,5 +584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49612",
     "passage": ""
+  },
+  {
+    "id": 49613,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "In poultry, nutrients are absorded mainly in the",
+    "options": {
+      "A": "caecum",
+      "B": "proventriculus",
+      "C": "large intestine",
+      "D": "small intestine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Small Intestine in Chicken aids in digestion and nutrient absorption. Composed of the duodenum, jejunum and ileum.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49613",
+    "passage": ""
   }
 ]
