@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73182",
     "passage": ""
+  },
+  {
+    "id": 73183,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Colours which are opposite to each other on the colour wheel are referred to as:",
+    "options": {
+      "A": "Warm colours",
+      "B": "Analogous colours",
+      "C": "Complementary colours",
+      "D": "Cool colours"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Complementary colours are pairs of colours opposite each other on the colour wheel, creating the highest contrast when used together. Examples include:\nRed and green Blue and orange",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73183",
+    "passage": ""
   }
 ]
