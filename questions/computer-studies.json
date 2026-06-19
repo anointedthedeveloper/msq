@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60228",
     "passage": ""
+  },
+  {
+    "id": 60229,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The acronym HTTP stands for________",
+    "options": {
+      "A": "Hyper Text Transfer Protocol",
+      "B": "Higher Transfer Text Protocol",
+      "C": "Hard Text Transfer Protocol",
+      "D": "Higher Text Transfer Protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The acronym HTTP stands for \" HyperText Transfer Protocol ,\" and it's the computer communication protocol used for most communication on the World Wide Web.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60229",
+    "passage": ""
   }
 ]
