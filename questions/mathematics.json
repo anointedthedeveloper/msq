@@ -9049,5 +9049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9335",
     "passage": ""
+  },
+  {
+    "id": 9337,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If y = 3 cos 4x, dy/dx equals?",
+    "options": {
+      "A": "6 sin 8x",
+      "B": "-24 sin 4x",
+      "C": "12 sin 4x",
+      "D": "-12 sin 4x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "y = 3 cos 4x\nApplying product rule:\n\\(\\frac{dy}{dx}\\) = u\\(\\frac{dv}{dx}\\) + v\\(\\frac{du}{dx}\\)\nWhere u = 3 and v = cos 4x\n\\(\\frac{du}{dx}\\) of 3 = 0 and\n\\(\\frac{dv}{dx}\\) of cos 4x = -4sin 4x\n\\(\\frac{dy}{dx}\\) = 3 \\(\\times\\) -4 sin 4x  +   cos 4x \\(\\times\\) 0\n\\(\\frac{dy}{dx}\\) = -12 sin 4x\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9337",
+    "passage": ""
   }
 ]
