@@ -12493,5 +12493,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4502",
     "passage": ""
+  },
+  {
+    "id": 4503,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following is used to hasten the ripening of fruit?",
+    "options": {
+      "A": "Ethene",
+      "B": "Ethanol",
+      "C": "Ethyne",
+      "D": "Ethane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ethylene is a plant hormone produced during fruit ripening which mobilizes the genes to synthesize the enzymes which are responsible for fruit ripening.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4503",
+    "passage": ""
   }
 ]
