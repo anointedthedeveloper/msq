@@ -6319,5 +6319,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9014",
     "passage": ""
+  },
+  {
+    "id": 9035,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If p varies inversely as the cube of q and q varies directly as the square of r, what is the relationship between p and r?",
+    "options": {
+      "A": "p varies directly as r 3",
+      "B": "p varies inversely as r 6",
+      "C": "p varies inversely as 6 √P",
+      "D": "p varies directly as r 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "P ∝ 1/q3 P = K/q3 q3 = K/P q = K/p1/3 But q ∝ r2 q = Kr2 K/p1/3 = Kr2 r2 = K/p1/3 x 1/K r2 = 1/p1/3 r = (1/p1/3)2 r = 1/p1/6 r ∝ 1/p1/6 = p = \\(\\frac{1}{r^6}\\) ∴ p varies inversely as \\(r^6\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9035",
+    "passage": ""
   }
 ]
