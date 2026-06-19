@@ -1804,5 +1804,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64458",
     "passage": ""
+  },
+  {
+    "id": 64459,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following recreational activities is best for an elderly person?",
+    "options": {
+      "A": "Camping",
+      "B": "Cycling",
+      "C": "Running",
+      "D": "Walking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Walking is a recreational activity that is suitable for the elderly. It helps them to stretch their skeletal system and also helps blood circulation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64459",
+    "passage": ""
   }
 ]
