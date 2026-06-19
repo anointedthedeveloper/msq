@@ -6024,5 +6024,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76413",
     "passage": ""
+  },
+  {
+    "id": 76414,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why do runners try to minimize ground contact time?",
+    "options": {
+      "A": "To jump higher",
+      "B": "To increase speed",
+      "C": "To rest longer on each step",
+      "D": "To reduce energy use"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ground contact time is the duration a runner's foot stays in contact with the track during each step. Minimizing this time is critical for sprinting because it allows the legs to cycle faster, resulting in increased stride frequency and thus higher speed. Short ground contact times indicate that the athlete is applying force rapidly and effectively against the ground, propelling the body forward with minimal delay. Conversely, longer ground contact times slow down running because the runner spends more time decelerating and less time moving forward. Efficient sprinters develop neuromuscular adaptations that enable rapid force generation and quick turnover, while still applying enough force to maintain stride length. Training drills, such as plyometrics and sprint technique work, often focus on reducing ground contact time to improve overall velocity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76414",
+    "passage": ""
   }
 ]
