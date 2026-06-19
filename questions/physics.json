@@ -13799,5 +13799,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23895",
     "passage": ""
+  },
+  {
+    "id": 23899,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A thermometer has its stem marked in millimeter instead of degree Celsius. The lower fixed point is 30mm and the upper is 180mm. Calculate the temperature in degree celsius when the thermometer reads 45mm.",
+    "options": {
+      "A": "67.5 o C",
+      "B": "30.0 o C",
+      "C": "25.0 o C",
+      "D": "15.0 o C",
+      "E": "10.0 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "o",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23899",
+    "passage": ""
   }
 ]
