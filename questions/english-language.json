@@ -3781,5 +3781,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1962",
     "passage": ""
+  },
+  {
+    "id": 1963,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "complete the sentences with the correct options from the list below : .... listening to the news when i came in",
+    "options": {
+      "A": "There were",
+      "B": "There was",
+      "C": "It was",
+      "D": "There are going to be",
+      "E": "They were"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The correct sentence is:\nHere, “They were listening” is in the past continuous tense , which describes an action that was already in progress when another action ( “when I came in” ) occurred.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1963",
+    "passage": ""
   }
 ]
