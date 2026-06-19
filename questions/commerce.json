@@ -14868,5 +14868,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7513",
     "passage": ""
+  },
+  {
+    "id": 7515,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Manufacturing and constructive activities are classified under?",
+    "options": {
+      "A": "primary production",
+      "B": "tertiary production",
+      "C": "secondary production",
+      "D": "direct service"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Secondary production : this is the manufacturing and assembly process. It involves converting raw materials into components, for example, making plastics from oil. It also involves assembling the product, eg building houses, bridges and roads.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7515",
+    "passage": ""
   }
 ]
