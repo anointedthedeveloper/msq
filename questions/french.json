@@ -4813,5 +4813,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75816",
     "passage": ""
+  },
+  {
+    "id": 75863,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"bibliothèque\" signifie ...",
+    "options": {
+      "A": "un hôpital",
+      "B": "une salle de lecture",
+      "C": "une école",
+      "D": "une librairie"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Bibliotheque\" means a library or a place for reading books.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75863",
+    "passage": ""
   }
 ]
