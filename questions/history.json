@@ -8514,5 +8514,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63767",
     "passage": ""
+  },
+  {
+    "id": 63768,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Nigeria was birthed in the year",
+    "options": {
+      "A": "1900",
+      "B": "1906",
+      "C": "1914",
+      "D": "1960"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "On January 1, 1914, Lord Frederick Lugard, the governor of both the Northern Nigeria Protectorate and the Colony and Protectorate of Southern Nigeria, signed a document consolidating the two, thereby creating the Colony and Protectorate of Nigeria. Forty-six years later in 1960, Nigeria became an independent state.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63768",
+    "passage": ""
   }
 ]
