@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/57",
     "passage": ""
+  },
+  {
+    "id": 62,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The central point of capitalism, as expounded by Karl Marx, is that",
+    "options": {
+      "A": "capitalist profit is the surplus value obtained from workers labour",
+      "B": "workers are inherently incapable of being owners of their labour",
+      "C": "capitalists shall always increase worker earning capacity through wages",
+      "D": "capitslists shall always readily consent to workers welfare demands."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The central point of capitalism as expounded by Kari Marx is that capitalists' profit is the surplus value obtained from workers' labour. According to Marx, workers produce more than what they get from employers. The capitalist employers buy the services of labour cheaply, but they sell the goods produced by labour at a rate higher than the amount spent for the payment of wages and the maintenance of the factory. They appropriate this excess as profit.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/62",
+    "passage": ""
   }
 ]
