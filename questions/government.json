@@ -61,5 +61,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/48",
     "passage": ""
+  },
+  {
+    "id": 52,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The central decision-making organ of a confederation is made up of",
+    "options": {
+      "A": "technocrats appointed by the units",
+      "B": "politicians elected from the confederal constituencies",
+      "C": "politicians nominated by the government of member states",
+      "D": "representatives of pressure groups."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The central decision-making organ of a confederation is made up of politicians nominated by governments of member states.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/52",
+    "passage": ""
+  },
+  {
+    "id": 55,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following is true of a parliamentary system of government?",
+    "options": {
+      "A": "clear seperation of government organs.",
+      "B": "strict operation of bicameral legislature.",
+      "C": "removal of government by impeachment.",
+      "D": "adherence to majority rule."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Adherence to majority rule is true of a parliamentary system of government. This is so due to the fact that the party having a majority in the legislature controls both the executive and the legislature from where the Prime Minister and ministers of his cabinet are chosen. The stability of this system also depends upon the ruling party controlling a reasonable majority in the parliament.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/55",
+    "passage": ""
   }
 ]
