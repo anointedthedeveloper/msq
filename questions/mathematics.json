@@ -5353,5 +5353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8508",
     "passage": ""
+  },
+  {
+    "id": 8518,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Evaluate \\(\\int_0^{\\frac{\\pi}{2}}sin2xdx\\)",
+    "options": {
+      "A": "1",
+      "B": "zero",
+      "C": "-1/2",
+      "D": "-1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_0^{\\frac{\\pi}{2}}\\)sin 2x dx = [-1/2cos 2x + C]\\(_0^{\\frac{\\pi}{2}}\\) =[-1/2 cos 2 * π/2 + C] - [-1/2 cos 2 * 0] = [-1/2 cos π] - [-1/2 cos 0] = [-1/2x - 1] - [-1/2 * 1] = 1/2 -(-1/2) = 1/2 + 1/2 = 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8518",
+    "passage": ""
   }
 ]
