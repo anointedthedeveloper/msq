@@ -2159,5 +2159,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49880",
     "passage": ""
+  },
+  {
+    "id": 49889,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A ''no claim discount'' will be granted under",
+    "options": {
+      "A": "fidelity guarantee insurance",
+      "B": "marine insurance",
+      "C": "life insurance",
+      "D": "motor insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "No-claim bonus (NCB) is a discount in premium offered by insurance companies if a vehicle owner has not made a single claim during the term of the motor insurance policy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49889",
+    "passage": ""
   }
 ]
