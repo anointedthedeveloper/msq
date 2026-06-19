@@ -10393,5 +10393,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4072",
     "passage": ""
+  },
+  {
+    "id": 4074,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The type of isomerism shown by cis- and trans- isomers is",
+    "options": {
+      "A": "optical isomerism",
+      "B": "positional isomerism",
+      "C": "functional isomerism",
+      "D": "geometrical isomerism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The type of isomerism shown by the cis- and trans- isomers is geometrical isomerism",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4074",
+    "passage": ""
   }
 ]
