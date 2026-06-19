@@ -3784,5 +3784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71228",
     "passage": ""
+  },
+  {
+    "id": 75221,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Nous voudrions aller en France l'annee prochaine.",
+    "options": {
+      "A": "en",
+      "B": "par",
+      "C": "dans",
+      "D": "avec"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The preposition \"en\" is used before names of feminine countries.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75221",
+    "passage": ""
   }
 ]
