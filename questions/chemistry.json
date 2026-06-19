@@ -876,5 +876,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/767",
     "passage": ""
+  },
+  {
+    "id": 768,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A gas jar was inverted over burning yellow phosphorus floating over water in a beaker. After burning, the water level was found to rise in the gas jar. The water level rises because",
+    "options": {
+      "A": "pressure inside the gas jar is greater than pressure outside it",
+      "B": "the air in the gas jar had been used up by burning",
+      "C": "oxygen in the gas jar had been used up by burning",
+      "D": "nitrogen in the gas jar had been used up by burning",
+      "E": "the temperature in the jar had risen considerably"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/768",
+    "passage": ""
   }
 ]
