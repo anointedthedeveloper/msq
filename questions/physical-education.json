@@ -4135,5 +4135,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70732",
     "passage": ""
+  },
+  {
+    "id": 70733,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following hurdle races requires the athlete to jump over water barriers?",
+    "options": {
+      "A": "3000 m steeplechase",
+      "B": "2000 m steeplechase",
+      "C": "400 m hurdles",
+      "D": "100 m hurdles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The 3000 meters steeplechase is the event that includes water barriers. Athletes must jump over both regular hurdles and water jumps.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70733",
+    "passage": ""
   }
 ]
