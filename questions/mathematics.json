@@ -10329,5 +10329,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11109",
     "passage": ""
+  },
+  {
+    "id": 11110,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The mean of the numbers 3, 6, 4, x, and 7 is 5. Find the standard deviation.",
+    "options": {
+      "A": "\\(\\sqrt{2}\\)",
+      "B": "\\(\\sqrt{3}\\)",
+      "C": "2",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Standard deviation = \\(\\frac{\\sum(x - \\overline{x})^2}{\\text{n}}\\)\n\\(\\overline{x}\\) = \\(\\frac{ 3 + 6 + 4 + x + 7}{5}\\) = 5\n= 20 + x = 25\nx = 25 - 20 = 5.\nx x - \\(\\overline{x}\\) (x - \\(\\overline{x}\\))\\(^2\\) 3 3 - 5 -2 = 4 4 4 - 5 -1 = 1 5 5 - 5 0 = 0 6 6 - 5 1 = 1 7 7 - 5 2 = 4 \\(\\sum\\) (x - \\(\\overline{x}\\))\\(^2\\) = 10\nStandard deviation = \\(\\frac{\\sum(x - \\overline{x})^2}{\\text{n}}\\) = \\(\\frac{\\sqrt{10}}{5}\\) = \\(\\sqrt{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11110",
+    "passage": ""
   }
 ]
