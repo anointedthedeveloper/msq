@@ -15955,5 +15955,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24257",
     "passage": ""
+  },
+  {
+    "id": 24258,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A gas which obeys Charles’ law exactly has a volume of 283cm3 at 10oC. What is its volume at 30oC?",
+    "options": {
+      "A": "142cm 3",
+      "B": "293cm 3",
+      "C": "303cm 3",
+      "D": "566cm 3",
+      "E": "849cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Using Charles law:\nV1/T1 = V2/T2;\n(283 * 303) / 283\nV2= 303",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24258",
+    "passage": ""
   }
 ]
