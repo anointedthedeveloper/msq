@@ -129,5 +129,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/31",
     "passage": ""
+  },
+  {
+    "id": 32,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Elements P, Q, R, S have 6, 11, 15, 17 electrons respectively, therefore,",
+    "options": {
+      "A": "P will form an electrovalent bond with R",
+      "B": "Q will form a covalent bond with S",
+      "C": "R will form an electrovalent bond with S",
+      "D": "Q will form an electrovalent bond with S",
+      "E": "Q will form a covalent bond with R"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Element P with 6 electrons has an atomic number of 6 =  2, 4 → C Element Q with 11 electrons has an atomic number of 11 = 2, 8, 1 → Na Element R with 15 electrons has an atomic number of 15 = 2, 8, 5 → P Element S with 17 electrons has an atomic number of 17 = 2, 8, 7 → Cl Given the above is the electronic arrangement of P,Q,R,S elements, Q will form an electrovalent bond with S because element Q(metal) has a valence of electron of 1 it can donate to another element needing 1 electron, which is element S (a non-metal). Thus, electrovalent bond is formed in compounds where there is a transfer of electron from metals to non-metals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/32",
+    "passage": ""
   }
 ]
