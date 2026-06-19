@@ -12414,5 +12414,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14536",
     "passage": ""
+  },
+  {
+    "id": 14552,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "In the circuit above, three resistors, 2Ω, 4Ω and 12Ω are connected in parallel and a 12V battery is connected across the combination. The current flowing through the 12Ω resistors is",
+    "options": {
+      "A": "14.4 A",
+      "B": "1.0 A",
+      "C": "3.2 A",
+      "D": "9.6 A"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25920045917_phy201140.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891196/myschool/physics/25920045917_phy201140.jpg",
+    "correct_answer": "B",
+    "explanation": "I = \\(\\frac{V}{R}\\) from Ohm's law\nI = \\(\\frac{12}{12}\\) = 1A.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14552",
+    "passage": ""
   }
 ]
