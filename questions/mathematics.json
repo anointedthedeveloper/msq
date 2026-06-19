@@ -6823,5 +6823,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9226",
     "passage": ""
+  },
+  {
+    "id": 9227,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Make L the subjects of the formula if  d = \\(\\sqrt{\\frac{42w}{5l}}\\)",
+    "options": {
+      "A": "\\(\\sqrt{\\frac{42w}{5d}}\\)",
+      "B": "\\(\\frac{42W}{5d^2}\\)",
+      "C": "\\(\\frac{42}{5dW}\\)",
+      "D": "\\(\\frac{1}{d}\\sqrt{\\frac{42w}{5}}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "d = \\(\\sqrt{\\frac{42w}{5l}}\\) square both side of the equation \\(d^2 = \\left(\\sqrt{\\frac{42W}{5l}}\\right)^2\\\\ d^2 = \\frac{42W}{5l}\\\\ 5ld^2=42W\\\\ l = \\frac{42W}{5d^2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9227",
+    "passage": ""
   }
 ]
