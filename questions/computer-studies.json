@@ -2013,5 +2013,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61497",
     "passage": ""
+  },
+  {
+    "id": 61498,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The file access method shown in Figure 12 is called",
+    "options": {
+      "A": "hashed access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/gSdHlkiEsLQaFtp8lNekFBDWwJEW4C1D8g1YP5bi.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901082/myschool/computer-studies/gSdHlkiEsLQaFtp8lNekFBDWwJEW4C1D8g1YP5bi.jpg",
+    "correct_answer": "B",
+    "explanation": "Sequential file access: This method accesses data as one record at a time by starting from the beginning of the file to its end. Moreover, the records are read or written in the order they appear in the file.  Therefore, the figure depicts the sequential file access method.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61498",
+    "passage": ""
   }
 ]
