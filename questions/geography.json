@@ -7264,5 +7264,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8157",
     "passage": ""
+  },
+  {
+    "id": 8158,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "If the distance between two points on a 1:25 000 map is 10cm, what would the same distance be on a map 1:50 000 map?",
+    "options": {
+      "A": "25cm",
+      "B": "20cm",
+      "C": "15cm",
+      "D": "10cm",
+      "E": "5cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8158",
+    "passage": ""
   }
 ]
