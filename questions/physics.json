@@ -6382,5 +6382,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13767",
     "passage": ""
+  },
+  {
+    "id": 13771,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Satellite communication network makes use of?",
+    "options": {
+      "A": "visible light",
+      "B": "sound wave",
+      "C": "radio wave",
+      "D": "infra-red wave"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Radio waves are used to transmit signals between satellites and ground stations because they can travel long distances and effectively penetrate the atmosphere.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13771",
+    "passage": ""
   }
 ]
