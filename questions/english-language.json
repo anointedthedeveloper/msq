@@ -5299,5 +5299,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2110",
     "passage": ""
+  },
+  {
+    "id": 2111,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options : As .... of you that can come are welcome",
+    "options": {
+      "A": "each",
+      "B": "any",
+      "C": "many",
+      "D": "more",
+      "E": "most"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2111",
+    "passage": ""
   }
 ]
