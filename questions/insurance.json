@@ -1739,5 +1739,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49799",
     "passage": ""
+  },
+  {
+    "id": 49801,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The document used by the insurer to ask questions about a risk to be covered is",
+    "options": {
+      "A": "certificates",
+      "B": "proposal form",
+      "C": "policy form",
+      "D": "schedule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A proposal form is a standard printed document that is completed by a person who is requesting insurance coverage . The main source of information in an application for risk coverage is the proposal form that the applicant or the intermediary submits to the insurer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49801",
+    "passage": ""
   }
 ]
