@@ -2848,5 +2848,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58389",
     "passage": ""
+  },
+  {
+    "id": 58393,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A teacher computed the average score of students in a given test. The result of the computation describes",
+    "options": {
+      "A": "record",
+      "B": "information",
+      "C": "data",
+      "D": "file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Data refers to raw facts or figures that have not been processed in data processing. When these facts or figures are processed, they become information, which has more meaning than the raw data. Therefore, the result of the computation, which is the average score, is information because it has been processed from the raw test scores.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58393",
+    "passage": ""
   }
 ]
