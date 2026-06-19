@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64270",
     "passage": ""
+  },
+  {
+    "id": 64438,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The physical fitness component that is necessary for a high jumper is",
+    "options": {
+      "A": "agility",
+      "B": "balance",
+      "C": "endurance",
+      "D": "flexibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The stronger and more flexible a high jumper muscles are in the legs, hips, shoulders and arms, the better their jumps will be.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64438",
+    "passage": ""
   }
 ]
