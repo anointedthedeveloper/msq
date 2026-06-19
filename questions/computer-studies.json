@@ -12271,5 +12271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64329",
     "passage": ""
+  },
+  {
+    "id": 64330,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The actual physical network of wires, cables and satellite that connects computers and resources throughout the world is the _______________",
+    "options": {
+      "A": "Web",
+      "B": "Internet",
+      "C": "e-commerce",
+      "D": "social media"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Internet (or internet)is the global system of interconnected computer networks that uses the Internet protocol suite (TCP/IP) to communicate between networks and devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64330",
+    "passage": ""
   }
 ]
