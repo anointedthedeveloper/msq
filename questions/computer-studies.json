@@ -17439,5 +17439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69837",
     "passage": ""
+  },
+  {
+    "id": 69838,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following QBASIC arithmetic operations is the last in order of precedence?",
+    "options": {
+      "A": "Subtraction",
+      "B": "Addition",
+      "C": "Division",
+      "D": "Exponentiation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In QBASIC arithmetic operations, the order of precedence determines the sequence in which operations are performed. The operation with the highest precedence is performed first, followed by those with lower precedence. Among the options provided, the arithmetic operation that is last in order of precedence is \"Subtraction.\" The order of precedence, from highest to lowest, typically follows this sequence: Exponentiation (^) Multiplication (*), Division (/), and Integer Division () Addition (+), Subtraction (-) For example, the expression 2 * 3 - 4 is evaluated as follows: The multiplication is performed first, so 2 * 3 = 6. The subtraction is performed next, so 6 - 4 = 2. The final value of the expression is 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69838",
+    "passage": ""
   }
 ]
