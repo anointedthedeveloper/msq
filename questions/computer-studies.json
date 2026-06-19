@@ -11032,5 +11032,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64103",
     "passage": ""
+  },
+  {
+    "id": 64104,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In the files, if order of operation on two or more files are similar, then operation will be",
+    "options": {
+      "A": "complex",
+      "B": "simple",
+      "C": "sequential",
+      "D": "combinational"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If the order of operation on two or more files is similar, then the operation will be sequential. Sequential operation means that the files will be processed one after the other in the same order as specified.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64104",
+    "passage": ""
   }
 ]
