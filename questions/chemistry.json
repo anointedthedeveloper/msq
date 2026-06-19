@@ -2391,5 +2391,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1553",
     "passage": ""
+  },
+  {
+    "id": 1554,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "0.46g of ethanol when burned raised the temperature of 50g of water by 14.3K. Calculate the heat of combustion of ethanol. [C = 12, O = 16, H = 1, Specific heat capacity of water = 4.2 jg-1K-1]",
+    "options": {
+      "A": "+3000 KJ mol -1",
+      "B": "+300  KJ mol -1",
+      "C": "-300  KJ mol -1",
+      "D": "-3000  KJ mol -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Heat absorbed by water = (mC Δ t ) =  (50 x 4.2 x 14.3) =  3003.0J =  3.003kJ\nno of moles of ethanol = \\(\\frac{mass}{molar mass}\\) = \\(\\frac{0.46}{46}\\) = 0.01 mol.\nTherefore, heat of combustion of ethanol = \\(\\frac{heat absorbed by water}{no of mole of ethanol}\\) = \\(\\frac{-3.003}{0.01}\\) = - 300.3kj/mol\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1554",
+    "passage": ""
   }
 ]
