@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75200",
     "passage": ""
+  },
+  {
+    "id": 75202,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"حدد نوع الجملة: \"يذاكرُ الطالبُ كلَّ يومٍ",
+    "options": {
+      "A": "فعلية",
+      "B": "استفهامية",
+      "C": "شرطية",
+      "D": "اسمية"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "It starts with a verb, so it's a verbal sentence (jumla fi'liyya).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75202",
+    "passage": ""
   }
 ]
