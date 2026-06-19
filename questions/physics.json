@@ -8125,5 +8125,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14039",
     "passage": ""
+  },
+  {
+    "id": 14040,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "During summer, the balance wheel of a clock expands.what effect does this have on the accuracy of the clock?",
+    "options": {
+      "A": "the clock gians time",
+      "B": "the accuracy of the clock is not affected",
+      "C": "the clock losses time",
+      "D": "the clock stops working"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The elastic potential energy of the balance wheel reduces as the wheel expands, therefore the clock will loose time.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14040",
+    "passage": ""
   }
 ]
