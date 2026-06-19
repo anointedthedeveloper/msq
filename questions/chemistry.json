@@ -12745,5 +12745,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4698",
     "passage": ""
+  },
+  {
+    "id": 4699,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An isotope has an atomic number of 15 and a mass number of 31. The number of protons it contain is",
+    "options": {
+      "A": "16",
+      "B": "15",
+      "C": "46",
+      "D": "31"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4699",
+    "passage": ""
   }
 ]
