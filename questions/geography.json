@@ -3153,5 +3153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6298",
     "passage": ""
+  },
+  {
+    "id": 6301,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "What is the name of the river marked X on the map?",
+    "options": {
+      "A": "River Gongola",
+      "B": "River Shermankar",
+      "C": "River Rima",
+      "D": "River Katsina-Ala",
+      "E": "River Kaduna"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/7304949885_13020629_1057688564295810_1144804388_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781895798/myschool/geography/7304949885_13020629_1057688564295810_1144804388_n.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6301",
+    "passage": ""
   }
 ]
