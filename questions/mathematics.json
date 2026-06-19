@@ -15186,5 +15186,27 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909697/myschool/mathematics/IMG_20191121_121655_%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/23162",
     "passage": ""
+  },
+  {
+    "id": 23163,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The angles marked in the diagram above are measured in degrees. Find x",
+    "options": {
+      "A": "15 o",
+      "B": "24 o",
+      "C": "30 o",
+      "D": "36 o",
+      "E": "48 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/23535609812_wcmath199225.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909705/myschool/mathematics/23535609812_wcmath199225.jpg",
+    "correct_answer": "B",
+    "explanation": "Sum of exterior angles = 360°\n2x + 3x + 2x + 3x + 5x = 360°\n15x = 360°\nx = 360°/15 = 24°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23163",
+    "passage": ""
   }
 ]
