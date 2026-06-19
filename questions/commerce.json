@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/174",
     "passage": ""
+  },
+  {
+    "id": 175,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "What are fixtures and fittings in a balance sheet?",
+    "options": {
+      "A": "liquid capital",
+      "B": "current assets",
+      "C": "fixed assets",
+      "D": "working capital"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24795615285_12884638_1041877859189520_2029202602_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888204/myschool/commerce/24795615285_12884638_1041877859189520_2029202602_n.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/175",
+    "passage": ""
   }
 ]
