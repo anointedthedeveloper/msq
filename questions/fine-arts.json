@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48020",
     "passage": ""
+  },
+  {
+    "id": 48021,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "In lettering one of the principles is that round characters are placed",
+    "options": {
+      "A": "apart",
+      "B": "closely",
+      "C": "at an angle",
+      "D": "overhead"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48021",
+    "passage": ""
   }
 ]
