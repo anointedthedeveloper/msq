@@ -4512,5 +4512,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70810",
     "passage": ""
+  },
+  {
+    "id": 70811,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which test is commonly used during an eye screening to assess visual acuity?",
+    "options": {
+      "A": "Audiogram",
+      "B": "Snellen chart",
+      "C": "ECG",
+      "D": "Spirometry"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Snellen chart is a tool used to measure visual acuity during eye screenings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70811",
+    "passage": ""
   }
 ]
