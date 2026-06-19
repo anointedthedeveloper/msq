@@ -9763,5 +9763,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14297",
     "passage": ""
+  },
+  {
+    "id": 14298,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A hydrometer is an instrument used in measuring?",
+    "options": {
+      "A": "vapour pressure of a fluid",
+      "B": "density of  liquid",
+      "C": "relative humidity of a liquid",
+      "D": "relative density of a liquid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The instrument used in measuring relative density is hydrometer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14298",
+    "passage": ""
   }
 ]
