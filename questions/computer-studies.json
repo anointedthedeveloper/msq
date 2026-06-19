@@ -3276,5 +3276,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61848",
     "passage": ""
+  },
+  {
+    "id": 61849,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Change a\\(frac{(b-c)^2}{d +2}\\) in algebraic expression to BASIC arithmetic expression.",
+    "options": {
+      "A": "A * b\\(^2\\) - c\\(^2\\) ÷ d +2",
+      "B": "A * \\(frac{(b-c)^2}{D +2}\\)",
+      "C": "ab\\(^2\\) - ac\\(^2\\) ÷ d + 2",
+      "D": "A * \\(frac{(b-c)^2}{D +2}\\) Opera",
+      "E": "Python E. AB-AC^2 / D +2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61849",
+    "passage": ""
   }
 ]
