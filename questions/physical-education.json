@@ -3505,5 +3505,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68320",
     "passage": ""
+  },
+  {
+    "id": 68322,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is the vestigial bony part of the human skeleton?",
+    "options": {
+      "A": "Cranium",
+      "B": "cartilage",
+      "C": "Coccyx",
+      "D": "cervical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Vestigial structures are body parts that seemingly have no purpose or function. Coccyx is commonly called tailbone and it is found in the final segment of the vertebral column.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68322",
+    "passage": ""
   }
 ]
