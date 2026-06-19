@@ -13317,5 +13317,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22685",
     "passage": ""
+  },
+  {
+    "id": 22687,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, PQ is a tangent at T to the circle ABT. ABC is a straight line and TC bisects ∠BTO. Find x.",
+    "options": {
+      "A": "20 o",
+      "B": "30 o",
+      "C": "35 o",
+      "D": "40 o",
+      "E": "50 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Zd5MS6CzmtvT98h3mQl2z5EhXWzfZkG3roVomALR.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869308/myschool/mathematics/Zd5MS6CzmtvT98h3mQl2z5EhXWzfZkG3roVomALR.png",
+    "correct_answer": "E",
+    "explanation": "From the figure < TAB = < BTQ = 40° (alternate segment)\n\\(\\therefore\\)< ATB = 180° - (70° + 40°) = 70° (angle on a straight line)\n< BTC = \\(\\frac{40°}{2} = \\frac{< BTQ}{2}\\)\n\\(\\therefore < BTQ = 40°\\)\nx° = 180° - (40° + 70° + 20°)\n= 50°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22687",
+    "passage": ""
   }
 ]
