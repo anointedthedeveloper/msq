@@ -14481,5 +14481,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24088",
     "passage": ""
+  },
+  {
+    "id": 24089,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "An object R leaves a platform XY with a horizontal velocity of 7m\n-1\nand lands at Q. lf it takes the same object 0.3s to fall freely from Y to P, calculate the distance PQ.(Take g = 1Oms\n2\n)",
+    "options": {
+      "A": "7.30m",
+      "B": "2.55m",
+      "C": "2.10m",
+      "D": "1.65m",
+      "E": "0.45m."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15247171412_wcphy199010.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891790/myschool/physics/15247171412_wcphy199010.jpg",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24089",
+    "passage": ""
   }
 ]
