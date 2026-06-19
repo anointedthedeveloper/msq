@@ -5500,5 +5500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8612",
     "passage": ""
+  },
+  {
+    "id": 8613,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "How many possible ways are there of seating seven people P,Q,R,S,T,U and V at a circular table",
+    "options": {
+      "A": "360",
+      "B": "720",
+      "C": "2520",
+      "D": "5040"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8613",
+    "passage": ""
   }
 ]
