@@ -11868,5 +11868,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14496",
     "passage": ""
+  },
+  {
+    "id": 14497,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A car accelerates uniformly from rest at 4 ms\\(^{-2}\\). How far will it travel in the fifth complete second?",
+    "options": {
+      "A": "100 m",
+      "B": "50m",
+      "C": "32 m",
+      "D": "18 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "From S = ut + 1/2 at2 S = 1/2 ut2, since U = 0 Let S5 = distance in 5 seconds = 1/2 x 4 x 52 = 2 x 25 = 50m S4 = distance covered in 4 seconds = 1/2 x 4 x 42 = 2 x 16 = 32m Distance covered in the fifth second S5 - S4 = 50m - 32m = 18m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14497",
+    "passage": ""
   }
 ]
