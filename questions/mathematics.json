@@ -2833,5 +2833,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3382",
     "passage": ""
+  },
+  {
+    "id": 3383,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The locus of a point P which is equidistant from two given points S and T is",
+    "options": {
+      "A": "the perpendicular bisector of ST",
+      "B": "the angle bisector of PS and ST",
+      "C": "a perpendicular to ST",
+      "D": "a line parallel to ST"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The locus of a point P that is equidistant from two points S and T is the perpendicular bisector of the segment ST. This means that every point on this line is the same distance from both S and T, effectively dividing the segment into two equal parts and forming a right angle with it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3383",
+    "passage": ""
   }
 ]
