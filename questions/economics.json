@@ -174,5 +174,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/143",
     "passage": ""
+  },
+  {
+    "id": 144,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which is NOT a direct effort to increase Agricultural production in Nigeria?",
+    "options": {
+      "A": "Operation feed the Nation",
+      "B": "Nigerian Youth Service Corps",
+      "C": "Increased loans to farmers and cooperatives",
+      "D": "Research in Agric & Extension services",
+      "E": "Mechanization of Agriculture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The National Youth Service Corps was not established to cater to the agricultural needs of the country, rather, it is a program set up by the Nigerian government during the military regime to involve Nigerian graduates in nation-building and the development of the country.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/144",
+    "passage": ""
   }
 ]
