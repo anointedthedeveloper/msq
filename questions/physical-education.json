@@ -6632,5 +6632,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76503",
     "passage": ""
+  },
+  {
+    "id": 76504,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of these is the best example of an aerobic exercise?",
+    "options": {
+      "A": "Jumping as high as possible.",
+      "B": "Lifting a very heavy weight once.",
+      "C": "Sprinting for 50 meters.",
+      "D": "Jogging for 30 minutes at a steady pace."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Aerobic exercise involves continuous, rhythmic physical activity that relies on oxygen to meet energy demands during prolonged efforts. Jogging for 30 minutes at a steady pace is a classic example of aerobic exercise because it elevates the heart rate steadily and improves cardiovascular endurance over time. In contrast, jumping high, heavy weight lifting, and short sprints are anaerobic activities relying on short bursts of energy without primarily using oxygen",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76504",
+    "passage": ""
   }
 ]
