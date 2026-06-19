@@ -2323,5 +2323,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1090",
     "passage": ""
+  },
+  {
+    "id": 1092,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The low rainfall along Cape Three Points in Ghana is due to the",
+    "options": {
+      "A": "upwelling of cold water",
+      "B": "sparse vegetation",
+      "C": "prevalence of south west winds",
+      "D": "upwelling of warm water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1092",
+    "passage": ""
   }
 ]
