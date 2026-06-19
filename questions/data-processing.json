@@ -8230,5 +8230,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69806",
     "passage": ""
+  },
+  {
+    "id": 69807,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The following terms describe the importance of data security except data",
+    "options": {
+      "A": "availability",
+      "B": "integrity",
+      "C": "normalization",
+      "D": "consistency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The term that does not describe the importance of data security is normalization. Data security focuses on ensuring the confidentiality, integrity, and availability of data. The terms provided—availability, consistency, and integrity—are all related to aspects of data security: Availability: Ensures that data is accessible and available when needed, without unauthorized disruptions. Consistency: Ensures that data remains consistent and accurate across different parts of the system. Integrity: Ensures that data remains accurate and unaltered throughout its lifecycle, preventing unauthorized or unintended modifications. Normalization, on the other hand, is a database design technique used to structure data in a way that reduces redundancy and ensures efficient data storage and retrieval. While normalization is important for database design, it is not directly related to data security in the same way that availability, consistency, and integrity are.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69807",
+    "passage": ""
   }
 ]
