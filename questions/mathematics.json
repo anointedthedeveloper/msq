@@ -13537,5 +13537,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22701",
     "passage": ""
+  },
+  {
+    "id": 22702,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Two groups of male students cast their vote on a particular proposal. The results are as follows:\nIf a student is chosen at random, what is probability that he is against the proposal?",
+    "options": {
+      "A": "3/19",
+      "B": "4/19",
+      "C": "5/19",
+      "D": "9/19",
+      "E": "10/19"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Probability that the student is against the proposal\n= \\(\\frac{32 + 48}{128 + 32 + 96 + 48}\\)\n= \\(\\frac{80}{304}\\)\n= \\(\\frac{5}{19}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22702",
+    "passage": ""
+  },
+  {
+    "id": 22864,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Express 0.0462 in standard form",
+    "options": {
+      "A": "0.462 x 10 -1",
+      "B": "0.462 x 10 -2",
+      "C": "4.62 x 10 -1",
+      "D": "4.62 x 10 -2",
+      "E": "4.62 x 10 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22864",
+    "passage": ""
   }
 ]
