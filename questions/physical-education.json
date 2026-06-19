@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64242",
     "passage": ""
+  },
+  {
+    "id": 64245,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a scope of physical education?",
+    "options": {
+      "A": "Athletics",
+      "B": "Coaching",
+      "C": "Dancing",
+      "D": "Drawing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Drawing is not a scope of physical education.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64245",
+    "passage": ""
   }
 ]
