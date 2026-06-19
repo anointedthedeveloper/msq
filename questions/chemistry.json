@@ -3378,5 +3378,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1718",
     "passage": ""
+  },
+  {
+    "id": 1719,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "As the concentration of an electrolyte reduces, the conductivity",
+    "options": {
+      "A": "reduces to zero",
+      "B": "decreases",
+      "C": "increases",
+      "D": "is unaffected"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The more concentrated a solution is, the higher the conductivity is. In most cases it is a proportional relationship. As the ion concentration increases, the conductivity increases.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1719",
+    "passage": ""
   }
 ]
