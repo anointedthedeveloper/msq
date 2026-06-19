@@ -16137,5 +16137,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67827",
     "passage": ""
+  },
+  {
+    "id": 67828,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The default file extension for PowerPoint version 2007 and newer is ?",
+    "options": {
+      "A": ".ppxt",
+      "B": ".pps",
+      "C": ".ppt",
+      "D": ".pptx"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The default file extension for PowerPoint version 2007 and newer is .pptx. This extension stands for PowerPoint Open XML, which is a file format used by PowerPoint 2007 and newer for saving presentations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67828",
+    "passage": ""
   }
 ]
