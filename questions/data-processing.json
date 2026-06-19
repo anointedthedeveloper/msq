@@ -7705,5 +7705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69780",
     "passage": ""
+  },
+  {
+    "id": 69781,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The speed of access to files in a random access file compared to other file organization methods is",
+    "options": {
+      "A": "very slow.",
+      "B": "the same.",
+      "C": "relatively fast.",
+      "D": "slow."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The speed of access to files in a random access file compared to other file organization methods is relatively fast . Random access files allow direct and immediate access to any part of the file without having to sequentially read through the entire file. This is particularly advantageous when you need to retrieve or modify specific records or data within the file. In contrast, other file organization methods like sequential access require reading through the file from the beginning to reach the desired location, which can be slower for large files. So, random access files are known for their efficiency in accessing data, especially when compared to methods that involve sequential searching or scanning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69781",
+    "passage": ""
   }
 ]
