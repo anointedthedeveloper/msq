@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50117",
     "passage": ""
+  },
+  {
+    "id": 50120,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A binary operation \\(\\Delta\\) is defined on the set of real numbers, R, by \\(a \\Delta b = \\frac{a+b}{\\sqrt{ab}}\\), where a\\(\\neq\\) 0, b\\(\\neq\\) 0. Evaluate \\(-3 \\Delta -1\\).",
+    "options": {
+      "A": "\\(-4\\sqrt{3}\\)",
+      "B": "\\(\\frac{-4\\sqrt{3}}{3}\\)",
+      "C": "\\(\\frac{-3\\sqrt{3}}{4}\\)",
+      "D": "\\(\\frac{-3\\sqrt{3}}{4}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(a \\Delta b\\) = \\(\\frac{a+b}{\\sqrt{ab}}\\)\n\\(-3\\Delta -1\\) = \\(\\frac{-3 + -1}{\\sqrt{-3\\times -1}}\\)\n\\(\\frac{-4}{\\sqrt{3}}\\), rationalising, we have\n\\(\\frac{-4 \\times \\sqrt{3}}{\\sqrt{3}\\times \\sqrt{3}} = \\frac{-4\\sqrt{3}}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50120",
+    "passage": ""
   }
 ]
