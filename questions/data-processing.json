@@ -9314,5 +9314,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/76956",
     "passage": ""
+  },
+  {
+    "id": 76957,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The special feature in word processing which allows the sending of multiple data copies of document to different people without having it retyped is",
+    "options": {
+      "A": "cut and paste",
+      "B": "insert",
+      "C": "mail merge",
+      "D": "thesaurus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mail merge is the automatic addition of names and addresses from a database to letters and envelopes in order to facilitate sending mail, especially advertising, to many addresses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/76957",
+    "passage": ""
   }
 ]
