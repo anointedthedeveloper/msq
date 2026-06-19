@@ -11389,5 +11389,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64120",
     "passage": ""
+  },
+  {
+    "id": 64121,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How are the stages of SDLC implemented?",
+    "options": {
+      "A": "Randomly, without overlapping",
+      "B": "sequentially, without overlapping",
+      "C": "sequentially with overlapping",
+      "D": "randomly with overlapping."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "the stages of SDLC are executed sequentially in order to ensure it goes accordingly. Also, they must be done sequential to gets results from previous stages to know what to improve in later stages. Also it does not overlap because, a stage must be concluded before another proceeds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64121",
+    "passage": ""
   }
 ]
