@@ -3628,5 +3628,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1890",
     "passage": ""
+  },
+  {
+    "id": 1892,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Soil is said to be fertile if",
+    "options": {
+      "A": "It is black",
+      "B": "it can supply usable nutrients to plants",
+      "C": "the oxygen content is very high",
+      "D": "artificial manure is added to it",
+      "E": "it is not waterlogged"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1892",
+    "passage": ""
   }
 ]
