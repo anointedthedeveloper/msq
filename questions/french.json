@@ -2420,5 +2420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71073",
     "passage": ""
+  },
+  {
+    "id": 71074,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentence\nJear n'est pas encore aifive,en retard.",
+    "options": {
+      "A": "nous",
+      "B": "il",
+      "C": "elle",
+      "D": "ils"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"II\" is the correct pronoun to use when referring to a singular masculine noun (Jear).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71074",
+    "passage": ""
   }
 ]
