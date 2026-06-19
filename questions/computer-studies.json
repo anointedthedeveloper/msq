@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60237",
     "passage": ""
+  },
+  {
+    "id": 60238,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Use Table 3 to answer the questions below\nIn table 3, the content of cell C5________",
+    "options": {
+      "A": "2456",
+      "B": "4009",
+      "C": "4400",
+      "D": "3450"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In spreadsheet terminology, cell references are given as a combination of the column letter and the row number. So, cell C5 refers to the cell in the third column (C) and the fifth row (5). Looking at the table, the content of cell C5 is '4009'",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60238",
+    "passage": ""
   }
 ]
