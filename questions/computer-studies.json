@@ -9271,5 +9271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62709",
     "passage": ""
+  },
+  {
+    "id": 62710,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "In BCD encoding system, 25, will be represented as?",
+    "options": {
+      "A": "01100101",
+      "B": "01010110.",
+      "C": "00100101.",
+      "D": "0101001."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62710",
+    "passage": ""
   }
 ]
