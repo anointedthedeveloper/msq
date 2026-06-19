@@ -3523,5 +3523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50256",
     "passage": ""
+  },
+  {
+    "id": 50257,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a function of the National Drug Law Enforcement agency (NDLEA)",
+    "options": {
+      "A": "arresting, investigating and prosecuting drug traffickers",
+      "B": "applying and implementing all drug laws",
+      "C": "undertaking the registration of campaigns on drug trafficking",
+      "D": "carrying out enlightenment campaigns on drug traficking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The National Drug Law Enforcement Agency is a Federal agency in Nigeria charged with eliminating the growing, processing, manufacturing, selling, exporting, and trafficking of hard drugs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50257",
+    "passage": ""
   }
 ]
