@@ -6003,5 +6003,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76412",
     "passage": ""
+  },
+  {
+    "id": 76413,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a skill-related component of physical fitness that is crucial for a basketball player to quickly change direction?",
+    "options": {
+      "A": "Agility",
+      "B": "Speed",
+      "C": "Reaction time",
+      "D": "Power"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Agility is defined as the ability to rapidly and accurately change the direction of the body while maintaining balance and control. This component is especially important in sports like basketball where players must frequently change direction quickly to evade opponents, make plays, or defend. While speed refers to how fast a player can move in a straight line, it does not capture the ability to change directions quickly. Power is the ability to exert force quickly, useful for explosive movements like jumping or sprinting but not specifically for directional changes. Reaction time is the time taken to respond to a stimulus, important for initiating movement but not for the physical execution of changing direction. Therefore, agility is the key skill-related component enabling a basketball player to make quick, precise movements on the court.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76413",
+    "passage": ""
   }
 ]
