@@ -9700,5 +9700,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4007",
     "passage": ""
+  },
+  {
+    "id": 4011,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g) From the equation above, calculate the mass of sodium hydroxide produced by 2.3g of sodium. [H = 1, O = 16, Na = 23]",
+    "options": {
+      "A": "0.40g",
+      "B": "0.80g",
+      "C": "4.00g",
+      "D": "8.00g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g) Relative molecular mass of NaOH = 23 + 16 + 1 = 40smol-1 2 * 23g of sodium react with water to produce 2 * 40g of NaOH ∴ 2.3g of sodium will react with water to produce (2.3 * 40 * 2)/(23 * 2) = 4.00g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4011",
+    "passage": ""
   }
 ]
