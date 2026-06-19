@@ -7936,5 +7936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3282",
     "passage": ""
+  },
+  {
+    "id": 3283,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the industrial production of H2 from natural gas the CO2 produced along with the H2 is removed by",
+    "options": {
+      "A": "washing under pressure",
+      "B": "drying over phosphorus (V) oxide",
+      "C": "passing the mixture into lime water",
+      "D": "using ammonical copper (I) chloride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Washing under pressure.\nIn the industrial production of hydrogen (H₂) from natural gas, carbon dioxide (CO₂) is produced as a byproduct. To remove CO₂ from the H₂ stream, a process called pressure swing adsorption (PSA) or chemical scrubbing is used.\nWashing under pressure involves passing the H₂-CO₂ mixture through a solution that selectively absorbs CO₂, such as an aqueous solution of monoethanolamine (MEA) or potassium carbonate (K₂CO₃). This process is effective for removing CO₂ from the H₂ stream.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3283",
+    "passage": ""
   }
 ]
