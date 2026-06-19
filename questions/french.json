@@ -4078,5 +4078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75330",
     "passage": ""
+  },
+  {
+    "id": 75404,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Combien de syllabes y a-t-il dans le mot \"animal\" ?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "6",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word \"animal\" has three syllables: a / ni / mal It is pronounced clearly in three parts in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75404",
+    "passage": ""
   }
 ]
