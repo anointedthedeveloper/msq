@@ -9429,5 +9429,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62717",
     "passage": ""
+  },
+  {
+    "id": 62718,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "(a) Explain the following terms: (i) storage device; (ii) virtual memory.\n(b) Two storage devices have capacities 2KB and 2MB respectively. (i) Calculate the number of bits that each of 2KB and 2MB can hold. 2 KB: 2 MB\n(i) Putting the two storage together, calculate the total capacity in bytes.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a)(i) Storage Device: It is a piece of computer equipment/device/hardware/peripheral which can hold or store data/information. It can also be used to transfer data.\nOR\nStorage device can either be external/internal device used to hold/store data/information, for example, magnetic disk, diskette, flash drive, hard drive. DVD and VCD.\nOR\nStorage device is a digital medium/piece of computer equipment/device/hardware capable of storing/holding data/information either temporarily or permanently.\n(i) Virtual Memory: This is the type of memory which allows a programmer to make a memory device behave as itf it has unlimited storage capacity. This supposed 'extra' memory is stored on secondary storage.\nOR\nVirtual memory is a technique by which additional memory is created on hard disc to compliment the activity of computer real memory.\nOR\nIt is temporary.storage used by a computer to run programs that need more memory than it has.\nOR\nIt is a memory management technique that provides an idealized abstraction of the storage resources that are actually available.\nOR\nIt is a given machine which creates the illusion to users of a very large memory.\nOR\nIt is a memory management capability of an operating system that uses hardware and software to allow a computer to compensate for physical memory shortages by temporarily transferring data from random access memory (RAM) to dick storage.\n(b)(i) Calculating Number of Bits Held by Each Device: 2KB (ii) Calculation of Total Capacity:\n1 Kilobyte = 1024 bytes\n1 byte =  8 bits\n2 kilobytes = 2 x 1024 x 8\n→ 16384 bits\n2MB\n1 Megabyte = 1024 kilobytes\n1 kilobyte = 1024 bytes\n2 kilobytes = 2 x 1024 x 8\n1 byte = 8 bits\nTherefore, 2MB = 2 x 1024 x 1024 x 8 = 16777216 bits\nTo add 2MB and 2KB together,\n2Mb = 2 x 1024 x 1024 bytes\n= 2097152 bytes\n2KB = 2 x 1024 bytes\n= 2048 bytes\nTotal in bytes = 2097152+ 2048 bytes\n= 2,099,200 bytes",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62718",
+    "passage": ""
   }
 ]
