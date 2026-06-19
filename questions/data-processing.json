@@ -6727,5 +6727,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67126",
     "passage": ""
+  },
+  {
+    "id": 67127,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One disadvantage of using computer for information processing is",
+    "options": {
+      "A": "Reduced running cost in the long term",
+      "B": "Low productivity",
+      "C": "The need for staff retraining",
+      "D": "The increase in processing speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is always a need to retrain staff on new technologies or update.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67127",
+    "passage": ""
   }
 ]
