@@ -12418,5 +12418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64336",
     "passage": ""
+  },
+  {
+    "id": 64337,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The rules that govern the structure of a command or programming language is called",
+    "options": {
+      "A": "Syntax",
+      "B": "Algorithm",
+      "C": "Logic",
+      "D": "Password"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Syntax refers to the rules that define the structure of a language. Syntax in computer programming means the rules that control the structure of the symbols, punctuation, and words of a programming language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64337",
+    "passage": ""
   }
 ]
