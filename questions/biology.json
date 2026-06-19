@@ -2352,5 +2352,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1161",
     "passage": ""
+  },
+  {
+    "id": 1170,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "In anaerobic respiration, glucose is converted to one of the following",
+    "options": {
+      "A": "Carbon dioxide and water",
+      "B": "Carbon dioxide only",
+      "C": "Carbon dioxide and alcohol",
+      "D": "Alcohol and water",
+      "E": "water and acetic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1170",
+    "passage": ""
   }
 ]
