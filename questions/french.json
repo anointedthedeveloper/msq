@@ -4540,5 +4540,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75570",
     "passage": ""
+  },
+  {
+    "id": 75571,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Je souhaite que vous __ beaucoup d'argent.",
+    "options": {
+      "A": "soyez",
+      "B": "ayez",
+      "C": "ai",
+      "D": "avons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Ayez\" is the correct subjunctive form of \"avoir\" for \"vous\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75571",
+    "passage": ""
   }
 ]
