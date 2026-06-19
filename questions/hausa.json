@@ -3462,5 +3462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73854",
     "passage": ""
+  },
+  {
+    "id": 73855,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "INSHA'I\nAna warware kunshin jawabi ne a",
+    "options": {
+      "A": "gabatarwa",
+      "B": "gangar jiki",
+      "C": "kammalawa",
+      "D": "adireshi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The conclusion of a letter is characterized by: Answer: kammalawa (Kammalawa means conclusion or ending, which is the correct answer. Adireshi refers to the address, gabatarwa is the introduction, gangar jiki is the body of the letter, and kanun batu is not a relevant term)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73855",
+    "passage": ""
   }
 ]
