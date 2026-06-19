@@ -6192,5 +6192,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2649",
     "passage": ""
+  },
+  {
+    "id": 2650,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In the electrolysis of brine, the anode is",
+    "options": {
+      "A": "platinum",
+      "B": "copper",
+      "C": "zinc",
+      "D": "carbon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Carbon is typically used as the anode in the electrolysis of brine. Carbon is relatively inert and can withstand the corrosive conditions of the electrolysis process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2650",
+    "passage": ""
   }
 ]
