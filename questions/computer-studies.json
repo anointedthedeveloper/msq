@@ -18915,5 +18915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71372",
     "passage": ""
+  },
+  {
+    "id": 71373,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the key innovation of the Analytical Engine?",
+    "options": {
+      "A": "It utilized a steam-powered mechanism for calculations.",
+      "B": "It introduced the concept of a central pmcessing unit (CPU) for calculations.",
+      "C": "It incorporated the idea of a memory unit to store data and programs.",
+      "D": "It employed punch cards for inputting instructions and data."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Analytical Engine, designed by Charles Babbage, though never fully built, proposed a more general-purpose computing machine with an integrated memory unit to store data and programs, separate from the processing unit. This concept became fundamental in later computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71373",
+    "passage": ""
   }
 ]
