@@ -4978,5 +4978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62335",
     "passage": ""
+  },
+  {
+    "id": 62336,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The primary memory of the computer can be divided into?",
+    "options": {
+      "A": "register and random access memory",
+      "B": "mass storage and read only memory",
+      "C": "volatile memory and auxiliary memory",
+      "D": "random access memory and read only memory."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62336",
+    "passage": ""
   }
 ]
