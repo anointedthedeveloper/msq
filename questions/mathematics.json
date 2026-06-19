@@ -10547,5 +10547,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22020",
     "passage": ""
+  },
+  {
+    "id": 22021,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A group of students took a test and the following frequency table shows the scores above\nThe median score is",
+    "options": {
+      "A": "o",
+      "B": "2.5",
+      "C": "3",
+      "D": "5",
+      "E": "7"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2765943868_wcmath19884.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906633/myschool/mathematics/2765943868_wcmath19884.png",
+    "correct_answer": "C",
+    "explanation": "There are 20 students. Hence, the median is found by the average of the 10th and 11th score.\n= \\(\\frac{3 + 3}{2}\\)\n= 3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22021",
+    "passage": ""
   }
 ]
