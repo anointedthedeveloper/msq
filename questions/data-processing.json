@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57296",
     "passage": ""
+  },
+  {
+    "id": 57297,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In spreadsheets, data would not be accepted into a cell by pressing the.",
+    "options": {
+      "A": "Enter key",
+      "B": "Arrow key",
+      "C": "Esc key",
+      "D": "Tab key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Entering Data in MS Excel\nA cell is selected in which a particular text is to be written and then enter is pressed. The tab key is used to feed the same data in different cells of Excel. Arrow keys are used to jump from one cell to another and then feed data accordingly to a particular cell. Esc cancels an entry in the cell or Formula Bar.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57297",
+    "passage": ""
   }
 ]
