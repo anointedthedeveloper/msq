@@ -2266,5 +2266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2878",
     "passage": ""
+  },
+  {
+    "id": 2879,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "45",
+      "D": "36"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2879",
+    "passage": ""
   }
 ]
