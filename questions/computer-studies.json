@@ -5838,5 +5838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62437",
     "passage": ""
+  },
+  {
+    "id": 62438,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Symptoms of computer virus attack include:\nI improved processing speeds; Il drive light coming up without apparent reason; Ill unexplainable printer activity; IV the disappearance or strange files appearance on the screen",
+    "options": {
+      "A": "l, Il and Ill only",
+      "B": "I, Ill and IV only",
+      "C": "II, IIl, and IV only",
+      "D": "I, II, Ill and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Symptoms of a computer virus attack often include drive light coming up without apparent reason, unexplainable printer activity, and file disappearance or strange files appearing on-screen. Improved processing speed is not a typical symptom of a virus attack, a virus usually slows down the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62438",
+    "passage": ""
   }
 ]
