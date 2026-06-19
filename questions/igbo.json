@@ -2727,5 +2727,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73811",
     "passage": ""
+  },
+  {
+    "id": 73812,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Write 70 in Igbo. Iri",
+    "options": {
+      "A": "asaa na iri",
+      "B": "asaa na asaa",
+      "C": "asaa",
+      "D": "asaa abụọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In Igbo language, \"iri\" means \"ten\" and \"asaa\" means \"seven\". To express \"70\" in Igbo, you multiply \"iri\" (ten) with \"asaa\" (ten) to get \"iri asaa.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73812",
+    "passage": ""
   }
 ]
