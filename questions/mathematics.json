@@ -12943,5 +12943,115 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22650",
     "passage": ""
+  },
+  {
+    "id": 22652,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Factorize x\\(^2\\) + 4x - 192",
+    "options": {
+      "A": "(x-4) (x+48)",
+      "B": "(x-48) (x+4)",
+      "C": "(x-12) (x+16)",
+      "D": "(x-12) (x-16)",
+      "E": "(x+12) (x+16)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x\\(^2\\) + 4x - 192\nx\\(^2\\) + 16x - 12x - 192\nx(x + 16) - 12(x + 16)\n(x + 16)(x - 12)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22652",
+    "passage": ""
+  },
+  {
+    "id": 22655,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Factorize 2e\\(^2\\) - 3e + 1",
+    "options": {
+      "A": "(2e-1) (e-1)",
+      "B": "(e+1) (2e+1)",
+      "C": "(2e+3) (e+2)",
+      "D": "(2e-3) (e-1)",
+      "E": "(e 2 -3(2e-1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "2e\\(^2\\) - 3e + 1\n2e\\(^2\\) - 2e - e + 1\n2e(e - 1) - 1(e - 1)\n(2e - 1)(e - 1)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22655",
+    "passage": ""
+  },
+  {
+    "id": 22657,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Solve the equation 7y\\(^2\\) = 3y",
+    "options": {
+      "A": "y = 3 or 7",
+      "B": "y = 0 or 7",
+      "C": "y = 0 or 3/7",
+      "D": "y = 0 or 9",
+      "E": "y = 0 or 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "7y\\(^2\\) = 3y\n7y\\(^2\\) - 3y = 0\ny(7y - 3) = 0\ny = 0 or y = \\(\\frac{3}{7}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22657",
+    "passage": ""
+  },
+  {
+    "id": 22660,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Find the value of m which makes x\\(^2\\) + 8 + m a perfect square",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "12",
+      "E": "16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "x\\(^2\\) + 8 + m\nTo make it a perfect square, we add \\((\\frac{b}{2})^2\\)\n= \\((\\frac{8}{2})^2\\)\n= 16",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22660",
+    "passage": ""
+  },
+  {
+    "id": 22661,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Solve the equation 2a\\(^2\\) - 3a - 27 = 0",
+    "options": {
+      "A": "3/2, 9",
+      "B": "-2/3, 9",
+      "C": "3, 9/2",
+      "D": "-3, -9/2",
+      "E": "-3, 9/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2a\\(^2\\) - 3a - 27 = 0\n2a\\(^2\\) - 9a + 6a - 27 = 0\na(2a - 9) + 3(2a - 9) = 0\n(a + 3)(2a - 9) = 0\na = -3 or a = \\(\\frac{9}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22661",
+    "passage": ""
   }
 ]
