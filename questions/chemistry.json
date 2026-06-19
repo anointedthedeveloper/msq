@@ -5163,5 +5163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2266",
     "passage": ""
+  },
+  {
+    "id": 2267,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The commonest feature of reactions at the anode is that",
+    "options": {
+      "A": "electrons are consumed",
+      "B": "oxidation is involved",
+      "C": "ions are reduced",
+      "D": "electrode dissolves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The commonest feature of reactions at the anode is that oxidation is involved, because electrons are being lost as the substance becomes positively charged.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2267",
+    "passage": ""
   }
 ]
