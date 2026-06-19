@@ -1252,5 +1252,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/542",
     "passage": ""
+  },
+  {
+    "id": 669,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Pick out the odd one",
+    "options": {
+      "A": "Metaphor",
+      "B": "Characterization",
+      "C": "Personification",
+      "D": "Rythm",
+      "E": "Simile"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/669",
+    "passage": ""
+  },
+  {
+    "id": 670,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Events in The Concubine are dominated by",
+    "options": {
+      "A": "Ihuoma",
+      "B": "Emenike",
+      "C": "The Sea god",
+      "D": "supernatural elements",
+      "E": "Ekwueme"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/670",
+    "passage": "From the novel; The Concubine"
   }
 ]
