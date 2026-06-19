@@ -1384,5 +1384,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/674",
     "passage": ""
+  },
+  {
+    "id": 675,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The central theme of Shakespeare's As You Like It is",
+    "options": {
+      "A": "wrestling",
+      "B": "disguise",
+      "C": "forest life",
+      "D": "disagreement between brothers",
+      "E": "the nature of true love"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/675",
+    "passage": "From the novel; As You Like It"
   }
 ]
