@@ -5475,5 +5475,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2658",
     "passage": ""
+  },
+  {
+    "id": 2662,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : .... a good film. Wasn’t it?",
+    "options": {
+      "A": "It is",
+      "B": "Was it",
+      "C": "There is",
+      "D": "It was",
+      "E": "There was"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Since the tag “Wasn’t it?” is in the past tense, the main clause must also be in the past tense. “It was a good film, wasn’t it?” → correct agreement of tense and structure.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2662",
+    "passage": ""
   }
 ]
