@@ -17565,5 +17565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69844",
     "passage": ""
+  },
+  {
+    "id": 69845,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The unit of the computer system that directs and supervises other units is called the",
+    "options": {
+      "A": "memory unit.",
+      "B": "control unit.",
+      "C": "arithmetic logic unit.",
+      "D": "accumulator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The unit of the computer system that directs and supervises other units is called the \"control unit.\" The control unit is a critical component of a computer's central processing unit (CPU). It is responsible for fetching program instructions from memory, interpreting them, and coordinating the execution of these instructions by sending control signals to other units within the CPU and other parts of the computer system. The control unit ensures that data is processed in the correct sequence and that the various components of the CPU work together harmoniously to carry out the instructions of a program. It is like the \"brain\" of the CPU, managing the flow of data and instructions and ensuring that the computer performs its tasks correctly and efficiently",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69845",
+    "passage": ""
   }
 ]
