@@ -8419,5 +8419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14058",
     "passage": ""
+  },
+  {
+    "id": 14064,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A short chain is sometimes attached to the back of a petrol tanker to?",
+    "options": {
+      "A": "generate more friction",
+      "B": "ensure the balancing of the tanker",
+      "C": "caution the driver when overspeeding",
+      "D": "conduct excess charges to the earth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The friction between the tanker and air creates charges which the chain conducts to the ground.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14064",
+    "passage": ""
   }
 ]
