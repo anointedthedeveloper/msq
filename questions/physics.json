@@ -2245,5 +2245,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9211",
     "passage": ""
+  },
+  {
+    "id": 9212,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Energy losses through eddy currents are reduced by using",
+    "options": {
+      "A": "low resistance wires",
+      "B": "insulated soft iron wires",
+      "C": "few turns of wires",
+      "D": "high resistance wires"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Eddy currents are loops of electric current induced in conductors by a changing magnetic field, leading to energy losses as heat. Using insulated soft iron wires helps minimize these losses by reducing electrical conductivity and preventing the flow of these currents through insulation.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9212",
+    "passage": ""
   }
 ]
