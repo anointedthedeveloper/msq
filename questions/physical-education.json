@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64235",
     "passage": ""
+  },
+  {
+    "id": 64237,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is a traditional dance?",
+    "options": {
+      "A": "Atilogwu",
+      "B": "Gospel",
+      "C": "High life",
+      "D": "Jazz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Atilogwu is an igbo traditional dance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64237",
+    "passage": ""
   }
 ]
