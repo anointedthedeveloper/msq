@@ -1215,5 +1215,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73647",
     "passage": ""
+  },
+  {
+    "id": 73648,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "\"Audu ya hau keke sabo jiya.\" Kalmomin suna nawa ne a cikin wannan jimla?",
+    "options": {
+      "A": "Biyu",
+      "B": "Uku",
+      "C": "Hudu",
+      "D": "Biyar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is Biyu. The question is asking how many nouns are in the sentence. The sentence \"Audu ya hau keke sabo jiya\" contains two nouns: \"Audu\" (a person's name) and \"keke\" (a bicycle). Therefore, the correct answer is Biyu (two). Note that \"sabo\" is an adjective modifying the noun \"keke\", and \"jiya\" is an adverb indicating the time of the action, so they are not counted as nouns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73648",
+    "passage": ""
   }
 ]
