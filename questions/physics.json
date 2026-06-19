@@ -11469,5 +11469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14471",
     "passage": ""
+  },
+  {
+    "id": 14472,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following will be applied when a metal Y is used to electroplate another metal X in electrolysis?",
+    "options": {
+      "A": "X is the anode and very high current is used",
+      "B": "X is the anode and Y is the cathode",
+      "C": "Y is the cathode and X is the anode",
+      "D": "Y is the anode and very high current is used"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14472",
+    "passage": ""
   }
 ]
