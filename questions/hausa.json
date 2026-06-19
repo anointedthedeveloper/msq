@@ -8242,5 +8242,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76222",
     "passage": ""
+  },
+  {
+    "id": 76223,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane bangare na harshe ne kalmar *dadi *?",
+    "options": {
+      "A": "Suna",
+      "B": "Kari",
+      "C": "Aiki",
+      "D": "Sifa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Dadi\" is an adjective because it describes the quality of something.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76223",
+    "passage": ""
   }
 ]
