@@ -2770,5 +2770,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1244",
     "passage": ""
+  },
+  {
+    "id": 1245,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A mosquito which produces eggs which float, and whose larvae lie horizontal to the water surface, also rests at the angle on a vertical surface. This type of mosquito is",
+    "options": {
+      "A": "Aedes",
+      "B": "Anopheles",
+      "C": "Culex",
+      "D": "Tiger mosquito",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1245",
+    "passage": ""
   }
 ]
