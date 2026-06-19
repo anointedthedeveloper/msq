@@ -4331,5 +4331,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2059",
     "passage": ""
+  },
+  {
+    "id": 2061,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choosing the\nappropriate option\nto fill the gap in the following sentences\n:\nAs a result of the injury sustained on the football field, Segun was .... with a broken leg for months",
+    "options": {
+      "A": "laid down",
+      "B": "laid out",
+      "C": "laid on",
+      "D": "laid up",
+      "E": "laid off"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2061",
+    "passage": ""
   }
 ]
