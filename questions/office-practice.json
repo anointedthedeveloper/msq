@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66125",
     "passage": ""
+  },
+  {
+    "id": 66132,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following document is not used for business transaction?",
+    "options": {
+      "A": "price list",
+      "B": "quotation",
+      "C": "circular",
+      "D": "invoice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Circular is not used for business transaction. It is an official letter that is sent to different number of people at the same time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66132",
+    "passage": ""
   }
 ]
