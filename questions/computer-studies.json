@@ -18453,5 +18453,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70973",
     "passage": ""
+  },
+  {
+    "id": 70975,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What are some key components of an ICT system?",
+    "options": {
+      "A": "Printers, paper, and pens",
+      "B": "Books, libraries, and classrooms",
+      "C": "Televisions, radios, and telephones",
+      "D": "Hardware, software, and networks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "ICT systems encompass hardware (physical devices like computers), software (programs and applications), and network (communication channels) that together enable information processing storage and communication.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70975",
+    "passage": ""
   }
 ]
