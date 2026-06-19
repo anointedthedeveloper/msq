@@ -5065,5 +5065,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75874",
     "passage": ""
+  },
+  {
+    "id": 75875,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Maman m'a donné __œufs.",
+    "options": {
+      "A": "de",
+      "B": "une",
+      "C": "du",
+      "D": "des"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Œufs\" is plural, so the correct article to use is \"des\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75875",
+    "passage": ""
   }
 ]
