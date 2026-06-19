@@ -2601,5 +2601,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1563",
     "passage": ""
+  },
+  {
+    "id": 1564,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Potassium vapour burns with a",
+    "options": {
+      "A": "blue flame",
+      "B": "brick-red flame",
+      "C": "violet flame",
+      "D": "golden-yellow flame"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When potassium is heated, it produces a violet or lilac flame because the electrons are excited to higher energy orbitals.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1564",
+    "passage": ""
   }
 ]
