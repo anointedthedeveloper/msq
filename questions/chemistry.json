@@ -9154,5 +9154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3834",
     "passage": ""
+  },
+  {
+    "id": 3838,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Calculate the mass of chlorine gas which occupies a volume of 1.12dm\n3\nat s.t.p\n[Cl = 35.5, molar volume of gas at s.t.p = 22.4 dm\n3",
+    "options": {
+      "A": "15.50 g",
+      "B": "7.10 g",
+      "C": "3.55 g",
+      "D": "1.80 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3838",
+    "passage": ""
   }
 ]
