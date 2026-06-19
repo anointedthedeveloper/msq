@@ -4827,5 +4827,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2234",
     "passage": ""
+  },
+  {
+    "id": 2235,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Neutral atoms of neon with atomic number 10 have the same number of electron as",
+    "options": {
+      "A": "O 2+",
+      "B": "Ca 2+",
+      "C": "K +",
+      "D": "Mg 2+"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Neutral atom of Ne has 10 electrons. Similarly, Mg\\(^{2+}\\) has 12 protons(atomic number) and 10 electrons because Mg\\(^{2+}\\) will donate or give out 2 electrons from the 12 and become reduced to 10 electrons. On the other hand, O\\(^{2+}\\), Ca\\(^{2+}\\), and K\\(^+\\) all have 6, 18 and 18 electrons respectively.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2235",
+    "passage": ""
   }
 ]
