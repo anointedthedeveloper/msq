@@ -4349,5 +4349,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76017",
     "passage": ""
+  },
+  {
+    "id": 76018,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A letter containing valuable documents would be sent by",
+    "options": {
+      "A": "electronic mail",
+      "B": "registered mail",
+      "C": "surface handling",
+      "D": "airmail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Registered mail is a mail service offered by postal services in many countries, which allows the sender proof of mailing via a mailing receipt and, upon request, electronic verification that an article was delivered or that a delivery attempt was made. This makes it the most secure way to send a letter containing valuable documents. Electronic mail wouldn't be suitable for physical documents, and surface handling and airmail don't provide the same level of security.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76018",
+    "passage": ""
   }
 ]
