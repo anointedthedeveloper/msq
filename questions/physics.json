@@ -17777,5 +17777,27 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25031"
+  },
+  {
+    "id": 25047,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A radioactive substance has a half-life of 20 hours. What fraction of the original radioactive nuclide will remain after 80 hours?",
+    "options": {
+      "A": "1/32",
+      "B": "\\(\\frac{1}{16}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{1}{4}\\)",
+      "E": "\\(\\frac{1}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Fraction remaining  = (\\(\\frac{1}{2}\\))\\(^{\\frac{t}{T_{\\frac{1}{2}}}}\\)\nBUT \\(\\frac{t}{T_{\\frac{1}{2}}}\\) = \\(\\frac{80}{20}\\) = 4\nFraction remaining = (\\(\\frac{1}{2})^4\\) = \\(\\frac{1}{16}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25047",
+    "passage": ""
   }
 ]
