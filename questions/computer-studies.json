@@ -16158,5 +16158,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67828",
     "passage": ""
+  },
+  {
+    "id": 67829,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following can be used to select the entire document ?",
+    "options": {
+      "A": "Ctrl + K",
+      "B": "Ctrl + A",
+      "C": "Shift + A",
+      "D": "Alt + F5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The keyboard shortcut 'Ctrl + A' is used to select the entire document in most word processing software. This command selects all text or other content in the document.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67829",
+    "passage": ""
   }
 ]
