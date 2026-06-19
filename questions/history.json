@@ -12038,5 +12038,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68543",
     "passage": ""
+  },
+  {
+    "id": 68544,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What was the primary reason for the military takeover by the Abacha regime?",
+    "options": {
+      "A": "To implement economic reforms",
+      "B": "To promote religious freedom",
+      "C": "To restore democracy",
+      "D": "To fight corruption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The primary reason for the military takeover by the Abacha regime was to restore democracy. This is a common reason given by military regimes when they seize power, often citing corruption, inefficiency, or instability in the existing democratic government. However, it's important to note that the actual outcomes of such takeovers often do not align with these stated goals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68544",
+    "passage": ""
   }
 ]
