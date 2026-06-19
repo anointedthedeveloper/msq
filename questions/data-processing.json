@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57285",
     "passage": ""
+  },
+  {
+    "id": 57287,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Companies that provide internet access are referred to as",
+    "options": {
+      "A": "fixed network operators",
+      "B": "network service providers",
+      "C": "internet service providers",
+      "D": "internet network operators"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57287",
+    "passage": ""
   }
 ]
