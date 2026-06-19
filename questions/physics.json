@@ -9154,5 +9154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14246",
     "passage": ""
+  },
+  {
+    "id": 14247,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If negative charges are induced on an electroscope and a positively charged rod is brought near the cap of the electroscope, the leaves will?",
+    "options": {
+      "A": "close up",
+      "B": "become positively charged",
+      "C": "become negatively charged",
+      "D": "open further"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The leaves collapse as the positive charges on the rod neutralize the negative charges on the electroscope.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14247",
+    "passage": ""
   }
 ]
