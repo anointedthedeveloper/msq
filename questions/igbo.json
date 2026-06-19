@@ -1969,5 +1969,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73775"
+  },
+  {
+    "id": 73776,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How many letters are there in Igbo alphabet?",
+    "options": {
+      "A": "Iri abụọ na abụọ",
+      "B": "Asatọ",
+      "C": "Anọ",
+      "D": "Iri atọ na isii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73776"
   }
 ]
