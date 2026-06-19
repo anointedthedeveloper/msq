@@ -3517,5 +3517,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1950",
     "passage": ""
+  },
+  {
+    "id": 1951,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the word or phrase\nclosest in meaning\nto the underlined word\n:\nDon't eat just any\ninnocuous\nlooking mushroom you see around",
+    "options": {
+      "A": "harmful",
+      "B": "harmless",
+      "C": "innocent",
+      "D": "immunized",
+      "E": "conspicuous"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1951",
+    "passage": ""
   }
 ]
