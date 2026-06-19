@@ -10133,5 +10133,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62752",
     "passage": ""
+  },
+  {
+    "id": 62753,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The minimum number of computers that can constitute a network is?",
+    "options": {
+      "A": "thirty.",
+      "B": "twenty.",
+      "C": "ten.",
+      "D": "two."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A computer network is an interconnection among two or more computers or computing devices. Therefore, The minimum number of computers that can constitute a network should be at least 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62753",
+    "passage": ""
   }
 ]
