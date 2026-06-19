@@ -1,12 +1,16 @@
 name: Scrape Past Questions
 
 on:
+  # Runs daily at 2am UTC — scrapes all subjects to pick up new questions
+  # Note: GitHub only activates scheduled runs after the workflow has been
+  # triggered manually at least once.
   schedule:
     - cron: "0 2 * * *"
+  # Manual trigger from the GitHub Actions tab
   workflow_dispatch:
     inputs:
       subject:
-        description: "Subject slug to scrape (leave empty for ALL 37 subjects)"
+        description: "Subjects to scrape — comma separated (e.g. mathematics,physics,chemistry) or leave empty for ALL 37"
         required: false
         default: ""
       pages:
@@ -55,7 +59,8 @@ jobs:
           fi
 
           if [ -n "$INPUT_SUBJECT" ]; then
-            SUBJECTS="$INPUT_SUBJECT"
+            # Support comma-separated list: "mathematics,physics,chemistry"
+            SUBJECTS=$(echo "$INPUT_SUBJECT" | tr ',' ' ')
           else
             SUBJECTS="mathematics english-language chemistry physics biology geography literature-in-english economics commerce accounts-principles-of-accounts government christian-religious-knowledge-crk agricultural-science islamic-religious-knowledge-irk history fine-arts music french animal-husbandry insurance civic-education further-mathematics yoruba igbo arabic home-economics hausa book-keeping data-processing catering-craft-practice computer-studies marketing physical-education office-practice technical-drawing food-and-nutrition home-management"
           fi
