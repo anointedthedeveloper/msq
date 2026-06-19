@@ -6060,5 +6060,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62449",
     "passage": ""
+  },
+  {
+    "id": 62450,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A computer that requests the services of another computer on a network is called a?",
+    "options": {
+      "A": "client",
+      "B": "host",
+      "C": "master",
+      "D": "server"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62450",
+    "passage": ""
   }
 ]
