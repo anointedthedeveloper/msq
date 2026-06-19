@@ -1510,5 +1510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76312",
     "passage": ""
+  },
+  {
+    "id": 76313,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Sing ye choirs of angels\nSing to God on high\nThe text above is best represented in",
+    "options": {
+      "A": "m:m.m|m:f:s|s:-:s|m:-:-|f:f:f|r:-:t|d:-:-||",
+      "B": "m.m:-.m|m:f|s:s.f|m:s|f:f|r:t|d:-||",
+      "C": "m:m.m|m:f|s:-.s|m:-m|f:f:f|r:t:r:t|d:-|-:-||",
+      "D": "m:m|m:f|s:-|m:-|f:f|r:t|d:-|-:-||"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This transcription uses the Curwen method (tonic sol-fa) to represent the melody. Here is how the notation aligns with the lyrics:\nMetric Alignment: The song is in 4/4 time . In the sol-fa notation, the colon ( : ) separates beats, and the vertical bar ( | ) represents the bar line (the start of a new measure). Syllabic Mapping: \"Sing ye\" : m:m (Mi - Mi) — Two quarter notes. \"choirs of\" : m:f (Mi - Fa) — Two quarter notes. \"an-\" : s:- (So) — A half note (held for two beats). \"gels\" : m:- (Mi) — A half note (held for two beats). \"Sing to\" : f:f (Fa - Fa) — Two quarter notes. \"God on\" : r:t (Re - Ti) — Two quarter notes. \"high\" : d:-|-:- (Do) — A whole note (held across the rest of the measure).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76313",
+    "passage": ""
   }
 ]
