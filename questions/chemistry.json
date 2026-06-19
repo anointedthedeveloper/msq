@@ -3630,5 +3630,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1732",
     "passage": ""
+  },
+  {
+    "id": 1733,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The pair of organic compounds that are isomers is",
+    "options": {
+      "A": "Benzene and methylbenzene",
+      "B": "Trichloromethane and tetrachloromethane",
+      "C": "Ethanol and propane",
+      "D": "But-1-ene and but-2-ene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Isomers refer to compounds that have the same molecular formula but are structurally different . Both But-1-ene and But-2-ene have the same number of Carbons and the same number of Hydrogen. The only difference is the positions of the double bond. Therefore, they are isomers\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1733",
+    "passage": ""
   }
 ]
