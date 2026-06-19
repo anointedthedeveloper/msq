@@ -19881,5 +19881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72659",
     "passage": ""
+  },
+  {
+    "id": 72660,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Read Only Memory (ROM) contains",
+    "options": {
+      "A": "current program in operation.",
+      "B": "preset instructions for operation.",
+      "C": "user instructions.",
+      "D": "volatile programs."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The ROM contains present instruction for operation. It is a non-volatile memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72660",
+    "passage": ""
   }
 ]
