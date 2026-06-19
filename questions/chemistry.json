@@ -5688,5 +5688,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2530",
     "passage": ""
+  },
+  {
+    "id": 2531,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The principal constituent of natural gas is",
+    "options": {
+      "A": "methane",
+      "B": "ethane",
+      "C": "propane",
+      "D": "butane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Natural gas is mostly methane, with small amounts of other alkanes like ethane, propane, butane, and pentane. It may also contain trace amounts of contaminants like water vapour, carbon(iv)oxide, nitrogen, and hydrogen sulphide. The main constituent of natural gas is methane, CH\\(_4\\), a simple hydrocarbon compound.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2531",
+    "passage": ""
   }
 ]
