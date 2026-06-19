@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73173",
     "passage": ""
+  },
+  {
+    "id": 73174,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "An artist who has blue, red, and yellow colours can obtain violet by mixing",
+    "options": {
+      "A": "Blue with green",
+      "B": "Yellow with blue",
+      "C": "Red with blue",
+      "D": "All the three colours"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Violet is a secondary colour created by mixing two primary colours: red and blue. Mixing them in different ratios produces various shades of violet — from bright pinkish-purple to deep plum tones.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73174",
+    "passage": ""
   }
 ]
