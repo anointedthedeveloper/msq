@@ -2616,5 +2616,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61818",
     "passage": ""
+  },
+  {
+    "id": 61819,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "When a file or folder is deleted, it goes to the?",
+    "options": {
+      "A": "Hard disk",
+      "B": "Memory",
+      "C": "Monitor",
+      "D": "Recycle bin",
+      "E": "System unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61819",
+    "passage": ""
   }
 ]
