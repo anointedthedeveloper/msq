@@ -2706,5 +2706,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1568",
     "passage": ""
+  },
+  {
+    "id": 1569,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Unsaturated organic compounds are identified by decolourization of",
+    "options": {
+      "A": "silver bromine and potassium tetraoxomanganate (VII) solutions",
+      "B": "bromine water and acidified potassium tetraoxomanganate (VII) solution",
+      "C": "silver bromide solution and bromine water",
+      "D": "bromine water and alkaline potassium tetraoxomanganate (VII) solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Unsaturated organic compounds are identified by the decolorization of bromine water.The acidified potassium manganate(VII) solution oxidizes the alkene by breaking the carbon-carbon double bond and replacing it with two carbon-oxygen double bonds. The products are known as carbonyl compounds because they contain the carbonyl group, C=O. Thus, they are decolourized as well.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1569",
+    "passage": ""
   }
 ]
