@@ -460,5 +460,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/360",
     "passage": ""
+  },
+  {
+    "id": 361,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which ONE of the following statements about the railway lines of Africa is false?",
+    "options": {
+      "A": "There is no trans-continental railway in Africa which can be compared with the Trans-Siberian Railway in length or importance",
+      "B": "Africa's railway lines are all of uniform gauge",
+      "C": "Few railway lines in Africa cross from one country to another",
+      "D": "The railway lines of Africa generally run from the coast inland",
+      "E": "The densest railway network in Africa is in the Republic of South Africa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/361",
+    "passage": ""
   }
 ]
