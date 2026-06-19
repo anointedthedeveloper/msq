@@ -3862,5 +3862,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7958",
     "passage": ""
+  },
+  {
+    "id": 7962,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The sum of the interior angles of a pentagon is 6x + 6y. Find y in the terms of x",
+    "options": {
+      "A": "y = 90 - x",
+      "B": "y = 150 - x",
+      "C": "y = 60 - x",
+      "D": "y = 120 -x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7962",
+    "passage": ""
   }
 ]
