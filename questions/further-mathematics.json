@@ -3567,5 +3567,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50538",
     "passage": ""
+  },
+  {
+    "id": 50542,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A box contains 5 red and k blue balls. A ball is selected at random from the box. If the probability of selecting a blue ball is \\(\\frac{2}{3}\\), find the value of k.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "8",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(p(blue) = \\frac{\\text{no of blue balls}}{\\text{total no of balls}}\\)\n= \\(\\frac{2}{3} = \\frac{k}{k + 5}\\)\n\\(3k = 2(k + 5)  \\implies 3k = 2k + 10\\)\n\\(3k - 2k = k = 10\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50542",
+    "passage": ""
   }
 ]
