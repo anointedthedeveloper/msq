@@ -13132,5 +13132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64378",
     "passage": ""
+  },
+  {
+    "id": 64379,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which doesn't belong to the group?",
+    "options": {
+      "A": "Flash drive",
+      "B": "Floppy disk",
+      "C": "Compact disk",
+      "D": "Memory unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Memory unit doesn't belong to the group because, it is a software and not a hard ware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64379",
+    "passage": ""
   }
 ]
