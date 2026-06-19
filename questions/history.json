@@ -11429,5 +11429,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68514",
     "passage": ""
+  },
+  {
+    "id": 68515,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Lake Victoria, one of the largest freshwater lakes in the world, is shared by three countries. Which of the following countries is NOT among them?",
+    "options": {
+      "A": "Uganda",
+      "B": "Tanzania",
+      "C": "Kenya",
+      "D": "Mozambique"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Lake Victoria is one of the largest freshwater lakes in the world and is shared by three countries: Uganda, Kenya, and Tanzania. Mozambique is not among the countries that share Lake Victoria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68515",
+    "passage": ""
   }
 ]
