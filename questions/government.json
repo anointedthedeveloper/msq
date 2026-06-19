@@ -15605,5 +15605,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/16617",
     "passage": ""
+  },
+  {
+    "id": 16621,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The ten non-permanent members of the Un Security are elected by",
+    "options": {
+      "A": "a two- third majority of the General Assembly for a period of two years",
+      "B": "a simple majority of the General Assemby for a period of two years",
+      "C": "a two-third majority of the General Assembly for a period of one year",
+      "D": "a simple majority of the General Assembly for a period of one year",
+      "E": "the Security Council and the General Assembly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The election process requires a two-thirds majority vote in the General Assembly, and the members serve for a two-year term.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/16621",
+    "passage": ""
   }
 ]
