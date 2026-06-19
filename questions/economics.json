@@ -680,5 +680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/444",
     "passage": ""
+  },
+  {
+    "id": 445,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Opportunity cost is a term which describe",
+    "options": {
+      "A": "The initial cost of setting up a business venture",
+      "B": "Cost of one product in terms of foregone production of others",
+      "C": "The monetary equivalent of the utility of commodity",
+      "D": "Cost related to an optimum level of production",
+      "E": "Implicit cost"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/445",
+    "passage": ""
   }
 ]
