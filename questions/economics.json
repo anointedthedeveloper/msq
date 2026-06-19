@@ -1977,5 +1977,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/681",
     "passage": ""
+  },
+  {
+    "id": 682,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The burden of tax on a commodity whose demand is infinitely inelastic",
+    "options": {
+      "A": "is zero",
+      "B": "will be borne by the seller alone",
+      "C": "will be borne by the buyer alone",
+      "D": "will be borne by both buyer and seller",
+      "E": "is impossible to tell who bears it"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In cases where demand is infinitely inelastic, consumers will buy the same quantity of the good regardless of price increases. This means that if a tax is imposed, sellers can pass the entire tax burden onto consumers, as they have no alternative but to buy the product at any price. Consequently, the buyers are the only ones who bear the cost of the tax.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/682",
+    "passage": ""
   }
 ]
