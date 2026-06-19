@@ -12390,5 +12390,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7276",
     "passage": ""
+  },
+  {
+    "id": 7279,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The internet is a system of telecommunications used for?",
+    "options": {
+      "A": "communicating long-distance messages",
+      "B": "sending and recieving text massages",
+      "C": "sending electronic messages",
+      "D": "communicating messages through telegrams"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Internet is a vast network that connects computers, phones, and gadgets all over the world, with people sharing information and communicating through electronic messages from anywhere with an Internet connection.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7279",
+    "passage": ""
   }
 ]
