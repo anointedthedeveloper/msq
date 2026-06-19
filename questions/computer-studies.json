@@ -17397,5 +17397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69835",
     "passage": ""
+  },
+  {
+    "id": 69836,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Personalized form of letters which can be sent to many people can be achieved using",
+    "options": {
+      "A": "template.",
+      "B": "mail merge.",
+      "C": "query",
+      "D": "macros"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Personalized form of letters which can be sent to many people can be achieved using \"mail merge\". Mail merge is a feature in word processing software that allows you to create a single document that contains personalized information for multiple recipients. For example, you can use mail merge to create a form letter that includes the recipient's name and address. To use mail merge, you first need to create a template document that contains the static content of the letter. This might include the letterhead, the body of the letter, and the signature block. You then need to create a data source that contains the recipient information. This might be a spreadsheet or a database. Once you have created the template document and the data source, you can use mail merge to create the personalized letters. To do this, you simply select the mail merge options in your word processing software and then follow the prompts. Mail merge is a very efficient way to create personalized letters. It can save you a lot of time and effort, and it ensures that your letters are accurate and consistent",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69836",
+    "passage": ""
   }
 ]
