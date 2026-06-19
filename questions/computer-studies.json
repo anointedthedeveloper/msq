@@ -14560,5 +14560,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64878",
     "passage": ""
+  },
+  {
+    "id": 64881,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The protocol used for email transmission is known as ?",
+    "options": {
+      "A": "HTTP",
+      "B": "DHCP",
+      "C": "IP",
+      "D": "SMTP"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"SMTP\"  Protocol is used for Email . A simple Mail Transfer Protocol is known as SMTP. An internet-standard protocol for transmitting electronic mail is called Simple Mail Transfer Protocol (SMTP).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64881",
+    "passage": ""
   }
 ]
