@@ -2413,5 +2413,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73288",
     "passage": ""
+  },
+  {
+    "id": 73289,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Exclusive breastfeeding is from ............ months",
+    "options": {
+      "A": "0-7",
+      "B": "0-4",
+      "C": "0-5",
+      "D": "0-6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Exclusive breastfeeding is recommended by the World Health Organization (WHO) for the first six months of an infant's life, from birth to 6 months (0–6 months). This means the baby should receive only breast milk and no other foods or liquids, except for vitamin drops or medications if necessary. Exclusive breastfeeding for the first six months provides optimal nutrition, health, and development benefits for babies, and is a crucial period for bonding and establishing a strong milk supply.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73289",
+    "passage": ""
   }
 ]
