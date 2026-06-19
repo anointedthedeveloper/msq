@@ -902,5 +902,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57644",
     "passage": ""
+  },
+  {
+    "id": 57668,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given an internet connected computer, outline a step by step procedure for carrying out the following operations;\n(a) How to log on to www.mybooks.com and obtain the prices of books W, X, Y, Z and M.\n(b) How to tabulate the prices in a worksheet, showing the prices in dollars and the naira equivalent, for each book and save the workbook as \"Prices of Books\". Assume that the prices of the books are given in dollars, [use $1.00=N120.00].\n(c) How to send the workbook in 5(b) as an attachment to your father's email address (myfather@yahoo.com) with the subject \"Price of Books\".",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "5(a) (I) Click the start menu (II) Double click the browser (e.g Opera, Mozilla Firefox or Google Chrome). In the address box, enter the address i.e www.mybooks.com . Identify the column that has price. Click on it (price) to obtain the prices of the books .\n(b) Press Ctrl + C key to copy the books and their prices and press Ctrl + V to paste into a worksheet tabular form while not forgetting to state prices in its naira equivalent , save the document as \"Price of Books\"press OK to save.\n(c) 1. Go back to the browser you opened earlier and open a new tab, type the website of the email service provider you want to use (e.g www.yahoo.com, www.gmail.com or ww.hotmail.com)\n2. Click on mail to sign-in with your email address and password.\n3. Click on compose mail button.\n4. Click on attach.\n5. Click on browse locate the file (i.e prices of books).\n6. Click on the file after you have found it.\n7. Click inside the TO { } box and type myfather@yahoo.com\n8. Click inside the Title { } box and type \"Prices of Books\"\n9. In the space below, type attached here for your perusal is the prices of books.\n10. Click send.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57668",
+    "passage": ""
   }
 ]
