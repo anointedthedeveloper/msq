@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64158",
     "passage": ""
+  },
+  {
+    "id": 64159,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Grouping of people into body types is known as",
+    "options": {
+      "A": "classification",
+      "B": "recruitment",
+      "C": "screening",
+      "D": "somatotype"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is known as somatotype.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64159",
+    "passage": ""
   }
 ]
