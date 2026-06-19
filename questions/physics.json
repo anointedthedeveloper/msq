@@ -4366,5 +4366,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12281",
     "passage": ""
+  },
+  {
+    "id": 12282,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The phenomenon where by the water droplets in the atmosphere combines with dust particles in the air to reduce visibility is",
+    "options": {
+      "A": "cloud",
+      "B": "mist",
+      "C": "hail",
+      "D": "fog"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Fog is a weather phenomenon when water droplets condense in the air, often around dust or other particulate matter. This condensation significantly reduces visibility. Mist : Similar to fog, but generally has higher visibility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12282",
+    "passage": ""
   }
 ]
