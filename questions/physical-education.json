@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64438",
     "passage": ""
+  },
+  {
+    "id": 64439,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following diseases does regular exercise correct?",
+    "options": {
+      "A": "Goiter",
+      "B": "Kwashiokor",
+      "C": "Obesity",
+      "D": "Pellagra"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Regular exercise helps to correct Obesity. Obesity is the build of excessive fat in the body. Regular exercise helps to burn down this excess fat",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64439",
+    "passage": ""
   }
 ]
