@@ -858,5 +858,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73472",
     "passage": ""
+  },
+  {
+    "id": 73519,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "'Fati ta dafa abinci'. Kalmar 'dafa' a wannan jimla ......... ce.",
+    "options": {
+      "A": "aikatau",
+      "B": "bayanau",
+      "C": "suna",
+      "D": "sifa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is aikatau. The word \"dafa\" in the sentence is a verb (aikatau), specifically a cooking verb meaning \"to cook\" or \"to prepare\". In the sentence, \"dafa\" is describing the action of cooking, which is a verb. The other options - bayanau (adverb), sifa (adjective) suna (noun), and wakilin suna (pronoun) - do not fit the context of the word \"dafa\" in the sentence. Therefore, the correct answer is A. aikatau.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73519",
+    "passage": ""
   }
 ]
