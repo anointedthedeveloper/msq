@@ -2713,5 +2713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71087",
     "passage": ""
+  },
+  {
+    "id": 71088,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "J'ai vu ____ le monde.",
+    "options": {
+      "A": "toute",
+      "B": "tou",
+      "C": "toutes",
+      "D": "tout"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is tout The correct sentence would be: \"J'ai vu tout le monde.\" Which translates to \"I have seen everyone\" or \"I have seen the whole world\". Here, \"tout\" is a masculine form of \"all\" or \"whole\", and it agrees with the masculine noun \"monde\" (world). Note: If the sentence were \"J'ai vu toute la ville\", then \"toute\" would be the correct answer, as \"ville\" is a feminine noun. But in this case, \"tout\" agrees with the masculine noun \"monde\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71088",
+    "passage": ""
   }
 ]
