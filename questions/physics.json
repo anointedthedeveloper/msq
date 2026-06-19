@@ -9259,5 +9259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14265",
     "passage": ""
+  },
+  {
+    "id": 14266,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A piece of radioactive material contains 10\\(^{20}\\) atoms. If the half life of the material is 20 seconds, the number of disintegration in the first second is?",
+    "options": {
+      "A": "3.47 x 10 18",
+      "B": "6.93 x 10 20",
+      "C": "3.47 x 10 20",
+      "D": "6.93 x 10 18"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The number of disintegration,∆N in time interval At, is given by - ∆N = N∆t Where N is the number of atoms present at the time t But ^ = (0.693)/T\n= 0.693 ÷ 20\n= 0.0347 ∴ ∆N = 0.0347 \\(\\times\\) 10\\(^20\\)\n= 3.47 \\(\\times\\) 10\\(^18\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14266",
+    "passage": ""
   }
 ]
