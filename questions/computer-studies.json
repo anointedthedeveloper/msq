@@ -2055,5 +2055,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61499",
     "passage": ""
+  },
+  {
+    "id": 61500,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A computer program that gathers information about a person or organization without their knowledge or consent  is known known as",
+    "options": {
+      "A": "adware",
+      "B": "time bomb",
+      "C": "trojan horse",
+      "D": "spyware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Spyware is a malicious software designed to enter your computer device, gather data about you, and forward it to a third party without your knowledge.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61500",
+    "passage": ""
   }
 ]
