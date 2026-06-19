@@ -853,5 +853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/931",
     "passage": ""
+  },
+  {
+    "id": 932,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "When the gradient of a river channel changes from a steep to a gentle angle, the main activity of the river will be",
+    "options": {
+      "A": "depositing",
+      "B": "eroding",
+      "C": "deepening",
+      "D": "terracing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/932",
+    "passage": ""
   }
 ]
