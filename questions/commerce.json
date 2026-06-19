@@ -6257,5 +6257,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2156",
     "passage": ""
+  },
+  {
+    "id": 2157,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The temporary working area of the central processing unit is called the?",
+    "options": {
+      "A": "C-D ROM",
+      "B": "C-D RAM",
+      "C": "ROM",
+      "D": "RAM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "RAM (Random Access Memory) is the temporary working area of the central processing unit (CPU). It is used to store data and instructions that the CPU needs while performing tasks. Unlike ROM (Read-Only Memory), which is used for permanent storage, RAM is volatile, meaning it loses its content when the computer is turned off.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2157",
+    "passage": ""
   }
 ]
