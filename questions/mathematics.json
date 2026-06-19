@@ -2917,5 +2917,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3388",
     "passage": ""
+  },
+  {
+    "id": 3390,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The acres for rice, pineapple, cassava, cocoa, and palm oil in a certain district are given respectively as 2, 5, 3, 11, and 9. What is the angle sector for cassava in a pie chart?",
+    "options": {
+      "A": "108°",
+      "B": "180°",
+      "C": "36°",
+      "D": "60°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Total: 2 + 5 + 3 + 11 + 9 = 30\nCassava: \\(\\frac{3}{30} \\times 360° = 36°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3390",
+    "passage": ""
   }
 ]
