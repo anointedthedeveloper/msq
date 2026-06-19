@@ -6970,5 +6970,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9233",
     "passage": ""
+  },
+  {
+    "id": 9234,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Find the sum to infinity of the series \\(2+\\frac{3}{2}+\\frac{9}{8}+\\frac{27}{32}+......\\)",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "8",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "a = 2 r = \\(\\frac{3}{4}\\) S = \\(\\frac{a}{1-r}\\) S = \\(\\frac{2}{1-\\frac{3}{4}}\\) = \\(\\frac{2}{\\frac{1}{4}}\\) S = \\(\\frac{2}{1}\\times \\frac{4}{1}\\) = 8.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9234",
+    "passage": ""
   }
 ]
