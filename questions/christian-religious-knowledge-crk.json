@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/45",
     "passage": ""
+  },
+  {
+    "id": 46,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who sold his birthright for a plate of pottage?",
+    "options": {
+      "A": "Daniel",
+      "B": "Esau",
+      "C": "Jacob",
+      "D": "Nathaniel",
+      "E": "Adam"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Esau sold his birthright for a plate of pottage. This incident is recorded in Genesis 25:29-34, where Esau, coming in from the field hungry, exchanges his birthright, which entitled him to the privileges of the firstborn, for a plate of pottage that Jacob, his brother, had prepared.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/46",
+    "passage": ""
   }
 ]
