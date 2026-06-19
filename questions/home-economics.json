@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73227",
     "passage": ""
+  },
+  {
+    "id": 73228,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The act of making choice from alternative courses of action is ______.",
+    "options": {
+      "A": "Strategic planning",
+      "B": "Decision making",
+      "C": "Evaluation",
+      "D": "Implementation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Decision making is the process of selecting a course of action from among multiple alternatives, based on preferences, values, and goals. It involves weighing options, considering consequences, and choosing the best option.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73228",
+    "passage": ""
   }
 ]
