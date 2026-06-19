@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75289",
     "passage": ""
+  },
+  {
+    "id": 75290,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the main function of a kiln in ceramics?",
+    "options": {
+      "A": "Clay sourcing",
+      "B": "Colour mixing",
+      "C": "Clay hardening",
+      "D": "Surface glazing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Kilns fire the clay at high temperatures, causing it to harden into ceramic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75290",
+    "passage": ""
   }
 ]
