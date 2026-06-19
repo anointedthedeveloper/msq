@@ -10563,5 +10563,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14353",
     "passage": ""
+  },
+  {
+    "id": 14355,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "If a tube of small radius opened at both ends is placed in a liquid, the liquid will",
+    "options": {
+      "A": "remain at the same level irrespective of whether the liquid wet the glass or not",
+      "B": "fall below the liquid level if the liquid wets the glass",
+      "C": "falls below the liquid level if the liquid does not wet the glass",
+      "D": "rise above the liquid level if the liquid does not wet the glass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14355",
+    "passage": ""
   }
 ]
