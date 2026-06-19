@@ -3232,5 +3232,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11721",
     "passage": ""
+  },
+  {
+    "id": 11730,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In the diagram above a beam of white light travels from a rare to a dense medium. What colours of light do the rays a, b and c respectively represents?",
+    "options": {
+      "A": "red, green and blue",
+      "B": "Green, red and blue",
+      "C": "Yellow , blue and red",
+      "D": "Blue , yellow and red"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/21742385264_phy200030.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888704/myschool/physics/21742385264_phy200030.jpg",
+    "correct_answer": "A",
+    "explanation": "As the light enters the dense medium, the shorter wavelengths (blue and violet) bend more than the longer wavelengths (red and orange), resulting in the separation of the light into its component colors.\nBased on this, the correct representation is:\n> Ray a represents the red color\n> Ray b represents the green color\n> Ray c represents the blue color\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11730",
+    "passage": ""
   }
 ]
