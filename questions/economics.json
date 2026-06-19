@@ -1229,5 +1229,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/475",
     "passage": ""
+  },
+  {
+    "id": 476,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The principle of comparative advantage or comparative cost is NOT based on one of the following assumptions",
+    "options": {
+      "A": "there are restrictions in trade",
+      "B": "there are no cost of transportations",
+      "C": "ther is perfect competition",
+      "D": "there are no tariff or import and export quota",
+      "E": "there are only two countries and only two commodities entering into international trade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/476",
+    "passage": ""
+  },
+  {
+    "id": 477,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following is not a direct tax?",
+    "options": {
+      "A": "company income tax",
+      "B": "capital tax",
+      "C": "purchase tax",
+      "D": "personal income tax",
+      "E": "capital gain tax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/477",
+    "passage": ""
   }
 ]
