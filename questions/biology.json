@@ -2110,5 +2110,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/603",
     "passage": ""
+  },
+  {
+    "id": 604,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A true fruit is formed from",
+    "options": {
+      "A": "a fertilized ovary and other floral parts",
+      "B": "a fertilized ovary",
+      "C": "a fertilized ovary and calyx",
+      "D": "a fertilized ovary and fleshy receptacle",
+      "E": "an unfertilized ovary and other floral part"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/604",
+    "passage": ""
   }
 ]
