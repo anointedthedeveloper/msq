@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48092",
     "passage": ""
+  },
+  {
+    "id": 48093,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following instruments are aerophones?",
+    "options": {
+      "A": "Molo, Komo Kukuma",
+      "B": "Bata, bembe and shantu",
+      "C": "Kaho, popolo and ekutu",
+      "D": "Ogene, oyo and ekpili"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48093",
+    "passage": ""
   }
 ]
