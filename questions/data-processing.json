@@ -9224,5 +9224,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72390",
     "passage": ""
+  },
+  {
+    "id": 72398,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The Local Area Network (LAN) in a certain school is connected to the internet. The school also has a management system (MIS) which is used to enroll staff and students in the school. The system requires that users be authenticated before access is granted. Students are also allowed to use computers in the network during their leisure time. a(i) State two problems associated with an uncontrolled access to the internet by the students (ii) How can the problems stated in 4a(i) be prevented? (b) Give one reason for users' authentication before access to the system is granted (c) To use the mIS, a staff is expected to log in using a registered username and password. Table below shows login activities and the login steps to the to the MIS. Specify te correct order or steps in the login process in column Y using the letter A-E attached to the login activities in column X.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a(i) Problems Associated with an uncontrolled access to the Internet by students\nChatting during classes / Using social media. Virus download. Purchasing items online. Playing games to the detriment of their studies/during classes Watching videos/movies. Playing music\n(ii) Ways of solving the problems stated in 4a(i)\nUse of web nannies Use of virus detection software Supervised access by a teacher/technologist/adult Use of filtering software/Content filtering software to block access to inappropriate or harmful websites. Parental controls: Utilize parental control settings available in operating systems, browsers, and routers to Safe search settings: Enable safe search settings in search engines to filter out explicit content. Implementing firewalls / Network - Level Firewalls / Application-Level Firewalls: Use firewalls that specifically manage the traffic of individual applications and services. Time Management Tools - Screen Time Limits - Scheduled Access - Secure Networks - Wi-Fi Security. VPNs (Virtual Private Networks) and Encrypted connections. Monitoring software. Activity monitors. Alerts and Notifications. Digital Literacy Education. Online safety training.\nCritical thinking Skills. Promoting responsible use. Internet etiquette. Encourage balanced use. Establishing clear policies/acceptable use policies. Penalties/Consequences for misuse. Parental and educator involvement. Environmental and supportive strategies. Encouraging healthy online habits. Collaborative approaches. Promote alternative activities. Regular review and adaptation. Stay updated on trends and risks. Cybersecurity Updates: Keep abreast of the latest cybersecurity threats and protective measures. Evolving Technologies: Adapt strategies as new technologies and digital platforms emerge. Regular Policy Review. Explore New Solutions that can enhance internet safety and control.\n(b) Reason for user authentication be- fore access to the system is granted\nprevent impersonation prevent unauthorized access ensure only registered users have access ensure data integrity/ safety Support remote and mobile access\n(c) Steps in using the MIS\nX: Login Activity Y: Login Step A: system authenticates username and password (i) E B: click on login (ii) C C: enter password (iii) B D: (access granted/denied) (iv) B E: enter username (v) D",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72398",
+    "passage": ""
   }
 ]
