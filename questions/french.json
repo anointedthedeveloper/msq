@@ -4057,5 +4057,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75281",
     "passage": ""
+  },
+  {
+    "id": 75330,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le systeme bancaire est dans ce pays.",
+    "options": {
+      "A": "corrompt",
+      "B": "corruption",
+      "C": "corrompre",
+      "D": "corrompu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Corrompu\" is the correct past participle used as an adjective.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75330",
+    "passage": ""
   }
 ]
