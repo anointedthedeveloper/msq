@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64442",
     "passage": ""
+  },
+  {
+    "id": 64443,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is not true about a warm up exercise? It",
+    "options": {
+      "A": "Improves performance",
+      "B": "Increases muscular contraction",
+      "C": "Reduces blood circulation",
+      "D": "Reduces incidence of injury"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "warm-up exercise does not reduce blood circulation rather it increases the heart rate and makes blood circulate much faster.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64443",
+    "passage": ""
   }
 ]
