@@ -11977,5 +11977,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64315",
     "passage": ""
+  },
+  {
+    "id": 64316,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What does RAM and ROM have in common?",
+    "options": {
+      "A": "They both deal with memory",
+      "B": "They were both invented by Bill Gates",
+      "C": "They do not have anything in common",
+      "D": "Their initials are similar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "RAM and ROM are types of computer memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64316",
+    "passage": ""
   }
 ]
