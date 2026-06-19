@@ -1763,5 +1763,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1021",
     "passage": ""
+  },
+  {
+    "id": 1023,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The abolition of the state ministries of local governments in 1989 entails that local governments",
+    "options": {
+      "A": "are equal to the states",
+      "B": "have more control over their funds",
+      "C": "no longer have anything to do with state governments",
+      "D": "are no longer surbodinates to state governments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1023",
+    "passage": ""
   }
 ]
