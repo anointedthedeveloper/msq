@@ -2989,5 +2989,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16081",
     "passage": ""
+  },
+  {
+    "id": 16083,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Root knot of tomato is caused by a",
+    "options": {
+      "A": "fungus",
+      "B": "bacterium",
+      "C": "virus",
+      "D": "protozoan",
+      "E": "nematode"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16083",
+    "passage": ""
   }
 ]
