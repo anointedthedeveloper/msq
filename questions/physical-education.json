@@ -6275,5 +6275,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76482",
     "passage": ""
+  },
+  {
+    "id": 76483,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which principle of first aid ensures that the casualty is safe from further harm?",
+    "options": {
+      "A": "Calling for an ambulance before checking the surroundings.",
+      "B": "Removing the casualty from danger if it is safe to do so.",
+      "C": "Giving food and water to make the casualty comfortable.",
+      "D": "Ignoring hazards to save time."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "One of the principles of first aid is to ensure safety for yourself, the casualty, and bystanders. This means checking the scene for dangers (like fire, traffic, electrical hazards) and, if necessary, moving the casualty away only if it is safe.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76483",
+    "passage": ""
   }
 ]
