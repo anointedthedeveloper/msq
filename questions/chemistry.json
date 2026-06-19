@@ -3735,5 +3735,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1737",
     "passage": ""
+  },
+  {
+    "id": 1738,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "\\(C_{12}H_{22}O_{11(s)} + H_2SO_{4(aq)} → 12C(s) + 11H_2O(l) + H_2SO_{4(aq)}\\) In the reaction above, tetraoxosulphate (VI) acid function as",
+    "options": {
+      "A": "A dehydrating agent",
+      "B": "An oxidizing agent",
+      "C": "A reducing agent",
+      "D": "A catalyst"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A dehydrating agent is a substance that dries or removes water from a substance. so when sulphuric acid with sugar, the sugar is charred by the removal of water,  \\(C_{12}H_{22}O_{11(s)} + H_2SO_{4(aq)} → 12C(s) + 11H_2O_{(l}) + H_2SO_{4(aq)}\\)\nthe sulphuric acid is serving as a dehydrating agent.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1738",
+    "passage": ""
   }
 ]
