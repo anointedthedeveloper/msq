@@ -3215,5 +3215,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66859",
     "passage": ""
+  },
+  {
+    "id": 66860,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Bodex co.Ltd sends out lots of mails. Which of the following office machines would help to remove the burden of affixing postage stamps on each envelope?",
+    "options": {
+      "A": "Collating machine",
+      "B": "Addressing machine",
+      "C": "Franking machine",
+      "D": "Folding machine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A postage meter or franking machine is a mechabical device used to create and apply physical evidence of postage to mailed items.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66860",
+    "passage": ""
   }
 ]
