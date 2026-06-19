@@ -2077,5 +2077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75363",
     "passage": ""
+  },
+  {
+    "id": 75364,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The process of melting metal and pouring it into a mold is called:",
+    "options": {
+      "A": "Casting",
+      "B": "Forging",
+      "C": "Carving",
+      "D": "Welding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Casting involves melting metal and pouring it into a mold to create a desired shape.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75364",
+    "passage": ""
   }
 ]
