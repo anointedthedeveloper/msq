@@ -8247,5 +8247,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3623",
     "passage": ""
+  },
+  {
+    "id": 3624,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or word which best completes each sentence : The young lady decided to ....",
+    "options": {
+      "A": "do away with the many advices given by her relatives",
+      "B": "reject all the advices given by her relations",
+      "C": "take to all the advice given by her relations",
+      "D": "take to all the advices given by her relations",
+      "E": "eject all the advice given by her relatives"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The word \"advice\" has no plural form. Option B is the best choice as it means that the young lady decided to listen to and adopt the advice given by her relatives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3624",
+    "passage": ""
   }
 ]
