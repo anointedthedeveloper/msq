@@ -4934,5 +4934,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1976",
     "passage": ""
+  },
+  {
+    "id": 1978,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The function of a merchant wholesaler is to",
+    "options": {
+      "A": "buy in bulk, store and sell to retailerss as desired",
+      "B": "posses title to the goods, store and sale to retailers",
+      "C": "bring buyers and sellers together",
+      "D": "find markets for producers' finished goods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A merchant wholesaler takes ownership of the goods, stores them, and then sells them to retailers. They act as intermediaries between manufacturers and retailers, ensuring that goods are available when retailers need them. This function involves buying in bulk, warehousing the products, and then distributing them in smaller quantities to retailers, thus ensuring a smooth supply chain.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1978",
+    "passage": ""
   }
 ]
