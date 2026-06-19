@@ -1777,5 +1777,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1041",
     "passage": ""
+  },
+  {
+    "id": 1042,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "One predominantly temperate grain that is being cultivated in some tropical areas today is",
+    "options": {
+      "A": "sorghum",
+      "B": "barley",
+      "C": "maize",
+      "D": "wheat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1042",
+    "passage": ""
   }
 ]
