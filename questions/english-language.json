@@ -1185,5 +1185,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/545",
     "passage": ""
+  },
+  {
+    "id": 561,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nBecause the referee was partial and his opponent rough, the loser of the wrestling match received .... cheers than the winner",
+    "options": {
+      "A": "thunderous",
+      "B": "many more",
+      "C": "overwhelming",
+      "D": "a little more",
+      "E": "several"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "From the statement above infers that, the loser of the wrestling match was cheered more than the winner because the referee was partial in his judgement. The phrase ''many more'' correctly fills in the gap.\nmany more is an adjective meaning  much greater in number.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/561",
+    "passage": ""
   }
 ]
