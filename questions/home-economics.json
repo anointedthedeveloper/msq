@@ -292,5 +292,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73181",
     "passage": ""
+  },
+  {
+    "id": 73182,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Stitches which are removed from an article after serving their purpose are known as:",
+    "options": {
+      "A": "Temporary stitches",
+      "B": "Joining stitches",
+      "C": "Permanent stitches",
+      "D": "Running stitches"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Temporary stitches are used to hold fabric in place temporarily and are removed once they have served their purpose. Examples include:\nBasting stitches Tacking stitches Gathering stitches\nThese are used to:\nHold fabric in place while sewing Mark guidelines or patterns Gather or pleat fabric\nOnce the project is complete, the temporary stitches are removed, leaving only the permanent ones.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73182",
+    "passage": ""
+  },
+  {
+    "id": 73183,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Colours which are opposite to each other on the colour wheel are referred to as:",
+    "options": {
+      "A": "Warm colours",
+      "B": "Analogous colours",
+      "C": "Complementary colours",
+      "D": "Cool colours"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Complementary colours are pairs of colours opposite each other on the colour wheel, creating the highest contrast when used together. Examples include:\nRed and green Blue and orange",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73183",
+    "passage": ""
   }
 ]
