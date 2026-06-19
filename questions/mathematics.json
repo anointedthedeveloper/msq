@@ -16462,5 +16462,49 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910335/myschool/mathematics/IMG_20191125_122752_%283%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/23221",
     "passage": ""
+  },
+  {
+    "id": 23222,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Find the median of the following set of numbers: 28, 29, 39, 38, 33, 37, 26, 20, 15, 25",
+    "options": {
+      "A": "33",
+      "B": "29.5",
+      "C": "29",
+      "D": "28.5",
+      "E": "28"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "15, 20, 25, 26, 28, 29, 33, 37, 38, 39\nmedian = \\(\\frac{28 + 29}{2}\\)\n= 28.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23222",
+    "passage": ""
+  },
+  {
+    "id": 23223,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "What is A∩B in the diagram above?",
+    "options": {
+      "A": "(2,3)",
+      "B": "(2,3,4)",
+      "C": "(1,2,3)",
+      "D": "(2,3,8)",
+      "E": "(6,4,7)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8308707174_wcmath199338.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910379/myschool/mathematics/8308707174_wcmath199338.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23223",
+    "passage": ""
   }
 ]
