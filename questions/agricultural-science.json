@@ -878,5 +878,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15848",
     "passage": ""
+  },
+  {
+    "id": 15851,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Crops grown primarily for feeding animals are known as",
+    "options": {
+      "A": "vegetables",
+      "B": "cereal",
+      "C": "forage",
+      "D": "legumes",
+      "E": "shrubs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15851",
+    "passage": ""
   }
 ]
