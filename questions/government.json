@@ -3318,5 +3318,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1612",
     "passage": ""
+  },
+  {
+    "id": 1616,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A major problem of the defunct Organization of African Unity was",
+    "options": {
+      "A": "language barrier",
+      "B": "inadequate resources",
+      "C": "cultural diversity",
+      "D": "ideological differences"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1616",
+    "passage": ""
   }
 ]
