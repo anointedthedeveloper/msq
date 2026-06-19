@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/134",
     "passage": ""
+  },
+  {
+    "id": 135,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "To qualify for absorption into the administration cadre of the civil service in Nigeria, an applicant must be",
+    "options": {
+      "A": "knowledgable in civil services rule",
+      "B": "a holder of a first university degree",
+      "C": "specifically trained in public administration",
+      "D": "a senior civil serv.ant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/135",
+    "passage": ""
   }
 ]
