@@ -3820,5 +3820,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7847",
     "passage": ""
+  },
+  {
+    "id": 7948,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An arc of a circle of length 22 cm subtends an angle of 3x° at the center of the circle. Find the value of x if the diameter of the circle is 14 cm",
+    "options": {
+      "A": "60 o",
+      "B": "120 o",
+      "C": "180 o",
+      "D": "30 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Length of an arc = \\(\\frac{\\theta}{360}\\) x 2\\(\\pi\\)r\n22 = \\(\\frac{3x}{360}\\) x \\(\\frac{22}{7}\\) x 7           (since D = 2r)\n22 x 7 x 360 = 3x X 22 X 7\nx = \\(\\frac{22 \\times 7 \\times 360}{3 \\times 22 \\times 7\\times 2}\\) = 60º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7948",
+    "passage": ""
   }
 ]
