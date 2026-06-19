@@ -2474,5 +2474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49919",
     "passage": ""
+  },
+  {
+    "id": 49920,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Risk assumed by more than one insurance company and shared accordingly",
+    "options": {
+      "A": "co-insurance",
+      "B": "joint insurance",
+      "C": "re-insurance",
+      "D": "group insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": ".co-insurance; is a situation in which two or more insurance companies share a risk",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49920",
+    "passage": ""
   }
 ]
