@@ -4561,5 +4561,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75571",
     "passage": ""
+  },
+  {
+    "id": 75572,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Il parle _ affaire impossible.",
+    "options": {
+      "A": "d'une",
+      "B": "de la",
+      "C": "d'en",
+      "D": "d'un"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Affaire\" is feminine, so the correct form is \"d'une affaire.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75572",
+    "passage": ""
   }
 ]
