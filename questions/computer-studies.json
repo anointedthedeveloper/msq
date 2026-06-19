@@ -6207,5 +6207,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62456",
     "passage": ""
+  },
+  {
+    "id": 62458,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A high level language program translator which converts a source code to machine readable format and compile executes it one line at a time is?",
+    "options": {
+      "A": "complier",
+      "B": "debugger",
+      "C": "editor",
+      "D": "interpreter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An interpreter translates high-level language source code to machine-readable format and executes it line by line. This process allows developers to test and debug their code more interactively, as changes can be made and executed immediately without the need to recompile the entire program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62458",
+    "passage": ""
   }
 ]
