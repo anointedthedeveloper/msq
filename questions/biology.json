@@ -2968,5 +2968,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1253",
     "passage": ""
+  },
+  {
+    "id": 1254,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following insects has an incomplete metamorphosis during its life circle?",
+    "options": {
+      "A": "Butterfly",
+      "B": "Bee",
+      "C": "Mosquito",
+      "D": "House-fly",
+      "E": "Grasshopper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1254",
+    "passage": ""
   }
 ]
