@@ -2713,5 +2713,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6228",
     "passage": ""
+  },
+  {
+    "id": 6230,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "If the temperature at sea level is 10°C, the temperature of the air at a height of 2000 meters will be bout",
+    "options": {
+      "A": "-2°C",
+      "B": "3°C",
+      "C": "13°C",
+      "D": "23°C",
+      "E": "3.5°C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6230",
+    "passage": ""
   }
 ]
