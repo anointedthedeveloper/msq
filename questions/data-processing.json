@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57234",
     "passage": ""
+  },
+  {
+    "id": 57239,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is secondary storage device.",
+    "options": {
+      "A": "RAM",
+      "B": "bubble memory",
+      "C": "floppy disk",
+      "D": "EPROM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57239",
+    "passage": ""
   }
 ]
