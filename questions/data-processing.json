@@ -6395,5 +6395,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62624",
     "passage": ""
+  },
+  {
+    "id": 62625,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "To prevent the loss of data in the computer, it is better to implement file",
+    "options": {
+      "A": "access",
+      "B": "maintenance",
+      "C": "checks",
+      "D": "backup"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62625",
+    "passage": ""
   }
 ]
