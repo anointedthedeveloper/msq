@@ -6164,5 +6164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62613",
     "passage": ""
+  },
+  {
+    "id": 62614,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The erratic movement of the mouse pointer is usually caused by",
+    "options": {
+      "A": "damaged driver",
+      "B": "dirty mouse ball",
+      "C": "improper connection of mouse cable",
+      "D": "outdated driver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The erratic movement of the mouse pointer is usually caused by issues such as dirty mouse sensors, interference from other devices, a malfunctioning mouse, or problems with the surface on which the mouse is used.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62614",
+    "passage": ""
   }
 ]
