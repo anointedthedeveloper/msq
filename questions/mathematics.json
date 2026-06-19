@@ -5311,5 +5311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8489",
     "passage": ""
+  },
+  {
+    "id": 8497,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The maximum value of the function f(x) = 2 + x - x\\(^2\\) is",
+    "options": {
+      "A": "\\(\\frac{9}{4}\\)",
+      "B": "\\(\\frac{7}{4}\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "f(x) = 2 + x - x2 dy/dx = 1-2x As dy/dx = 0 1-2x = 0 2x = 1 x = 1/2 At x = 1/2 f(x) = 2 + x - x2 = 2 + 1/2 -(1/2)2 = 2 + 1/2 - 1/4 = (8+2-1) / 4 = 9/4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8497",
+    "passage": ""
   }
 ]
