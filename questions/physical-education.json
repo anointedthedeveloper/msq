@@ -2980,5 +2980,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68292",
     "passage": ""
+  },
+  {
+    "id": 68293,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which organ is not part of the alimentary canal?",
+    "options": {
+      "A": "Jejunum",
+      "B": "stomach",
+      "C": "colon",
+      "D": "skin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The alimentary canal is referred to as the pathway by which food enters our body and moves out through the anus after digestion. The main organs of the alimentary canal includes mouth, oesophagus, stomach, small intestine and large intestine. Skin is an excretory organ",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68293",
+    "passage": ""
   }
 ]
