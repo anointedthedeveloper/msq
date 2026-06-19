@@ -13381,5 +13381,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23842",
     "passage": ""
+  },
+  {
+    "id": 23843,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following particles of ray has the highest penetrating power?",
+    "options": {
+      "A": "Beta particles",
+      "B": "Alpha particles",
+      "C": "Gamma particles",
+      "D": "Electrons",
+      "E": "Neutrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23843",
+    "passage": ""
   }
 ]
