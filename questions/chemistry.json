@@ -11170,5 +11170,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4323",
     "passage": ""
+  },
+  {
+    "id": 4324,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A catalyst increase the rate of a chemical reaction by providing a path that?",
+    "options": {
+      "A": "raise the activiation energy",
+      "B": "increase the temperature",
+      "C": "lowers the activation energy",
+      "D": "increase the concentration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The rate of a reaction can be increased by adding a suitable catalyst.\nA catalyst is a substance which increases the rate of a chemical reaction but it is not used up (remains chemically unchanged at the end).\nIt provides an alternative reaction pathway of lower activation energy.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4324",
+    "passage": ""
   }
 ]
