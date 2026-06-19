@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/130",
     "passage": ""
+  },
+  {
+    "id": 131,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Communism is a system which recognizes",
+    "options": {
+      "A": "class stratification",
+      "B": "the existence of the state",
+      "C": "the existence of the individual",
+      "D": "the ability of the individual"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/131",
+    "passage": ""
   }
 ]
