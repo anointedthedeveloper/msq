@@ -4954,5 +4954,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12789",
     "passage": ""
+  },
+  {
+    "id": 12790,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "X rays can be used in the study of crystal structure because they",
+    "options": {
+      "A": "have  a very long-reaching wavelength",
+      "B": "have extremely short wavelength",
+      "C": "are invisible",
+      "D": "are very fast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The extremely short wavelength of X-rays allows them to interact with the atomic-scale structure of crystals via diffraction, revealing details of the crystal lattice, atomic positions, and bond lengths.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12790",
+    "passage": ""
   }
 ]
