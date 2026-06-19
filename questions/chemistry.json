@@ -1068,5 +1068,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/832",
     "passage": ""
+  },
+  {
+    "id": 836,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A gaseous metallic chloride MClx consists of 20.22% of M by mass. The formula of the chloride is? [M = 27, Cl = 35.5]",
+    "options": {
+      "A": "MCl",
+      "B": "MCl 2",
+      "C": "MCl 3",
+      "D": "M 2 Cl 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Percentage by mass of M = 20.22% Percentage by mass of Cl = x 100 - 20.22 = 79.78% Mass given ratio of M M = \\(\\frac{20.22}{27}\\) = 0.75 Chlorine = \\(\\frac{79.78}{35.5}\\) = 2.24 Divide by the smallest M = \\(\\frac{0.75}{0.75}\\) = 1 Cl = \\(\\frac{2.24}{0.75}\\) = 3 ∴ The formula = MCl\\(_3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/836",
+    "passage": ""
   }
 ]
