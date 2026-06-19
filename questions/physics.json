@@ -13711,5 +13711,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23891",
     "passage": ""
+  },
+  {
+    "id": 23892,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A stone tied to a string is made to revolve in a horizontal circle of radius 4m with an angular speed of 2 rad per sec. With what tangential velocity will the stone move off the circle if the string is cut?",
+    "options": {
+      "A": "16.0 ms -1",
+      "B": "8.0 ms -1",
+      "C": "6.0 ms -1",
+      "D": "2.0 ms -1",
+      "E": "0.5 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23892",
+    "passage": ""
   }
 ]
