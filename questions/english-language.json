@@ -636,5 +636,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/495",
     "passage": ""
+  },
+  {
+    "id": 496,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space: Last week, the .... at the theatre was the largest I had ever seen.",
+    "options": {
+      "A": "assembly",
+      "B": "congregation",
+      "C": "convention",
+      "D": "audience",
+      "E": "crowd"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "We are looking for a word that specifically refers to people gathered to watch a performance , especially in a theatre setting. An \"audience\" is the group of people watching or listening to a performance or presentation , such as in a theatre.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/496",
+    "passage": ""
   }
 ]
