@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/128",
     "passage": ""
+  },
+  {
+    "id": 130,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Citizenship in a modern state expresses the status of a person who possesses",
+    "options": {
+      "A": "full political rights",
+      "B": "some religious rights",
+      "C": "social right only",
+      "D": "exclusive economic rights."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/130",
+    "passage": ""
   }
 ]
