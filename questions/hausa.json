@@ -1068,5 +1068,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73640",
     "passage": ""
+  },
+  {
+    "id": 73641,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "AUNA FAHIMTAInstruction: Karanta wadannan labaral, sannan ka amaa tambayoyin da ke biye da su. Kasuwar Gwari babbar kasuwa ce, da ke a garin Minna wacce take makwabtaka da Bosso da Paiko da Kuta da kuma Bida. Kasuwar na da sassa daban-dabam da suka had'a da; sashen 'yan tireda da na kayan abinci da kayan gwari da 'yan kifi da 'yan gwangwan da sauransu. Kasuwar ta yi daura da layin dogo daga bangaren arewa, wanda ya taso daga garin Legas ya ratsa garuruwan Ilorin da Wushishi da Jebba da Mokwa har zuwa Minna. Amma a Bangaren kudu ta yi makwabtaka da kamfanin Janhol. Idan mutum na bukatar lemu ko kankana ko ayaba ko tuffa ko gwanda sai ka tafi sashen kayan gwari. A sashen 'yan tireda kuwa, nan ake samun kayan kwalliya irin su;man shafawa da man gasbi da gazal da jagira da hoda da turare da sauransu. Amma a sashen 'yan kifi nan ake samun ire-iren kifaye daban-dabam irin su; karaya da tarwada da giwa da karfasa da kawara da sauransu, d'anyu da busassu da bandarsu. Layin jirgi ya ratsa wad'annan garuruwa in ban da",
+    "options": {
+      "A": "Paiko",
+      "B": "Mokwa",
+      "C": "Jebba",
+      "D": "Ilorin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Layin jirgi ya ratsa wad'annan garuruwa in ban da ... (The railway passes through which towns except ... ) Answer Paiko. According to the passage, the railway passes through towns like Ilorin, Wushishi, Jebba, Mokwa, and Minna, but not Paiko.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73641",
+    "passage": ""
   }
 ]
