@@ -12355,5 +12355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64333",
     "passage": ""
+  },
+  {
+    "id": 64334,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Types of software programs are",
+    "options": {
+      "A": "Application programs",
+      "B": "replicate programs",
+      "C": "Logical programs",
+      "D": "both A and B"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "both A and B",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64334",
+    "passage": ""
   }
 ]
