@@ -15475,5 +15475,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7586",
     "passage": ""
+  },
+  {
+    "id": 7587,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A printed copy of processed information from the computer is the?",
+    "options": {
+      "A": "soft copy",
+      "B": "file copy",
+      "C": "scanned copy",
+      "D": "hard copy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Hard copy; a printed version on paper of data held in a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7587",
+    "passage": ""
   }
 ]
