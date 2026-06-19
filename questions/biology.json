@@ -1296,5 +1296,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/395",
     "passage": ""
+  },
+  {
+    "id": 396,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following statements is not true of paramecium?",
+    "options": {
+      "A": "It is slipper-shaped",
+      "B": "The anterior end is blunt",
+      "C": "The gullet is lined with cilia",
+      "D": "It has an anal pore",
+      "E": "Its vacuole is stationary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/396",
+    "passage": ""
   }
 ]
