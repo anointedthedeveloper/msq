@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/791",
     "passage": ""
+  },
+  {
+    "id": 792,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "3y = 4x - 1 and Ky = x + 3 are equations of two straight lines. If the two lines are perpendicular to each other, find K.",
+    "options": {
+      "A": "-\\(\\frac{4}{3}\\)",
+      "B": "-\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{4}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Grad of 3y = 4x - 1 y = \\(\\frac{4x}{3}\\) - \\(\\frac{1}{3}\\) Grad = \\(\\frac{4}{3}\\) Grad of Ky = x + 3 y = \\(\\frac{\\text{x}}{\\text{k}}\\) + \\(\\frac{3}{4}\\) Grad = \\(\\frac{1}{\\text{k}}\\) Since the two lines are perpendicular, \\(\\frac{1}{\\text{k}}\\) = -\\(\\frac{3}{4}\\) -3k = 4 k = -\\(\\frac{4}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/792",
+    "passage": ""
   }
 ]
