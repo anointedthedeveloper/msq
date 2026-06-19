@@ -2042,5 +2042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48209",
     "passage": ""
+  },
+  {
+    "id": 48210,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Amuku n'écoutait pas les conseils des parents",
+    "options": {
+      "A": "parce qu'il était laid",
+      "B": "parce qu'il était têtu",
+      "C": "parce qu'il était ambitieux",
+      "D": "parce qu'il était sourd"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/zFZpv2EVIF4rxFaJJhx02yAdbGwMN6gABY80LmdI.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898476/myschool/french/zFZpv2EVIF4rxFaJJhx02yAdbGwMN6gABY80LmdI.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48210",
+    "passage": ""
   }
 ]
