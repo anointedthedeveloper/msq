@@ -3652,5 +3652,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12033",
     "passage": ""
+  },
+  {
+    "id": 12034,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The eye controls the amount of light reaching the retina by adjusting the",
+    "options": {
+      "A": "cornea",
+      "B": "iris",
+      "C": "retina",
+      "D": "optic nerve"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12034",
+    "passage": ""
   }
 ]
