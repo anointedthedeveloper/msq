@@ -12267,5 +12267,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14516",
     "passage": ""
+  },
+  {
+    "id": 14518,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In the diagram above, if the south-poles of two magnets strokes steel bar, the polarities at T and V will respectively be",
+    "options": {
+      "A": "south and north",
+      "B": "north and south",
+      "C": "north and north",
+      "D": "south and south"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25919826239_phy201040.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891158/myschool/physics/25919826239_phy201040.jpg",
+    "correct_answer": "C",
+    "explanation": "IN magnetisation by stroking, the last touched has a pole opposite to that of the magnet used. Therefore, the poles T and V are N and N respectively\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14518",
+    "passage": ""
   }
 ]
