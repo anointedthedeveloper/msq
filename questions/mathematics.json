@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1114",
     "passage": ""
+  },
+  {
+    "id": 1115,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Simplify \\((\\sqrt[3]{64a^{3}})^{-1}\\)",
+    "options": {
+      "A": "4a",
+      "B": "1/8a",
+      "C": "8a",
+      "D": "1/4a"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\((\\sqrt[3]{64a^{3}})^{-1} = (\\sqrt[3]{(4a)^{3}})^{-1}\\)\n= \\((4a)^{-1} \\)\n= \\(\\frac{1}{4a}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1115",
+    "passage": ""
   }
 ]
