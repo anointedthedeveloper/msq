@@ -5837,5 +5837,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5744",
     "passage": ""
+  },
+  {
+    "id": 5747,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In a petty cash book the imprest is N1380. Expenses: Stationery N350 Cleaning material N335 General expenses N265 How much was received to maintain the imprest at the ends of the month?",
+    "options": {
+      "A": "N950",
+      "B": "N970",
+      "C": "N430",
+      "D": "N380"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Imprest Amount: N1380 Total Expenses: Stationery: N350 Cleaning material: N335 General expenses: N265 Total Expenses Calculation: 350 + 335 + 265 = 950\nThe imprest system means that at the end of the period, the petty cash should be restored to the original amount (N1380)\nAmount to be received = Imprest − Total Expenses = 1380 − 950 = 430\nSo, N950 is the amount that needs to be received to bring the petty cash back to N1380.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5747",
+    "passage": ""
   }
 ]
