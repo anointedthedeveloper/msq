@@ -12197,5 +12197,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22405",
     "passage": ""
+  },
+  {
+    "id": 22406,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Find the volume of a cone of radius 3.5cm and vertical height 12cm [Take π = 22/7]",
+    "options": {
+      "A": "3.4cm 3",
+      "B": "15.5cm 3",
+      "C": "21.0cm 3",
+      "D": "42.0cm 3",
+      "E": "154.0cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The volume of a cone = \\(\\frac{1}{3}\\) x \\(\\pi\\) x r\\(^2\\) x h\n= \\(\\frac{1}{3}\\) x \\(\\frac{22}{7}\\) x \\(\\frac{7}{2}\\) x \\(\\frac{7}{2}\\) x 12 = 154cm\\(^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22406",
+    "passage": ""
   }
 ]
