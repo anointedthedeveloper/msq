@@ -12460,5 +12460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64338",
     "passage": ""
+  },
+  {
+    "id": 64339,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Files that maintain the hierarchical structure of the file system.",
+    "options": {
+      "A": "Descriptors",
+      "B": "Directories",
+      "C": "Modifiers",
+      "D": "Relative files"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Directories are the files that maintain the hierarchical structure of the file system. The users are allowed to read information in directories",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64339",
+    "passage": ""
   }
 ]
