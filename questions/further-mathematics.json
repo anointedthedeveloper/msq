@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50281",
     "passage": ""
+  },
+  {
+    "id": 50285,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Solve \\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)",
+    "options": {
+      "A": "1 or 0",
+      "B": "1 or 2",
+      "C": "1 or -2",
+      "D": "-1 or 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(3^{2x} - 3^{x+2} = 3^{x+1} - 27\\)\n= \\((3^{x})^{2} - (3^{x}).(3^{2}) = (3^{x}).(3^{1}) - 27\\)\nLet \\(3^{x}\\) be B; we have\n= \\(B^{2} - 9B - 3B + 27 = B^{2} - 12B + 27 = 0\\).\nSolving the equation, we have B = 3 or 9.\n\\(3^{x} = 3\\) or \\(3^{x} = 9\\)\n\\(3^{x} = 3^{1}\\) or \\(3^{x} = 3^{2}\\)\nEquating, we have x = 1 or 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50285",
+    "passage": ""
   }
 ]
