@@ -19818,5 +19818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72654",
     "passage": ""
+  },
+  {
+    "id": 72655,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "What is the function of the CorelDraw Toolbox object shown in Figure 6? It IS used to",
+    "options": {
+      "A": "charge the magnification level in drawing window.",
+      "B": "draw lines and curves.",
+      "C": "edit the shape of objects.",
+      "D": "select and transform objects."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/z9vbj5ZTRLcy8j8akNFwjfqPyH7S0T81qVyD9YBR.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904883/myschool/computer-studies/z9vbj5ZTRLcy8j8akNFwjfqPyH7S0T81qVyD9YBR.jpg",
+    "correct_answer": "D",
+    "explanation": "The object shown is the Pick tool. It is used to select and transform objects,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72655",
+    "passage": ""
   }
 ]
