@@ -9049,5 +9049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3818",
     "passage": ""
+  },
+  {
+    "id": 3820,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The salt formed from strong acid and a strong base is?",
+    "options": {
+      "A": "complex",
+      "B": "neutral",
+      "C": "basic",
+      "D": "acidic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sodium chloride , which is obtained by neutralization of hydrochloric acid and sodium hydroxide, is a neutral salt.\nA neutral salt is formed when a strong acid reacts with a strong base. This is because the strong acid is completely neutralized by the strong base.\nWhen a strong acid and a strong base are combined in the right amounts, the result is a neutral solution with a pH of 7. The acid and base have neutralized each other, and the acidic and basic properties are no longer present. The salt formed from a strong acid and a strong base is neutral because the anion and cation are both weak. They are stable in water and do not react with water to form the original acid or base.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3820",
+    "passage": ""
   }
 ]
