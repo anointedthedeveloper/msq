@@ -3627,5 +3627,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2459",
     "passage": ""
+  },
+  {
+    "id": 2461,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Given the international trade statistics of Nigeria for the past 6 years, which of these statements would you consider to be correct?",
+    "options": {
+      "A": "The value of industrial exports is declining",
+      "B": "The value of industrial imports is constant",
+      "C": "The share of agricultural exports is increasing",
+      "D": "The share of agricultural export is decreasing",
+      "E": "The value of mineral export is declining"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2461",
+    "passage": ""
   }
 ]
