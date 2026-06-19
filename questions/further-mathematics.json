@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50291",
     "passage": ""
+  },
+  {
+    "id": 50296,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The velocity, V, of a particle after t seconds, is \\(V = 3t^{2} + 2t - 1\\). Find the acceleration of the particle after 2 seconds.",
+    "options": {
+      "A": "10\\(ms^{-2}\\)",
+      "B": "12\\(ms^{-2}\\)",
+      "C": "14\\(ms^{-2}\\)",
+      "D": "17\\(ms^{-2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(accl = \\frac{\\mathrm d V}{\\mathrm d t}\\)\n\\(V = 3t^{2} + 2t - 1 \\therefore a = \\frac{\\mathrm d V}{\\mathrm d t} = 6t + 2\\)\n\\(a \\text{(after 2 seconds)} = (6\\times 2) + 2 = 12+2 = 14ms^{-2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50296",
+    "passage": ""
   }
 ]
