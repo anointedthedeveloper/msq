@@ -5121,5 +5121,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2262",
     "passage": ""
+  },
+  {
+    "id": 2263,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A change in temperature of a saturated solution disturb the equilibrium between the",
+    "options": {
+      "A": "Dissolved solute and the solvent",
+      "B": "Solvent and undissolved solute",
+      "C": "Dissolved solute and undissolved  solute",
+      "D": "Dissolved solute and the solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A saturated solution is one in which no more solute can be dissolved in a given amount of solvent at a specified temperature and pressure.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2263",
+    "passage": ""
   }
 ]
