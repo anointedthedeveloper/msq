@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50150",
     "passage": ""
+  },
+  {
+    "id": 50151,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In the public service, another name for red-tapism is?",
+    "options": {
+      "A": "theocracy",
+      "B": "bureaucracy",
+      "C": "autocracy",
+      "D": "democracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Red Tapism. \"Red tape is an idiom that refers to excessive regulation or rigid conformity to formal rules that is considered redundant or bureaucratic and hinders or prevents action or decision-making. It is usually applied to governments, corporations, and other large organizations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50151",
+    "passage": ""
   }
 ]
