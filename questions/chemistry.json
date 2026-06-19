@@ -3252,5 +3252,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1683",
     "passage": ""
+  },
+  {
+    "id": 1692,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "What current in amperes will deposit 2.7g of aluminium in 2 hours? [Al = 27, F = 96 500 C mol-1]",
+    "options": {
+      "A": "32",
+      "B": "8",
+      "C": "4",
+      "D": "16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Al\\(^{3+}\\) + 3e\\(^-\\) → Al 3 x 96500 → 27g I = 3600 x 2 → 27 I = (2.7/27) x ((3 x 96500)/(3600 x 2)) = 4.025 ≈ 4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1692",
+    "passage": ""
   }
 ]
