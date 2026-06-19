@@ -4659,5 +4659,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2149",
     "passage": ""
+  },
+  {
+    "id": 2150,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The postulate of Dalton's atomic theory which still holds is that",
+    "options": {
+      "A": "atoms can neither be created nor destroyed",
+      "B": "the particles of the same element are exactly alike",
+      "C": "particles of different elements combine in simple whole number ratio",
+      "D": "all elemets are made of small indivisible particles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Two postulates of Dalton's atomic theory that are still considered correct today are:\nAtoms of different elements have different masses and properties : This is considered the most fundamental and important postulate. Matter is neither created nor destroyed in a chemical reaction : This postulate reflects the Law of Conservation of Mass.\nAtom of an element cannot be created, divided, destroyed, or split into smaller particles or transformed into atoms of other elements or transformed into other atoms in a chemical reaction. They are simply rearrangement of new compound. Dalton’s atomic theory based this hypothesis on the law of conservation of mass and on centuries of experimental evidence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2150",
+    "passage": ""
   }
 ]
