@@ -6297,5 +6297,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2654",
     "passage": ""
+  },
+  {
+    "id": 2933,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following shows little or no net reaction when the volume of the system is decreased?",
+    "options": {
+      "A": "H 2(g) + I 2(g) ↔ 2HI (g)",
+      "B": "2NO 2(g) ↔ N 2 O 4(g)",
+      "C": "PCl 5(g) ↔  PCl 3(g) + Cl 2(g)",
+      "D": "2O 3(g) ↔ 3O 2(g)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "According to Boyle's law, an increase in pressure is inversely proportional to volume at constant temperature. This implies as volume increases, pressure will decrease and vice versa. However, as we consider all the reactions given in the options, the total number of moles of the reactants (LHS) is equal to the total number of moles of the product (RHS) for option A, pressure and invariably volume will have little or no effect on the equilibrium system.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2933",
+    "passage": ""
   }
 ]
