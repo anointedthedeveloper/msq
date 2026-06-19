@@ -5226,5 +5226,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70846",
     "passage": ""
+  },
+  {
+    "id": 70847,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does NUGA stand for?",
+    "options": {
+      "A": "National Union of Gymnastics Associations",
+      "B": "National University Games Association",
+      "C": "National Unified Games Association",
+      "D": "National Undergrad Games Alliance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "NUGA stands for National University Games Association, which organizes sports competitions among universities in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70847",
+    "passage": ""
   }
 ]
