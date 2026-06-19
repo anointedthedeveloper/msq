@@ -165,5 +165,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48119",
     "passage": ""
+  },
+  {
+    "id": 48120,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Nicolas Sarkozy a succedé ...en France",
+    "options": {
+      "A": "F. Mitterand",
+      "B": "G. d'Estaing",
+      "C": "J. Chirac",
+      "D": "J.M. Lepen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48120",
+    "passage": ""
   }
 ]
