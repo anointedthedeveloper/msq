@@ -6374,5 +6374,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62623",
     "passage": ""
+  },
+  {
+    "id": 62624,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The following media are used for information transmission except",
+    "options": {
+      "A": "diary",
+      "B": "magazine",
+      "C": "radio",
+      "D": "television"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Although a diary can also be used to transmit information it is more personal than public hence it is the odd one in the options provided as radio, magazine, and television are used for public information transmission.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62624",
+    "passage": ""
   }
 ]
