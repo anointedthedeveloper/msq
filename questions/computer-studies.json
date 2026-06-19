@@ -3166,5 +3166,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61843",
     "passage": ""
+  },
+  {
+    "id": 61844,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Lady Ada Lovelace improved upon the idea of?",
+    "options": {
+      "A": "Babbage's analytical engine",
+      "B": "Babbage's difference engine",
+      "C": "Herman hollerinth's machine",
+      "D": "Leibnitz's calculator",
+      "E": "Pascal's arithmetic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61844",
+    "passage": ""
   }
 ]
