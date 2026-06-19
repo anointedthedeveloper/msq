@@ -5586,5 +5586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62425",
     "passage": ""
+  },
+  {
+    "id": 62426,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "One megabyte is equivalent to?",
+    "options": {
+      "A": "one million bytes",
+      "B": "two million bytes",
+      "C": "three million bytes",
+      "D": "four million bytes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "One megabyte is equivalent to one million bytes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62426",
+    "passage": ""
   }
 ]
