@@ -14779,5 +14779,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12952",
     "passage": ""
+  },
+  {
+    "id": 12955,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "What volume of 11.0 M hydrochloric acid must be dilute to obtain 1 dm3 of 0.05 M acid?",
+    "options": {
+      "A": "0.05 dm 3",
+      "B": "0.10 dm 3",
+      "C": "0.55 dm 3",
+      "D": "11.0 dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "using \\(C_1 V_1\\) = \\(C_2 V_2\\)\n\\(C_1\\) = 11.0M, \\(V_1\\) = ?, \\(C_2\\) = 0.05M and \\(V_2\\) = 1\\(dm^3\\)\n\\(V_1\\) = \\(\\frac{(C_2 V_2)}{(C_2)}\\) =  \\(\\frac{(0.05 \\times 1)}{(11)}\\) = 0.005\\(dm^3\\)\nOPTION A is the closest value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12955",
+    "passage": ""
   }
 ]
