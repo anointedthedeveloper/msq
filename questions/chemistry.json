@@ -10246,5 +10246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4064",
     "passage": ""
+  },
+  {
+    "id": 4065,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The rate of a reaction usually decreases with a decrease in the concentration of reactants because",
+    "options": {
+      "A": "kinetic energy decrease",
+      "B": "temperature increase",
+      "C": "speed increases",
+      "D": "reactants collision decrease"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Decrease in the concentration of reactants reduces the number of molecules that acquire effective collisions, and consequently reduces the reaction rate.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4065",
+    "passage": ""
   }
 ]
