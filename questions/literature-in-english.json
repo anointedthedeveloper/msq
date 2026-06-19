@@ -438,5 +438,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/422",
     "passage": ""
+  },
+  {
+    "id": 423,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Dialogue is important in drama because",
+    "options": {
+      "A": "it always makes the audience laugh",
+      "B": "it is like a conversation",
+      "C": "it reveals the minds of the characters",
+      "D": "it makes the play last longer on the stage",
+      "E": "it makes the characters honest"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Dialogue is important in drama because it allows characters to express their thoughts, emotions, desires and motivations. Through dialogue, audiences can gain insights into the inner workings of characters' minds, understand their conflicts, and connect with their experiences. Effective dialogue helps create depth and complexity in characters and make them more relatable and engaging for the audience.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/423",
+    "passage": ""
   }
 ]
