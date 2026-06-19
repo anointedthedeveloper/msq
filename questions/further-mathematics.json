@@ -2370,5 +2370,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50421",
     "passage": ""
+  },
+  {
+    "id": 50422,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A box contains 14 white balls and 6 black balls. Find the probability of first drawing a black ball and then a white ball without replacement.",
+    "options": {
+      "A": "0.21",
+      "B": "0.22",
+      "C": "0.30",
+      "D": "0.70"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The probability of picking a black ball = \\(\\frac{6}{6 + 14} = \\frac{6}{20}\\)\nProbability of a white ball without replacement = \\(\\frac{14}{19}\\)\nProbability of a black ball and then white without replacement = \\(\\frac{6}{20} \\times \\frac{14}{19} = \\frac{21}{95} = 0.22\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50422",
+    "passage": ""
   }
 ]
