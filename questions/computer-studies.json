@@ -17313,5 +17313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69831",
     "passage": ""
+  },
+  {
+    "id": 69832,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The software responsible for allocating and managing system resources is called",
+    "options": {
+      "A": "utility software.",
+      "B": "driver",
+      "C": "translator.",
+      "D": "operating system."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The software responsible for allocating and managing system resources is called the \"operating system (OS)\". The OS is a software program that controls the computer's hardware and software resources. It is responsible for tasks such as: Managing memory: The OS allocates memory to different programs and processes, and it ensures that no program uses more memory than it needs. Managing processing power: The OS schedules the execution of programs and processes, and it ensures that no program hogs the CPU. Managing input and output: The OS controls the flow of data between the computer and its peripherals, such as the keyboard, mouse, and printer. Managing files and directories: The OS creates and manages files and directories on the computer's hard drive. Providing a user interface: The OS provides a user interface that allows users to interact with the computer. The OS is a complex piece of software that is essential for the smooth operation of a computer. It is responsible for managing all of the computer's resources, and it provides a platform for running application software",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69832",
+    "passage": ""
   }
 ]
