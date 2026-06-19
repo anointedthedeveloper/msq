@@ -5373,5 +5373,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2515",
     "passage": ""
+  },
+  {
+    "id": 2516,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Hydrogen can be displaced from a hot alkaline solution by?",
+    "options": {
+      "A": "Fe",
+      "B": "Cu",
+      "C": "Ca",
+      "D": "Sn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Amphoteric oxide reacts with both acid and alkaline and only amphoteric oxide can displace hydrogen from alkaline solution (Al, Pb, Sn and Zn).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2516",
+    "passage": ""
+  },
+  {
+    "id": 2517,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Which of the following statements is true of sulphur (IV) oxide?",
+    "options": {
+      "A": "It forms tetraoxosulphate (VI) acid with water",
+      "B": "It is an odourless gas",
+      "C": "It is an acid anhydride",
+      "D": "It forms white precipitate with acidified barium chloride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sulphur(iv) oxide( SO\\(_2\\)) is an acid anhydride, meaning it's a non-metal oxide that reacts with water to form an acidic solution. It's also known as sulphurous anhydride. sulphur dioxide ( SO\\(_2\\)) is an acid anhydride, meaning it's a non-metal oxide that reacts with water to form an acidic solution.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2517",
+    "passage": ""
   }
 ]
