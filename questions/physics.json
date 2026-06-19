@@ -5899,5 +5899,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13240",
     "passage": ""
+  },
+  {
+    "id": 13642,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A thin converging lens has a power of 4.0 diopters determined its focal length.",
+    "options": {
+      "A": "2.50m",
+      "B": "0.03m",
+      "C": "5.00m",
+      "D": "0.25m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "the power of a lens is defined as the reciprocal of the focal length ,expressed in metre.Mathematically, the power of a lens in dioptres is given by:(1)/f(in cm). thus for lens of power of 4.0 dioptres we have that: (1)/(f) = +4.0 f= (1)/(4.0) = 0.25cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13642",
+    "passage": ""
   }
 ]
