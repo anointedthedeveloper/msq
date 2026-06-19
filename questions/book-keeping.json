@@ -144,5 +144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72821",
     "passage": ""
+  },
+  {
+    "id": 72822,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Matching concept in accounting is the basis of",
+    "options": {
+      "A": "i,ii and iii",
+      "B": "ii and iii only",
+      "C": "i and iii only",
+      "D": "i and ii only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Matching concept is a concept that states that income and expenses should matched with the year in which they are incurred.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72822",
+    "passage": ""
   }
 ]
