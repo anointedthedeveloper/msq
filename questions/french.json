@@ -3070,5 +3070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71194",
     "passage": ""
+  },
+  {
+    "id": 71195,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeComment s'appelle la femelle du chien?",
+    "options": {
+      "A": "La chèvre",
+      "B": "La chienne",
+      "C": "La poule",
+      "D": "La chatte"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The female of a dog is called a chienne, not a cat (chatte), a goat (chèvre), a chicken (poule), or a cow (vache). Therefore, the correct answer is La chienne (female dog).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71195",
+    "passage": ""
   }
 ]
