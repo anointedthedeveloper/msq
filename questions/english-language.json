@@ -12581,5 +12581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4636",
     "passage": ""
+  },
+  {
+    "id": 4638,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence : The thief ran .. luck when the policeman running after him caught up with him and knocked him down",
+    "options": {
+      "A": "into",
+      "B": "with",
+      "C": "of",
+      "D": "out of",
+      "E": "off"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct idiomatic expression is “run out of luck” , which means to lose good fortune or to experience a reversal of fortune.\nSo the sentence becomes:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4638",
+    "passage": ""
   }
 ]
