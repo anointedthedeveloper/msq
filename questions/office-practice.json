@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66077",
     "passage": ""
+  },
+  {
+    "id": 66080,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "In order to eliminate barrier to effective communication, the sender should",
+    "options": {
+      "A": "use as much jargons as he can.",
+      "B": "consider the level of recipient's education.",
+      "C": "expect the recipient to use a dictionary in decoding.",
+      "D": "discourage the recipient from giving a feedback."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Consider the level of recipient's education in order to eliminate barrier to effective communication.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66080",
+    "passage": ""
   }
 ]
