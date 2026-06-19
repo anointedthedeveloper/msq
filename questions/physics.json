@@ -7831,5 +7831,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14013",
     "passage": ""
+  },
+  {
+    "id": 14014,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Silicon doped with aluminum and germanium doped with arsenic become?",
+    "options": {
+      "A": "p- and n- types respectively",
+      "B": "n- en p- type respectively",
+      "C": "p- type semiconductor",
+      "D": "n- type semiconductors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Aluminum has three valence electrons, while silicon has four. When aluminum is added to silicon, it creates \"holes\" (positive charge carriers) because there is one less electron to form a bond. These holes can move and carry charge, making the material p-type. Charge Carriers: Majority carriers in p-type semiconductors are holes. While,  Arsenic (or other elements When doped into germanium (which has four valence electrons), the extra electron becomes free to move, which increases the number of negative charge carriers (electrons) in the material. This results in an n-type semiconductor. Charge Carriers: Majority carriers in n-type semiconductors are electrons\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14014",
+    "passage": ""
   }
 ]
