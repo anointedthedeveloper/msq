@@ -11767,5 +11767,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64138",
     "passage": ""
+  },
+  {
+    "id": 64139,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The windows explorer is divided into _________ categories.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The windows explorer window is separated into two parts, the left and the right-hand sides. The left-hand side pane shows the system folders (i.e. desktop) and sub-folders, whilst to the right-hand window, we can see/view the contents of the selected folders.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64139",
+    "passage": ""
   }
 ]
