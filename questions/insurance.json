@@ -1425,5 +1425,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49780",
     "passage": ""
+  },
+  {
+    "id": 49781,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The policy of insurance is signed by the?",
+    "options": {
+      "A": "representative of the insured",
+      "B": "representative of the insurer",
+      "C": "insurance broker",
+      "D": "insurance consultant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Signature of Insurance Policies: An insurance document, such as an insurance policy, an insurance certificate or a declaration under an open cover, must appear to be signed by an insurance company, an underwriter or their agents or their proxies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49781",
+    "passage": ""
   }
 ]
