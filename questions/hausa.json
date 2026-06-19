@@ -3987,5 +3987,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73879",
     "passage": ""
+  },
+  {
+    "id": 73880,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Tsamo kalmar wakilin suna mutum na biyu namiji kurma tilo",
+    "options": {
+      "A": "Shi",
+      "B": "Mu",
+      "C": "Ni",
+      "D": "Kai"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Shi. The question is asking about the pronoun used to refer to a second-person singular male in Hausa, and the answer is Shi.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73880",
+    "passage": ""
   }
 ]
