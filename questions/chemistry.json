@@ -9385,5 +9385,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3866",
     "passage": ""
+  },
+  {
+    "id": 3869,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following compounds is the best possible anti-knock agent for petrol?",
+    "options": {
+      "A": "(CH 3 ) 2 CH - CH(CH 3 )CH 2 CH 3",
+      "B": "CH 3 CH 2 (CH 3 )CHCH 2 CH 2 CH 3",
+      "C": "CH 3 CH 2 (CH 3 )CHCH 2 CH 2 CH 3",
+      "D": "(CH 3 ) 3 C - CH 2 CH 2 CH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An \"anti-knock agent\" for petrol (or gasoline) is a chemical additive that is added to fuel to prevent engine knocking, which is a knocking sound produced by premature ignition in the combustion chamber, and essentially increases the fuel's octane rating by delaying ignition.\nOption A - 2,3- dimethylpentane\nOption B - 3-methylhexane\nOption C - 3-methylhexane\nOption D - 2,2-dimethylpentane\nBoth 2,3-dimethylpentane and 2,2-dimethylpentane are branched-chain structures. However, 2,2-dimethylpentane has a more compact, highly branched structure, which is generally associated with higher octane ratings and better anti-knock properties.\nIn contrast, 2,3-dimethylpentane has a slightly less branched structure, which may result in slightly lower octane ratings. So, while both compounds are branched, the degree of branching and the resulting octane rating can differ.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3869",
+    "passage": ""
   }
 ]
