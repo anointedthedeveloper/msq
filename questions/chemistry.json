@@ -9889,5 +9889,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4028",
     "passage": ""
+  },
+  {
+    "id": 4029,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Air boiled out of water as steam is richer in",
+    "options": {
+      "A": "nitrogen and oxygen",
+      "B": "carbon (IV) oxide and oxygen",
+      "C": "noble gases and carbon (IV) oxide",
+      "D": "oxygen and noble gases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Air boiled out of water as steam is richer in carbon(IV)oxide and oxygen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4029",
+    "passage": ""
   }
 ]
