@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/19",
     "passage": ""
+  },
+  {
+    "id": 20,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Factorize completely \\(x^{2} + 2xy + y^{2} + 3x + 3y - 18\\).",
+    "options": {
+      "A": "(x+y+6)(x+y-3)",
+      "B": "(x-y-6)(x-y+3)",
+      "C": "(x-y+6)(x-y-3)",
+      "D": "(x+y-6)(x+y+3)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Expand the options and collect like terms to check which gives the presented expression.\nExpansion of Options A:\n(x+y+6)(x+y-3) → \\(x^2+xy-3x + xy+y^2-3y +6x+6y-18\\)\nCollect like terms: \\(x^2 + xy + xy + y^2 +6x - 3x +6y - 3y - 18\\)\n= \\(x^2 + 2xy + y^2 + 3x + 3y - 18\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/20",
+    "passage": ""
   }
 ]
