@@ -2223,5 +2223,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1498",
     "passage": ""
+  },
+  {
+    "id": 1499,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "1.0 dm3 of distilled water was used to wash 2.0g of a precipitate of AgCl. If the solubility product of AgCl is 2.0 x 10\\({^-10}\\)moldm-6, what quantity of silver was lost in the process?",
+    "options": {
+      "A": "2.029 * 10 -3 mol dm -3",
+      "B": "1.414 * 10 -3 mol dm -3",
+      "C": "2.029 * 10 -5 mol dm -3",
+      "D": "1.414 * 10 -5 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In order to calculate this, it suffices to calculate the solubility of Ag, so as to know the amount lost.\n\\(K_{sp} = [Ag^{+}][Cl^{-}]\\)\nLet the solubilty of Ag and Cl = d\n\\(2 \\times 10^{-10} = d \\times d= d^{2}\\)\n\\(d = \\sqrt{2\\times10^{-10}}\\)\n= \\(1.414 \\times 10^{-5}moldm^{-3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1499",
+    "passage": ""
   }
 ]
