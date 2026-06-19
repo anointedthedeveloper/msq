@@ -15643,5 +15643,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7600",
     "passage": ""
+  },
+  {
+    "id": 7601,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Service rendered to the public is provided by?",
+    "options": {
+      "A": "governement",
+      "B": "civil servants",
+      "C": "professionals",
+      "D": "domestic servants"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "civil servants  are people working in the public sector. An employee of the civil service is basically employed by the government to impartially implement their policies and laws. As a result, civil service employees often work in areas that highly affect people's everyday life (e.g. health and education).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7601",
+    "passage": ""
   }
 ]
