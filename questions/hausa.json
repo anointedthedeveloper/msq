@@ -2118,5 +2118,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73702",
     "passage": ""
+  },
+  {
+    "id": 73703,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "\"Zauna, kuma ka yi shiru\" Wannnan misali ne na jimla",
+    "options": {
+      "A": "bayyanau",
+      "B": "Korewa",
+      "C": "tabbatau",
+      "D": "umurtau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "umurtau. The question is asking about the type of sentence that gives a command or instruction in Hausa, and the answer is umurtau (meaning \"imperative sentence\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73703",
+    "passage": ""
   }
 ]
