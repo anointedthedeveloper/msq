@@ -8609,5 +8609,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72343",
     "passage": ""
+  },
+  {
+    "id": 72344,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Factors to be considered when creating a backup system in a computer network include",
+    "options": {
+      "A": "amount of RAM, amount of data and time of backup",
+      "B": "amount of RAM, type of data and frequency of backup",
+      "C": "media to use, amount of data and frequency of backup.",
+      "D": "media to use, type of data and time of backup."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The media to use, backup frequency and amount of data directly impact the effectiveness and reliability of the backup system, ensuring proper projection and retrieval of data, when needed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72344",
+    "passage": ""
   }
 ]
