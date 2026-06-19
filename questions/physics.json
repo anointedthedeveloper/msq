@@ -2812,5 +2812,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9793",
     "passage": ""
+  },
+  {
+    "id": 11133,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The diagram above shows the velocity-time graph of a vehicle. Its acceleration and retardation respectively are",
+    "options": {
+      "A": "8.0 ms -2 , 4,0 ms -2",
+      "B": "4.0 ms -2 , 8.0 ms -2",
+      "C": "4.0 ms -2 , 2.0 ms -2",
+      "D": "2.0 ms -2 , 4.0 ms -2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12226508316_phy19992.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888469/myschool/physics/12226508316_phy19992.jpg",
+    "correct_answer": "C",
+    "explanation": "AE\nOE\n80\n20\n2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11133",
+    "passage": ""
   }
 ]
