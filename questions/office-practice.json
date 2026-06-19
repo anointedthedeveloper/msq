@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66093",
     "passage": ""
+  },
+  {
+    "id": 66095,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Mails requiring prompt attention are",
+    "options": {
+      "A": "registered mails.",
+      "B": "personal mails.",
+      "C": "urgent mails.",
+      "D": "confidential mails"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Urgent mails: These are mails that require prompt attention. Once a mail is marked 'urgent', it should be attended to first before others. The contents should be checked immediately to facilitate speedy action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66095",
+    "passage": ""
   }
 ]
