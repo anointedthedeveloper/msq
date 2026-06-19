@@ -5374,5 +5374,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12891",
     "passage": ""
+  },
+  {
+    "id": 12892,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "I. Jet propelled aircraft II. Rocket propulsion III. The recoil of a gun IV. A person walking Which of the above is based on Newton's third law of motion",
+    "options": {
+      "A": "I and II only",
+      "B": "I, II, III, and IV only",
+      "C": "I and III only",
+      "D": "I, II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "I. Jet aircraft — Expel gases backward → push aircraft forward (thrust). II. Rocket — Expel gases backward → move forward (even in space). III. Gun recoil — Bullet forward → gun moves backward. IV. Walking — Foot pushes ground backward → ground pushes you forward.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12892",
+    "passage": ""
   }
 ]
