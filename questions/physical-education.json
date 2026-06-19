@@ -4386,5 +4386,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70744",
     "passage": ""
+  },
+  {
+    "id": 70745,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What type of community health service is most likely to use modern diagnostic equipment?",
+    "options": {
+      "A": "Orthodox health services",
+      "B": "Bone setters",
+      "C": "Traditional birth attendants",
+      "D": "Herbalists"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Orthodox health services are most likely to use modern diagnostic equipment. Orthodox health services are grounded in scientific principles and often incorporate advanced medical technologies for accurate diagnosis and treatment. This includes a wide range of equipment, such as X-ray machines, ultrasound scanners MRI machines, and blood testing equipment. These tools enable healthcare professionals to identify and assess health conditions effectively, leading to appropriate treatment plans.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70745",
+    "passage": ""
   }
 ]
