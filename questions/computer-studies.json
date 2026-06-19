@@ -1866,5 +1866,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61420",
     "passage": ""
+  },
+  {
+    "id": 61421,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The windows shortcut key for closing an active application is",
+    "options": {
+      "A": "Alt+F4",
+      "B": "Ctrl+Alt+Del",
+      "C": "Ctrl+Esc.",
+      "D": "Ctrl+Shift+Del"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61421",
+    "passage": ""
   }
 ]
