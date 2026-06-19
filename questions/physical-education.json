@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64260",
     "passage": ""
+  },
+  {
+    "id": 64261,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following does not assist in detecting drug addict?",
+    "options": {
+      "A": "Neglect of appearance",
+      "B": "possession of drugs",
+      "C": "Spirit of sportsmanship",
+      "D": "Stealing and borrowing of money"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Stealing and borrowing of money does not in any way depict a drug addict. Anyone can steal and borrow money, it does not have anything to do with an addiction to drugs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64261",
+    "passage": ""
   }
 ]
