@@ -4185,5 +4185,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58702",
     "passage": ""
+  },
+  {
+    "id": 58704,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Extracting information in Database Management System (DCMS) involves",
+    "options": {
+      "A": "sorting",
+      "B": "querying",
+      "C": "editing",
+      "D": "cross-referencing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58704",
+    "passage": ""
   }
 ]
