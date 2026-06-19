@@ -4680,5 +4680,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70819",
     "passage": ""
+  },
+  {
+    "id": 70820,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What deficiency causes muscle cramps and is treated by increasing dietary intake of which mineral?",
+    "options": {
+      "A": "Iron",
+      "B": "Calcium",
+      "C": "Magnesium",
+      "D": "Potassium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Muscle cramps can result from potassium deficiency. Increasing potassium intake helps alleviate cramps.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70820",
+    "passage": ""
   }
 ]
