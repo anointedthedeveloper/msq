@@ -3018,5 +3018,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50491",
     "passage": ""
+  },
+  {
+    "id": 50494,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A particle starts from rest and moves in a straight line such that its acceleration after t secs is given by \\(a = (3t - 2) ms^{-2}\\). Find the distance covered after 3 secs.",
+    "options": {
+      "A": "\\(10m\\)",
+      "B": "\\(9m\\)",
+      "C": "\\(\\frac{13}{3} m\\)",
+      "D": "\\(\\frac{9}{2} m\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Given, \\(a(t) =  (3t - 2) ms^{-2}\\), the first integration of a(t), with respect to t, gives v(t) (the velocity). The second integration of a(t) or first integration of v(t) gives s(t).\n\\(v(t) = \\int (3t - 2) \\mathrm {d} t = \\frac{3}{2}t^{2} - 2t\\)\n\\(s(t) = \\int (\\frac{3}{2}t^{2} - 2t) \\mathrm {d} t\\)\n= \\(\\frac{t^{3}}{2} - t^{2}\\)\nWhen t = 3s,\n\\(s(3) = \\frac{3^{3}}{2} - 3^{2} = \\frac{27}{2} - 9 \\)\n= \\(\\frac{9}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50494",
+    "passage": ""
   }
 ]
