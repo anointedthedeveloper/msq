@@ -5310,5 +5310,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70850",
     "passage": ""
+  },
+  {
+    "id": 76280,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why is collaboration between orthodox and traditional health service providers important in community health?",
+    "options": {
+      "A": "It improves cultural acceptance and increases access to care",
+      "B": "It reduces the need for trained medical professionals",
+      "C": "It ensures patients are only treated by traditional methods",
+      "D": "It eliminates the need for modern hospitals entirely"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When orthodox and traditional practitioners work together, communities benefit from both cultural familiarity and modern scientific care. For example, TBAs can refer complicated births to hospitals, while orthodox practitioners can respect and incorporate safe traditional practices to increase trust and cooperation in the community.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76280",
+    "passage": ""
   }
 ]
