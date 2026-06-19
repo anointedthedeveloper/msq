@@ -10141,5 +10141,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4050",
     "passage": ""
+  },
+  {
+    "id": 4055,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In recharging a lead-acid accumulator, the reaction at the cathode can be represented as",
+    "options": {
+      "A": "Pb 2+ (aq) + SO 2- 4(aq) →PbSO 4(s)",
+      "B": "Pb 2+ (aq) + 2e - →Pb (s)",
+      "C": "Pb 2+ (aq) + 2H 2 O (l) → PbO 2(s) + 4H + (aq) + 4e -",
+      "D": "Pb (s) → Pb 2+ (aq) + 2e -"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In lead acid ,lead dissociates at the cathode Pb2+(aq) + 2e- →Pb(s)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4055",
+    "passage": ""
   }
 ]
