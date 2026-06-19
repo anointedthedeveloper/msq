@@ -3725,5 +3725,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6415",
     "passage": ""
+  },
+  {
+    "id": 6417,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of these industries is usually located at the source of its major raw materials?",
+    "options": {
+      "A": "cement manufacturing",
+      "B": "brewing",
+      "C": "textile manufacturing",
+      "D": "stone dressing",
+      "E": "shoe manufacturing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6417",
+    "passage": ""
   }
 ]
