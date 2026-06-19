@@ -4638,5 +4638,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70817",
     "passage": ""
+  },
+  {
+    "id": 70818,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is a common feature of the traditional attire worn during the Eyo Festival dance?",
+    "options": {
+      "A": "Embroidered shirts",
+      "B": "Kimonos",
+      "C": "Brightly colored beads",
+      "D": "Traditional robes and headgear"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "During the Eyo Festival dance, traditional robes and headgear are commonly worn.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70818",
+    "passage": ""
   }
 ]
