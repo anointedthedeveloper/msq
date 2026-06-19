@@ -5374,5 +5374,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8518",
     "passage": ""
+  },
+  {
+    "id": 8533,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The histogram above shows the distribution of monthly incomes of the workers in a company. How many workers earn more than N700.00?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "8",
+      "D": "6"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17625875735_math200542b.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868517/myschool/mathematics/17625875735_math200542b.jpg",
+    "correct_answer": "B",
+    "explanation": "Workers who earn above #700 = 4 + 6 + 2 = 12\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8533",
+    "passage": ""
   }
 ]
