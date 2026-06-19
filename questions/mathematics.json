@@ -11273,5 +11273,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22185",
     "passage": ""
+  },
+  {
+    "id": 22192,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A cone is made from a  sector of circle of radius 14cm and angle of 90\no\n. What is the area of the curved surface of the cone? (Take x = 22/7)",
+    "options": {
+      "A": "22cm 2",
+      "B": "38.5cm 2",
+      "C": "77cm 2",
+      "D": "154cm 2",
+      "E": "308cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Length of arc = θ / 360 * 2πr\n=> r = 90 / 360 * 14 / 4 = 3.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22192",
+    "passage": ""
   }
 ]
