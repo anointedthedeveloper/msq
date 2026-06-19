@@ -7726,5 +7726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3272",
     "passage": ""
+  },
+  {
+    "id": 3273,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "To obtain pure carbon (II) oxide from its mixture with carbon (IV) oxide, the mixture should be",
+    "options": {
+      "A": "passed over heated copper (II) oxide",
+      "B": "bubbled through water",
+      "C": "bubbled through concentrated tetroxosulphate (VI) acid",
+      "D": "bubbled through sodium hydroxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Carbon(II) oxide is prepared from Carbon(IV) oxide by passing CO\\(_2\\) through red-hot carbon. Most of the CO\\(_2\\) becomes reduced to CO. However, the uncharged CO\\(_2\\) is removed by passing the mixture through concentrated NaOH, in order to collect the pure CO over water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3273",
+    "passage": ""
   }
 ]
