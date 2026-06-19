@@ -11725,5 +11725,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64136",
     "passage": ""
+  },
+  {
+    "id": 64137,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The illegal access to a network or computer system is___________",
+    "options": {
+      "A": "security",
+      "B": "cracking",
+      "C": "virus",
+      "D": "piracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cracking is trying to get into computer systems in order to steal, corrupt or illegitimately view data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64137",
+    "passage": ""
   }
 ]
