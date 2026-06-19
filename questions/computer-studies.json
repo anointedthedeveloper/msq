@@ -19503,5 +19503,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72619",
     "passage": ""
+  },
+  {
+    "id": 72620,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following operations will be executed last in a program?",
+    "options": {
+      "A": "Addition",
+      "B": "Division",
+      "C": "Exponentiation",
+      "D": "PEMDAS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: The order operation is PEMDAS\nP-Parentheses  E-Exponents M-Multiplication D-Division A-Addition S-Subtraction",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72620",
+    "passage": ""
   }
 ]
