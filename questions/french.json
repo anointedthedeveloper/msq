@@ -3175,5 +3175,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71199",
     "passage": ""
+  },
+  {
+    "id": 71200,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justele se trouve dans l'eau.",
+    "options": {
+      "A": "poule",
+      "B": "poisson",
+      "C": "chat",
+      "D": "chien"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The question asks which animal is found in water. The correct answer is poisson (fish), as they are aquatic animals. The other options - chat (cat), chien (dog), poule (chicken), and moulon (mule) - are not typically found in water.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71200",
+    "passage": ""
   }
 ]
