@@ -3992,5 +3992,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76000",
     "passage": ""
+  },
+  {
+    "id": 76001,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The purpose of a notice of meeting is to inform members of the",
+    "options": {
+      "A": "time, date and venue of a proposed meeting",
+      "B": "postponement of a proposed meeting",
+      "C": "decision taken at the previous meeting",
+      "D": "items to be discussed at the meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The purpose of a notice of meeting is to inform members of the time, date, and venue of a proposed meeting. This allows members to plan their schedules accordingly and ensures that they are aware of when and where the meeting will take place. The other options listed such as decisions taken at the previous meeting, postponement of a proposed meeting, and items to be discussed at the meeting are typically included in the agenda or minutes of the meeting, not the notice.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76001",
+    "passage": ""
   }
 ]
