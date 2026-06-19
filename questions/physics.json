@@ -12309,5 +12309,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14520",
     "passage": ""
+  },
+  {
+    "id": 14521,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The diagram above shows two vectors at right angles to each other. The value of the resultant vector is",
+    "options": {
+      "A": "14.0 N",
+      "B": "10.0 N",
+      "C": "12.0 N",
+      "D": "13.0 N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16370431332_phy20112.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891168/myschool/physics/16370431332_phy20112.jpg",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14521",
+    "passage": ""
   }
 ]
