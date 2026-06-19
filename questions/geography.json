@@ -1966,5 +1966,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1064",
     "passage": ""
+  },
+  {
+    "id": 1065,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "During winter, the Eskimos live in",
+    "options": {
+      "A": "tents",
+      "B": "tunnels",
+      "C": "caves",
+      "D": "igloos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1065",
+    "passage": ""
   }
 ]
