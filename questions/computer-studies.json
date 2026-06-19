@@ -3342,5 +3342,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61851",
     "passage": ""
+  },
+  {
+    "id": 61852,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The full meaning of BCD is?",
+    "options": {
+      "A": "Basic Code Decimal",
+      "B": "Basic Computer Decimal",
+      "C": "Binary Coded Decimal",
+      "D": "Binary Coded Digit",
+      "E": "Binary Computer Decimal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61852",
+    "passage": ""
   }
 ]
