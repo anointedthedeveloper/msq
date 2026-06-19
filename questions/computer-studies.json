@@ -11011,5 +11011,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64102",
     "passage": ""
+  },
+  {
+    "id": 64103,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "CRACKING comes under ___________",
+    "options": {
+      "A": "website service",
+      "B": "transcription",
+      "C": "computer crime",
+      "D": "data security"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer crime. It is the use of a computer as an instrument to further illegal ends. Such as committing fraud, trafficking in child pornography, cracking etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64103",
+    "passage": ""
   }
 ]
