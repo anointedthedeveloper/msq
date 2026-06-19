@@ -6984,5 +6984,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62512",
     "passage": ""
+  },
+  {
+    "id": 62513,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Opening an already existing sequential file in output (O) mode will lead to?",
+    "options": {
+      "A": "buffer overflow",
+      "B": "deletion of the current content of the file",
+      "C": "duplication of the current content of the file",
+      "D": "addition of new data to the content of the file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62513",
+    "passage": ""
   }
 ]
