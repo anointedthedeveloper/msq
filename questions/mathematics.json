@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/26",
     "passage": ""
+  },
+  {
+    "id": 27,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A man 1.7m tall observes a bird on top of a tree at an angle of 30°. if the distance between the man's head and the bird is 25m, what is the height of the tree?",
+    "options": {
+      "A": "26.7m",
+      "B": "14.2m",
+      "C": "\\(1.7+(25\\frac{\\sqrt{3}}{2}m\\)",
+      "D": "\\(1.7+(25\\frac{\\sqrt{2}}{2}m\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hint: Make a sketch forming a right angled triangle. Let x = height of the tree above the man. Such that x/25 = sin 30.\nx = 12.5m\nThe height of the tree = 12.5 + 1.7\n= 14.2 m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/27",
+    "passage": ""
   }
 ]
