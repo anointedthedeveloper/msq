@@ -6585,5 +6585,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62490",
     "passage": ""
+  },
+  {
+    "id": 62491,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Soft boot is initiated by pressing?",
+    "options": {
+      "A": "Ctrl + Alt + Del.",
+      "B": "function key F10.",
+      "C": "main switch.",
+      "D": "bootstrap buttons."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62491",
+    "passage": ""
   }
 ]
