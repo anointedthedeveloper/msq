@@ -3189,5 +3189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1676",
     "passage": ""
+  },
+  {
+    "id": 1678,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "P (g) + Q (g) ↔ 3R (s) + S (g) ΔH is negative Which of the following will increase the yield of R ?",
+    "options": {
+      "A": "Using a larger close vessel",
+      "B": "Increasing the temperature",
+      "C": "Removing some S",
+      "D": "Adding a positive catalyst"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Since the reaction is an exothermic reaction, the yield of R will be enabled if temperature is decreased. The only way to increase the yield is by removing some of the S produced, while the reactant are being refilled continuously. Option C is the correct answer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1678",
+    "passage": ""
   }
 ]
