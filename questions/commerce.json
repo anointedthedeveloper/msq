@@ -11991,5 +11991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7250",
     "passage": ""
+  },
+  {
+    "id": 7251,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Public relations and advertising are similar in terms of?",
+    "options": {
+      "A": "communicating product information",
+      "B": "customer education",
+      "C": "the mode of operation",
+      "D": "creating a favorable attitude"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Public relations is the maintenance of a favourable public image by a company or other organization or a famous person.\nAdvertising is a means of communication with the users of a product or service with the aim of promoting a product or service.\nThe major objective of advertising and public relations is to create and maintain a good impression of the company's product or service in the eyes of the public.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7251",
+    "passage": ""
   }
 ]
