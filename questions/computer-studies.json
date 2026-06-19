@@ -5907,5 +5907,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62441",
     "passage": ""
+  },
+  {
+    "id": 62442,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) An electronic book is made up of 500 pages and there are 16 lines of 24,000 bits line on each page.\nComplete the space it will occupy on a computer in megabytes.\n(b) Give an example of auxiliary storage.\n(c) In the table below:\n(i) List the two main types of computer software.\n(ii) Give two examples under each in 4(c)i)",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a) First method 4.\nTotal number of pages  = 50\nTotal number of lines per page = 16\nTotal number of bits per line =  24,000 bits\nTotal number of bits in a byte: 8 bits = 1 byte\nOn each page, there are: 2400 x 16 bytes = 48,000 bytes/page\nFor 500 pages, there are: 48,000 x 500 bytes\nConversion to Kilobyte = 24000000/1024 = 23437.5KB\nConversion to Megabyte = 23437.5/1024 = 22.89MB\nThe space occupied in megabyte is 22.89\nSecond method:\nTotal number of pages = 500\nTotal number of lines per page = 16\nTotal number of bits per lines = 24,000 bits\nTotal number of bits in a byte: 8 bits = 1 byte\nA line in bytes = 24000/8 = 3000 bytes\n16 lines = 16 x 3000 bytes = 48000 bytes\n1 page in kilobytes = 48000/1024  = 46.875KB\nTotal space occupied = 500 x 46.875KB = 23437.5KB\nSince 1024KB = 1MB\nThen total space Occupied in Megabyte\n23437.5KB /1024 = 22.8882MB\n(b) Auxiliary Storage Hard disk / Hard drive, Compact Disc (CD), Digital Versatile Disc (DVD), Magnetic Tape, Floppy Disk/ Diskette, Pen Drive Flash Drive, Blue ray disk, Memory card or SD-card, Zip drive, Sim card.\n(c)(i) Two main types of computer software System Software, Application Software.\n(ii) Examples of System Software 1. Operating system: MS windows, Linux, Unix, Mac OSX, DOs, IOS, Novel.\n2. Utility software: Virus scanner/ Anti-virus, Disk fragmenter, System monitor, File manager, Device driver, Disk cleaner.\n3. Linker.\n4. Language translator:Assembler, Interpreter and Complier\nExamples of Application Software 1. Specialized software: Application Payroll Program Education Management Software, Accounting Soft- ware, Statistical Software, Web Design Software (e.g Facebook, Skype), etc.\n2. Application packages: Microsoft office suite, Word processing, Graphics software, Game software, Database software, Spreadsheet software, Steam software (game), etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62442",
+    "passage": ""
   }
 ]
