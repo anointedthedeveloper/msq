@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76295",
     "passage": ""
+  },
+  {
+    "id": 76296,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The passage, when transposed 3½ tones up, will be in the key of",
+    "options": {
+      "A": "B major",
+      "B": "G major",
+      "C": "C major",
+      "D": "F major"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/s4LOpCd0Oy42wbinKjRb4WySN4R6UQe2ofrDiOZE.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890462/myschool/music/s4LOpCd0Oy42wbinKjRb4WySN4R6UQe2ofrDiOZE.png",
+    "correct_answer": "B",
+    "explanation": "The correct answer is G major . Transposition involves moving a piece of music up or down in pitch by a specific interval.\nIdentify the Original Key: The passage has no sharps or flats in the key signature and starts/ends on the note C, indicating it is in C major . Calculate the Interval: An interval of 3½ tones (or 7 semitones) is a Perfect 5th . Transpose: Moving a Perfect 5th up from C major (C  D → E  → F  → G) lands on G major .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76296",
+    "passage": ""
   }
 ]
