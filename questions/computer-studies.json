@@ -17208,5 +17208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69826",
     "passage": ""
+  },
+  {
+    "id": 69827,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The first attempt at using the punch card principle to do mathematical calculations led to the invention of",
+    "options": {
+      "A": "Napier’s bone",
+      "B": "Charles Babbage Analytical Engine",
+      "C": "Charles Babbage Difference Engine",
+      "D": "Abacus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Difference Engine was designed by Charles Babbage in the 19th century. It was a mechanical calculator intended to compute polynomial functions by the method of finite differences. Babbage's design included the use of punch cards as a means of input, similar to the concept later employed in early computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69827",
+    "passage": ""
   }
 ]
