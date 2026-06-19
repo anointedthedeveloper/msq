@@ -6,7 +6,9 @@ Usage:
     python scraper.py                           # scrapes mathematics (default)
     python scraper.py --subject physics         # scrapes physics
     python scraper.py --subject mathematics --pages 10
-    python scraper.py --all                     # all subjects
+    python scraper.py --all                     # all subjects (parallel, 4 workers)
+    python scraper.py --all --workers 8         # all subjects with 8 workers
+    python scraper.py --all --autocommit        # all subjects with auto git commits
     python scraper.py --list-subjects
     python scraper.py --no-details              # fast mode, no answers
     python scraper.py --no-images               # skip Cloudinary uploads
@@ -16,7 +18,9 @@ import argparse
 import json
 import os
 import re
+import subprocess
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 import cloudinary
@@ -24,6 +28,7 @@ import cloudinary.uploader
 import requests
 from bs4 import BeautifulSoup, NavigableString
 from dotenv import load_dotenv
+from tqdm import tqdm
 
 # ── Credentials ───────────────────────────────────────────────────────────────
 load_dotenv()
@@ -471,6 +476,106 @@ def enrich_with_detail(question: dict, upload_images: bool) -> dict:
     return question
 
 
+# ── Git autocommit ─────────────────────────────────────────────────────────────
+
+GIT_LOCK_FILE = ".git_lock"
+GIT_LOCK_TIMEOUT = 30  # seconds
+GIT_LOCK_RETRY_DELAY = 0.1  # seconds
+
+
+def acquire_git_lock() -> bool:
+    """Acquire git lock file with retry logic."""
+    start_time = time.time()
+    while time.time() - start_time < GIT_LOCK_TIMEOUT:
+        try:
+            # Try to create lock file exclusively
+            with open(GIT_LOCK_FILE, "x") as f:
+                f.write(str(os.getpid()))
+            return True
+        except FileExistsError:
+            # Check if lock is stale (older than 60 seconds)
+            try:
+                lock_age = time.time() - os.path.getmtime(GIT_LOCK_FILE)
+                if lock_age > 60:
+                    os.remove(GIT_LOCK_FILE)
+                    continue
+            except OSError:
+                pass
+            time.sleep(GIT_LOCK_RETRY_DELAY)
+    return False
+
+
+def release_git_lock():
+    """Release git lock file."""
+    try:
+        if os.path.exists(GIT_LOCK_FILE):
+            os.remove(GIT_LOCK_FILE)
+    except OSError:
+        pass
+
+
+def git_commit_question(subject_slug: str, question: dict) -> bool:
+    """Commit changes for a single question to git."""
+    if not acquire_git_lock():
+        print(f"  [GIT] Could not acquire lock for Q#{question['id']}")
+        return False
+    
+    try:
+        output_file = f"questions/{subject_slug}.json"
+        if not os.path.exists(output_file):
+            return False
+        
+        subprocess.run(["git", "add", output_file], check=True, capture_output=True)
+        
+        # Check if there are changes to commit
+        result = subprocess.run(["git", "diff", "--cached", "--quiet", output_file], 
+                              capture_output=True)
+        if result.returncode == 0:
+            return False  # No changes
+        
+        commit_msg = f"scrape({subject_slug}): Q#{question['id']} {question['exam_type']} {question['exam_year']}"
+        
+        subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"  [GIT] Error committing question {question['id']}: {e}")
+        return False
+    finally:
+        release_git_lock()
+
+
+def git_commit_subject(subject_slug: str, question_count: int) -> bool:
+    """Commit changes for a subject to git (legacy, for batch commits)."""
+    if not acquire_git_lock():
+        print(f"  [GIT] Could not acquire lock for {subject_slug}")
+        return False
+    
+    try:
+        output_file = f"questions/{subject_slug}.json"
+        if not os.path.exists(output_file):
+            return False
+        
+        subprocess.run(["git", "add", output_file], check=True, capture_output=True)
+        
+        # Check if there are changes to commit
+        result = subprocess.run(["git", "diff", "--cached", "--quiet", output_file], 
+                              capture_output=True)
+        if result.returncode == 0:
+            return False  # No changes
+        
+        timestamp = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
+        commit_msg = f"scrape({subject_slug}): {question_count} questions [{timestamp}]"
+        
+        subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
+        print(f"  [GIT] Committed: {subject_slug} ({question_count} questions)")
+        return True
+    except subprocess.CalledProcessError as e:
+        print(f"  [GIT] Error committing {subject_slug}: {e}")
+        return False
+    finally:
+        release_git_lock()
+
+
 # ── Main scraper ───────────────────────────────────────────────────────────────
 
 def scrape_subject(
@@ -479,6 +584,8 @@ def scrape_subject(
     output_dir: str = "questions",
     fetch_details: bool = True,
     upload_images: bool = True,
+    autocommit: bool = False,
+    commit_frequency: int = 1,
 ) -> list[dict]:
     """
     Scrape all past questions for a subject and save to
@@ -501,6 +608,9 @@ def scrape_subject(
         "explanation_image_cloudinary": "",
         "url": "https://myschool.ng/classroom/mathematics/26348"
     }
+
+    Args:
+        commit_frequency: Commit every N questions (default: 1 for per-question commits)
     """
     subject_url = f"{CLASSROOM_URL}/{subject_slug}"
     Path(output_dir).mkdir(parents=True, exist_ok=True)
@@ -518,6 +628,7 @@ def scrape_subject(
     print(f"\n{'='*60}")
     print(f"  Subject    : {subject_slug}")
     print(f"  Details    : {fetch_details} | Cloudinary: {upload_images}")
+    print(f"  Autocommit : {autocommit} (every {commit_frequency} question(s))")
     print(f"{'='*60}")
 
     soup = get_page(subject_url)
@@ -558,11 +669,28 @@ def scrape_subject(
             print(f"    Q#{question['id']:<6} {question['exam_type']:<5} "
                   f"{question['exam_year']} ans={question['correct_answer'] or '?'} {has_img}")
 
+            # Commit after each question if autocommit enabled
+            if autocommit and commit_frequency == 1:
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(all_questions, f, ensure_ascii=False, indent=2)
+                if git_commit_question(subject_slug, question):
+                    print(f"      [GIT] Committed Q#{question['id']}")
+
         # Save after every page
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(all_questions, f, ensure_ascii=False, indent=2)
+        
+        # Commit batch if commit_frequency > 1
+        if autocommit and commit_frequency > 1 and len(all_questions) % commit_frequency == 0:
+            if git_commit_subject(subject_slug, len(all_questions)):
+                print(f"  [GIT] Batch committed: {len(all_questions)} questions")
 
     print(f"\n  Done: {len(all_questions)} questions -> {output_file}")
+    
+    # Final commit if autocommit enabled and not already committed per-question
+    if autocommit and commit_frequency > 1:
+        git_commit_subject(subject_slug, len(all_questions))
+    
     return all_questions
 
 
@@ -590,6 +718,9 @@ Examples:
     parser.add_argument("--no-images",     action="store_true")
     parser.add_argument("--list-subjects", action="store_true")
     parser.add_argument("--all",           action="store_true")
+    parser.add_argument("--autocommit",    action="store_true", help="Auto-commit after each question (or batch)")
+    parser.add_argument("--commit-frequency", type=int, default=1, metavar="N", help="Commit every N questions (default: 1)")
+    parser.add_argument("--workers",       type=int, default=4, metavar="N", help="Parallel workers (default: 4)")
 
     args = parser.parse_args()
 
@@ -604,9 +735,33 @@ Examples:
     upload_images = not args.no_images
 
     if args.all:
-        for s in SUBJECTS:
-            scrape_subject(s["slug"], args.pages, args.output, fetch_details, upload_images)
-            time.sleep(3)
+        print(f"\nScraping {len(SUBJECTS)} subjects with {args.workers} workers...\n")
+        
+        def scrape_wrapper(subject):
+            return scrape_subject(
+                subject["slug"], 
+                args.pages, 
+                args.output, 
+                fetch_details, 
+                upload_images,
+                args.autocommit,
+                args.commit_frequency
+            )
+        
+        with ThreadPoolExecutor(max_workers=args.workers) as executor:
+            futures = {executor.submit(scrape_wrapper, s): s for s in SUBJECTS}
+            
+            with tqdm(total=len(SUBJECTS), desc="Overall Progress", unit="subject") as pbar:
+                for future in as_completed(futures):
+                    subject = futures[future]
+                    try:
+                        future.result()
+                        pbar.set_postfix_str(f"{subject['name']}")
+                        pbar.update(1)
+                    except Exception as e:
+                        print(f"  ERROR scraping {subject['name']}: {e}")
+                        pbar.update(1)
+        
         print("\nAll subjects done!")
         return
 
@@ -615,7 +770,7 @@ Examples:
         print(f"Unknown slug: '{args.subject}'. Run --list-subjects.")
         return
 
-    scrape_subject(args.subject, args.pages, args.output, fetch_details, upload_images)
+    scrape_subject(args.subject, args.pages, args.output, fetch_details, upload_images, args.autocommit, args.commit_frequency)
 
 
 if __name__ == "__main__":
