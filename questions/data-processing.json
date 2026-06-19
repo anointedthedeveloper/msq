@@ -9986,5 +9986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77102",
     "passage": ""
+  },
+  {
+    "id": 77103,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The slide that is used to introduce a topic during a presentation is called",
+    "options": {
+      "A": "title slide",
+      "B": "graph",
+      "C": "animation",
+      "D": "bullet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A title slide in PowerPoint can have many definitions, but in most cases, it is the first slide in the deck and appears in the PowerPoint workspace when the presentation is opened. By default, in PowerPoint, the title slide offers two text boxes for a title and a subtitle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77103",
+    "passage": ""
   }
 ]
