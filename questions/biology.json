@@ -1538,5 +1538,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/406",
     "passage": ""
+  },
+  {
+    "id": 407,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "One of the following statement is not true of viruses",
+    "options": {
+      "A": "They are micro-organisms",
+      "B": "They are smaller than bacteria",
+      "C": "They can be seen with an ordinary light microscope",
+      "D": "They cause tobacco disease",
+      "E": "They cause polio and smallpox"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/407",
+    "passage": ""
   }
 ]
