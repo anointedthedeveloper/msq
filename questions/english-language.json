@@ -1801,5 +1801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/618",
     "passage": ""
+  },
+  {
+    "id": 619,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nThe project which seemed very near realization .... because of lack of funds",
+    "options": {
+      "A": "fell over",
+      "B": "fell through",
+      "C": "fell off",
+      "D": "fell in",
+      "E": "fell down"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/619",
+    "passage": ""
   }
 ]
