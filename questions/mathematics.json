@@ -8608,5 +8608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9314",
     "passage": ""
+  },
+  {
+    "id": 9315,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A polynomial in x whose roots are 4/3 and -3/5 is?",
+    "options": {
+      "A": "15x 2 - 11x – 12",
+      "B": "15x 2 + 11x – 12",
+      "C": "12x 2 - x – 12",
+      "D": "12x 2 + 11x – 15"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If 4/3 and -3/5 are roots of a polynomial Imply x = 4/3 and - 3/5 3x = 4 and 5x = -3 ∴3x-4 = 0 and 5x+3 = 0 are factors (3x-4)(5x+3) = 0 product of the factors 15x2 + 9x – 20x – 12 = 0 By expansion 15x2 - 11x – 12 = 0\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9315",
+    "passage": ""
   }
 ]
