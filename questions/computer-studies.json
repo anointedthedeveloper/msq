@@ -10990,5 +10990,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64101",
     "passage": ""
+  },
+  {
+    "id": 64102,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Encryption helps with what?",
+    "options": {
+      "A": "Spam messages",
+      "B": "identify source of message",
+      "C": "Safe delivery of messages to destination without being accessed by a third party",
+      "D": "interpretation of message and digital data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Encryption deals with the safe transfer of data of information from its source to its destinations, without a third party having access to the information or data being transferred.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64102",
+    "passage": ""
   }
 ]
