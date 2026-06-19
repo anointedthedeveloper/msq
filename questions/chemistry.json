@@ -4743,5 +4743,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2226",
     "passage": ""
+  },
+  {
+    "id": 2227,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Which of the following is physical change?",
+    "options": {
+      "A": "Burning kerosene",
+      "B": "Freezing ice cream",
+      "C": "Exposing white phosphorus",
+      "D": "Dissolving calcium in water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Option A, C and D are irreversible but option B is reversible because the frozen ice cream can undergo melting and turn into liquid and vice versa, hence no new substance is formed.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2227",
+    "passage": ""
   }
 ]
