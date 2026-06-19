@@ -1909,5 +1909,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50399",
     "passage": ""
+  },
+  {
+    "id": 50400,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(\\log_{10}y + 3\\log_{10}x \\geq \\log_{10}x\\), express y in terms of x.",
+    "options": {
+      "A": "\\(y \\geq \\frac{1}{x}\\)",
+      "B": "\\(y \\leq \\frac{1}{x}\\)",
+      "C": "\\(y \\leq \\frac{1}{x^{2}}\\)",
+      "D": "\\(y \\geq \\frac{1}{x^{2}}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\log_{10}y + 3\\log_{10}x \\geq \\log_{10}x\\)\n\\(\\implies \\log_{10}y \\geq \\log_{10}x - 3 \\log_{10}x \\)\n\\(\\log_{10}y \\geq -2\\log_{10}x = \\log_{10}y \\geq \\log_{10}x^{-2}\\)\n\\(\\log_{10}y \\geq \\log_{10}(\\frac{1}{x^{2}}) \\implies y \\geq \\frac{1}{x^{2}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50400",
+    "passage": ""
+  },
+  {
+    "id": 50401,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Simplify \\(\\frac{^{n}P_{5}}{^{n}C_{5}}\\).",
+    "options": {
+      "A": "80",
+      "B": "90",
+      "C": "110",
+      "D": "120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{^{n}P_{5}}{^{n}C_{5}} = \\frac{n!}{(n-5)!} ÷ \\frac{n!}{(n-5)!5!}\\)\n= \\(\\frac{n!}{(n-5)!} \\times \\frac{(n-5)!5!}{n!} = 5! = 120\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50401",
+    "passage": ""
   }
 ]
