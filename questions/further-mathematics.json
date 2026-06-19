@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50236",
     "passage": ""
+  },
+  {
+    "id": 50239,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "There are 7 boys in a class of 20. Find the number of ways of selecting 3 girls and 2 boys",
+    "options": {
+      "A": "1638",
+      "B": "2730",
+      "C": "6006",
+      "D": "7520"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "No of boys in the class = 7; Girls = 20-7 = 13\nNo of selection = \\(^{13}C_{3} \\times ^{7}C_{2} = \\frac{13!}{(13-3)!3!} \\times \\frac{7!}{(7-2)!2!}\\)\n= \\(286\\times21 = 6006\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50239",
+    "passage": ""
   }
 ]
