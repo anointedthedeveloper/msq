@@ -2875,5 +2875,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68286",
     "passage": ""
+  },
+  {
+    "id": 68287,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The swimming pattern in which both arms are extended and pulledback together in a circular motion while both legs are thrust out and pulled back together is called ?",
+    "options": {
+      "A": "sidestroke",
+      "B": "crawl",
+      "C": "Breaststroke",
+      "D": "butterfly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Breaststroke: This is a swimming",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68287",
+    "passage": ""
   }
 ]
