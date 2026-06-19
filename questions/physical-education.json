@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64219",
     "passage": ""
+  },
+  {
+    "id": 64220,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following formations of play is most suitable for defensive strategy in soccer?",
+    "options": {
+      "A": "2:3:5",
+      "B": "2:4:4",
+      "C": "4:2:4",
+      "D": "4:4:2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "4:4:2 is used in defensive football formation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64220",
+    "passage": ""
   }
 ]
