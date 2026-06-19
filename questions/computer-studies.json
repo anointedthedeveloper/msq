@@ -15675,5 +15675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67782",
     "passage": ""
+  },
+  {
+    "id": 67783,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the shortcut for creating a new document ?",
+    "options": {
+      "A": "Ctrl + N",
+      "B": "Ctrl + O",
+      "C": "Ctrl + Q",
+      "D": "Ctrl + M"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The shortcut for creating a new document is Ctrl + N. This is a standard shortcut across many applications and operating systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67783",
+    "passage": ""
   }
 ]
