@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50364",
     "passage": ""
+  },
+  {
+    "id": 50365,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The first term of a Geometric Progression (GP) is \\(\\frac{3}{4}\\), If the product of the second and third terms of the sequence is 972, find its common ratio.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Recall, the terms of a GP is given by \\(T_{n} = ar^{n - 1}\\)\nGiven, \\(T_{1} = a = \\frac{3}{4}\\) and \\(T_{2} \\times T_{3} = ar \\times ar^{2} = 972\\)\n\\(\\implies \\frac{3}{4}r \\times \\frac{3}{4}r^{2} = \\frac{9}{16}r^{3} = 972\\)\n\\(r^{3} = \\frac{972 \\times 16}{9} = 1728  \\implies r = \\sqrt[3]{1728} = 12\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50365",
+    "passage": ""
   }
 ]
