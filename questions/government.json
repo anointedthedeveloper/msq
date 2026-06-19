@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/42",
     "passage": ""
+  },
+  {
+    "id": 44,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The standing committee of a legislature is one",
+    "options": {
+      "A": "whose member stand while delibrating",
+      "B": "that has statutory responsibities",
+      "C": "that perform adhoc functions",
+      "D": "that has legislators as members."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A standing committee is a permanent committee within a legislature that is tasked with specific responsibilities defined by law, referred to as statutory responsibilities. These committees handle ongoing matters like reviewing bills, conducting hearings and making recommendations to the full legislature.\nAd hoc committees are temporary and created for specific tasks, while standing committees are permanent and handle ongoing duties.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/44",
+    "passage": ""
   }
 ]
