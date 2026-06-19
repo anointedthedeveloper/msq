@@ -17339,5 +17339,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25011",
     "passage": ""
+  },
+  {
+    "id": 25012,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A lens of focal length 15.0 cm forms an upright image four times the size of an object. Calculate the distance of the image from the lens",
+    "options": {
+      "A": "11.3cm",
+      "B": "18.8 cm",
+      "C": "37.5cm",
+      "D": "45.0cm",
+      "E": "75.0cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25012",
+    "passage": ""
   }
 ]
