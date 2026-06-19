@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/714",
     "passage": ""
+  },
+  {
+    "id": 715,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "What optical instrument can best be constructed with converging lenses of focal lengths 50cm and 5cm?",
+    "options": {
+      "A": "Compound microscope",
+      "B": "Galileo's telescope",
+      "C": "Terrestrial telescope",
+      "D": "Astronomical telescope"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An astronomical telescope traditionally consists of two converging lenses with the objective having a longer focal length than the eyepiece. In this case, the 50 cm lens would serve as the objective, and the 5 cm lens as the eyepiece, which is a standard configuration for astronomical telescopes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/715",
+    "passage": ""
   }
 ]
