@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50128",
     "passage": ""
+  },
+  {
+    "id": 50140,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Find the coordinates of the centre of the circle \\(3x^{2}+3y^{2} - 4x + 8y -2=0\\)",
+    "options": {
+      "A": "(-2,4)",
+      "B": "(\\(\\frac{-2}{3}, \\frac{4}{3}\\))",
+      "C": "(\\(\\frac{2}{3}, \\frac{-4}{3}\\))",
+      "D": "(2, -4)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The equation for a circle with centre coordinates (a, b) and radius r is\n\\((x-a)^{2} + (y-b)^{2} = r^{2}\\)\nExpanding the above equation, we have\n\\(x^{2} - 2ax +a^{2} + y^{2} - 2by + b^{2} - r^{2} = 0\\) so that\n\\(x^{2} - 2ax + y^{2} - 2by = r^{2} - a^{2} - b^{2}\\)\nTaking the original equation given, \\(3x^{2} + 3y^{2} - 4x + 8y = 2\\) and making the coefficients of \\(x^{2}\\) and \\(y^{2}\\) = 1,\n\\(x^{2} + y^{2} - \\frac{4x}{3} + \\frac{8y}{3} = \\frac{2}{3}\\), comparing, we have\n\\(2a = \\frac{4}{3}; 2b = \\frac{-8}{3}\\)\n\\(\\implies a = \\frac{2}{3}; b = \\frac{-4}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50140",
+    "passage": ""
   }
 ]
