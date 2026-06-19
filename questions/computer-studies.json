@@ -15339,5 +15339,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67763",
     "passage": ""
+  },
+  {
+    "id": 67767,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A computer code that spreads without the user interaction and can cause network performance problem is",
+    "options": {
+      "A": "a trojan",
+      "B": "a computer worm",
+      "C": "a spyware",
+      "D": "a computer virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A computer worm is a computer code that spreads without user interaction, they are not always destructive but can cause network performance and stability problems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67767",
+    "passage": ""
   }
 ]
