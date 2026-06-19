@@ -1,0 +1,44 @@
+[
+  {
+    "id": 295,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The inner diameter of a test tube can be measured accurately using a?",
+    "options": {
+      "A": "micrometer screw guage",
+      "B": "pair of dividers",
+      "C": "metre rule",
+      "D": "pair of vernier calipers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A Vernier caliper is an instrument used to measure both the outer and inner diameters of a tube.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/295",
+    "passage": ""
+  },
+  {
+    "id": 297,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Two bodies have masses in the ratio 3:1. They experience forces which impart to them acceleration in the ratio 2:9 respectively. Find the ratio of forces the masses experienced.",
+    "options": {
+      "A": "1 : 4",
+      "B": "2 : 1",
+      "C": "2 : 3",
+      "D": "2 : 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let the forces be F1, and F2. F1 = m1 a1 = 3 x 2 = 6N F2 = m2 a2 = 1 x 9 = 9N F1 : F2 = 6:9 = 2:3 Thus ratio of forces is 2: 3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/297",
+    "passage": ""
+  }
+]
