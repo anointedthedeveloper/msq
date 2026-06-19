@@ -15801,5 +15801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24250",
     "passage": ""
+  },
+  {
+    "id": 24251,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A force of 20 N applied parallel to the surface of a horizontal table, is just sufficient to make a block of mass 4kg move on the table. Calculate the coefficient of friction between the block and the table. (g = 10ms\n2\n)",
+    "options": {
+      "A": "0.05",
+      "B": "0.20",
+      "C": "0.50",
+      "D": "0.80",
+      "E": "2.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24251",
+    "passage": ""
   }
 ]
