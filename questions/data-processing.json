@@ -7789,5 +7789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69785",
     "passage": ""
+  },
+  {
+    "id": 69786,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 4 is an entity relationship diagram in MS Access . Use it to answer questions 22 and 23 . How many entity are listed in Figure 4 ?",
+    "options": {
+      "A": "30",
+      "B": "25",
+      "C": "3",
+      "D": "5"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ErHUVw9YInvAAQjh88BPEI7x7lgxP7smDMSVT2Lq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912075/myschool/data-processing/ErHUVw9YInvAAQjh88BPEI7x7lgxP7smDMSVT2Lq.jpg",
+    "correct_answer": "D",
+    "explanation": "In an Entity-Relationship (ER) diagram, an entity represents a distinct and identifiable concept, object, or thing about which data is being stored. Entities are typically nouns that have attributes describing their properties. They serve as the building blocks of an ER diagram and are used to model the real-world entities or concepts that are relevant to the database being designed. For example, in a university database, entities could include \"Student,\" \"Course,\" \"Professor,\" and \"Department,\" each with their own set of attributes that describe their characteristics. Relationships between entities, indicated by lines connecting them, show how these entities are related to one another and how data flows between them. But in the Entity-Relationship (ER) diagram given above, the entities are \"Users\", \"Products\", \"Sale\", \"Sale detail\", and \"Sale detail TMP\" which are five (5) in numbers",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69786",
+    "passage": ""
   }
 ]
