@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1149",
     "passage": ""
+  },
+  {
+    "id": 1151,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Solve the equations\nm\n2\n+ n\n2\n= 29\nm + n = 7",
+    "options": {
+      "A": "(2, 3) and ( 3, 5)",
+      "B": "(2, 5) and (5, 2)",
+      "C": "(5, 2) and ( 5, 3)",
+      "D": "(5, 3) and (3, 5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1151",
+    "passage": ""
   }
 ]
