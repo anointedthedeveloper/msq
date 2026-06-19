@@ -10161,5 +10161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11100",
     "passage": ""
+  },
+  {
+    "id": 11101,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The shaded area in the diagram above is represented by",
+    "options": {
+      "A": "{(x,y) : y - 3x < -6}",
+      "B": "{(x,y) : y + 3x < 6}",
+      "C": "{(x,y) : y + 3x < -6}",
+      "D": "{(x,y) : y - 3x < 6}"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/u9RfCXBmLeDoF7qzjF4jN9D86jKw1u9Wa1ytA94o.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868963/myschool/mathematics/u9RfCXBmLeDoF7qzjF4jN9D86jKw1u9Wa1ytA94o.png",
+    "correct_answer": "B",
+    "explanation": "Coordinates of the line are (x1 y1)(0,2) respectively and (x2 y2)(2,0) respectively Gradient (m) of the line = (y2 - y1) / (x2 - x1) = (0-6) / (2-0) = -6/2 = -3 Equation of the line y-y1 = m(x-x1) y - 6 = -3(x - 0) y - 6 = -3x y + 3x = 6 inequality; from the y axis, the shaded region is below the line ∴ y + 3x ∠ 6 and line is a broken line\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11101",
+    "passage": ""
   }
 ]
