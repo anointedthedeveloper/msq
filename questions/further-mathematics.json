@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50239",
     "passage": ""
+  },
+  {
+    "id": 50241,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The 3rd and 7th term of a Geometric Progression (GP) are 81 and 16. Find the 5th term.",
+    "options": {
+      "A": "\\(\\frac{4}{729}\\)",
+      "B": "\\(\\frac{81}{16}\\)",
+      "C": "27",
+      "D": "36"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The nth term of a GP is given by: \\(T_{n} = ar^{n-1}\\).\n\\(T_{3} = ar^{3-1} = ar^{2} = 81\\).......(1)\n\\(T_{7} = ar^{7-1} = ar^{6} = 16 \\) ...... (2)\nDividing (2) by (1), we have \\(r^{4} = \\frac{16}{81} = (\\frac{2}{3})^{4} \\implies r = \\frac{2}{3}\\)\nPutting \\(r = \\frac{2}{3}\\) in equation (1), we have \\(81 = a \\times (\\frac{2}{3}\\)^{2} = a \\times \\frac{4}{9} \\implies a = \\frac{729}{4}\\)\n\\(T_{5} = ar^{5-1} = ar^{4} = \\frac{729}{4} \\times (\\frac{2}{3})^{4}\\)\n= \\(\\frac{729}{4} \\times \\frac{16}{81} = 36\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50241",
+    "passage": ""
   }
 ]
