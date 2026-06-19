@@ -7663,5 +7663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69778",
     "passage": ""
+  },
+  {
+    "id": 69779,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Computer malware is detected by",
+    "options": {
+      "A": "adware",
+      "B": "logic bomb",
+      "C": "antivirus",
+      "D": "antiglare"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer malware is detected by antivirus software. Antivirus software is designed to identify, prevent, and remove various types of malicious software, commonly referred to as malware. This includes viruses, worms, trojans, spyware, adware, and other malicious programs that can harm or compromise a computer system. Antivirus software scans files, programs, and incoming data for patterns and behaviors associated with known malware, and it takes actions to quarantine or remove the detected threats. The other options mentioned—adware, antiglare, and logic bomb—are not directly related to detecting malware. Adware is a type of potentially unwanted software, antiglare refers to a screen feature, and a logic bomb is a type of malicious code that triggers when specific conditions are met.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69779",
+    "passage": ""
   }
 ]
