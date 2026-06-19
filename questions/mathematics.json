@@ -10569,5 +10569,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22021",
     "passage": ""
+  },
+  {
+    "id": 22025,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "If cos 60° = 1/2, which of the following angle has cosine of -1/2?",
+    "options": {
+      "A": "30 o",
+      "B": "120 o",
+      "C": "150 o",
+      "D": "210 o",
+      "E": "300 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "cos 60° = 1/2, cos(180° - 60°) = -1/2 cos120° = -1/2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22025",
+    "passage": ""
   }
 ]
