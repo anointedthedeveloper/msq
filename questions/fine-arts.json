@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75290",
     "passage": ""
+  },
+  {
+    "id": 75293,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What artistic skill is required to blend colours smoothly in a painting?",
+    "options": {
+      "A": "Colour blocking",
+      "B": "Cross-hatching",
+      "C": "Rendering",
+      "D": "Pointillism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Rendering helps in creating realistic transitions between colours.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75293",
+    "passage": ""
   }
 ]
