@@ -3166,5 +3166,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1262",
     "passage": ""
+  },
+  {
+    "id": 1263,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "What is name of the respiratory organ of the crab?",
+    "options": {
+      "A": "Tubules",
+      "B": "Trachaea",
+      "C": "Spiracles",
+      "D": "Lungs",
+      "E": "Gills"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Crabs use gills to absorb oxygen from water and release carbon dioxide. Crabs use gills to breathe, similar to fish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1263",
+    "passage": ""
   }
 ]
