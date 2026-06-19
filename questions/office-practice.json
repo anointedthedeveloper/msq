@@ -3026,5 +3026,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66850",
     "passage": ""
+  },
+  {
+    "id": 66851,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following activties does the handling of incoming mails involve?",
+    "options": {
+      "A": "Addressing the envelope",
+      "B": "Enveloping the document",
+      "C": "Examining the content",
+      "D": "Dispatching the mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The step or activities are: - receiving the mail - opening the mail - scrutiny of contents - date of stamping - recording - sorting and distribution",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66851",
+    "passage": ""
   }
 ]
