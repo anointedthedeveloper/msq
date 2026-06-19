@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/141",
     "passage": ""
+  },
+  {
+    "id": 142,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A commercial bank is unique in that it is the only institution that",
+    "options": {
+      "A": "makes loans to private people and businessmen",
+      "B": "accept deposits",
+      "C": "can store peoples' valuables",
+      "D": "can transfer money from one place to another for its customers",
+      "E": "saves money through the granting of credits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The most distinctive features of a commercial bank are borrowing and lending, i.e, acceptance of deposits and lending of money to earn Interest (profit).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/142",
+    "passage": ""
   }
 ]
