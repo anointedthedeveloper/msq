@@ -1637,5 +1637,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/995",
     "passage": ""
+  },
+  {
+    "id": 997,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The constitution that introduced restricted franchise into Nigerian politics was the",
+    "options": {
+      "A": "Independence Constitution",
+      "B": "Lyttelton Constitution",
+      "C": "Richards Constitution",
+      "D": "Clifford Constitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/997",
+    "passage": ""
   }
 ]
