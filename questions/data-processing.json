@@ -9608,5 +9608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77052",
     "passage": ""
+  },
+  {
+    "id": 77054,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The following are examples of operating systems by Microsoft Corporation, except",
+    "options": {
+      "A": "os/2",
+      "B": "ms-dos",
+      "C": "vista",
+      "D": "xp"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "OS/2 is a series of computer operating systems, initially created by Microsoft and IBM under the leadership of IBM software designer Ed Iacobucci.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77054",
+    "passage": ""
   }
 ]
