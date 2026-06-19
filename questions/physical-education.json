@@ -6905,5 +6905,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76516",
     "passage": ""
+  },
+  {
+    "id": 76517,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a sign of overtraining in a strength training programme?",
+    "options": {
+      "A": "Increased motivation",
+      "B": "Persistent muscle soreness and fatigue",
+      "C": "Improved sleep quality",
+      "D": "Consistent strength improvements"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Persistent muscle soreness and fatigue that does not improve with rest can indicate overtraining. Overtraining occurs when the body is subjected to excessive training stress without adequate recovery, leading to decreased performance, increased injury risk, and symptoms like chronic soreness, fatigue, irritability, and disrupted sleep. Signs like consistent strength improvements, increased motivation, and improved sleep quality are typically associated with proper training and recovery, not overtraining.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76517",
+    "passage": ""
   }
 ]
