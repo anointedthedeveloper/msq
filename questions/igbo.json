@@ -1656,5 +1656,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73603",
     "passage": ""
+  },
+  {
+    "id": 73604,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "​​​​​​What is mkpuruokwu called in English?",
+    "options": {
+      "A": "Alphabet",
+      "B": "Word",
+      "C": "Formation",
+      "D": "Letters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Mkpuruokwu is the Igbo term for \"word\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73604",
+    "passage": ""
   }
 ]
