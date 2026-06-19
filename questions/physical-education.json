@@ -2770,5 +2770,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68280",
     "passage": ""
+  },
+  {
+    "id": 68281,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following factors does not affect posture ?",
+    "options": {
+      "A": "complexion",
+      "B": "Heredity",
+      "C": "Habit",
+      "D": "Age"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Posture is affected by factors such as age, habit, and heredity. Complexion, which refers to the natural color, texture, and appearance of the skin, does not affect posture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68281",
+    "passage": ""
   }
 ]
