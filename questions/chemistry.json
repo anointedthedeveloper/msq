@@ -5478,5 +5478,89 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2520",
     "passage": ""
+  },
+  {
+    "id": 2521,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The modern process of manufacturing steel for iron is by",
+    "options": {
+      "A": "treatment with acids",
+      "B": "oxidation",
+      "C": "blast reduction",
+      "D": "treatment with alkanal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Modern steelmaking involves two primary steps that transform iron ore into the final product. While the initial stage of extracting iron from its ore in a blast furnace is a reduction process (using carbon monoxide to remove oxygen from the iron oxide), the actual conversion of that iron into steel is an oxidation process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2521",
+    "passage": ""
+  },
+  {
+    "id": 2522,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Ethene reacts with hydrogen bromide to give",
+    "options": {
+      "A": "CH 2 Br 2",
+      "B": "CH 3 CH 2 Br",
+      "C": "C 2 H 2 Br 2",
+      "D": "CHBr 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When ethene, C\\(_2\\)H\\(_4\\) reacts with hydrogen bromide (HBr), the product is bromoethane (C\\(_2\\)H\\(_5\\)Br):\nC\\(_2\\)H\\(_4\\)   +   HBr  →  C\\(_2\\)H\\(_5\\)Br\nThis reaction is an addition reaction where HBr adds across the double bond of ethene:\nThe double bond breaks A hydrogen atom attaches to one of the carbons A bromine atom attaches to the other\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2522",
+    "passage": ""
+  },
+  {
+    "id": 2523,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "How many isomers does pentane have?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Isomers are chemical compounds with the same Molecular formula but different structural formula or arrangements of atoms in the molecule.\nPentane, an organic compound with the chemical formula C\\(_5\\)H\\(_{12}\\), has three structural isomers:\nn-pentane : A straight chain of five carbon atoms 2-methylbutane: A four-carbon chain with a methyl group branching off the second carbon atom 2,2-dimethylpropane : A three-carbon chain with two methyl groups branching off the middle carbon atom\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2523",
+    "passage": ""
+  },
+  {
+    "id": 2524,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The leachate of a certain plant ash is used in local soap making because it contains",
+    "options": {
+      "A": "sodium chloride and potassium hydroxide",
+      "B": "sodium hydroxide",
+      "C": "potassium hydroxide",
+      "D": "soluble carbonates and hydrogen carbonates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The leachate of certain plant ash, especially from hardwoods, is used in local soap making because it contains potassium hydroxide (KOH), which is a type of lye. KOH is an alkaline substance that reacts with fats to produce soap through a process called saponification. While sodium hydroxide (NaOH) is also used in soap making, KOH-based soaps are known to be softer and are often used in liquid soap formulations.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2524",
+    "passage": ""
   }
 ]
