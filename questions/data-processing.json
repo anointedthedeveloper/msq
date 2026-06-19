@@ -1690,5 +1690,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57745",
     "passage": ""
+  },
+  {
+    "id": 57747,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Computers store data as",
+    "options": {
+      "A": "folders",
+      "B": "files",
+      "C": "documents",
+      "D": "directories"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Computers perform two functions: they process and store data. Data is stored as files and files are stored in folders and folders are stored within drives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57747",
+    "passage": ""
   }
 ]
