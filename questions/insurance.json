@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49700",
     "passage": ""
+  },
+  {
+    "id": 49701,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "one of the perils of nature is?",
+    "options": {
+      "A": "heating",
+      "B": "earthquake",
+      "C": "civil commotion",
+      "D": "spontaneous combustion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Natural peril; This category includes such perils as injury and damage caused by natural elements such as rain, ice, snow, typhoon, hurricane, volcano, wave action, wind, earthquake, or flood.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49701",
+    "passage": ""
   }
 ]
