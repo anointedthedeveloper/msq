@@ -3714,5 +3714,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1736",
     "passage": ""
+  },
+  {
+    "id": 1737,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following represent hybridization in ethyne?",
+    "options": {
+      "A": "Sp 2",
+      "B": "Sp 2 d",
+      "C": "Sp 3",
+      "D": "Sp"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Hybridization is the process of mixing orbitals with slightly different energies to create new orbitals with the same shape and energy. In ethyne, each carbon atom's 2s orbital combines with one of its 2p orbitals to form two sp hybrid orbitals. Ethyne, also known as acetylene, has sp hybridization\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1737",
+    "passage": ""
   }
 ]
