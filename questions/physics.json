@@ -1678,5 +1678,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1510",
     "passage": ""
+  },
+  {
+    "id": 1511,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Ice cubes are added to a glass of warm water. The glass and water are cooled by",
+    "options": {
+      "A": "conduction only",
+      "B": "convection only",
+      "C": "conduction and convection",
+      "D": "convection and radiation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "heat is transferred from the water to the ice/glass through direct contact(conduction) additionally, there is some convective heat transfer within the water as warmer water rises and cooler water sinks.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1511",
+    "passage": ""
   }
 ]
