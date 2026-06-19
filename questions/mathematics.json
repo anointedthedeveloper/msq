@@ -3337,5 +3337,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7739",
     "passage": ""
+  },
+  {
+    "id": 7747,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "x varies directly as the product of u and v and inversely as their sum. If x = 3 when u = 3 and v = 1, what is the value of x if u = 3 and v = 3?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "6",
+      "D": "9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(x\\propto \\frac{uv}{u+v}\\)\nx = \\(\\frac{kuv}{u+v}\\)\nK = \\(\\frac{x(u+v)}{uv}\\)\n\\(\\frac{3(3+1)}{3\\times1}\\)\n\\(\\frac{3\\times4}{3}\\)\nk = 4\nx =\\(\\frac{4uv}{u+v}\\)\nx = \\(\\frac{4\\times 3\\times3}{3+3}\\)\nx = \\(\\frac{36}{6}\\)\nx = 6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7747",
+    "passage": ""
   }
 ]
