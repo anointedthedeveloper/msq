@@ -17754,5 +17754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69853",
     "passage": ""
+  },
+  {
+    "id": 69854,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Viruses, worms and Trojan horses are regarded as",
+    "options": {
+      "A": "system software.",
+      "B": "malicious software.",
+      "C": "application software.",
+      "D": "utility software."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Viruses, worms, and Trojan horses are regarded as \"malicious software\" or \"malware.\" These terms refer to different types of software that are designed to disrupt, damage, or gain unauthorized access to computer systems, networks, or data. Here's a brief explanation of each: Viruses: Viruses are programs that attach themselves to legitimate files or software and spread when those files are executed. They can cause a range of issues, from annoying pop-ups to data corruption. Worms: Worms are self-replicating programs that can spread over computer networks without the need for user intervention. They exploit vulnerabilities to spread and can consume network resources. Trojan Horses (Trojans): Trojans are programs that appear harmless but have malicious intent. They often trick users into running them, leading to unauthorized access, data theft, or other harmful actions. These forms of malware can cause significant harm to computer systems and data, which is why it's important to have effective antivirus and security measures in place to protect against them",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69854",
+    "passage": ""
   }
 ]
