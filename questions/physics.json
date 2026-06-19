@@ -10183,5 +10183,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14333",
     "passage": ""
+  },
+  {
+    "id": 14334,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A progressive wave equation is represented by y = a sin(150 πt - \\(\\frac{πx}{4}\\)). if the phase difference of a progressive wave is 45°, the value of x in the equation is",
+    "options": {
+      "A": "3 cm",
+      "B": "4 cm",
+      "C": "1 cm",
+      "D": "2 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Y = sin π(150πt - \\(\\frac{πx}{4}\\)) Comparing the above with the standard wave equation: Y = A sin π (\\(\\frac{(2vt)}{λ}\\) - \\(\\frac{(2x)}{λ}\\)) => the phase difference \\(\\frac{x}{4}\\) = \\(\\frac{2x}{λ}\\) ∴ \\(\\frac{1}{4}\\) = \\(\\frac{2}{λ}\\) => λ = 8cm ∴ \\(\\frac{2πx}{8}\\) =  45° since π = 180°\n45° X 8 = 2 X 180° x\n∴ x =  1cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14334",
+    "passage": ""
   }
 ]
