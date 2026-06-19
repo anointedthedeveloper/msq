@@ -13271,5 +13271,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21257",
     "passage": ""
+  },
+  {
+    "id": 21258,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "It takes 4 minutes to boil a quantity of water electrically. How long will it take to boil same quantity of water using the same heating coil but with the current doubled? (neglecting any external heat loss).",
+    "options": {
+      "A": "64 minutes",
+      "B": "32 minutes",
+      "C": "8 minutes",
+      "D": "2 minutes",
+      "E": "1 minute"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21258",
+    "passage": ""
   }
 ]
