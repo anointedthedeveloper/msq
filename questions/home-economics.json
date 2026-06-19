@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73178",
     "passage": ""
+  },
+  {
+    "id": 73179,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A developed cylinder shows a ____",
+    "options": {
+      "A": "Circle",
+      "B": "Triangle",
+      "C": "Square",
+      "D": "Rectangle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A developed cylinder is a 2D representation of a 3D cylinder, where the curved surface is unfolded and laid flat. When developed, it forms a rectangular shape — the height of the cylinder becomes the rectangle’s length, and the circumference becomes its width.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73179",
+    "passage": ""
   }
 ]
