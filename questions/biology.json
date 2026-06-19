@@ -42,5 +42,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/290",
     "passage": ""
+  },
+  {
+    "id": 291,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Given the equation: 6CO\\(_2\\) + 6H\\(_2\\)O → C\\(_6\\)H\\(_{12}\\)O\\(_6\\) + 6O\\(_2\\) (Under sunlight & Chlorophyll) The oxygen given off during the above process is derived from",
+    "options": {
+      "A": "sunlight",
+      "B": "chlorophyll",
+      "C": "carbon dioxide",
+      "D": "atmosphere",
+      "E": "water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The oxygen given of by plants is from WATER which is split during photolysis(splitting of water by sunlight).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/291",
+    "passage": ""
   }
 ]
