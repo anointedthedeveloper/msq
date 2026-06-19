@@ -10099,5 +10099,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4047",
     "passage": ""
+  },
+  {
+    "id": 4048,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The oxidation state of carbon in HCOOH is",
+    "options": {
+      "A": "-1",
+      "B": "+2",
+      "C": "+3",
+      "D": "zero"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "HCOOH O.N of H + O.N of C + 2* O.N of oxygen of H = 0 1 + X + 2X - 2 + 1 = 0 2 + X -4 = 0 X = 4 - 2 = +2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4048",
+    "passage": ""
   }
 ]
