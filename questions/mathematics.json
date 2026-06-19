@@ -7831,5 +7831,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9274",
     "passage": ""
+  },
+  {
+    "id": 9275,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The fifth term of an A.P is 24 and the eleventh term is 96. Find the first term.",
+    "options": {
+      "A": "12",
+      "B": "4",
+      "C": "-12",
+      "D": "-24"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "U5 = 24, n = 5 and U11 = 96, n = 11 Un = a + (n-1)d 24 = a + (5-1)d imply 24 = a+4d .....eqn1 96 = a + (11-1)d imply 96 = a+10d ...eqn2 eqn1 - eqn2 -72 = -6d d = 72/6 = 12 but 24 = a+4d 24 = a + 4(12) 24 = a + 48 a = 24-48 a = -24\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9275",
+    "passage": ""
   }
 ]
