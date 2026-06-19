@@ -12936,5 +12936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7310",
     "passage": ""
+  },
+  {
+    "id": 7311,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A document which gives a legal status to a company is the certificate of?",
+    "options": {
+      "A": "incorporation",
+      "B": "trading",
+      "C": "commencement of business",
+      "D": "business registration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A certificate of incorporation is a document given by the companies' regulation agency of a country (in Nigeria's case this is the Corporate Affairs Commission – CAC) as evidence of the existence of a company, and its right to do business.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7311",
+    "passage": ""
   }
 ]
