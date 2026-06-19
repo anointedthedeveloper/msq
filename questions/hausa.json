@@ -627,5 +627,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73436",
     "passage": ""
+  },
+  {
+    "id": 73462,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Fassara wadannan: Headmaster.",
+    "options": {
+      "A": "Shugaban aji.",
+      "B": "Shugaban 'yan mata.",
+      "C": "Shugaban d'alibai.",
+      "D": "Shugaban makaranta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Shugaban makaranta (Headmaster means the principal of a school)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73462",
+    "passage": ""
   }
 ]
