@@ -6487,5 +6487,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9042",
     "passage": ""
+  },
+  {
+    "id": 9043,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "How many terms of the series 3, -6, +12, - 24, + ..... are needed to make a total of 1 - 2\\(^8\\)?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "9",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "3, - 6, +12, -24 a = 3, r = -2 \\(Sn = \\frac{a(1-r^n)}{1-r}\\\\ ∴1-2^8 = \\frac{3(1-(-2^{n}))}{1-(-2)}\\\\ 1-2^8 = \\frac{3(1-(-2^{n}))}{3}\\) 1 - 2\\(^8\\) = 1 - (-2)\\(^n\\) Since 1 - 2\\(^8\\) = 1 - (-2)\\(^n\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9043",
+    "passage": ""
   }
 ]
