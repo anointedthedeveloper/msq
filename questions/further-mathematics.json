@@ -3903,5 +3903,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50596",
     "passage": ""
+  },
+  {
+    "id": 50598,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Forces 90N and 120N act in the directions 120° and 240° respectively. Find the resultant of these forces.",
+    "options": {
+      "A": "\\(-45(2i + \\sqrt{2}j)\\)",
+      "B": "\\(60(\\sqrt{3}i + 7j)\\)",
+      "C": "\\(30(7i + \\sqrt{3}j)\\)",
+      "D": "\\(-15(7i + \\sqrt{3}j)\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(F = F\\cos\\theta + F\\sin\\theta\\)\n\\(\\implies 90N = 90\\cos 120° + 90\\sin 120°\\)\n\\(120N = 120 \\cos 240° + 120 \\sin 240°\\)\n\\(R = F_{1} + F_{2} \\)\n= \\((90 \\cos 120 + 120 \\cos 240)i + (90\\sin 120 + 120 \\sin 240)j\\)\n= \\(90(-0.5) + 120(-0.5))i + (90(\\frac{\\sqrt{3}}{2}) + (120(-\\frac{\\sqrt{3}}{2}))j\\)\n= \\(-105i - 15\\sqrt{3}j = -15(7i + \\sqrt{3}j)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50598",
+    "passage": ""
   }
 ]
