@@ -7485,5 +7485,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62539",
     "passage": ""
+  },
+  {
+    "id": 62540,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The largest computer system in terms of processing power is A?",
+    "options": {
+      "A": "laptop computer",
+      "B": "mainframe computer",
+      "C": "minicomputer",
+      "D": "super computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62540",
+    "passage": ""
   }
 ]
