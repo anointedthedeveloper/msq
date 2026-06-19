@@ -8830,5 +8830,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62686",
     "passage": ""
+  },
+  {
+    "id": 62687,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The IF...THEN statement in BASIC programming is?",
+    "options": {
+      "A": "a transfer of control.",
+      "B": "used to redirect a statement.",
+      "C": "used to eliminate the need for prompting each INPUT statement.",
+      "D": "a conditional branch statement."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The IF...THEN statement in BASIC programming is a conditional branch statement. It allows the program to execute a certain section of code only if a particular test condition is true. If the condition is false, the program skips the section of code.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62687",
+    "passage": ""
   }
 ]
