@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50267",
     "passage": ""
+  },
+  {
+    "id": 50269,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given that \\( a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\) and \\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\), evaluate \\((2a - \\frac{1}{4}b)\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 7 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 3 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} \\frac{17}{4} \\\\ 2 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(a = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}\\); \\(b = \\begin{pmatrix} -1 \\\\ 4 \\end{pmatrix}\\)\n\\(\\implies 2 \\times a = \\begin{pmatrix} 4 \\\\ 6 \\end{pmatrix}\\) and \\(\\frac{1}{4} \\times b = \\begin{pmatrix} -\\frac{1}{4} \\\\ 1 \\end{pmatrix}\\)\n\\(\\therefore 2a - \\frac{1}{4}b = \\begin{pmatrix} 4 - \\frac{-1}{4} \\\\ 6 - 1 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} \\frac{17}{4} \\\\ 5 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50269",
+    "passage": ""
   }
 ]
