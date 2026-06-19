@@ -16305,5 +16305,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67837",
     "passage": ""
+  },
+  {
+    "id": 67838,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "EDVAC was produced using which of these concepts ?",
+    "options": {
+      "A": "packet routing",
+      "B": "stored program",
+      "C": "circuit switching",
+      "D": "packet switching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "EDVAC (Electronic Discrete Variable Automatic Computer) was produced using the 'stored program' concept. This concept is a design architecture for computers where the instructions to be executed by the computer are stored in the same memory that holds the data. 'Circuit switching', 'packet routing', and 'packet switching' are concepts related to network communication, not computer design.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67838",
+    "passage": ""
   }
 ]
