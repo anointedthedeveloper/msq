@@ -2900,5 +2900,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66844",
     "passage": ""
+  },
+  {
+    "id": 66845,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The principle Unity of Command in an office implies that",
+    "options": {
+      "A": "no worker in an organization should report to more than one-line supervisior",
+      "B": "every worker in an organization should be directly responsible to the general manager",
+      "C": "everyone in the organization should be able to work in all departments",
+      "D": "no worker in an organization should report to more than a two-line supervisor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Under the principles of war, unity of command means that all the forces fall under one responsible commander. It reqiures a single commander with the requisite authority to direct all forces in pursuit of a united purpose. Simply put ,it means one mission, one boss.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66845",
+    "passage": ""
   }
 ]
