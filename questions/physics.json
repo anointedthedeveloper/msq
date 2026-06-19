@@ -8965,5 +8965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14196",
     "passage": ""
+  },
+  {
+    "id": 14200,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Metal cables are used as telephone wires because?",
+    "options": {
+      "A": "they are cheap",
+      "B": "they are sourced locally",
+      "C": "the speed of sound in them is very low",
+      "D": "the speed of sound in them is very high"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The speed of sound is highest in solid.\nMetals (solids) like copper, steel rod, etc\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14200",
+    "passage": ""
   }
 ]
