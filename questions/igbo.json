@@ -2870,5 +2870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73834",
     "passage": ""
+  },
+  {
+    "id": 73835,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ọlee the \"one million\" pụtara n'asụsụ Igbo?",
+    "options": {
+      "A": "Ọtụ nde",
+      "B": "Ọtụ narị",
+      "C": "Iri",
+      "D": "Ọtụ puku"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1 million in Igbo is Ọtụ nde. Ọtụ is \"one\" and nde is \"million\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73835",
+    "passage": ""
   }
 ]
