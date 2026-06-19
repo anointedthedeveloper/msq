@@ -3995,5 +3995,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62257",
     "passage": ""
+  },
+  {
+    "id": 62258,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Use the Logic gate above to answer this question.\nWhen signals X= 0 and Y= 1, signal Z is?",
+    "options": {
+      "A": "0.1",
+      "B": "0",
+      "C": "1",
+      "D": "0+1"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/g0Z3GP8k73tuSQWraox9ZzUM2sC45AKgtPC1duVr.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901752/myschool/computer-studies/g0Z3GP8k73tuSQWraox9ZzUM2sC45AKgtPC1duVr.jpg",
+    "correct_answer": "B",
+    "explanation": "For an AND gate, When X = 0 and Y = 1 for an AND gate output Z = 0.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62258",
+    "passage": ""
   }
 ]
