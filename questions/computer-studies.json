@@ -19335,5 +19335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72603",
     "passage": ""
+  },
+  {
+    "id": 72610,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The part labeled Q in Figure 3 is called",
+    "options": {
+      "A": "control unit.",
+      "B": "data bus.",
+      "C": "memory unit.",
+      "D": "register."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2CZHTgUHhSBXQBTsJhfyO6I8lSDeSydkWfTZYs5o.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904775/myschool/computer-studies/2CZHTgUHhSBXQBTsJhfyO6I8lSDeSydkWfTZYs5o.jpg",
+    "correct_answer": "C",
+    "explanation": "C: (Memory Unit) The Central Processing Unit (CPU) relies on the memory unit to store and retrieve data and instructions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72610",
+    "passage": ""
   }
 ]
