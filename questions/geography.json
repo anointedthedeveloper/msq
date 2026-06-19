@@ -5614,5 +5614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7997",
     "passage": ""
+  },
+  {
+    "id": 7998,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "How is the mean annual rainfall of a given place calculated using records for 35 years?",
+    "options": {
+      "A": "by summing the yearly average rainfall figure and dividing by 35",
+      "B": "by summing the yearly total rainfall figures dividing by 35",
+      "C": "by summing the yearly total rainfall figures for 35 years and dividing by 12",
+      "D": "by finding the average between the figures for the wettest and the the direst years and multiplying by 35",
+      "E": "by plotting the rainfall figures on a graph and finding the midpoint"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7998",
+    "passage": ""
   }
 ]
