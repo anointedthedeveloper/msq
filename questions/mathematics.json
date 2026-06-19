@@ -4324,5 +4324,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8198",
     "passage": ""
+  },
+  {
+    "id": 8199,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "y is inversely proportional to x and y = 4 when x = 1/2. Find x when y = 10.",
+    "options": {
+      "A": "2",
+      "B": "10",
+      "C": "1/5",
+      "D": "1/10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "y ∝ 1/x y = K/x K = xy K = (1/2) * 4 ( when y = 4 and x = 1/2) K = 2 ∴y = 2/x 10 = 2/x (when y = 10) 10x = 2 x = 2/10 x = 1/5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8199",
+    "passage": ""
   }
 ]
