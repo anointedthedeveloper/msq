@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1107",
     "passage": ""
+  },
+  {
+    "id": 1110,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
+    "options": {
+      "A": "y =  \\(\\frac{3x^2}{2}\\) + 2x",
+      "B": "y = (3x 2 )/2 + x",
+      "C": "y = 3x 2 + (x/2)",
+      "D": "y = 3x 2 +2x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hints: 1. Integrate the given first derivative of f(x) at the boundaries, (0,0) Then solve accordingly to get f(x) = y = \\(\\frac{3x^2}{2}\\) + 2x\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1110",
+    "passage": ""
   }
 ]
