@@ -16368,5 +16368,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67840",
     "passage": ""
+  },
+  {
+    "id": 67841,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the difference between internal and external modem",
+    "options": {
+      "A": "external modems are PCI or ISA expansion cards while internal modems are traditionally plug into a serial port on the computer.",
+      "B": "internal modems are PCI or ISA expansion cards while external modems are traditionally plug into a serial port on the computer.",
+      "C": "external modems are PCI or ISA expansion cards while internal modems are USB modems",
+      "D": "they are PCI or ISA expansion cards"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Internal modems are PCI or ISA expansion cards, they tend to be simple to install while external modems are traditionally plug into a serial port on the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67841",
+    "passage": ""
   }
 ]
