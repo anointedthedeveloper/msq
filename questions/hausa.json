@@ -3483,5 +3483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73855",
     "passage": ""
+  },
+  {
+    "id": 73856,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "A rubutun wasika daga adireshi sai",
+    "options": {
+      "A": "kanun batu",
+      "B": "adireshi na biyu",
+      "C": "gaisuwa",
+      "D": "gabatarwa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a letter, the sender's address is usually followed by: Answer: adireshi na biyu (Adireshi na biyu means the recipient's address, which is the correct answer. Gabatarwa is the introduction, gaisuwa is the greeting, kanun batu is not a relevant term, and kwanan wata is the date)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73856",
+    "passage": ""
   }
 ]
