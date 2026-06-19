@@ -1930,5 +1930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50400",
     "passage": ""
+  },
+  {
+    "id": 50401,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Simplify \\(\\frac{^{n}P_{5}}{^{n}C_{5}}\\).",
+    "options": {
+      "A": "80",
+      "B": "90",
+      "C": "110",
+      "D": "120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{^{n}P_{5}}{^{n}C_{5}} = \\frac{n!}{(n-5)!} ÷ \\frac{n!}{(n-5)!5!}\\)\n= \\(\\frac{n!}{(n-5)!} \\times \\frac{(n-5)!5!}{n!} = 5! = 120\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50401",
+    "passage": ""
   }
 ]
