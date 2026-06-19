@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75218",
     "passage": ""
+  },
+  {
+    "id": 75219,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "عند كتابة موضوع إنشائي عن \"العلم\"، من الأفضل أن تبدأ ب؟",
+    "options": {
+      "A": "بيت شعر عن الجهل",
+      "B": "تعريف للعلم و أهميته",
+      "C": "قصة خيالية",
+      "D": "موقف سياسي"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Essays should begin with a definition or general introduction to the topic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75219",
+    "passage": ""
   }
 ]
