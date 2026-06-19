@@ -1719,5 +1719,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73683",
     "passage": ""
+  },
+  {
+    "id": 73684,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Tsamo wakilin suna na daya kurma tilo",
+    "options": {
+      "A": "Ni",
+      "B": "Ke",
+      "C": "Mu",
+      "D": "Kai"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Kai. The question is asking about the pronoun used to refer to oneself in Hausa, and the answer is Kai.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73684",
+    "passage": ""
   }
 ]
