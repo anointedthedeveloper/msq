@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1441",
     "passage": ""
+  },
+  {
+    "id": 1447,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the fraction of the atoms of a radioactive material left after 120years is 1/64, what is the half-life of the material?",
+    "options": {
+      "A": "24 years",
+      "B": "20 years",
+      "C": "10 years",
+      "D": "2 years"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1447",
+    "passage": ""
   }
 ]
