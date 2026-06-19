@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50381",
     "passage": ""
+  },
+  {
+    "id": 50382,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(\\overrightarrow{OX} = \\begin{pmatrix} -7 \\\\ 6 \\end{pmatrix}\\) and \\(\\overrightarrow{OY} = \\begin{pmatrix} 16 \\\\ -11 \\end{pmatrix}\\), find \\(\\overrightarrow{YX}\\).",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 9 \\\\ -5 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -23 \\\\ -5 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 9 \\\\ 17 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -23 \\\\ 17 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\overrightarrow{OY} \\equiv -\\overrightarrow{YO}\\)\nAlso, \\(\\overrightarrow{YO} + \\overrightarrow{OX} = \\overrightarrow{YX}\\)\n\\(\\therefore \\overrightarrow{YO} = -\\overrightarrow{OY} = - \\begin{pmatrix} 16 \\\\  -11  \\end{pmatrix} = \\begin{pmatrix} -16 \\\\ 11  \\end{pmatrix}\\)\n\\(\\overrightarrow{YX} = \\begin{pmatrix}  -16 \\\\ 11  \\end{pmatrix}  + \\begin{pmatrix}  -7  \\\\  6   \\end{pmatrix}\\)\n= \\(\\begin{pmatrix}  -23  \\\\  17  \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50382",
+    "passage": ""
   }
 ]
