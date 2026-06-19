@@ -3358,5 +3358,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/33008",
     "passage": ""
+  },
+  {
+    "id": 33009,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2012",
+    "question": "The Africans transported across the Atlantic as slaves were mostly",
+    "options": {
+      "A": "people with criminal records",
+      "B": "able-bodied men",
+      "C": "disabled persons",
+      "D": "people with low income."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/33009",
+    "passage": ""
   }
 ]
