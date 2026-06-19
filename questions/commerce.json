@@ -13020,5 +13020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7314",
     "passage": ""
+  },
+  {
+    "id": 7318,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The components of capital employed in a business are?",
+    "options": {
+      "A": "owners' equity and long-term debts",
+      "B": "total assets and current liabilities",
+      "C": "share capital and long-term debts",
+      "D": "share capital and current liabilities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Capital employed is derived by subtracting current liabilities from total assets",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7318",
+    "passage": ""
   }
 ]
