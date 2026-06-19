@@ -2664,5 +2664,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50435",
     "passage": ""
+  },
+  {
+    "id": 50439,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(P = \\begin{pmatrix} -2 & 1 \\\\ 3 & 4 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} 5 & -3 \\\\ 2 & -1 \\end{pmatrix}\\), find PQ - QP.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 0 & 0 \\\\ 0 & 0 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 27 & 12 \\\\ 16 & -15 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -20 & -6 \\\\ 12 & -8 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 11 & 12 \\\\ 30 & -11 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(P = \\begin{pmatrix} -2 & 1 \\\\ 3 & 4 \\end{pmatrix}; Q = \\begin{pmatrix} 5 & -3 \\\\ 2 & -1 \\end{pmatrix}\\)\n= \\(PQ = \\begin{pmatrix} -10+2 & 6-1 \\\\ 15+8 & -9-4 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -8 & 5 \\\\ 23 & -13 \\end{pmatrix}\\)\n\\(QP = \\begin{pmatrix} -10-9 & 5-12 \\\\ -4-3 & 2-4 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -19 & -7 \\\\ -7 & -2 \\end{pmatrix}\\)\n\\(PQ - QP = \\begin{pmatrix} -8 & 5 \\\\ 23 & -13 \\end{pmatrix} - \\begin{pmatrix} -19 & -7 \\\\ -7 & -2 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 11 & 12 \\\\ 30 & -11 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50439",
+    "passage": ""
   }
 ]
