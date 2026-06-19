@@ -7180,5 +7180,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9243",
     "passage": ""
+  },
+  {
+    "id": 9244,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "If X = {all the perfect squares less than 40}\nY = {all the odd numbers fro, 1 to 15}. Find X ∩ Y.",
+    "options": {
+      "A": "{3, 9}",
+      "B": "{9}",
+      "C": "{9, 25}",
+      "D": "{1, 9}"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9244",
+    "passage": ""
   }
 ]
