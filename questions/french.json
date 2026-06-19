@@ -4120,5 +4120,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75405",
     "passage": ""
+  },
+  {
+    "id": 75406,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Qui est le premier président sénégalais ?",
+    "options": {
+      "A": "Léopold Sédar Senghor",
+      "B": "Abdou Diouf",
+      "C": "Moussa Dieng",
+      "D": "Abdoulaye Wade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Senghor was the first president after independence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75406",
+    "passage": ""
   }
 ]
