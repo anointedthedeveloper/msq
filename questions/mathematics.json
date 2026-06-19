@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/721",
     "passage": ""
+  },
+  {
+    "id": 722,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A trader realizes 10x - x\\(^2\\) naira profit from the sale of x bags on corn. How many bags will give him the desired profit?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "y = 10x - x\\(^2\\) dy/dx = 10 - 2x As dy/dx = 0, 10 - 2x = 0 2x = 10 x = 5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/722",
+    "passage": ""
   }
 ]
