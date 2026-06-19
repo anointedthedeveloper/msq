@@ -4345,5 +4345,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12280",
     "passage": ""
+  },
+  {
+    "id": 12281,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If an object is placed between two parallel plane mirrors with their reflecting surfaces facing each other, how many images of the object will be formed?",
+    "options": {
+      "A": "Infinite",
+      "B": "Eight",
+      "C": "Four",
+      "D": "Two"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12281",
+    "passage": ""
   }
 ]
