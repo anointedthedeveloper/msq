@@ -5060,5 +5060,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1985",
     "passage": ""
+  },
+  {
+    "id": 1987,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The Central Bank differs from commercial banks because it?",
+    "options": {
+      "A": "renders service to customers",
+      "B": "carries out foreign exchange transactions",
+      "C": "issues currencies",
+      "D": "discounts bills"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1987",
+    "passage": ""
   }
 ]
