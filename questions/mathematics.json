@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/533",
     "passage": ""
+  },
+  {
+    "id": 539,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the area bounded by the curve y = x(2-x). The x-axis, x = 0 and x = 2.",
+    "options": {
+      "A": "4 sq units",
+      "B": "2 sq units",
+      "C": "\\(\\frac{4}{3}sq\\hspace{1 mm}units\\)",
+      "D": "\\(\\frac{1}{3}sq\\hspace{1 mm}units\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(y = x(2-x) \\Rightarrow y= 2x - x^{2}\\); \\(\\int^{2}_{0}(2x-x^{2} = (x^{2}-\\frac{x{3}}{3})^{2}\\) solving further gives (4 - \\(\\frac{1}{3} * 8) - (0) = \\frac{4}{3} sq\\hspace{1 mm}unit\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/539",
+    "passage": ""
   }
 ]
