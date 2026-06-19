@@ -1226,5 +1226,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48170",
     "passage": ""
+  },
+  {
+    "id": 48171,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Leequel de ces noms est une vile francaise",
+    "options": {
+      "A": "Abidjan",
+      "B": "Lyon",
+      "C": "Lomé",
+      "D": "Libreville"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48171",
+    "passage": ""
   }
 ]
