@@ -8672,5 +8672,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72346",
     "passage": ""
+  },
+  {
+    "id": 72347,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A user working on a computer that is running on Windows 7 issued the com- mand \"Ctrl + Alt + Del\" while typing a document. What interface is expected to be displayed on the screen?",
+    "options": {
+      "A": "Restart Windows",
+      "B": "Shut Down Windows",
+      "C": "Windows Security",
+      "D": "Windows Task"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ctrl+Alt+Del loads the Windows security interface which provides options to: I. lock the computer II. switch user III. Sign out IV. Open task manage",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72347",
+    "passage": ""
   }
 ]
