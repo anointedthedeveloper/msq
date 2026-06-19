@@ -12367,5 +12367,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4496",
     "passage": ""
+  },
+  {
+    "id": 4497,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Stainless steel is used for making?",
+    "options": {
+      "A": "magnets",
+      "B": "tools",
+      "C": "coins and medals",
+      "D": "moving parts of clocks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "- Stainless steel is an alloy of iron, nickel and chromium. It is used in making cutlery, tools and surgical equipment.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4497",
+    "passage": ""
   }
 ]
