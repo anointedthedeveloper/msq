@@ -5520,5 +5520,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2522",
     "passage": ""
+  },
+  {
+    "id": 2523,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "How many isomers does pentane have?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Isomers are chemical compounds with the same Molecular formula but different structural formula or arrangements of atoms in the molecule.\nPentane, an organic compound with the chemical formula C\\(_5\\)H\\(_{12}\\), has three structural isomers:\nn-pentane : A straight chain of five carbon atoms 2-methylbutane: A four-carbon chain with a methyl group branching off the second carbon atom 2,2-dimethylpropane : A three-carbon chain with two methyl groups branching off the middle carbon atom\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2523",
+    "passage": ""
   }
 ]
