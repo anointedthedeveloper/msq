@@ -4267,5 +4267,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75412",
     "passage": ""
+  },
+  {
+    "id": 75413,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le contraire de finir, c'est ...",
+    "options": {
+      "A": "arrêter",
+      "B": "commencer",
+      "C": "manger",
+      "D": "démolir"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Commencer\" is the direct opposite of the verb \"finir\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75413",
+    "passage": ""
   }
 ]
