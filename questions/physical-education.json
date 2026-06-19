@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64144",
     "passage": ""
+  },
+  {
+    "id": 64145,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these individuals assists performer in gymnastics?",
+    "options": {
+      "A": "Coach",
+      "B": "judge",
+      "C": "referee",
+      "D": "spotter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Spotter is one who supervises a person performing an activity, in order to help them should they be unable to complete it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64145",
+    "passage": ""
   }
 ]
