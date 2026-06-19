@@ -17931,5 +17931,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25053",
     "passage": ""
+  },
+  {
+    "id": 25054,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "A boy cycles continuously through a distance of 1.0 km in 5 minutes. Calculate his average speed",
+    "options": {
+      "A": "0.3ms -1",
+      "B": "3.3ms -1",
+      "C": "16.6ms -1",
+      "D": "20.0ms -1",
+      "E": "200.0ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25054",
+    "passage": ""
   }
 ]
