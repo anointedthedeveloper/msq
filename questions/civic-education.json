@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50087",
     "passage": ""
+  },
+  {
+    "id": 50090,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The inalienable rights of citizens can be guaranteee through?",
+    "options": {
+      "A": "an unwritten constitution",
+      "B": "parliamentary system of government",
+      "C": "unitary  system of government",
+      "D": "an independent judiciary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Judicial independence is the concept that the judiciary should be independent from the other branches of government. That is, courts should not be subject to improper influence from the other branches of government or from private or partisan interests. Judicial independence is important to the idea of separation of powers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50090",
+    "passage": ""
   }
 ]
