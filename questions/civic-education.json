@@ -9825,5 +9825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65900",
     "passage": ""
+  },
+  {
+    "id": 65901,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following sets of agencies are responsible for checking road worthiness of vehicles?",
+    "options": {
+      "A": "The Federal Road Safety Corps and Vehicle Inspection Office",
+      "B": "The Police and National Security and Civil Defence Corps",
+      "C": "Federal Road Safety Corps and the Nigerian Army",
+      "D": "The Nigerian Army and Vehicle Inspection Office"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Federal Road Safety Corps and Vehicle Inspection Office are responsible for ensuring vehicles are road-worthy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65901",
+    "passage": ""
   }
 ]
