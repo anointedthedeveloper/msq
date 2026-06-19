@@ -2706,5 +2706,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50442",
     "passage": ""
+  },
+  {
+    "id": 50444,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(f : x \\to \\frac{2x - 1}{x + 2}, x \\neq -2\\), find \\(f^{-1}\\), the inverse of f.",
+    "options": {
+      "A": "\\(f^{-1} : x \\to \\frac{1+2x}{2-x}, x \\neq 2\\)",
+      "B": "\\(f^{-1} : x \\to \\frac{1-2x}{x+2}, x \\neq -2\\)",
+      "C": "\\(f^{-1} : x \\to \\frac{1-2x}{x-2}, x \\neq 2\\)",
+      "D": "\\(f^{-1} : x \\to \\frac{1+2x}{x+2}, x \\neq -2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = \\frac{2x - 1}{x + 2}\\)\n\\(y = \\frac{2x - 1}{x + 2}\\)\n\\(x = \\frac{2y - 1}{y + 2} \\implies x(y + 2) = 2y - 1\\)\n\\(xy - 2y = -1 - 2x  \\implies y = \\frac{-1 - 2x}{x - 2}\\)\n\\(f^{-1} : x \\to \\frac{1 + 2x}{2 - x} ; x \\neq 2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50444",
+    "passage": ""
   }
 ]
