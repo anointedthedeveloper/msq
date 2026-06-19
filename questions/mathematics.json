@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2121",
     "passage": ""
+  },
+  {
+    "id": 2122,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The bearings of P and Q from a common point N are 020° and 300° respectively. If P and Q are also equidistant from N, find the bearing of P from Q.",
+    "options": {
+      "A": "040°",
+      "B": "070°",
+      "C": "280°",
+      "D": "320°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "From the diagram above, <PNQ = 80º\nBut < PQN =  <NPQ = 50º ( base <s of isosceles triangle PQN)\nTherefore, the bearing of P from Q = 070º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2122",
+    "passage": ""
   }
 ]
