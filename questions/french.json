@@ -2546,5 +2546,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71079",
     "passage": ""
+  },
+  {
+    "id": 71080,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentence photo représente un homme.",
+    "options": {
+      "A": "Cet",
+      "B": "Ces",
+      "D": "Cette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "La réponse correcte est Cette. \"Cette photo représente un homme.\" La forme \"cette\" est utilisée devant un nom féminin singulier pour indiquer que la photo en questior représente un homme.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71080",
+    "passage": ""
   }
 ]
