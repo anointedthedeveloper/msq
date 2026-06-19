@@ -8503,5 +8503,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14074",
     "passage": ""
+  },
+  {
+    "id": 14078,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A step-down transformer has a power output of 50 W and efficiency of 80%. if the mains supply voltage is 200 v, calculate the primary current of the transformer.",
+    "options": {
+      "A": "0.31 A",
+      "B": "3.20 A",
+      "C": "3.40 A",
+      "D": "5.00 A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To find the primary current of the step-down transformer, we follow these steps:\n1. Calculate the Power Input: The efficiency (\\( \\eta \\)) of the transformer is given by: \\(\\eta = \\frac{\\text{Power Output}}{\\text{Power Input}} \\times 100\\) Rearranging gives: \\(\\text{Power Input} = \\frac{\\text{Power Output}}{\\eta}\\)\nGiven: - Power Output = 50 W - Efficiency = 80\\% = 0.80\nThus, \\(\\text{Power Input} = \\frac{50 \\, \\text{W}}{0.80} = 62.5 \\, \\text{W}\\)\n2. Calculate the Primary Current: The power input can also be expressed in terms of voltage and current: \\(\\text{Power Input} = V_p \\times I_p\\) Where: - \\( V_p \\) = primary voltage (given as 200 V) - \\( I_p \\) = primary current (what we want to find)\nRearranging gives: \\( I_p = \\frac{\\text{Power Input}}{V_p}\\)\nNow substituting the values: \\(I_p = \\frac{62.5 \\, \\text{W}}{200 \\, \\text{V}} = 0.3125 \\, \\text{A}\\)\nThus, the primary current of the transformer is: 0.3125A\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14078",
+    "passage": ""
   }
 ]
