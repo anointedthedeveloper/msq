@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75257",
     "passage": ""
+  },
+  {
+    "id": 75261,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The application of wax to resist dye in textile design is called:",
+    "options": {
+      "A": "Stencilling",
+      "B": "Tie-dye",
+      "C": "Batik",
+      "D": "Appliqué"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Batik involves wax-resist dyeing for detailed patterns",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75261",
+    "passage": ""
   }
 ]
