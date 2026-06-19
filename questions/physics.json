@@ -6214,5 +6214,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13729",
     "passage": ""
+  },
+  {
+    "id": 13732,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When the temperature difference between the wet and dry bulbs of a hygrometer is high, this indicates that",
+    "options": {
+      "A": "it is about to rain",
+      "B": "the relative humidity is high",
+      "C": "there is plenty of sunshine",
+      "D": "the relative humidity is low"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When the temperature difference between the wet bulb and dry bulb of a hygrometer is high, it indicates that the air is dry, leading to lower relative humidity. The wet bulb temperature drops more significantly because of evaporation, which occurs more readily in dry air. Conversely, a smaller temperature difference indicates higher humidity.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13732",
+    "passage": ""
   }
 ]
