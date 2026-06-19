@@ -2308,5 +2308,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5328",
     "passage": ""
+  },
+  {
+    "id": 5330,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1998",
+    "question": "The total of the discounts received column in the cash book is posted to the?",
+    "options": {
+      "A": "credit of the discounts received account",
+      "B": "debit of the discounts allowed account",
+      "C": "credit of the discounts allowed account",
+      "D": "debit of the discounts received  account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The discounts allowed column is on the debit side, while the discounts received column is on the credit side.\nThe total of the discount column on the credit side represents the total cash discount received from suppliers during the period and is posted to the discount received account maintained in the ledger.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5330",
+    "passage": ""
   }
 ]
