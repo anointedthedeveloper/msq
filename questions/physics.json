@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/615",
     "passage": ""
+  },
+  {
+    "id": 621,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In fleming's right-hand rule, the thumb, the forefinger and the middle finger if held mutually at right angles represent respectively, the",
+    "options": {
+      "A": "motion, the field and the induced current",
+      "B": "induced current, the motion and the field",
+      "C": "field, the induced current and the motion",
+      "D": "induced current, the field and the motion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/621",
+    "passage": ""
   }
 ]
