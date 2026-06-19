@@ -4828,5 +4828,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8222",
     "passage": ""
+  },
+  {
+    "id": 8223,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Simplify \\(\\frac{(√12-√3)}{(√12+√3)}\\)",
+    "options": {
+      "A": "zero",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{3}{5}\\)",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{(\\sqrt{12}-\\sqrt{3})}{(\\sqrt{12}+\\sqrt{3})}\\)\n= \\(\\frac{\\sqrt{4\\times 3} - \\sqrt{3}}{\\sqrt{4\\times 3}+\\sqrt{3}}\\)\n= \\(\\frac{2\\sqrt{3}-\\sqrt{3}}{2\\sqrt{3}+\\sqrt{3}}\\)\n= \\(\\frac{\\sqrt{3}}{3\\sqrt{3}}\\)\n= \\(\\frac{1}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8223",
+    "passage": ""
   }
 ]
