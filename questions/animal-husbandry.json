@@ -353,5 +353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49577",
     "passage": ""
+  },
+  {
+    "id": 49579,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following birds is purposely raised for meat?",
+    "options": {
+      "A": "Broilers",
+      "B": "Cockerels",
+      "C": "Layers",
+      "D": "Pullets"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A broiler is any chicken that is bred and raised specifically for meat production.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49579",
+    "passage": ""
   }
 ]
