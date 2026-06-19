@@ -12963,5 +12963,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21238",
     "passage": ""
+  },
+  {
+    "id": 21240,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The velocities of light in air and glass are 3.0 x10\\(^8\\)ms\\(^{-1}\\) and 1.8 \\(\\times \\)10\\(^8\\) ms\\(^{-1}\\) respectively. Calculate the sine of the angle of incidence that will produce an angle of refraction of 30° for a ray of light incident on glass.",
+    "options": {
+      "A": "1.2",
+      "B": "1.0",
+      "C": "0.8",
+      "D": "0.6",
+      "E": "0.3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(n_1 \\sin(\\theta_1)\\)  = \\(n_2 \\sin(\\theta_2\\)\nBUT, n = \\(\\frac{c}{v}\\), where c is the speed of light in vacuum (approximately equal to the speed of light in air) and v is the speed of light in the medium.\nFor air, n\\(_1\\) = \\(\\frac{3 \\times 10^8}{3 \\times 10^8}\\) = 1\nFor glass, n\\(_2\\) = \\(\\frac{3 \\times 10^8}{1.8 \\times 10^8}\\) ≈ 1.667\nApplying snell's law: \\(n_1 \\sin(\\theta_1)\\)  = \\(n_2 \\sin(\\theta_2)\\) = \\(1 \\sin(\\theta_1)\\)  = 1.667 sin(30) = 0.83335\nThus, the sine of the angle of incidence is ≈ 0.8",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21240",
+    "passage": ""
   }
 ]
