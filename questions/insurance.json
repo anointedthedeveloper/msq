@@ -2075,5 +2075,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49866",
     "passage": ""
+  },
+  {
+    "id": 49870,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An attachment to an insurance policy that modifies the policy is?",
+    "options": {
+      "A": "applicable",
+      "B": "variation list",
+      "C": "log book",
+      "D": "endorsement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The purpose of an endorsement is a policy change. Insurance companies create endorsements to offer options to insureds to add coverage or increase coverage limits, but insurers may also issue special endorsements to limit or restrict coverage. Insurance endorsements are used in property and casualty insurance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49870",
+    "passage": ""
   }
 ]
