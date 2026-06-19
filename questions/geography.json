@@ -1042,5 +1042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/940",
     "passage": ""
+  },
+  {
+    "id": 941,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following is a major environmental problem in heavily industrialized regions?",
+    "options": {
+      "A": "Accelerated erosion",
+      "B": "Water pollution",
+      "C": "Frost damage",
+      "D": "Acid rain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/941",
+    "passage": ""
   }
 ]
