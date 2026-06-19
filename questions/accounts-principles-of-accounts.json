@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/1135",
     "passage": ""
+  },
+  {
+    "id": 1136,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1997",
+    "question": "An examination of the cash book on 3rd August 1993 showed a different balance from the bank statement of 31st July, 1993 which read N722. Uncredited cheques were Bimpe N40; Wale N60 while unpresented cheques were; Usman N20, Kalu N32 and Musa N70. What is the cash book balance after the reconciliation?",
+    "options": {
+      "A": "N700",
+      "B": "N770",
+      "C": "N800",
+      "D": "N822"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Bank statement balance (31st July 1993) : N722\nUncredited cheques (cheques not yet deposited): Bimpe: N40, Wale: N60\nUnpresented cheques (cheques issued but not yet cleared): Usman: N20,  Kalu: N32, and Musa: N70\nTotal Uncredited cheques = 40 + 60 = N100\nTotal Unrepresented cheque = 20 + 32 + 70 = N122\nAdjusted Balance = Bank Statement Balance + Total Uncredited − Total Unpresented\nAdjusted Balance = 722 + 100 - 122 = N700",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/1136",
+    "passage": ""
   }
 ]
