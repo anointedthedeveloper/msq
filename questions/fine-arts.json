@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75324",
     "passage": ""
+  },
+  {
+    "id": 75326,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The term 'composition' in art refers to?",
+    "options": {
+      "A": "The arrangement of visual elements",
+      "B": "The medium used",
+      "C": "Subject of the art",
+      "D": "The colour palette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Composition is the strategic placement of elements in an artwork.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75326",
+    "passage": ""
   }
 ]
