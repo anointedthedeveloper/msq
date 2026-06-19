@@ -3911,5 +3911,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62253",
     "passage": ""
+  },
+  {
+    "id": 62254,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Output devices in a computer are those devices that send?",
+    "options": {
+      "A": "results to the memory of the computer",
+      "B": "processed data and instructions into the computer",
+      "C": "in data and instructions into the computer",
+      "D": "data and instructions into the memory of the computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Output devices in a computer are those devices that send results to the memory of the computer. They take information that the computer has processed and present it in a form that humans can understand.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62254",
+    "passage": ""
   }
 ]
