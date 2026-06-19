@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73196",
     "passage": ""
+  },
+  {
+    "id": 73197,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In design, the process used to determine the strengths and weaknesses of an artifact is",
+    "options": {
+      "A": "Testing",
+      "B": "Analyzing",
+      "C": "Realization",
+      "D": "Modification"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Analyzing is the process of examining and interpreting the characteristics, properties, and performance of an artifact to identify its strengths and weaknesses. This involves a systematic evaluation of the artifact's design, materials, construction, and functionality to determine its capabilities, limitations, and potential areas for improvement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73197",
+    "passage": ""
   }
 ]
