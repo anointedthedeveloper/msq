@@ -2682,5 +2682,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61821",
     "passage": ""
+  },
+  {
+    "id": 61822,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "What is the decimal equivalent of the binary number 10110111?",
+    "options": {
+      "A": "180",
+      "B": "181",
+      "C": "183",
+      "D": "184",
+      "E": "186"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61822",
+    "passage": ""
   }
 ]
