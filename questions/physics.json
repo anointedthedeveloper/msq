@@ -7957,5 +7957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14020",
     "passage": ""
+  },
+  {
+    "id": 14022,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If a body mass 5kg is thrown vertically upwards with velocity u,at what height will the potential energy equal to the kinetic energy?",
+    "options": {
+      "A": "h =(u) 2 /g",
+      "B": "h = (u) 2 /4g",
+      "C": "h = (2u) 2 /g",
+      "D": "h = (u) 2 /2g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "From V\\(^2\\) = U\\(^2\\) + 2as O = U\\(^2\\) - 2gH, since at maximum height H, the final velocity, v = O.\nwhen K.E = P.E ∴ H = \\(\\frac{(U)^2}{2g}\\) Halfway is the  \\(\\frac{\\text{height}}{2}\\)\nPE = KE at \\(\\frac{(1)}{2}\\) H = \\(\\frac{(U)^2}{2g}\\) x (\\(\\frac{1}{2}\\)) = \\(\\frac{U^2}{4g}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14022",
+    "passage": ""
   }
 ]
