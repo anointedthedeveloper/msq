@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57366",
     "passage": ""
+  },
+  {
+    "id": 57368,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The following are desturctive software except",
+    "options": {
+      "A": "drivers",
+      "B": "worms",
+      "C": "trojan horses",
+      "D": "logic bomb"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57368",
+    "passage": ""
   }
 ]
