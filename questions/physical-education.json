@@ -5100,5 +5100,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70840",
     "passage": ""
+  },
+  {
+    "id": 70841,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which structure in the central nervous system is responsible for transmitting sensory and motor signals between the brain and the rest of the body?",
+    "options": {
+      "A": "Cerebellum",
+      "B": "Spinal cord",
+      "C": "Amygdala",
+      "D": "Hippocampus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The spinal cord transmits sensory and motor signals between the brain and the rest of the body, playing a crucial role in the CNS.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70841",
+    "passage": ""
   }
 ]
