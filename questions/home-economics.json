@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73217",
     "passage": ""
+  },
+  {
+    "id": 73218,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Fresh paint can be removed using __________.",
+    "options": {
+      "A": "Glycerin",
+      "B": "Bleach",
+      "C": "Borax",
+      "D": "Turpentine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Turpentine is a solvent that can dissolve and remove fresh paint. It’s commonly used as a paint thinner and helps break down and strip away fresh paint.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73218",
+    "passage": ""
   }
 ]
