@@ -6548,5 +6548,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76498",
     "passage": ""
+  },
+  {
+    "id": 76499,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In the case of a chemical burn to the skin, what is the first step you should take?",
+    "options": {
+      "A": "Immediately flush the area with copious amounts of water.",
+      "B": "Neutralize the chemical with a neutralizing agent.",
+      "C": "Apply a cold compress to the burn.",
+      "D": "Cover the burn with a bandage to contain the chemical."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When someone suffers a chemical burn, the priority is to remove the harmful substance as quickly as possible to stop further tissue damage. The safest and most effective first step is to flush the affected area with a large amount of running water for at least 15-20 minutes. This helps dilute and wash away the chemical.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76499",
+    "passage": ""
   }
 ]
