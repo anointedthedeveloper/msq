@@ -9931,5 +9931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4031",
     "passage": ""
+  },
+  {
+    "id": 4032,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "When a few drops of water is added to a blue anhydrous cobalt (II) chloride, the colour changes to",
+    "options": {
+      "A": "white",
+      "B": "pink",
+      "C": "red",
+      "D": "blue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Blue anhydrous cobalt (II) chloride changes to pink in water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4032",
+    "passage": ""
   }
 ]
