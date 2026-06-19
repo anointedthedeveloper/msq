@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48101",
     "passage": ""
+  },
+  {
+    "id": 48102,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The melody in the score above is in the key of",
+    "options": {
+      "A": "d minor",
+      "B": "g minor",
+      "C": "D major",
+      "D": "A major"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/I21uf5czJ56LnfvO1QoEAYtWZD5SKoL24h1ePVcf.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890327/myschool/music/I21uf5czJ56LnfvO1QoEAYtWZD5SKoL24h1ePVcf.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48102",
+    "passage": ""
   }
 ]
