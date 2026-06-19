@@ -569,5 +569,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/75",
     "passage": ""
+  },
+  {
+    "id": 735,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The nucleus of an atom contains",
+    "options": {
+      "A": "protons only",
+      "B": "neurons only",
+      "C": "protons and electrons",
+      "D": "neutrons and electrons",
+      "E": "protons and neutrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The nucleus is found at the centre of the atom of an element. Inside of the nucleus, we have two subatomic particles which are protons(positively charged) and neutron (no charge). Outside of the nucleus we have the shells with the electrons revolving round it. Therefore, the nucleus of an atom contains the protons and the neutrons in it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/735",
+    "passage": ""
   }
 ]
