@@ -4177,5 +4177,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8191",
     "passage": ""
+  },
+  {
+    "id": 8192,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The pie chart above shows the distribution of the crops harvested from a farmland in a year. If 3000 tonnes of millet is harvested, what amount of beans is harvested",
+    "options": {
+      "A": "6000 tonnes",
+      "B": "1500 tonnes",
+      "C": "1200 tonnes",
+      "D": "9000 tonnes"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/lZS7X5vvW8SajH10j2ffZ7EN5KhaN0TK1oRt4hdA.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868408/myschool/mathematics/lZS7X5vvW8SajH10j2ffZ7EN5KhaN0TK1oRt4hdA.png",
+    "correct_answer": "C",
+    "explanation": "Sectorial angle of beans = 360 - (150 + 90 + 60) = 360 - 300 = 60º If 150º represents 3000 tonnes 1º = \\(\\frac{3000}{150}\\) 60º will represents (\\(\\frac{3000}{150}\\))  x (\\(\\frac{60}{1}\\)) = 1200 tonnes\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8192",
+    "passage": ""
   }
 ]
