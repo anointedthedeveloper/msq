@@ -1756,5 +1756,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1039",
     "passage": ""
+  },
+  {
+    "id": 1041,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The vegetation that is characterized by tall trees climbing plants and creepers in the Amazon is called",
+    "options": {
+      "A": "pampas",
+      "B": "veldt",
+      "C": "selvas",
+      "D": "steppes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1041",
+    "passage": ""
   }
 ]
