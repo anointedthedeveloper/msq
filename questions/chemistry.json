@@ -6360,5 +6360,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2935",
     "passage": ""
+  },
+  {
+    "id": 2936,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "When steam is passed over red-hot carbon, the substances produced are",
+    "options": {
+      "A": "Hydrogen and trioxocarbonate (IV) acid",
+      "B": "Hydrogen, oxygen and carbon (IV) oxide",
+      "C": "Hydrogen and carbon (II) oxide",
+      "D": "Hydrogen and carbon (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Water gas is produced when steam is passed over red-hot carbon. Water gas has the chemical formula as CO + H\\(_2\\)\nThe chemical reaction for the production of water gas is C(s) + H\\(_2\\)O(g) → CO(g) + H\\(_2\\)(g).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2936",
+    "passage": ""
   }
 ]
