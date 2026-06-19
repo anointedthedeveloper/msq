@@ -19461,5 +19461,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72616",
     "passage": ""
+  },
+  {
+    "id": 72618,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Figure 4 is a flowchart symbol. Use it to answer questions this question.\nIdentify the flowchart symbol in Figure 4.",
+    "options": {
+      "A": "Decision box",
+      "B": "Manual input",
+      "C": "Preparation",
+      "D": "Process"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Ye32ZUduN3pGB49kYxA9X4MWyYys1OLjn1ymMFaA.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904804/myschool/computer-studies/Ye32ZUduN3pGB49kYxA9X4MWyYys1OLjn1ymMFaA.jpg",
+    "correct_answer": "A",
+    "explanation": "A: This symbol represents the decision box.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72618",
+    "passage": ""
   }
 ]
