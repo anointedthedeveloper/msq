@@ -1784,5 +1784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1023",
     "passage": ""
+  },
+  {
+    "id": 1024,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "One major factor that differentiates the presidential from the parliamentary system is",
+    "options": {
+      "A": "separation of powers",
+      "B": "judicial independence",
+      "C": "passage of bills",
+      "D": "party system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1024",
+    "passage": ""
   }
 ]
