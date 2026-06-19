@@ -4911,5 +4911,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2238",
     "passage": ""
+  },
+  {
+    "id": 2251,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A gas exerts pressure on its container because",
+    "options": {
+      "A": "some of its molecules are moving faster than others",
+      "B": "of the collision of the molecules with each other",
+      "C": "of the mass of the molecules of gas",
+      "D": "the molecules of a gas collide with the walls of the container"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A gas exerts pressure on the walls of the container as the particles of gas move randomly in all directions at high speed. As a result, the particles hit each other and also hit the walls of the container with force. However, gases exert pressure on their containers because the constant, random motion of gas molecules causes them to collide with the container walls, transferring momentum and resulting in a force, which is pressure.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2251",
+    "passage": ""
   }
 ]
