@@ -3084,5 +3084,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1665",
     "passage": ""
+  },
+  {
+    "id": 1669,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "What is the decrease in volume of air when pyrogallol is shaken with 30.00cm\\(^3\\) of air ?",
+    "options": {
+      "A": "15.00cm 3",
+      "B": "6.30cm 3",
+      "C": "0.63cm 3",
+      "D": "0.06cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "% Volume of O\\)_2\\) in air = 21% ∴(\\(\\frac{21}{100}\\times30\\)) = 6.30 cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1669",
+    "passage": ""
   }
 ]
