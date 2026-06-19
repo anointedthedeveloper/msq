@@ -9973,5 +9973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4034",
     "passage": ""
+  },
+  {
+    "id": 4035,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "117.0g of sodium chloride was dissolved in 1.0dm3 of distilled water at 25°C. Determine the solubility in mol dm-3 of sodium chloride at that temperature [Na = 23, Cl = 35.5]",
+    "options": {
+      "A": "1.0",
+      "B": "2.0",
+      "C": "3.0",
+      "D": "4.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Relative molecular mass of NaCl = 23 + 35.5 = 58.5 g/mol No. of mole of NaCl = 117/58.5 = 2.0 mol\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4035",
+    "passage": ""
   }
 ]
