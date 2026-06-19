@@ -790,5 +790,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/375",
     "passage": ""
+  },
+  {
+    "id": 929,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The main advantage of the chain survey over the prismatic compass survey is that the former",
+    "options": {
+      "A": "yields relatively more accurate results",
+      "B": "involves highly more portable equipment",
+      "C": "does not require a base map",
+      "D": "closes its boundaries with no correction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/929",
+    "passage": ""
   }
 ]
