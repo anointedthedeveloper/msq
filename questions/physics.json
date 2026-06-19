@@ -10373,5 +10373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14343",
     "passage": ""
+  },
+  {
+    "id": 14344,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In a discharge tube, most of the gas is pumped out so that electricity is conducted at?",
+    "options": {
+      "A": "low voltage",
+      "B": "steady voltage",
+      "C": "high pressure",
+      "D": "low pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "pumping out of the gas in the discharge tube reduces the pressure inside the tube, therefore, electricity is conducted at low pressure\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14344",
+    "passage": ""
   }
 ]
