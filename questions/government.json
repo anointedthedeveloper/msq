@@ -18219,5 +18219,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/17102",
     "passage": ""
+  },
+  {
+    "id": 17104,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Who among the following is not eligible to hold office?",
+    "options": {
+      "A": "Civil servant",
+      "B": "Retired soldier",
+      "C": "Certified bankrupt",
+      "D": "Chief magistrate",
+      "E": "Reverend father"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In many electoral systems (including Nigeria’s constitutional provisions), a certified or undischarged bankrupt is disqualified from holding public office until their financial status is legally cleared.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/17104",
+    "passage": ""
   }
 ]
