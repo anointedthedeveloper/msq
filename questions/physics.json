@@ -11679,5 +11679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14487",
     "passage": ""
+  },
+  {
+    "id": 14488,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The diagram above is the heating curve for a solid, QR is the?",
+    "options": {
+      "A": "melting region",
+      "B": "boiling region",
+      "C": "sublimation region",
+      "D": "evaporating process"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2727953822_phy200823.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890979/myschool/physics/2727953822_phy200823.jpg",
+    "correct_answer": "A",
+    "explanation": "At melting point there is no change temperature\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14488",
+    "passage": ""
   }
 ]
