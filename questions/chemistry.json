@@ -9070,5 +9070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3820",
     "passage": ""
+  },
+  {
+    "id": 3822,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Dissolving some pellets of NaOH in water would result in",
+    "options": {
+      "A": "a decrease in the free energy of the solution",
+      "B": "a decrease in the entropy of the solution",
+      "C": "a lowering of the temperature of te solution",
+      "D": "an increase in the entropy of the solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When you dissolve some pellets of NaOH in water, the solid NaOH breaks down into its constituent ions, i.e Na\\(^+\\) and OH\\(^-\\). This process increases the disorder and randomness of the system, which is known as an increase in entropy.\nIn addition, the dissolution process is also exothermic, meaning it releases heat, which invariably increases the kinetic energy of the particles in the solution. So, the correct answer is option D.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3822",
+    "passage": ""
   }
 ]
