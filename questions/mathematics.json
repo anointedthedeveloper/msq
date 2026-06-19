@@ -7558,5 +7558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9261",
     "passage": ""
+  },
+  {
+    "id": 9262,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The cost of kerosene per liter increased from N60 to N85. What is the percentage rate of increase?",
+    "options": {
+      "A": "42%",
+      "B": "41%",
+      "C": "40%",
+      "D": "25%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "N85 - N60 = N25 increase ∴percentage increase = \\(\\frac{25}{60}\\times \\frac{100}{1}\\) = \\(\\frac{125}{3}\\) = 41.67% = 42%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9262",
+    "passage": ""
   }
 ]
