@@ -5250,5 +5250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62348",
     "passage": ""
+  },
+  {
+    "id": 62409,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A suitable BASIC notation for the expression mc\\(^2\\) is?",
+    "options": {
+      "A": "m * c^2",
+      "B": "m * c * 2",
+      "C": "m * c",
+      "D": "m * c * \\(^2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The expression mc\\(^2\\) is a mathematical expression that represents the product of m and the square of c. In programming, the ^ symbol is used to denote exponentiation. Therefore, the correct notation for the expression mc2 is m * c^2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62409",
+    "passage": ""
   }
 ]
