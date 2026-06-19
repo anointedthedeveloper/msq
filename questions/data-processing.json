@@ -6353,5 +6353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62622",
     "passage": ""
+  },
+  {
+    "id": 62623,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A file organization that contains a reference number is called",
+    "options": {
+      "A": "direct access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62623",
+    "passage": ""
   }
 ]
