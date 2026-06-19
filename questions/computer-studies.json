@@ -6480,5 +6480,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62485",
     "passage": ""
+  },
+  {
+    "id": 62486,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the file formats is supported in all windows operating systems?",
+    "options": {
+      "A": "BSDB.",
+      "B": "EXT",
+      "C": "FAT",
+      "D": "NTFS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62486",
+    "passage": ""
   }
 ]
