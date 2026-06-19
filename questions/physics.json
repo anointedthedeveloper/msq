@@ -9532,5 +9532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14279",
     "passage": ""
+  },
+  {
+    "id": 14280,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The figure above shows three capacitors, 2μF, 3μF and 6μF connected in series. If the p.d across the system is 12V, the p.d, across the 6μF capacitor is",
+    "options": {
+      "A": "4V",
+      "B": "12V",
+      "C": "2V",
+      "D": "6V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/19089334880_phy200543.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890407/myschool/physics/19089334880_phy200543.jpg",
+    "correct_answer": "C",
+    "explanation": "V = Q/C = 12.0 x 10 -6 6.0 x 10 -6 F\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14280",
+    "passage": ""
   }
 ]
