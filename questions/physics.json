@@ -17405,5 +17405,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25014",
     "passage": ""
+  },
+  {
+    "id": 25015,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Which of the following have the longest wavelengths?",
+    "options": {
+      "A": "Infra-red rays",
+      "B": "Gamma rays",
+      "C": "X-rays",
+      "D": "Ultra-violet rays",
+      "E": "Radio waves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25015",
+    "passage": ""
   }
 ]
