@@ -4646,5 +4646,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62288",
     "passage": ""
+  },
+  {
+    "id": 62289,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The conversion of 11001\\(_2\\), to base ten equals?",
+    "options": {
+      "A": "20.",
+      "B": "25.",
+      "C": "28.",
+      "D": "30"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62289",
+    "passage": ""
   }
 ]
