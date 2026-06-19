@@ -1678,5 +1678,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64450",
     "passage": ""
+  },
+  {
+    "id": 64452,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The branches of physical education include the following except",
+    "options": {
+      "A": "Aquatics",
+      "B": "Cosmetology",
+      "C": "Games and Sports",
+      "D": "Health"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cosmetology is not a branch of physical education.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64452",
+    "passage": ""
   }
 ]
