@@ -7012,5 +7012,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13884",
     "passage": ""
+  },
+  {
+    "id": 13885,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "I. Work done by load is always less than the work done by effort. II. All machines are made of levers, pulleys, screws and gear wheels. III. A fishing rod is a machine. Iv. Effort is always larger than load. which of statements above about machines are true?",
+    "options": {
+      "A": "II and III",
+      "B": "III and IV",
+      "C": "I and III",
+      "D": "II and iv"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "I. Work done by load is always less than the work done by effort. This statement is generally true for all machines because some of the work done by the effort is used to overcome friction and other resistive forces in the machine.\nIII. A fishing rod is a machine. This statement is true as a fishing rod is a simple machine that uses a lever to catch fish.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13885",
+    "passage": ""
   }
 ]
