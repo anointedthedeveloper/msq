@@ -8566,5 +8566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9312",
     "passage": ""
+  },
+  {
+    "id": 9313,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "I.S∩T∩W=S II. S ∪ T ∪ W = W III. T ∩ W = S If S⊂T⊂W, which of the above statements are true?",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If S \\(\\subset\\) T \\(\\subset\\) W,\nS \\(\\cap\\) T \\(\\cap\\) W = S is true since S \\(\\cap\\) T = S and S \\(\\cap\\) W = S.\nS \\(\\cup\\) T \\(\\cup\\) W = W is also true. S \\(\\cup\\) T = T and T \\(\\cup\\) W = W.\nHowever, to say that T \\(\\cap\\) W = S is not very true mathematically. Instead, it is safe to say S \\(\\subset\\) (T \\(\\cap\\) W).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9313",
+    "passage": ""
   }
 ]
