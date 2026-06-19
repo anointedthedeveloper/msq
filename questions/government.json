@@ -5063,5 +5063,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2203",
     "passage": ""
+  },
+  {
+    "id": 2205,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "An unwritten Constitution is",
+    "options": {
+      "A": "entirely based on case laws",
+      "B": "completely sourced from parliamentary law",
+      "C": "partially written and based on convention",
+      "D": "completely unwritten and based on convention"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2205",
+    "passage": ""
   }
 ]
