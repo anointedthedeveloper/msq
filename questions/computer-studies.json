@@ -15990,5 +15990,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67801",
     "passage": ""
+  },
+  {
+    "id": 67802,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What type of booting does the computer go through when starting up from a powered down ?",
+    "options": {
+      "A": "Cold booting",
+      "B": "Soft booting",
+      "C": "Warm booting",
+      "D": "Rebooting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cold booting is when you start a computer from a powered-down, or off, state. This is often referred to as a system restart or a system reset. Warm booting, on the other hand, is restarting the computer while it's powered on. Rebooting and soft booting are general terms for restarting a computer and can refer to either cold or warm booting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67802",
+    "passage": ""
   }
 ]
