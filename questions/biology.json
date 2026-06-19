@@ -1274,5 +1274,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/394",
     "passage": ""
+  },
+  {
+    "id": 395,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The part of the mammalian brain responsible for maintaining balance is",
+    "options": {
+      "A": "Medulla oblongata",
+      "B": "Cerebellum",
+      "C": "Optic lobe",
+      "D": "Cerebrum",
+      "E": "Olfactory lobe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The cerebellum is located at the back of the skull. It acts as the primary coordinator for voluntary muscle movements, posture, body equilibrium, and balance. It integrates sensory inputs from the inner ear, eyes, and muscles to fine-tune physical stability. TgQPHd|[]",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/395",
+    "passage": ""
   }
 ]
