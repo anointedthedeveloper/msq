@@ -10753,5 +10753,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14384",
     "passage": ""
+  },
+  {
+    "id": 14385,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A blacksmith heated a metal whose cubic expansivity is 6.3 x 10\\(^{-6}\\)K\\(^{-1}\\). The area expansivity is",
+    "options": {
+      "A": "2.0 x 10 -6 K -1",
+      "B": "2.1  x 10 -6 K -1",
+      "C": "4.2  x 10 -6 K -1",
+      "D": "6.3  x 10 -6 K -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If the linear expansivity = ∝ => area expansivity β = 2∝. And cubic expansivity δ = 3∝. => 6.3 x 10\\(^{-6}\\) = 3∝ ∴ ∝ = \\(\\frac{6.3 \\times 10^{-11}}{3}\\) = 2.1 x 10\\(^{-6}\\)\n∴ Area = 2∝ = 2 x 2.1x10\\(^{-6}\\) = 4.2 x 10\\(^{-6}\\)K\\(^{-1}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14385",
+    "passage": ""
   }
 ]
