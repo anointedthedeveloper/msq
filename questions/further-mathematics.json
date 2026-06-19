@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50346",
     "passage": ""
+  },
+  {
+    "id": 50351,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Solve \\(\\log_{2}(12x - 10) = 1 + \\log_{2}(4x + 3)\\).",
+    "options": {
+      "A": "4.75",
+      "B": "4.00",
+      "C": "1.75",
+      "D": "1.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_{2}(12x - 10) = 1 + \\log_{2}(4x + 3)\\)\nRecall, \\( 1 = \\log_{2}2\\), so\n\\(\\log_{2}(12x - 10) = \\log_{2}2 + \\log_{2}(4x + 3)\\)\n= \\(\\log_{2}(12x - 10) = \\log_{2}(2(4x + 3))\\)\n\\(\\implies (12x - 10) = 2(4x + 3) \\therefore 12x - 10 = 8x + 6\\)\n\\(12x - 8x = 4x = 6 + 10 = 16 \\implies x = 4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50351",
+    "passage": ""
   }
 ]
