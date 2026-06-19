@@ -12591,5 +12591,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22600",
     "passage": ""
+  },
+  {
+    "id": 22601,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Express 0.00562 in standard form",
+    "options": {
+      "A": "5.62 x 10 -3",
+      "B": "5.62 x 10 -2",
+      "C": "562 x 10 -2",
+      "D": "5.62 x 10 2",
+      "E": "5.62 x 10 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "0.00562 = 5.62 x 10\\(^{-3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22601",
+    "passage": ""
   }
 ]
