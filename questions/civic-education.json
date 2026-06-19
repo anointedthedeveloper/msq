@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50124",
     "passage": ""
+  },
+  {
+    "id": 50127,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In the constitution, the area where both federal and state government exercise joint authority are on the?",
+    "options": {
+      "A": "residual list",
+      "B": "concurrent list",
+      "C": "exclusive list",
+      "D": "reserved list"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Concurrent powers,\" are those powers which are shared by both federal and state governments, both may act or intervene, but the federal government overrides the state if there is conflict.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50127",
+    "passage": ""
   }
 ]
