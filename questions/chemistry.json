@@ -1299,5 +1299,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1380",
     "passage": ""
+  },
+  {
+    "id": 1389,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The solution with the lowest pH value is",
+    "options": {
+      "A": "5 ml of (m/10) HCl",
+      "B": "10 ml of (m/10) HCl",
+      "C": "15  ml of (m/5) HCl",
+      "D": "20  ml of (m/8) HCl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "pH = - Log[\\(H^+\\)]. All we need is the concentration of the acid, and not the volume.\nOption A : 5ml of \\(\\frac{M}{10}\\)HCl; [\\(H^+\\)] = \\(\\frac{M}{10}\\)= \\(\\frac{1}{10}\\times M\\) = 0.1M. pH = - Log(0.1)= 1\nOption B : 10ml of \\(\\frac{M}{10}\\)HCl;[\\(H^+\\)] = \\(\\frac{M}{10}\\)= \\(\\frac{1}{10}\\times M\\) = 0.1M. pH = - Log(0.1)= 1\nOption C : 15ml of \\(\\frac{M}{5}\\)HCl; [\\(H^+\\)] = \\(\\frac{M}{5}\\)= \\(\\frac{1}{5}\\times M\\) = 0.2M. pH = - Log(0.2)= 0.699\nOption D : 20ml of \\(\\frac{M}{8}\\)HCl; [\\(H^+\\)] = \\(\\frac{M}{8}\\)= \\(\\frac{1}{8}\\times M\\) = 0.125M. pH = - Log(0.125)= 0.903\nAmong the options, option C tends to have the least pH value of 0.699",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1389",
+    "passage": ""
   }
 ]
