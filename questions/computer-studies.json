@@ -19629,5 +19629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72626",
     "passage": ""
+  },
+  {
+    "id": 72627,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements is true about preventing phishing?",
+    "options": {
+      "A": "Insure that antivirus is updated regularly",
+      "B": "Do not click on links in emails from untrusted sources",
+      "C": "Do not download from untrusted sites",
+      "D": "Use a strong password at all times"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "B: Phishing is a type of cybercrime where attackers attempt to trick individuals into revealing sensitive information such as passwords, credit card numbers, PINS, financial information, etc. To prevent phishing, one of the ways is not to click on links in emails from untrusted sources.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72627",
+    "passage": ""
   }
 ]
