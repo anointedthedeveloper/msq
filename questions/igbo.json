@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73486",
     "passage": ""
+  },
+  {
+    "id": 73487,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Uchenna na-agba",
+    "options": {
+      "A": "nri",
+      "B": "ọsọ",
+      "C": "ịjẹ",
+      "D": "akwa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The right option is ọsọ (which means \"clothes\" or \"dress\"). The sentence \"Uchenna na-agba\" means \"Uchenna is wearing\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73487",
+    "passage": ""
   }
 ]
