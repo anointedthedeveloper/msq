@@ -1446,5 +1446,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1416",
     "passage": ""
+  },
+  {
+    "id": 1427,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "When a current I was passed through an electrolyte solution for 40 minutes, a mass X g of a univalent metal was deposited at the cathode. What mass of the metal will be deposited when a current 2I is passed  through the solution for 10 minutes?",
+    "options": {
+      "A": "X/4 g",
+      "B": "X/2 g",
+      "C": "2X g",
+      "D": "4X g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1427",
+    "passage": ""
+  },
+  {
+    "id": 1458,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "RS\n(aq)\n+ HF\n(aq)\n→ RF\n(s)\n+ HS\n(aq)\nΔH = -65.7 kj mol\n(-1)\n.\nFrom the equation above, it can be deduced that",
+    "options": {
+      "A": "the heat content of the reactants is lower than that of the products",
+      "B": "the heat content of the reactants is higher than that of the products",
+      "C": "the reaction is slow",
+      "D": "a large amount of heat is absorbed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1458",
+    "passage": ""
+  },
+  {
+    "id": 1460,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following statement is true of the electrochemical series?",
+    "options": {
+      "A": "Electropositivity of metals increase down the series",
+      "B": "Electropositivity of non-metals decrease down the series",
+      "C": "Electronegativity of non-metals decrease down the series",
+      "D": "Electropositivity of metals decreases down the series"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1460",
+    "passage": ""
   }
 ]
