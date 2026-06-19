@@ -3310,5 +3310,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58445",
     "passage": ""
+  },
+  {
+    "id": 58446,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The following programming tools are employed by a web developer except",
+    "options": {
+      "A": "COBOL",
+      "B": "CSS",
+      "C": "HTML",
+      "D": "PHP"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Some of the most popular programming languages for web development include HTML/CSS, PHP, Python, JavaScript, Java, Ruby, and Swift . But not COBOL, COBOL  is primarily used in business, finance, and administrative systems for companies and governments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58446",
+    "passage": ""
   }
 ]
