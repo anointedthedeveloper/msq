@@ -5186,5 +5186,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1997",
     "passage": ""
+  },
+  {
+    "id": 1999,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The major condition for obtaining loan in thrift, credit and loans cooperative societies is",
+    "options": {
+      "A": "provision  of  collateral security",
+      "B": "a high level of education",
+      "C": "possesssion of a large business",
+      "D": "an approved project plan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Thrift, credit, and loans cooperative societies typically require the provision of collateral security as the major condition for obtaining a loan. Collateral security serves as a guarantee that the borrower will repay the loan, and in case of default, the cooperative society can claim the collateral to recover the loan amount.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1999",
+    "passage": ""
   }
 ]
