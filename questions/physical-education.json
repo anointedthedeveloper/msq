@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64171",
     "passage": ""
+  },
+  {
+    "id": 64172,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following games is played by hitting the ball with a racket against a wall?",
+    "options": {
+      "A": "Badminton",
+      "B": "Cricket",
+      "C": "squash",
+      "D": "Tennis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is known as squash.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64172",
+    "passage": ""
   }
 ]
