@@ -5724,5 +5724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8007",
     "passage": ""
+  },
+  {
+    "id": 8008,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the following is the main export from Uganda?",
+    "options": {
+      "A": "Jute",
+      "B": "Bannana",
+      "C": "Tobacco",
+      "D": "Sisal",
+      "E": "Coffee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8008",
+    "passage": ""
   }
 ]
