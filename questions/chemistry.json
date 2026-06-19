@@ -1026,5 +1026,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/830",
     "passage": ""
+  },
+  {
+    "id": 831,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following will have its mass increased when heated in air?",
+    "options": {
+      "A": "Helium",
+      "B": "Magnesium",
+      "C": "Copper pyrites",
+      "D": "Glass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/831",
+    "passage": ""
   }
 ]
