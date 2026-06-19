@@ -6971,5 +6971,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3003",
     "passage": ""
+  },
+  {
+    "id": 3004,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : The evidence of all the accused persons .... by the judge sitting at No 2 Assizes last week.",
+    "options": {
+      "A": "were disbelieved",
+      "B": "was disbelieved",
+      "C": "is disbelieved",
+      "D": "are disbelieved",
+      "E": "has been disbelieved"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The subject of the sentence is \"The evidence,\" which is singular. Therefore, the verb must also be singular to agree with the subject. \"Evidence\" is always treated as a singular noun in English, even though it may refer to multiple pieces of information. The correct form of the verb to match the singular subject is \"was\" (the past tense of \"is\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3004",
+    "passage": ""
   }
 ]
