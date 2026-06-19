@@ -7684,5 +7684,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9267",
     "passage": ""
+  },
+  {
+    "id": 9268,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Make Q the subject of formula when \\(L=\\frac{4}{3}M\\sqrt{PQ}\\)",
+    "options": {
+      "A": "\\(\\frac{9L^2}{16M^2P}\\)",
+      "B": "\\(\\frac{3L}{4M\\sqrt{P}}\\)",
+      "C": "\\(\\frac{\\sqrt{3L}}{4MP}\\)",
+      "D": "\\(\\frac{3L^2}{16M^2}P\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(L=\\frac{4}{3}M\\sqrt{PQ}\\\\ =\\frac{3}{4M} \\times L = \\sqrt{PQ}\\\\ =\\left(\\frac{3L}{4M}\\right)^2=(\\sqrt{PQ})^2\\\\ =\\frac{9L^2}{16M^2}=PQ\\\\ =Q=\\frac{9L^2}{16M^2 P}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9268",
+    "passage": ""
   }
 ]
