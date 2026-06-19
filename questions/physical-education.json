@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64162",
     "passage": ""
+  },
+  {
+    "id": 64163,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is not a gymnastic activity?",
+    "options": {
+      "A": "Backward roll",
+      "B": "Crab walk",
+      "C": "Hand spring",
+      "D": "Hockey"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Hockey is not a gymnastic activity",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64163",
+    "passage": ""
   }
 ]
