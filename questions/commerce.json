@@ -5081,5 +5081,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1987",
     "passage": ""
+  },
+  {
+    "id": 1990,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A bank form used to transfer money from personal to creditor's account is called?",
+    "options": {
+      "A": "debits transfer form",
+      "B": "credit transfer form",
+      "C": "customers transfer form",
+      "D": "banks transfer form"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1990",
+    "passage": ""
   }
 ]
