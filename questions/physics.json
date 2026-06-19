@@ -2938,5 +2938,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11180",
     "passage": ""
+  },
+  {
+    "id": 11269,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The diagram above shows the prism arrangement in a",
+    "options": {
+      "A": "binocular",
+      "B": "spectrometer",
+      "C": "periscope",
+      "D": "projector"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/10868846224_phy199928.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888582/myschool/physics/10868846224_phy199928.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11269",
+    "passage": ""
   }
 ]
