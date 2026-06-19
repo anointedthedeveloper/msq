@@ -60,5 +60,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72817",
     "passage": ""
+  },
+  {
+    "id": 72818,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The accounting treatment for each withdrawn by the owner of a business for private use is?",
+    "options": {
+      "A": "Cash account credit drawings account",
+      "B": "Cash account credit capital account",
+      "C": "Capital account credit drawings account",
+      "D": "Drawings Account credit cash account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The accounting treatment for cash withdrawn for personally use is dr: drawings a/c and cr: cash a/c",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72818",
+    "passage": ""
   }
 ]
