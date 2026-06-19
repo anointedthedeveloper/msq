@@ -3316,5 +3316,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7734",
     "passage": ""
+  },
+  {
+    "id": 7739,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Given:\nU = {Even numbers between 0 and 30}\nP = {Multiples of 6 between 0 and 30}\nQ = {Multiples of 4 between 0 and 30}\nFind (P∪Q)\nc",
+    "options": {
+      "A": "{2, 10, 14, 22, 26}",
+      "B": "{0, 10, 14, 22, 26}",
+      "C": "{2,4, 14, 18, 26}",
+      "D": "{0, 2, 6, 22, 26}"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7739",
+    "passage": ""
   }
 ]
