@@ -2224,5 +2224,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9190",
     "passage": ""
+  },
+  {
+    "id": 9211,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A transistor function mainly as a",
+    "options": {
+      "A": "switch and amplifier",
+      "B": "rectifier and an amplifier",
+      "C": "charge storer and an amplifier",
+      "D": "charge storer and a switch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Transistors are versatile components used in electronic circuits mainly for two purposes: they can act as electronic switches, controlling the flow of current in a circuit, and they can amplify electrical signals, making them essential in audio devices, radios, and various electronic applications. Thus, option A correctly describes the main functions of a transistor.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9211",
+    "passage": ""
   }
 ]
