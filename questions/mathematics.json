@@ -12921,5 +12921,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22649",
     "passage": ""
+  },
+  {
+    "id": 22650,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, O is the center of the circle with radius 10cm, and ∠ABC = 30°. Calculate, correct to 1 decimal place, the length of arc AC [Take π = 22/7]",
+    "options": {
+      "A": "5.2cm",
+      "B": "10.5cm",
+      "C": "13.2cm",
+      "D": "20.6cm",
+      "E": "31.4cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13833112870_wcmath199018.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869259/myschool/mathematics/13833112870_wcmath199018.jpg",
+    "correct_answer": "B",
+    "explanation": "In the figure, < AOC = 2 x < ABC = 60° (angle subtended at the centre)\n\\(\\therefore\\) Arc AC = \\(\\frac{60}{360} \\times 2 \\times 10 \\times \\frac{22}{7}\\)\n= \\(\\frac{31.4}{3}\\)\n= 10.466 cm \\(\\approxeq\\) 10.5 cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22650",
+    "passage": ""
   }
 ]
