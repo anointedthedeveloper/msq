@@ -1650,5 +1650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66519",
     "passage": ""
+  },
+  {
+    "id": 66520,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following is a barrier to effective communication?",
+    "options": {
+      "A": "encoding",
+      "B": "decoding",
+      "C": "channel",
+      "D": "noise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Noise is one of the most common barriers in communication.It is any persistent or random disturbance which reduces, obscures or confuses the clartity of a message.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66520",
+    "passage": ""
   }
 ]
