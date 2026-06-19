@@ -6947,5 +6947,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76518",
     "passage": ""
+  },
+  {
+    "id": 76519,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which muscle is the largest in the human body?",
+    "options": {
+      "A": "Latissimus dorsi",
+      "B": "Gluteus maximus",
+      "C": "Quadriceps",
+      "D": "Deltoid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The gluteus maximus is the largest and one of the strongest muscles in the human body. It is located in the buttocks and plays a major role in hip extension, outward rotation of the thigh, and maintaining an upright posture when standing or walking.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76519",
+    "passage": ""
   }
 ]
