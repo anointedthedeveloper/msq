@@ -9493,5 +9493,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62721",
     "passage": ""
+  },
+  {
+    "id": 62722,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Use a spreadsheet application to do the following. (a) In cell A1, type \"My One Week Expenses On Five items\".\n(b) In row 2, type column-by-column the following: \"ITEM\", 1ST DAY, \"2ND DAY, \"3RD  DAY\", *4TH DAY, \"5THDAY\", \"6TH DAY\" and \"7TH DAY\".\n(c) In column A, starting from A3 to A7, List the items you spent money on.\n(d) Enter the amount spent on each item for each day in their respective columns.\nNote: select your own items and the amount spent.\n(e) In cells 12 and A8. type \"TOTAL N\".\n(f) Using formula/function compute the total expenses for each day and for each item.\n(g) Create borders around the table.\n(h) Insert a footer and type in your full name and index number. (i) Below the table, type in the formula that was used:\n(i) in cell 18: (ii) for summing from B3 to H3.\nNote: Enclose your formula in quotes ave your work with your full name in the folder created on the desktop.\n(k) Print your work and submit to the supervisor.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(i) \"= sum (B3:H3)\"OR Ä!B3 + C3 + D3 + E3 + F3 + G3 + H3\"\n(ii) Ä! Sum (B3:B7)\" OR Ä!B3 + B4 + B5 + B6 + B7",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62722",
+    "passage": ""
   }
 ]
