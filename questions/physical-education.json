@@ -4974,5 +4974,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70834",
     "passage": ""
+  },
+  {
+    "id": 70835,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In the case of a nosebleed, what should you do?",
+    "options": {
+      "A": "Apply a hot compress to the nose",
+      "B": "Tilt the head back",
+      "C": "Blow the nose hard",
+      "D": "Pinch the nostrils and lean forward"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pinch the nostrils and lean forward. This is the correct first aid response for a nosebleed. Pinching the nostrils applies pressure to the bleeding point, while leaning forward prevents blood from draining into the throat.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70835",
+    "passage": ""
   }
 ]
