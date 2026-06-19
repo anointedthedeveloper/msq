@@ -8377,5 +8377,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9301",
     "passage": ""
+  },
+  {
+    "id": 9302,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The result of rolling a fair die 150 times is as summarized in the table above. What is the probability of obtaining a 5?",
+    "options": {
+      "A": "3 / 10",
+      "B": "1 / 5",
+      "C": "1 / 6",
+      "D": "1 / 10"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5jM2dqdDuKSmTxUHXmKCweIZRzhuMglfMgpYk7QF.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868793/myschool/mathematics/5jM2dqdDuKSmTxUHXmKCweIZRzhuMglfMgpYk7QF.jpg",
+    "correct_answer": "B",
+    "explanation": "Total possible outcome 12+18+x+30+2x+45 = 105+3x ∴105+3x = 150 3x = 150-105 3x = 45 x = 15 P(obtaining 5) = \\(\\frac{2x}{(105+3x)}\\) But x= 15 =\\(\\frac{2(15)}{(105+3(15))}\\) =\\(\\frac{30}{(105+45)}\\) =\\(\\frac{30}{150}\\) =\\(\\frac{1}{5}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9302",
+    "passage": ""
   }
 ]
