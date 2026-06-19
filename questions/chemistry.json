@@ -6759,5 +6759,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2954",
     "passage": ""
+  },
+  {
+    "id": 2955,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Phenolphthalein in acidic solution is",
+    "options": {
+      "A": "red",
+      "B": "orange",
+      "C": "colourless",
+      "D": "yellow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Phenolphthalein, a common acid-base indicator, remains colourless in acidic solutions but turns pink in basic solutions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2955",
+    "passage": ""
   }
 ]
