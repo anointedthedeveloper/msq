@@ -5625,5 +5625,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2527",
     "passage": ""
+  },
+  {
+    "id": 2528,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A compound contains 40.0% carbon 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.\n[H = 1, C = 12, O = 16]",
+    "options": {
+      "A": "CH 2 O",
+      "B": "C 3 H 6 O 3",
+      "C": "C 6 H 12 O 6",
+      "D": "C 6 H 12 O 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2528",
+    "passage": ""
   }
 ]
