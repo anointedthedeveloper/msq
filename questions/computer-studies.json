@@ -13720,5 +13720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64418",
     "passage": ""
+  },
+  {
+    "id": 64419,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "___________________ is a program meant to be sent from one computer to another across the world wide Web.",
+    "options": {
+      "A": "Applet",
+      "B": "Mail",
+      "C": "algorithm",
+      "D": "data packages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "applet Is a \"small Java\" program that can be used in an internetworking environment. These programs can be transferred over the internet from one computer to another and can be displayed on various web browsers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64419",
+    "passage": ""
   }
 ]
