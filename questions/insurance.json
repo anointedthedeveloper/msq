@@ -1676,5 +1676,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49793",
     "passage": ""
+  },
+  {
+    "id": 49795,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "which of the following professionals is an operator in the reinsurance market?",
+    "options": {
+      "A": "agent",
+      "B": "consultant",
+      "C": "broker",
+      "D": "adjuster"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An insurance broker is a specialist in insurance and risk management. Brokers act on behalf of their clients and provide advice in the interests of their clients.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49795",
+    "passage": ""
   }
 ]
