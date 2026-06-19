@@ -17523,5 +17523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69841",
     "passage": ""
+  },
+  {
+    "id": 69843,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The speed of data transfer can be affected by the following factors except",
+    "options": {
+      "A": "address bus width.",
+      "B": "broadband status.",
+      "C": "data bus width.",
+      "D": "clock speed."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The speed of data transfer can be affected by the following factors except \"broadband status.\" The factors listed in the options can indeed affect the speed of data transfer in a computer system: Address Bus Width: The width of the address bus determines the maximum memory capacity that the system can access. It indirectly affects data transfer speed by allowing more efficient access to memory locations. Clock Speed: The clock speed of the CPU determines how many instructions the CPU can execute per second. A higher clock speed generally leads to faster data processing. Data Bus Width: The width of the data bus affects the amount of data that can be transferred between the CPU and memory in a single bus cycle. A wider data bus can transfer more data at once. However, \"broadband status\" is not typically a factor that directly affects the speed of data transfer within a computer system. Broadband status is more related to network connectivity and internet speed, not internal data transfer within a computer's components.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69843",
+    "passage": ""
   }
 ]
