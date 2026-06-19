@@ -9040,5 +9040,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62696",
     "passage": ""
+  },
+  {
+    "id": 62697,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "To hold row and column titles in places so that they do not scroll when the user scrolls a worksheet, click the?",
+    "options": {
+      "A": "freeze panes command on the windows menu.",
+      "B": "hold titles command on the edit menu.",
+      "C": "split command on the windows menu.",
+      "D": "show grid command on the windows menu."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62697",
+    "passage": ""
   }
 ]
