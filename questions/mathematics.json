@@ -8335,5 +8335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9299",
     "passage": ""
+  },
+  {
+    "id": 9300,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the number of ways of selecting 6 out of 10 subjects for an examination",
+    "options": {
+      "A": "128",
+      "B": "216",
+      "C": "215",
+      "D": "210"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(^{10}C_6 = \\frac{10!}{(10-6)!6!}\\) = \\(\\frac{10!}{4!6!}\\) =\\(\\frac{10\\times 9\\times 8 \\times 7 \\times 6!}{4\\times 3\\times 2\\times 1 \\times 6!}\\) = 210.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9300",
+    "passage": ""
   }
 ]
