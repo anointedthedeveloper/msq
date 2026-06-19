@@ -5878,5 +5878,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13167",
     "passage": ""
+  },
+  {
+    "id": 13240,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The sharpness of the boundary of the shadow of an object is determined by the",
+    "options": {
+      "A": "intensity of light striking the object",
+      "B": "rays of light passing through the object",
+      "C": "nature of the object",
+      "D": "opacity of the object"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The characteristics of a shadow are dependent on the intensity of the light source. A hard light will produce a shadow with a sharp edge, a soft light will produce a shadow with a more blurry edge.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13240",
+    "passage": ""
   }
 ]
