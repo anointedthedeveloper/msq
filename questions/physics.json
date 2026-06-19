@@ -16592,5 +16592,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24286",
     "passage": ""
+  },
+  {
+    "id": 24287,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Calculate the time in which 4.8 kJ of energy would be expended when an electric heater of resistance 1.8 x 10\n3\nΩ is used on a 240 V mains supply. (Neglect heat losses to the surrounding).",
+    "options": {
+      "A": "150.0s",
+      "B": "90.0s",
+      "C": "36.0s",
+      "D": "20.0s",
+      "E": "2.7s."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "t = ER / V 2 = 4800 x 1.8 x 10 3 / 240 x 240 = 150s",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24287",
+    "passage": ""
   }
 ]
