@@ -3247,5 +3247,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58438",
     "passage": ""
+  },
+  {
+    "id": 58440,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A database contains list of customers and their phone numbers. What typ of relationship desribes a customer having multiple phone numbers?",
+    "options": {
+      "A": "Many-to-many",
+      "B": "Many-to-one",
+      "C": "One-to-many",
+      "D": "One-to-one"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58440",
+    "passage": ""
   }
 ]
