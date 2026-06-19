@@ -5786,5 +5786,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74031",
     "passage": ""
+  },
+  {
+    "id": 74033,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "COMPREHENSION AUNA FAHIMTA Instruction: Karanta wadannan labaral, sannan ka amaa tambayoyin da ke biye da su. Kasuwar Gwari babbar kasuwa ce, da ke a garin Minna wacce take makwabtaka da Bosso da Paiko da Kuta da kuma Bida. Kasuwar na da sassa daban-dabam da suka had'a da; sashen 'yan tireda da na kayan abinci da kayan gwari da 'yan kifi da 'yan gwangwan da sauransu. Kasuwar ta yi daura da layin dogo daga bangaren arewa, wanda ya taso daga garin Legas ya ratsa garuruwan Ilorin da Wushishi da Jebba da Mokwa har zuwa Minna. Amma a Bangaren kudu ta yi makwabtaka da kamfanin Janhol. Idan mutum na bukatar lemu ko kankana ko ayaba ko tuffa ko gwanda sai ka tafi sashen kayan gwari. A sashen 'yan tireda kuwa, nan ake samun kayan kwalliya irin su;man shafawa da man gasbi da gazal da jagira da hoda da turare da sauransu. Amma a sashen 'yan kifi nan ake samun ire-iren kifaye daban-dabam irin su; karaya da tarwada da giwa da karfasa da kawara da sauransu, d'anyu da busassu da bandarsu Duk wad'annan kayan gwari ne in ban da",
+    "options": {
+      "A": "Lemu",
+      "B": "kankana",
+      "C": "ayaba",
+      "D": "Karfasa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Duk wad'annan kayan gwari ne in ban da ... (All of these are types of goods except ... ). Answer: Karfasa The passage mentions that Kasuwar Gwari has various sections, including the section for goods like lemu, kankana, ayaba, tuffa, and gwanda, but Karfasa is not among them. Instead, Karfasa is mentioned as a type of fish in the section for fish (sashen 'yan kifi).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74033",
+    "passage": ""
   }
 ]
