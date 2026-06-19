@@ -19923,5 +19923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72665",
     "passage": ""
+  },
+  {
+    "id": 72666,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements about warm booting is true? The computer",
+    "options": {
+      "A": "reloads the operating system while still running in the background.",
+      "B": "loads the operating system into memory from the power-on button.",
+      "C": "reloads the operating system into memory while still running.",
+      "D": "loads the application into memory from rest state."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Warm booting reloads the operating system while running in the background.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72666",
+    "passage": ""
   }
 ]
