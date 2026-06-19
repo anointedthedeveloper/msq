@@ -3251,5 +3251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50243",
     "passage": ""
+  },
+  {
+    "id": 50244,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The National Agency for the Food and Drug Administration and Control (NAFDAC) was established in?",
+    "options": {
+      "A": "1993",
+      "B": "1990",
+      "C": "1999",
+      "D": "2001"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "NAFDAC was established by Decree 15 of 1993 with the purpose of preventing the circulation of illicit and counterfeit products in Nigeria under the country's health and safety law.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50244",
+    "passage": ""
   }
 ]
