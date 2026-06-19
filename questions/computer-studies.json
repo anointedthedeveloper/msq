@@ -8251,5 +8251,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62576",
     "passage": ""
+  },
+  {
+    "id": 62577,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a) What is: (i) an array; (ii) a syntax error?\n(b) Write QBASIC program that will input multiples of Three between 1 and 20 into a one-dimensional array and display the output on the screen.\n(c) Convert D5FA,, to binary.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) An array is a collection of elements of the same type stored in a single variable.\nOR\nAn array is a data structure with homogeneous element.\nOR An array is a row of values, a column of values or a combination of rows and columns of values.\nOR\nAn array is a data structure consisting of a collection of elements (values or variables) each identified by at least an array index or key.\n(i) A syntax error is an error resulting from violation of grammatical rules of a language.\nOR\nA syntax error is an error from non compliance with the grammar of a language\n(b) 10 DIM M (7)\n20 PRINT \"MULTIPLE OF 3\"\n30 FOR I = 1 TO 6\n40 M() = 3 *I\n50 PRINT M(I)\n60 NEXT I\n70 END\nOR\n10 FOR I = 1 TO 6\n20 M(I) =3 *I\n30 PRINT M(I)\n40 NEXT I\n(c) Converting D5 FA\\(_{16}\\) to binary\nD = 1101\n5 = 0101\nF = 1111\nA = 1010\nD5FA\\(_{16}\\) = 1101010111111010\\(_{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62577",
+    "passage": ""
   }
 ]
