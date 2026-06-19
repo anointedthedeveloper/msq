@@ -17953,5 +17953,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25054",
     "passage": ""
+  },
+  {
+    "id": 25055,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "A student found out from a simple pendulum experiment that 20 oscillations were completed in 38 seconds. What is the period of oscillation of the pendulum?",
+    "options": {
+      "A": "8.0s",
+      "B": "3.8 s",
+      "C": "2.0 s",
+      "D": "1.9 s",
+      "E": "0.5s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25055",
+    "passage": ""
   }
 ]
