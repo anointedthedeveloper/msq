@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73213",
     "passage": ""
+  },
+  {
+    "id": 73214,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Turkey sandwich is to snacks as chicken jollof rice is to ________.",
+    "options": {
+      "A": "Soup",
+      "B": "Appetizers",
+      "C": "Dessert",
+      "D": "Main meal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A turkey sandwich is typically considered a snack, whereas chicken jollof rice is a more substantial dish, often served as a main meal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73214",
+    "passage": ""
   }
 ]
