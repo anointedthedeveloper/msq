@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/553",
     "passage": ""
+  },
+  {
+    "id": 557,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Calculate the mass of ice that would melt when 2kg of copper is quickly transferred from boiling water to a block of ice without heat loss. Specific heat capacity of copper = 400JKg-1K-1 Latent heat of fusion of ice = 3.3 x 10\\(^5\\)JKg-1",
+    "options": {
+      "A": "8/33kg",
+      "B": "33/80kg",
+      "C": "80/33kg",
+      "D": "33/8kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Heat given off by the copper = MCt = 2 x 400 x (100 - 0) Heat absorbed by the ice = ML = M x 3.3 x 10\\(^5\\) Heat lost = Heat gained ∴ M x 3.3 x 10\\(^5\\) = 2 x 400 x 100 ∴ M =\\(\\frac{(2 \\times 400 \\times 100)}{3.3 \\times 10^5}\\) = \\(\\frac{8}{33}\\)Kg",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/557",
+    "passage": ""
   }
 ]
