@@ -11107,5 +11107,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4320",
     "passage": ""
+  },
+  {
+    "id": 4321,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "C(s) + H2O(g) → H2(g) + CO2(g) ΔG for the reaction above at 1300k is -43KJ. At this temperature, the reaction is?",
+    "options": {
+      "A": "not feasible",
+      "B": "at equilibrium",
+      "C": "feasible",
+      "D": "exothermic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "For a reaction to be feasible, ΔG has to be negative .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4321",
+    "passage": ""
   }
 ]
