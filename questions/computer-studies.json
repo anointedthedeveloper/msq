@@ -18558,5 +18558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70989",
     "passage": ""
+  },
+  {
+    "id": 70990,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does the acronym ISP stand for?",
+    "options": {
+      "A": "Internet Search Protocol",
+      "B": "Internet Service Provider",
+      "C": "International Service Provider",
+      "D": "Internet Security Protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The acronym ISP stands for Internet Service Provider. An Internet Service Provider (ISP) is a company that provides individuals and organizations access to the Internet and related services such as website building and virtual hosting. ISPs provide the technology and infrastructure needed for users to connect to the Internet, whether through dial-up, DSL, cable, fiber-optic, or wireless connections.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70990",
+    "passage": ""
   }
 ]
