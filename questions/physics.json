@@ -15911,5 +15911,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24255",
     "passage": ""
+  },
+  {
+    "id": 24256,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A given mass of gas at a temperature of 30°C is trapped in a tube of volume V. Calculate the temperature of the gas when the volume is reduced to two-third of its original value by applying a pressure twice the original value.",
+    "options": {
+      "A": "71 o C",
+      "B": "40 o C",
+      "C": "131 o C",
+      "D": "313 o C",
+      "E": "404 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Using the genaral gas law: \\(\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}\\)\nT\\(_1\\) = 30º = 273 + 30 = 303k\nT\\(_2\\) = ?\nlet V\\(_1\\) = V, V\\(_2\\) = \\(\\frac{2}{3}\\)V, P\\(_1\\) = P, P\\(_2\\) = 2P\nFrom,  \\(\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}\\)\nT\\(_2\\) = \\(\\frac{P_2 V_2 T_1}{P_1 V_1}\\) = \\(\\frac{2P \\times \\frac{2}{3}V \\times 303}{P \\times V}\\) = 404k(the Ps and Vs cancel out)\n404k → ºC = 404 - 273 = 131ºC",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24256",
+    "passage": ""
   }
 ]
