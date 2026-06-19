@@ -6151,5 +6151,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13714",
     "passage": ""
+  },
+  {
+    "id": 13718,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A transformer is rated 240v. If the primary coil is 4000 turns and the secondary voltage 12v, determine the number of turns in the secondary coil.",
+    "options": {
+      "A": "200",
+      "B": "100",
+      "C": "250",
+      "D": "150"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13718",
+    "passage": ""
   }
 ]
