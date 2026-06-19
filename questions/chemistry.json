@@ -7495,5 +7495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3230",
     "passage": ""
+  },
+  {
+    "id": 3231,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "N\\(_2\\)(g) + 3H\\(_2\\)(g) ↔ 2NH\\(_3\\)(g) ΔH = - 90 kJ In the equation above, the yield of ammonia can be decreased by",
+    "options": {
+      "A": "increasing the pressure",
+      "B": "removing the ammonia as it is formed",
+      "C": "increase the temperature",
+      "D": "adding a catalyst"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Increasing temperature in the Haber process decreases the yield of ammonia because the forward reaction is exothermic, and Le Chatelier's principle states that increasing temperature shifts the equilibrium position towards the endothermic (reverse) direction, reducing ammonia production.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3231",
+    "passage": ""
   }
 ]
