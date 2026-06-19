@@ -9250,5 +9250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62708",
     "passage": ""
+  },
+  {
+    "id": 62709,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Multiply 101\\(_2\\) by 11\\(_2\\)",
+    "options": {
+      "A": "1001\\(_2\\)",
+      "B": "1011\\(_2\\)",
+      "C": "1110\\(_2\\)",
+      "D": "1111\\(_2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62709",
+    "passage": ""
   }
 ]
