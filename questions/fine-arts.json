@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48045",
     "passage": ""
+  },
+  {
+    "id": 48046,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Literary art involves",
+    "options": {
+      "A": "poetry and prose",
+      "B": "drama",
+      "C": "architecture",
+      "D": "painting and sculpture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48046",
+    "passage": ""
   }
 ]
