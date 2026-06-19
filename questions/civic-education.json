@@ -10579,5 +10579,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65936",
     "passage": ""
+  },
+  {
+    "id": 65937,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following is not a problem of civil society?",
+    "options": {
+      "A": "Leadership struggle",
+      "B": "Poor funding",
+      "C": "Planning to capture political power",
+      "D": "Embezzlement of funds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Civil societies are non-governmental entities, hence, they do not aim at capturing political power.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65937",
+    "passage": ""
   }
 ]
