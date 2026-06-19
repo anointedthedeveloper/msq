@@ -9839,5 +9839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62738",
     "passage": ""
+  },
+  {
+    "id": 62739,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The operation of a computer and peripherals attached to it is controlled by?",
+    "options": {
+      "A": "application software.",
+      "B": "hardware",
+      "C": "liveware.",
+      "D": "system software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The system software controls the operation of a computer and its peripherals. System software, also known as the operating system, is the software that manages and controls the computer hardware and other software programs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62739",
+    "passage": ""
   }
 ]
