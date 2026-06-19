@@ -8797,5 +8797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9323",
     "passage": ""
+  },
+  {
+    "id": 9324,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If Q is\\( \\left[ \\begin{array}{cc} 9 & -2 \\\\ -7 & 4 \\\\ \\end{array} \\right]\\) , then |Q| is?",
+    "options": {
+      "A": "-50",
+      "B": "-22",
+      "C": "22",
+      "D": "50"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Q = \\( \\left[ \\begin{array}{ccc} 9 & -2 \\\\ -7 & 4 \\\\ \\end{array} \\right]\\) |Q| = 9x4 - (-2 x -7) = 36 - 14 = 22\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9324",
+    "passage": ""
   }
 ]
