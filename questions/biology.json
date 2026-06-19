@@ -5850,5 +5850,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2564",
     "passage": ""
+  },
+  {
+    "id": 2567,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Spirogyra and mucor can be grouped together as Thallophyta because",
+    "options": {
+      "A": "They are unicellular organisms",
+      "B": "Their spores could be dispersed by wind",
+      "C": "They are capable of living independent lives",
+      "D": "They reproduce sexually only",
+      "E": "Their bodies are made up of thallus and filaments alternatively"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2567",
+    "passage": ""
+  },
+  {
+    "id": 2568,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following invertebrates does NOT possess antennae?",
+    "options": {
+      "A": "Centipede",
+      "B": "Crustacean",
+      "C": "Millipede",
+      "D": "Insect",
+      "E": "Spider"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Spiders have eight eyes, four pairs of segmented legs, and can grow a new leg if they lose one. They do not have antennae or wings.\nInsects are a different class of arthropods than spiders, and insects have two antennae. Spiders are arachnids, and arachnids do not have antennae.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2568",
+    "passage": ""
+  },
+  {
+    "id": 2570,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following is INCORRECT? The prothallus of a fern",
+    "options": {
+      "A": "Is flattened heart-shaped structure",
+      "B": "Is green because its cells contain chloroplasts",
+      "C": "Is the dominant plant",
+      "D": "Bears the sexual organ",
+      "E": "Is attached to the ground by numerous rizoids"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2570",
+    "passage": ""
   }
 ]
