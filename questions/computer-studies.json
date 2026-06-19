@@ -6564,5 +6564,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62489",
     "passage": ""
+  },
+  {
+    "id": 62490,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The absolute address of cell G5 in a spreadsheet application is represented by?",
+    "options": {
+      "A": "$G5",
+      "B": "G$5",
+      "C": "$G$5",
+      "D": "$G5$"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In spreadsheet applications, the absolute address of a cell is represented by prefixing both the column letter and row number with a dollar sign ($). So, the absolute address of cell G5 is represented as $G$5. This means that if the formula is copied to another cell, the cell reference will not change.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62490",
+    "passage": ""
   }
 ]
