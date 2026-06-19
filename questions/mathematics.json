@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/833",
     "passage": ""
+  },
+  {
+    "id": 834,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A bowl is designed by revolving completely the area enclosed by y = x\\(^2\\) - 1, y = 3, and x ≥ 0 around the y-axis. What is the volume of this bowl?",
+    "options": {
+      "A": "7π cubic units",
+      "B": "15π/2 cubic units",
+      "C": "8π cubic units",
+      "D": "17π/2 cubic units"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "∫30 π(y+1) dy = π[y\\(^2 + y]^3_0\\) = π(9/2 + 3) = 15π/2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/834",
+    "passage": ""
   }
 ]
