@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64168",
     "passage": ""
+  },
+  {
+    "id": 64169,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Rotation of players in volleyball is",
+    "options": {
+      "A": "anticlockwise",
+      "B": "clockwise",
+      "C": "even numbers rotate first",
+      "D": "no define system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In volleyball, you rotate clockwise. If your team wins the point when the other team is serving, then the person in the front right moves to the right back, becoming the new server. If your team is serving and you win a point, you do not rotate, but stay in the same position.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64169",
+    "passage": ""
   }
 ]
