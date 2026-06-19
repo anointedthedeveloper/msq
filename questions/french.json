@@ -813,5 +813,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48150",
     "passage": ""
+  },
+  {
+    "id": 48151,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Qui participe au Tour de France? Les",
+    "options": {
+      "A": "chasseurs",
+      "B": "cyclistes",
+      "C": "chauffeurs",
+      "D": "motards"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/70fwdDsgrLT3xQFhHYDaW7aQ2QUM6WHLy7ZjlExQ.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890634/myschool/french/70fwdDsgrLT3xQFhHYDaW7aQ2QUM6WHLy7ZjlExQ.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48151",
+    "passage": ""
   }
 ]

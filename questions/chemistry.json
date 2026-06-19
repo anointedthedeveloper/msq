@@ -14926,5 +14926,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12984",
     "passage": ""
+  },
+  {
+    "id": 12985,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1991",
+    "question": "30cm\\(^3\\) of oxygen at 10 atmospheres pressure is placed in a 20 cm\\(^3\\) container. Calculate the new pressure if temperature is kept constant?",
+    "options": {
+      "A": "6.7 atm",
+      "B": "15.0 atm",
+      "C": "60.0 atm",
+      "D": "66. 0 atm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "P\\(_1\\)V\\(_1\\) = P\\(_2\\)V\\(_2\\) (where T is kept constant)\n30 x 10 = P\\(_2\\) x 20\nP\\(_2\\) = \\(\\frac{30 \\times 10}{20}\\)\n= 15.0 atm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12985",
+    "passage": ""
   }
 ]

@@ -18195,5 +18195,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25065",
     "passage": ""
+  },
+  {
+    "id": 25066,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "Hot water at a temperature of t is added to twice that amount of water at a temperature of 30°C. If the resulting temperature of the mixture is 50°C. Calculate t.",
+    "options": {
+      "A": "90 o C",
+      "B": "80 o C",
+      "C": "50 o C",
+      "D": "40 o C",
+      "E": "30 o C."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Final Temperature = \\(\\frac{m_1 T_1 + m_2 T_2}{m_1 + m_2}\\)\nwhere m\\(_1\\) and m\\(_2\\) are the weights of the water in the first and second containers.\nT\\(_1\\) and T\\(_2\\) are the temperatures of the water in the first and second container.\nGiven Final temperature = 50°C;\nLet m\\(_1\\) = b, then m\\(_2\\) = 2b.\nT\\(_1\\) = t; T\\(_2\\) = 30°C\n\\(\\therefore 50 = \\frac{b(t) + 2b(30)}{b + 2b}\\)\n\\(50 = \\frac{bt + 2b(30)}{3b}\\)\n\\(50(3b) = bt + 2b(30) \\implies 150b = b(t + 60)\\)\n\\(150 = t + 60 \\implies t = 150 - 60 = 90°C\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25066",
+    "passage": ""
   }
 ]

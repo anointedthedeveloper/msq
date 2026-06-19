@@ -2647,5 +2647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6224",
     "passage": ""
+  },
+  {
+    "id": 6225,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following features is associated with glacial erosion?",
+    "options": {
+      "A": "Esker",
+      "B": "Moraine",
+      "C": "Erratic",
+      "D": "Drumlin",
+      "E": "Cirque"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6225",
+    "passage": ""
   }
 ]

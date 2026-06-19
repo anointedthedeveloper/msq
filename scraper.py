@@ -137,6 +137,10 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
     Returns the CDN secure_url, or "" on failure.
     Skips images that return non-200 (broken/missing).
     """
+    # Convert relative URLs to absolute URLs
+    if src_url.startswith("/"):
+        src_url = f"{BASE_URL}{src_url}"
+    
     if src_url in _upload_cache:
         return _upload_cache[src_url]
 
@@ -147,8 +151,10 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
             print(f"    [SKIP] Image not available (HTTP {head.status_code}): {src_url}")
             _upload_cache[src_url] = ""
             return ""
-    except requests.RequestException:
-        pass  # proceed anyway, upload will fail if truly broken
+    except requests.RequestException as e:
+        print(f"    [SKIP] Image HEAD request failed: {e}")
+        _upload_cache[src_url] = ""
+        return ""
 
     filename  = src_url.split("/")[-1]
     public_id = f"myschool/{subject_slug}/{os.path.splitext(filename)[0]}"
@@ -163,6 +169,7 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
             )
             cdn_url = result["secure_url"]
             _upload_cache[src_url] = cdn_url
+            print(f"    [CDN] Uploaded: {filename}")
             return cdn_url
         except Exception as e:
             err = str(e)
@@ -171,9 +178,10 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
                 print(f"    [SKIP] Invalid image: {filename}")
                 _upload_cache[src_url] = ""
                 return ""
-            print(f"    Cloudinary upload error ({attempt + 1}/{retries}): {e}")
+            print(f"    [CDN] Upload error ({attempt + 1}/{retries}): {e}")
             time.sleep(3)
 
+    print(f"    [CDN] Failed after {retries} retries: {filename}")
     _upload_cache[src_url] = ""
     return ""
 
@@ -514,7 +522,7 @@ def release_git_lock():
         pass
 
 
-def git_commit_question(subject_slug: str, question: dict) -> bool:
+def git_commit_question(subject_slug: str, question: dict, total_count: int) -> bool:
     """Commit changes for a single question to git."""
     if not acquire_git_lock():
         print(f"  [GIT] Could not acquire lock for Q#{question['id']}")
@@ -525,6 +533,9 @@ def git_commit_question(subject_slug: str, question: dict) -> bool:
         if not os.path.exists(output_file):
             return False
         
+        # Reset staging area for this file to avoid staged/unstaged conflicts
+        subprocess.run(["git", "reset", output_file], capture_output=True)
+        
         subprocess.run(["git", "add", output_file], check=True, capture_output=True)
         
         # Check if there are changes to commit
@@ -533,7 +544,7 @@ def git_commit_question(subject_slug: str, question: dict) -> bool:
         if result.returncode == 0:
             return False  # No changes
         
-        commit_msg = f"scrape({subject_slug}): Q#{question['id']} {question['exam_type']} {question['exam_year']}"
+        commit_msg = f"scrape({subject_slug}): Q#{question['id']} {question['exam_type']} {question['exam_year']} [{total_count} total]"
         
         subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
         return True
@@ -554,6 +565,9 @@ def git_commit_subject(subject_slug: str, question_count: int) -> bool:
         output_file = f"questions/{subject_slug}.json"
         if not os.path.exists(output_file):
             return False
+        
+        # Reset staging area for this file to avoid staged/unstaged conflicts
+        subprocess.run(["git", "reset", output_file], capture_output=True)
         
         subprocess.run(["git", "add", output_file], check=True, capture_output=True)
         
@@ -673,8 +687,8 @@ def scrape_subject(
             if autocommit and commit_frequency == 1:
                 with open(output_file, "w", encoding="utf-8") as f:
                     json.dump(all_questions, f, ensure_ascii=False, indent=2)
-                if git_commit_question(subject_slug, question):
-                    print(f"      [GIT] Committed Q#{question['id']}")
+                if git_commit_question(subject_slug, question, len(all_questions)):
+                    print(f"      [GIT] Committed Q#{question['id']} [{len(all_questions)} total]")
 
         # Save after every page
         with open(output_file, "w", encoding="utf-8") as f:

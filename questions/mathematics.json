@@ -16877,5 +16877,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23466",
     "passage": ""
+  },
+  {
+    "id": 23468,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "simplify; 2log\\(_{3}\\) 6 + log\\(_{3}\\) 12 - log\\(_{3}\\) 16",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "2 - 2log 3 2",
+      "D": "3 - log 3 2",
+      "E": "4 - log 3 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2log\\(_{3}\\) 6 + log\\(_{3}\\) 12 - log\\(_{3}\\) 16\n= \\(\\log_3 6^2 + \\log_3 12 - \\log_3 16\\)\n= \\(\\log_{3} (\\frac{36 \\times 12}{16})\\)\n= \\(\\log_{3} (27)\\)\n= \\(\\log_{3} 3^3\\)\n= \\(3 \\log_{3} 3\\)\n= 3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23468",
+    "passage": ""
   }
 ]

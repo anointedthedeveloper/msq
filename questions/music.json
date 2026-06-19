@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76320",
     "passage": ""
+  },
+  {
+    "id": 76322,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "We are H.A.P.P.Y is a Nigerian",
+    "options": {
+      "A": "art song",
+      "B": "praise song",
+      "C": "work song",
+      "D": "marching song"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"We are H.A.P.P.Y\" is a popular Nigerian praise song. Praise songs are a type of music that expresses admiration, approval, or religious gratitude. In this specific case, the lyrics express happiness and gratitude toward God.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76322",
+    "passage": ""
   }
 ]
