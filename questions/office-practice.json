@@ -2858,5 +2858,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66842",
     "passage": ""
+  },
+  {
+    "id": 66843,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The section of an office in Rammy Ltd where mails are handled is",
+    "options": {
+      "A": "registry",
+      "B": "boardroom",
+      "C": "reception",
+      "D": "executive office"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In large organization mails are handled by a mailing department and a clerk is engaged in opening letters.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66843",
+    "passage": ""
   }
 ]
