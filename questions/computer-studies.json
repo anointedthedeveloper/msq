@@ -3056,5 +3056,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61838",
     "passage": ""
+  },
+  {
+    "id": 61839,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The computer that features a Liquid Crystal Display (LCD) is known as ...... Computer?",
+    "options": {
+      "A": "desktop",
+      "B": "digital",
+      "C": "hybrid",
+      "D": "laptop",
+      "E": "notebook"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61839",
+    "passage": ""
   }
 ]
