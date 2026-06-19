@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64199",
     "passage": ""
+  },
+  {
+    "id": 64201,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following does not affect woman participation in sports?",
+    "options": {
+      "A": "culture",
+      "B": "economy",
+      "C": "emotion",
+      "D": "physique"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Economy does not affect woman participation in sports.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64201",
+    "passage": ""
   }
 ]
