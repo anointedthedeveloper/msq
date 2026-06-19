@@ -3337,5 +3337,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11745",
     "passage": ""
+  },
+  {
+    "id": 11815,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In the diagram above, which of the simple pendula will resonate with P when set into oscillation",
+    "options": {
+      "A": "T",
+      "B": "U",
+      "C": "R and T",
+      "D": "Q and R"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/WkSpmtgnwT4vgX3akRy4hHjdDhTRE6gj31RL8yBj.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888775/myschool/physics/WkSpmtgnwT4vgX3akRy4hHjdDhTRE6gj31RL8yBj.jpg",
+    "correct_answer": "A",
+    "explanation": "The pendulum that will resonate with P is T. being of the same length and therefore of the same frequency.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11815",
+    "passage": ""
   }
 ]
