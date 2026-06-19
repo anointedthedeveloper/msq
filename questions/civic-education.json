@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50113",
     "passage": ""
+  },
+  {
+    "id": 50114,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following people suffer most in human trafficking?",
+    "options": {
+      "A": "girls",
+      "B": "boys",
+      "C": "children",
+      "D": "adults"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Victims of human trafficking are frequently lured by false promises of a lucrative job, stability, education, or a loving relationship. Victims can be men or women, adults or children. young children and teenagers are affected more by this menace.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50114",
+    "passage": ""
   }
 ]
