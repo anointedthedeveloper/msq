@@ -3566,5 +3566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73963",
     "passage": ""
+  },
+  {
+    "id": 73964,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Which of these is not a state in Igboland?",
+    "options": {
+      "A": "Abia State",
+      "B": "Ebonyi State",
+      "C": "Enugu State",
+      "D": "Edo State"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Edo State is not a state in Igboland. Igboland refers to the region in southeastern Nigeria where the Igbo peopl are predominantly found. Edo State, on the other hand, is located in the South-South region of Nigeria and is predominantly inhabited by the Edo people, who have a distinct culture and language different from the Igb people. While Edo State shares borders with some Igbo states, it is not considered part of Igboland.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73964",
+    "passage": ""
   }
 ]
