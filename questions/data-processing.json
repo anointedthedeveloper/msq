@@ -5184,5 +5184,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58991",
     "passage": ""
+  },
+  {
+    "id": 58992,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The part labeled II in Figure 6 ABOVE is used to",
+    "options": {
+      "A": "shape object",
+      "B": "select and transform objects",
+      "C": "draw lines and curves",
+      "D": "create texts"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/CTdO16XL1xza1S2bQOfSETVJalzQ7eIrSbPntm1e.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911426/myschool/data-processing/CTdO16XL1xza1S2bQOfSETVJalzQ7eIrSbPntm1e.jpg",
+    "correct_answer": "A",
+    "explanation": "The part labeled II in the diagram is used to shape object",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58992",
+    "passage": ""
   }
 ]
