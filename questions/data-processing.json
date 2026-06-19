@@ -9008,5 +9008,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72366",
     "passage": ""
+  },
+  {
+    "id": 72368,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A computer virus replicates itself into other programs or certain areas on the disk during the",
+    "options": {
+      "A": "dormant phase.",
+      "B": "execution phase",
+      "C": "propagation phase",
+      "D": "trigger phase."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "During the propagation phase, a computer virus • identifies potential targets (e.g. executive files, boot sectors), • copies its code into the target program or area • modifies the target to execute the virus code",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72368",
+    "passage": ""
   }
 ]
