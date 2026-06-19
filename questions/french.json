@@ -2126,5 +2126,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71059",
     "passage": ""
+  },
+  {
+    "id": 71060,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ils (commencer) leur travail après la match de foot.",
+    "options": {
+      "A": "commence",
+      "B": "Commences",
+      "C": "commençons",
+      "D": "commencent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is commencent The correct sentence would be: \"Ils commencent leur travail après le match de foot.\" Which translates to \"They begin their work after th football match.\" The subject of the sentence is \"Ils\" (they), which is a third person plural pronoun, so the verb \"commencer\" must be conjugated in the third person plural form, which is \"commencent\". Here's a breakdown of the other options: commence (first person singular, \"I begin\") commences (third person singular, \"he/she/it begins\") commençons (first person plural, \"we begin\") commencent",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71060",
+    "passage": ""
   }
 ]
