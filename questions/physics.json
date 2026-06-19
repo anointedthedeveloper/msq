@@ -9910,5 +9910,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14310",
     "passage": ""
+  },
+  {
+    "id": 14313,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The pressure of one mole of an ideal gas of volume 10\\(^-2\\) m\\(^3\\) at a temperature of 27°c is [molar gas constant = 8.3 J mol\\(^{-1}\\) k\\(^{-1}\\)]",
+    "options": {
+      "A": "2.49 x 10 4 Nm -2",
+      "B": "2.24 x 10 4 Nm -2",
+      "C": "2.49 x 10 5 Nm -2",
+      "D": "2.24 x 10 5 Nm -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "T = 27 + 273 = 300 K, volume, V = 10-2 m3 molar gass constant, R = 8.3 Jmol- 1k - 1 number of mole, n = 1 PV = NRT i.e P = (NRT)/V = (1 x 8.3 x 300)/10-2 = 2.49 x 10\\(^5\\) Nm\\(^-2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14313",
+    "passage": ""
   }
 ]
