@@ -4827,5 +4827,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70827",
     "passage": ""
+  },
+  {
+    "id": 70828,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is NOT a cause of drug misuse?",
+    "options": {
+      "A": "Lack of knowledge about proper dosage",
+      "B": "Misunderstanding prescription instructions",
+      "C": "Trying to self-treat a medical condition",
+      "D": "Intentional recreational use"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Intentional recreational use is usually classified as drug abuse, not misuse. Misuse generally involves improper use of prescribed or over-the-counter medications due to lack of knowledge, self-treatment attempts, or misunderstanding instructions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70828",
+    "passage": ""
   }
 ]
