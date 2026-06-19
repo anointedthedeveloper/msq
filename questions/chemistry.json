@@ -12199,5 +12199,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4488",
     "passage": ""
+  },
+  {
+    "id": 4489,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In the preparation of oxygen by heating KClO\\(_3\\) in the presence of MnO\\(_2\\), only moderate heat is needed because the catalyst acts by?",
+    "options": {
+      "A": "lowering the pressure of the reaction",
+      "B": "increasing the surface area of the reactant",
+      "C": "increase the rate of the reaction",
+      "D": "lowering the energy barrier of the reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the thermal decomposition of potassium chlorate ((KClO\\(_3\\) ), manganese(IV) oxide (MnO\\(_2\\)) acts as a catalyst. A catalyst functions by providing an alternative reaction pathway with a lower activation energy (the \"energy barrier\"). Because this barrier is lowered, more reactant particles possess sufficient kinetic energy to undergo successful collisions at a lower temperature, allowing the reaction to proceed efficiently with only moderate heat.\nWhile option C is also a characteristic of catalysts, option D specifically explains how the catalyst enables the use of moderate heat rather than the high temperatures required for the uncatalyzed reaction\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4489",
+    "passage": ""
   }
 ]
