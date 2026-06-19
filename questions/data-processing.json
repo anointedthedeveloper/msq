@@ -3765,5 +3765,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58555",
     "passage": ""
+  },
+  {
+    "id": 58556,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Microprocessor was used as the main electronic component of the",
+    "options": {
+      "A": "first generation computers",
+      "B": "second generation computers",
+      "C": "third generation computers",
+      "D": "fourth generation computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Microprocessor was used as the main electronic component of the fourth generation computers. Fourth Generation of computers was between 1971 – 1980. These computers used the VLSI technology or the Very Large Scale Integrated (VLSI) circuits technology. Therefore they were also known as the microprocessors. Intel was the first company to develop a microprocessor. The first “personal computer” or PC developed by IBM, belonged to this generation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58556",
+    "passage": ""
   }
 ]
