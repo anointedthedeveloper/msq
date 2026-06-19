@@ -548,5 +548,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/489",
     "passage": ""
+  },
+  {
+    "id": 490,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nBefore the operation, the dentist found that his patient's teeth....",
+    "options": {
+      "A": "have long decayed",
+      "B": "have long been decayed",
+      "C": "have long being decayed",
+      "D": "had long decayed",
+      "E": "had been decayed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When you need to talk about two things that happened in the past and one event started and finished before the other one started, place “ had ” before the main verb for the event that happened first.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/490",
+    "passage": ""
   }
 ]
