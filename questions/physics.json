@@ -9994,5 +9994,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14318",
     "passage": ""
+  },
+  {
+    "id": 14321,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "During a thunderstorm, the sound is heard over a long time. this phenomenon is referred to as?",
+    "options": {
+      "A": "diffraction of sound",
+      "B": "refraction of sound",
+      "C": "superposition",
+      "D": "reveraberation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The lengthening effect of sound is known as reverberation.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14321",
+    "passage": ""
   }
 ]
