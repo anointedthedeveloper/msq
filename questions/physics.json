@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/716",
     "passage": ""
+  },
+  {
+    "id": 717,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In a thermonuclear reaction, the total initial mass is 5.02 x \\(10^{-{2}{7}}\\)kg and the total final mass is 5.01 x \\(10^{-{2}{7}}\\)kg. The energy released in the process is [c = 3.0 x \\(10^8\\) ms-1]",
+    "options": {
+      "A": "9.0 x 10 -13 J",
+      "B": "9.0 x 10 -12 J",
+      "C": "9.0 x 10 -11 J",
+      "D": "9.0 x 10 -10 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In thermonuclear reactions, Energy = ∆mC\\(^2\\) ∆m = Change in Mass C = Speed of light ∴ 5.02 x 10\\(^{-27}\\) - 5.01 x 10\\(^{-27}\\) x [3 x 10\\(^8\\)]\\(^2\\) 0.01 x 10\\(^{-27}\\) x 9 x 10\\(^{16}\\) E = 9.0 x 10\\(^{-13}\\)J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/717",
+    "passage": ""
   }
 ]
