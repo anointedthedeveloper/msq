@@ -7275,5 +7275,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62529",
     "passage": ""
+  },
+  {
+    "id": 62530,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The most important system software in a computer system is the?",
+    "options": {
+      "A": "control program",
+      "B": "language translator",
+      "C": "operating system",
+      "D": "utility programs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62530",
+    "passage": ""
   }
 ]
