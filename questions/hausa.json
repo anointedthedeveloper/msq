@@ -459,5 +459,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73428",
     "passage": ""
+  },
+  {
+    "id": 73429,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Wace ce ta yi tafiya jiya Wannan jimlar........... ce",
+    "options": {
+      "A": "Karfafawa",
+      "B": "bayani",
+      "C": "tambayau",
+      "D": "korewa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "What type of sentence is \"Wace ce ta yi tafiya jiya\"? Answer: Tambayau (Tambayau means \"interrogative sentence\", which is the correct answer. Bayani is an exposition, korewa is a negation, karfafawa is an intensification, and umurtau is not a relevant term)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73429",
+    "passage": ""
   }
 ]
