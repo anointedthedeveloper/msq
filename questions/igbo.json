@@ -3227,5 +3227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73962",
     "passage": ""
+  },
+  {
+    "id": 73963,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "One of these is not part of Igboland?",
+    "options": {
+      "A": "Abakaliki",
+      "B": "Benin",
+      "C": "Asaba",
+      "D": "Ọwẹrẹ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ọwẹrẹ is not a place in Igbo land.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73963",
+    "passage": ""
   }
 ]
