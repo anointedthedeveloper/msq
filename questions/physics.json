@@ -4513,5 +4513,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12376",
     "passage": ""
+  },
+  {
+    "id": 12379,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The operation of an optical fibre is based on the principal of",
+    "options": {
+      "A": "dispersion of light",
+      "B": "interference of light",
+      "C": "refraction of light",
+      "D": "polarization of light"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12379",
+    "passage": ""
   }
 ]
