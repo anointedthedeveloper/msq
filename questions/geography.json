@@ -10239,5 +10239,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8519",
     "passage": ""
+  },
+  {
+    "id": 8521,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Inselbergs are formed on granite as a result of?",
+    "options": {
+      "A": "faulting and vulcanicity",
+      "B": "faulting and mass wasting",
+      "C": "deep weathering and erosion",
+      "D": "deep weathering and faulting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8521",
+    "passage": ""
+  },
+  {
+    "id": 8522,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Four ways in which a river transports its load are?",
+    "options": {
+      "A": "corrasion, saltation, solution and suspension",
+      "B": "attrition, saltation, solution and suspension",
+      "C": "saltation, solution, suspension and traction",
+      "D": "corrosion, solution, suspension and traction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8522",
+    "passage": ""
+  },
+  {
+    "id": 8523,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Which of the following contributes LEAST to the generation and movement of ocean surface currents?",
+    "options": {
+      "A": "wind friction",
+      "B": "temperature differences",
+      "C": "ocean salinity",
+      "D": "earth rotation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8523",
+    "passage": ""
   }
 ]
