@@ -5376,5 +5376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62414",
     "passage": ""
+  },
+  {
+    "id": 62415,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Trap doors and bombs are typical examples of?",
+    "options": {
+      "A": "adware",
+      "B": "computer worms",
+      "C": "firewall",
+      "D": "trojan horses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A logic bomb is a type of Trojan Horse that executes when specific conditions occur.  A trap door is a defect in the computer code that allows malicious actors to exploit the flaw and gain access to valuable information. Trojan Horse – traps and stores user login credentials, to send to malicious hackers who can use them to log in by impersonating the real and authorized user.\nHENCE, both trap doors and bombs are a type of Trojan Horse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62415",
+    "passage": ""
   }
 ]
