@@ -2244,5 +2244,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73788",
     "passage": ""
+  },
+  {
+    "id": 73789,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Afọ ọle ka ị gbara ugbu a?",
+    "options": {
+      "A": "Ha gbara afọ isii",
+      "B": "Ị gbara afọ iri",
+      "C": "Ọ gbara afọ iri",
+      "D": "Agbara m afọ iri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Agbara m afọ iri (which means \"I am twenty years old\"). The question asks \"How old are you?\" and the answer is \"Twenty years old\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73789",
+    "passage": ""
   }
 ]
