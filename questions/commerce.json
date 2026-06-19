@@ -16462,5 +16462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7660",
     "passage": ""
+  },
+  {
+    "id": 7662,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Intranet differs from extranet in that the former?",
+    "options": {
+      "A": "requires a modem before it could be used",
+      "B": "can generally be accessed by the public",
+      "C": "is restricted to employees of an organization",
+      "D": "requires internet protocols"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An intranet is a private network, operated by a large company or other organisation, which uses internet technologies, but is insulated from the global internet. An extranet is an intranet that is accessible to some people from outside the company, or possibly shared by more than one organisation.\nThe major difference from an extranet, however, is that an intranet is used internally. While an extranet allows businesses to communicate with clients and vendors, an intranet allows employees and colleagues to work together in a virtual space — no outside parties are involved.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7662",
+    "passage": ""
   }
 ]
