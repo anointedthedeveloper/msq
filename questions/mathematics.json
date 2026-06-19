@@ -4954,5 +4954,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8292",
     "passage": ""
+  },
+  {
+    "id": 8297,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the range of values of x for which 7x - 3 > 25 + 3x",
+    "options": {
+      "A": "x >7",
+      "B": "x<7",
+      "C": "x>-7",
+      "D": "x<-7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8297",
+    "passage": ""
   }
 ]
