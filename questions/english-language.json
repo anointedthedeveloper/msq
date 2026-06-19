@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/98",
     "passage": ""
+  },
+  {
+    "id": 100,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nThere is some obvious symmetry in the whole presentation",
+    "options": {
+      "A": "confusion",
+      "B": "hesitation",
+      "C": "excitement",
+      "D": "orderliness",
+      "E": "dissatisfaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sentence suggests that the presentation has a sense of balance, harmony, and organization, which aligns with the meaning of \"symmetry.\" Therefore, \"orderliness\" best captures this idea.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/100",
+    "passage": ""
   }
 ]
