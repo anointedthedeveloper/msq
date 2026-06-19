@@ -8734,5 +8734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3748",
     "passage": ""
+  },
+  {
+    "id": 3751,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A solution which on treatment with hydrochloric acid produces a colourless, odourless gas which turns lime water milky is most likely to be a",
+    "options": {
+      "A": "trioxonitrate (V)",
+      "B": "chloride",
+      "C": "trioxocarbonate (IV)",
+      "D": "hydroxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A solution containing carbonate when treated with hydrochloric acid, produces a colourless, odourless gas (carbon dioxide) that turns lime water milky.\nFor example, when hydrochloric acid (HCl) reacts with sodium carbonate (Na\\(_2\\)CO\\(_3\\)), it releases carbon dioxide (CO\\(_2\\)) gas, which is colourless and odourless.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3751",
+    "passage": ""
   }
 ]
