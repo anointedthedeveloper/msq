@@ -4412,5 +4412,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1800",
     "passage": ""
+  },
+  {
+    "id": 1802,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The atomic bomb tests carried out around the Sahara Desert made Nigeria sever relations with",
+    "options": {
+      "A": "The United States",
+      "B": "France",
+      "C": "Germany",
+      "D": "Canada"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1802",
+    "passage": ""
   }
 ]
