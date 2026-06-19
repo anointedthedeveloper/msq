@@ -16662,5 +16662,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67854",
     "passage": ""
+  },
+  {
+    "id": 67855,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following monitors has only two colours",
+    "options": {
+      "A": "colour monitor",
+      "B": "colour graphic adapter (CGA)",
+      "C": "dichrome monitor",
+      "D": "monochrome monitor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A monochrome monitor is a type of CRT computer monitor which was very common in the early days of computing, from the 1960s through the 1980s, before color monitors became popular. They are designed to display one color of information (usually green, amber, or white) along with a different color background (usually black). Therefore, the correct answer is 'monochrome monitor'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67855",
+    "passage": ""
   }
 ]
