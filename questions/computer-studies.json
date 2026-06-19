@@ -2638,5 +2638,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61819",
     "passage": ""
+  },
+  {
+    "id": 61820,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Search engines are used for the following except?",
+    "options": {
+      "A": "finding pages of information or data.",
+      "B": "downloading educational material",
+      "C": "displaying advertisement",
+      "D": "downloading music and videos",
+      "E": "handling virus attacks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61820",
+    "passage": ""
   }
 ]
