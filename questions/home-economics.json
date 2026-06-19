@@ -2728,5 +2728,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73303",
     "passage": ""
+  },
+  {
+    "id": 73304,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Dishes cooked by poaching and steaming are",
+    "options": {
+      "A": "Easily digested",
+      "B": "Easy to handle",
+      "C": "Very palatable",
+      "D": "Very attractive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Poaching and steaming are moist-heat cooking methods that preserve nutrients, retain flavor, and keep food tender. They’re gentle on the digestive system, making dishes easily digested and ideal for people with sensitive stomachs or dietary needs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73304",
+    "passage": ""
   }
 ]
