@@ -4219,5 +4219,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12274",
     "passage": ""
+  },
+  {
+    "id": 12275,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The table above shows the saturation vapour pressure against temperature in a certain town. If the vapour pressure in this town at 20oC is 10mmHg, what is the relative humidity?",
+    "options": {
+      "A": "170.0%",
+      "B": "57.0%",
+      "C": "17.5%",
+      "D": "10.0%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "R.H = \\(\\frac{Partial Pressure  of   Water Vapour Present}{S.V.P   at   temperature of atmosphere}\\) x 100 = \\(\\frac{10}{17.50}\\) x 100 = 57.14%  ≈  57%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12275",
+    "passage": ""
   }
 ]
