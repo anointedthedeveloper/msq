@@ -10364,5 +10364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62763",
     "passage": ""
+  },
+  {
+    "id": 62764,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Removing a program on a computer properly requires?",
+    "options": {
+      "A": "deleting.",
+      "B": "archiving.",
+      "C": "disabling.",
+      "D": "uninstalling."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62764",
+    "passage": ""
   }
 ]
