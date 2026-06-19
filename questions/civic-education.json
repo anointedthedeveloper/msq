@@ -7523,5 +7523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/57485",
     "passage": ""
+  },
+  {
+    "id": 57487,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "All regulatory road signs can be categorized into",
+    "options": {
+      "A": "mandatory and mediative",
+      "B": "punitive and prohibitive",
+      "C": "prohibitive and mandatory",
+      "D": "persuasive and informative"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Regulatory road signs are primarily designed to control traffic behavior and ensure road safety. They are categorized into:\nProhibitive Signs – These indicate actions that are not allowed (e.g., \"No U-turn,\" \"No Parking,\" \"Speed Limit\"). Mandatory Signs – These indicate actions that must be followed (e.g., \"Keep Left,\" \"Stop,\" \"Give Way\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/57487",
+    "passage": ""
   }
 ]
