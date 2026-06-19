@@ -3819,5 +3819,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73871",
     "passage": ""
+  },
+  {
+    "id": 73872,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "(same passage as above, slightly extended at the end)\nSana'o'in Hausa na gargajiya sun kunshi wadannan al'adu in ban da",
+    "options": {
+      "A": "bayar da magani",
+      "B": "hawan kaho",
+      "C": "sarauta",
+      "D": "zaman unguwa."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The text mentions that each traditional Hausa occupation has its own unique customs and practices, except for zaman unguwa (neighborhood association), which is not a custom specific to a particular occupation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73872",
+    "passage": ""
   }
 ]
