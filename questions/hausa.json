@@ -7445,5 +7445,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75990",
     "passage": ""
+  },
+  {
+    "id": 75991,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Idon Matambayi yana daga cikin wane nau'i na adabi?",
+    "options": {
+      "A": "Wasan kwaikwayo",
+      "B": "Waka",
+      "C": "Makala",
+      "D": "Labari"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Idon Matambayi is a narrative prose, that is, a novel or labari.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75991",
+    "passage": ""
   }
 ]
