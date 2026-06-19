@@ -10635,5 +10635,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22030",
     "passage": ""
+  },
+  {
+    "id": 22035,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "What is the difference in longitude between P (lat. 50°N. long. 50°W) and Q (lat.50°N, long. 150°W)?",
+    "options": {
+      "A": "300 o",
+      "B": "200 o",
+      "C": "130 o",
+      "D": "100 o",
+      "E": "30 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Let \\(\\theta\\) be the angular difference between P (50°N. 50°W), and Q (50°N, 150°W), \\(\\theta\\) = 150° - 50° =100°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22035",
+    "passage": ""
   }
 ]
