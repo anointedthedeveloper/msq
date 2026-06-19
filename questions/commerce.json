@@ -15496,5 +15496,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7587",
     "passage": ""
+  },
+  {
+    "id": 7588,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The central working system of a computer used for data processing is the?",
+    "options": {
+      "A": "memory unit",
+      "B": "monitor",
+      "C": "floppy disk drive",
+      "D": "hard drive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Central processing unit (CPU), principal part of any digital computer system, generally composed of the main memory, control unit, and arithmetic-logic unit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7588",
+    "passage": ""
   }
 ]
