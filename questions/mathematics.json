@@ -9154,5 +9154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9362",
     "passage": ""
+  },
+  {
+    "id": 9363,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Evaluate ∫sec\\(^2\\)θ dθ?",
+    "options": {
+      "A": "sec θ tan θ + k",
+      "B": "tan θ + k",
+      "C": "2sec θ + k",
+      "D": "sec θ + k"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "∫sec2θ dθ = ∫ 1/cos2 dθ ∫(cos)-2 dθ, let u = cos θ ∴∫u-2 = 1/u + c ∫cos θ = sin θ + c ∫sec-2θ = 1/u sin θ + c = (sinθ / cosθ) + c = Tan θ + c\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9363",
+    "passage": ""
   }
 ]
