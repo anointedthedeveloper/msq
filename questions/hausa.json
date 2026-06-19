@@ -1929,5 +1929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73693",
     "passage": ""
+  },
+  {
+    "id": 73694,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "He bought a new book.\nZa a iya fassara wannnan da: Ya....... sabon littafi",
+    "options": {
+      "A": "aro",
+      "B": "bayar da",
+      "C": "sayo",
+      "D": "kyautar da"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is sayo because \"he bought a new book\" is translated as Ya sayo sabon littafi in Hausa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73694",
+    "passage": ""
   }
 ]
