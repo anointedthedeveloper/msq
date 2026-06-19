@@ -4701,5 +4701,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70820",
     "passage": ""
+  },
+  {
+    "id": 70822,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following bodily functions relies heavily on adequate water intake?",
+    "options": {
+      "A": "Skin pigmentation",
+      "B": "Nail growth",
+      "C": "Hair growth",
+      "D": "Blood circulation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Water is crucial for maintaining adequate blood volume and circulation throughout the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70822",
+    "passage": ""
   }
 ]
