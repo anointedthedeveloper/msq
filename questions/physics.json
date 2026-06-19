@@ -5983,5 +5983,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13677",
     "passage": ""
+  },
+  {
+    "id": 13681,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "An object is projected from a height of 80 m above the ground with a velocity of 40ms-1 at an angle of 30° to the horizontal. The time of flight [ g ≈ 10m/s\\(^2\\)",
+    "options": {
+      "A": "8 s",
+      "B": "4 s",
+      "C": "16 s",
+      "D": "10 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "for a body projected at an angle θ to the horizontal, the time of the flight is given by T = (2u sin θ)/g =(2x 40)x sin (30)/10 =(2 x 40) x (0.5)/10 = 4.0secs.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13681",
+    "passage": ""
   }
 ]
