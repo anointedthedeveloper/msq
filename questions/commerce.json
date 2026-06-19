@@ -5039,5 +5039,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1984",
     "passage": ""
+  },
+  {
+    "id": 1985,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Mr Olatude took up a fire insurance on a property valued at N1000 and the amount insured is N 800. If the insurance was taking with the clause ‘with average ‘, What is the amount to be paid by the insurance company?",
+    "options": {
+      "A": "N320",
+      "B": "N420",
+      "C": "N460",
+      "D": "N560"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "GIVEN: Property value = N1000, Amount insured = N800, Loss = N1000\nRatio of insurance coverage = \\(\\frac{800}{1000}\\) = 0.8\nAmount payable = loss x ratio = 400 x 0.8 = N320\nNOTE: the clause \"average\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1985",
+    "passage": ""
   }
 ]
