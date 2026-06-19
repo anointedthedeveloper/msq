@@ -10112,5 +10112,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77110",
     "passage": ""
+  },
+  {
+    "id": 77464,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "1a(i) Describe data handling\n1a(ii) Explain two ways of handling data\n1a(iii) State four factors to consider when handling data electronically\n1b(iii) Starting from the Save As Dialogue box, outline the steps involved in pass wording a document in a word processing package",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "1a(i) Data handling is the process of ensuring that research data is stored, archived, or disposed of safely and securely during and after a research project. This includes the development of policies and procedures to manage data handled electronically as well as through non-electronic means.\nData handling is important in ensuring the integrity of research data since it addresses concerns related to confidentiality, security, and preservation/retention of research data. Proper planning for data handling can also result in efficient and economical storage, retrieval, and disposal of data. For electronically handled data, data integrity is a primary concern to ensure that recorded data is not altered, erased, lost, or accessed by unauthorized users.\n1a(ii) There are two ways of handling data\n- Electronic Method: This is the use of Electronic systems such as computer workstations and laptops, personal digital assistant (PDA), storage media such as videotape, diskette, CD, DVD, memory cards, and other electronic instrumentation. These systems may be used for storage, archival, sharing, and disposing of data, and therefore, require adequate planning at the start of a research project so that issues related to data integrity can be analyzed and addressed early on.\n- Non Electronic Method: This involves the use of Paper files, Journals, laboratory notebooks, human effects, and all other non-electronic means to share or store data.\n1a(iii)\n- Data integrity - Regular update of data - Validation of data - Security of data/encryption - Type of data - Type of storage to be used - Data volume/size - Access control - Regular antivirus update - Limit physical access to storage media - Regular backups - Ensure data recoverability - Login/password - Record date and time - Power supply\n1b(iii)  - Go to File -> Info - Click on the \"Protect Document\" drop-down button - Encrypt with Password - A new dialog window will open asking to enter the encryption password. Enter the password and press OK. - You will need to re-enter the password and press OK again.\n.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77464",
+    "passage": ""
   }
 ]
