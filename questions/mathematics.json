@@ -13295,5 +13295,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22683",
     "passage": ""
+  },
+  {
+    "id": 22685,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram below, O is the center of the circle if ∠QOR = 290o, find the size ∠QPR",
+    "options": {
+      "A": "110 o",
+      "B": "70 o",
+      "C": "55 o",
+      "D": "35 o",
+      "E": "20 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xagmpCPFt2Q1l4Ff0zfh8tzaCdTOFTs0lHSDkuG2.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869306/myschool/mathematics/xagmpCPFt2Q1l4Ff0zfh8tzaCdTOFTs0lHSDkuG2.png",
+    "correct_answer": "D",
+    "explanation": "360º - 290º = 70º \\(\\frac{70}{2}\\) = 35º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22685",
+    "passage": ""
   }
 ]
