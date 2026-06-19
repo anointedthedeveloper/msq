@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57227",
     "passage": ""
+  },
+  {
+    "id": 57231,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Facebook, Twitter and WhatsApp are examples of",
+    "options": {
+      "A": "social media",
+      "B": "social communication",
+      "C": "networking media",
+      "D": "search engines"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Facebook, Twitter, and WhatsApp are examples of social media/app platforms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57231",
+    "passage": ""
   }
 ]
