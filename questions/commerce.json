@@ -13062,5 +13062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7320",
     "passage": ""
+  },
+  {
+    "id": 7321,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An account maintained with a commercial bank for the purpose of foreign exchange transaction is the?",
+    "options": {
+      "A": "foreign account",
+      "B": "international account",
+      "C": "domiciliary account",
+      "D": "foreign reserves account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A domiciliary account is a special kind of bank account that allows you to receive and make payments in foreign currencies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7321",
+    "passage": ""
   }
 ]
