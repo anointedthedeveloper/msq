@@ -4354,5 +4354,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1936",
     "passage": ""
+  },
+  {
+    "id": 1937,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the following tissue are made up of dead cells?",
+    "options": {
+      "A": "Meristematic",
+      "B": "Xylem vessels",
+      "C": "Cambium",
+      "D": "Mesophyll",
+      "E": "Palisade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1937",
+    "passage": ""
   }
 ]
