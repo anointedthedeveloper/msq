@@ -4160,5 +4160,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1709",
     "passage": ""
+  },
+  {
+    "id": 1711,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The immediate cause of the January 15 1966 military coup in Nigeria was the",
+    "options": {
+      "A": "crisis over the population census",
+      "B": "election crisis in the Western Region",
+      "C": "Kano Riots",
+      "D": "Tiv Riots"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1711",
+    "passage": ""
   }
 ]
