@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/557",
     "passage": ""
+  },
+  {
+    "id": 558,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The equation of a wave traveling along the positive x-direction is given by; y = 0.25 x 10\\(^{-3}\\) sin (500t - 0.025x). Determine the angular frequency of the wave motion.",
+    "options": {
+      "A": "0.25 x 10 -3 rad s -1",
+      "B": "0.25 x 10 -1 rad s -1",
+      "C": "5.00 x 10 2 rad s -1",
+      "D": "2.50 x 10 3 rad s -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The general wave equation is given by; y = A Sin(wt - 2πx/Wavelength) where w = angular velocity\nThus, comparing this equation with the equation y = 0.25 x 10-3 Sin (500t - 0.025x) That Amplitude = 0.25 x 10-3m The angular velocity(w) = 500 (the coefficient of t in both equations) ∴ w = 500 rad s\\(^{-1}\\) = 5.00 x 10\\(^2\\)rad s\\(^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/558",
+    "passage": ""
   }
 ]
