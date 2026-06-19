@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/582",
     "passage": ""
+  },
+  {
+    "id": 719,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Find the inverse of p under the binary operation * defined by p*q = p + q - pq, where p and q are real numbers and zero is the identity",
+    "options": {
+      "A": "p",
+      "B": "p -1",
+      "C": "p/(p-1)",
+      "D": "p/(p+1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If P\\(^{-1}\\) is the inverse of P and O is the identity, Then P\\(^{-1}\\) * P = P * P\\(^{-1}\\) = 0 i.e. P\\(^{-1}\\) + P - P\\(^{-1}\\).P = 0 P\\(^{-1}\\) - P\\(^{-1}\\).P = -P P\\(^{-1}\\)(1 - P) = -P P\\(^{-1}\\) =\\(\\frac{-P}{(P-1)}\\) = \\(\\frac{P}{(P-1)}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/719",
+    "passage": ""
   }
 ]
