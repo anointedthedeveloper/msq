@@ -4072,5 +4072,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12267",
     "passage": ""
+  },
+  {
+    "id": 12268,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A hose of cross-sectional area 0.5m\n2\nis used to discharge water from a water tanker at a velocity of 60ms\n-1\nin 20s into a container. If the container is filled completely, the volume of the container is",
+    "options": {
+      "A": "240m 3",
+      "B": "600m 3",
+      "C": "2400m 3",
+      "D": "6000m 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "-1\n3\n-1\n3\n3\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12268",
+    "passage": ""
   }
 ]
