@@ -10070,5 +10070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77108",
     "passage": ""
+  },
+  {
+    "id": 77109,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Where was the abacus invented?",
+    "options": {
+      "A": "egypt",
+      "B": "china",
+      "C": "argentina",
+      "D": "australian"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The first Chinese Abacus was invented around 500 B.C. The Abacus, as we know it today, was used in China around 1300 A.D.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77109",
+    "passage": ""
   }
 ]
