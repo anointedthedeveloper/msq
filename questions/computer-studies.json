@@ -17838,5 +17838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69857",
     "passage": ""
+  },
+  {
+    "id": 69858,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A program that converts source code instructions in high-level programming language to object codes line by line is known as",
+    "options": {
+      "A": "interpreter.",
+      "B": "compiler.",
+      "C": "editor",
+      "D": "assembler."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A program that converts source code instructions in high-level programming language to object codes line by line is known as an interpreter. An interpreter is a program that executes source code line by line. It does not convert the source code into machine code first. This makes interpreters slower than compilers, but it also makes them more flexible. Interpreters can be used to execute programs that are written in languages that are not supported by compilers. Compilers, on the other hand, convert source code into machine code before executing it. This makes compilers faster than interpreters, but it also makes them less flexible. Compilers can only be used to execute programs that are written in languages that are supported by the compiler.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69858",
+    "passage": ""
   }
 ]
