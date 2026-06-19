@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1509",
     "passage": ""
+  },
+  {
+    "id": 1510,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following consists entirely of vector quantities?",
+    "options": {
+      "A": "Velocity, displacement and reaction",
+      "B": "Tension, magnetic flux and mass",
+      "C": "Displacement, impulse and power",
+      "D": "Work, pressure and moment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Velocity : Vector quantity (has both magnitude and direction).\nDisplacement : Vector quantity (change in position).\nReaction : Typically refers to a reaction force, which is a vector quantity.(OPTION A)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1510",
+    "passage": ""
   }
 ]
