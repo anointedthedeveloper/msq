@@ -7627,5 +7627,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2751",
     "passage": ""
+  },
+  {
+    "id": 2753,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Equality before the law is a component of",
+    "options": {
+      "A": "separation of powers",
+      "B": "checks and balances",
+      "C": "the rule of law",
+      "D": "constitutional law"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2753",
+    "passage": ""
   }
 ]
