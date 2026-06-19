@@ -6800,5 +6800,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76511",
     "passage": ""
+  },
+  {
+    "id": 76512,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "A deficiency in calcium can lead to a condition in which bones become brittle and fragile, a condition known as:",
+    "options": {
+      "A": "Goiter",
+      "B": "Beriberi",
+      "C": "Pellagra",
+      "D": "Osteoporosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Calcium is an essential mineral that plays a critical role in building and maintaining strong bones and teeth, as well as supporting muscle contractions, nerve signaling, and blood clotting. When the body does not get enough calcium-either due to poor diet, lack of vitamin D (which helps absorb calcium), or other medical conditions-it starts taking calcium from the bones to maintain vital functions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76512",
+    "passage": ""
   }
 ]
