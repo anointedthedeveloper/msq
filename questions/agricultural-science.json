@@ -2681,5 +2681,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16039",
     "passage": ""
+  },
+  {
+    "id": 16042,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A crop not requiring more than 750 mm annual rainfall is most suitable for cultivation in",
+    "options": {
+      "A": "swampy forest",
+      "B": "sahel savanna",
+      "C": "rain forest",
+      "D": "sudan savanna",
+      "E": "guinea savanna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16042",
+    "passage": ""
   }
 ]
