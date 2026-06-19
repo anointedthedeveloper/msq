@@ -12877,5 +12877,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22646",
     "passage": ""
+  },
+  {
+    "id": 22647,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The area shaded with horizontal lines is the solution set of the inequalities;",
+    "options": {
+      "A": "y ≥ x, y + 3 ≥ 2x, x ≤ 3",
+      "B": "y ≤ x, y + 2x ≥ -3, x ≤ 3",
+      "C": "y ≤ -x, y + 2x ≤ 3, x ≥ -3",
+      "D": "y ≥ -x, y + 3 ≤ 2x, x ≥ -3",
+      "E": "y ≤ x, y ≤ 2x - 3, x ≥ 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16599726444_wcmath199016.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869253/myschool/mathematics/16599726444_wcmath199016.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22647",
+    "passage": ""
   }
 ]
