@@ -2853,5 +2853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1575",
     "passage": ""
+  },
+  {
+    "id": 1576,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "What mass of water is produced when 8.0g of hydrogen reacts with excess oxygen? [H = 1, O = 16]",
+    "options": {
+      "A": "36.0g",
+      "B": "8.0g",
+      "C": "72.0g",
+      "D": "16.0g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(2H_2 + O_2 → 2H_2O\\) 4g → 36g 8g → X X → \\(\\frac{ 36 \\times8}{4}\\) = 72.0g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1576",
+    "passage": ""
   }
 ]
