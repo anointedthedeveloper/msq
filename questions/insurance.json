@@ -2054,5 +2054,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49863",
     "passage": ""
+  },
+  {
+    "id": 49866,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "which of the following benefits will be covered under personal accident insurance",
+    "options": {
+      "A": "burial expenses",
+      "B": "medical expenses",
+      "C": "legal expenses",
+      "D": "mortuary expenses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Medical care expenses include payments for the diagnosis, cure, mitigation, treatment , or prevention of disease, or payments for treatments affecting any structure or function of the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49866",
+    "passage": ""
   }
 ]
