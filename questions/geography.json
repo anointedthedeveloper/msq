@@ -895,5 +895,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/933",
     "passage": ""
+  },
+  {
+    "id": 934,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A traveller crossing the international Date Line from America to Asia at 12 midnight on Sunday, would have to change his watch to 12 midnight on",
+    "options": {
+      "A": "Sunday",
+      "B": "Monday",
+      "C": "Tuesday",
+      "D": "Saturday"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/934",
+    "passage": ""
   }
 ]
