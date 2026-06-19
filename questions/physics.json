@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/320",
     "passage": ""
+  },
+  {
+    "id": 325,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If the stress on a wire is 10\\(^7\\)Nm\\(^{-2}\\) and the wire is stretched from its original length of 10.00 cm to 10.05 cm. The Young's modulus of the wire is",
+    "options": {
+      "A": "5 . 0  x 10 4 Nm -2",
+      "B": "5 . 0 x 10 5 Nm -2",
+      "C": "2 . 0 x 10 8 Nm -2",
+      "D": "2 . 0 x 10 9 Nm -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Y = \\(\\frac{\\text{stress}}{\\text{strain}}\\), but stress = 10\\(^7\\)Nm\\(^{-2}\\) (given). Strain = \\(\\frac{\\text{e}}{l_o}\\). = \\(\\frac{(0.1005 - 0.100)}{0.1}\\) = 0.005m Thus Y = \\(\\frac{10^7}{0.005}\\) = 2.0 x 10\\(^9\\)Nm\\(^{-2}\\)\n(NOTE: cm → m)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/325",
+    "passage": ""
   }
 ]
