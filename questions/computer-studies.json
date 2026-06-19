@@ -2902,5 +2902,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61831",
     "passage": ""
+  },
+  {
+    "id": 61832,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "By default in Microsoft word, your document prints in .. mode?",
+    "options": {
+      "A": "landscape",
+      "B": "page setup",
+      "C": "portrait",
+      "D": "print view",
+      "E": "vertical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61832",
+    "passage": ""
   }
 ]
