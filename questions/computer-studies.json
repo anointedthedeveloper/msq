@@ -8620,5 +8620,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62676",
     "passage": ""
+  },
+  {
+    "id": 62677,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The scanner and the floppy disk are?",
+    "options": {
+      "A": "both input devices.",
+      "B": "both output devices.",
+      "C": "input and output devices respectively.",
+      "D": "input and storage devices respectively."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62677",
+    "passage": ""
   }
 ]
