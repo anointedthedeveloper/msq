@@ -19419,5 +19419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72613",
     "passage": ""
+  },
+  {
+    "id": 72614,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements about operating system is false? It",
+    "options": {
+      "A": "enhances the booting process.",
+      "B": "manages computer devices.",
+      "C": "manages storage location.",
+      "D": "protects the computer from surge."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: The Operating System (OS) does not protect the computer from surge. What does this is a surge protector with a common example being the Uninterruptible Power Supply (UPS).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72614",
+    "passage": ""
   }
 ]
