@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66095",
     "passage": ""
+  },
+  {
+    "id": 66098,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following equipment is used for electronic filing?",
+    "options": {
+      "A": "Printer",
+      "B": "Fax Machine",
+      "C": "Computer",
+      "D": "Drawer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer is an electronic device that accept data through input unit, process the data according to the instruction supplied to it by the user and transfer the result to a unit where it can be stored or print out. It is an equipment or device that is used for electronic filing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66098",
+    "passage": ""
   }
 ]
