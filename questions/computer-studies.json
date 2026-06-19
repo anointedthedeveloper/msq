@@ -6396,5 +6396,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62481",
     "passage": ""
+  },
+  {
+    "id": 62482,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is not a method of accessing file?",
+    "options": {
+      "A": "Circular",
+      "B": "Random",
+      "C": "Serial",
+      "D": "Sequential"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62482",
+    "passage": ""
   }
 ]
