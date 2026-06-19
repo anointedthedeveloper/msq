@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73223",
     "passage": ""
+  },
+  {
+    "id": 73224,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "When edges of garment are turned to the wrong side and stitched, it is called",
+    "options": {
+      "A": "Joining",
+      "B": "Facing",
+      "C": "Binding",
+      "D": "Hemming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When the edges of a garment are turned to the wrong side and stitched, it is called facing. Facing is a technique used to finish the raw edges of a garment, such as the front edge of a dress or the armhole of a sleeve. It involves folding the edge of the fabric to the wrong side and stitching it in place, creating a neat and tidy finish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73224",
+    "passage": ""
   }
 ]
