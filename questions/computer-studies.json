@@ -14896,5 +14896,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64976",
     "passage": ""
+  },
+  {
+    "id": 64979,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Select two stages of booting from the following list:\ni. Power on Self Test;\nii.  Loading of Operating System;\niii.  Loading of e-mails;\niv.  Start in safe mode.\niv. Save all active files",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and IV only",
+      "D": "III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64979",
+    "passage": ""
   }
 ]
