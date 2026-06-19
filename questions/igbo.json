@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73537",
     "passage": ""
+  },
+  {
+    "id": 73541,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ada na-ede",
+    "options": {
+      "A": "egwu",
+      "B": "akwa",
+      "C": "ụkwẹ",
+      "D": "nri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is egwụ. \"Ada na-ede egwụ\" is a complete sentence in Igbo, which means \"Ada is playing music\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73541",
+    "passage": ""
   }
 ]
