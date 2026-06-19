@@ -3735,5 +3735,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50583",
     "passage": ""
+  },
+  {
+    "id": 50585,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In which group is the upper quartile?",
+    "options": {
+      "A": "15 - 19",
+      "B": "20 - 24",
+      "C": "25 - 29",
+      "D": "30 - 34"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The upper quartile occurs at the \\(\\frac{3N}{4}\\) position.\n= \\(\\frac{3 \\times 50}{4} = 37.5\\)\nThis occurs in the class 25 - 29.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50585",
+    "passage": ""
   }
 ]
