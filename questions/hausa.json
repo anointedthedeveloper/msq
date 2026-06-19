@@ -690,5 +690,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73464",
     "passage": ""
+  },
+  {
+    "id": 73465,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Fassara wadannan: I am thirsty.",
+    "options": {
+      "A": "Ina jin barci",
+      "B": "Ina jin jiri",
+      "C": "Ina jin gajiya",
+      "D": "Ina jin yunwa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ina jin yunwa (I am thirsty translates to \"Ina jin yunwa)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73465",
+    "passage": ""
   }
 ]
