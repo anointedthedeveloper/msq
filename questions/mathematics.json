@@ -5206,5 +5206,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8456",
     "passage": ""
+  },
+  {
+    "id": 8462,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A chord of a circle subtends an angle of 60o at the length of a circle of radius 14 cm. Find the length of the chord",
+    "options": {
+      "A": "7 cm",
+      "B": "14 cm",
+      "C": "21 cm",
+      "D": "28 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Chord Length (L) = \\(2 \\times Radius \\times (sin \\frac{angle}{2})\\)\n= \\(2 \\times 14 \\times (sin \\frac{60}{2})\\)\n= \\( 28 \\times (sin 30)\\)\n= \\(28 \\times \\frac{1}{2}\\)\n= \\(14cm\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8462",
+    "passage": ""
   }
 ]
