@@ -5542,5 +5542,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8614",
     "passage": ""
+  },
+  {
+    "id": 8615,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "What is the probability that an integer x,(1 \\(\\leq\\) x \\(\\leq\\) 20) chosen at random is divisible by both 2 and 3?",
+    "options": {
+      "A": "\\(\\frac{1}{20}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{3}{20}\\)",
+      "D": "\\(\\frac{7}{10}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "U = {1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20} A = {x/x is divisible by 2} A = {2,4,6,8,10,12,14,16,18,20} B = {x/x is divisible by 3} A ∩ B = {6, 12, 18} P(Number divisible by both 2 and 3) = 3/20",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8615",
+    "passage": ""
   }
 ]
