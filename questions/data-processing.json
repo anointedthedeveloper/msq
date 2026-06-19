@@ -7747,5 +7747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69782",
     "passage": ""
+  },
+  {
+    "id": 69784,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 3 is a Microsoft Excel Worksheet. Use it to answer questions 20 and 21 .\nNET SALARY (N)\nFigure 3 What formula will correctly display the total number of individuals involved in the computation as shown in Figure 3 ?",
+    "options": {
+      "A": "=COUNT(A2:A5)",
+      "B": "=COUNTIF(A2:A5)",
+      "C": "=COUNTA(A2:A5)",
+      "D": "=SUM(A2:A5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The formula that will correctly display the total number of individuals involved in the computation as shown in Figure 3 is COUNTA(A2:A5). The COUNTA function counts the number of cells that are not empty in a range. In this case, we want to count the number of cells in the A column that are not empty. The A column contains the identification numbers of the individuals involved in the computation. Therefore, the COUNTA function will return the total number of individuals involved in the computation. The other formulas mentioned are: COUNT: This function counts the number of cells that contain numbers in a range. COUNTIF: This function counts the number of cells that contain a specific value in a range. SUM: This function sums the values in a range. In this case, we do not want to count the number of cells that contain numbers or the number of cells that contain a specific value. We want to count the number of cells that are not empty. Therefore, the COUNTA function is the most appropriate function to use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69784",
+    "passage": ""
   }
 ]
