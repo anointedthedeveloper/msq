@@ -2997,5 +2997,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50484",
     "passage": ""
+  },
+  {
+    "id": 50491,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A particle starts from rest and moves in a straight line such that its acceleration after t seconds is given by \\(a = (3t - 2) ms^{-2}\\). Find the other time when the velocity would be zero.",
+    "options": {
+      "A": "\\(\\frac{1}{3} seconds\\)",
+      "B": "\\(\\frac{3}{4} seconds\\)",
+      "C": "\\(\\frac{4}{3} seconds\\)",
+      "D": "\\(2 seconds\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Given \\(a(t) = 3t - 2\\), \\(v(t) = \\int (a(t)) \\mathrm {d} t\\)\n= \\(\\int (3t - 2) \\mathrm {d} t = \\frac{3}{2}t^{2} - 2t\\)\n\\(\\frac{3}{2}t^{2} - 2t = 0 \\implies t(\\frac{3}{2}t - 2) = 0\\)\n\\(t = \\text{0 or t} = \\frac{3}{2}t - 2 = 0 \\implies t = \\frac{4}{3}\\)\nThe time t = 0 was the starting point, The next time v = 0 m/s is at \\(t = \\frac{4}{3} seconds\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50491",
+    "passage": ""
   }
 ]
