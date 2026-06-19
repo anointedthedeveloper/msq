@@ -1230,5 +1230,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/540",
     "passage": ""
+  },
+  {
+    "id": 542,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "A good plot must posses",
+    "options": {
+      "A": "many exciting events",
+      "B": "good,interesting characters",
+      "C": "a pleasant setting",
+      "D": "intrigue",
+      "E": "single,complete and ordered action"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A good plot is typically characterized by a single, complete and ordered action . This means the plot should have a clear sequence of events that form a cohesive, logical story, leading to a resolution. The events should be structured in a way that keeps the audience engaged while providing a sense of progression from the beginning to the end.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/542",
+    "passage": ""
   }
 ]
