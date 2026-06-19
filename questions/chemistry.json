@@ -11863,5 +11863,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4472",
     "passage": ""
+  },
+  {
+    "id": 4473,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A noble gas with a high power of fog penetration used in aerodrome beacons is?",
+    "options": {
+      "A": "krypton",
+      "B": "argon",
+      "C": "helium",
+      "D": "neon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The noble gas with a high power of fog penetration used in aerodrome beacons is krypton. Krypton's light can penetrate dense fog better than other noble gases, making it ideal for airport approach lights where visibility in foggy conditions is crucial.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4473",
+    "passage": ""
   }
 ]
