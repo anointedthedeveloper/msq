@@ -10057,5 +10057,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14327",
     "passage": ""
+  },
+  {
+    "id": 14328,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "An object is embedded in a block of ice, 10 cm below the plane surface. if the refractive index of the ice is 1.50, the apparent depth below the surface is?",
+    "options": {
+      "A": "2.50 cm",
+      "B": "6.67 cm",
+      "C": "7.50 cm",
+      "D": "7.63 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Refraction index, n = (real depth)/apparent depth 1.5 = (10)/X X = (10)/1.5 = 6.67 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14328",
+    "passage": ""
   }
 ]
