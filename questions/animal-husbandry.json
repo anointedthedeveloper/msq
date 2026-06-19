@@ -1025,5 +1025,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49668",
     "passage": ""
+  },
+  {
+    "id": 49669,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The vector that transmits trypanosomiasis is",
+    "options": {
+      "A": "roundworm",
+      "B": "tapeworm",
+      "C": "tsetse fly",
+      "D": "white fly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The tsetse fly (genus Glossina) is a large, brown, biting fly that serves as both a host and vector for the trypanosome parasites.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49669",
+    "passage": ""
   }
 ]
