@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1115",
     "passage": ""
+  },
+  {
+    "id": 1120,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Given that \\(p = 1 + \\sqrt{2}\\) and \\(q = 1 - \\sqrt{2}\\), evaluate \\(\\frac{p^{2} - q^{2}}{2pq}\\).",
+    "options": {
+      "A": "2(2+√2)",
+      "B": "-2(2+√2)",
+      "C": "2√2",
+      "D": "-2√2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{p^{2} - q^{2}}{2pq} = \\frac{(p + q)(p - q)}{2pq}\\)\n= \\(\\frac{(1 + \\sqrt{2} - (1 - \\sqrt{2}))(1 + \\sqrt{2} + 1 - \\sqrt{2})}{2(1 + \\sqrt{2})(1 - \\sqrt{2})}\\)\n= \\(\\frac{(2\\sqrt{2})(2)}{-2}\\)\n= \\(-2\\sqrt{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1120",
+    "passage": ""
   }
 ]
