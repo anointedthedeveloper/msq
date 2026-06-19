@@ -746,5 +746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/346",
     "passage": ""
+  },
+  {
+    "id": 347,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In a photo-tropic experiment, young seedlings in a box were subjected to light from one direction. The seedling continue to grow erect. Which of the following statement is correct",
+    "options": {
+      "A": "Only the tip of the seedling received the light",
+      "B": "The light was not strong enough",
+      "C": "The seedlings were rather too young",
+      "D": "The tip of the seedling may have been covered",
+      "E": "The box containing the seedling should have been placed on a laboratory bench"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is \"the tip of the seedling may have been covered\". If the tip of the seeding is covered, it would prevent the seedling from receiving the light signal, which is necessary for phototropism. As a result the seedling will continue to grow erect, without bending towards the light.\nOn the other hand, if only the tip of the seedling received the light, it would like respond by bending towards the light source.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/347",
+    "passage": ""
   }
 ]
