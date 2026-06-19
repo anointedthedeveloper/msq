@@ -4370,5 +4370,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1792",
     "passage": ""
+  },
+  {
+    "id": 1795,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A Security Council resolution requires the concurrence of",
+    "options": {
+      "A": "1 of the 5 permanent members",
+      "B": "all of the 5 permanent members",
+      "C": "9 of the 15 council members",
+      "D": "3 of the 5 permanent members"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the United Nations Security Council (UNSC) , a resolution requires the approval of at least 9 out of the 15 council members including the concurring votes of all 5 permanent members (United States, United Kingdom, China, Russia, and France). This means that while 9 votes are necessary, a single veto from any of the 5 permanent members can block the resolution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1795",
+    "passage": ""
   }
 ]
