@@ -4848,5 +4848,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2235",
     "passage": ""
+  },
+  {
+    "id": 2236,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The noble gases owe their inactivity to",
+    "options": {
+      "A": "Octet configuration",
+      "B": "Cyclic shape",
+      "C": "Hexagonal shape",
+      "D": "Obtuse configuration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Noble gases, also known as inert gases, are chemically inert because their outer electron shells are completely filled with electrons. i.e their octet configuration\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2236",
+    "passage": ""
+  },
+  {
+    "id": 2237,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "According to the kinetic theory, an increase in temperature causes the kinetic energy of particles to",
+    "options": {
+      "A": "Decrease",
+      "B": "Increase",
+      "C": "Remain constant",
+      "D": "Be zero"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Kinetic energy is a measure of the motion of particles, and when temperature increases, the particles absorb energy and move faster. This results in an increase in the kinetic energy of the particles.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2237",
+    "passage": ""
   }
 ]
