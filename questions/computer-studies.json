@@ -15001,5 +15001,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64984",
     "passage": ""
+  },
+  {
+    "id": 64986,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The file access method illustrated in the diagram above is called?",
+    "options": {
+      "A": "hashed access",
+      "B": "indexed access",
+      "C": "random access",
+      "D": "sequential access"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0LuJhM571t5hSRteMh8j7JWo0n5TC0KD66hl8kD3.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903956/myschool/computer-studies/0LuJhM571t5hSRteMh8j7JWo0n5TC0KD66hl8kD3.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64986",
+    "passage": ""
   }
 ]
