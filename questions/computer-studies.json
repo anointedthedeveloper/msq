@@ -20528,5 +20528,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76822",
     "passage": ""
+  },
+  {
+    "id": 76823,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "An advantage of the Graphical User Interface (GUI) over the Disk Operating System (DOS) is that it allows the use of",
+    "options": {
+      "A": "mouse",
+      "B": "monitor",
+      "C": "keyboard",
+      "D": "diskette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An advantage of the Graphical User Interface (GUI) over the Disk Operating System (DOS) is that it allows the use of a mouse. GUI is a type of user interface that allows users to interact with electronic devices through graphical icons and visual indicators, as opposed to text-based interfaces, typed command labels, or text navigation. One of the main advantages of a GUI is the use of a mouse to navigate and interact with the system, which is not typically available in DOS.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76823",
+    "passage": ""
   }
 ]
