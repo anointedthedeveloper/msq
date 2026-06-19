@@ -2013,5 +2013,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1488",
     "passage": ""
+  },
+  {
+    "id": 1489,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Which of the following statement is correct about the periodic table?",
+    "options": {
+      "A": "Elements  in the same period have the same number of valency electron",
+      "B": "The valence electron of the elements in the same period increase progressively across the period",
+      "C": "Elements in the same group have the same number of electron shells",
+      "D": "The non-metallic properties of the elements tend to decrease across each period"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The valence electron of the elements in the same period increase progressively across the period due to an increase in atomic number\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1489",
+    "passage": ""
   }
 ]
