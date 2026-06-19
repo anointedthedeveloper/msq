@@ -11345,5 +11345,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68509",
     "passage": ""
+  },
+  {
+    "id": 68510,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which conference, held in 1884-1885, laid the groundwork for the partition of Africa among European powers?",
+    "options": {
+      "A": "Congress of Vienna",
+      "B": "Treaty of Tordesillas",
+      "C": "Treaty of Versailles",
+      "D": "Conference of Berlin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Conference of Berlin, also known as the Berlin Conference, was held from 1884 to 1885. It was organized by Otto von Bismarck, the first chancellor of Germany, and involved representatives from various European nations. The main aim of the conference was to divide Africa among the European powers, thereby laying the groundwork for the partition of Africa. This is a significant event in history as it led to the 'Scramble for Africa', where European powers rushed to claim African territories.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68510",
+    "passage": ""
   }
 ]
