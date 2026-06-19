@@ -11788,5 +11788,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64139",
     "passage": ""
+  },
+  {
+    "id": 64306,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the primary purpose of Microsoft Excel?",
+    "options": {
+      "A": "To write essays",
+      "B": "To show a slide presentation",
+      "C": "To solve problems involving numbers",
+      "D": "To keep students updated in the latest Microsoft Office product"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Microsoft Excel is a spreadsheet application designed to perform basic and complex mathematical computations and functions",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64306",
+    "passage": ""
   }
 ]
