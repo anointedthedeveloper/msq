@@ -7159,5 +7159,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13892",
     "passage": ""
+  },
+  {
+    "id": 13893,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "I. The number of neutrons released exceeds the number that caused the fission. II. There is loss of mass. III. Energy is produced. IV. Smaller nuclei merge to form larger nuclei which of the statement above are correct about nuclear fission?",
+    "options": {
+      "A": "II,III and IV only",
+      "B": "I, II and IV only",
+      "C": "I,II and III only",
+      "D": "I, III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "I. The number of neutrons released exceeds the number that caused the fission. fission releases additional neutrons that can initiate further reactions.\nII. There is loss of mass.\nmass is converted into energy according to Einstein’s equation E = mc\\(^2\\)\nIII. Energy is produced.\nsignificant energy is released during the fission process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13893",
+    "passage": ""
   }
 ]
