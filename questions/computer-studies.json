@@ -11536,5 +11536,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64127",
     "passage": ""
+  },
+  {
+    "id": 64128,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What tells the computer how to use its components?",
+    "options": {
+      "A": "utility",
+      "B": "application",
+      "C": "operating system",
+      "D": "network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Operating system being responsible for the running of the computer system, tells the computer how to use its component, and the most suitable component to use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64128",
+    "passage": ""
   }
 ]
