@@ -10139,5 +10139,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65915",
     "passage": ""
+  },
+  {
+    "id": 65916,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following is a cause of political apathy in Nigeria?",
+    "options": {
+      "A": "Adequate citizenship education",
+      "B": "A free and fair election",
+      "C": "Biased electoral umpires",
+      "D": "Adequate political awareness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "People do not participate in politics because they believe that the presence of biased electoral officials will not produce credible results.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65916",
+    "passage": ""
   }
 ]
