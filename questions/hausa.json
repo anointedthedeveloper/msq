@@ -3966,5 +3966,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73878",
     "passage": ""
+  },
+  {
+    "id": 73879,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "'Audu ya fadi a rigingine'. Bayanau a nan shi ne",
+    "options": {
+      "A": "fadi",
+      "B": "a rigingine",
+      "C": "ya fadi",
+      "D": "Audu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The modifier in the sentence \"Audu ya fadi a rigingine\" is: Answer: a rigingine (A rigingine is the modifier indicating the location where the action of the verb \"fadi\" occurred. Audu is the subject, fadi means \"to fall\", and ya is an auxiliary verb)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73879",
+    "passage": ""
   }
 ]
