@@ -10981,5 +10981,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4311",
     "passage": ""
+  },
+  {
+    "id": 4312,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What volume of 1.5M solution of KOH would contain 0.045 moles",
+    "options": {
+      "A": "67.50 cm 3",
+      "B": "30.00 cm 3",
+      "C": "6.75 cm 3",
+      "D": "3.00 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4312",
+    "passage": ""
   }
 ]
