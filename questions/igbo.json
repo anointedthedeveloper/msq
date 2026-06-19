@@ -2307,5 +2307,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73791",
     "passage": ""
+  },
+  {
+    "id": 73792,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What name is scorpion called in Igbo?",
+    "options": {
+      "A": "Awo",
+      "B": "Agwọ",
+      "C": "Ahụhụ",
+      "D": "Akpị"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Akpị (which means \"scorpion\" in Igbo). The question asks what \"scorpion\" is called in Igbo, and the answer is \"Akpị\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73792",
+    "passage": ""
+  },
+  {
+    "id": 73793,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How do you greet somebody who is returning from a journey in Igbo?",
+    "options": {
+      "A": "Nnọọ",
+      "B": "Ịjẹ ọma",
+      "C": "Daalụ",
+      "D": "Ndewo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Nnọọ (which is a greeting used when someone returns from a journey). The question asks how to greet someon who is returning from a journey, and the answer is \"Nnọọ\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73793",
+    "passage": ""
   }
 ]
