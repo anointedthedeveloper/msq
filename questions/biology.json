@@ -2902,5 +2902,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1250",
     "passage": ""
+  },
+  {
+    "id": 1251,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Where is the food stored in yam plant?",
+    "options": {
+      "A": "stem",
+      "B": "Bud",
+      "C": "Adventitous root",
+      "D": "Leaves",
+      "E": "Tap root"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1251",
+    "passage": ""
   }
 ]
