@@ -1519,5 +1519,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48184",
     "passage": ""
+  },
+  {
+    "id": 48185,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Les enfants jouent dans la ...de l'ecole",
+    "options": {
+      "A": "cours",
+      "B": "courte",
+      "C": "court",
+      "D": "cour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48185",
+    "passage": ""
   }
 ]
