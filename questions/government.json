@@ -3086,5 +3086,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1543",
     "passage": ""
+  },
+  {
+    "id": 1544,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The headquarters of the International Court of Justice is in",
+    "options": {
+      "A": "Washington,D.C",
+      "B": "Paris",
+      "C": "London",
+      "D": "The Hague"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1544",
+    "passage": ""
   }
 ]
