@@ -4352,5 +4352,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62274",
     "passage": ""
+  },
+  {
+    "id": 62275,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is a valid e-mail address?",
+    "options": {
+      "A": "www.itbeginswithu.org",
+      "B": "waeconline@yahoo.co.uk",
+      "C": "www.waeconline.org",
+      "D": "www.fine.gov.ng"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An Email address must consist of 4 components: the username, @, the domain name, and the domain name identifier . If an email address is missing any of these components, it will be invalid, and there will be no inbox for messages. An example is waeconline@yahoo.co.uk",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62275",
+    "passage": ""
   }
 ]
