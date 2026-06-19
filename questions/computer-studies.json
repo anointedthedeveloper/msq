@@ -20570,5 +20570,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76824",
     "passage": ""
+  },
+  {
+    "id": 76825,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following programming languages needs no translator for it to run?",
+    "options": {
+      "A": "Assembly Language",
+      "B": "Machine Language",
+      "C": "High Level Language",
+      "D": "Low Level Language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Machine language is the only programming language that a computer can understand without a translator. It is written in binary and is directly executed by the computer. High-level languages and assembly languages need to be translated into machine language before they can be run. Therefore, machine language is the correct answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76825",
+    "passage": ""
   }
 ]
