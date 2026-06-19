@@ -8209,5 +8209,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3295",
     "passage": ""
+  },
+  {
+    "id": 3296,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Water has the ability to dissolve almost all substance because its molecules has a structure with",
+    "options": {
+      "A": "one positive end and one neutral end",
+      "B": "one positive end and one negative end",
+      "C": "two negative ends",
+      "D": "two positive ends"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Water is considered a \"universal solvent\" because of its polar molecular structure, which allows it to dissolve a wider range of substances than most other liquids due to its ability to interact with both positive and negative charges of other molecules, effectively breaking them apart and dissolving them in water; essentially, it can dissolve more substances than any other liquid.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3296",
+    "passage": ""
   }
 ]
