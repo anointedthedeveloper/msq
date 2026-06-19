@@ -4155,5 +4155,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1757",
     "passage": ""
+  },
+  {
+    "id": 1758,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "25cm\\(^3\\) of a 0.2 mol dm\\(^3\\) solution of Na\\(_2\\)CO\\(_3\\) requires 20 cm\\(^3\\) of a solution of HCl for neutralization. The concentration of the HCl solution is",
+    "options": {
+      "A": "0.5 mol dm 3",
+      "B": "0.6 mol dm 3",
+      "C": "0.2 mol dm 3",
+      "D": "0.4 mol dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "First, write a balanced chemical equation or the reaction:\nNa\\(_2\\)CO\\(_3\\) +  2HCl →  2NaCl  +   H\\(_2\\)O +  CO\\(_2\\)\nFrom the balanced equation, we can deduce that N\\(_A\\) = 2 , N\\(_B\\) = 1\nWe were also given from the question, C\\(_A\\) = ?  C\\(_B\\) = 0.2 mol/dm\\(^3\\)  V\\(_A\\) = 20cm\\(^3\\)  V\\(_B\\) = 25 cm\\(^3\\)\nUsing the relationship,   \\(\\frac{C_A  V_A}{C_B V_B}\\) = \\(\\frac{N_A}{N_B}\\)\nC\\(_A\\) = \\(\\frac{C_B V_B N_A}{V_A N_B}\\)\nC\\(_A\\) =  \\(\\frac{0.2 X 25 X 2}{20 X 1}\\)  =  0.5 mol/dm\\(^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1758",
+    "passage": ""
   }
 ]
