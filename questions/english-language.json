@@ -11657,5 +11657,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4439",
     "passage": ""
+  },
+  {
+    "id": 4440,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the option nearest in meaning to the underlined word or phrase: Many states practise the ideals of democracy.",
+    "options": {
+      "A": "government by election",
+      "B": "government by representative",
+      "C": "government by civilians",
+      "D": "government by all the people",
+      "E": "oligarchy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Democracy is a system of government where power rests with the people Therefore \"government by all the people\" is a synonym for \"democracy\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4440",
+    "passage": ""
   }
 ]
