@@ -5191,5 +5191,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75880",
     "passage": ""
+  },
+  {
+    "id": 75886,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"froid\" est associé à :",
+    "options": {
+      "A": "le feu",
+      "B": "la chaleur",
+      "C": "le soleil",
+      "D": "la glace"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Froid\" means cold, and \"glace\" (ice) is connected to it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75886",
+    "passage": ""
   }
 ]
