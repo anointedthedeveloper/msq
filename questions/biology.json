@@ -4596,5 +4596,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2295",
     "passage": ""
+  },
+  {
+    "id": 2296,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "If the gall bladder of a man is removed by surgery, which of the following processes will be most seriously affected?",
+    "options": {
+      "A": "Digestion of fats and oil",
+      "B": "Formation of urea",
+      "C": "Digestion of starch",
+      "D": "Conversion of protein",
+      "E": "Storage and release of the urine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The gallbladder stores and releases bile to help the digestive system break down fats/oil. Without a gallbladder, it will be very difficult for the body to digest fat and oil",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2296",
+    "passage": ""
   }
 ]
