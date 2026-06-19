@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1513",
     "passage": ""
+  },
+  {
+    "id": 2005,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The driving mirror of a car has a radius of curvature of 1m. A vehicle behind the car is 4m from the mirror. Find the image distance behind the mirror.",
+    "options": {
+      "A": "8/7",
+      "B": "4/9",
+      "C": "9/2",
+      "D": "4/7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Thus if r = 1m f = 1/2 =  0.5m ∴ if U = - 4m (object behind mirror) f = 0.5m\n\\(\\frac{1}{u}\\) + \\(\\frac{1}{v}\\) =  \\(\\frac{1}{f}\\)\n-\\(\\frac{1}{4}\\) + \\(\\frac{1}{v}\\) = \\(\\frac{1}{0.5}\\)\n\\(\\frac{1}{v}\\) = 2 + \\(\\frac{1}{4}\\)\n\\(\\frac{1}{v}\\) = \\(\\frac{1+ 8}{4}\\)\n\\(\\frac{1}{v}\\) = \\(\\frac{9}{4}\\)\nv = \\(\\frac{4}{9}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/2005",
+    "passage": ""
   }
 ]
