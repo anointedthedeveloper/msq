@@ -9217,5 +9217,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3844",
     "passage": ""
+  },
+  {
+    "id": 3845,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "How many electrons are in the L shell of \\(^{31}_{15}\\)P?",
+    "options": {
+      "A": "5",
+      "B": "8",
+      "C": "18",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "N.B :\nAtomic number = no. of protons = no. of electrons = 15\nOrbital configuration of the neutral atom of the element = 2, 8, 5 which represents the shells starting from the first which is K, L, M respectively. i.e\nK = 2, L = 8 , M = 5.\nTherefore, the L - shell has 8 electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3845",
+    "passage": ""
   }
 ]
