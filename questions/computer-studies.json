@@ -1656,5 +1656,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61410",
     "passage": ""
+  },
+  {
+    "id": 61411,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following statements about URL is true? It is",
+    "options": {
+      "A": "a computer software program",
+      "B": "a type of web server",
+      "C": "an acronym for unlimited resources for learning",
+      "D": "the address of document or 'page' on the world wide web"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61411",
+    "passage": ""
   }
 ]
