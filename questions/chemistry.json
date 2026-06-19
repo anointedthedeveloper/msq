@@ -13981,5 +13981,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12840",
     "passage": ""
+  },
+  {
+    "id": 12848,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "In a reaction: \\(SnO_{2} + 2C → Sn + 2CO\\) the mass of coke containing 80% carbon required to reduce 0.302 kg of pure tin oxide is? (Sn - 119, O - 16, C - 12).",
+    "options": {
+      "A": "0.40 kg",
+      "B": "0.20 kg",
+      "C": "0.06 kg",
+      "D": "0.04 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the reaction: \\(SnO_{2} + 2CO\\) From the equation above 2(12 g) carbon = 151 g \\(SnO_{2}\\)\n24 g carbon =151 g \\(SnO_{2}\\) = 0.302 kg \\(SnO_{2}\\) = 24/151g χ 0.0302 kg carbon = 0.048 kg carbon Mass of coke is required not mass of carbon,so it is (0.048\\(\\times\\)100)\\(\\div\\)80 = 0.06",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12848",
+    "passage": ""
   }
 ]
