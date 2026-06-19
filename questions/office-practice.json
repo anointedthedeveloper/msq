@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66085",
     "passage": ""
+  },
+  {
+    "id": 66087,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A meeting conducted yearly by companies is",
+    "options": {
+      "A": "extra ordinary meeting",
+      "B": "staff meeting",
+      "C": "annual general meeting",
+      "D": "board meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Annual general meeting: This is a compulsory meeting which all companies are required by law to hold once in a year. The law stipulates that the gap between two such meetings should not exceed fifteen months. It is conducted yearly by the companies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66087",
+    "passage": ""
   }
 ]
