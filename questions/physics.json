@@ -16131,5 +16131,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24265",
     "passage": ""
+  },
+  {
+    "id": 24266,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In an experiment to measure1 the focal length f of a converging lens object distances u and corresponding image distance were measured and 1/u plotted against 1/v to obtain the graph illustrated. How would f be determined from this graph?",
+    "options": {
+      "A": "f= the slope of the graph",
+      "B": "f= the intercept on the 1/u axis",
+      "C": "f =the intercept on the 1/v axis",
+      "D": "f = reciprocal of the slope",
+      "E": "f = reciprocal of the intercept on either axes"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15247925022_wcphy199225.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892201/myschool/physics/15247925022_wcphy199225.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24266",
+    "passage": ""
   }
 ]
