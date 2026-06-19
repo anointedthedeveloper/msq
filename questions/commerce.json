@@ -5417,5 +5417,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2012",
     "passage": ""
+  },
+  {
+    "id": 2013,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "After registration, a certificate of trading is usually issued to a",
+    "options": {
+      "A": "partnership",
+      "B": "public company",
+      "C": "private company",
+      "D": "sole proprietorship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2013",
+    "passage": ""
   }
 ]
