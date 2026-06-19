@@ -2791,5 +2791,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68281",
     "passage": ""
+  },
+  {
+    "id": 68283,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Recreational activities are meant to be done during ___",
+    "options": {
+      "A": "busy time",
+      "B": "leisure time",
+      "C": "bed time",
+      "D": "anytime"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Recreation refers to all those activities that people choose to do to refresh their bodies and minds and make their leisure time more interesting and enjoyable. Examples of recreation activities are walking, swimming, meditation, reading, playing games and dancing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68283",
+    "passage": ""
   }
 ]
