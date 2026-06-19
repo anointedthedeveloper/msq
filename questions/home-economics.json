@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73194",
     "passage": ""
+  },
+  {
+    "id": 73195,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Graphic designers communicate information that can be",
+    "options": {
+      "A": "Shown and felt",
+      "B": "Seen and read",
+      "C": "Printed and read",
+      "D": "Seen and heard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Graphic designers create visual communications that are intended to be seen and read, such as:\nLogos Typography Images Graphics Text\nTheir work is primarily visual and designed to convey information, ideas, and messages through a combination of text and images. While graphic designers may also work on projects that incorporate sound or touch (such as interactive displays or packaging design), the primary focus of their work is on visual communication that can be seen and read .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73195",
+    "passage": ""
   }
 ]
