@@ -10690,5 +10690,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14381",
     "passage": ""
+  },
+  {
+    "id": 14382,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "From the diagram above, the bob of the pendulum has the fastest speed at",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "W"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24548406732_phy20075.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890708/myschool/physics/24548406732_phy20075.jpg",
+    "correct_answer": "A",
+    "explanation": "The ball has its fastest speed at its equilibrium position when its displacement X = 0, which is at X. At this point, the bob has maximum velocity and maximum kinetic energy.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14382",
+    "passage": ""
   }
 ]
