@@ -771,5 +771,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48148",
     "passage": ""
+  },
+  {
+    "id": 48149,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Quelle est la population des pêcheurs francias?",
+    "options": {
+      "A": "2,5 millions",
+      "B": "environ 7,5 millions",
+      "C": "7 millions",
+      "D": "5 millions"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2uNm9R31SQ5Y2SvZk4M44EbOFfF4n0aWzaflq9WE.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890621/myschool/french/2uNm9R31SQ5Y2SvZk4M44EbOFfF4n0aWzaflq9WE.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48149",
+    "passage": ""
   }
 ]
