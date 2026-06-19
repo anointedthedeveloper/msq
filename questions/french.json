@@ -3532,5 +3532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71216",
     "passage": ""
+  },
+  {
+    "id": 71217,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.Tu bois de la Limonade. ton anniversaire.",
+    "options": {
+      "A": "tous",
+      "B": "chacun",
+      "C": "pendant",
+      "D": "combien"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The preposition \"pendant\" indicates the time of the action. his sentence is saying \"You drink lemonade during your birthday.\" The preposition \"pendant\" indicates the time of the action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71217",
+    "passage": ""
   }
 ]
