@@ -7432,5 +7432,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3221",
     "passage": ""
+  },
+  {
+    "id": 3227,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The density of a certain gas is 1.98gdm\\(^{-3}\\) at s.t.p. What is the molecular mass of the gas?",
+    "options": {
+      "A": "44.0 g",
+      "B": "54.0 g",
+      "C": "26.0 g",
+      "D": "31.0 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Density = \\(\\frac{mass}{volume}\\)\nRecall that the molar volume of gases at s.t.p = 22.4 dm\\(^3\\) ∴ 1.98 = \\(\\frac{mass}{22.4}\\) Mass = 1.98 x 22.4\nMolecular mass = 44.35g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3227",
+    "passage": ""
   }
 ]
