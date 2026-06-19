@@ -1,0 +1,23 @@
+[
+  {
+    "id": 295,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The inner diameter of a test tube can be measured accurately using a?",
+    "options": {
+      "A": "micrometer screw guage",
+      "B": "pair of dividers",
+      "C": "metre rule",
+      "D": "pair of vernier calipers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A Vernier caliper is an instrument used to measure both the outer and inner diameters of a tube.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/295",
+    "passage": ""
+  }
+]
