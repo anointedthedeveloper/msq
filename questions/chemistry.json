@@ -4701,5 +4701,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2151",
     "passage": ""
+  },
+  {
+    "id": 2152,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If 0.75 mole of cyclopropane and 0.66 mole of oxygen are mixed in vessel with a total pressure of 0.7 atmosphere, what is the partial pressure of oxygen in the mixture",
+    "options": {
+      "A": "0.44 atmosphere",
+      "B": "0.22 atmosphere",
+      "C": "0.55 atmosphere",
+      "D": "0.33 atmosphere"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Parameters given:\nNumber of moles of Cyclopropane, N\\(_c\\) = 0.75 mole\nNumber of moles of Oxygen, N\\(_o\\) = 0.66 mole\nTotal pressure of mixture of gases, P\\(_T\\) = 0.70 atm\nPartial pressure of Oxygen in the mixture, P\\(_O\\) = ?\nUsing the formula,  P\\(_O\\) = \\(\\frac{N_o}{{N_o} + {N_c}}\\) X P\\(_T\\)\n= \\(\\frac{0.66}{{0.66} + {0.75}}\\) X 0.70\n= \\(\\frac{0.66}{1.41}\\) X 0.70\n= 0.3276\n= 0.33 atm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2152",
+    "passage": ""
   }
 ]
