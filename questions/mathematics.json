@@ -11317,5 +11317,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22196",
     "passage": ""
+  },
+  {
+    "id": 22199,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A rope of length 18m is used to form a sector of a circle of radius 3.5m on a school playing field. What is the size of the angle of the sector, correct to the nearest degree?",
+    "options": {
+      "A": "33 o",
+      "B": "40 o",
+      "C": "90 o",
+      "D": "180 o",
+      "E": "270 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Circumference = 2πr 2 x 22/7 x 3.5 ≅ 22m 22m = 360o 11m = 360/22 x 11  = 180o",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22199",
+    "passage": ""
   }
 ]
