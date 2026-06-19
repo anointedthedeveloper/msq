@@ -3715,5 +3715,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12037",
     "passage": ""
+  },
+  {
+    "id": 12038,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The electromagnetic wave that can produce a heating effect on the environment is",
+    "options": {
+      "A": "x -rays",
+      "B": "ultraviolet rays",
+      "C": "infrared rays",
+      "D": "gamma rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Infrared rays produce a high heating effect. All red-hot bodies such as a heated iron ball, flame, and fire are sources of infrared rays.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12038",
+    "passage": ""
   }
 ]
