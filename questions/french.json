@@ -4981,5 +4981,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75870",
     "passage": ""
+  },
+  {
+    "id": 75871,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le féminin de \"acteur\" est :",
+    "options": {
+      "A": "actrice",
+      "B": "actère",
+      "C": "acteuse",
+      "D": "acteurre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The feminine form of \"acteur\" in French is \"actrice\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75871",
+    "passage": ""
   }
 ]
