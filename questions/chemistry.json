@@ -4995,5 +4995,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2254",
     "passage": ""
+  },
+  {
+    "id": 2256,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Which of the following ions is acidic?",
+    "options": {
+      "A": "K +",
+      "B": "KNO 3 -",
+      "C": "S 2-",
+      "D": "H 3 O +"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Acids are substances which produces hydrogen ions (or protons) as the only positive ion when dissolved in water.\n\\(H_{3}O^{+} \\to 2H^{+} + OH^{-}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2256",
+    "passage": ""
   }
 ]
