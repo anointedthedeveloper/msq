@@ -2852,5 +2852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49943",
     "passage": ""
+  },
+  {
+    "id": 49944,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A document used to provide evidence of insurance if the policy document is not imediately available is",
+    "options": {
+      "A": "certificate",
+      "B": "cover note",
+      "C": "proposal form",
+      "D": "endorsement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A cover note a temporary certificate showing that a person has a current insurance policy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49944",
+    "passage": ""
   }
 ]
