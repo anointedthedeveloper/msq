@@ -1845,5 +1845,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/620",
     "passage": ""
+  },
+  {
+    "id": 634,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentences:\nJane asked James ....",
+    "options": {
+      "A": "whether could she meet him later",
+      "B": "could she meet him later",
+      "C": "if she could meet him later",
+      "D": "she could meet him later",
+      "E": "that she could meet him later"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/634",
+    "passage": ""
   }
 ]
