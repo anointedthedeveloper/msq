@@ -6361,5 +6361,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9036",
     "passage": ""
+  },
+  {
+    "id": 9037,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Find the value of k if the expression kx\n3\n+ x\n2\n- 5x - 2 leaves a remainder 2 when it is divided by 2x + 1",
+    "options": {
+      "A": "10",
+      "B": "8",
+      "C": "-10",
+      "D": "-8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9037",
+    "passage": ""
   }
 ]
