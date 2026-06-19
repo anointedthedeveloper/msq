@@ -2665,5 +2665,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3374",
     "passage": ""
+  },
+  {
+    "id": 3375,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If tan θ = 4/3, calculate sin\\(^2\\) θ - cos\\(^2\\) θ.",
+    "options": {
+      "A": "16/25",
+      "B": "24/25",
+      "C": "7/25",
+      "D": "9/25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\tan \\theta = \\frac{opposite}{adjacent} = \\frac{4}{3}\\)\nHyp\\(^2\\) = 4\\(^2\\) + 3\\(^2\\)\nHyp = 5.\n\\(\\sin \\theta = \\frac{4}{5}; \\cos \\theta = \\frac{3}{5}\\)\n\\(\\sin^{2} \\theta - \\cos^{2} \\theta = \\frac{16}{25} - \\frac{9}{25}\\)\n= \\(\\frac{7}{25}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3375",
+    "passage": ""
   }
 ]
