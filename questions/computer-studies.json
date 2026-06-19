@@ -13909,5 +13909,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64430",
     "passage": ""
+  },
+  {
+    "id": 64432,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computers that are portable and convenient for users who travel are known as _________________",
+    "options": {
+      "A": "Super computers",
+      "B": "Laptops",
+      "C": "Mini computers",
+      "D": "File servers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A laptop computer is a personal computer for mobile use. It has most of the same components as a desktop computer, including a display, a keyboard, a pointing device such as a touchpad (also known as a trackpad) and/or a pointing stick, and speakers into a single unit. A laptop is powered by mains electricity via an AC adapter, and can be used away from an outlet using a rechargeable battery. Laptops are also sometimes called notebook computers, notebooks, ultrabooks or netbooks. This could also be referred to as portable computers as they are easy to carry around.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64432",
+    "passage": ""
   }
 ]
