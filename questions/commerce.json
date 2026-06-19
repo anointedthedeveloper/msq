@@ -14721,5 +14721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7439",
     "passage": ""
+  },
+  {
+    "id": 7441,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A customer with XYZ Plc sent money through his account to his sister's account in another branch. This is an example of?",
+    "options": {
+      "A": "e-business",
+      "B": "e-commerce",
+      "C": "e-finance",
+      "D": "e-banking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "E-banking is a method of banking in which a bank customer conducts financial transactions electronically via the internet. With the e-banking platforms, a customer can send money from their accounts to any other bank without being physically present in the bank.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7441",
+    "passage": ""
   }
 ]
