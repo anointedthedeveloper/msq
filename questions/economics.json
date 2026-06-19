@@ -3891,5 +3891,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2500",
     "passage": ""
+  },
+  {
+    "id": 2502,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Progressive income tax can be expressed as",
+    "options": {
+      "A": "tax that falls as income rises",
+      "B": "tax that rises as income falls",
+      "C": "tax that is independent of income",
+      "D": "tax that rises as income rises",
+      "E": "tax that is neutral to income"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A progressive tax takes a larger percentage of income from people with larger income. It reduces inequality of income from people with larger incomes. It reduces inequality of income distribution eg Pay As You Earn (P.A.Y.E.)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2502",
+    "passage": ""
   }
 ]
