@@ -6843,5 +6843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2958",
     "passage": ""
+  },
+  {
+    "id": 2959,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A concentrated solution containing H\\(^+\\), Cu\\(^{2+}\\), OH\\(^-\\) and Cl\\(^-\\) was electrolyzed using platinum electrodes. The ion that will be discharged at the cathode is?",
+    "options": {
+      "A": "Cu 2+",
+      "B": "Cl -",
+      "C": "H +",
+      "D": "OH -"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the electrolysis of a concentrated solution containing H\\(^+\\), Cu\\(^{2+}\\), OH\\(^-\\) and Cl\\(^-\\) ions using platinum electrodes, the Cu\\(^{2+}\\) ions will be discharged at the cathode.\nDuring electrolysis, ions migrate towards the oppositely charged electrode. Positive ions (cations) like H\\(^+\\) and Cu\\(^{2+}\\) will be attracted to the negative electrode (cathode).\nAt the cathode, the ion that is easier to reduce (requires less energy to gain electrons) will be discharged first. In this case, Cu\\(^{2+}\\) ions are more easily reduced to Cu(s) than H\\(^+\\) ions are to H\\(_2\\)(g).\nThe reaction at the cathode will be the reduction of Cu\\(^{2+}\\) ions: Cu\\(^{2+}\\)(aq) + 2e\\(^-\\) → Cu(s).\nAnode reaction: The reaction at the anode will be the oxidation of water: 2H\\(_2\\)O(l) → O\\(_2\\)(g) + 4H\\(^+\\)(aq) + 4e-\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2959",
+    "passage": ""
   }
 ]
