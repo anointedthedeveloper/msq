@@ -10161,5 +10161,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4201",
     "passage": ""
+  },
+  {
+    "id": 4202,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question below choose the expression or word which best completes each sentence : The chairman of the state school board has advised students to desist ..... blackmailing college authorities",
+    "options": {
+      "A": "from",
+      "B": "in",
+      "C": "on",
+      "D": "against",
+      "E": "by"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The word \"desist\" is typically followed by the preposition \"from\" when expressing a cessation or avoidance of a particular action. In this context, \"desist from\" means to refrain or stop engaging in the action of blackmailing college authorities.\nSo, the appropriate completion for the sentence is \"advised students to desist from blackmailing college authorities.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4202",
+    "passage": ""
   }
 ]
