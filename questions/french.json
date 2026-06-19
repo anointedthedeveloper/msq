@@ -4372,5 +4372,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75417",
     "passage": ""
+  },
+  {
+    "id": 75418,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "D'après lui, l'habit ne fait pas le",
+    "options": {
+      "A": "style",
+      "B": "prêtre",
+      "C": "riche",
+      "D": "moine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The complete French proverb is \"L'habit ne fait pas le moine\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75418",
+    "passage": ""
   }
 ]
