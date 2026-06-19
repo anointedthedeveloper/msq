@@ -2118,5 +2118,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1493",
     "passage": ""
+  },
+  {
+    "id": 1494,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The distance between the nuclei of chlorine atoms in a chlorine molecule is 0.194 mm. The atomic radius of chlorine atom is",
+    "options": {
+      "A": "0.097 mm",
+      "B": "0.194 mm",
+      "C": "0.388 mm",
+      "D": "2.388 mm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To determine the atomic radius, just divide the distance between the nuclei of the chlorine atoms by 2. i.e  0.194 / 2 = 0.097mm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1494",
+    "passage": ""
   }
 ]
