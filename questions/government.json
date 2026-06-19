@@ -11844,5 +11844,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/15683",
     "passage": ""
+  },
+  {
+    "id": 15686,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A Nigeria citizen can only be deprived of his citizenship if he is",
+    "options": {
+      "A": "condemned to death",
+      "B": "convicted by a court of law",
+      "C": "married to a foreigner",
+      "D": "holding a dual citizenship",
+      "E": "an armed robber"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The 1999 Constitution of Nigeria (Section 30) states that citizenship may be deprived only for those who acquired it by registration or naturalisation (not by birth). The grounds include:\nIf the person is convicted by a court of law for a criminal offence punishable by imprisonment of three years or more , within seven years of becoming a citizen. If the person obtained citizenship by fraud or false representation . If the person shows disloyalty to Nigeria or acts contrary to its interests.\nThe Constitution does not mention death sentences as a ground for deprivation. Marriage has no effect on Nigerian citizenship. Nigerians by birth can hold dual citizenship. Only naturalised/registered citizens face restrictions. Being an armed robber alone does not automatically remove citizenship; only a court conviction for a serious crime does.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/15686",
+    "passage": ""
   }
 ]
