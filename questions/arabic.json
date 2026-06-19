@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75287",
     "passage": ""
+  },
+  {
+    "id": 75291,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "كلمة \"منزل\" على وزن؟",
+    "options": {
+      "A": "مفعلة",
+      "B": "مقعل",
+      "C": "فعال",
+      "D": "مفعول"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Jjis\" (manzil - house/home) is indeed derived from the root Jj and follows the morphological pattern \"Jaks\" (maf il), which is commonly used for nouns of place or instrument.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75291",
+    "passage": ""
   }
 ]
