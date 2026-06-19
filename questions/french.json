@@ -2944,5 +2944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71098",
     "passage": ""
+  },
+  {
+    "id": 71189,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option juste Combien de saisons y a t-il au Nigéria?",
+    "options": {
+      "A": "Cing",
+      "B": "Deux",
+      "C": "Trois",
+      "D": "Quatorze"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Nigeria, like most countries in West Africa, has three main seasons: the rainy season, the dry season, and the harmattan season. Therefore the correct answer is trois (three)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71189",
+    "passage": ""
   }
 ]
