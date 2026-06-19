@@ -4849,5 +4849,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8223",
     "passage": ""
+  },
+  {
+    "id": 8224,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The venn diagram above shows a class of 40 students with the games they play. How many of the students play two games only?",
+    "options": {
+      "A": "19",
+      "B": "16",
+      "C": "15",
+      "D": "4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8134078488_math200511.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868468/myschool/mathematics/8134078488_math200511.jpg",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8224",
+    "passage": ""
   }
 ]
