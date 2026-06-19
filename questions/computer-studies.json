@@ -19272,5 +19272,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72598",
     "passage": ""
+  },
+  {
+    "id": 72599,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Use the devices in Figures 1 and 2 to answer the questions given that the input variables X and Y have values of 0011 and 0101 respectively as shown in Table 1.\n0\n0\n1\n1\n0\n1\n0\n1\nIf the input variable X in Figure 1 is passed through the device in Figure 2 before going into the logic gate in Figure 1, what will be the value of the output Z?",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "1110"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/011JvUkz6rgjOIMRYo0LnpyW77W5WEOrCY8qI9fl.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904753/myschool/computer-studies/011JvUkz6rgjOIMRYo0LnpyW77W5WEOrCY8qI9fl.jpg",
+    "correct_answer": "D",
+    "explanation": "D: (1110)\nThe gate in figure 2 is a NOT gate that inverse the input. It gives 1 when the input is 0 and vice-versa.\nFor input X =  0011,\nwhen it passes through the NOT gate, it becomes 1100\nFor input Y = 0101,\nWhen it passes through the NOT gate, it becomes 1010\n\\(\\overline{X}\\) \\(\\overline{Y}\\) Z 1 1 0 0 1 0 1 0 1 1 1 0\nZ = 1110",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72599",
+    "passage": ""
   }
 ]
