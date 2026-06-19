@@ -1186,5 +1186,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57712",
     "passage": ""
+  },
+  {
+    "id": 57713,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A server is a computer that provides services to other computers called",
+    "options": {
+      "A": "Clients",
+      "B": "Peers",
+      "C": "routers",
+      "D": "switches"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In computing, a client is a piece of computer hardware or software that accesses a service made available by a server as part of the client–server model of computer networks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57713",
+    "passage": ""
   }
 ]
