@@ -5544,5 +5544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62423",
     "passage": ""
+  },
+  {
+    "id": 62424,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Principal uses of word processing software packages include:\nI preparing deft articles for publication\nll pre- paring reports for top management\nIll preparing accounts IV preparing organizations' newsletter.",
+    "options": {
+      "A": "I, III and IV only",
+      "B": "I, II and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, IIl, and IV."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The principal uses of word-processing software packages include: I - Preparing draft articles for publication, II - Preparing reports for top management, IV - Preparing the organization's newsletter",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62424",
+    "passage": ""
   }
 ]
