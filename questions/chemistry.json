@@ -2307,5 +2307,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1534",
     "passage": ""
+  },
+  {
+    "id": 1550,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The pOH of a solution of 0.25 mol dm\\(^{-3}\\) of hydrochloric acid is",
+    "options": {
+      "A": "12.40",
+      "B": "13.40",
+      "C": "14.40",
+      "D": "14.60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "pH = - log [0.25] = - log[ \\(\\frac{25}{100}\\) ] = - (log 25 - log 100)\n= - ( 1.397 - 2)\n= - ( - 0.60)\npH  = 0.60\nN.B : You can use your mathematical table, to check for log 25, if you don't have log on your calculator. Already with our knowledge of lorithm, log 100 = 2.\nThus we were asked to find pOH not pH. However, there is relationship between the two as:\npH  +  pOH  = 14\n0.60  +  pOH = 14\npOH = 14 - 0.60\npOH = 13.40\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1550",
+    "passage": ""
   }
 ]
