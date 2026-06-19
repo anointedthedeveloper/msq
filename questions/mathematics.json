@@ -10481,5 +10481,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22012",
     "passage": ""
+  },
+  {
+    "id": 22014,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Find the 8th term of the A.P -3, -1, 1 ......",
+    "options": {
+      "A": "13",
+      "B": "11",
+      "C": "-8",
+      "D": "-11",
+      "E": "-17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "n",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22014",
+    "passage": ""
   }
 ]
