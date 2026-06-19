@@ -614,5 +614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/149",
     "passage": ""
+  },
+  {
+    "id": 150,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The last plague inflicted upon the Egyptians was",
+    "options": {
+      "A": "the changing of all the rivers into blood",
+      "B": "the influx of frogs into the land of Egypt",
+      "C": "the invasion of flies",
+      "D": "the covering of the land of Egypt with water",
+      "E": "the death of all the first born of the Egyptians"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/150",
+    "passage": ""
   }
 ]
