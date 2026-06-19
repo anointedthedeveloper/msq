@@ -5163,5 +5163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58990",
     "passage": ""
+  },
+  {
+    "id": 58991,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "One example of web design package is",
+    "options": {
+      "A": "MS FrontPage",
+      "B": "MS Outlook",
+      "C": "Peachtree",
+      "D": "SPSS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Microsoft FrontPage : It is a web tool that allows users to create custom websites without knowing HTML code. It helps you manage the pages on your web and create and edit web pages in a What-You-See-Is-What-You-Get (WYSIWYG) fashion while MS Outlook, Peachtree(an accounting software), and SPSS (It is a suite of software programs that analyze scientific data related to the social sciences) are not.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58991",
+    "passage": ""
   }
 ]
