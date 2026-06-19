@@ -1740,5 +1740,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1475",
     "passage": ""
+  },
+  {
+    "id": 1476,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following is a solvent for perfumes?",
+    "options": {
+      "A": "C 5 H 12",
+      "B": "C 4 H 6",
+      "C": "CH 3 COOH",
+      "D": "C 2 H 5 OH"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1476",
+    "passage": ""
   }
 ]
