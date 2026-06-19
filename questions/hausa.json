@@ -3861,5 +3861,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73873",
     "passage": ""
+  },
+  {
+    "id": 73874,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "(same passage)\nWare bare dangane da masu sarautar gini",
+    "options": {
+      "A": "Galadima",
+      "B": "Sarki",
+      "C": "Madaki",
+      "D": "Dangaladima"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dangaladima. The text mentions that Dangaladima is the leader of the blacksmiths, and the question asks about the leader of the builders (masu sarautar gini)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73874",
+    "passage": ""
   }
 ]
