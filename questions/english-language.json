@@ -3649,5 +3649,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1956",
     "passage": ""
+  },
+  {
+    "id": 1957,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the\nbest option\nto fill the gaps in the following sentences\n:\nI am travelling by the 6:30 train tomorrow morning. Will you .... me ....?",
+    "options": {
+      "A": "see/off",
+      "B": "look/up",
+      "C": "take/down",
+      "D": "see/to",
+      "E": "put/up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1957",
+    "passage": ""
   }
 ]
