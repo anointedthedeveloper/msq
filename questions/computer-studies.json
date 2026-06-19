@@ -11809,5 +11809,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64306",
     "passage": ""
+  },
+  {
+    "id": 64308,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In Microsoft Excel, sheet tabs can be renamed by ______",
+    "options": {
+      "A": "Double-clicking any column",
+      "B": "Double-clicking any row",
+      "C": "Double-clicking on the sheet tab; entering the new name",
+      "D": "Going to File, and clicking Save As"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This is the quickest way to rename a sheet. Double left click on the sheet tab which you would like to rename.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64308",
+    "passage": ""
   }
 ]
