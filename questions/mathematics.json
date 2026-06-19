@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/573",
     "passage": ""
+  },
+  {
+    "id": 576,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If \\(P344_{6} - 23P2_{6} = 2PP2_{6}\\), find the value of the digit P.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Convert everything to base 10 and collect like terms, such that\n\\(210P - 42P = 434 + 406\\)\n\\(168P = 840\\)\n\\(P = 840/168 = 5\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/576",
+    "passage": ""
   }
 ]
