@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/223",
     "passage": ""
+  },
+  {
+    "id": 224,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The use of the folio in the ledger is for",
+    "options": {
+      "A": "referencing purposes",
+      "B": "particulars of the transaction",
+      "C": "the account titles",
+      "D": "only credit items"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The folio number is a way to reference a bookkeeping entry, most often numbered in chronological or sequential order.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/224",
+    "passage": ""
   }
 ]
