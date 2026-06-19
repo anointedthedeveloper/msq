@@ -8986,5 +8986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9332",
     "passage": ""
+  },
+  {
+    "id": 9333,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What is the locus of the mid-point of all the chords of length 6cm with circle of radius 5cm and with center O?",
+    "options": {
+      "A": "A circle of radius 4 cm and the center 0",
+      "B": "The perpendicular bisector of the chords",
+      "C": "A straight line passing through 0",
+      "D": "A circle of radius 6 cm and with center 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\) + 3\\(^3\\) = 5\\(^2\\) x\\(^2\\) + 9 = 25 x\\(^2\\) = 25 – 9 x\\(^2\\) = 16 x = √ 16 = 4 cm ∴ The locus is a circle of radius 4 cm with the center O\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9333",
+    "passage": ""
   }
 ]
