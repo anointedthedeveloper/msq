@@ -16515,5 +16515,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67847",
     "passage": ""
+  },
+  {
+    "id": 67848,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The diagrammatic representation of an algorithm is",
+    "options": {
+      "A": "pseudocodes",
+      "B": "codes",
+      "C": "graphics",
+      "D": "flowchart"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The diagrammatic representation of an algorithm is a flowchart. A flowchart is a type of diagram that represents an algorithm, workflow or process, showing the steps as boxes of various kinds, and their order by connecting them with arrows.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67848",
+    "passage": ""
   }
 ]
