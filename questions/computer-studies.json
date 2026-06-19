@@ -17933,5 +17933,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69862",
     "passage": ""
+  },
+  {
+    "id": 69863,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "a - A principal asked the secretary to typeset a document containing some confidential information in Microsoft Word. The principal wants the document to be typed in such a way that when it is opened, the confidential information will be hidden from other users. Highlight the steps the secretary would take to hide the confidential information in the document.\nb - A principal asked the secretary to typeset a document containing some confidential information in Microsoft Word. The principal wants the document to be typed in such a way that when it is opened, the confidential information will be hidden from other users. Outline the steps the principal would take to display the hidden text in 3 (a) for viewing.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a - Select the text that you want to hide. - On the Home tab, in the Font group, click the Font Dialog Box Launcher. - In the Font dialog box, under Effects, select the Hidden check box. - Click OK.\nb - Open the document that contains the hidden text. - On the Home tab, in the Paragraph group, click the Show/Hide button. The Show/Hide button will display a dotted line under any hidden text in the document. The hidden text will also be visible. - To select the hidden text, click on it. The hidden text will be highlighted. - To unhide the hidden text, select it and uncheck the Hidden checkbox in the Font dialog box. The hidden text will now be visible",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69863",
+    "passage": ""
   }
 ]
