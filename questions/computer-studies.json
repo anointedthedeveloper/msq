@@ -18768,5 +18768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71007",
     "passage": ""
+  },
+  {
+    "id": 71010,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which database organization uses parent-child relationships to organize data in a tree-like structure?",
+    "options": {
+      "A": "Relational",
+      "B": "Network",
+      "C": "Hierarchical",
+      "D": "Object oriented"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hierarchical databases organize data in a tree-like structure where each \"parent\" record can have multiple \"child\" records. This structure is suitable for situations where data has a clear superior-subordinate relationship, like a file system on a computer where folders can contain subfolders.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71010",
+    "passage": ""
   }
 ]
