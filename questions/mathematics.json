@@ -6109,5 +6109,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8834",
     "passage": ""
+  },
+  {
+    "id": 8835,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "PQ and RS are two parallel lines. If the coordinates of P, Q, R, S are (1,q), (3,2), (3,4), (5,2q) respectively, find the value of q",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Gradient PQ, P(1,q) and Q(3,2) \\(=\\frac{(2-q)}{(3-1)} = \\frac{(2-q)}{2}\\) Gradient of RS : R(3,4) and S(5,2q) \\(= \\frac{(2q-4)}{(5-3)}= \\frac{(2q-4)}{2} = \\frac{2(q-2)}{2}\\) = q-2 Since PQ and RS are parallel, their gradients are equal \\(∴ \\frac{(2-q)}{2} = q-2\\) 2-q = 2(q-2) 2-q = 2q-4 2+4 = 2q+q 6 = 3q q = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8835",
+    "passage": ""
   }
 ]
