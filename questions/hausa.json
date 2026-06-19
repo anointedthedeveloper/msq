@@ -6941,5 +6941,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75949",
     "passage": ""
+  },
+  {
+    "id": 75951,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Sun karanta littafi.\" Wace kalma ce abin aiki (object)?",
+    "options": {
+      "A": "Sun karanta",
+      "B": "Littafi",
+      "C": "Sun",
+      "D": "Karanta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Littafi\" is the direct object in the sentence being read.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75951",
+    "passage": ""
   }
 ]
