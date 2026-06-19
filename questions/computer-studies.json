@@ -7862,5 +7862,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62557",
     "passage": ""
+  },
+  {
+    "id": 62558,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The process of testing the logic of programs to ensure they give correct result is known as?",
+    "options": {
+      "A": "algorithm",
+      "B": "desk checking",
+      "C": "flowcharting",
+      "D": "table checking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62558",
+    "passage": ""
   }
 ]
