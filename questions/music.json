@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76290",
     "passage": ""
+  },
+  {
+    "id": 76292,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The diatonic interval in the score above is",
+    "options": {
+      "A": "a minor 6th",
+      "B": "diminished 6th",
+      "C": "an augmented 6th",
+      "D": "a major 6th"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/DOk23R78OLAy7LjZSVAlH0Rak9wUatTU4iABf3s3.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890438/myschool/music/DOk23R78OLAy7LjZSVAlH0Rak9wUatTU4iABf3s3.png",
+    "correct_answer": "D",
+    "explanation": "The interval shown in the score is a major 6th . In the musical staff provided, the two notes are Bb (the lower note) and G (the upper note). When counting the steps on the major scale starting from Bb, G is the sixth note. Because there are nine semitones between Bb and G, it is classified as a major sixth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76292",
+    "passage": ""
   }
 ]
