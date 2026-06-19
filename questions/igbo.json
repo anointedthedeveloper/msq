@@ -3293,5 +3293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73839",
     "passage": ""
+  },
+  {
+    "id": 73840,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "How do you greet someone who is working?",
+    "options": {
+      "A": "Ịjẹ ọma",
+      "B": "Daalụ",
+      "C": "Jisie ike",
+      "D": "Ndewo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Jisie ike. \"Jisie ike\" is a common greeting in Igbo, used to encourage and acknowledge someone who is working or engaged in an activity. It roughly translates to \"Use your strength\" or \"May your strength be sufficient for the task\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73840",
+    "passage": ""
   }
 ]
