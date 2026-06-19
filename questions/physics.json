@@ -8839,5 +8839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14158",
     "passage": ""
+  },
+  {
+    "id": 14170,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "At 4°c, the volume of a fixed mass of water is?",
+    "options": {
+      "A": "constant",
+      "B": "minimum",
+      "C": "maximum",
+      "D": "zero"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Anomalous expansion of water is at temperature ranges 0°c to 4°c u. water contract when heated from 0°c to 4°c. thus the volume of water is least at 4°c\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14170",
+    "passage": ""
   }
 ]
