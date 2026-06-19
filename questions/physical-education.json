@@ -4177,5 +4177,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70734",
     "passage": ""
+  },
+  {
+    "id": 70735,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which national competition aims to promote grassroots football development in Nigeria?",
+    "options": {
+      "A": "Nigerian Football League",
+      "B": "Nigerian Premier Football League",
+      "C": "National Principals Cup",
+      "D": "National Youth Sports Festival"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The National Principals Cup aims to promote grassroots football development in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70735",
+    "passage": ""
   }
 ]
