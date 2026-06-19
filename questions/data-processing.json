@@ -8714,5 +8714,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72348",
     "passage": ""
+  },
+  {
+    "id": 72349,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A typist positioned the insertion point at the beginning of a line of text in a word processor and then pressed down the Shift key and clicked at the opposite end of the text. What would be the result of this action? The text will be",
+    "options": {
+      "A": "copied into the clipboard.",
+      "B": "cut into the clipboard.",
+      "C": "deleted from the storage.",
+      "D": "highlighted on the screen."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This action highlights the line of text on the Screen",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72349",
+    "passage": ""
   }
 ]
