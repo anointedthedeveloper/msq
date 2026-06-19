@@ -1208,5 +1208,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/537",
     "passage": ""
+  },
+  {
+    "id": 540,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "A novel can be described as",
+    "options": {
+      "A": "a narration of facts",
+      "B": "a story",
+      "C": "a brief description of a concept or point of view",
+      "D": "an extended prose narrative covering a wide range of characters and experience",
+      "E": "a narration of an incedent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/540",
+    "passage": ""
   }
 ]
