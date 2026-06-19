@@ -6969,5 +6969,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2964",
     "passage": ""
+  },
+  {
+    "id": 2965,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Which of the following are structural isomers?",
+    "options": {
+      "A": "propanoic acid and propan-1, 2-diol",
+      "B": "Propanal and propanone",
+      "C": "Ethanoic acid and propanoic acid",
+      "D": "Ethan-1, 2-diol and ethanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Isomers are two or more compounds having the same molecular formula but different structural formula.\nAmong the options given, only propanal and propanone have the same number of C atoms, Hydrogen atoms and Oxygen atoms even though they have different structural formulas, their molecular formulas are the same, hence they are Isomers.\nPropanal - CH\\(_3\\)CH\\(_2\\)CHO ⇒ C\\(_3\\)H\\(_6\\)O\nPropanone - CH\\(_3\\)COCH\\(_3\\) ⇒ C\\(_3\\)H\\(_6\\)O\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2965",
+    "passage": ""
   }
 ]
