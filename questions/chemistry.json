@@ -2244,5 +2244,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1499",
     "passage": ""
+  },
+  {
+    "id": 1500,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Hydration of ions in solution is associated with",
+    "options": {
+      "A": "absorption of heat",
+      "B": "reduction of heat",
+      "C": "conduction of heat",
+      "D": "liberation of heat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The hydration of ions in solution is associated with the liberation of heat because it's an exothermic process, meaning it releases energy. This is due to the lowering of the potential energy of the ions and water molecules when they form new forces of attraction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1500",
+    "passage": ""
+  },
+  {
+    "id": 1529,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "HCl(aq) + H\\(_2\\)O(l) → H\\(_3\\)O+(aq) + Cl\\(^-\\)(aq) In the reaction above, Cl\\(^-\\)(aq) is the",
+    "options": {
+      "A": "conjugate acid",
+      "B": "acid",
+      "C": "conjugate base",
+      "D": "base"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In water, HCl produces hydrogen ions (H+) because it is an acid. When HCl donates a proton, the negatively charged chloride ion (Cl-) is left behind. However, the chloride ion (Cl-) is the conjugate base of hydrochloric acid (HCl) because it is left over after HCl donates a proton to water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1529",
+    "passage": ""
   }
 ]
