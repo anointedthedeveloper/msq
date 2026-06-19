@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73203",
     "passage": ""
+  },
+  {
+    "id": 73204,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A method for making several identical copies of an artifact is:",
+    "options": {
+      "A": "Drawing",
+      "B": "Painting",
+      "C": "Printing",
+      "D": "Shading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Printing is a method of producing multiple identical copies of an image or design, typically using a master template or mold. This can include techniques such as:\nRelief printing (e.g., woodblock printing) Intaglio printing (e.g., etching) Lithography Screen printing Digital printing",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73204",
+    "passage": ""
   }
 ]
