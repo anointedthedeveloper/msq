@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73177",
     "passage": ""
+  },
+  {
+    "id": 73178,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The purpose of the napkin in table laying is to clean",
+    "options": {
+      "A": "The plates before serving",
+      "B": "Sweat off the face",
+      "C": "The mouth during eating",
+      "D": "The table after eating"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A napkin is a small piece of cloth or paper used to wipe one's mouth and clean hands before and after eating. In table laying, the napkin’s purpose is to provide a hygienic and elegant way to clean the mouth and hands during a meal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73178",
+    "passage": ""
   }
 ]
