@@ -11448,5 +11448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14470",
     "passage": ""
+  },
+  {
+    "id": 14471,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "If the threshold frequency for tungsten is 1.3 x 10\n15\nHz, what is its work function?\n[H = 6.6 x 10\n-34\nJs]",
+    "options": {
+      "A": "8.58 x 10 -19 J",
+      "B": "8.50 x 10 -15 J",
+      "C": "8.58 x 10 -17 J",
+      "D": "8.85 x 10 -18"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14471",
+    "passage": ""
   }
 ]
