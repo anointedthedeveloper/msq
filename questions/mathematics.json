@@ -10943,5 +10943,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22092",
     "passage": ""
+  },
+  {
+    "id": 22093,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "Find the root of the equation 2x\\(^2\\) - 3x - 2 = 0",
+    "options": {
+      "A": "x = -2 or 1/2",
+      "B": "x = -2 or1",
+      "C": "x = -2 or 2",
+      "D": "x = -1 or 2",
+      "E": "x = -1/2 or 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2x\\(^2\\) - 3x - 2 = 0\n2x\\(^2\\) - 4x + x - 2 = 0\n2x(x - 2) + 1(x - 2) = 0\n(2x + 1)(x - 2) = 0\nx = \\(\\frac{-1}{2}\\) or x = 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22093",
+    "passage": ""
   }
 ]
