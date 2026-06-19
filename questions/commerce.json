@@ -14679,5 +14679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7436",
     "passage": ""
+  },
+  {
+    "id": 7438,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The process of eliminating a virus from a computer program is?",
+    "options": {
+      "A": "programming",
+      "B": "debugging",
+      "C": "formating",
+      "D": "looping"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Debugging is the process of identifying and removing errors from computer hardware or software. Debugging is simply remedying a code or mechanical issue that’s causing you difficulties in your computer, and this includes getting rids of a virus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7438",
+    "passage": ""
   }
 ]
