@@ -14602,5 +14602,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64885",
     "passage": ""
+  },
+  {
+    "id": 64886,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "what type of network is represented in the diagram above?",
+    "options": {
+      "A": "local area network",
+      "B": "metropolitan area network",
+      "C": "personal area network",
+      "D": "wide area network"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6DuZDV4VWKDdnHrZEKLNIcdsgXSgm9OZa36INLmg.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903862/myschool/computer-studies/6DuZDV4VWKDdnHrZEKLNIcdsgXSgm9OZa36INLmg.jpg",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64886",
+    "passage": ""
   }
 ]
