@@ -2449,5 +2449,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6202",
     "passage": ""
+  },
+  {
+    "id": 6203,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The elevated feature that runs westwards from the cape near Mito to the western edge of the map is",
+    "options": {
+      "A": "a hill",
+      "B": "a spur",
+      "C": "a ridge",
+      "D": "a cuesta",
+      "E": "a peninsula"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13148876790_13020627_1057687810962552_1132757905_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888127/myschool/geography/13148876790_13020627_1057687810962552_1132757905_n.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6203",
+    "passage": ""
   }
 ]
