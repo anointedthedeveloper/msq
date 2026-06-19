@@ -3017,5 +3017,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73841",
     "passage": ""
+  },
+  {
+    "id": 73842,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Uzochi na-eri nri. Nke a kara ihe n'ọkpụrụ bụ",
+    "options": {
+      "A": "njikọ",
+      "B": "enyemakangwaa",
+      "C": "Ọ",
+      "D": "ngwaa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The answer is enyemakangwaa (which means \"verb\"). The sentence \"Uzochi na-eri nri\" means \"Uzochi is eating food\". The word \"na-eri\" is a verb meaning \"to eat\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73842",
+    "passage": ""
   }
 ]
