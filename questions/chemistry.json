@@ -195,5 +195,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/39",
     "passage": ""
+  },
+  {
+    "id": 40,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When air which contains the gases Oxygen, nitrogen, carbondioxide, water vapour and the rare gases, is passed through alkaline pyrogallol and then over quicklime, the only gases left are?",
+    "options": {
+      "A": "nitrogen and carbondioxide",
+      "B": "the rare gases",
+      "C": "nitrogen and oxygen",
+      "D": "nitrogen and the rare gases",
+      "E": "nitrogen, carbondioxide and the rare gases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- Alkaline solutions of pyrogallol absorb oxygen efficiently.\n- Quicklime have a strong chemical affinity to absorb water.\n- At room temperature, Calcium oxide (CaO) will spontaneously absorb carbon dioxide from the atmosphere.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/40",
+    "passage": ""
   }
 ]
