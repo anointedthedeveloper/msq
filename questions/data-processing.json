@@ -5547,5 +5547,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59108",
     "passage": ""
+  },
+  {
+    "id": 59174,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "(a) Explain the following database management terms; (i) entities (ii) attributes (iii) relationships\n(b)(i) Define cardinality in database management.\n(ii) Mention three cardinality relationships database management.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Entities;- An entity is an object in the system that we want to model and store information about. Entities are usually recognizable concepts either concrete or abstract such as persons, places. things or events which have relevance to the database.\n(ii) Attribute (Characteristics); It is a database component such as a table. It is also seen as a database field, they describe the instances in the row of a database. OR It is a column or field in a database table.\n(iii) Relationships; A relationship in the context of database is a situation that exists between two relational database tables when one table has a foreign key that references the primary key to the other table. A relationship allows relational database to split and store data in different tables, while linking disparate data items.\n(b((i) Cardinality; This refers to the uniqueness of data values contained in a column. High cardinality means that the column contains a large percentage of totally unique values. Low cardinality means that the column contains alot of \"repeals\" in its data range.\n(ii) Three cardinality relationships in database management;\nI. One-to one (1:1) relationship\nII. One-to-many (1-M) relationship\nIII. Many-to-many (M:M) relationship",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59174",
+    "passage": ""
   }
 ]
