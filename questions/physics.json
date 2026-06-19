@@ -14437,5 +14437,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24086",
     "passage": ""
+  },
+  {
+    "id": 24087,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Two forces each of 4 N act on the opposite sides of a rectangular plate as shown in the diagram above. Calculate the magnitude of g the couple acting on the plate.",
+    "options": {
+      "A": "6.4 Nm",
+      "B": "3.2 Nm",
+      "C": "1.6 Nm",
+      "D": "0.8 Nm",
+      "E": "0.0 Nm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/26336019282_wcphy19908.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891768/myschool/physics/26336019282_wcphy19908.jpg",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24087",
+    "passage": ""
   }
 ]
