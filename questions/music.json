@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76319",
     "passage": ""
+  },
+  {
+    "id": 76320,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The pitch in the stave above sounds the same as",
+    "options": {
+      "A": "D",
+      "B": "E",
+      "C": "E flat",
+      "D": "D flat"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/qss5SgLieLM9NIN33uaE3TxBZGXtr9XkklvlWtSb.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890578/myschool/music/qss5SgLieLM9NIN33uaE3TxBZGXtr9XkklvlWtSb.png",
+    "correct_answer": "A",
+    "explanation": "The stave shows an E double-flat (E♭♭). In music, an enharmonic equivalent is a note that sounds the same as another but is named differently. Lowering the note E by two half-steps (two flats) results in the same pitch as a natural D .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76320",
+    "passage": ""
   }
 ]
