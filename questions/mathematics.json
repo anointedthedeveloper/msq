@@ -7516,5 +7516,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9259",
     "passage": ""
+  },
+  {
+    "id": 9260,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Express 123456 to 3 significant figures",
+    "options": {
+      "A": "123000",
+      "B": "124000",
+      "C": "125000",
+      "D": "126000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "NB: This is a correction to the solution in the video lesson. 123456 \\(\\approxeq\\) 123000.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9260",
+    "passage": ""
   }
 ]
