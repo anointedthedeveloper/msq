@@ -3274,5 +3274,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7718",
     "passage": ""
+  },
+  {
+    "id": 7728,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In the diagram above , XZ is the diameter of the circle XZW , with center O and radius 15/2 cm. If XY = 12 cm, find the area of the triangle XYZ",
+    "options": {
+      "A": "54 cm 2",
+      "B": "45 cm 2",
+      "C": "27 cm 2",
+      "D": "75 cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/23040101938_math200230.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868324/myschool/mathematics/23040101938_math200230.jpg",
+    "correct_answer": "A",
+    "explanation": "Since radius = \\(\\frac{15}{2}\\) diameter = 2 * (\\(\\frac{15}{2}\\)) = 15cm XYZ is a right-angled triangle (since <Y = 90º ) ∴ 15\\(^2\\) = 12\\(^2\\) + (YZ)\\(^2\\) 225 = 144 = (YZ)\\(^2\\) 225 - 144 = (YZ)\\(^2\\) 81 = (YZ)\\(^2\\) \\(\\sqrt{81}\\) = YZ 9 = YZ Area of ΔXYZ = \\(\\frac{1}{2}\\)bh (\\(\\frac{1}{2}\\) x 9 x 12 9 x 6 = 54 = 54cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7728",
+    "passage": ""
   }
 ]
