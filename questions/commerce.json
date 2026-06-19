@@ -5375,5 +5375,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2009",
     "passage": ""
+  },
+  {
+    "id": 2011,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The basic elements of a valid contract are",
+    "options": {
+      "A": "offer, acceptance, consideration and witness",
+      "B": "offer, intention,  acceptance and legality",
+      "C": "offer, acceptance, intention, capacity and legality",
+      "D": "offer, acceptance, capacity, legality and consideration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2011",
+    "passage": ""
   }
 ]
