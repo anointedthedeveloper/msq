@@ -3595,5 +3595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71219",
     "passage": ""
+  },
+  {
+    "id": 71220,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Tu préfères chemise?",
+    "options": {
+      "A": "que",
+      "B": "quelle",
+      "C": "quelles",
+      "D": "quells"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The interrogative adjective \"quelle\" is used to ask for a choice or preference.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71220",
+    "passage": ""
   }
 ]
