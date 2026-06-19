@@ -16132,5 +16132,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23205",
     "passage": ""
+  },
+  {
+    "id": 23206,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The sum of an interior angles of a regular polygon is 30 right angles. How many sides has the polygon?",
+    "options": {
+      "A": "34 sides",
+      "B": "30 sides",
+      "C": "26 sides",
+      "D": "17 sides",
+      "E": "15 sides"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sum of interior angles in a polygon = \\((2n - 4) \\times 90°\\)\n\\(\\therefore (2n - 4) \\times 90° = 30 \\times 90°\\)\n\\(\\implies 2n - 4 = 30 \\)\n\\(2n = 34 \\implies n = 17\\)\nThe polygon has 17 sides.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23206",
+    "passage": ""
   }
 ]
