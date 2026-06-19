@@ -1163,5 +1163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48167",
     "passage": ""
+  },
+  {
+    "id": 48168,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Qui est président actuel de le France?",
+    "options": {
+      "A": "Clinton",
+      "B": "Mitterand",
+      "C": "Sarkozy",
+      "D": "Chirac"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48168",
+    "passage": ""
   }
 ]
