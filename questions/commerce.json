@@ -2981,5 +2981,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1583",
     "passage": ""
+  },
+  {
+    "id": 1584,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1998",
+    "question": "When a price is quoted at F.O.B. it means that the price?",
+    "options": {
+      "A": "excludes loading charges incurred in bringing the goods to port of destinction",
+      "B": "exclude all necessary shipping charges payable for insurrance",
+      "C": "includes all charges payable on shipping a consignment to the  port destination",
+      "D": "includes charges  payable for for loading goods onto the ship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1584",
+    "passage": ""
   }
 ]
