@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66120",
     "passage": ""
+  },
+  {
+    "id": 66123,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A filing system where records are kept by various section within an organization is",
+    "options": {
+      "A": "centralized filing system.",
+      "B": "geographical filing system.",
+      "C": "numerical filing system.",
+      "D": "departmental filing system."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Departmental filing system is a filing system where records are kept by various section within an organisation. It is different from centralized because all the departments create and maintain their files separately.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66123",
+    "passage": ""
   }
 ]
