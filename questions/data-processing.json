@@ -6979,5 +6979,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67138",
     "passage": ""
+  },
+  {
+    "id": 67139,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The concept of stored program for electronic devices was introduced by",
+    "options": {
+      "A": "Tim Berners Lee",
+      "B": "Ada Augusta Lovelace",
+      "C": "Charles Babbage Lee",
+      "D": "John Von Neumann"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The idea was introduced in the late 1940s by John von Neumann, who proposed that a program be electronically stored in binary-number format in a memory device so that instructions could be modified by the computer as determined by intermediate computational results.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67139",
+    "passage": ""
   }
 ]
