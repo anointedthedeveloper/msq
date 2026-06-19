@@ -2203,5 +2203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2875",
     "passage": ""
+  },
+  {
+    "id": 2876,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Simplify 52.4 - 5.7 - 3.45 - 1.75",
+    "options": {
+      "A": "41.4",
+      "B": "41.5",
+      "C": "42.1",
+      "D": "42.2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "52.4 - 5.7 - 3.45 - 1.75\n= 52.4 - (5.7 + 3.45 + 1.75)\n= 52.4 - 10.90\n= 41.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2876",
+    "passage": ""
   }
 ]
