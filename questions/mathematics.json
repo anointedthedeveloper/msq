@@ -16418,5 +16418,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23219",
     "passage": ""
+  },
+  {
+    "id": 23220,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The angle of elevation of the top of a tower from a point on the horizontal ground, 40m away from the foot of the tower is 30o. Find the height of the tower.",
+    "options": {
+      "A": "20m",
+      "B": "40√3m / 3",
+      "C": "20√3m",
+      "D": "40√3m",
+      "E": "60cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\tan 30 = \\frac{x}{40}\\)\n\\(x = 40 \\tan 30 = \\frac{40}{\\sqrt{3}}\\)\n= \\(\\frac{40\\sqrt{3}}{3} m\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191125_122752%20%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910308/myschool/mathematics/IMG_20191125_122752_%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/23220",
+    "passage": ""
   }
 ]
