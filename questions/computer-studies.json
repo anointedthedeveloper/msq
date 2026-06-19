@@ -12901,5 +12901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64364",
     "passage": ""
+  },
+  {
+    "id": 64365,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a type of logic gate",
+    "options": {
+      "A": "XOR",
+      "B": "OR",
+      "C": "AND",
+      "D": "DOR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dor is not a type of logic gate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64365",
+    "passage": ""
   }
 ]
