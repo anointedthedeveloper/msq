@@ -2839,5 +2839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71093",
     "passage": ""
+  },
+  {
+    "id": 71094,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Une personne qui n'est pas encore marie est. ............",
+    "options": {
+      "A": "célibataire",
+      "B": "mari",
+      "C": "neveu",
+      "D": "home"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is célibataire. The sentence \"Une personne qui n'est pas encore mariée est un...\" means \"A person who is not yet married is a...\". The correct completion is \"célibataire\", which means \"bachelor\" or \"unmarried person\" in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71094",
+    "passage": ""
   }
 ]
