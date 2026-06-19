@@ -7894,5 +7894,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/17175",
     "passage": ""
+  },
+  {
+    "id": 17176,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "The stages of life cycle of locust are",
+    "options": {
+      "A": "egg-larva-pupa-adult",
+      "B": "egg-nymph-adult",
+      "C": "egg-caterpillar-pupa-adult",
+      "D": "egg-nymph-pupa-adult",
+      "E": "egg-larva-nymph"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/17176",
+    "passage": ""
   }
 ]
