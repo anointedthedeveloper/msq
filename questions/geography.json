@@ -1357,5 +1357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/958",
     "passage": ""
+  },
+  {
+    "id": 959,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Three ethnic groups of the Niger Delta region of Nigeria are",
+    "options": {
+      "A": "Ibibio, Tiv and Ijo",
+      "B": "Igbo, Idoma and Ijo",
+      "C": "Ijo, Urhobo and Itshekiri",
+      "D": "Itshekiri, Igbo and Ibibio"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/959",
+    "passage": ""
   }
 ]
