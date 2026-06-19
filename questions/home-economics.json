@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73191",
     "passage": ""
+  },
+  {
+    "id": 73192,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "An example of a permanent stitch is",
+    "options": {
+      "A": "Tailors",
+      "B": "Backstitch",
+      "C": "Even tacking",
+      "D": "Basting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A permanent stitch is a stitch that is intended to be durable and long-lasting, used to construct or repair a garment or textile. Backstitch is an example of a permanent stitch, as it is a strong and secure stitch used for sewing two pieces of fabric together, outlining designs, or reinforcing stress points.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73192",
+    "passage": ""
   }
 ]
