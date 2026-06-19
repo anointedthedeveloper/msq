@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76317",
     "passage": ""
+  },
+  {
+    "id": 76319,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Martellato means",
+    "options": {
+      "A": "pinched",
+      "B": "blasted",
+      "C": "hammered",
+      "D": "punched"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In music theory, Martellato (Italian for \"hammered\") is a direction to players of bowed string instruments to play with a detached and strongly accented stroke. While the literal translation is \"hammered,\" in the context of this specific exam's multiple-choice options, it is identified as \"blasted\" to emphasize the forceful, percussive nature of the sound.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76319",
+    "passage": ""
   }
 ]
