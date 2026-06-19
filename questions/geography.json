@@ -10302,5 +10302,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8523",
     "passage": ""
+  },
+  {
+    "id": 8524,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "The actual amount of water vapor held in the air at any particular time is called?",
+    "options": {
+      "A": "effective precipitation",
+      "B": "effective pressure",
+      "C": "relative humudity",
+      "D": "absolute humidity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8524",
+    "passage": ""
+  },
+  {
+    "id": 8525,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "If the temperature at sea level in a particular place is 30°C, a place 350m above sea level in the same area will have a temperature of?",
+    "options": {
+      "A": "-5.00°C",
+      "B": "7.25°C",
+      "C": "18.33°C",
+      "D": "19.50"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8525",
+    "passage": ""
+  },
+  {
+    "id": 8526,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Which type of climate has the following characteristics? i. Both monthly and annual temperature average about 28°C. ii Annual rainfall commonly varies from about 1800mm to more than commonly 3000mm. iii Rainfall of at least 150mm occurring every month of the year.",
+    "options": {
+      "A": "Monsoon",
+      "B": "Equatorial",
+      "C": "Savannah",
+      "D": "Mediterranean"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8526",
+    "passage": ""
   }
 ]
