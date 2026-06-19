@@ -5481,5 +5481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62420",
     "passage": ""
+  },
+  {
+    "id": 62421,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The chart type that does not have the X and Y axis display is the?",
+    "options": {
+      "A": "area chart",
+      "B": "bar chart",
+      "C": "pie chart",
+      "D": "scatter diagram"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62421",
+    "passage": ""
   }
 ]
