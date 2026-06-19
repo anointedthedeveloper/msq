@@ -8419,5 +8419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9304",
     "passage": ""
+  },
+  {
+    "id": 9305,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Simplify \\(7\\frac{1}{12}-4\\frac{3}{4}+2\\frac{1}{2}\\)",
+    "options": {
+      "A": "4",
+      "B": "4 1 / 6",
+      "C": "4 5 / 6",
+      "D": "5 1 / 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Convert each mixed number to an improper fraction:\n7 \\(\\frac{1}{12}\\) = 7 + \\(\\frac{1}{12}\\) = \\(\\frac{84}{12} + \\frac{1}{12}\\) = \\(\\frac{85}{12}\\) 4 \\(\\frac{3}{4}\\) = 4 + \\(\\frac{3}{4}\\) = \\(\\frac{16}{4}\\) + \\(\\frac{3}{4}\\) = \\(\\frac{19}{4}\\) 2 \\(\\frac{1}{2}\\) = 2 + \\(\\frac{1}{2}\\) = \\(\\frac{4}{2}\\) + \\(\\frac{1}{2}\\) = \\(\\frac{5}{2}\\)\nNow calculate: \\(\\frac{85}{12} − \\frac{19}{4} + \\frac{5}{2}\\)\nCommon denominator = 12\n\\(\\frac{85}{12}\\) − (\\(\\frac{19}{4}\\) \\(\\times\\) \\(\\frac{3}{3}\\)) + (\\(\\frac{5}{2}\\) \\(\\times\\) \\(\\frac{6}{6}\\))\n= \\(\\frac{85}{12}\\) − \\(\\frac{57}{12}\\) + \\(\\frac{30}{12}\\) = (\\(\\frac{85 − 57 + 30)}{12}\\) = \\(\\frac{(58)}{12}\\) = \\(\\frac{29}{6}\\) = 4 \\(\\frac{5}{6}\\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9305",
+    "passage": ""
   }
 ]
