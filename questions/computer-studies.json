@@ -19608,5 +19608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72625",
     "passage": ""
+  },
+  {
+    "id": 72626,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Instant messages can be sent with little or no tine lag using",
+    "options": {
+      "A": "podcast.",
+      "B": "facsimile.",
+      "C": "email.",
+      "D": "chat room,"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: Chat rooms allow for real-time text- based conversations with little to no time lag.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72626",
+    "passage": ""
   }
 ]
