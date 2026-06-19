@@ -15853,5 +15853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7614",
     "passage": ""
+  },
+  {
+    "id": 7615,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The document which can be exchange for a bill of lading is?",
+    "options": {
+      "A": "freight note",
+      "B": "mate receipt",
+      "C": "export invoice",
+      "D": "ship report"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Freight note is an invoice from a shipowner to a shipper showing the amount of freight due on a shipment of goods. It can be use in place of a bill of lading",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7615",
+    "passage": ""
   }
 ]

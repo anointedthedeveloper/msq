@@ -2577,5 +2577,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73820",
     "passage": ""
+  },
+  {
+    "id": 73821,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Kedụ maka nne gị?",
+    "options": {
+      "A": "Ha dị mma",
+      "B": "Ọ dị mma",
+      "C": "Ọ mara mma",
+      "D": "Anyị dị mma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is Ha dị mma. The question \"Kedụ maka nne gị?\" means \"How is your mother?\" in Igbo. The correct response is \"Ha dị mma\", which means \"She is fine\" or \"She is well\". Note: Igbo language has different forms of address and agreement, and the correct response depends on the speaker's relationship with the person being asked and the person being referred to (in this case, the mother).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73821",
+    "passage": ""
   }
 ]
