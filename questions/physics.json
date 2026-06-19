@@ -12225,5 +12225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14513",
     "passage": ""
+  },
+  {
+    "id": 14514,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Three 4Ω resistors connected in parallel have a potential difference of 16 V applied across them. What is the total current in the circuit?",
+    "options": {
+      "A": "14 A",
+      "B": "12 A",
+      "C": "10 A",
+      "D": "8 A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "= 16 4 / 3\n= 16 x 3 _4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14514",
+    "passage": ""
   }
 ]
