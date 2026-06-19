@@ -3838,5 +3838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50279",
     "passage": ""
+  },
+  {
+    "id": 50280,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The foreign policy objective of Nigeria as enshrined in the 1999 constitution exclude the promotion of?",
+    "options": {
+      "A": "national interest",
+      "B": "African integration",
+      "C": "support for donor agencies",
+      "D": "just world economic order"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The foreign policy objectives of Nigeria as enshrined in the 1999 Constitution include the promotion of national interest, African integration, and a just world economic order. However, support for donor agencies is not explicitly stated as a foreign policy objective in the constitution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50280",
+    "passage": ""
   }
 ]
