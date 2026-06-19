@@ -14239,5 +14239,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23926",
     "passage": ""
+  },
+  {
+    "id": 23927,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Calculate the escape velocity for a rocket fired from the earth's surface at a point where the acceleration due to gravity is 10ms\n-2\nand the radius of the earth is 6 x 10\n6\nm.",
+    "options": {
+      "A": "7.8 x 10 6 ms -12",
+      "B": "1.1 x 10 4 ms -1",
+      "C": "3.5 x 10 7 ms -1",
+      "D": "6.0 x 10 7 ms -1",
+      "E": "1.2 x 10 8 ms 2-1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "6\n4\n-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23927",
+    "passage": ""
   }
 ]
