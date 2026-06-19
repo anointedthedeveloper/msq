@@ -9293,5 +9293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/76955",
     "passage": ""
+  },
+  {
+    "id": 76956,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following computers is designed to perform a variety of tasks?",
+    "options": {
+      "A": "General purpose",
+      "B": "Analogue",
+      "C": "Hybrid",
+      "D": "Digital"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A general-purpose computer is designed to perform a variety of tasks. Unlike special-purpose computers, which are designed for a single task, general-purpose computers can run any application that is compatible with their operating system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/76956",
+    "passage": ""
   }
 ]
