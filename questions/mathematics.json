@@ -7579,5 +7579,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9262",
     "passage": ""
+  },
+  {
+    "id": 9263,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "simplify \\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\)",
+    "options": {
+      "A": "3 / 8",
+      "B": "2 / 3",
+      "C": "3 / 4",
+      "D": "3 / 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(16^{\\frac{-1}{2}}\\times 4^{\\frac{-1}{2}} \\times 27^{\\frac{1}{3}}\\) =\\(\\frac{1}{16^{\\frac{1}{2}}}\\times \\frac{1}{4^{\\frac{1}{2}}}\\times 27^{\\frac{1}{3}}\\) =\\(\\frac{1}{\\sqrt{16}} \\times \\frac{1}{\\sqrt{4}} \\times \\sqrt[3]{27}\\) =\\(\\frac{1}{4} \\times \\frac{1}{2} \\times \\frac{3}{1}\\) = \\(\\frac{3}{8}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9263",
+    "passage": ""
   }
 ]
