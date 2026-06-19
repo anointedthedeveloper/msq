@@ -10553,5 +10553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62772",
     "passage": ""
+  },
+  {
+    "id": 62773,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following statements best describes sequential file organization?",
+    "options": {
+      "A": "Records are arranged in no particular order.",
+      "B": "Records are directly addressed to the key value.",
+      "C": "Records are sorted according to a key field.",
+      "D": "Records are used as index to access the database."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62773",
+    "passage": ""
   }
 ]
