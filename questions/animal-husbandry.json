@@ -878,5 +878,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49656",
     "passage": ""
+  },
+  {
+    "id": 49657,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Selection of animals based on performance of ancestors is called",
+    "options": {
+      "A": "mass selection",
+      "B": "family selection",
+      "C": "progeny selection",
+      "D": "pedigree selection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pedigree breeding is a breeding method focused primarily on the parentage of animals. To increase the level of certainty, as much information as possible is collected on several generations of ancestors. The pedigree breeding method does not focus on direct mating partners, but rather on bloodline combinations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49657",
+    "passage": ""
   }
 ]
