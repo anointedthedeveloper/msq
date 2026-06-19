@@ -10842,5 +10842,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68484",
     "passage": ""
+  },
+  {
+    "id": 68485,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which European explorer is credited with discovering Sierra Leone in the 15th century?",
+    "options": {
+      "A": "Vasco da Gama",
+      "B": "Christopher Columbus",
+      "C": "Ferdinand Magellan",
+      "D": "Pedro de Sintra"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Vasco da Gama",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68485",
+    "passage": ""
   }
 ]
