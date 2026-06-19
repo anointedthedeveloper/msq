@@ -20091,5 +20091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72690",
     "passage": ""
+  },
+  {
+    "id": 72691,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements about firewall is correct?",
+    "options": {
+      "A": "A network transmission system that increases the speed of incoming and outgoing network traffic",
+      "B": "A network security system that establishes a barrier between a trusted internal network and an untrusted external network such as the Internet",
+      "C": "A data structure that improves the speed of data retrieval operations on a database table",
+      "D": "A data structure created using only two rows of a database table used to uniquely identify each record"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A firewall is a network security system that establishes a barrier between a trusted internal network and an untrusted external network such as the Internet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72691",
+    "passage": ""
   }
 ]
