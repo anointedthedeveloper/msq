@@ -1028,5 +1028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/253",
     "passage": ""
+  },
+  {
+    "id": 256,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of",
+    "options": {
+      "A": "the office of sole administrators",
+      "B": "caretaker management committees",
+      "C": "uniformity in struture and functions",
+      "D": "the third tier of government."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The most remarkable legacy of the 1976 Local Government Reform in Nigeria was the introduction of uniformity in structure and functions. In February 1976 Federal Military Government issued a degree establishing a uniform Local Government Structure throughout the country. The measure is significant in a away in the sense that the first time in the history of Nigeria a national rather than Region/state approach was adopted toward Local Government.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/256",
+    "passage": ""
   }
 ]
