@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73532",
     "passage": ""
+  },
+  {
+    "id": 73533,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ude na-agu ............",
+    "options": {
+      "A": "akwụkwọ",
+      "B": "nri",
+      "C": "ụra",
+      "D": "akwa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is akwụkwọ. \"Ude na-agụ akwụkwọ\" is a complete sentence in Igbo, which means \"Ude is reading a book\". Here's a breakdown of the other options: - A. akwa means \"cloth\" in Igbo. - C. n'i is a prepositi meaning \"with\" and \"and\" in Igbo. - D. ụra means \"marriage\" or \"wedding\" in Igbo - E. ụzọ means \"road\" or \"par in Igbo. So, the correct answer is akwụkwọ, which is the Igbo word for \"book\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73533",
+    "passage": ""
   }
 ]
