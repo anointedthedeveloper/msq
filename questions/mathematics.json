@@ -8293,5 +8293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9297",
     "passage": ""
+  },
+  {
+    "id": 9298,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the mean deviation of 2, 4, 5, and 9",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "5",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "X = 20/4 = 5 mean deviation = 8/4 = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9298",
+    "passage": ""
   }
 ]
