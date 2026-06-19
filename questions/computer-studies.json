@@ -14182,5 +14182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64795",
     "passage": ""
+  },
+  {
+    "id": 64797,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The process of running more than one program concurrently is known as",
+    "options": {
+      "A": "multithreading",
+      "B": "multitasking",
+      "C": "multiprogramming",
+      "D": "multipurpose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Multitasking allows users to run multiple programs at the same time, even if the computer only has one CPU. This is done by switching between the programs very quickly, so that it appears to the user that all of the programs are running at the same time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64797",
+    "passage": ""
   }
 ]
