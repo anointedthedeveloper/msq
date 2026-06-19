@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75196",
     "passage": ""
+  },
+  {
+    "id": 75197,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "الكاتب العربي المعروف بمؤلف \"حي بن يقظان\" هو؟",
+    "options": {
+      "A": "الجاحظ",
+      "B": "ابن المتفع",
+      "C": "الكندي",
+      "D": "ابن طفيل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Hayy ibn Yaqzan\" is a philosophical novel by Ibn Tufail exploring self-taught knowledge.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75197",
+    "passage": ""
   }
 ]
