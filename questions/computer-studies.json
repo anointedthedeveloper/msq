@@ -13867,5 +13867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64428",
     "passage": ""
+  },
+  {
+    "id": 64429,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the major purpose of application software?",
+    "options": {
+      "A": "oversee the running of the computer",
+      "B": "utilities",
+      "C": "database management",
+      "D": "recreation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The major function performed by all application software is to allow the user utilize it in a particular area. Be it security, research, gaming, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64429",
+    "passage": ""
   }
 ]
