@@ -3726,5 +3726,23 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58517",
     "passage": ""
+  },
+  {
+    "id": 58548,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "You are provided with a computer system that has Microsoft PowerPoint application running . Outline the steps to be followed in performing the following tasks;\n(a) Creating a four-slide presentation.\n(b) Modifying the presentation to show the following on the footer of all slides except the title slide; A. Today's date B. Slide number C. Your surname\n(c)  Inserting a picture saved in the picture folder of your computer hard drive on the second slide.\n(d) Typing your name as the main title and personal profile as the subtitle.\n(e) Making each slide to run  for five seconds continuously until \"Esc\" key is pressed during slide show.",
+    "options": {
+      "A": "Today's date B. Slide number C. Your surname\n(c)  Inserting a picture saved in the picture folder of your computer hard drive on the second slide.\n(d) Typing your name as the main title and personal profile as the subtitle.\n(e) Making each slide to run  for five seconds continuously until \"Esc\" key is pressed during slide show."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Steps to create slide presentation\n- Press \"Ctrl + N\" or Click on \"file\" then select \"new\"\n- Press \"Ctrl + M\" or Click on \"New slide\" on the menu bar three times to add 3 more slides.\n(b) Steps to modify the presentation\nA - Click on \"insert\" on the menu bar - Click on \"header & footer\"/\"date & time\" OR \"slide number\" - Click the \"date & time\" box\nB - Check the \"Slide number\" box, - Check \"footer\"box\nC - Type surname in the \"footer textbook\", - Check \"dont show on title slide\" box. - Click on \"apply to all\".\n(c) Steps to insert picture; - Click on the second slide, - Click on \"insert\"  on the menu bar, - Click on \"picture\", - Select the picture from the pictures folder and click \"insert\" OR double click on the picture.\n(d) Steps to type name as the main title and personal profile as sub title; - Click on the title slide/first slide, - Type your name as the main \"title textbox\", - Type your name as the main \"title textbox\", - Type personal profile in \"subtitle textbox\".\n(e) Steps to make each slide run continuously until the \"Esc\" key is pressed;\n- Click on \"slide show\"/\"transitions\", - Click \"advance slide\" automatic, - Set time for 5 seconds, - Click apply to all slides\", - Click on \"set up show\" on the slide show tab, - Select \"Loop continously untilEsc is pressed\", - Select \"All on show slides\", - Click \"OK'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58548",
+    "passage": ""
   }
 ]
