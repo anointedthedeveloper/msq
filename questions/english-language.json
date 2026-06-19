@@ -2065,5 +2065,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/646",
     "passage": ""
+  },
+  {
+    "id": 647,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentences:\nThe Nigerian society of Engineers has set up .... to study the nation's problems",
+    "options": {
+      "A": "a brain trust",
+      "B": "a tribunal",
+      "C": "an inquiring",
+      "D": "an inquest",
+      "E": "a task force"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A task force is a unit specially organized for a task or a particular purpose.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/647",
+    "passage": ""
   }
 ]
