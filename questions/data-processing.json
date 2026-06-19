@@ -6811,5 +6811,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67130",
     "passage": ""
+  },
+  {
+    "id": 67131,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The category of computers used for weather forecasting is known as",
+    "options": {
+      "A": "Special purpose computers",
+      "B": "Microcomputers",
+      "C": "Super computers",
+      "D": "General purpose computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A supercomputer is a computer with a high level of performance as compared to a general-purpose computer, they are used for a speciffic purpose",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67131",
+    "passage": ""
   }
 ]
