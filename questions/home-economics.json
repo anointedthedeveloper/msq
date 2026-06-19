@@ -628,5 +628,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73197",
     "passage": ""
+  },
+  {
+    "id": 73198,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The most common method of preserving poultry food in Ghana is",
+    "options": {
+      "A": "Drying",
+      "B": "Salting",
+      "C": "Freezing",
+      "D": "Smoking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Smoking is an old preservation method that involves exposing food to smoke to prevent spoilage and to add flavor. The smoke acts as a natural preservative by dehydrating the meat and preventing bacteria from growing. Smoking also adds a smoky flavor to the meat, which is a popular taste in Ghana.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73198",
+    "passage": ""
+  },
+  {
+    "id": 73199,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A drawing of vegetation and buildings is",
+    "options": {
+      "A": "Landscape",
+      "B": "Memory",
+      "C": "Imaginative",
+      "D": "Portraiture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A landscape drawing typically depicts natural scenery, such as vegetation, trees, hills, and buildings, and often captures the relationship between these elements and the surrounding environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73199",
+    "passage": ""
+  },
+  {
+    "id": 73200,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The process by which two or more pieces of fibre are firmly joined together with stitches is",
+    "options": {
+      "A": "Gathering",
+      "B": "Smoking",
+      "C": "Knitting",
+      "D": "Seaming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Seaming is the process of joining two or more pieces of fabric together using stitches, typically with a needle and thread. This is a fundamental technique in sewing, tailoring, and textile construction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73200",
+    "passage": ""
   }
 ]
