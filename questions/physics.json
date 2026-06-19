@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/705",
     "passage": ""
+  },
+  {
+    "id": 706,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Dry Day 1 - 30°C | Day 2 - 29°C | Day 3 - 25°C Wet Day 1 - 22°C | Day 2 - 22°C | Day 3 - 21°C The reading above are for three consecutive days from a wet and dry bulb hygrometer. It can be concluded that the relative humidity for the three days",
+    "options": {
+      "A": "decreased steadily",
+      "B": "remained unchanged",
+      "C": "increased steadily",
+      "D": "was least on Day 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "1 2 3 Dry 30°C 29°C 25°C Wet 22°C 22°C 21°C Diff 8°C 7°C 4°C\n\\(Relative Humidity \\propto \\frac{1}{temp}\\)\nHence, There is a steady increase in the relative humidity between Day 1 and Day 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/706",
+    "passage": ""
   }
 ]
