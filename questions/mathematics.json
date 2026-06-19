@@ -13735,5 +13735,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22871",
     "passage": ""
+  },
+  {
+    "id": 22872,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Simplify \\((\\frac{3}{x} -  \\frac{15}{2y}) \\div \\frac{6}{xy}\\)",
+    "options": {
+      "A": "\\(\\frac{2y - 5x}{4}\\)",
+      "B": "\\(\\frac{9(2x - 5x)}{x^2y^2}\\)",
+      "C": "\\(\\frac{5x - 2y}{2}\\)",
+      "D": "\\(\\frac{c^2y^2}{18y - 45x}\\)",
+      "E": "\\(\\frac{4}{2y - 5x}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\((\\frac{3}{x} - \\frac{15}{2y}) \\div \\frac{6}{xy}\\)\n= \\((\\frac{6y - 15x}{2xy}) \\div \\frac{6}{xy}\\)\n= \\(\\frac{6y - 15x}{2xy} \\times \\frac{xy}{6}\\)\n= \\(\\frac{3(2y - 5x)}{2xy} \\times \\frac{xy}{6}\\)\n= \\(\\frac{2y - 5x}{4}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22872",
+    "passage": ""
   }
 ]
