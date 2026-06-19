@@ -3966,5 +3966,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50600",
     "passage": ""
+  },
+  {
+    "id": 50602,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The first term of a linear sequence is 9 and the common difference is 7. If the nth term is 380, find the value of n.",
+    "options": {
+      "A": "45",
+      "B": "54",
+      "C": "56",
+      "D": "65"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(T_{n} = a + (n - 1)d\\)\n\\(380 = 9 + (n - 1)7\\)\n\\(380 = 9 + 7n - 7 \\implies 380 = 2 + 7n\\)\n\\(7n = 380 - 2 = 378 \\therefore n = \\frac{378}{7} = 54\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50602",
+    "passage": ""
   }
 ]
