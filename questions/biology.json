@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/298",
     "passage": ""
+  },
+  {
+    "id": 299,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Euglena may be classified as a plant because it",
+    "options": {
+      "A": "has chloroplast",
+      "B": "has a gullet",
+      "C": "lives in a pond",
+      "D": "possesses a flagellum",
+      "E": "has pellicle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Most euglena have chloroplasts, which is a basic characteristics of plants.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/299",
+    "passage": ""
   }
 ]
