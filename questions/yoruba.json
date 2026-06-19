@@ -6704,5 +6704,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/76024",
     "passage": ""
+  },
+  {
+    "id": 76025,
+    "subject": "yoruba",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Àyọkà tí ó ni àfihàn àìtọ́ ẹ̀sùn ni ...?",
+    "options": {
+      "A": "Kì í șe òun ló jà.",
+      "B": "Ó dájú pé òun ló jà.",
+      "C": "Kó tí ẹnikẹ́ni mọ ọ.",
+      "D": "Șé o sọ pé òun ló jà?"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Àyọkà yìí jẹ́ àfihàn àìtọ́ ẹ̀sùn (denial of accusation). Ọrọ \"kì í șe” fi àìtọ́ hàn.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/76025",
+    "passage": ""
   }
 ]
