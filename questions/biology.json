@@ -5212,5 +5212,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2394",
     "passage": ""
+  },
+  {
+    "id": 2395,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "An organism having one pair of identical genes is",
+    "options": {
+      "A": "a heterozygote",
+      "B": "a hybride",
+      "C": "an allelomorph",
+      "D": "a homozygote",
+      "E": "a diploid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2395",
+    "passage": ""
   }
 ]
