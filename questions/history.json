@@ -5016,5 +5016,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/55554",
     "passage": ""
+  },
+  {
+    "id": 55555,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "The Lyttleton Constitution is often remarkable for all the following reasons except",
+    "options": {
+      "A": "the introduction of a federal structure for Nigeria",
+      "B": "the grant of real legislative powers to the regional legislature",
+      "C": "recognition of the need to appoint Premiers in the regions",
+      "D": "the establishment of a public service commission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The establishment of a public service commission is the correct answer. This was a distinct achievement of the John Macpherson's 1951 Constitution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/55555",
+    "passage": ""
   }
 ]
