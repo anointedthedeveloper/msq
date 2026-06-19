@@ -2725,5 +2725,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1345",
     "passage": ""
+  },
+  {
+    "id": 1346,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which\nbest completes each\nsentence :\nWe ought to stay away .... the robbers come back",
+    "options": {
+      "A": "provided",
+      "B": "should in case",
+      "C": "although",
+      "D": "in case",
+      "E": "since"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1346",
+    "passage": ""
   }
 ]
