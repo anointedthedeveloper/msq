@@ -14855,5 +14855,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24105",
     "passage": ""
+  },
+  {
+    "id": 24106,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following is/are necessary for the production of interference with two wave trains? I. The sources must be close to each other. II The waves must have the same frequency. III. The waves must have the same amplitude. IV. The waves must travel with the speed of light.",
+    "options": {
+      "A": "I, II and IV only",
+      "B": "I, II and III only",
+      "C": "I and II only",
+      "D": "II, III and IV only",
+      "E": "l, III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Constructive and destructive interference result from the interaction of waves that are correlated or coherent with each other, either because they come from the same source or because they have the same or nearly the same frequency.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24106",
+    "passage": ""
   }
 ]
