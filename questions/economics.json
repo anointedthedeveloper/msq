@@ -20,5 +20,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/113",
     "passage": ""
+  },
+  {
+    "id": 116,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A budget deficit means",
+    "options": {
+      "A": "That a country is buying more than is selling",
+      "B": "That a country is selling more than is buying",
+      "C": "That a government is spending more than in takes in taxation",
+      "D": "That a government is spending less than it takes in taxation",
+      "E": "That a government is spending as much as it takes in taxation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A budget deficit occurs when the government spends more than it receives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/116",
+    "passage": ""
   }
 ]
