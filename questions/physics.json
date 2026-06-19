@@ -10078,5 +10078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14328",
     "passage": ""
+  },
+  {
+    "id": 14329,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram above, the pressure of the gas is",
+    "options": {
+      "A": "86 cm of mercury",
+      "B": "66 cm of mercury",
+      "C": "96 cm of mercury",
+      "D": "76 cm mercury"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/10909744512_PHY2005XX.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890538/myschool/physics/10909744512_PHY2005XX.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14329",
+    "passage": ""
   }
 ]
