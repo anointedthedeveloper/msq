@@ -9965,5 +9965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62744",
     "passage": ""
+  },
+  {
+    "id": 62745,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The stages of software development do not include?",
+    "options": {
+      "A": "analysis.",
+      "B": "conversion.",
+      "C": "design.",
+      "D": "maintenance."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The software development process consists of several key stages: requirements gathering, analysis, design, coding, testing, and maintenance. It's important to note that conversion is not considered a stage in software development; instead, it refers to the process of transforming data from one format to another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62745",
+    "passage": ""
   }
 ]
