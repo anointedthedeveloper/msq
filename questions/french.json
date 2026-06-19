@@ -563,5 +563,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48138",
     "passage": ""
+  },
+  {
+    "id": 48139,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Qu'ils ... d'accord ou pas, nous quittons aujourd'hui",
+    "options": {
+      "A": "sont",
+      "B": "aient",
+      "C": "ont",
+      "D": "soient"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48139",
+    "passage": ""
   }
 ]
