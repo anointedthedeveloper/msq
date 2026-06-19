@@ -2181,5 +2181,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50412",
     "passage": ""
+  },
+  {
+    "id": 50413,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The lines \\(2y + 3x - 16 = 0\\) and \\(7y - 2x - 6 = 0\\) intersect at point P. Find the coordinates of P.",
+    "options": {
+      "A": "(4, 2)",
+      "B": "(4, -2)",
+      "C": "(-4, 2)",
+      "D": "(-4, -2)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The point of intersection for the two lines exists at the point where the two lines are equal to each other. Make anyone of the variables the subject of the formula and equate the two lines to each other and solve for the coordinates of the point of intersection.\nGiven lines \\(2y + 3x - 16 = 0\\) and \\(7y - 2x - 6 = 0\\) , making x the subject of the formula:\nLine 1 : \\(2y + 3x - 16 = 0 \\implies 3x = 16 - 2y\\)\n\\(\\therefore x = \\frac{16}{3} - \\frac{2}{3}y\\)\nLine 2 : \\(7y - 2x - 6 = 0 \\implies -2x = 6 - 7y\\)\n\\(\\therefore x = \\frac{7}{2}y - 3\\)\nEquating them together and solving, we have:\n\\(\\frac{16}{3} - \\frac{2}{3}y = \\frac{7}{2}y - 3  \\implies \\frac{16}{3} + 3 = \\frac{7}{2}y + \\frac{2}{3}y\\)\n\\(\\frac{25}{3} = \\frac{25}{6}y \\therefore y = 2\\)\nPutting y = 2 in the equation \\(3x = 16 - 2y\\), we have\n\\(3x = 16 - 2(2) = 16 - 4 = 12 \\implies x = 4\\)\nThe coordinate of P is (4, 2).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50413",
+    "passage": ""
   }
 ]
