@@ -2084,5 +2084,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48211",
     "passage": ""
+  },
+  {
+    "id": 48212,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "L'examen médical avait pour but de voir",
+    "options": {
+      "A": "quell type de maladic il avait",
+      "B": "si amuku n'était pas sourd",
+      "C": "quelles filles il fréquentait",
+      "D": "si Amuku n'était pas fou"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Uwe68OkmXOW1s7ggX9sldZGWdjvuILSShczkzZeT.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898498/myschool/french/Uwe68OkmXOW1s7ggX9sldZGWdjvuILSShczkzZeT.png",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48212",
+    "passage": ""
   }
 ]
