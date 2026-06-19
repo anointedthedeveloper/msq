@@ -12768,5 +12768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7301",
     "passage": ""
+  },
+  {
+    "id": 7302,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An aspect of commerce that facilitates the distribution of products is?",
+    "options": {
+      "A": "transportation",
+      "B": "advertising",
+      "C": "branding",
+      "D": "trading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Transportation refers to the activity that facilitates the physical movement of goods as well as individuals from one place to another. In business, it supports trade and industry in carrying raw materials to the place of production and distributing finished products for consumption.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7302",
+    "passage": ""
   }
 ]
