@@ -15758,5 +15758,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23188",
     "passage": ""
+  },
+  {
+    "id": 23189,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Solve the inequality: 3m + 3 > 9",
+    "options": {
+      "A": "m > 2",
+      "B": "m > 3",
+      "C": "m>4",
+      "D": "m>6",
+      "E": "m>12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "3m + 3 > 9\n3m > 9 - 3\n3m > 6\nm > 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23189",
+    "passage": ""
   }
 ]
