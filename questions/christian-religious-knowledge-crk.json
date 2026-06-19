@@ -878,5 +878,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/241",
     "passage": ""
+  },
+  {
+    "id": 242,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The prophecy \"The soul that sins shall die\", was given by the Prophet",
+    "options": {
+      "A": "Isaiah",
+      "B": "Amos",
+      "C": "Hosea",
+      "D": "Jonah",
+      "E": "Ezekiel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/242",
+    "passage": ""
   }
 ]
