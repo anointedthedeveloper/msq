@@ -1459,5 +1459,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57727",
     "passage": ""
+  },
+  {
+    "id": 57728,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "In graphic packages, the process of removing unwanted part of an image is known as",
+    "options": {
+      "A": "Shaping",
+      "B": "resizing",
+      "C": "editing",
+      "D": "cropping"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57728",
+    "passage": ""
   }
 ]
