@@ -3022,5 +3022,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5901",
     "passage": ""
+  },
+  {
+    "id": 5902,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Simplify 213\\(_4\\) x 23\\(_4\\)",
+    "options": {
+      "A": "10311 4",
+      "B": "10321 4",
+      "C": "12231 4",
+      "D": "13211 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "You can either multiply directly in base 4 or you can decide to convert to base 10 and do the multiplication and re-convert.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5902",
+    "passage": ""
   }
 ]
