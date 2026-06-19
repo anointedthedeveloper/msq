@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/131",
     "passage": ""
+  },
+  {
+    "id": 132,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The delineation of constituencies is a major duty of the",
+    "options": {
+      "A": "national assembly",
+      "B": "political parties",
+      "C": "boundary commission",
+      "D": "electoral commission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/132",
+    "passage": ""
   }
 ]
