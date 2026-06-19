@@ -3364,5 +3364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71208",
     "passage": ""
+  },
+  {
+    "id": 71209,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Où sont mes lunettes? Tu posées sur la table.",
+    "options": {
+      "A": "les",
+      "B": "l'",
+      "C": "le",
+      "D": "la"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The verb \"as posées\" is in the second person singular (tu) form, and it agrees with the plural object \"mes lunettes\", so the pronoun \"les\" is used to replace the object.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71209",
+    "passage": ""
   }
 ]
