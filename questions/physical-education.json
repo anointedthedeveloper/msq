@@ -3988,5 +3988,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70725",
     "passage": ""
+  },
+  {
+    "id": 70726,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Identify the jumping technique used in the long jump.",
+    "options": {
+      "A": "Hitch-kick",
+      "B": "Glide",
+      "C": "Western Roll",
+      "D": "Spin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The hitch-kick is a technique that involves a single or double arm and leg action in the air to maximize hang time and distance in the long jump. It helps the jumper project their body forward and maintain momentum after take-off.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70726",
+    "passage": ""
   }
 ]
