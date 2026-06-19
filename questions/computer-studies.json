@@ -6123,5 +6123,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62452",
     "passage": ""
+  },
+  {
+    "id": 62453,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following components is directly located inside the computer processor?",
+    "options": {
+      "A": "ALU",
+      "B": "BIOS",
+      "C": "RAM",
+      "D": "ROM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62453",
+    "passage": ""
   }
 ]
