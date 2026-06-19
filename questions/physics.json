@@ -10141,5 +10141,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14331",
     "passage": ""
+  },
+  {
+    "id": 14332,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A shooter wants to fire a bullet in such a way that its horizontal range is equal to three times its maximum height. At the what angle should he fire the bullet to achieve this?",
+    "options": {
+      "A": "68 o",
+      "B": "53 o",
+      "C": "30 o",
+      "D": "45 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "∴sin2θ = 3sin 2 θ 2\n=> 2sinθcosθ = 3sin 2 θ 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14332",
+    "passage": ""
   }
 ]
