@@ -526,5 +526,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/487",
     "passage": ""
+  },
+  {
+    "id": 489,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; He did not like .... leaving the class early",
+    "options": {
+      "A": "we",
+      "B": "us",
+      "C": "our",
+      "D": "ourselves",
+      "E": "our selves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Our\" is a possessive pronoun that indicates ownership or association with the action of leaving the class early. It is the action of leaving the class early that he did not like and not the people who performed the action. If you make use of the objective pronoun \"us\", \"leaving the class early\" would be a direct object and that would not make sense. When you take away the indirect object, it should still contain the meaning expressed in the sentence. Take a look at the following: He gave the baby some milk -- He gave some milk He sent his mother some flowers -- He sent some flowers When you remove \"us\", It becomes \"He does not like leaving the class early\". The meaning becomes different. This means that \"us\" can't be the pronoun used.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/489",
+    "passage": ""
+  },
+  {
+    "id": 490,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nBefore the operation, the dentist found that his patient's teeth....",
+    "options": {
+      "A": "have long decayed",
+      "B": "have long been decayed",
+      "C": "have long being decayed",
+      "D": "had long decayed",
+      "E": "had been decayed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When you need to talk about two things that happened in the past and one event started and finished before the other one started, place “ had ” before the main verb for the event that happened first.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/490",
+    "passage": ""
   }
 ]

@@ -526,5 +526,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/363",
     "passage": ""
+  },
+  {
+    "id": 364,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following currents has a warming influence upon the coast along which it flows?",
+    "options": {
+      "A": "Mozambique current",
+      "B": "Labrador current",
+      "C": "Benguela current",
+      "D": "Canaries current",
+      "E": "Humboldt current"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/364",
+    "passage": ""
   }
 ]

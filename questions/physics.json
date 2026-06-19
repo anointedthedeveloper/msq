@@ -481,5 +481,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/594",
     "passage": ""
+  },
+  {
+    "id": 596,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Steel is more suitable for permanent magnet than iron because the former",
+    "options": {
+      "A": "is easily demagnetized by shaing vigorously",
+      "B": "is an alloy of many metals",
+      "C": "is easily magnetized by alternating current through one cycle",
+      "D": "retains magnetism more than iron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/596",
+    "passage": ""
+  },
+  {
+    "id": 600,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Four cells each of e.m.f 1.5V and internal resistance of 4Ω are connected in parallel. What is the effective e.m.f. and internal resistance of the combination?",
+    "options": {
+      "A": "6.0V, 16Ω",
+      "B": "6.0V, 1Ω",
+      "C": "1.5V, 4Ω",
+      "D": "1.5V, 1Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Since all the cells are connected in parallel, the effective e.m.f. is just that of one single cell. Which means e.m.f. = 1.5V However, the effective internal resistance adds as parallel arrangement given as 1/r = 1/r1 + 1/r2 + 1/r3 + 1/r4 = 1/4 + 1/4 + 1/4 + 1/4 = 1Ω ∴ r = 1Ω Answer = 1.5V, 1Ω",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/600",
+    "passage": ""
+  },
+  {
+    "id": 605,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A 3000W electric cooker is to be used on a 200V mains circuit. Which of the fuses below can be used safely with the cooker?",
+    "options": {
+      "A": "2A",
+      "B": "5A",
+      "C": "10A",
+      "D": "20A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The maximum current drawn by the cooker is given by; I = \\(\\frac{P}{V}\\) ∴ I = \\(\\frac{\\text{3000}}{200}\\) I = 15A The fuse rating = I \\(\\times\\) 125% (the fuse is rated at 125% of the normal operating current)\nHence, the fuse rating = 15A \\(\\times\\) (\\(\\frac{125}{100}\\)) = 18.75amps\nTherefore, the best fuse is 20A.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/605",
+    "passage": ""
   }
 ]
