@@ -2013,5 +2013,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73697",
     "passage": ""
+  },
+  {
+    "id": 73698,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "School billboard. Allon",
+    "options": {
+      "A": "Sanarwar Makaranta",
+      "B": "nuna makaranta",
+      "C": "rubutun makaranta.",
+      "D": "rubutun yaran makaranta."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is nuna makaranta because a school billboard is translated as allon nuna makaranta in Hausa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73698",
+    "passage": ""
   }
 ]
