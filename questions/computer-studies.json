@@ -15822,5 +15822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67789",
     "passage": ""
+  },
+  {
+    "id": 67790,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the difference between an assembler and a compiler ?",
+    "options": {
+      "A": "an assembler converts a machine language code into assembly level language code while a compiler converts high level programming language to a machine language code.",
+      "B": "an assembler converts assembly level language code into machine language code while a compiler converts high level programming language code to a machine language code.",
+      "C": "a compiler converts assembly level language code into machine lange while an assembler converts high level programming language to a machine language code.",
+      "D": "they both convert assembly level language code into machine lange"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An assembler converts assembly level language code into machine language code while a compiler converts high level programming language code to a machine language code.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67790",
+    "passage": ""
   }
 ]
