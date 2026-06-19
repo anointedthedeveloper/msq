@@ -2516,5 +2516,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49921",
     "passage": ""
+  },
+  {
+    "id": 49923,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "which of the following policies can be used as security for a loan.",
+    "options": {
+      "A": "key-man policy",
+      "B": "endowment policy",
+      "C": "term insurance policy",
+      "D": "whole life insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A collateral assignment of life insurance is a conditional assignment appointing a lender as the primary beneficiary of a death benefit to use as collateral for a loan . If the borrower is unable to pay, the lender can cash in the life insurance policy and recover what is owed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49923",
+    "passage": ""
   }
 ]
