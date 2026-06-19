@@ -15846,5 +15846,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23192",
     "passage": ""
+  },
+  {
+    "id": 23193,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Simplify: \\(\\frac{4^{-\\frac{1}{2}} \\times 16^{\\frac{3}{4}}}{4^{\\frac{1}{2}}}\\)",
+    "options": {
+      "A": "1 / 4",
+      "B": "0",
+      "C": "1",
+      "D": "2",
+      "E": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{4^{-\\frac{1}{2}} \\times 16^{\\frac{3}{4}}}{4^{\\frac{1}{2}}}\\)\n= \\(\\frac{16^{\\frac{3}{4}}}{4^{\\frac{1}{2}} \\times 4^{\\frac{1}{2}}}\\)\n= \\(\\frac{(2^4)^{\\frac{3}{4}}}{4^{\\frac{1}{2}} \\times 4^{\\frac{1}{2}}}\\)\n= \\(\\frac{2^3}{4}\\)\n= 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23193",
+    "passage": ""
   }
 ]
