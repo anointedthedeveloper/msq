@@ -11826,5 +11826,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14494",
     "passage": ""
+  },
+  {
+    "id": 14495,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The value of x, y and z respectively in the expression M\\(^x\\) L\\(^y\\)T \\(^z\\) for the universal gravitational constant G are?",
+    "options": {
+      "A": "2, -3, -2",
+      "B": "-1, 3, -2",
+      "C": "-1, 2, -3",
+      "D": "-2, -1, 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "F ∝ \\(\\frac{M_1 M_2}{r^2}\\)\nF = \\(\\frac{GM_1M_2}{r^2}\\)\nwhere F is the force of attraction M\\(_1\\) and M\\(_2\\) are the masses of the two bodies, r is the distance between them, and G is the universal gravitational constant\nTherefore, G = \\(\\frac{Fr^2}{M_1M_2}\\)\nDimension for F = \\(\\frac{\\text{ML}}{T.T}\\) = MLT\\(^{-2}\\) The dimension for G = \\(\\frac{MLT^{-2}L^2}{M.M}\\) = \\(\\frac{L^3T^{-2}}{M}\\)\n= M\\(^{-1}\\)L\\(^3\\)T\\(^{-2}\\) In comparison with M\\(^x\\)L\\(^y\\)T\\(^z\\), the values for x, y and z = -1, 3, -2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14495",
+    "passage": ""
   }
 ]
