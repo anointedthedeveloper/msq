@@ -10833,5 +10833,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22052",
     "passage": ""
+  },
+  {
+    "id": 22054,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A sales girl gave a change of N1.15 to a customer instead of N1.25. Calculate her percentage error",
+    "options": {
+      "A": "10%",
+      "B": "7%",
+      "C": "8.0%",
+      "D": "2.4%",
+      "E": "10%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Error = 1.25 - 1.15 = 0.10\n0.10 / 1.25 * 100 = 8.0%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22054",
+    "passage": ""
   }
 ]
