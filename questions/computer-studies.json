@@ -20843,5 +20843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76887",
     "passage": ""
+  },
+  {
+    "id": 76888,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following software can be used for graphic production?",
+    "options": {
+      "A": "Acrobat reader",
+      "B": "PC writer",
+      "C": "DOS editor",
+      "D": "Corel draw"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "CorelDRAW is a vector graphics editor developed and marketed by Corel Corporation. It is also the name of the Corel graphics suite, which includes the bitmap-image editor Corel Photo-Paint as well as other graphics-related programs. It is used for graphic production.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76888",
+    "passage": ""
   }
 ]
