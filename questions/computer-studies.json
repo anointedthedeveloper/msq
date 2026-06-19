@@ -10112,5 +10112,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62751",
     "passage": ""
+  },
+  {
+    "id": 62752,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The following are types of data network except?",
+    "options": {
+      "A": "MAC.",
+      "B": "MAN.",
+      "C": "PAN.",
+      "D": "WAN."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "MAC stands for Media Access Control, which is a unique identifier assigned to a network interface for communications at the data link layer of a network segment.\nMAC is not a type of data network but the rest options are.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62752",
+    "passage": ""
   }
 ]
