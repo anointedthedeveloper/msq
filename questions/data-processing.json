@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57159",
     "passage": ""
+  },
+  {
+    "id": 57190,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Convert \\(47_8\\) to its binary equivalent.",
+    "options": {
+      "A": "100111\\(_2\\)",
+      "B": "110011\\(_2\\)",
+      "C": "10001\\(_2\\)",
+      "D": "1111011\\(_2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Convert to base 10 first.\n\\(47_8\\) = 4 x \\(8^1\\) + 7 x \\(8^0\\) = \\(39_{10}\\)\nThen convert \\(39_{10}\\) to base 2 as follows\n2 39 2 19 R 1 2 9 R 1 2 4 R 1 2 2 R 0 2 1 R 0 2 0 R 1\nTherefore \\(47_8\\) is equivalent to \\(100111_2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57190",
+    "passage": ""
   }
 ]
