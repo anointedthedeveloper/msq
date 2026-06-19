@@ -16658,5 +16658,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24289",
     "passage": ""
+  },
+  {
+    "id": 24290,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Calculate the energy stored in 20μF capacitor if the potential difference between the plates is 40 V.",
+    "options": {
+      "A": "3.2 x10 -2 J",
+      "B": "1.6x10 2 J",
+      "C": "8.0x10 -4 J",
+      "D": "4.0x10 -4 J",
+      "E": "2.0x10 -4 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\n-6\n2\n-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24290",
+    "passage": ""
   }
 ]
