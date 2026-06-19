@@ -7579,5 +7579,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3238",
     "passage": ""
+  },
+  {
+    "id": 3239,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In the diagram above which of the curves illustrates Arrhenius' law?",
+    "options": {
+      "A": "Y",
+      "B": "Z",
+      "C": "R",
+      "D": "X"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12163790763_Untitled.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909474/myschool/chemistry/12163790763_Untitled.png",
+    "correct_answer": "D",
+    "explanation": "The graphical representation of the Arrhenius equation, which describes the temperature dependence of reaction rates, involves plotting the natural logarithm of the rate constant (ln k) against the inverse of the absolute temperature (1/T), resulting in a straight line with a slope of -Ea/R and a y-intercept of ln A.\n(See an example above)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3239",
+    "passage": ""
   }
 ]
