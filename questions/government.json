@@ -7606,5 +7606,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2750",
     "passage": ""
+  },
+  {
+    "id": 2751,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Membership of a society is",
+    "options": {
+      "A": "reserved",
+      "B": "voluntary",
+      "C": "mandatory",
+      "D": "honorary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2751",
+    "passage": ""
   }
 ]
