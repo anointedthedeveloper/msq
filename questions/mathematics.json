@@ -14460,5 +14460,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23107",
     "passage": ""
+  },
+  {
+    "id": 23108,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Which of the following about a rhombus may not be true?",
+    "options": {
+      "A": "The diagonals are equal",
+      "B": "The diagonals bisect the angles through which they pass",
+      "C": "the diagonals bisect each other",
+      "D": "The adjacent sides are equal",
+      "E": "Opposite angles are equal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23108",
+    "passage": ""
   }
 ]
