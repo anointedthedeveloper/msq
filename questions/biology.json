@@ -4640,5 +4640,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2297",
     "passage": ""
+  },
+  {
+    "id": 2298,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Where is the energy produced in a cell?",
+    "options": {
+      "A": "Nucleus",
+      "B": "Nucleolus",
+      "C": "Lysosomes",
+      "D": "Chloroplast",
+      "E": "Mitochondria"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2298",
+    "passage": ""
   }
 ]
