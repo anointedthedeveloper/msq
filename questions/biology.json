@@ -1736,5 +1736,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/415",
     "passage": ""
+  },
+  {
+    "id": 416,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Grasses → grasshopper→ lizard → snakes → hawks. In the food chain, the organism which are the least in number are",
+    "options": {
+      "A": "grasses",
+      "B": "grasshopper",
+      "C": "lizards",
+      "D": "snakes",
+      "E": "hawks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Tertiary consumers are typically the least numerous in a food chain because of energy loss at each trophic level, with only about 10% of energy being transferred to the next level, limiting the amount of energy available to support higher-level consumers.\nAs energy flows up the food chain, a significant amount is lost as heat, used for metabolism, and not all food is consumed or digested. Only about 10% of the energy from one trophic level is available to the next. This energy loss means that there's less energy available to support larger populations of tertiary consumers, which are at the top of the food chain.\nIn summary, as you move from left to right, i.e from the primary producers to the primary consumer to secondary producers and so on, the number of species decreases due to energy loss at each trophic level, thereby limiting the amount of energy available to support the higher level consumers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/416",
+    "passage": ""
   }
 ]
