@@ -17119,5 +17119,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25001",
     "passage": ""
+  },
+  {
+    "id": 25002,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "How far will a body move in 4 seconds if uniformly accelerated from rest at the rate of 2 ms-2?",
+    "options": {
+      "A": "32m",
+      "B": "24m",
+      "C": "16m",
+      "D": "1.2m",
+      "E": "5m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "S = ut + \\(\\frac{1}{2}\\) at\\(^2\\) = 0 + \\(\\frac{1}{2}\\) x 2 x 4\\(^2\\) = 16m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25002",
+    "passage": ""
   }
 ]
