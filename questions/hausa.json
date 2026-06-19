@@ -5450,5 +5450,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74007",
     "passage": ""
+  },
+  {
+    "id": 74008,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Jam'in Hula-huluna Aska -",
+    "options": {
+      "A": "asake",
+      "B": "askoki",
+      "C": "aska",
+      "D": "asaku"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is asake. The question is asking for the correct plural form of the noun \"Hula-huluna Aska\". In Hausa, the plural form of a noun is typically formed by adding the suffix \"-e\" or \"-i\" to the singular form. In this case, the correct plural form of \"Aska\" is \"asake\", The other options - asaku, aska, askoki, and askuna - are not the correct plural forms. Therefore, the correct answer is asake.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74008",
+    "passage": ""
   }
 ]
