@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76314",
     "passage": ""
+  },
+  {
+    "id": 76315,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The cadence in the chord progression above is",
+    "options": {
+      "A": "deceptive",
+      "B": "imperfect",
+      "C": "plagal",
+      "D": "perfect"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/na941R6swipFyX2SmhGcShjbNyPlNP3uLuCgZ2NM.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890558/myschool/music/na941R6swipFyX2SmhGcShjbNyPlNP3uLuCgZ2NM.png",
+    "correct_answer": "B",
+    "explanation": "A cadence is a melodic or harmonic configuration that creates a sense of resolution. In the image, the progression ends on Chord V (the dominant). Any cadence that ends on Chord V is known as an imperfect cadence (often called a \"half cadence\"), which sounds unfinished and leaves the listener expecting more.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76315",
+    "passage": ""
   }
 ]
