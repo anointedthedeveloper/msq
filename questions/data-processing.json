@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57231",
     "passage": ""
+  },
+  {
+    "id": 57234,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not an application of computers?",
+    "options": {
+      "A": "bank notes counter",
+      "B": "point of sales terminal",
+      "C": "Automated Teller Machine",
+      "D": "traffic lights control"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57234",
+    "passage": ""
   }
 ]
