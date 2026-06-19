@@ -11746,5 +11746,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64137",
     "passage": ""
+  },
+  {
+    "id": 64138,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which term describes accessing files from a computer other than the one where the files are stored.",
+    "options": {
+      "A": "local access",
+      "B": "remote access",
+      "C": "cloud access",
+      "D": "special access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The cloud access enables one access files from a cloud database than where the files are stored because, anything uploaded to a cloud can be accessed from another computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64138",
+    "passage": ""
   }
 ]
