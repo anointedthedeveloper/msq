@@ -12628,5 +12628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64346",
     "passage": ""
+  },
+  {
+    "id": 64347,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computer applications are example of ___________",
+    "options": {
+      "A": "Hardware",
+      "B": "Computer utilities",
+      "C": "Program packages",
+      "D": "Software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Every computer application is a software, because they are things that exist only in the computer, hence they aren't hardware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64347",
+    "passage": ""
   }
 ]
