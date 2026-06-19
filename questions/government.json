@@ -7018,5 +7018,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2701",
     "passage": ""
+  },
+  {
+    "id": 2702,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the Nigerian Constitution,the powers to create local governments lie with the",
+    "options": {
+      "A": "state governors",
+      "B": "National Assembly",
+      "C": "Presidency",
+      "D": "state house of assembly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Under the Constitution of the Federal Republic of Nigeria, the power to create local governments rests with the State House of Assembly . This reflects Nigeria’s federal structure, where states have authority over local government administration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2702",
+    "passage": ""
   }
 ]
