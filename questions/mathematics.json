@@ -7894,5 +7894,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9277",
     "passage": ""
+  },
+  {
+    "id": 9278,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram above, PQ//RS. The size of the angle marked x is?",
+    "options": {
+      "A": "100 o",
+      "B": "80 o",
+      "C": "50 o",
+      "D": "30 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/HzngxbA2hFJXtrjywoilatzVKzx04i0bdRdw5V2b.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868749/myschool/mathematics/HzngxbA2hFJXtrjywoilatzVKzx04i0bdRdw5V2b.jpg",
+    "correct_answer": "B",
+    "explanation": "Exterior angle = sum of two interior opposite angles y = 50° (vert. opp ∠s are equal) X = y + 30 X = 50 + 30 X = 80°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9278",
+    "passage": ""
   }
 ]
