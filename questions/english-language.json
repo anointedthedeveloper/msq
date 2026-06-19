@@ -2923,5 +2923,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1354",
     "passage": ""
+  },
+  {
+    "id": 1355,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The solution to the problem has so far .... the scientist",
+    "options": {
+      "A": "defied",
+      "B": "allured",
+      "C": "eluded",
+      "D": "denied",
+      "E": "avoided"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To \"elude\" means to escape or evade understanding, detection, or grasp. This fits perfectly: the solution has escaped the scientist’s understanding so far .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1355",
+    "passage": ""
   }
 ]
