@@ -7069,5 +7069,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62517",
     "passage": ""
+  },
+  {
+    "id": 62518,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) Convert 1011011\\(_2\\) to its hexadecimal equivalent\n(b) State one difference a hacker and a scammer (c) identify the parts labeled A, B, C and D on the keyboard shown below",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) First method First converting 1011011, Base ten:\n1011011\\(_2\\) =  1x2\\(^6\\) +Ox2\\(^5\\) + 1x2\\(^4\\) + 1x2\\(^\\3) + Ox2\\(^2\\) + 1x2\\(^1\\) +1x2\\(^0\\)\n= 1x64 + 0x32 + 1x16 + 1x8 + 0x4 + 1x2 + 1x1\n= 64+0+ 16 + 8 + 0+ 2+1 = 91\nThen converting 91, to Hexadecimal → 5B\\(_{16}\\)\n(b) A hacker is a person who gains unauthorised account witt the Final answer: Ccess aim of stealing or altering data or naving otherhe intentions. aving other to computer systems through user's account witSs Dad A scammer is a person who gains unauthorisert cess to user's account by sending unwanted or in propriate electronic mail to multiple recepientedp ac ted or in with the intention to deceive. OR chni- Hackers are programmers who have backend tech eak cal knowledge of any software and uses such to bra into commputer systems of unsuspecting client. 9 A scammer ensures that his victim remotely gain an cess to his computer and then uses the confidenco tricks to later defraud the unsuspecting client for tech. nical support ac OR TUR Hackers are also called black hats or crackers with malicious intentions, to steal, exploit, and sell data A scammer makes use of Windows tools and Sys- tem directories as tools for their malicious activities Elderly people, illiterate computer users and free-soft ware patronise are mostly victims of scammers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62518",
+    "passage": ""
   }
 ]
