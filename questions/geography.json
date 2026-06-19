@@ -2537,5 +2537,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6214",
     "passage": ""
+  },
+  {
+    "id": 6220,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following scales should show the greatest amount of detail on a map?",
+    "options": {
+      "A": "1:2500 000",
+      "B": "1:63 360",
+      "C": "1:32",
+      "D": "1:160 934",
+      "E": "1:2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6220",
+    "passage": ""
   }
 ]
