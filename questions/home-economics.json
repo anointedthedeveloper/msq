@@ -2392,5 +2392,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73287",
     "passage": ""
+  },
+  {
+    "id": 73288,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A set of menu forming a complete meal at a set price is termed",
+    "options": {
+      "A": "Ethnic menu",
+      "B": "Special party menu",
+      "C": "A la carte",
+      "D": "Table d'hote"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Table d’hôte (French for “table of the host”) is a set menu offering a complete meal—usually with several courses—at a fixed price determined by the restaurant.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73288",
+    "passage": ""
   }
 ]
