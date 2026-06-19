@@ -4135,5 +4135,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12270",
     "passage": ""
+  },
+  {
+    "id": 12271,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The stylus of a phonograph record exerts a force of 7.7 x 10\\(^{-2}\\)N on a groove of radius 10\\(^{-5}\\)m. Compute the pressure exerted by the stylus on the groove",
+    "options": {
+      "A": "2.45 x 10 8 Nm -2",
+      "B": "3.45 x 10 8 Nm -2",
+      "C": "4.90 x 10 8 Nm -2",
+      "D": "2.42 x 10 8 Nm -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Pressure P = \\(\\frac{F}{A}\\);  Pressure P  = \\(\\frac{F}{\\pi r^2}\\)\n= \\(\\frac{7.7 \\times 10^{-2}}{\\pi \\times 10^{-10}}\\)\n= 2.45 x 10\\(10^8\\)Nm\\(^{-2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12271",
+    "passage": ""
   }
 ]
