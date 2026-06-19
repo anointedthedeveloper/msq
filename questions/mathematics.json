@@ -11339,5 +11339,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22199",
     "passage": ""
+  },
+  {
+    "id": 22208,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In the diagram above, PR is perpendicular from P to QS, PQ = 2cm, QR = 1cm and PR = RS. what is the size of the angle QPS?",
+    "options": {
+      "A": "135 o",
+      "B": "105 o",
+      "C": "90 o",
+      "D": "75 o",
+      "E": "60 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11064452400_wcmath198843.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907029/myschool/mathematics/11064452400_wcmath198843.jpg",
+    "correct_answer": "D",
+    "explanation": "\\(\\Delta RPS\\) = Isosceles triangle\n\\(\\therefore < RPS = \\frac{180° - 90°}{2}\\) = 45°\nIn \\(\\Delta QPR\\),\\(\\sin < QPR = \\frac{1}{2}\\) = 30°\n\\(\\therefore < QPS = 30° + 45° = 75°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22208",
+    "passage": ""
   }
 ]
