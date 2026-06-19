@@ -10942,5 +10942,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14393",
     "passage": ""
+  },
+  {
+    "id": 14397,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following types of waves needs a medium for propagation?",
+    "options": {
+      "A": "sound waves",
+      "B": "light waves",
+      "C": "radio waves",
+      "D": "x - rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14397",
+    "passage": ""
   }
 ]
