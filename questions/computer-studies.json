@@ -13804,5 +13804,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64424",
     "passage": ""
+  },
+  {
+    "id": 64426,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "___________ booting is done by turning on the computer at first instance.",
+    "options": {
+      "A": "hot",
+      "B": "spicy",
+      "C": "cold",
+      "D": "cool"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cold booting is the process where a computer is turned on from a totally powerless state.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64426",
+    "passage": ""
   }
 ]
