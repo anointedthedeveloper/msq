@@ -18041,5 +18041,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25058",
     "passage": ""
+  },
+  {
+    "id": 25059,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "Which of the following will reduce the frequency of oscillation of a simple pendulum?",
+    "options": {
+      "A": "Increasing the mass of the bob",
+      "B": "Decreasing the mass of the bob",
+      "C": "Increasing the length of the string",
+      "D": "Decreasing the length of the string",
+      "E": "Decreasing the amplitude of oscillation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25059",
+    "passage": ""
   }
 ]
