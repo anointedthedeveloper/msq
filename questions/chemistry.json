@@ -10057,5 +10057,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4042",
     "passage": ""
+  },
+  {
+    "id": 4045,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "0.05 mol dm-3 HCl is neutralized by 25 cm3 NaOH. If the volume of acid used is 32.00cm3, what is the concentration of the base",
+    "options": {
+      "A": "0.016 mol dm -3",
+      "B": "0.032 mol dm -3",
+      "C": "0.039 mol dm -3",
+      "D": "0.064 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "HCl + NaOH → NaCl + H2O CAVA = NA/NB = (0.05 * 32)/(CB * 25) ∴ CB = (0.05 * 32)/25 = 0.064 mol dm-3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4045",
+    "passage": ""
   }
 ]
