@@ -4911,5 +4911,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70831",
     "passage": ""
+  },
+  {
+    "id": 70832,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does NATCEGA stand for?",
+    "options": {
+      "A": "National Association of Colleges and Education Games Administration",
+      "B": "National Association of Teachers of Colleges and Education Games",
+      "C": "Nigeria advanced Teacher's Colleges and College of Education Games Association",
+      "D": "National Association of Technical Colleges Education Games Association"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "NATCEGA is the acronym for the Nigeria advanced Teacher's Colleges and College of Education Games Association, which organizes sporting competitions among colleges of education in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70832",
+    "passage": ""
   }
 ]
