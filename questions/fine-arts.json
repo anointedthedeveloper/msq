@@ -2014,5 +2014,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75360",
     "passage": ""
+  },
+  {
+    "id": 75361,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the function of perspective in drawing?",
+    "options": {
+      "A": "To flatten the image",
+      "B": "To depict spatial depth",
+      "C": "To show emotion",
+      "D": "To add texture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Perspective in drawing is used to create the illusion of depth and distance , making a two-dimensional image look three-dimensional.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75361",
+    "passage": ""
   }
 ]
