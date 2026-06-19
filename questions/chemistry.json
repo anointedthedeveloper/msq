@@ -547,5 +547,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/74",
     "passage": ""
+  },
+  {
+    "id": 75,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An example of an alcohol is",
+    "options": {
+      "A": "CCl 4",
+      "B": "CH 3 COOH",
+      "C": "CHCl 3",
+      "D": "C 2 H 6",
+      "E": "CH 3 OH"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/75",
+    "passage": ""
   }
 ]
