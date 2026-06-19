@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72471",
     "passage": ""
+  },
+  {
+    "id": 72472,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Ta ni agbára ń pa bí otí?",
+    "options": {
+      "A": "Odésanmí",
+      "B": "Omidan",
+      "C": "Bàbá",
+      "D": "Awááyékú"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72472",
+    "passage": ""
   }
 ]
