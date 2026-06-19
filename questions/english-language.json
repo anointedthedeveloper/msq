@@ -2813,5 +2813,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1349",
     "passage": ""
+  },
+  {
+    "id": 1350,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which\nbest completes each\nsentence :\nDo you know if the new teacher .... yet?",
+    "options": {
+      "A": "is arrived",
+      "B": "will be arriving",
+      "C": "has arrived",
+      "D": "had arrived",
+      "E": "has been arriving"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1350",
+    "passage": ""
   }
 ]
