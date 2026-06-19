@@ -5670,5 +5670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62429",
     "passage": ""
+  },
+  {
+    "id": 62430,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not a biometric data?",
+    "options": {
+      "A": "finger prints",
+      "B": "password",
+      "C": "pattern of eye iris",
+      "D": "sound of the voice."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62430",
+    "passage": ""
   }
 ]
