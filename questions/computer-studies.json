@@ -10091,5 +10091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62750",
     "passage": ""
+  },
+  {
+    "id": 62751,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A rectangular image consisting of black lines and white spaces representing data which can be optically read is called?",
+    "options": {
+      "A": "barcode.",
+      "B": "decoder.",
+      "C": "mnemonics.",
+      "D": "pseudocode."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62751",
+    "passage": ""
   }
 ]
