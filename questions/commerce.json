@@ -4661,5 +4661,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1891",
     "passage": ""
+  },
+  {
+    "id": 1896,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Product involves",
+    "options": {
+      "A": "making goods avaiable where and when needed",
+      "B": "changing the form of goods, moving and making them avaiable as needed",
+      "C": "the manufacturing of goods and provision of services",
+      "D": "the assembling of all necessary parts to produce  a finished product"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Product involves both the manufacturing of goods and the provision of services. This encompasses the creation of tangible products as well as the delivery of intangible services that fulfill customer needs and provide value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1896",
+    "passage": ""
   }
 ]
