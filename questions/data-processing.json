@@ -3744,5 +3744,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58548",
     "passage": ""
+  },
+  {
+    "id": 58555,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The first generation computers made use of",
+    "options": {
+      "A": "low level programming",
+      "B": "high level programming language",
+      "C": "object-oriented programming language",
+      "D": "procedural programming language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The first generation of computers relied on machine language(a low-level programming language) instructions and used vacuum tubes in their construction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58555",
+    "passage": ""
   }
 ]
