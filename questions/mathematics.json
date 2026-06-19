@@ -8881,5 +8881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9327",
     "passage": ""
+  },
+  {
+    "id": 9328,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In the figure above , TS//XY and XY = TY, ∠STZ = 34°, ∠TXY = 47°, find the angle marked n?",
+    "options": {
+      "A": "47 o",
+      "B": "52 o",
+      "C": "56 o",
+      "D": "99 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868839/myschool/mathematics/Rh8nhohN1DSB0ARJ5XXXM6jVTg2cwEYIGPHouD3f.jpg",
+    "correct_answer": "B",
+    "explanation": "In Δ TYX XY = TY ∴y =47° base ∠s of ISCΔ But y+x+34+47 = 180 interior opposite ∠s are supplementary 47 + x + 34 + 47 = 180 x + 128= 180 x = 180- 128 x = 52°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9328",
+    "passage": ""
   }
 ]
