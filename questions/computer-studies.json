@@ -2748,5 +2748,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61824",
     "passage": ""
+  },
+  {
+    "id": 61825,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of the following is not a function of symbolic DOS command?",
+    "options": {
+      "A": "CLS:",
+      "B": "MD:",
+      "C": "RD:",
+      "D": "TYPE:",
+      "E": "VER:"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61825",
+    "passage": ""
   }
 ]
