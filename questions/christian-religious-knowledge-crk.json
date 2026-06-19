@@ -1010,5 +1010,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/250",
     "passage": ""
+  },
+  {
+    "id": 252,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who was released by Pilate in place of Jesus?",
+    "options": {
+      "A": "Herod",
+      "B": "Nicodemus",
+      "C": "Joseph of Arimathea",
+      "D": "Barabbas",
+      "E": "Cleopas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/252",
+    "passage": ""
   }
 ]
