@@ -328,5 +328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/323",
     "passage": ""
+  },
+  {
+    "id": 324,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In which of the following groups of organisms do all the members have asexual method of reproduction?",
+    "options": {
+      "A": "A geen filament algae, a flowering plant and a bird",
+      "B": "A toad (or frog) , ameoba and mucor ( penicillium)",
+      "C": "A flowering plant, tape worm (or ascaris) and a green filamentous algae",
+      "D": "Mucor (or penicillium), a bird and a toad (or frog)",
+      "E": "Ameoba, mucor (or penicillium ) and a green filamentous algae"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Amoeba reproduces by binary fission which is a form of asexual reproduction. Also, the mucor as well as the green algae reproduce asexually .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/324",
+    "passage": ""
   }
 ]
