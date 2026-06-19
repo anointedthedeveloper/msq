@@ -4996,5 +4996,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12791",
     "passage": ""
+  },
+  {
+    "id": 12792,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The particle and wave nature of matter are demonstrated in the equation",
+    "options": {
+      "A": "λ = hc / E",
+      "B": "λ = h / P",
+      "C": "λ = c / f",
+      "D": "λ = 2 d sin θ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "I wave - particle duality of matter, the momentum of sub-atomic particle is given by P = h/λ where h = planck constant ; λ = wave length => λ = h/P\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12792",
+    "passage": ""
   }
 ]
