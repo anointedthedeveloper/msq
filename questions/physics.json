@@ -5185,5 +5185,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12801",
     "passage": ""
+  },
+  {
+    "id": 12802,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If 16mA of current flows through a conductor in one second, the number of electron transported per seconds is\n[1 electronic charge = 1.6 x 10\n-19\nC]",
+    "options": {
+      "A": "1.00 x 10 20",
+      "B": "2.56 x 10 -18",
+      "C": "2.56 x -17",
+      "D": "1.00 x 10 17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12802",
+    "passage": ""
   }
 ]
