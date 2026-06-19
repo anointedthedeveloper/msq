@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1432",
     "passage": ""
+  },
+  {
+    "id": 1435,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An electric generator with a power output of 3.0KW at a voltage of 1.5KV distributes power along cables of resistance 20.0Ω. The power loss in the cables is",
+    "options": {
+      "A": "80.0W",
+      "B": "40.0W",
+      "C": "10.0W",
+      "D": "0.1W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1435",
+    "passage": ""
   }
 ]
