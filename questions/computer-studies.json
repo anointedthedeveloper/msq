@@ -18621,5 +18621,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70993",
     "passage": ""
+  },
+  {
+    "id": 70994,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the advantage of using cell references in formulas compared to entering constant values?",
+    "options": {
+      "A": "Cell references make formulas more complex and difficult to understand.",
+      "B": "Cell references are only necessary for complex formulas with multiple functions.",
+      "C": "Cell references are only necessary for complex formulas with multiple functions.",
+      "D": "Cell references improve formula accuracy by reducing manual data entry."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cell references are crucial for maintaining dynamic formulas. When a value in a referenced cell changes, the formula automatically recalculates the result based on the updated data. This saves time and reduces errors compared to manually entering constant values within the formula itself.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70994",
+    "passage": ""
   }
 ]
