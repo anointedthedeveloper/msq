@@ -1572,5 +1572,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49787",
     "passage": ""
+  },
+  {
+    "id": 49789,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The factor which increases the possibility of loss that emanates from the insured attitude is?",
+    "options": {
+      "A": "physical hazard",
+      "B": "moral hazard",
+      "C": "uninsured peril",
+      "D": "excepted peril"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "moral hazard occurs when someone increases their exposure to risk when insured, especially when a person takes more risks because someone else bears the cost of those risks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49789",
+    "passage": ""
   }
 ]
