@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50070",
     "passage": ""
+  },
+  {
+    "id": 50071,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "An organised group that is independent of the state could be described as?",
+    "options": {
+      "A": "civil defence",
+      "B": "pressure group",
+      "C": "community group",
+      "D": "civil society"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Civil society refers to organizations and groups that are independent of the government and state institutions but work to represent the interests, concerns, or values of various groups of people in society.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50071",
+    "passage": ""
   }
 ]
