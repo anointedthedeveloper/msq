@@ -6501,5 +6501,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62486",
     "passage": ""
+  },
+  {
+    "id": 62487,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following symbols is not a relational operator in BASIC programming language?",
+    "options": {
+      "A": "<",
+      "B": ">",
+      "C": "^",
+      "D": "≤"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In computer science, a relational operator is a programming language construct or operator that tests or defines some kind of relation between two entities. These include '! =' (not equal to), '>=' (greater than or equal to), ≤ ( less than or equal to) '<' (less than), > ( greater than) and '=' (equal to). The '^' operator, however, is not a relational operator.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62487",
+    "passage": ""
   }
 ]
