@@ -19797,5 +19797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72639",
     "passage": ""
+  },
+  {
+    "id": 72654,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "30. New comment can be added to a cell in MS Excel by using the procedure",
+    "options": {
+      "A": "Edit → Comment.",
+      "B": "File → Comment.",
+      "C": "Insert→ Comment.",
+      "D": "Review→ Comment."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To add a new comment in MS Excel go to the Review tab and click new comment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72654",
+    "passage": ""
   }
 ]
