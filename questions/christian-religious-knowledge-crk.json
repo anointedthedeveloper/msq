@@ -966,5 +966,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/246",
     "passage": ""
+  },
+  {
+    "id": 249,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Mark's Gospel starts with",
+    "options": {
+      "A": "the story of the birth of Jesus",
+      "B": "the story of Simon Peter",
+      "C": "the story of John the Baptist",
+      "D": "the story of the temptation of Jesus",
+      "E": "the fasting of Jesus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/249",
+    "passage": ""
   }
 ]
