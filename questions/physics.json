@@ -1510,5 +1510,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1502",
     "passage": ""
+  },
+  {
+    "id": 1503,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Light of energy 5eV falls on a metal of work function 3eV and electrons are liberated. The stopping potential is",
+    "options": {
+      "A": "1.7V",
+      "B": "2.0V",
+      "C": "8.0V",
+      "D": "15.0V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For a photoemitted electron, eV = K.E.max, where V = stopping potential and K.E. = maximum kinetic energy of the photo emitted electron given by K.E. = Energy of incident rad - Work function = 5ev - 3ev = 2ev ∴ eV = 2eV V = 2eV/e = 2V ∴ Stopping Potential = 2.0V\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1503",
+    "passage": ""
+  },
+  {
+    "id": 1504,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The height at which the atmosphere ceases to exist is about 80km. If the atmospheric pressure on the ground level is 760mmHg, the pressure at a height of 20km above the ground level is",
+    "options": {
+      "A": "380mmHg",
+      "B": "570mmHg",
+      "C": "190mmHg",
+      "D": "480mmHg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1504",
+    "passage": ""
   }
 ]
