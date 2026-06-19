@@ -1742,5 +1742,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1018",
     "passage": ""
+  },
+  {
+    "id": 1021,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The emirate system of administration can be likened to",
+    "options": {
+      "A": "confederal system of government",
+      "B": "unitary system of government",
+      "C": "federal system of government",
+      "D": "constitutional monarchy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a unitary system , power is concentrated in one central authority , and all other levels of governance derive their authority from it. Similarly, in an absolute emirate system , the Emir exercises centralized power without checks and balances, making decisions that affect the people under his rule. There are no separate branches of government to check the Emir’s power, just as in a unitary system where local governments exist but operate at the discretion of the central authority .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1021",
+    "passage": ""
   }
 ]
