@@ -5185,5 +5185,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8428",
     "passage": ""
+  },
+  {
+    "id": 8456,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the equation of the perpendicular at the point (4,3) to the line y +  2x = 5",
+    "options": {
+      "A": "2y - x = 4",
+      "B": "y + 2x = 3",
+      "C": "y + 2x = 5",
+      "D": "2y - x = 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8456",
+    "passage": ""
   }
 ]
