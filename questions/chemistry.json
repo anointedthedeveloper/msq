@@ -8902,5 +8902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3784",
     "passage": ""
+  },
+  {
+    "id": 3791,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "If chlorine is bubbled into water and the resulting yellowish-green solution is exposed to bright sunlight for a while, the solution will decompose giving out",
+    "options": {
+      "A": "oxygen and leaving behind aqueous hydrochloric acid",
+      "B": "chlorine and oxygen",
+      "C": "oxygen, hydrogen and chlorine",
+      "D": "oxygen, thereby producing hypochlorous acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When chlorine reacts with water in the presence of sunlight, it produces oxygen gas and hydrochloric acid as the primary products; essentially, the sunlight breaks down the chlorine in water, liberating oxygen gas.\n2Cl\\(_2\\) + 2H\\(_2\\)O → 4HCl + O\\(_2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3791",
+    "passage": ""
   }
 ]
