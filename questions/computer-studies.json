@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60251",
     "passage": ""
+  },
+  {
+    "id": 60252,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "An advantage of sequential access over serial access is that_______",
+    "options": {
+      "A": "Sequential file is slow",
+      "B": "Sequential file is detailed",
+      "C": "Sequential file does not use key",
+      "D": "Individual records can be located more quickly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60252",
+    "passage": ""
   }
 ]
