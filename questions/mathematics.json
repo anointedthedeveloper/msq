@@ -14856,5 +14856,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23147",
     "passage": ""
+  },
+  {
+    "id": 23148,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Construct a quadratic equation whose roots are \\(-\\frac{1}{2}\\) and 2.",
+    "options": {
+      "A": "3x 2 -3x+2=0",
+      "B": "3x 2 +3x-2=0",
+      "C": "2x 2 +3x-2=0",
+      "D": "2x 2 -3x+2=0",
+      "E": "2x 2 -3x-2=0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "If x = \\(-\\frac{1}{2}\\) and 2; then\n\\(x + \\frac{1}{2} = 0\\) and \\(x - 2 = 0\\)\n\\(\\implies (x + \\frac{1}{2})(x - 2) = 0\\)\n\\(x^2 - 2x + \\frac{1}{2}x - 1 = 0\\)\n\\(x^2 - \\frac{3}{2}x - 1 = 0\\)\n\\(2x^2 - 3x - 2 = 0\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23148",
+    "passage": ""
   }
 ]
