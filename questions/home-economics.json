@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73209",
     "passage": ""
+  },
+  {
+    "id": 73210,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The basic pattern drafted to the exact size of the body is called a",
+    "options": {
+      "A": "Skirt",
+      "B": "Cape",
+      "C": "Block",
+      "D": "Bodice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A block is a basic pattern drafted to the exact size of the body, serving as a foundation for creating garments. It is a precise, customized pattern made to fit an individual's measurements, used as a starting point for designing and creating various garments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73210",
+    "passage": ""
   }
 ]
