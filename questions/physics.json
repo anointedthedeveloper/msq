@@ -8356,5 +8356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14052",
     "passage": ""
+  },
+  {
+    "id": 14056,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An object placed at the bottom of a well full of clear water appears closer to the surface due to?",
+    "options": {
+      "A": "diffraction",
+      "B": "reflection",
+      "C": "refraction",
+      "D": "polarization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Real depth and apparent dept is due to refraction\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14056",
+    "passage": ""
   }
 ]
