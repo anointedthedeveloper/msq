@@ -3210,5 +3210,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61845",
     "passage": ""
+  },
+  {
+    "id": 61846,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The symbolic representation of hard disk is?",
+    "options": {
+      "A": "B:",
+      "B": "B:1",
+      "C": "C:",
+      "D": "C:l",
+      "E": "D:"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61846",
+    "passage": ""
   }
 ]
