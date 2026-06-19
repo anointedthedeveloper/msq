@@ -2147,5 +2147,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71060",
     "passage": ""
+  },
+  {
+    "id": 71061,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "From the lettered A E, choose the odd one of the options. L'ecole:",
+    "options": {
+      "A": "Un crayon.",
+      "B": "Une fourchette",
+      "C": "Un cahier",
+      "D": "Un tableau."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The odd one out is Une fourchette, because a fork is not typically found in a school setting. The other options - Un cahier (notebook), Un crayon (pencil), Un tableau (blackboard), and Une gomme (eraser) - are all common school supplies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71061",
+    "passage": ""
   }
 ]
