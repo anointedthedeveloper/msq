@@ -7348,5 +7348,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9251",
     "passage": ""
+  },
+  {
+    "id": 9252,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Find the locus of point equidistant from two straight lines y - 5 = 0 and y - 3 = 0",
+    "options": {
+      "A": "y - 2 = 0",
+      "B": "y - 4 = 0",
+      "C": "y - 1 = 0",
+      "D": "y - 3 = 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9252",
+    "passage": ""
   }
 ]
