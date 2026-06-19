@@ -7285,5 +7285,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9248",
     "passage": ""
+  },
+  {
+    "id": 9249,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A particle P moves between points S and T such that angles SPT is always constant of ST constant. Find the locus of P",
+    "options": {
+      "A": "It is a semi circle with ST as diameter",
+      "B": "It is a perpendicular bisector of St",
+      "C": "It is a quadrant of a circle with ST as diameter",
+      "D": "It is a straight line perpendicular to ST"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When a particle P moves such that the angle ∠SPT is constant while ST remains fixed, it traces a circular path. Specifically, the locus of P is a semicircle because points on the circle subtended by the line segment ST maintain that angle.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9249",
+    "passage": ""
   }
 ]
