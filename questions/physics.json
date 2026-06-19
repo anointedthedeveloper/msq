@@ -7579,5 +7579,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13931",
     "passage": ""
+  },
+  {
+    "id": 13932,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The blade of a hoe feel colder to touch in the morning than the wooden handle because the",
+    "options": {
+      "A": "handle is a better conductor of heat than blade",
+      "B": "handle contains stored energy in form of heat",
+      "C": "blade is a better conductor of heat than the handle",
+      "D": "blade is placed at a lower temperature than the heat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The metal blade transfers heat away from your skin more effectively than the wooden handle. When you touch the blade, it rapidly absorbs heat from your hand, causing it to feel colder. In contrast, the wooden handle, which is a less effective conductor of heat, doesn't draw heat away as quickly, making it feel warmer in comparison.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13932",
+    "passage": ""
   }
 ]
