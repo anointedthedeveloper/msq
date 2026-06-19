@@ -12208,5 +12208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64326",
     "passage": ""
+  },
+  {
+    "id": 64327,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Programming language COBOL works best for use in",
+    "options": {
+      "A": "Siemens applications",
+      "B": "student applications",
+      "C": "social applications",
+      "D": "commercial application"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "COBOL, in full Common Business-Oriented Language, high-level computer programming language, one of the first widely used languages and for many years the most popular language in the business community.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64327",
+    "passage": ""
   }
 ]
