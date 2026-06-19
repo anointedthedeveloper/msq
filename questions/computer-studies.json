@@ -20696,5 +20696,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76866",
     "passage": ""
+  },
+  {
+    "id": 76869,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The Part labeled III represents?",
+    "options": {
+      "A": "decision symbol",
+      "B": "stop symbol",
+      "C": "read/write symbol",
+      "D": "process/action symbol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/HAilpO58Eh5fAs8YODqLvECD4yr0eaIQWf0fhxF4.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905162/myschool/computer-studies/HAilpO58Eh5fAs8YODqLvECD4yr0eaIQWf0fhxF4.png",
+    "correct_answer": "A",
+    "explanation": "The symbol labeled 'III' within the flowchart represents a decision step, indicating a point in the process where a choice or evaluation is made. This symbol is typically used to represent decision points that determine the flow of the process based on specific conditions or criteria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76869",
+    "passage": ""
   }
 ]
