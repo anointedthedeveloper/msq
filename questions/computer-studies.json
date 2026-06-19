@@ -2243,5 +2243,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61734",
     "passage": ""
+  },
+  {
+    "id": 61743,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The ...... is found in the CPU of a computer.",
+    "options": {
+      "A": "main memory",
+      "B": "modem",
+      "C": "mother board",
+      "D": "register",
+      "E": "zip drive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61743",
+    "passage": ""
   }
 ]
