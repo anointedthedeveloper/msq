@@ -3743,5 +3743,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62245",
     "passage": ""
+  },
+  {
+    "id": 62246,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following devices is not a micro computer?",
+    "options": {
+      "A": "Desktop",
+      "B": "EDVAC",
+      "C": "Laptop",
+      "D": "Notebook"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62246",
+    "passage": ""
   }
 ]
