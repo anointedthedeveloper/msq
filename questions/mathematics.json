@@ -13669,5 +13669,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22868",
     "passage": ""
+  },
+  {
+    "id": 22869,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "For what value of y is the expression \\(\\frac{y + 2}{y^{2} - 3y - 10}\\) undefined?",
+    "options": {
+      "A": "y = 0",
+      "B": "y = 2",
+      "C": "y = 3",
+      "D": "y = 5",
+      "E": "y = 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{y + 2}{y^2 - 3y - 10}\\)\n\\(y^2 - 3y - 10 = 0 \\implies y^2 - 5y + 2y - 10 = 0\\)\n\\(y(y - 5) + 2(y - 5) = 0\\)\n\\((y - 5)(y + 2) = 0\\)\n\\(\\frac{y + 2}{(y - 5)(y + 2)} = \\frac{1}{y - 5}\\)\n\\(\\therefore\\) At y = 5, the expression \\(\\frac{y + 2}{y^2 - 3y - 10}\\) is undefined.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22869",
+    "passage": ""
   }
 ]
