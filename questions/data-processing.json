@@ -5744,5 +5744,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62591",
     "passage": ""
+  },
+  {
+    "id": 62592,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The joystick is mainly used for",
+    "options": {
+      "A": "clicking the links on web pages",
+      "B": "drawing and playing computer games",
+      "C": "erasing of unwanted graphics",
+      "D": "typing of document in a word processor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A joystick is also known as the control column. The joystick is an input device mostly used for gaming applications and, sometimes, in graphics applications.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62592",
+    "passage": ""
   }
 ]
