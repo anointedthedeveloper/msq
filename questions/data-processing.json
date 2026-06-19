@@ -8209,5 +8209,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69805",
     "passage": ""
+  },
+  {
+    "id": 69806,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The allocation and de-allocation of computing resources in a computer is the function of",
+    "options": {
+      "A": "browsers",
+      "B": "operating system",
+      "C": "application software",
+      "D": "memory unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The allocation and de-allocation of computing resources in a computer is the function of the operating system. The operating system is responsible for managing various hardware and software resources, including memory, processing power, storage, and input/output devices. It ensures that different applications and processes run smoothly by allocating resources as needed and de-allocating them when they are no longer required. Application software, browsers, and memory units may interact with the operating system, but the primary responsibility for resource management lies with the operating system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69806",
+    "passage": ""
   }
 ]
