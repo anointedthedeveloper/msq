@@ -5165,5 +5165,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1995",
     "passage": ""
+  },
+  {
+    "id": 1997,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A form of money that has gone out of use is?",
+    "options": {
+      "A": "paper money",
+      "B": "bank money",
+      "C": "commodity money",
+      "D": "foreign money"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1997",
+    "passage": ""
   }
 ]
