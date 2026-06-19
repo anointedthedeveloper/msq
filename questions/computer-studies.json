@@ -12733,5 +12733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64353",
     "passage": ""
+  },
+  {
+    "id": 64355,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The Domain name of a website is also its__________",
+    "options": {
+      "A": "IP address",
+      "B": "TCP address",
+      "C": "Database system",
+      "D": "Network server"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "IP address. Usually, a domain name is used instead of an IP address, because the domain name is easier to work with, and is more human friendly that the IP address. Also, every domain is unique and has its IP address. Therefore, Domain names are used by computer uses, because the IP address is more complex to work with.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64355",
+    "passage": ""
   }
 ]
