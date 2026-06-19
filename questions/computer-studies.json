@@ -11998,5 +11998,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64316",
     "passage": ""
+  },
+  {
+    "id": 64317,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the permanent memory built into your computer called?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "CPU",
+      "D": "CD-ROM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "ROM is an acronym for Read-Only Memory. It refers to computer memory chips containing permanent or semi-permanent data. Unlike RAM, ROM is non-volatile; even after you turn off your computer, the contents of ROM will remain. Almost every computer comes with a small amount of ROM containing the boot firmware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64317",
+    "passage": ""
   }
 ]
