@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48066",
     "passage": ""
+  },
+  {
+    "id": 75224,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the artistic term for a structured path for the viewer's eye to follow?",
+    "options": {
+      "A": "Direction",
+      "B": "Texture",
+      "C": "Movement",
+      "D": "Proportion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Movement is the visual path created by design to lead the eye.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75224",
+    "passage": ""
   }
 ]
