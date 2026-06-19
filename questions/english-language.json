@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/108",
     "passage": ""
+  },
+  {
+    "id": 110,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nBeing an optimist, our professor always sees the brigh t side of most things",
+    "options": {
+      "A": "charming",
+      "B": "illumined",
+      "C": "brilliant",
+      "D": "pleasing",
+      "E": "cheerful"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The underlined expression “bright side of most things” means the positive or cheerful aspect of things .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/110",
+    "passage": ""
   }
 ]
