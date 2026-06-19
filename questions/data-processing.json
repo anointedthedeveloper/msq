@@ -9256,5 +9256,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72403",
     "passage": ""
+  },
+  {
+    "id": 72404,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "(a) A document is created in MS Word but the user realizes that part of the document are cut off when it is print previewed in portrait orientation. Highlight the steps to change the ori- entation to- landscape and print the document on A4 paper. (b) A teacher working on student's results broadsheet in Microsoft Excel needed to keep the headings in view\" while scrolling through the results. The teacher also needed to compare each student's record with a version of the file earlier submitted to the Head of Department (HOD) to effect all suggestions (i) Name the concept of keeping the headings visible while scrolling through a worksheet in Microsoft Excel. (ii) Outline the steps to keep the headings fixed while scrolling in Microsoft Excel worksheet. (iii) Identify two actions to display each student record at the same time on both versions of the result file. (iv) Highlight the steps to achieve the named actions in 6b(iii). (c) List two gadgets needed to display the content of a laptop computer to an audience in an auditorium.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Steps in changing orientation and printing a document in MS Word\nClick on the Home' tab Click on 'Page Layout Click on 'Orientation' Select 'Landscape' Select A4 under (paper) size. Click on file - Click on Print/Ctr+P Select printer Click Ok/ Print button.\nb(i) Name of concept used Freeze pane (i) Steps to keep the headings fixed while scrolling in a Microsoft Excel worksheet\nSelect the heading row to freeze Select Freeze pane on the View tab Select Freeze Top Row from the drop-down menu\n​​​​​​​ (iii) Actions to display each student record at the same time on both versions of the result file I. View side-by-side II. Synchronous scrolling (iv) Steps to achieve the named actions in 6a(iii)\nOpen the two files (revisions) While on the current file, click on view side-by-side on the view tab. (3 marks) Click on synchronous scrolling\n​​​​​​​(c) Gadgets needed to display the concept of a laptop, computer to an audience in auditorium\nProjector Smart board/Smart TV White board/ plain wall projection Screen VGA cable HDMI cable Casting devices/ wireless adapter USB cable Audio System Laptop stand Presenter/Laser pointer",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72404",
+    "passage": ""
   }
 ]
