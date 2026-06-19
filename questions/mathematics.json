@@ -5983,5 +5983,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8828",
     "passage": ""
+  },
+  {
+    "id": 8829,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Evaluate \\(\\frac{2}{6-5\\sqrt{3}}\\)",
+    "options": {
+      "A": "\\(-\\left(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\right)\\)",
+      "B": "\\(\\frac{12}{39}-\\frac{10\\sqrt{3}}{39}\\)",
+      "C": "\\(-\\left(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\right)\\)",
+      "D": "\\(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2}{6-5\\sqrt{3}} = \\frac{2}{6-5\\sqrt{3}} \\times \\frac{6+5\\sqrt{3}}{6+5\\sqrt{3}}\\\\ =\\frac{2(6+5\\sqrt{3})}{(6-5\\sqrt{3})(6+5\\sqrt{3})}\\\\ =\\frac{12+10\\sqrt{3}}{36-25(3)}\\\\ =\\frac{12+10\\sqrt{3}}{36-75}\\\\ =\\frac{12+10\\sqrt{3}}{-39}\\\\ =-\\left(\\frac{12}{39}+\\frac{10\\sqrt{3}}{39}\\right)\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8829",
+    "passage": ""
   }
 ]
