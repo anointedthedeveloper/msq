@@ -3457,5 +3457,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58452",
     "passage": ""
+  },
+  {
+    "id": 58453,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Responsibilities of a database administrator includes the following except performing",
+    "options": {
+      "A": "database backup",
+      "B": "data recovery",
+      "C": "network maintenance",
+      "D": "user authentication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58453",
+    "passage": ""
   }
 ]
