@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50101",
     "passage": ""
+  },
+  {
+    "id": 50103,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Road sign primarily serves as?",
+    "options": {
+      "A": "symbols to correct road users",
+      "B": "sign to aid federal road safety to apprehend defaulters",
+      "C": "device to guide traffic of police command",
+      "D": "precautionary devices to guide road users"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Road signs are designed to make sure that every driver is kept safe. They help to create order on the roadways and are employed to provide essential information to drivers. Signs which are taken out of specific places or not visible as a result of wear and tear can pose undesirable risks to drivers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50103",
+    "passage": ""
   }
 ]
