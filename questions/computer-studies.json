@@ -3869,5 +3869,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62251",
     "passage": ""
+  },
+  {
+    "id": 62252,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The device through which the main components of the computer communicate with each other is called?",
+    "options": {
+      "A": "keyboard",
+      "B": "memory",
+      "C": "light pen",
+      "D": "system bus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The main components of the computer communicate with each other, through the System bus . The keyboard, Monitor, and Memory are the only things that USE the system bus to communicate with the CPU, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62252",
+    "passage": ""
   }
 ]
