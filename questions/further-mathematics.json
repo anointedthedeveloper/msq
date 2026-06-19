@@ -2727,5 +2727,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50444",
     "passage": ""
+  },
+  {
+    "id": 50446,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(36, p, \\frac{9}{4}, q\\) are consecutive terms of an exponential sequence (G.P.). Find the sum of p and q.",
+    "options": {
+      "A": "\\(\\frac{9}{16}\\)",
+      "B": "\\(\\frac{81}{16}\\)",
+      "C": "\\(9\\)",
+      "D": "\\(9\\frac{9}{16}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(T_{n} = ar^{n-1}\\) (for an exponential sequence)\n\\(T_{1} = 36 = a\\)\n\\(T_{2} = ar = 36r = p\\)\n\\(T_{3} = ar^{2} = 36r^{2} = \\frac{9}{4}\\)\n\\(T_{4} = ar^{3} = 36r^{3} = q\\)\n\\(36r^{2} = \\frac{9}{4} \\implies r^{2} = \\frac{\\frac{9}{4}}{36} = \\frac{1}{16}\\)\n\\(r = \\sqrt{\\frac{1}{16}} = \\frac{1}{4}\\)\n\\( p = 36 \\times \\frac{1}{4} = 9 ; q = \\frac{9}{4} \\times \\frac{1}{4} = \\frac{9}{16}\\)\n\\(p + q = 9 + \\frac{9}{16} = 9\\frac{9}{16}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50446",
+    "passage": ""
   }
 ]
