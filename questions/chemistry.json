@@ -7306,5 +7306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2981",
     "passage": ""
+  },
+  {
+    "id": 2982,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The component of an atom that contributes least to its mass is the",
+    "options": {
+      "A": "proton",
+      "B": "nucleus",
+      "C": "neutron",
+      "D": "electron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The electron is indeed the sub-particle of an atom that contributes the least to its mass, as its mass is significantly smaller compared to protons and neutrons, which make up the nucleus and thus account for the majority of an atom's mass.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2982",
+    "passage": ""
   }
 ]
