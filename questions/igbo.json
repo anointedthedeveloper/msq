@@ -2304,5 +2304,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73806",
     "passage": ""
+  },
+  {
+    "id": 73807,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ụlọakụ na-aza",
+    "options": {
+      "A": "akwụkwọ",
+      "B": "nri",
+      "C": "ụlọ",
+      "D": "elu ala"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The right answer is ụlọ (which means \"house\"). The sentence \"Ụlọakụ na-aza\" means \"Ụlọakụ is building\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73807",
+    "passage": ""
   }
 ]
