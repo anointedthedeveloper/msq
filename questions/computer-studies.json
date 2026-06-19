@@ -7338,5 +7338,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62532",
     "passage": ""
+  },
+  {
+    "id": 62533,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The largest component in a spreadsheet is?",
+    "options": {
+      "A": "cell",
+      "B": "range",
+      "C": "workbook",
+      "D": "worksheet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The largest component in a spreadsheet is a workbook. A workbook can contain multiple worksheets, each worksheet can contain multiple ranges, and each range can contain multiple cells.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62533",
+    "passage": ""
   }
 ]
