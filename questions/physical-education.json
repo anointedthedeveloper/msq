@@ -6611,5 +6611,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76502",
     "passage": ""
+  },
+  {
+    "id": 76503,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which vitamin deficiency is known to cause a condition called Rickets in children, leading to soft bones and deformities?",
+    "options": {
+      "A": "Vitamin K",
+      "B": "Vitamin B12",
+      "C": "Vitamin C",
+      "D": "Vitamin D"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rickets is a childhood bone disorder where bones become soft, weak, and sometimes deformed. The primary cause is a vitamin D deficiency. Vitamin D enables the intestines to absorb calcium and phosphorus from food. Without enough vitamin D, the body cannot properly mineralize bone tissue, leading to skeletal deformities such as bowed legs, thickened wrists and ankles, and delayed growth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76503",
+    "passage": ""
   }
 ]
