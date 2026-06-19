@@ -18054,5 +18054,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70758",
     "passage": ""
+  },
+  {
+    "id": 70759,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following best describes the SDLC?",
+    "options": {
+      "A": "A programming language for system development",
+      "B": "A framework for developing information system",
+      "C": "A methodoloy for software debugging",
+      "D": "A hardware configuration protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The SDLC (System Development Life Cycle) is a structured process for planning designing creating deploying and maintaining information systems. It's a framework that ensures a systematic approach to developing high-quality and efficient systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70759",
+    "passage": ""
   }
 ]
