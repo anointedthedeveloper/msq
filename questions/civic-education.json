@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50003",
     "passage": ""
+  },
+  {
+    "id": 50004,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "One of the advantages of inter-communal relationship is that it ensures the?",
+    "options": {
+      "A": "existence of totalitarianism",
+      "B": "domination of the minority by the majority",
+      "C": "domination of the majority by the minority",
+      "D": "enhancement of security"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An effective inter-communal relationship promotes peace and eradicates hostility. It encourages specialisation and stimulates development. In contrast,if there is crisis, the communities would experience a lot clashes resulting to loss of lives and property.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50004",
+    "passage": ""
   }
 ]
