@@ -1783,5 +1783,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1515",
     "passage": ""
+  },
+  {
+    "id": 1518,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the value of P if the line joining (P, 4) and (6, -2) is perpendicular to the line joining (2, P) and (-1, 3).",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "3",
+      "D": "0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The line joining (P, 4) and (6, -2).\nGradient: \\(\\frac{-2 - 4}{6 - P} = \\frac{-6}{6 - P}\\)\nThe line joining (2, P) and (-1, 3)\nGradient: \\(\\frac{3 - P}{-1 - 2} = \\frac{3 - P}{-3}\\)\nFor perpendicular lines, the product of their gradient = -1.\n\\((\\frac{-6}{6 - P})(\\frac{3 - P}{-3}) = -1\\)\n\\(\\frac{6 - 2P}{6 - P} = -1 \\implies 6 - 2P = P - 6\\)\n\\(6 + 6 = P + 2P \\implies P = \\frac{12}{3} = 4\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1518",
+    "passage": ""
   }
 ]
