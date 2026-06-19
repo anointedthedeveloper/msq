@@ -6507,5 +6507,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2942",
     "passage": ""
+  },
+  {
+    "id": 2943,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Oxyacetylene flame is used for iron-welding because it",
+    "options": {
+      "A": "Makes the iron metals solidify very quickly",
+      "B": "Combines with oxygen to give a pop sound",
+      "C": "Evolves a lot of heat when burnt",
+      "D": "Dissociates to produce carbon (IV) oxide and oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Oxyacetylene flames are used for welding iron because they produce a very high temperature that melts the iron. The flame produced by oxyacetylene is very hot, reaching temperatures of around 3,100°C. This is hot enough to melt steel, which has a melting point of over 1,500°C.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2943",
+    "passage": ""
   }
 ]
