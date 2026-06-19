@@ -8692,5 +8692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14141",
     "passage": ""
+  },
+  {
+    "id": 14142,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If a cage containing a truck of coal weighing 750 kg is raised to a height of 90 m in a minute, what is the total power expended? [g = 10 m\\s\\(^2\\)]",
+    "options": {
+      "A": "11.50 kw",
+      "B": "12.60 kw",
+      "C": "11.25 kw",
+      "D": "12.10 kw"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Power = \\(\\frac{work done}{time taken}\\)\nwhere 1 min = 60s\n= \\(\\frac{mgh}{t}\\) = \\(\\frac{750 \\times 10 \\times 90}{60}\\)\n= 11250w or 11.25kw\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14142",
+    "passage": ""
   }
 ]
