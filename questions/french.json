@@ -3868,5 +3868,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75231",
     "passage": ""
+  },
+  {
+    "id": 75234,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Lequel de ces animaux est un animal sauvage ?",
+    "options": {
+      "A": "Le coq",
+      "B": "La chèvre",
+      "C": "Le chat",
+      "D": "Le lion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Le lion est le seul animal sauvage mentionne dans la liste.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75234",
+    "passage": ""
   }
 ]
