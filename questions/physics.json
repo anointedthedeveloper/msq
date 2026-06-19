@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/600",
     "passage": ""
+  },
+  {
+    "id": 605,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A 3000W electric cooker is to be used on a 200V mains circuit. Which of the fuses below can be used safely with the cooker?",
+    "options": {
+      "A": "2A",
+      "B": "5A",
+      "C": "10A",
+      "D": "20A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The maximum current drawn by the cooker is given by; I = \\(\\frac{P}{V}\\) ∴ I = \\(\\frac{\\text{3000}}{200}\\) I = 15A The fuse rating = I \\(\\times\\) 125% (the fuse is rated at 125% of the normal operating current)\nHence, the fuse rating = 15A \\(\\times\\) (\\(\\frac{125}{100}\\)) = 18.75amps\nTherefore, the best fuse is 20A.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/605",
+    "passage": ""
   }
 ]
