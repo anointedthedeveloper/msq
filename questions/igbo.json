@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73559",
     "passage": ""
+  },
+  {
+    "id": 73560,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. Ọlee aha ụlọakwụkwọ ụnu?",
+    "options": {
+      "A": "Ọ gụchara na GSS",
+      "B": "Ụlọakwụkwọ ụnu bụ GSS",
+      "C": "GSS bụ ụlọakwụkwọ ya",
+      "D": "Aha ụlọakwụkwọ anyị bụ GSS."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The question \"Ọlee aha ụlọakwụkwọ ụnu?\" means \"What is the name of your school?\" in Igbo. The correct response is \"Ụlọakwụkwọ ụnu bụ GSS\", which means \"The name of your school is GSS\" (assuming the speaker w referring to the person being asked).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73560",
+    "passage": ""
   }
 ]
