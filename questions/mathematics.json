@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1134",
     "passage": ""
+  },
+  {
+    "id": 1149,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "If two graphs y = px\\(^2\\) + q and y = 2x\\(^2\\) -1 intersect at x = 2, find the value of p in terms q.",
+    "options": {
+      "A": "\\(\\frac{q-8}{7}\\)",
+      "B": "\\(\\frac{7-q}{4}\\)",
+      "C": "\\(\\frac{8-q}{2}\\)",
+      "D": "\\(\\frac{7+q}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(y = px^{2} + q ... (i)\\)\n\\(y = 2x^{2} - 1 ... (ii)\\)\nAt x = 2,\n(i): \\(y = p(2^{2}) + q = 4p + q\\)\n(ii): \\(y = 2(2^{2}) - 1 = 7\\)\n\\(\\therefore \\text{The coordinates of the point of intersection = (2, 7)}\\)\n(i): \\(7 = 4p + q \\implies p = \\frac{7 - q}{4}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1149",
+    "passage": ""
   }
 ]
