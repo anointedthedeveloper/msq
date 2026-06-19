@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48061",
     "passage": ""
+  },
+  {
+    "id": 48062,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The annual Igue Festival is celebrated in",
+    "options": {
+      "A": "Benin",
+      "B": "Akure",
+      "C": "Ondo",
+      "D": "Warri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Igue festival is celebrated in Benin city, Edo State, Nigeria. It usually takes place between Christmas and New year, specifically held at the Oba's palace, where the monarch performs rituals and offers prayers. This festival is a significant cultural event for the Benin people, marking the end of the year and ushering in the new one with thanksgiving and spiritual renewal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48062",
+    "passage": ""
   }
 ]
