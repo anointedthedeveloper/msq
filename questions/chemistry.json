@@ -2685,5 +2685,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1567",
     "passage": ""
+  },
+  {
+    "id": 1568,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The repeating unit in natural rubber is",
+    "options": {
+      "A": "alkyne",
+      "B": "isoprene",
+      "C": "n-propene",
+      "D": "peoprene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The repeating unit in natural rubber is isoprene. Isoprene is a monomer of natural rubber, which is made from latex, a dispersion of isoprene.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1568",
+    "passage": ""
   }
 ]
