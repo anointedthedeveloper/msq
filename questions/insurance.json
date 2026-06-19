@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49746",
     "passage": ""
+  },
+  {
+    "id": 49753,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "which of the following factors is not considered when calculating premium in life assurance policy",
+    "options": {
+      "A": "expense",
+      "B": "mortality",
+      "C": "interest",
+      "D": "losses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There are several factors used to determine your life insurance premiums, including the following:\nAge . Age is probably the single primary factor that determines your life insurance premiums. ... Gender . Physical condition. Smoking . Your medical history . Your family's medical history . Occupation .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49753",
+    "passage": ""
   }
 ]
