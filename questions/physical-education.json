@@ -6317,5 +6317,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76485",
     "passage": ""
+  },
+  {
+    "id": 76486,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "One of the main objectives of first aid is to:",
+    "options": {
+      "A": "Provide psychological counseling",
+      "B": "Cure the illness completely",
+      "C": "Prevent further harm or injury",
+      "D": "Perform surgery in the field"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "First aid aims primarily to prevent the situation from getting worse. While it does not cure illness or injury, it helps to protect the victim from further harm until proper medical care is available.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76486",
+    "passage": ""
   }
 ]
