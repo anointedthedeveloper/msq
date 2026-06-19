@@ -2483,5 +2483,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1334",
     "passage": ""
+  },
+  {
+    "id": 1335,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words : The politicians have a number of peculiarities. The most conspicuous is the way he gesticulates when making a serious point",
+    "options": {
+      "A": "shows anxiety when making a serious point",
+      "B": "breaks down when talking seriously",
+      "C": "uses his hands and arms as a sign",
+      "D": "bows his head in humility to the crowd",
+      "E": "shakes his head from one side to the other"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The underlined word is \"gesticulates\" , which means to make movements with your hands or arms, especially while speaking, usually to emphasise what you are saying .\nIn the sentence: The politicians have a number of peculiarities. The most conspicuous is the way he gesticulates when making a serious point , the focus is on how the politician moves his hands or arms while speaking seriously.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1335",
+    "passage": ""
   }
 ]
