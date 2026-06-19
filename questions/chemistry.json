@@ -14296,5 +14296,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12873",
     "passage": ""
+  },
+  {
+    "id": 12874,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "Sodium hydroxide should be stored in properly closed containers because it?",
+    "options": {
+      "A": "readily asborbs water vapour to air",
+      "B": "is easily oxidize by atmospheric oxygen",
+      "C": "turns golden yellow when exposed to light",
+      "D": "melts  at a low temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "NaOH pellets are deliquescent..so they easily absorb from the atmosphere when exposed",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12874",
+    "passage": ""
   }
 ]
