@@ -9448,5 +9448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9794",
     "passage": ""
+  },
+  {
+    "id": 9796,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If y varies directly as the square root of x and y = 3 when x = 16. Calculate y when x = 64",
+    "options": {
+      "A": "12",
+      "B": "6",
+      "C": "3",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "y ∝ √ x y = K√ x K = y /√ x = 3/√16 = 3/4 y = 3/4√ x = 3/4√64 when x = 64 = 3/4 x 8/1 = 6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9796",
+    "passage": ""
   }
 ]
