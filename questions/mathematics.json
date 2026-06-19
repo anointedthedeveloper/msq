@@ -3505,5 +3505,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7772",
     "passage": ""
+  },
+  {
+    "id": 7775,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The sum of the first n terms of an arithmetic progression is 252. If the first term is -16 and the last term is 72, find the number of terms in the series",
+    "options": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Using: \\(S_n = \\frac{n}{2} (a + l)\\)\nwhere:- \\(S_n\\) is the sum of the first \\(n\\) terms, \\(a\\) is the first term, \\(l\\) is the last term.\nGiven: \\(S_n = 252\\), a = -16, l = 72\nStep 1: Substitute the Known Values\nSubstituting the values into the sum formula:\n\\(252 = \\frac{n}{2} (-16 + 72)\\)\n\\(252 = \\frac{n}{2} \\cdot 56\\)\n\\(504 = n \\cdot 56\\)\nNow, divide both sides by 56:\nn = \\(\\frac{504}{56}\\) = 9\nThus, the number of terms in the series is: 9\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7775",
+    "passage": ""
   }
 ]
