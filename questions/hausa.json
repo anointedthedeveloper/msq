@@ -2433,5 +2433,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73717",
     "passage": ""
+  },
+  {
+    "id": 73718,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "\"Awakai sun fita gida da gudu.\"\nKalmar aikatau a wannnan jimla ita ce",
+    "options": {
+      "A": "fita",
+      "B": "da",
+      "C": "gida",
+      "D": "awakai"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The verb in the sentence \"Awakai sun fita gida da gudu\" is: Answer: fita (Fita is the verb in the sentence, which means \"to go out\". Awakai is the subject, da is a preposition, gida means \"home\", and sun is an auxiliary verb)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73718",
+    "passage": ""
   }
 ]
