@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50367",
     "passage": ""
+  },
+  {
+    "id": 50368,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "In how many ways can the letters of the word 'ELECTIVE' be arranged?",
+    "options": {
+      "A": "336",
+      "B": "1680",
+      "C": "6720",
+      "D": "20160"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The word has 8 letters with one letter repeated 3 times, therefore we have:\n\\(\\frac{8!}{3!} = 6720\\) ways.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50368",
+    "passage": ""
   }
 ]
