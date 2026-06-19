@@ -7705,5 +7705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13957",
     "passage": ""
+  },
+  {
+    "id": 13960,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "When an object is placed between the principal focus and the optical center of a convex lens, it could be used as a?",
+    "options": {
+      "A": "Simple microscope",
+      "B": "refecting lens",
+      "C": "compound microscope",
+      "D": "projector"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Simple microscope: A single convex lens used to magnify small objects. It allows the viewer to see details that are not visible to the naked eye.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13960",
+    "passage": ""
   }
 ]
