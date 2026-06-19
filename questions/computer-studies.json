@@ -3012,5 +3012,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61836",
     "passage": ""
+  },
+  {
+    "id": 61837,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "36. Which of these characteristics of languages is common to all computer programs?",
+    "options": {
+      "A": "It uses symbolic storage address",
+      "B": "Machine dependence",
+      "C": "Uses instructions that seem like English",
+      "D": "Uses mnemonics",
+      "E": "Uses special codes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61837",
+    "passage": ""
   }
 ]
