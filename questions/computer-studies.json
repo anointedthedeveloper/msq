@@ -17712,5 +17712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69851",
     "passage": ""
+  },
+  {
+    "id": 69852,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The following are functions of database management system except",
+    "options": {
+      "A": "format operation.",
+      "B": "rule enforcement.",
+      "C": "security of data.",
+      "D": "backup and replication."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The following are functions of a database management system (DBMS). Backup and replication: A DBMS can be used to backup and replicate databases. This means that the database can be copied to a different location or to multiple locations. This is important for disaster recovery purposes. Rule enforcement: A DBMS can be used to enforce rules on data. This means that the DBMS can be used to prevent users from entering invalid data or from making changes to data that they are not authorized to change. Security of data: A DBMS can be used to secure data. This means that the DBMS can be used to encrypt data, to restrict access to data, and to audit access to data. Format operation is not a function of a DBMS. A format operation is the process of converting data from one format to another. This is not something that a DBMS typically does",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69852",
+    "passage": ""
   }
 ]
