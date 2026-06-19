@@ -6790,5 +6790,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67129",
     "passage": ""
+  },
+  {
+    "id": 67130,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "An application of ICT which allows a person to participate in a meeting from a remote location is called",
+    "options": {
+      "A": "Telepresence",
+      "B": "Podcasting",
+      "C": "Broadcasting",
+      "D": "Blogging"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Telepresence refers to technologies that allow a user appear to be present, feel like they are present or have some effect in a space the person does not physically inhabit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67130",
+    "passage": ""
   }
 ]
