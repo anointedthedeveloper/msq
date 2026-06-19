@@ -5142,5 +5142,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70842",
     "passage": ""
+  },
+  {
+    "id": 70843,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which factor is most likely to decrease flexibility over time?",
+    "options": {
+      "A": "Consistent hydration",
+      "B": "High protein diet",
+      "C": "Sedentary lifestyle",
+      "D": "Regular stretching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A sedentary lifestyle, characterized by minimal physical activity, is most likely to decrease flexibility over time. Lack of movement can lead to tight muscles and reduced joint mobility, limiting flexibility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70843",
+    "passage": ""
   }
 ]
