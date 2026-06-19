@@ -3609,5 +3609,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73861",
     "passage": ""
+  },
+  {
+    "id": 73862,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "'Sa hannun mai rubutu' yana zuwa ne a",
+    "options": {
+      "A": "Kasan adireshi",
+      "B": "sama daidai tsakiya",
+      "C": "kasa daga dama",
+      "D": "sama daga hagu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "kasa daga dama (Kasa daga dama means bottom right, which is the correct answer. Kasan adireshi is the address area, sama daga hagu is top left, sama daidai tsakiya is top center, and saman kammalawa is not a relevant term.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73862",
+    "passage": ""
   }
 ]
