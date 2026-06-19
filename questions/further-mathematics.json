@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50140",
     "passage": ""
+  },
+  {
+    "id": 50156,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The function f: x \\(\\to \\sqrt{4 - 2x}\\) is defined on the set of real numbers R. Find the domain of f.",
+    "options": {
+      "A": "\\(x<2\\)",
+      "B": "\\(x \\leq 2\\)",
+      "C": "\\(x = 2\\)",
+      "D": "\\(x > -2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(f : x \\to \\sqrt{4 -2x}\\) defined on the set of real numbers, R , which has range from \\((-\\infty, \\infty)\\) but because of the root sign, it is defined from \\([0, \\infty)\\).\nThis is because the root of numbers only has real number values from 0 and upwards.\n\\(\\sqrt{4-2x} \\geq 0 \\implies 4-2x \\geq 0\\)\n\\(-2x \\geq -4; x \\leq 2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50156",
+    "passage": ""
   }
 ]
