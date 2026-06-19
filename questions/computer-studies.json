@@ -16683,5 +16683,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67855",
     "passage": ""
+  },
+  {
+    "id": 67856,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Computers manipulate data in many ways, and this manipulation is called ?",
+    "options": {
+      "A": "batching",
+      "B": "utilizing",
+      "C": "processing",
+      "D": "upgrading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computers manipulate data in many ways, and this manipulation is called processing. Data processing refers to the conversion of raw data into meaningful output by performing computations, logical comparisons, and other operations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67856",
+    "passage": ""
   }
 ]
