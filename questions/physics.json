@@ -9826,5 +9826,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14302",
     "passage": ""
+  },
+  {
+    "id": 14305,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Heat is radiated by hot objects in the form?",
+    "options": {
+      "A": "x-rays",
+      "B": "light energy",
+      "C": "infrared rays",
+      "D": "solar energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Infrared rays falling on the skin causes the skin causes the sensation of warmth. since the objects are hot, the correct option is informed.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14305",
+    "passage": ""
   }
 ]
