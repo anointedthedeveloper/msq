@@ -1608,5 +1608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66512",
     "passage": ""
+  },
+  {
+    "id": 66516,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The first step the sender takes into the communication process is to",
+    "options": {
+      "A": "transmit the message",
+      "B": "encode the message",
+      "C": "select an appropriate channel",
+      "D": "give a feedback"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All communication begins with the sender.The first step the sender is faced with involves the encoding process.In order to convey meaning,the sender must begin encoding which means translating information into message in the form of symbols that represent ideas or concepts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66516",
+    "passage": ""
   }
 ]
