@@ -6068,5 +6068,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2062",
     "passage": ""
+  },
+  {
+    "id": 2066,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Use the information below to answer the question that follows Mr Awala is a retailer of a single product. he sells at the standard price. He gives a trade discount of 5%, a quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30. the existing selling price of the product is N100 per units. Mr Bacus purchased 1500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase.\nThe trade discount receivable by Mr Bacus is",
+    "options": {
+      "A": "N4,500",
+      "B": "N7,500",
+      "C": "N10,500",
+      "D": "N12,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A cash discount is a discount allowed to the customer, when he/she makes a cash payment of the goods purchased, within the stipulated time. This means Mr. Bacus will receive a 2% discount from Mr. Awala if payment is made within 10 days of purchase.\nWe are going to calculate the quantity discount and cash discount respectively.\nSelling price = 100 Quantity bought on credit = 1500 Total amount owed = 100 x 1500 = 150,000\n3% discount for 1500 units\n0.03 x 1500 = 45\nQuantity discount = 45 x 100 = 4500\nCash discount of 2/10 net 30 = \\(\\frac{2}{100}\\) x 150,000 = 3000\n4500 + 3500 = 7500",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2066",
+    "passage": "Use the information below to answer the question that follows Mr Awala is a retailer of a single product. he sells at the standard price. He gives a trade discount of 5%, a quantity discount of 3% for a volume above 1000 units and a cash discount of 2/10 net 30. the existing selling price of the product is N100 per units. Mr Bacus purchased 1500 units of the product on credit and promised to pay Mr. Awala in cash in the first 10 days after purchase."
   }
 ]
