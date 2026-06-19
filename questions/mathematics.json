@@ -4051,5 +4051,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8047",
     "passage": ""
+  },
+  {
+    "id": 8049,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "What is the rate of change of the volume V of a hemisphere with respect to its radius r when r = 2?",
+    "options": {
+      "A": "8π",
+      "B": "16π",
+      "C": "2π",
+      "D": "4π"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(V = \\frac{2}{3} \\pi r^{3}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} (r = 2) = 2\\pi (2)^{2}\\)\n= \\(8\\pi\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8049",
+    "passage": ""
   }
 ]
