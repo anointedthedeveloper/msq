@@ -724,5 +724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/156",
     "passage": ""
+  },
+  {
+    "id": 158,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who was the first Christian Martyr?",
+    "options": {
+      "A": "James",
+      "B": "Phillip",
+      "C": "Stephen",
+      "D": "John",
+      "E": "Peter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/158",
+    "passage": ""
   }
 ]
