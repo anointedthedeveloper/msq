@@ -12642,5 +12642,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7294",
     "passage": ""
+  },
+  {
+    "id": 7295,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the is a risk-free security?",
+    "options": {
+      "A": "Preference share",
+      "B": "Ordinary share",
+      "C": "Treasury bill",
+      "D": "Debenture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A risk-free asset is one that has a certain future return no possibility of loss. A good example of a risk-free security is the treasury bill.\nA treasury bill is a short-term debt instrument, usually with a maturity period of 3 months. It is issued on behalf of the federal government by the central bank to borrow money from the masses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7295",
+    "passage": ""
   }
 ]
