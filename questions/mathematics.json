@@ -16066,5 +16066,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23202",
     "passage": ""
+  },
+  {
+    "id": 23203,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The area and a diagonal of a rhombus are 60 cm\\(^2\\) and 12 cm respectively. Calculate the length of the other diagonal.",
+    "options": {
+      "A": "5cm",
+      "B": "6cm",
+      "C": "10cm",
+      "D": "12cm",
+      "E": "15cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Area of rhombus = \\(\\frac{pq}{2}\\)\nwhere p and q are the two diagonals of the rhombus.\n\\(\\therefore 60 = \\frac{12 \\times q}{2}\\)\n6q = 60 \\(\\implies\\) q = 10 cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23203",
+    "passage": ""
   }
 ]
