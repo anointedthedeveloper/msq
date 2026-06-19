@@ -4492,5 +4492,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8206",
     "passage": ""
+  },
+  {
+    "id": 8207,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The length L of a simple pendulum varies directly as the square of its period T. If a pendulum with period 4 sec. is 64 cm long, find the length of pendulum whose period is 9 sec",
+    "options": {
+      "A": "96 cm",
+      "B": "324 cm",
+      "C": "36 cm",
+      "D": "144 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(L \\propto T^2\\)\n\\(L = kT^2\\)\n\\(k = \\frac{L}{T^2}\\)\nwhen T = 4, L = 64.\n\\(k = \\frac{64}{4^2} = 4\\)\n\\(L = 4T^2\\)\nwhen T = 9,\n\\(L = 4 \\times 9^2 = 324cm\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8207",
+    "passage": ""
   }
 ]
