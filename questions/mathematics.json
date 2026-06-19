@@ -13603,5 +13603,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22865",
     "passage": ""
+  },
+  {
+    "id": 22866,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Simplify: log6 + log2 - log12",
+    "options": {
+      "A": "-4",
+      "B": "-1",
+      "C": "0",
+      "D": "1",
+      "E": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "log 6 + log 2 - log 12\n= \\(\\log (\\frac{6 \\times 2}{12})\\)\n= \\(\\log 1\\)\n= 0",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22866",
+    "passage": ""
   }
 ]
