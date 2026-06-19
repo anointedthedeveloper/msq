@@ -3862,5 +3862,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12257",
     "passage": ""
+  },
+  {
+    "id": 12258,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The particle that is responsible for the nuclear fission in a nuclear reactor is",
+    "options": {
+      "A": "neutron",
+      "B": "prton",
+      "C": "electron",
+      "D": "photon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "235\n92",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12258",
+    "passage": ""
   }
 ]
