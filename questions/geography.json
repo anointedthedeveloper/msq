@@ -5658,5 +5658,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8001",
     "passage": ""
+  },
+  {
+    "id": 8003,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Ivory Coast has become famous in recent years for its modern agricultural development projects especially in respect of?",
+    "options": {
+      "A": "poultry farming and cattle ranching",
+      "B": "cocoa and fruit growing",
+      "C": "fish and poultry",
+      "D": "oil palm and vegetable growing",
+      "E": "fruit and flower growing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8003",
+    "passage": ""
   }
 ]
