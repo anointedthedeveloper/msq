@@ -5115,5 +5115,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73933",
     "passage": ""
+  },
+  {
+    "id": 73934,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "FASSARA First aid box",
+    "options": {
+      "A": "Agajin akwatin farko",
+      "B": "Akwatin farkon agaji.",
+      "C": "Akwatin taimako",
+      "D": "Akwatin agajin gaggawa."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Akwatin taimako because a first aid box is translated as Akwatin taimako in Hausa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73934",
+    "passage": ""
   }
 ]
