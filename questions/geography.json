@@ -702,5 +702,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/371",
     "passage": ""
+  },
+  {
+    "id": 372,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Two factors which promote rapid chemical weathering in the tropics are",
+    "options": {
+      "A": "high temperature and extreme aridity",
+      "B": "high temperature and low humidity",
+      "C": "low temperature and high humidity",
+      "D": "high temperature and high humidity",
+      "E": "high temperature and low rainfall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/372",
+    "passage": ""
   }
 ]
