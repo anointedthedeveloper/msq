@@ -6296,5 +6296,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8082",
     "passage": ""
+  },
+  {
+    "id": 8084,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "The sea with the highest degree of salinity in the world is the?",
+    "options": {
+      "A": "Caspian Sea",
+      "B": "Dead Sea",
+      "C": "Mediterranean Sea",
+      "D": "Baltic Sea",
+      "E": "Red Sea"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8084",
+    "passage": ""
   }
 ]
