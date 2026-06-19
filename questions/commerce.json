@@ -12621,5 +12621,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7293",
     "passage": ""
+  },
+  {
+    "id": 7294,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The difference between the buying and selling price of shares is known as?",
+    "options": {
+      "A": "brokerage",
+      "B": "margin",
+      "C": "jobber's turn",
+      "D": "gross profit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Jobber's turn is the difference between the price at which a jobber on the stock exchange market is prepared to buy a share and the price at which the jobber is prepared to sell.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7294",
+    "passage": ""
   }
 ]
