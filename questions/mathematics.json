@@ -6382,5 +6382,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9037",
     "passage": ""
+  },
+  {
+    "id": 9038,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Solve the inequalities for which \\(\\frac{x+4}{3}-\\frac{x-3}{2} < 4\\)",
+    "options": {
+      "A": "x < 7",
+      "B": "x > -7",
+      "C": "x < -7",
+      "D": "x > 7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{x+4}{3}-\\frac{x-3}{2}\\) < 4 \\(\\frac{(2(x+4))-(3(x-3))}{6}\\) < 4 2(x+4) – 3(x-3) < 4 x 6 2x + 8 – 3x+9 < 24 -x + 17 < 24 -x < 24 – 17 -x < 7 x > -7\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9038",
+    "passage": ""
   }
 ]
