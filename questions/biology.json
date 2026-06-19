@@ -1,0 +1,24 @@
+[
+  {
+    "id": 287,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A plant which grows on another plant without apparent harm to the host plant is called",
+    "options": {
+      "A": "a parasite",
+      "B": "an epiphyte",
+      "C": "a saprophyte",
+      "D": "a predator",
+      "E": "a hermaphrodite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Epiphytes, which differ from parasites in the sense that epiphytes grow on other plants for physical support and do not necessarily negatively affect the host. Hence, epiphytes show no apparent harm to the host plant.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/287",
+    "passage": ""
+  }
+]
