@@ -3672,5 +3672,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1734",
     "passage": ""
+  },
+  {
+    "id": 1735,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The gas that can best be collected by downward displacement of air is",
+    "options": {
+      "A": "Chlorine",
+      "B": "Sulphur (IV) oxide",
+      "C": "Ammonia",
+      "D": "Carbon (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The method used to collect a gas depends on whether it is denser or lighter than air. For example, ammonia gas is collected by downward displacement of air because it is lighter than air. Option C is the correct answer.\nChlorine is heavier than air.\nSO\\(_2\\) is denser than air.\nCO\\(_2\\) is denser than air.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1735",
+    "passage": ""
   }
 ]
