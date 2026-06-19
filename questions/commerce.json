@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/168",
     "passage": ""
+  },
+  {
+    "id": 169,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The production process that combines two or more raw materials into one end product is",
+    "options": {
+      "A": "conditioning",
+      "B": "blending",
+      "C": "merging",
+      "D": "synthesis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The production process that combines two or more raw materials into one end product is called synthesis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/169",
+    "passage": ""
   }
 ]
