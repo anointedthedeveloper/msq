@@ -5128,5 +5128,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75877",
     "passage": ""
+  },
+  {
+    "id": 75878,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "On utilise une règle pour",
+    "options": {
+      "A": "effacer",
+      "B": "mesurer",
+      "C": "peindre",
+      "D": "couper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Une regle\" is a tool commonly used to measure length or lines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75878",
+    "passage": ""
   }
 ]
