@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66042",
     "passage": ""
+  },
+  {
+    "id": 66044,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following documents is handled by the receptionist?",
+    "options": {
+      "A": "Minutes of meetings",
+      "B": "Telephone message pad",
+      "C": "The manager's diary",
+      "D": "Requisition form"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Telephone message pad is one of the documents handled by the receptionist.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66044",
+    "passage": ""
   }
 ]
