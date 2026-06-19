@@ -3484,5 +3484,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11868",
     "passage": ""
+  },
+  {
+    "id": 11871,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In the circuit diagram above , the ammeter reads a current of 3A when R is 5Ω and 6A when R is 2Ω. Determine the value of x",
+    "options": {
+      "A": "8Ω",
+      "B": "2Ω",
+      "C": "10Ω",
+      "D": "4Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17666503725_phy200132.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888832/myschool/physics/17666503725_phy200132.jpg",
+    "correct_answer": "C",
+    "explanation": "for a parallel R and X, when R = 5Ω,\nEffective resistance R = \\(\\frac{5X}{5 + X}\\)\nand when R = 2Ω\nEffective resistance R = \\(\\frac{2X}{2 + X}\\)\nThus since E = I(R+r), and if r = 0 then E = IR ∴(i) E = 3(\\(\\frac{5X}{(5+x)}\\)); (ii) E = 6(\\(\\frac{2X}{(2+x)}\\)) ∴3(\\(\\frac{5X}{(5+X)}\\)) = 6(\\(\\frac{2X}{(2+X)}\\)) => (\\(\\frac{5X}{(5+X)}\\)) = 2(\\(\\frac{2x}{(2+X)}\\)) ∴ (\\(\\frac{5X}{(5+X)}\\)) = (\\(\\frac{4X}{(2+X)}\\)) 5x(2+x) = 4x(5+x) 10x + 5x\\(^2\\) = 20x + 4x\\(^2\\) 5x\\(^2\\) - 4x\\(^2\\) = 20x - 10x => x\\(^2\\) = 10x ∴x\\(^2\\) - 10x = 0 x(x - 10) = 0 ∴ x = 0 or 10 ∴ x = 10Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11871",
+    "passage": ""
   }
 ]
