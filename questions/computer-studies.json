@@ -3610,5 +3610,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61864",
     "passage": ""
+  },
+  {
+    "id": 61865,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "(a) List two operations that can be performed on computer file.\n(b) State three precautions to be taken in order to secure a computer file.\n(c) State three advantages of computerized file over manual files.\n(d)What is an antivirus?",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Insertion (ii) Deletion (iii) Updating (iv) Retrieval (v) Open (vi) Close (vii) View (vii) Creation (ix) Copy.\n(b)(i) Use of back-ups (ii) Use of anti-virus (iii) Password (iv) Proper label of storage devices.\n(c)(i) Computerized files are easily accessible (ii) They are environmental friendly. (ii) Can store a huge number of documents in a tiny fraction of space in computer memory. (iv) Can be encrypted to render documents unreadable by those without authorized permission. (v) Can be easily created and stored in various location, thereby reduce time in creating more copies. (vi) Can be easily shared by attaching the documents to an e- mail sent to the recipient.\n(d) An anti-virus is a computer software used to prevent, detect and remove malicious computer viruses.They also work against other types of malware such as malicious Browser Helper Objects (BHOS) browser hijackers, ransom ware, keyloggers backdoors, rootkits, Trojan horses, worms, malicious LSPS, dialers, fraudtools, spyware.\nExamples of ant-viruses are: AVG, AVAST, Avira, Comodo, McAfee MOVE.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61865",
+    "passage": ""
   }
 ]
