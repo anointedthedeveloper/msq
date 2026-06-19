@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75214",
     "passage": ""
+  },
+  {
+    "id": 75215,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع \"المجتهد\" في: \"الولدُ المجتهدُ ناجحٌ\"؟",
+    "options": {
+      "A": "نعت",
+      "B": "حال",
+      "C": "فعل",
+      "D": "اسم إشارة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "It describes \"l,ll\", so it's an adjective (na't).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75215",
+    "passage": ""
   }
 ]
