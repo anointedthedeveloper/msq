@@ -7474,5 +7474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9257",
     "passage": ""
+  },
+  {
+    "id": 9258,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If 125\\(_x\\) = 20\\(_{10}\\) find x",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "125\\(_x\\) = 20\\(_{10}\\) 1 x X\\(^2\\) + 2 x X\\(^1\\) + 5x X \\(^0\\) = 20 X2 + 2X + 5 = 20 X\\(^2\\) + 2X - 15 = 0 (X + 5)( X - 3) = 0 X + 5 implies X = -5 X - 3 implies X = 3 But X cannot be negative ∴X = 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9258",
+    "passage": ""
   }
 ]
