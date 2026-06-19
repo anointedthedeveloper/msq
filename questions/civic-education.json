@@ -2705,5 +2705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50209",
     "passage": ""
+  },
+  {
+    "id": 50210,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Rule of law is limited by the following except",
+    "options": {
+      "A": "state of emergency",
+      "B": "habeas corpus",
+      "C": "illiteracy",
+      "D": "immunity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Habeas corpus is a legal protection that supports the rule of law , not limits it. It allows a person who is detained to challenge the legality of their detention in court. It protects citizens against unlawful arrest or imprisonment , and upholds their legal rights.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50210",
+    "passage": ""
   }
 ]
