@@ -12787,5 +12787,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21220",
     "passage": ""
+  },
+  {
+    "id": 21222,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following best explains a person suffers more severe burns when his skin is exposed to steam than when boiling water is poured onto his skin?",
+    "options": {
+      "A": "steam is at a higher temperature than boiling water",
+      "B": "steam posses greater heat energy per unit-mass than boiling water",
+      "C": "steam spreads more easily over a wider area of the skin than boiling water",
+      "D": "steam panetrates more easily over a wider area of the skin than boiling water",
+      "E": "the specific latent heat of vaporization is released in changing from boiling water to steam"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21222",
+    "passage": ""
   }
 ]
