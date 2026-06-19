@@ -4948,5 +4948,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2382",
     "passage": ""
+  },
+  {
+    "id": 2383,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following statements is NOT true of mammalian erythrocytes?",
+    "options": {
+      "A": "They have haemoglobin",
+      "B": "they appear yellow when looked at singly",
+      "C": "They are disc shaped",
+      "D": "The cell are more numerous than leucocytes",
+      "E": "They have nuclei at maturity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2383",
+    "passage": ""
   }
 ]
