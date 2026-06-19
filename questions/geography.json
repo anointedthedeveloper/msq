@@ -7550,5 +7550,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8182",
     "passage": ""
+  },
+  {
+    "id": 8183,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of these species of trees are suitable for pulp and paper manufacturing?",
+    "options": {
+      "A": "Gmelina, fir and pine",
+      "B": "Spruce, mahogany and pine",
+      "C": "Baobab, fir and pine",
+      "D": "Teak, baobab and pine",
+      "E": "Mahogany, neem and pine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8183",
+    "passage": ""
   }
 ]
