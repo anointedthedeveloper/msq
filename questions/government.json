@@ -2204,5 +2204,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1196",
     "passage": ""
+  },
+  {
+    "id": 1197,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "One of the duties of the legislature is to",
+    "options": {
+      "A": "implement laws",
+      "B": "adjudicate disputes",
+      "C": "promulgate decrees",
+      "D": "exercise oversight"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1197",
+    "passage": ""
   }
 ]
