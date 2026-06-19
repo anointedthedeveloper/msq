@@ -3423,5 +3423,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1624",
     "passage": ""
+  },
+  {
+    "id": 1626,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The two-chambers of elected national representatives in Nigeria are called",
+    "options": {
+      "A": "the National Assembly",
+      "B": "House of Assembly",
+      "C": "the Senate",
+      "D": "the parliament"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1626",
+    "passage": ""
   }
 ]
