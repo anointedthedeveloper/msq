@@ -1467,5 +1467,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61399",
     "passage": ""
+  },
+  {
+    "id": 61400,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following stages of the SDLC is post-operational stage?",
+    "options": {
+      "A": "Analysis",
+      "B": "Design",
+      "C": "Investigation",
+      "D": "Maintenance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The software development lifecycle (SDLC) : The Post-operational Phase aims to maintain and enhance the system to meet the ongoing needs of the user community. The operations and maintenance phase is the last phase when end users can fine-tune the system, if they wish, to boost performance, add new capabilities, or meet additional user requirements",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61400",
+    "passage": ""
   }
 ]
