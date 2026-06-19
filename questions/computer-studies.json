@@ -9461,5 +9461,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62719",
     "passage": ""
+  },
+  {
+    "id": 62720,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "(a)(i) Define the term encryption. (ii) Tick two authentication techniques involved in security measure from Table 1.\nTable 1\n(ii) Outline two features of data encryption. (b) While exchanging data with a friend through your mobile phone, you observed that it took a longer time than usual. Outline four factors that may be responsible for the delay in the data transfer.\nTECHNIQUE\nTICK()\nFirewall\nBiometric\nPassword\nIntranet",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Encryption: This is the conversion of electronic data into another form which cannot be easily understood by anyone else except authorized parties.\nOR\nEncryption is the process of using an algorithm to transform/convert information to make it unreadable for unauthorized users.\nOR\nEncryption is the process of transforming data into unintelligible form in such a way that the original data either cannot be obtained or can be obtained only by using a decryption process.\n(ii) Table:\nTECHNIQUE TICK() Firewall Biometric Password Intranet\n(b) Factors Responsible for the Delay in Data Transfer: (i) Network traffic (ii) Bandwidth (iii) Size of data (iv) Cell reception (V) Baud rate (vi) Distance between the phones (vi) Alignment of the phones (vii) Attenuation (ix) Types of application in use on both phones (x) Limited storage capacity (xi) Virus attack or infection (xii) Ram capacity (xiii) Network signal strength.\n(iii) Features of Data Encryption: (a) Data is encoded. (b) It prevents virus. (c) A key is needed to decrypt data. (d) it involves the use of algorithm. (e) It makes computer access difficult. (f) Only authorized users can understand the data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62720",
+    "passage": ""
   }
 ]
