@@ -723,5 +723,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/745",
     "passage": ""
+  },
+  {
+    "id": 746,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Three solutions contain carbonate, sulphate and sulphide ions respectively. One test that will identify just ONE of them completely is by addition to each of them of",
+    "options": {
+      "A": "barium chloride solution",
+      "B": "dilute hydrochloric acid",
+      "C": "lead nitrate solution",
+      "D": "calcium chloride solution",
+      "E": "sodium hydroxide solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To distinguish between carbonate, sulphate, and sulphide ions, you can use dilute hydrochloric acid (HCl) and barium chloride (BaCl\\(_2\\)). Carbonates will react with HCl to produce a gas that turns limewater milky, sulphates react with BaCl\\(_2\\) to form a white precipitate, and sulphides will produce a gas with a rotten egg smell when reacted with HCl.\nSilver nitrate solution is used to distinguish Cl-\nWhen an aqueous solution of silver nitrate is added to the Cl- ion, white ppt of silver chloride is formed.\nAgNO\\(_3\\)(aq) + Cl\\(^-\\)(aq) → AgCl(s) + NO\\(_3\\)\\(^–\\)(aq)\nBarium chloride solution is used to distinguish SO\\(_4\\)\\(^{2–}\\) ion.\nAgain,when an aqueous solution of barium chloride is added to the SO\\(_4\\)\\(^{2–}\\) ion, a white ppt of barium sulphate is formed which is not soluble in weak or strong acids.\nBaCl\\(_2\\)(aq) + SO\\(_4\\)\\(^{2–}\\)(aq) → BaSO\\(_4\\)(s) + 2Cl\\(^-\\)(aq)\nSince dilute HCl can give reaction with both Carbonate ion and Sulphide ion, then it can not be the answer because the question says \"one test that will identify just one of them\".\nAlso, Pb(NO₃)₂ can distinguish between carbonate, sulphate, and sulphide solutions based on the formation of precipitates: PbCO₃ (white ppt), PbSO₄ (white ppt), and PbS (black) respectively.\nConsequently, since Pb(NO₃)₂ can distinguish between carbonate, sulphate, and sulphide solutions, it implies it is the best option, and definitely our valid answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/746",
+    "passage": ""
   }
 ]
