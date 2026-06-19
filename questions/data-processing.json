@@ -3604,5 +3604,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58461",
     "passage": ""
+  },
+  {
+    "id": 58462,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Providing access control to a school is the responsibility of a",
+    "options": {
+      "A": "database administrator",
+      "B": "programmer",
+      "C": "system administrator",
+      "D": "system analyst"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58462",
+    "passage": ""
   }
 ]
