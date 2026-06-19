@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50403",
     "passage": ""
+  },
+  {
+    "id": 50404,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the fourth term in the expansion of \\((3x - y)^{6}\\).",
+    "options": {
+      "A": "\\(-540x^{3}y^{3}\\)",
+      "B": "\\(-540x^{4}y^{2}\\)",
+      "C": "\\(-27x^{3}y^{3}\\)",
+      "D": "\\(540x^{4}y^{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Listing out in order, the terms of this expansion have coefficients: \\(^{6}C_{6}, ^{6}C_{5}, ^{6}C_{4}, ^{6}C_{3}, ^{6}C_{2}, ^{6}C_{1}, ^{6}C_{0}\\)\nThe 4th term = \\(^{6}C_{3}(3x)^{3}(-y)^{3}  = 20 \\times 27x^{3} \\times -y^{3}\\)\n= \\(-540x^{3}y^{3}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50404",
+    "passage": ""
   }
 ]
