@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/926",
     "passage": ""
+  },
+  {
+    "id": 1047,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the mean of the numbers 0, (x+2), (3x+6), and (4x+8) is 4, find their mean deviation.",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mean = \\(\\frac{{0 + (x+2) + (3x+6) + (4x+8)}}{4}\\) = 4 => 0 + (x+2) + (3x+6) + (4x+8) = 16 8x + 16 = 16 x = 0 Now prepare a table showing the deviation of each of 0, (x+2), (3x+6), and (4x+8). Adding the deviations will give 12. Thus M.D = \\(\\frac{12}{4}\\) = 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1047",
+    "passage": ""
   }
 ]
