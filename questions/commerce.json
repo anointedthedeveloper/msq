@@ -15433,5 +15433,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7584",
     "passage": ""
+  },
+  {
+    "id": 7585,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The difference between trademark and patent right is that the latter?",
+    "options": {
+      "A": "gives exclusive right to import a particular good",
+      "B": "is conferred by the government",
+      "C": "confers monopoly on a product",
+      "D": "confers exclusive right to publish literary works"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Patents prevent others from making or selling an invention, but trademarks protect the words, phrases, symbols, logos, or other devices used to identify the source of goods or services from usage by other competitors.\nWhen something is conferred with a monopoly, they are given exclusive possession or control of the supply of or trade in a commodity or service.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7585",
+    "passage": ""
   }
 ]
