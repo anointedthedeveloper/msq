@@ -6269,5 +6269,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62618",
     "passage": ""
+  },
+  {
+    "id": 62619,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The malware which is programmed to initiate at a specific date or when a specific event occurs is called",
+    "options": {
+      "A": "directory virus",
+      "B": "logic bomb",
+      "C": "polymorphic virus",
+      "D": "root kit virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62619",
+    "passage": ""
   }
 ]
