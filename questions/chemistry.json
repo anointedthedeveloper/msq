@@ -14149,5 +14149,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12865",
     "passage": ""
+  },
+  {
+    "id": 12866,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "The brown fumes given off when trioxonitrate (V) acid is heated consist of ?",
+    "options": {
+      "A": "NO 2 and O 2",
+      "B": "H 2 O and NO 2",
+      "C": "NO 2' O 2 and H 2 O",
+      "D": "NO, NO 2 and H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "decomposition of the acid by heat to produce reddish-brown gas (nitrogen (iv)) which then dissolve in the acid to impart the yellow colour.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12866",
+    "passage": ""
   }
 ]
