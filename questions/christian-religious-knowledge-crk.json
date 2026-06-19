@@ -1427,5 +1427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/274",
     "passage": ""
+  },
+  {
+    "id": 275,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "One of the following said: \"The lion hath roared,who will not fear?The Lord has spoken,who can but prophesy?\"",
+    "options": {
+      "A": "Nathan",
+      "B": "Jeremiah",
+      "C": "Hosea",
+      "D": "Elijah",
+      "E": "Amos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/275",
+    "passage": ""
   }
 ]
