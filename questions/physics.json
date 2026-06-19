@@ -8104,5 +8104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14037",
     "passage": ""
+  },
+  {
+    "id": 14039,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The thermometric properties of a thermocouple is the change in?",
+    "options": {
+      "A": "equivalent resistance",
+      "B": "electromotive force",
+      "C": "colour",
+      "D": "pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Temperature difference between hot and cold junctions of thermocouple is proportional to the emf. generated\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14039",
+    "passage": ""
   }
 ]
