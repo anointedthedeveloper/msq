@@ -1838,5 +1838,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57980",
     "passage": ""
+  },
+  {
+    "id": 58049,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) Use the information in the spreadsheet above to answer questions 5(a)i-v\n(i) Write the formula to calculate the total score in Mathematics.\n(ii) Write two spreadsheet formulas to calculate Paul's average score in the four subjects.\n(iii) What spreadsheet function can be used to determine the highest score in English.\n(iv) Outline the procedure for calculating Vera's total score in all subjects and give the result in cell H8.\n(v) If the minimum pass mark is an average score of 60, write a formula to determine if Etta passed or failed.\n(b) Use the diagram below to answer b(i-vii)\n(i) What is the name of the application shown in the diagram?\n(ii) State one use of the application mentioned in 5 (b) (i)\n(iii) Outline the procedure to launch the application from its shortcut on the desktop.\n(iv) After launching the application, what is the name of the slide that appears by default?\n(v) Identify the part labeled I.\n(vi) Write the keyboard shortcut that would also perform the function of the part labeled I.\n(vii) Mention three functions that can be performed by the insert button.",
+    "options": {},
+    "image_url": "https://myschool.ng/storage/classroom/fceIcT52Y4Gxy7hPpPKuf3zFkbxqAmVe23iUk1sq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910571/myschool/data-processing/fceIcT52Y4Gxy7hPpPKuf3zFkbxqAmVe23iUk1sq.jpg",
+    "correct_answer": "",
+    "explanation": "5(a) (i) =SUM(D2,D3,D4,D5,D6,D7,D8,D9.D10,D11)\nOR\n=(D2+D3+D4+D5+D6+D7+D8+D9+D10+D11)\nOR\n=SUM(D2:D11)\nOR\n=SUM(D11:D2)\n(ii) =AVERAGE(D4:G4)\nOR\n=(D4+E4+F4+G4)/4\nOR\n=AVERAGE(D4,E4,F4,G4)\nOR\n=SUM(D4:G4)/4\nOR\n=SUM(D4,E4,F4,G4)/4\n(iii) Max Function OR =MAX(E2:E11)\n(iv) Click on cell H8, Type \"=SUM(D8:G8)\", \"Press Enter\" OR Click on D8. Hold down the mouse and stop at H8/Highlight D8 to H8, Click on Summation icon on the Menu bar OR Click on G8, Type \"=SUM(D8,E8,F8,G8), Press \"Enter\" OR Click on H8, Type =SUM(D8:G8), Press \"Enter\".\n(v) =IF(111>59,\"PASSED\", FAILED\")\nOR\n=IF(111>=60,\"PASSED\", FAILED\")\n(b) (i) MS PowerPoint\n(ii) Presentation\n(iii) Double Click on the icon OR Right click on the icon, Select Open\n(v) Title slide\n(vi) Slide Show View Icon/Slide Show Icon! Slide Show\n(vi) F5\n(vii) Insert Shapes, Insert Textbox, Insert WordArt, Insert Comment, Insert Video, Insert Symbols, Sound, Table, Clipart, Equation, New Slide, Pictures, Header/Footer, Date & Time, Text Box, Smileys etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58049",
+    "passage": ""
   }
 ]
