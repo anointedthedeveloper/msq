@@ -15057,5 +15057,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7529",
     "passage": ""
+  },
+  {
+    "id": 7531,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The document that gives an importer a freehand to obtain goods from any manufacturer is?",
+    "options": {
+      "A": "a consular invoice",
+      "B": "a closed indents",
+      "C": "an open indent",
+      "D": "a freight note"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An open indent is an order to an overseas purchasing agent to buy certain goods, without specifying the manufacturer. If the manufacturer is specified this is a closed indent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7531",
+    "passage": ""
   }
 ]
