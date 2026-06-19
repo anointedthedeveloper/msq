@@ -2968,5 +2968,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61834",
     "passage": ""
+  },
+  {
+    "id": 61835,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "If P 1 and Q = 1, find the value of NOT(P and Q).",
+    "options": {
+      "A": "0",
+      "B": "0 and 1",
+      "C": "1",
+      "D": "1 and 0",
+      "E": "1 and 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61835",
+    "passage": ""
   }
 ]
