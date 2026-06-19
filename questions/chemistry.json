@@ -11317,5 +11317,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4340",
     "passage": ""
+  },
+  {
+    "id": 4341,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following allotrope of carbon is a constituent of a lead pencil?",
+    "options": {
+      "A": "Graphite",
+      "B": "Diamond",
+      "C": "Lampblack",
+      "D": "Soot"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When an element exists in more than one crystalline form, those forms are called allotropes; the two most common allotropes of carbon are diamond and graphite.\nGraphite is used in pencils and lubricants. It is a good conductor of heat and electricity. Its high conductivity makes it useful in electronic products such as electrodes, batteries, and solar panels.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4341",
+    "passage": ""
   }
 ]
