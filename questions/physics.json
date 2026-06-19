@@ -8587,5 +8587,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14085",
     "passage": ""
+  },
+  {
+    "id": 14089,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "I. for current amplification. II. for voltage stabilization. III. for power amplification. IV. as a switch. which of the above are the uses of transistor?",
+    "options": {
+      "A": "I,II,III and IV",
+      "B": "I,III, and IV only",
+      "C": "I, II and III only",
+      "D": "I,II and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Transistor is used for amplification of current, power', voltage stabilization and as a switch in logic gates.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14089",
+    "passage": ""
   }
 ]
