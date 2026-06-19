@@ -16328,5 +16328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24274",
     "passage": ""
+  },
+  {
+    "id": 24275,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The diagram above shows a waveform in which energy is transferred from A to B in a time of 2.5 x 10-3s. Calculate the frequency of the wave",
+    "options": {
+      "A": "2.0 x 10 3 Hz",
+      "B": "1.0 x 10 3 Hz",
+      "C": "4.0 x 10 -2 Hz",
+      "D": "1.0 x 10 -3 Hz",
+      "E": "5.0 x 10 4 Hz."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5544704380_wcphy199026.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892271/myschool/physics/5544704380_wcphy199026.jpg",
+    "correct_answer": "B",
+    "explanation": "The waveform moved from A to B in \\(2.5 \\times 10^{-3}\\) seconds.\nFrom the diagram, A to B has \\(2\\frac{1}{2}\\) complete oscillations between it, Therefore, the period of the oscillation is\n\\(\\frac{2.5 \\times 10^{-3}}{2.5} = 1 \\times 10^{-3} s\\)\n\\(Frequency = \\frac{1}{Period}\\)\n= \\(\\frac{1}{1 \\times 10^{-3}} = 1 \\times 10^{3} Hz\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24275",
+    "passage": ""
   }
 ]
