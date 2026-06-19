@@ -10015,5 +10015,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4036",
     "passage": ""
+  },
+  {
+    "id": 4041,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "What is the pH of 0.001 mol dm-3 solution of sodium hydroxide",
+    "options": {
+      "A": "14",
+      "B": "13",
+      "C": "12",
+      "D": "11"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\([H^+] [OH^-] = 10^{-14}\\) \\([H^+] = 10^{-14}/[OH^-] = 10^{-14}/(1 * 10^{-3}) = 10^{-11}\\) pH = -Log10[H+] = - Log10[10-11] = - 1 * -11 Log10[10-11] = 1 = -1 * -11 * 1 = 11\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4041",
+    "passage": ""
   }
 ]
