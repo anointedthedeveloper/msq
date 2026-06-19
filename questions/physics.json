@@ -12831,5 +12831,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21224",
     "passage": ""
+  },
+  {
+    "id": 21228,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": ".5kg of water at 10\no\nC is completely converted to ice by extracting 188000J of heat from it. If the specific heat capacity of water is 4200J kg\n-1\nC\n-1\n, calculate the specific latent heat of fusion of ice.",
+    "options": {
+      "A": "9.0 KJ kg -1",
+      "B": "84.0 KJ kg -1",
+      "C": "168.0 KJ kg -1",
+      "D": "334.0 KJ kg -1",
+      "E": "336.0 KJ kg -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21228",
+    "passage": ""
   }
 ]
