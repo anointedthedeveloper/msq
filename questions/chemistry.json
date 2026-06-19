@@ -2286,5 +2286,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1529",
     "passage": ""
+  },
+  {
+    "id": 1534,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In which order are the following salts sensitive to light?",
+    "options": {
+      "A": "Agl > AgCl > AgBr",
+      "B": "AgCl > Agl > AgBr",
+      "C": "AgBr > AgCl > Agl",
+      "D": "AgCl > AgBr > Agl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Silver halides are chemical compounds that are formed when silver reacts with halogens. They are used in photographic film and paper because they react with light to form an image. Silver chloride and silver bromate are the most sensitive to light among the three most common silver halide compounds.However, the order of sensitivity to light is in the order of their reactivity as you go down the group in the periodic table. AgCl > AgBr > AgI. The correct answer is option D\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1534",
+    "passage": ""
   }
 ]
