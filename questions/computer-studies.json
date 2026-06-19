@@ -5355,5 +5355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62413",
     "passage": ""
+  },
+  {
+    "id": 62414,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Identify the browsers in the following list:\nI telnet II netscape navigator.ll opera IV mozilla firefox",
+    "options": {
+      "A": "I, lI and lll only",
+      "B": "I, ll and IV only",
+      "C": "Il, Ill and IV,only",
+      "D": "I, II, IIl and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62414",
+    "passage": ""
   }
 ]
