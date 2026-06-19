@@ -6926,5 +6926,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76517",
     "passage": ""
+  },
+  {
+    "id": 76518,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which muscle is known as the \"six-pack\" muscle?",
+    "options": {
+      "A": "Rectus abdominis",
+      "B": "rectus femoris",
+      "C": "Transversus abdominis",
+      "D": "Obliques"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The rectus abdominis is a long, flat muscle that runs vertically along the front of the abdomen. It is responsible for flexing the spine (bending forward) and helping maintain posture. When well-developed and low body fat is present, this muscle creates the appearance of the \"six-pack.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76518",
+    "passage": ""
   }
 ]
