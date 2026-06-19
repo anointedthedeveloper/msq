@@ -19251,5 +19251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72597",
     "passage": ""
+  },
+  {
+    "id": 72598,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Use the devices in Figures 1 and 2 to answer the questions given that the input variables X and Y have values of 0011 and 0101 respectively as shown in Table 1.\n0\n0\n1\n1\n0\n1\n0\n1\nCompute the value of the output Z in Figure 1 using the values of X and Y given.",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/iKNMsc6tkHxdsFGKFLFFpHn3Zs8Kf6Sv7xCS5N9I.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904748/myschool/computer-studies/iKNMsc6tkHxdsFGKFLFFpHn3Zs8Kf6Sv7xCS5N9I.jpg",
+    "correct_answer": "C",
+    "explanation": "C: (0111)\nThe gate here is an OR gate that only gives 0 when both inputs are 0, else it gives 1.\nX Y Z 0 0 1 1 0 1 0 1 0 1 1 1\nZ = 0111",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72598",
+    "passage": ""
   }
 ]
