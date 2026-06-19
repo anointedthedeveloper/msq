@@ -14077,5 +14077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64785",
     "passage": ""
+  },
+  {
+    "id": 64786,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One difference between data and information is that ?",
+    "options": {
+      "A": "data is meaningful while information is not meaningful",
+      "B": "data are raw facts and figures while information is computed",
+      "C": "information is independent of data while\r\ndata is dependent on information",
+      "D": "information is the raw material while data is the\r\nend product of information"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64786",
+    "passage": ""
   }
 ]
