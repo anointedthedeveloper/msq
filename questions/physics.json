@@ -7369,5 +7369,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13903",
     "passage": ""
+  },
+  {
+    "id": 13904,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A car of mass 1500 kg goes round a circular curve of radius 50m at a speed of 40 ms-1. The magnitude of the centripetal force on the car is ?",
+    "options": {
+      "A": "4.8 x 10 4 N",
+      "B": "4.8 x 10 3 N",
+      "C": "1.2  x 10 3 N",
+      "D": "1.2 x 10 2 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Centipetal force of the car = ma = \\(\\frac{(MV^2)}{\\text{r}}\\) = \\(\\frac{(1500 \\times 40 \\times 40}{50}\\) = 48000 = 4.8 x 10\\(^4\\) N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13904",
+    "passage": ""
   }
 ]
