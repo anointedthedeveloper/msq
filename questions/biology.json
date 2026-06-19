@@ -3892,5 +3892,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1915",
     "passage": ""
+  },
+  {
+    "id": 1916,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "An homoiothermic animal kept in a room where the temperature is lower than the body temperature may lose heat by four physical process. Which of the following processes is NOT connected with the body temperature regulation ?",
+    "options": {
+      "A": "Radiation",
+      "B": "Sweat",
+      "C": "Evaporation",
+      "D": "Conduction",
+      "E": "Convection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When the room temperature is lower than the body temperature of a homeothermic (warm-blooded) animal, it may lose heat through various mechanisms: A. Radiation: Heat loss through infrared radiation. D. Conduction: Heat loss through direct contact with a cooler surface. E. Convection: Heat loss through the movement of air or water. Sweating (B) is a mechanism to cool down when the body temperature is high, not when the environment is cooler than the body. However, evaporation (C) can still occur, even if the animal is not sweating, as moisture on the skin or respiratory surfaces can evaporate, taking heat away from the body. So, while evaporation is a valid mechanism for heat loss, sweating itself is not typically a primary mechanism for heat loss in a cooler environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1916",
+    "passage": ""
   }
 ]
