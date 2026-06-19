@@ -2707,5 +2707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3376",
     "passage": ""
+  },
+  {
+    "id": 3377,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A bucket is 12 cm in diameter at the top, 8 cm in diameter at the bottom and 4 cm deep. Calculate its volume.",
+    "options": {
+      "A": "304π/3 cm 3",
+      "B": "144π cm 3",
+      "C": "128π cm 3",
+      "D": "72π cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Volume of a frustrum with top of radius R and bottom r and height h = \\(\\frac{1}{3} \\pi (R^{2} + Rr + r^{2})\\)\nV = \\(\\frac{1}{3} \\pi \\times 4 \\times (6^2 + 6 \\times 4 + 4^2)\\)\n= \\(\\frac{304}{3} \\pi cm^{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3377",
+    "passage": ""
   }
 ]
