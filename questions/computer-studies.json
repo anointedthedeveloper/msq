@@ -5754,5 +5754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62433",
     "passage": ""
+  },
+  {
+    "id": 62434,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is true of a digital logic gate?\n.",
+    "options": {
+      "A": "It has at least two inputs but only one output.",
+      "B": "It has many outputs and inputs.",
+      "C": "It has at least one or more inputs but only one output.",
+      "D": "It has at least one input and two outputs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62434",
+    "passage": ""
   }
 ]
