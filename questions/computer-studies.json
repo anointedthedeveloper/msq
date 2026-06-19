@@ -17040,5 +17040,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69818",
     "passage": ""
+  },
+  {
+    "id": 69819,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The following are effects of file insecurities except",
+    "options": {
+      "A": "file corruption.",
+      "B": "data use.",
+      "C": "data loss.",
+      "D": "data overwriting."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The effect of \"data use\" is not considered an effect of file insecurities. The other options are all possible effects of file insecurities. Data overwriting can occur when a file is overwritten with new data, which can result in the loss of the original data. Data loss can occur when a file is deleted or corrupted, which can make it impossible to access the data. File corruption can occur when a file is damaged, which can make it unreadable or unusable. However, data use is not an effect of file insecurity. Data use is simply the act of accessing and using data. It can occur even if a file is secure. For example, a user can access and use a file even if it is password protected",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69819",
+    "passage": ""
   }
 ]
