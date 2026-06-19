@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73488",
     "passage": ""
+  },
+  {
+    "id": 73489,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ụlọakụ na-aza",
+    "options": {
+      "A": "eluala",
+      "B": "ụlọ",
+      "C": "nri",
+      "D": "akwụkwọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The right option is ụlọ (which means \"house\"). The sentence \"Ụlọakụ na-aza\" means \"Ụlọakụ is building\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73489",
+    "passage": ""
   }
 ]
