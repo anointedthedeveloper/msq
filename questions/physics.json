@@ -5479,5 +5479,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12896",
     "passage": ""
+  },
+  {
+    "id": 12900,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The earth is four times the size of the moon and the acceleration due to gravity on the earth is 80 times that on the moon. The ratio of the mass of the moon to that of the earth is",
+    "options": {
+      "A": "1:80",
+      "B": "1:320",
+      "C": "1:1280",
+      "D": "1:4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "g\\(_e\\) = \\(\\frac{GM_e}{R_e^2}\\)\ng\\(_m\\) = \\(\\frac{GM_m}{R_m^2}\\)\nBut g\\(_e\\) = 80 g\\(_m\\)\nR\\(_e\\) = 4 R\\(_m\\)\nDivide through by g\\(_m\\) by g\\(_e\\)\n\\(\\frac{g_m}{g_e}\\) =  \\(\\frac{GM_m}{R_m^2}\\) \\(\\div\\) \\(\\frac{GM_e}{R_e^2}\\)\n\\(\\frac{g_m}{g_e}\\) =  \\(\\frac{GM_m}{R_m^2}\\) x \\(\\frac{R_e^2}{GM_e}\\)\n\\(\\frac{g_m}{g_e}\\) = \\(\\frac{M_m}{M_e}\\) x \\(\\frac{R_e^2}{R_m^2}\\)\n\\(\\frac{g_m}{g_e}\\) = \\(\\frac{1}{80}\\) and  \\(\\frac{R_e}{R_m}\\) = 4\n\\(\\frac{1}{80}\\) =  \\(\\frac{M_m}{M_e}\\) x 4\\(^2\\)\n\\(\\frac{M_m}{GM_e}\\) = \\(\\frac{1}{80}\\) x \\(\\frac{1}{16}\\)\n\\(\\frac{M_m}{GM_e}\\) = 1: 1280\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12900",
+    "passage": ""
   }
 ]
