@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64155",
     "passage": ""
+  },
+  {
+    "id": 64157,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The game of volleyball was invented by",
+    "options": {
+      "A": "Adolp Spies",
+      "B": "Ludwig Jahn",
+      "C": "Akeem Olajuwon",
+      "D": "William Morgan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Volleyball was invented in 1895 by William G. Morgan, physical director of the Young Men's Christian Association (YMCA) in Holyoke, Massachusetts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64157",
+    "passage": ""
   }
 ]
