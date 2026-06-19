@@ -2560,5 +2560,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75390",
     "passage": ""
+  },
+  {
+    "id": 75392,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The term \"still life\" in painting refers to:",
+    "options": {
+      "A": "Landscapes with no movement",
+      "B": "Portraits of people standing still",
+      "C": "Arrangements of inanimate objects",
+      "D": "Painting of dead bodies"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Still life is an art genre that depicts non-living objects like fruit, flowers, or everyday items. It focuses on studying light, texture, and composition using subjects that don’t move",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75392",
+    "passage": ""
   }
 ]
