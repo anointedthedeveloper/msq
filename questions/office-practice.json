@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66134",
     "passage": ""
+  },
+  {
+    "id": 66137,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "One of the disadvantages of numerical system of filing is that",
+    "options": {
+      "A": "document retrieval takes longer time",
+      "B": "there may be congestion in a file",
+      "C": "there is difficulty of classification",
+      "D": "there is difficulty of document retrieval where date is unknown"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "One of the disadvantages of numerical system of filing is that there is difficulty of document retrieval where date is unknown.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66137",
+    "passage": ""
   }
 ]
