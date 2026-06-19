@@ -7927,5 +7927,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76204",
     "passage": ""
+  },
+  {
+    "id": 76206,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane salo ne ya fi fitowa a cikin wakokin Aminu Ala?",
+    "options": {
+      "A": "Salo na kwatanci",
+      "B": "Salo na ban dariya",
+      "C": "Salo na gargadi",
+      "D": "Salo na siyasa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Wakokin Aminu Ala sun fi ɗauke da gargaɗi da nasiha.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76206",
+    "passage": ""
   }
 ]
