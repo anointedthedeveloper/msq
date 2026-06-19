@@ -6592,5 +6592,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9144",
     "passage": ""
+  },
+  {
+    "id": 9150,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The pie chart above illustrate the amount of private time a student spends in a week studying various subjects. Find the value of k",
+    "options": {
+      "A": "90 o",
+      "B": "60 o",
+      "C": "30 o",
+      "D": "40 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4068270978_math20075.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868633/myschool/mathematics/4068270978_math20075.jpg",
+    "correct_answer": "C",
+    "explanation": "K + 2K + 3K + 75 + 105 = 360 (at a point) 6K + 180 = 360 6K = 360 - 180 6K = 180 k = 180/6 = 30º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9150",
+    "passage": ""
   }
 ]
