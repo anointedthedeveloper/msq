@@ -20255,5 +20255,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76691",
     "passage": ""
+  },
+  {
+    "id": 76693,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The outcome of processed data in a computer is known as",
+    "options": {
+      "A": "Raw fact",
+      "B": "Information",
+      "C": "Database",
+      "D": "Computer result"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The outcome of processed data in a computer is known as 'information'. Raw data is processed by a computer and turned into a meaningful output, which is referred to as information. This is the fundamental concept of data processing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76693",
+    "passage": ""
   }
 ]
