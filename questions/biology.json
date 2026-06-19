@@ -2506,5 +2506,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1180",
     "passage": ""
+  },
+  {
+    "id": 1182,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Biconcave lenses are used in the correction of an eye defect called?",
+    "options": {
+      "A": "myopia",
+      "B": "colour blindnes",
+      "C": "old age",
+      "D": "hypermetropia",
+      "E": "weakening of ciliary muscles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Concave Lenses Are for the Nearsighted , Convex for the Farsighted.\nConcave lenses are used in eyeglasses that correct nearsightedness.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1182",
+    "passage": ""
   }
 ]
