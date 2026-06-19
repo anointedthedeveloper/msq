@@ -8209,5 +8209,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14043",
     "passage": ""
+  },
+  {
+    "id": 14044,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In a good thermos flask, heat loss is reduced through the following features EXCEPT?",
+    "options": {
+      "A": "the lens surface",
+      "B": "the insulating cork",
+      "C": "silvered walls",
+      "D": "the cork lid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The silver coating on the inner bottle of a thermos flask is used to prevent heat transfer by radiation\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14044",
+    "passage": ""
   }
 ]
