@@ -794,5 +794,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49636",
     "passage": ""
+  },
+  {
+    "id": 49637,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following disease would directly affect milk production in cows",
+    "options": {
+      "A": "Mastitis",
+      "B": "Rinderpest",
+      "C": "Trypanosomiasis",
+      "D": "Tuberculosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Mastitis in dairy cows is caused by udder infections, usually resulting from bacteria introduced either during the milking process or from environmental contact. Milk-secreting tissues and various ducts throughout the udder can be damaged by bacterial toxins, and sometimes permanent damage to the udder occurs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49637",
+    "passage": ""
   }
 ]
