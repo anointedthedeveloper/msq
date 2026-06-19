@@ -5041,5 +5041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62338",
     "passage": ""
+  },
+  {
+    "id": 62339,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not a computer output device?",
+    "options": {
+      "A": "Disk",
+      "B": "Plotter",
+      "C": "Printer",
+      "D": "Speaker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62339",
+    "passage": ""
   }
 ]
