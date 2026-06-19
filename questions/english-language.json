@@ -878,5 +878,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/512",
     "passage": ""
+  },
+  {
+    "id": 514,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nHe went up quickly and returned ....",
+    "options": {
+      "A": "fastest",
+      "B": "fastly",
+      "C": "as fastly",
+      "D": "as fast",
+      "E": "in fastness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/514",
+    "passage": ""
   }
 ]
