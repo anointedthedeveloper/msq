@@ -2937,5 +2937,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50462",
     "passage": ""
+  },
+  {
+    "id": 50466,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(r = 2i - j\\), \\(s = 3i + 5j\\) and \\(t = 6i - 2j\\), find the magnitude of \\(2r + s - t\\).",
+    "options": {
+      "A": "\\(\\sqrt{15}\\)",
+      "B": "4",
+      "C": "\\(\\sqrt{24}\\)",
+      "D": "\\(\\sqrt{26}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(r = 2i - j , s = 3i + 5j , t = 6i - 2j\\)\n\\(2r + s - t = 2(2i - j) + (3i + 5j) - (6i - 2j) = i + 5j\\)\n\\(|2r + s - t| = \\sqrt{1^{2} + 5^{2}} = \\sqrt{26}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50466",
+    "passage": ""
   }
 ]
