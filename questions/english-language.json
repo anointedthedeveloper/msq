@@ -2791,5 +2791,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1348",
     "passage": ""
+  },
+  {
+    "id": 1349,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which\nbest completes each\nsentence :\nIkorodu is not far from here, it is only an ....",
+    "options": {
+      "A": "hour of driving",
+      "B": "hour's drive",
+      "C": "hour by driving",
+      "D": "hour in driving",
+      "E": "hours drive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1349",
+    "passage": ""
   }
 ]
