@@ -2623,5 +2623,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68273",
     "passage": ""
+  },
+  {
+    "id": 68274,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a skill and technique in boxing",
+    "options": {
+      "A": "dodging",
+      "B": "ducking",
+      "C": "kicking",
+      "D": "jabbing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Skills and techniques in boxing - ducking - jabbing - blocking - uppercut - guarding - undercut - foot work",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68274",
+    "passage": ""
   }
 ]
