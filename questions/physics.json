@@ -16416,5 +16416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24278",
     "passage": ""
+  },
+  {
+    "id": 24279,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Which of the following statements is not true?",
+    "options": {
+      "A": "Musical notes consist of the combination of sounds of regular frequency",
+      "B": "The combination of overtones produced by an instrument determines the quality of the sound",
+      "C": "the loudness of sound is determined by its frequency",
+      "D": "the pitch of a note depends on the frequency of vibration of the source",
+      "E": "Noise can be produced by a combination of sounds of irregular frequency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "loudness depends on the intensity of sound while intensity in turn depends on the amplitude of vibration, the frequency of the solution, and the distance away from the sounding body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24279",
+    "passage": ""
   }
 ]
