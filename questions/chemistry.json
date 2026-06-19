@@ -788,5 +788,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/759",
     "passage": ""
+  },
+  {
+    "id": 761,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If hydrogen sulphide gas is passed into a solution of a pure iron chloride, a yellow deposit appears. If the deposit is filtered, a pale green solution is left behind. The pale green solution is",
+    "options": {
+      "A": "dilute sulphuric acid",
+      "B": "dilute hydrochloric acid",
+      "C": "unreacted hydrogen sulphide in water",
+      "D": "iron (III) chloride",
+      "E": "Iron (II) chloride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/761",
+    "passage": ""
   }
 ]
