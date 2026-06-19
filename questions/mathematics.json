@@ -5626,5 +5626,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8639",
     "passage": ""
+  },
+  {
+    "id": 8656,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A bag contains 5 black, 4 white and x red marbles. If the probability of picking a red marble is 2/5, find the value of x",
+    "options": {
+      "A": "8",
+      "B": "10",
+      "C": "4",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Black = 5 White = 4 Red = x Total = 9+x P(red) = 2/5 x / (9+x) = 2/5 5x = 2(9+x) 5x = 18+2x 5x-2 = 18 3x = 18 x = 6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8656",
+    "passage": ""
   }
 ]
