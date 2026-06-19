@@ -11721,5 +11721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14489",
     "passage": ""
+  },
+  {
+    "id": 14490,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If a concave lens of focal length 12cm is used to produce a real image four times the size of the object, how far from the lens must the object be placed?",
+    "options": {
+      "A": "10 cm",
+      "B": "15 cm",
+      "C": "20 cm",
+      "D": "25 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Magnifications = V/U = 4 ∴ V = 4U 1/V + 1/U = 1/f 1/4u + 1/U = 1/12 5/4U = 1/12 4U = 12 x 5 = 60 ∴ U = 15 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14490",
+    "passage": ""
   }
 ]
