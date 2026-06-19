@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73215",
     "passage": ""
+  },
+  {
+    "id": 73216,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following practices will ensure safety in food handling?",
+    "options": {
+      "A": "Discard soft foods that are moldy",
+      "B": "Wearing long painted nails",
+      "C": "Cutting fruits before washing",
+      "D": "Using raw eggs for drinks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Discarding soft foods that are moldy is a safe food handling practice, as mold can produce harmful toxins that cause foodborne illness.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73216",
+    "passage": ""
   }
 ]
