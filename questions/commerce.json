@@ -5480,5 +5480,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2016",
     "passage": ""
+  },
+  {
+    "id": 2017,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The main difference between nationalization and indigenization is in terms of",
+    "options": {
+      "A": "shareholding",
+      "B": "profit",
+      "C": "technology",
+      "D": "efficiency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The main difference between nationalization and indigenization lies in terms of shareholding:\nNationalization : This involves the transfer of private sector assets into public ownership by the government. It means that the government takes over the ownership and control of private enterprises, converting them into state-owned entities. Indigenization : This refers to policies aimed at increasing the participation of local citizens in the ownership and management of businesses. It often involves mandating that a certain percentage of a company's shares be owned by indigenous people or local citizens, thereby increasing local shareholding in enterprises.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2017",
+    "passage": ""
   }
 ]
