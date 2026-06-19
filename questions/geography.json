@@ -10743,5 +10743,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8553",
     "passage": ""
+  },
+  {
+    "id": 8555,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "The most efficient means of transporting crude petroleum over extensive land masses is by?",
+    "options": {
+      "A": "water",
+      "B": "road",
+      "C": "rail",
+      "D": "pipe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8555",
+    "passage": ""
+  },
+  {
+    "id": 8557,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "The most important agent in the transformation of the natural vegetation of Nigeria is?",
+    "options": {
+      "A": "climate change",
+      "B": "soil erosion",
+      "C": "agricultural practices",
+      "D": "industrial pollution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8557",
+    "passage": ""
   }
 ]
