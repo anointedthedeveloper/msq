@@ -10941,5 +10941,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7078",
     "passage": ""
+  },
+  {
+    "id": 7079,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The mode of transportation that conveys a limited variety of products through fixed laid routes is?",
+    "options": {
+      "A": "waterways",
+      "B": "road",
+      "C": "rail",
+      "D": "pipeline"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pipeline transportation is a method of transportation that involves the movement of solid, liquid, or gaseous products over long distances through pipelines. The pipelines are made to only transport specific products on fixed routes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7079",
+    "passage": ""
   }
 ]
