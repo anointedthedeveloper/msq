@@ -12873,5 +12873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7306",
     "passage": ""
+  },
+  {
+    "id": 7307,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the long run, all factors of production are?",
+    "options": {
+      "A": "fixed",
+      "B": "variable",
+      "C": "marginal",
+      "D": "constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The long-run is a period of time in which all factors of production and costs are variable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7307",
+    "passage": ""
   }
 ]
