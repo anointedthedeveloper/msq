@@ -3143,5 +3143,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1364",
     "passage": ""
+  },
+  {
+    "id": 1365,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : In 1966, the Military .... because of the tragic failure of the civilian politicians",
+    "options": {
+      "A": "took to power",
+      "B": "undertook power",
+      "C": "marched into power",
+      "D": "came to power",
+      "E": "arrived to power"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The phrase \"came to power\" is the correct and commonly used expression to describe a group assuming control of a government.\nTook to\" is used when someone develops a habit or interest (e.g., \"He took to painting\"), so it does not fit this context. \"Undertook\" means to take on a responsibility or task , but it is not used to describe a government assuming control.  \"March into\" suggests a military movement but is not idiomatic for assuming leadership.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1365",
+    "passage": ""
   }
 ]
