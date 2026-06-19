@@ -7201,5 +7201,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13895",
     "passage": ""
+  },
+  {
+    "id": 13896,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A p-n junction diode is used as?",
+    "options": {
+      "A": "a rectifier in a d.c circuit",
+      "B": "an amplifier in d.c circuit",
+      "C": "an anplifier in an a.c circuit",
+      "D": "a rectifier in an a.c circuit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rectification : A diode allows current to flow in one direction, making it suitable for converting alternating current (AC) to direct current (DC). Diodes are commonly used in power supplies to rectify AC voltage.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13896",
+    "passage": ""
   }
 ]
