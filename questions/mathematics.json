@@ -5584,5 +5584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8622",
     "passage": ""
+  },
+  {
+    "id": 8623,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A final examination requires that a student answer any 4 out of 6 questions. In how many ways can this be done?",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "30",
+      "D": "45"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question will be answered in \\(^6C_4 = \\frac{6!}{(6-4)!4!}\\)\n=\\(\\frac{6!}{2!4!}\\)\n=\\(\\frac{6\\times5\\times4!}{2\\times1\\times4!}\\) = 15ways.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8623",
+    "passage": ""
   }
 ]
