@@ -1911,5 +1911,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/638",
     "passage": ""
+  },
+  {
+    "id": 639,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentences:\nThere is an obvious need to ward .... enemy attacks",
+    "options": {
+      "A": "away",
+      "B": "against",
+      "C": "out",
+      "D": "apart",
+      "E": "off"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/639",
+    "passage": ""
   }
 ]
