@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48080",
     "passage": ""
+  },
+  {
+    "id": 48081,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The cadence in the chord progression above is",
+    "options": {
+      "A": "perfect",
+      "B": "deceptive",
+      "C": "imperfect",
+      "D": "plagal"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/bruU1HwWcHDKT8RCv4SMRBl646fjv5yZGUFiS3c0.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890218/myschool/music/bruU1HwWcHDKT8RCv4SMRBl646fjv5yZGUFiS3c0.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48081",
+    "passage": ""
   }
 ]
