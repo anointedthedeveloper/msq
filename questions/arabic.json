@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75216",
     "passage": ""
+  },
+  {
+    "id": 75217,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع الفعل \"تدرُسُ\"؟",
+    "options": {
+      "A": "مزيد بحرف",
+      "B": "رباعي",
+      "C": "جامد",
+      "D": "تلاتي مجرد"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The verb \"تدرس\" has additional letters beyond the triliteral root.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75217",
+    "passage": ""
   }
 ]
