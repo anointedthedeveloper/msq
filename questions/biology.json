@@ -3012,5 +3012,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1255",
     "passage": ""
+  },
+  {
+    "id": 1256,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "What is the function of the contractile vacuole in paramecium?",
+    "options": {
+      "A": "Produces enzymes",
+      "B": "Gets rid of excreta",
+      "C": "Stores and digest food",
+      "D": "Gets rid of excess water",
+      "E": "Controls movement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1256",
+    "passage": ""
   }
 ]
