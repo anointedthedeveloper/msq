@@ -12306,5 +12306,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22410",
     "passage": ""
+  },
+  {
+    "id": 22411,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A sector is cut off from a circle radius 8.2cm to form a cone, if the radius of the resulting cone is 3.5cm, calculate the curved surface area of the cone. [take π = 22/7]",
+    "options": {
+      "A": "11.25cm 2",
+      "B": "12.83cm 2",
+      "C": "22.0cm 2",
+      "D": "67.2cm 2",
+      "E": "90.2cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "r = 3.5 cm; l = 8.2 cm.\nCurved surface area = \\(\\pi rl\\)\n= \\(\\frac{22}{7} \\times \\frac{7}{2} \\times \\frac{41}{5}\\)\n= 90.2 cm\\(^2\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191119_130148%20%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907564/myschool/mathematics/IMG_20191119_130148_%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/22411",
+    "passage": ""
   }
 ]
