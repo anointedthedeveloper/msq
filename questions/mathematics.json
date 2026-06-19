@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/28",
     "passage": ""
+  },
+  {
+    "id": 29,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the tangent to the acute angle between the lines 2x + y = 3 and 3x - 2y = 5.",
+    "options": {
+      "A": "-7/4",
+      "B": "7/8",
+      "C": "7/4",
+      "D": "7/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let \\(\\phi\\) be the angle between the two lines.\ntan \\(\\phi\\) = \\(\\frac{m_1 - m_2}{1 + m_1 m_2}\\)\nwhere m\\(_1\\) = slope of line 1; m\\(_2\\) = slope of line 2.\nLine 1: 2x + y = 3 \\(\\implies\\) y = 3 - 2x.\nLine 2: 3x - 2y = 5 \\(\\implies\\) -2y = 5 - 3x.\ny = \\(\\frac{3}{2}\\)x - \\(\\frac{5}{2}\\).\nm\\(_1\\) = -2, m\\(_2\\) = \\(\\frac{3}{2}\\).\ntan \\(\\phi\\) = \\(\\frac{-2 - \\frac{3}{2}}{1 + (-2 \\times \\frac{3}{2})}\\)\n= \\(\\frac{\\frac{-7}{2}}{-2}\\)\n\\(\\therefore\\) Tan \\(\\phi\\) = \\(\\frac{7}{4}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/29",
+    "passage": ""
   }
 ]
