@@ -15538,5 +15538,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7590",
     "passage": ""
+  },
+  {
+    "id": 7591,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A device that enables the downloading of information from the internet is the?",
+    "options": {
+      "A": "floppy drive",
+      "B": "compact disk",
+      "C": "modem",
+      "D": "bluetooth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Modem is short for \"Modulator-Demodulator.\" It is a hardware component that allows a computer or another device, such as a router or switch, to connect to the Internet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7591",
+    "passage": ""
   }
 ]
