@@ -14372,5 +14372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22933",
     "passage": ""
+  },
+  {
+    "id": 22934,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "If two events are mutually exclusive, their intersection is empty. This means that there are no outcomes that are common to both events. In probability terms, if X and Y are mutually exclusive events, then:\nPr(X ∩ Y ) = 0",
+    "options": {
+      "A": "0",
+      "B": "2/15",
+      "C": "11/15",
+      "D": "4/15",
+      "E": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since X and Y are mutually exclusive, Pr(X ∩ Y) = 0",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22934",
+    "passage": ""
   }
 ]
