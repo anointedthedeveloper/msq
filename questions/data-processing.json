@@ -7126,5 +7126,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67145",
     "passage": ""
+  },
+  {
+    "id": 67146,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "High level programming languages such as COBOL and FORTRAN were first used in the",
+    "options": {
+      "A": "First generation computers",
+      "B": "Third generation computers",
+      "C": "Fourth generation computers",
+      "D": "Second generation computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Third generation computers were computers that emerged due to the development of the integrated circuit (IC). They were the first steps toward computers as we know them today.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67146",
+    "passage": ""
   }
 ]
