@@ -152,5 +152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15793",
     "passage": ""
+  },
+  {
+    "id": 15794,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "When leaves of crop plants show brownish coloration from the tips of the mid-ribs backward, they are showing deficiency symptom of",
+    "options": {
+      "A": "magnesium",
+      "B": "zinc",
+      "C": "nitrogen",
+      "D": "copper",
+      "E": "phosphorus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Copper deficiency causes brownish necrosis that starts at the leaf tips and progresses backward along the midrib, matching the described symptom. Copper is immobile, so symptoms appear on newer leaves with tip dieback.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15794",
+    "passage": ""
   }
 ]
