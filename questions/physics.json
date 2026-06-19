@@ -7474,5 +7474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13918",
     "passage": ""
+  },
+  {
+    "id": 13919,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A clinical thermometer is different from other mercury in glass thermometers owing to",
+    "options": {
+      "A": "the constriction on its stem",
+      "B": "the grade of mercury used in it",
+      "C": "its long stem",
+      "D": "its wide range of temperatures"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The constriction in the stem of a clinical thermometer prevents the mercury from returning to the bulb after the temperature has been taken, allowing for a more accurate reading. This feature is what distinguishes it from other types of mercury thermometers, which do not typically have this constriction\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13919",
+    "passage": ""
   }
 ]
