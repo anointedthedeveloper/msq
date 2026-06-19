@@ -7474,5 +7474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3229",
     "passage": ""
+  },
+  {
+    "id": 3230,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A dense white fume is formed when ammonia gas reacts with",
+    "options": {
+      "A": "O 2(g)",
+      "B": "H 2(g)",
+      "C": "Cl 2(g)",
+      "D": "HCl (g)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When ammonia (NH\\(_3\\)) gas reacts with hydrogen chloride (HCl) gas, they form solid ammonium chloride (NH\\(_4\\)Cl), observable as white fumes or clouds.\nThe reaction is a neutralization reaction where ammonia, acting as a base, accepts a proton (H+) from the acid, hydrogen chloride.\nNH\\(_3\\)(g) + HCl(g) → NH\\(_4\\)Cl(s)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3230",
+    "passage": ""
   }
 ]
