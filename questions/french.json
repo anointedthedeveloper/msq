@@ -3196,5 +3196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71200",
     "passage": ""
+  },
+  {
+    "id": 71201,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeOn va chez l'opticien quand on a rma aux.",
+    "options": {
+      "A": "doigts",
+      "B": "cheveux",
+      "C": "nez",
+      "D": "Dyeux"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks when one would visit an optician (opticien). The correct answer is yeux (eyes), as opticians specialize in vision and eye care. The other options - cheveux (hair), doigts (fingers), nez (nose), and pieds (feet) - are not related to eye care.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71201",
+    "passage": ""
   }
 ]
