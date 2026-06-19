@@ -2650,5 +2650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71084",
     "passage": ""
+  },
+  {
+    "id": 71085,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentence anglais?",
+    "options": {
+      "A": "Comment",
+      "B": "Chacun",
+      "C": "Quand",
+      "D": "Connbien"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Comment\" means \"how\" and is used to ask for information about something. appelez-vous le chien en",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71085",
+    "passage": ""
   }
 ]
