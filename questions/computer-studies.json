@@ -19734,5 +19734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72636",
     "passage": ""
+  },
+  {
+    "id": 72637,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Columns in MS Access are referred to as",
+    "options": {
+      "A": "fields.",
+      "B": "files.",
+      "C": "records.",
+      "D": "tuples."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Columns in MS Access are called fields. Rows are called records.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72637",
+    "passage": ""
   }
 ]
