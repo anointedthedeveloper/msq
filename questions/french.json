@@ -1393,5 +1393,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48178",
     "passage": ""
+  },
+  {
+    "id": 48179,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Le systéme bancaire est ...dans ce pays",
+    "options": {
+      "A": "corrompu",
+      "B": "corrompt",
+      "C": "corruption",
+      "D": "corrompre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48179",
+    "passage": ""
   }
 ]
