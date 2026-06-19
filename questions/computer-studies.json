@@ -8851,5 +8851,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62687",
     "passage": ""
+  },
+  {
+    "id": 62688,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Flexibility of a good program means?",
+    "options": {
+      "A": "handling of any change(s) without having to rewrite the entire program.",
+      "B": "the length of processing time and memory to process the instruction.",
+      "C": "the program has to be broken down into a number of sub-tasks.",
+      "D": "the program should work for two similar tasks in the same domain."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62688",
+    "passage": ""
   }
 ]
