@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48090",
     "passage": ""
+  },
+  {
+    "id": 48091,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Missa Brevis was composed by",
+    "options": {
+      "A": "Palestina",
+      "B": "G.F Handel",
+      "C": "Monteverdi",
+      "D": "J.S Bach"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48091",
+    "passage": ""
   }
 ]
