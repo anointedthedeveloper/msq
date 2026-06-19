@@ -2538,5 +2538,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50429",
     "passage": ""
+  },
+  {
+    "id": 50430,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Solve: \\(2\\cos x - 1 = 0\\).",
+    "options": {
+      "A": "\\((\\frac{2\\pi}{3}, \\frac{4\\pi}{3})\\)",
+      "B": "\\((\\frac{\\pi}{6}, \\frac{5\\pi}{6})\\)",
+      "C": "\\((\\frac{\\pi}{5}, \\frac{2\\pi}{5})\\)",
+      "D": "\\((\\frac{\\pi}{3}, \\frac{5\\pi}{3})\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(2\\cos x - 1 = 0 \\implies 2\\cos x = 1\\)\n\\(\\cos x = \\frac{1}{2}\\)\n\\(x = \\cos^{-1} (\\frac{1}{2})\\)\n= \\(\\frac{\\pi}{3}\\) = \\(\\frac{5\\pi}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50430",
+    "passage": ""
   }
 ]
