@@ -4575,5 +4575,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70814",
     "passage": ""
+  },
+  {
+    "id": 70815,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is a common factor contributing to drug abuse?",
+    "options": {
+      "A": "Family history of drug abuse",
+      "B": "All of the above",
+      "C": "Peer pressure",
+      "D": "Low self-esteem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All the listed factors, including peer pressure, low self-esteem, and family history of drug abuse, commonly contribute tc the risk of drug abuse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70815",
+    "passage": ""
   }
 ]
