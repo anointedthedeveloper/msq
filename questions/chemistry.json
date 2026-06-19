@@ -13144,5 +13144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4783",
     "passage": ""
+  },
+  {
+    "id": 4784,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The diagram above best illustrates the effect of decrease in",
+    "options": {
+      "A": "concentration",
+      "B": "temperature",
+      "C": "surface area",
+      "D": "pressure"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13529306800_chem201128.gif",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891265/myschool/chemistry/13529306800_chem201128.gif",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4784",
+    "passage": ""
   }
 ]
