@@ -14737,5 +14737,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12946",
     "passage": ""
+  },
+  {
+    "id": 12950,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": ".0g of a monobasic acid was made up to 250 cm\n3\nwith distilled water. 25.00 cm\n3\nof this solution required 20.00cm\n3\nof 0.1 M NaOH solution for complete neutralization. The molar mass of the acid is?",
+    "options": {
+      "A": "200 g",
+      "B": "160 g",
+      "C": "100 g",
+      "D": "50 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "a\nb\nb\na\n3\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12950",
+    "passage": ""
   }
 ]
