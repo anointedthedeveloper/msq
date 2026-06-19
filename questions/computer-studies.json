@@ -20780,5 +20780,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76873",
     "passage": ""
+  },
+  {
+    "id": 76874,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The application software that allows information available on the internet to be obtained is called",
+    "options": {
+      "A": "spreadsheet",
+      "B": "internet protocol",
+      "C": "browser",
+      "D": "World Wide Web"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The application software that allows information available on the internet to be obtained is called a 'browser'. A web browser is a software application that people use to access the World Wide Web. It translates the coding language of the web into the text, graphics, and other features that we see.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76874",
+    "passage": ""
   }
 ]
