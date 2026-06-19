@@ -13579,5 +13579,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23851",
     "passage": ""
+  },
+  {
+    "id": 23852,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following is NOT a vector quantity?",
+    "options": {
+      "A": "momentum",
+      "B": "force",
+      "C": "velocity",
+      "D": "temperature",
+      "E": "displacement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23852",
+    "passage": ""
   }
 ]
