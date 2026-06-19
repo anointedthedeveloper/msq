@@ -8872,5 +8872,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62688",
     "passage": ""
+  },
+  {
+    "id": 62689,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Fibre Optic cable transmits signal in the fom of?",
+    "options": {
+      "A": "sound.",
+      "B": "electricity.",
+      "C": "Light.",
+      "D": "microwave"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fiber optics transmits data in the form of light particles, or photons, that pulse through a fiber optic cable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62689",
+    "passage": ""
   }
 ]
