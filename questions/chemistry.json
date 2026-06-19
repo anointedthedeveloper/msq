@@ -41,5 +41,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3",
     "passage": ""
+  },
+  {
+    "id": 4,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When sodium chloride and metallic sodium are each dissolved in water",
+    "options": {
+      "A": "both processes are exothermic",
+      "B": "both processes are endothermic",
+      "C": "the dissolution of metallic sodium is endothermic",
+      "D": "the dissolution of metallic sodium is exothermic",
+      "E": "the dissolution of sodium chloride is explosive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When small quantities of sodium metal is added to water, there is an exothermic reaction, and they react to form sodium hydroxide and hydrogen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4",
+    "passage": ""
   }
 ]
