@@ -9588,5 +9588,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62726",
     "passage": ""
+  },
+  {
+    "id": 62727,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Choose the incorrect statement about microcomputers?",
+    "options": {
+      "A": "A microcomputer can be placed on a single silicon chip.",
+      "B": "A microcomputer can have more processing capability than a mainframe model.",
+      "C": "ROM chips may be used in micros to permanently store program instruction.",
+      "D": "Most micros use rigid disk storage devices rather than floppy disk drives."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A microcomputer can have more processing capability than a mainframe model.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62727",
+    "passage": ""
   }
 ]
