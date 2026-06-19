@@ -312,5 +312,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48126",
     "passage": ""
+  },
+  {
+    "id": 48127,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "L'auteur préférait travailler à la ferme avec son grand-pàre parce qu'il",
+    "options": {
+      "A": "s'y sentaitmieux",
+      "B": "y dormait bien",
+      "C": "s'y reposait mieux",
+      "D": "y mangeait beaucoup"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/7iGvn9wbbRpE3nf1VK0K4xplTu2vyl0qvtcGaKaj.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890501/myschool/french/7iGvn9wbbRpE3nf1VK0K4xplTu2vyl0qvtcGaKaj.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48127",
+    "passage": ""
   }
 ]
