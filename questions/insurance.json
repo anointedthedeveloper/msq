@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49651",
     "passage": ""
+  },
+  {
+    "id": 49652,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The right to effect a contract of insurance on the life of a debtor by the creditor is?",
+    "options": {
+      "A": "utmost good faith",
+      "B": "proximate cause",
+      "C": "insurable interest",
+      "D": "contribution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Insurable interest is an essential requirement for issuing an insurance policy which makes the entity or event legal, valid and protected against intentionally harmful acts. People not subject to financial loss do not have an insurable interest .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49652",
+    "passage": ""
   }
 ]
