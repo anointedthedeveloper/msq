@@ -10821,5 +10821,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4231",
     "passage": ""
+  },
+  {
+    "id": 4232,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most\nappropriately\ncompletes the sentence\n:\nBy the end of this year i ..... twenty books",
+    "options": {
+      "A": "read",
+      "B": "would have read",
+      "C": "will read",
+      "D": "have read",
+      "E": "am reading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4232",
+    "passage": ""
+  },
+  {
+    "id": 4233,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most appropriately completes the sentence : Leonard: We went to a hotel and had a very good dinner for N1.00.\nGeoffrey: You .... a very good dinner if you paid N1.00",
+    "options": {
+      "A": "must had had",
+      "B": "needn't have had",
+      "C": "couldn't have had",
+      "D": "had to have",
+      "E": "have had"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Couldn't have had\" is used to express strong doubt or disbelief about a past event. Geoffrey is expressing skepticism that such a good dinner could cost only N1.00.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4233",
+    "passage": ""
   }
 ]
