@@ -1079,5 +1079,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48163",
     "passage": ""
+  },
+  {
+    "id": 48164,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Dans \"Chaque chose en son temps\", Zénabou est victime de",
+    "options": {
+      "A": "vial",
+      "B": "l'esclavage",
+      "C": "Marriage précoce",
+      "D": "travail force"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48164",
+    "passage": ""
   }
 ]
