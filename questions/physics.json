@@ -12393,5 +12393,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14531",
     "passage": ""
+  },
+  {
+    "id": 14536,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A length of wire has a frequency of 225Hz when stretched by a force of 225N. If the force increased to 324N, what is the new frequency of vibration?",
+    "options": {
+      "A": "270 Hz",
+      "B": "512 Hz",
+      "C": "488 Hz",
+      "D": "356 Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "f1 = 225Hz, T1 = 225N f2 = ? T2 = 324N But f ∝ √T => f = K√T => K = f/√T ∴ f1/√T1 = f2/√T2 225/√225 = f2/√324\nf2 = 225√324 √225\nf2 = 270Hz\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14536",
+    "passage": ""
   }
 ]
