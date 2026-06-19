@@ -2119,5 +2119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9069",
     "passage": ""
+  },
+  {
+    "id": 9097,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The primary coil of a transformer has N turns and is connected to a 120 V a.c. power line. If the secondary coils has 1 000 turns and a terminal voltage of 1 200 volts, what is the value of N?",
+    "options": {
+      "A": "120",
+      "B": "100",
+      "C": "1 000",
+      "D": "1 200"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For the transformer, V ∝ ∩ => V s ∝ ∩s; Vp ∝ ∩p => \\(\\frac{V_p}{V_s} = \\frac{∩_p}{∩_s}\\),  therefore \\(\\frac{120}{1200} = \\frac{∩_p}{1000}\\) therefore ∩\\(_p \\times 1200 = 120\\times 1000\\) ∩\\(_p = 120\\times\\frac{1000}{1200}\\) = 100\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9097",
+    "passage": ""
   }
 ]
