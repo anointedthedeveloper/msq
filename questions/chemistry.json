@@ -745,5 +745,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/746",
     "passage": ""
+  },
+  {
+    "id": 756,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Two gas cylinders contain ethylene (ethene) and acetylene respectively. One test which can be used to distinguish between them is by?",
+    "options": {
+      "A": "passing each gas through bromine water",
+      "B": "passing each gas through dilute potassium permanganate solution",
+      "C": "passing each gas through silver nitrate solution",
+      "D": "treating each gas catalytically with excess hydrogen gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Acetylene reacts with ammoniacal AgNO3 solution to form a white precipitate of silver acetylide (AgC-=Cag) but ethylene does not",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/756",
+    "passage": ""
   }
 ]
