@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73226",
     "passage": ""
+  },
+  {
+    "id": 73227,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Food ______ is a benefit of healthy handling practices.",
+    "options": {
+      "A": "Contamination",
+      "B": "Safety",
+      "C": "Poisoning",
+      "D": "Spoilage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Healthy handling practices help ensure food safety, which is critical for preventing foodborne illnesses and ensuring the well-being of consumers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73227",
+    "passage": ""
   }
 ]
