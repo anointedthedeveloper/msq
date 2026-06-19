@@ -1735,5 +1735,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/614",
     "passage": ""
+  },
+  {
+    "id": 616,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nI saw you walking in that direction but i did not know exactly ....",
+    "options": {
+      "A": "where are you going",
+      "B": "where you were going",
+      "C": "where were you going to",
+      "D": "to where were you going",
+      "E": "where you are going"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/616",
+    "passage": ""
   }
 ]
