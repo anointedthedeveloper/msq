@@ -4723,5 +4723,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12749",
     "passage": ""
+  },
+  {
+    "id": 12750,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A circuit has an area of 0.4m2 and consists of 50 loops of wire. If the loops are twisted and allowed to rotate at a constant angular velocity of 10 rad s-1 in a uniform magnetic field of 0.4T, the amplitude of the induced voltage is",
+    "options": {
+      "A": "8V",
+      "B": "16V",
+      "C": "20V",
+      "D": "80V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The induced voltage \\(\\epsilon\\) in a coil = N* B* A * \\(\\omega\\)\nwhere: N = number of loops (50 loops),B = magnetic field strength (0.4 T),A = area of the loop (0.4 m\\(^2\\)),\\(\\omega\\) = angular velocity (10 rad/s)\n\\(\\epsilon\\) in a coil = N* B* A * \\(\\omega\\) = 50 x 0.4 x 0.4 x 10 = 80V\nTherefore, the amplitude of the induced voltage is 80V",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12750",
+    "passage": ""
   }
 ]
