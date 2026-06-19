@@ -5317,5 +5317,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75891",
     "passage": ""
+  },
+  {
+    "id": 75892,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le verbe \"chanter\" veut dire :",
+    "options": {
+      "A": "danser",
+      "B": "lire",
+      "C": "produire un son mélodieux",
+      "D": "marcher"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French verb \"chanter\" means \"to sing\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75892",
+    "passage": ""
   }
 ]
