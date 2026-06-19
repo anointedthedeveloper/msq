@@ -2894,5 +2894,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50459"
+  },
+  {
+    "id": 50460,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(x^{2} + 4x + k = (x + r)^{2} + 1\\), find the value of k and r.",
+    "options": {
+      "A": "k = 5, r = -1",
+      "B": "k = 5, r = 2",
+      "C": "k = 2, r = -5",
+      "D": "k = -1, r = 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50460"
   }
 ]
