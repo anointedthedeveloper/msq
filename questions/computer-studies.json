@@ -20112,5 +20112,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72691",
     "passage": ""
+  },
+  {
+    "id": 72692,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "(a) Explain the following Internet terms (i) Sign in; (ii) Search engine (b) Figure 1 and 2 illustrate the access methods.\n(i) Identity the hle access method illustrated in: I. Figure 1; II. Figure 2. (ii) State one advantage and one disadvantage each for the file access m method illustrated in: I. Figure 1; Advantage: Disadvantage: II. Figure 2. Advantage: Disadvantage:",
+    "options": {},
+    "image_url": "https://myschool.ng/storage/classroom/v05fWuGX5DEC3ZxJfyA6BydkHYO6dd4lnRuKyPNL.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905017/myschool/computer-studies/v05fWuGX5DEC3ZxJfyA6BydkHYO6dd4lnRuKyPNL.jpg",
+    "correct_answer": "",
+    "explanation": "a(i) Sign in : This means to enter a username, password or other authentication details to access a website, application or online service, allowing the user to access their account, personalized content and features. (ii) Search engine : This is a website or program that enables people to find information online by searching for keywords or phrases. Examples include Google, Bing, Yahoo.\nb(i)I. Figure 1 : Random access method II. Figure 2 : Sequential access method.\n(i) I. Figure 1 : Advantage : Records can be accessed directly regardless of physical location making it ideal for fast data retrieval. Disadvantage : Complex indexing system required to manage record locations\nII. Figure 2: Advantage : (i) Straightforward to implement as records are stored and accessed linearly. (ii) Less prone to data corruption. (ii) Efficient for large files. Disadvantage: Show data retrieval most especially if the desired record is located far into the sequence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72692",
+    "passage": ""
   }
 ]
