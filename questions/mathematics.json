@@ -13581,5 +13581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22864",
     "passage": ""
+  },
+  {
+    "id": 22865,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The population of a village is 5846. Express this number to three significant figures",
+    "options": {
+      "A": "5850",
+      "B": "5846",
+      "C": "5840",
+      "D": "585",
+      "E": "584"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "5846 \\(\\approxeq\\) 5850 (to 3 s.f.)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22865",
+    "passage": ""
   }
 ]
