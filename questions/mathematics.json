@@ -5836,5 +5836,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8727",
     "passage": ""
+  },
+  {
+    "id": 8732,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Evaluate \\(\\int_{-4}^0(1 - 2x)dx\\)",
+    "options": {
+      "A": "-16",
+      "B": "-20",
+      "C": "20",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\int_{-4}^0(1 - 2x)\\)dx = \\([x - x^2]_{-4}^0\\) = (0 - 0 + C) - (-4 - (-4)\\(^2\\) + C) = C - ( - 4 - 16 +C ) = C - ( - 20 + C) = C + 20 - C = 20\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8732",
+    "passage": ""
   }
 ]
