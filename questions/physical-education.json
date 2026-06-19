@@ -5583,5 +5583,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76347",
     "passage": ""
+  },
+  {
+    "id": 76348,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In basketball, what constitutes a 'traveling' violation?",
+    "options": {
+      "A": "Blocking a shot",
+      "B": "Passing the ball illegally",
+      "C": "Taking more than two steps without dribbling",
+      "D": "Dribbling with both hands simultaneously"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Traveling occurs when a player moves their feet excessively without dribbling the ball. This violation stops play, and the opposing team is awarded possession. Proper footwork and dribbling are essential to avoid traveling.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76348",
+    "passage": ""
   }
 ]
