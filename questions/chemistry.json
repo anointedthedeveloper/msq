@@ -3126,5 +3126,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1670",
     "passage": ""
+  },
+  {
+    "id": 1672,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The chemical used for coagulation in water purification is",
+    "options": {
+      "A": "Aluminium tetraoxosulphate (VI)",
+      "B": "Copper tetraoxosulphate (VI)",
+      "C": "Sodium tetraoxosulphate (VI)",
+      "D": "Calcium tetraoxosulphate (VI)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The most common chemical used for coagulation in water purification is aluminum tetraoxosulphate(VI), also known as alum.\nCuSO\\(_4\\) is used as a fungicide, algaecide, herbicide, root killer, and soil additive. It can also be used to protect plants during seed treatment.\nNa\\(_2\\)SO\\(_4\\) is used to dry organic liquids. As a filler in powdered home laundry detergents.\nCaSO\\(_4\\) is used in tofu(a food prepared by coagulating soy milk and then pressing the resulting curds into solid white blocks of varying softness) as a coagulant.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1672",
+    "passage": ""
   }
 ]
