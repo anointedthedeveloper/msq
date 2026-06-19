@@ -6718,5 +6718,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9221",
     "passage": ""
+  },
+  {
+    "id": 9222,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "If y = x cos x, find dy/dx",
+    "options": {
+      "A": "sin x - x cos x",
+      "B": "sin x + x cos x",
+      "C": "cos x + x sin x",
+      "D": "cos x - x sin x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9222",
+    "passage": ""
   }
 ]
