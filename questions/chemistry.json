@@ -5898,5 +5898,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2635",
     "passage": ""
+  },
+  {
+    "id": 2636,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "\\(^{226}\\)\\(_{88}\\)Ra → \\(^x\\)\\(_{86}\\)Rn + α - particle What is the value of x in the nuclear reaction above?",
+    "options": {
+      "A": "220",
+      "B": "222",
+      "C": "226",
+      "D": "227"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "α - particle is represented by He atom with mass number of 4 and atomic number of 2. Thus, try to balance the mass number and atomic number of both Ra and Rn by subtracting 4 from 226 i.e (226 - 4) and subtracting 2 from 88 i.e (88 - 2 = 86 ).\n\\(^{226}\\)\\(_{88}\\)Ra → \\(^{222}\\)\\(_{86}\\)Rn + \\(^4\\)\\(_2\\)He (α - particle)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2636",
+    "passage": ""
   }
 ]
