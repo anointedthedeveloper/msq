@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57292",
     "passage": ""
+  },
+  {
+    "id": 57296,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The spreadsheet symbol used to convert a number to a label is",
+    "options": {
+      "A": "quotation mark (“ “)",
+      "B": "equality sign (=)",
+      "C": "underscore (_)",
+      "D": "apostrophe sign (')"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An apostrophe before a cell value forces Excel to interpret the value as label. This is mostly useful for values that look like a number or date.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57296",
+    "passage": ""
   }
 ]
