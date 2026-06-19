@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75303",
     "passage": ""
+  },
+  {
+    "id": 75306,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The classification of art into functional and non-functional depends on:",
+    "options": {
+      "A": "The tools used",
+      "B": "The purpose it serves",
+      "C": "Its size",
+      "D": "The colour applied"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Functional art serves a use; non-functional art is purely aesthetic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75306",
+    "passage": ""
   }
 ]
