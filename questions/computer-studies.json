@@ -10927,5 +10927,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64098",
     "passage": ""
+  },
+  {
+    "id": 64099,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Storage which retains data after power cut off is called.",
+    "options": {
+      "A": "Volatile storage",
+      "B": "Non-volatile storage",
+      "C": "Sequential storage",
+      "D": "Direct storage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Non volatile storage retains data after power is off because, Non volatile storage is a broad collection of technologies and devices that do not require a continuous power supply to retain data or program code persistently on a short or long term basis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64099",
+    "passage": ""
   }
 ]
