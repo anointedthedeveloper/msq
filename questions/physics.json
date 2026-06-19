@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/628",
     "passage": ""
+  },
+  {
+    "id": 630,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Gamma rays are produced when",
+    "options": {
+      "A": "high velocity electrons are abruptly stopped in metals",
+      "B": "energy changes occur within the nucleus of atoms",
+      "C": "energy changes occur within the electronic structure of atoms",
+      "D": "electrons are deflected in very strong magnetic fields"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/630",
+    "passage": ""
   }
 ]
