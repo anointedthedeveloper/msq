@@ -1450,5 +1450,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15973",
     "passage": ""
+  },
+  {
+    "id": 15974,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following environmental factors is likely to have the greatest influence on crop production in Nigeria?",
+    "options": {
+      "A": "temperature",
+      "B": "vegetation",
+      "C": "air movement",
+      "D": "moisture",
+      "E": "pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15974",
+    "passage": ""
   }
 ]
