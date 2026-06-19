@@ -680,5 +680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/497",
     "passage": ""
+  },
+  {
+    "id": 498,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space. Tennyson and Browning lived about the same time and are therefore .... poets",
+    "options": {
+      "A": "contrary",
+      "B": "contractual",
+      "C": "contemporaneous",
+      "D": "contemporary",
+      "E": "contemptible"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sentence says that Tennyson and Browning lived about the same time . Writers or artists who live and work during the same period are described as contemporary .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/498",
+    "passage": ""
   }
 ]
