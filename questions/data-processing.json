@@ -2647,5 +2647,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58262",
     "passage": ""
+  },
+  {
+    "id": 58274,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is not an advantage of file organization?",
+    "options": {
+      "A": "Faster processing of data input",
+      "B": "Postal data retrieval",
+      "C": "Prevention of data failure and data loss",
+      "D": "Safety of data and information in a storage medium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58274",
+    "passage": ""
   }
 ]
