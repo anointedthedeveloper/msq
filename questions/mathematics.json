@@ -2854,5 +2854,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3383",
     "passage": ""
+  },
+  {
+    "id": 3384,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Find the mean of the data: 7, -3, 4, -2, 5, -9, 4, 8, -6, 12",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(Mean: \\frac{7 + (-3) + 4 + (-2) + 5 + (-9) + 4 + 8 + (-6) + 12}{10} = \\frac{20}{10}\\)\n= 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3384",
+    "passage": ""
   }
 ]
