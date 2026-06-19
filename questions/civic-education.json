@@ -11248,5 +11248,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69572",
     "passage": ""
+  },
+  {
+    "id": 69574,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The traffic sign indicated in Figure 1 means",
+    "options": {
+      "A": "no crossing",
+      "B": "no waiting",
+      "C": "no stopping",
+      "D": "no overtaking"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6G5TymzdzMoF8tIpOhOnVw7QDtIfvbiMmkpBqYQA.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912759/myschool/civic-education/6G5TymzdzMoF8tIpOhOnVw7QDtIfvbiMmkpBqYQA.png",
+    "correct_answer": "B",
+    "explanation": "A 'no waiting' or 'no parking' sign lets a driver stop temporarily, maybe to let out a passenger or unload some goods, but you can't linger there.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69574",
+    "passage": ""
   }
 ]
