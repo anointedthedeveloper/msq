@@ -19398,5 +19398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72612",
     "passage": ""
+  },
+  {
+    "id": 72613,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "One usefulness of utility software in the computer is",
+    "options": {
+      "A": "conversion of source code to object code.",
+      "B": "enhancement of communication between hardware and the computer system.",
+      "C": "removal of malware from the computer.",
+      "D": "to improve the functionality of hardware devices."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C: Utility software perform a variety of tasks that help manage, maintain and optimize computer systems. One of these include the removal of malware from the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72613",
+    "passage": ""
   }
 ]
