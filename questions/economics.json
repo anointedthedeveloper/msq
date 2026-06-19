@@ -482,5 +482,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/202",
     "passage": ""
+  },
+  {
+    "id": 203,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Disposable income is the same thing as",
+    "options": {
+      "A": "personal income minus personal savings",
+      "B": "personal inome minus taxes",
+      "C": "national income minus depriciation",
+      "D": "exports minus imports",
+      "E": "savings plus investments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/203",
+    "passage": ""
   }
 ]
