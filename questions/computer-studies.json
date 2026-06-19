@@ -15444,5 +15444,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67771",
     "passage": ""
+  },
+  {
+    "id": 67772,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A set of programs that direct computers to perform specific information processing activities for end users is",
+    "options": {
+      "A": "System software",
+      "B": "Operating System",
+      "C": "Application software",
+      "D": "Translators"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Application software is the set of programs necessary to carry out operations for a specified application.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67772",
+    "passage": ""
   }
 ]
