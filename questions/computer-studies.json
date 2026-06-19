@@ -2946,5 +2946,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61833",
     "passage": ""
+  },
+  {
+    "id": 61834,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "How do you find and load a file that has been saved? select ..... command.",
+    "options": {
+      "A": "close",
+      "B": "file",
+      "C": "new",
+      "D": "open",
+      "E": "save"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61834",
+    "passage": ""
   }
 ]
