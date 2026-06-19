@@ -5585,5 +5585,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2672",
     "passage": ""
+  },
+  {
+    "id": 2675,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : A policeman stopped me and I ….to the police station.",
+    "options": {
+      "A": "Was taken",
+      "B": "Took",
+      "C": "Am taken",
+      "D": "Will be taken",
+      "E": "Walk"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The sentence is in the past tense because of the verb “stopped” : Therefore, the second verb should also be in the past tense . The verb phrase \" was taken\" is the past tense (in the passive voice). It means someone (the policeman) took me to the station.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2675",
+    "passage": ""
   }
 ]
