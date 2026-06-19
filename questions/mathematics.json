@@ -16088,5 +16088,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23203",
     "passage": ""
+  },
+  {
+    "id": 23204,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The angle of a sector of a circle radius 10.5cm is 120°. Find the perimeter of the sector [Take π = 22/7]",
+    "options": {
+      "A": "22cm",
+      "B": "33.5cm",
+      "C": "43cm",
+      "D": "66cm",
+      "E": "115.5cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Perimeter of a sector = \\(2r + \\frac{\\theta}{360} \\times 2\\pi r\\)\n= \\(2(10.5) + \\frac{120}{360} \\times 2 \\times \\frac{22}{7} \\times 10.5\\)\n= \\(21 + 22\\)\n= 43 cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23204",
+    "passage": ""
   }
 ]
