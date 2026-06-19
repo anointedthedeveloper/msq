@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/715",
     "passage": ""
+  },
+  {
+    "id": 716,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In a pure semiconductor, the number of electrons in the conduction band is",
+    "options": {
+      "A": "less than the number of holes in the valence band",
+      "B": "equal to the number of holes in the valence band",
+      "C": "greater than the number of holes in the valence band",
+      "D": "twice the number of holes in the valence band"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a pure (intrinsic) semiconductor, the number of electrons in the conduction band is equal to the number of holes in the valence band. This is because when an electron moves from the valence band to the conduction band, it leaves behind a hole.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/716",
+    "passage": ""
   }
 ]
