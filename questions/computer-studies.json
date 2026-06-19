@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60240",
     "passage": ""
+  },
+  {
+    "id": 60241,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In changing the storage location of a file, the command to use is_______",
+    "options": {
+      "A": "ctrl + S keys",
+      "B": "'save' command",
+      "C": "'save as' command",
+      "D": "alt + F, then save"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60241",
+    "passage": ""
   }
 ]
