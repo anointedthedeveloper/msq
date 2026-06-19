@@ -13060,5 +13060,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4779",
     "passage": ""
+  },
+  {
+    "id": 4780,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A chemical reaction which the hydration energy is greater than the lattice energy is referred to as",
+    "options": {
+      "A": "a spontaneous reaction",
+      "B": "an endothermic reaction",
+      "C": "an exothermic reaction",
+      "D": "a reversible reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When the hydration energy is greater than the lattice energy, then it is exothermic.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4780",
+    "passage": ""
   }
 ]
