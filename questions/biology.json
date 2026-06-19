@@ -2792,5 +2792,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1245",
     "passage": ""
+  },
+  {
+    "id": 1246,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The amount of water loss from a leaf can be detected using",
+    "options": {
+      "A": "lime-water",
+      "B": "red litmus paper",
+      "C": "blue litmus paper",
+      "D": "blue cobalt chloride paper",
+      "E": "pink cobalt chloride paper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The amount of water loss from a leaf (transpiration) can be detected using blue cobalt chloride paper because this paper is chemically sensitive to moisture.\nWhen dry, cobalt chloride paper is blue. Upon coming into contact with water or water vapor released by the leaf, it undergoes a chemical change and turns pink. By measuring the time it takes for the paper to change from blue to pink, researchers can determine the rate and relative amount of water loss from different surfaces of the leaf.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1246",
+    "passage": ""
   }
 ]
