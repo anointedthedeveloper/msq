@@ -9511,5 +9511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9803",
     "passage": ""
+  },
+  {
+    "id": 9804,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If \\(\\begin{vmatrix} x & 3 \\\\ 2 & 7 \\end{vmatrix} = 15\\), find the value of x",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\begin{vmatrix} x & 3 \\\\ 2 & 7 \\end{vmatrix} = 15\\) x x 7 - 2 x 3 = 15 7 x - 6 = 15 7 x = 15+6 7 x = 21 x = 21/7 x = 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9804",
+    "passage": ""
   }
 ]
