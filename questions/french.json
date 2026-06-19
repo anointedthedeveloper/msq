@@ -2483,5 +2483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71076",
     "passage": ""
+  },
+  {
+    "id": 71077,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceSi vous cherchez un chien dappartement,prenez.",
+    "options": {
+      "A": "celle",
+      "B": "ceci",
+      "C": "celle-ci",
+      "D": "celle-là"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "La réponse correcte est celle-ci. Dans ce contexte, \"celle-ci\" est utilisé pour désigner spécifiquement un chien parmi un groupe d'options, en l'occurrence un chien d'appartement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71077",
+    "passage": ""
   }
 ]
