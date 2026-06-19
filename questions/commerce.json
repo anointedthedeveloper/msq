@@ -4976,5 +4976,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1979",
     "passage": ""
+  },
+  {
+    "id": 1980,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Ocean liners are subdivided into",
+    "options": {
+      "A": "passenger liner and cargo liners",
+      "B": "coastel liners and cargo liners",
+      "C": "cargo liners and tramp liners",
+      "D": "passenger liners and tramp liners"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1980",
+    "passage": ""
   }
 ]
