@@ -12810,5 +12810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7303",
     "passage": ""
+  },
+  {
+    "id": 7304,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The art of soaping-making is an example of?",
+    "options": {
+      "A": "primary occupation",
+      "B": "secondary occcupation",
+      "C": "tertiary occupation",
+      "D": "construction occupation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Secondary production refers to the manufacturing and assembly process. It involves converting raw materials into components, for example, making plastics from oil as well as making soap from oils.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7304",
+    "passage": ""
   }
 ]
