@@ -4499,5 +4499,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62281",
     "passage": ""
+  },
+  {
+    "id": 62282,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The part of the computer that holds the data and pro- grams for CPU processing is the?",
+    "options": {
+      "A": "Address.",
+      "B": "Register:",
+      "C": "Random Access Memory.",
+      "D": "Read Only Memory"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62282",
+    "passage": ""
   }
 ]
