@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49681",
     "passage": ""
+  },
+  {
+    "id": 49682,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The document used pending the issuance of certificate in motor insurance policy is",
+    "options": {
+      "A": "a cover note",
+      "B": "a proposal form",
+      "C": "an endorsement",
+      "D": "a slip"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A cover note is a temporary document issued by an insurance company that provides proof of insurance coverage until a final insurance policy can be issued. A cover note is different from a certificate of insurance or an insurance policy document.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49682",
+    "passage": ""
   }
 ]
