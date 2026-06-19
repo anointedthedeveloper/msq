@@ -2392,5 +2392,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3341",
     "passage": ""
+  },
+  {
+    "id": 3342,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If \\(y = x^2 - \\frac{1}{x}\\). find dy/dx",
+    "options": {
+      "A": "2x - (1/x 2 )",
+      "B": "2x + x 2",
+      "C": "2x - x 2",
+      "D": "2x + (1/x 2 )"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(y = x^{2} - \\frac{1}{x} = x^{2} - x^{-1}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2x - (- x^{-2})\\)\n= \\(2x + \\frac{1}{x^{2}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3342",
+    "passage": ""
   }
 ]
