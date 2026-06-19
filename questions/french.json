@@ -270,5 +270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48124",
     "passage": ""
+  },
+  {
+    "id": 48125,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Slon texte, I'auteur était un enfant",
+    "options": {
+      "A": "intelligent",
+      "B": "frustré",
+      "C": "paresseux",
+      "D": "idiot"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/HgTMUX2p5masnkURmc360I3AioOZgbgBY7ldxn35.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890482/myschool/french/HgTMUX2p5masnkURmc360I3AioOZgbgBY7ldxn35.png",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48125",
+    "passage": ""
   }
 ]
