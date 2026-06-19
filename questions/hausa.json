@@ -4381,5 +4381,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73898",
     "passage": ""
+  },
+  {
+    "id": 73899,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "(same passage)\nWare bare.",
+    "options": {
+      "A": "Maharba",
+      "B": "Manoma",
+      "C": "Madora",
+      "D": "Makiyaya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Madora (Madora are not found in these towns. The other options – Maharba (hunters), Makiyaya (herders), Manoma (farmers), and Masunta (traders) – are all found in these towns)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73899",
+    "passage": ""
   }
 ]
