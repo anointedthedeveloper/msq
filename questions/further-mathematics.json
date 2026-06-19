@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50229",
     "passage": ""
+  },
+  {
+    "id": 50233,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Evaluate \\(\\int_{-1}^{0} (x+1)(x-2) \\mathrm{d}x\\)",
+    "options": {
+      "A": "\\(\\frac{7}{6}\\)",
+      "B": "\\(\\frac{5}{6}\\)",
+      "C": "\\(\\frac{-5}{6}\\)",
+      "D": "\\(\\frac{-7}{6}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Expanding \\((x+1)(x-2) = x^{2} - 2x + x - 2 = x^{2} - x - 2\\)\n\\(\\int_{-1}^{0} (x^{2} - x - 2) \\mathrm{d}x = [\\frac{x^{3}}{3} - \\frac{x^{2}}{2} - 2x]_{-1}^{0}\\)\n= \\([\\frac{0}{3} - \\frac{0}{2} - 2\\times0 - (\\frac{-1^{3}}{3} - \\frac{-1^{2}}{2} - 2\\times-1)]\\)\n= \\(0 + \\frac{1}{3} + \\frac{1}{2} - 2 = \\frac{-7}{6}\\)\nNote: This can also be solved using integration by parts.\n\\(\\int uv \\mathrm{d}x = u\\int v \\mathrm{d}x - \\int u'(\\int v \\mathrm{d}x)\\mathrm{d}x\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50233",
+    "passage": ""
   }
 ]
