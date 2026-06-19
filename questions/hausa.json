@@ -1425,5 +1425,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73657",
     "passage": ""
+  },
+  {
+    "id": 73658,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Jam'in Boyayye - Boyayyu. Korarre -",
+    "options": {
+      "A": "Korarruwa",
+      "B": "Korarru",
+      "C": "Korarriya",
+      "D": "Korarra"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The plural form of \"Korarre\" is: Answer: Korarru (Korarru is the correct plural form of Korarre. Korarriya, Korarra, Korarruwa, and Koraye are not the correct plural forms)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73658",
+    "passage": ""
   }
 ]
