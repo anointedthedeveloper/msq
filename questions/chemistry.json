@@ -4281,5 +4281,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2131",
     "passage": ""
+  },
+  {
+    "id": 2132,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Ethanol can easily be produced by",
+    "options": {
+      "A": "fermentation of starch",
+      "B": "distillation of starch solution",
+      "C": "catalytic oxidation of methane",
+      "D": "destructive distillation of wood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ethanol may be produced by either synthetic chemical method or by fermentation of carbohydrate (Starch).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2132",
+    "passage": ""
   }
 ]
