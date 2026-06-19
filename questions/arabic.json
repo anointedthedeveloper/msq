@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75333",
     "passage": ""
+  },
+  {
+    "id": 75335,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Translate: \"They are reading the Qur'an.\"",
+    "options": {
+      "A": "هم يدرسون الحديث",
+      "B": "هم يقرأون القرآن",
+      "C": "هم يصلّون الفجر",
+      "D": "هم يكتبون الدرس"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"They are reading\" = يقرأون, and \"القرآن\" = Qur'an.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75335",
+    "passage": ""
   }
 ]
