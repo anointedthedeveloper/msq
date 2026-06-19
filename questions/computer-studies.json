@@ -20176,5 +20176,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72695",
     "passage": ""
+  },
+  {
+    "id": 72696,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "(a) Give two differences between a compiler and an interpreter in Table 2. Table 2\nInterpreter\n(b) State one advantage of coding in: (i) high level programming language; (i) low level programming language.\n(c) Outline two characteristics of a good program.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)\nComputer Interpreter Intermediate object code is generated No intermediate object code is generated Takes the entire program at once Translate sources program line by line Comparatively faster in execution Slower in execution Error detection is difficult Comparatively easy More memory requirement Requires less memory\n(b) Advantages of coding in high level programming language are: (i) I. Provides higher level of abstraction; allows programmes to focus on the logic and functionality of their programs rather than hardware or complex low-level operations. II. Easy to code, debug and maintain.\n(ii) Advantages of coding in low level programming language are: I. Faster execution times I. Greater control over hardware resources\n(c) Characteristics of a good program I. Correctness: a good program must produce the desired output for a given input. II. Maintainability: Must be easy to modify, update and debug III. Readability: Must be clear, concise and understandable. IV. Reliability: Must consistently perform correctly under various conditions. V. Efficiency: Must use system resources (time, memory, etc.) optimally. VI. Portability: Must be able to run on different platforms with minimal modifications.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72696",
+    "passage": ""
   }
 ]
