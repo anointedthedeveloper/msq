@@ -14414,5 +14414,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5177",
     "passage": ""
+  },
+  {
+    "id": 5178,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1987",
+    "question": "In the question below choose the option opposite in meaning to the word(s) Underlined : My brother's primary school foundation was solid and this influenced his secondary education",
+    "options": {
+      "A": "sound",
+      "B": "sordid",
+      "C": "shaky",
+      "D": "weak"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The word “solid” in the sentence describes the strength and quality of the academic foundation the brother received in primary school. It implies that his foundation was strong and well-established, which positively influenced his secondary education.\nThe opposite of “solid” in this context is therefore “weak”, meaning a foundation that is inadequate or not strong enough to support further learning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5178",
+    "passage": ""
   }
 ]
