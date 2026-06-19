@@ -17207,5 +17207,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25005",
     "passage": ""
+  },
+  {
+    "id": 25006,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A gas has a volume of 546 cm3 at OºC. What is the volume of the gas at -100ºC if its pressure remains constant?",
+    "options": {
+      "A": "346cm 3",
+      "B": "446cm 3",
+      "C": "546cm 3",
+      "D": "646cm 3",
+      "E": "746 cm 3 ."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{V_1}{T_1} =  \\frac{V_2}{ T_2}\\)\n\\(T_1\\) = 0 + 273 = 273K, \\(T_2\\) = -100+273 = 173K\n\\(\\frac{546}{273} =  \\frac{V_2}{ 173}\\)\n\\(V_2 = 346cm^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25006",
+    "passage": ""
   }
 ]
