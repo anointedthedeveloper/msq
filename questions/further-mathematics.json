@@ -2328,5 +2328,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50419",
     "passage": ""
+  },
+  {
+    "id": 50420,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the variance of 11, 12, 13, 14 and 15.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "\\(\\sqrt{2}\\)",
+      "D": "13"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(Variance (\\sigma^{2}) = \\frac{\\sum (x - \\mu)^2}{n}\\)\nThe mean \\((\\mu)\\) of the data = \\(\\frac{11 + 12 + 13 + 14 + 15}{5} = \\frac{65}{5} = 13\\)\n\\(x\\) \\((x - \\mu)\\) \\((x - \\mu)^{2}\\) 11 -2 4 12 -1 1 13 0 0 14 1 1 15 2 4 Total 10\n\\(\\sigma^{2} = \\frac{10}{5} = 2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50420",
+    "passage": ""
   }
 ]
