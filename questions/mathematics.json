@@ -4576,5 +4576,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8210",
     "passage": ""
+  },
+  {
+    "id": 8211,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Given that \\(\\sqrt[3]{{4}}\\)\\(^{2x}\\) = 16, find the value of x",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "3",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "3√42x = 16 this implies that (3√42x)3 = (16)3 42x = 42*3 42x = 46 ∴ 2x = 6 x = 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8211",
+    "passage": ""
   }
 ]
