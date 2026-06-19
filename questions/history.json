@@ -5163,5 +5163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/55563",
     "passage": ""
+  },
+  {
+    "id": 55565,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Which one of the following is incorrect?",
+    "options": {
+      "A": "Sarkin Fada was the head of Palace workers in the Hausa/Fulani Empire",
+      "B": "The Ajeles properly governed the districts in the Old Oyo Empire",
+      "C": "The Alkali Courts were headed by the Hakimis in the Hausa/Fulani Empire",
+      "D": "The Igbo precolonial era was acephalous in nature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Alkali Courts were headed by the Alkali judges in the Hausa/Fulani Empire not the Hakimis, who were actually the head of districts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/55565",
+    "passage": ""
   }
 ]
