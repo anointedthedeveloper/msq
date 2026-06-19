@@ -12087,5 +12087,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22400",
     "passage": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows; 4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2"
+  },
+  {
+    "id": 22401,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows;\n4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2",
+    "options": {
+      "A": "2",
+      "B": "7",
+      "C": "8",
+      "D": "9",
+      "E": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22401",
+    "passage": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows; 4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2"
+  },
+  {
+    "id": 22402,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above O is the center of the circle, if ∠PAQ = 75o, what is the value of ∠PBQ?",
+    "options": {
+      "A": "15 o",
+      "B": "75 o",
+      "C": "105 o",
+      "D": "150 o",
+      "E": "210 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2900726534_12386498_472375062935523_1502732309_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907463/myschool/mathematics/2900726534_12386498_472375062935523_1502732309_n.jpg",
+    "correct_answer": "C",
+    "explanation": "< PBQ = 180° - 75° (opp angles of a cyclic quadrilateral)\n= 105°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22402",
+    "passage": ""
   }
 ]
