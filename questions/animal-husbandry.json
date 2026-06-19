@@ -5541,5 +5541,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/61453",
     "passage": ""
+  },
+  {
+    "id": 61454,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Determine the number of pigs that could be stocked in a pig sty with dimensions of 14.0 m by 6.0 m. If the required floor space per pig is 2m\\(^{2}\\)",
+    "options": {
+      "A": "10",
+      "B": "42",
+      "C": "84",
+      "D": "168"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Area of the floor  = l x B = 14 x 6 = 84m\\(^2\\)\nFloor space per pig = 2m\\(^2\\)\nThe number of pigs that could be stocked in a pig sty with dimensions of 14.0 m by 6.0 m = \\(\\frac{84}{2}\\) = 42 pigs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/61454",
+    "passage": ""
   }
 ]
