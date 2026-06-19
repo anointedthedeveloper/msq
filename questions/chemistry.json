@@ -10603,5 +10603,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4276",
     "passage": ""
+  },
+  {
+    "id": 4279,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Detergents are manufactured with straight hydrocarbon chains so as to make them",
+    "options": {
+      "A": "soluble",
+      "B": "biodegradable",
+      "C": "cheaper",
+      "D": "foamy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The choice of straight hydrocarbon chains primarily serves the purpose of enhancing the biodegradability of the detergent, making it less harmful to the environment once it is washed away.Since unbranched (i.e., straight) chains are more prone to attack by bacteria, therefore in most of the detergents used these days, the branching is kept to be minimum so that the detergents become easily biodegradable.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4279",
+    "passage": ""
   }
 ]
