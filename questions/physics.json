@@ -11216,5 +11216,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14458",
     "passage": ""
+  },
+  {
+    "id": 14459,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A certain far - sighted person cannot see object that are closer to the eye than 50 cm clearly. Determine the power of the converging lens which will enable him to see at 25 cm",
+    "options": {
+      "A": "0.06 D",
+      "B": "0.02 D",
+      "C": "0.03 D",
+      "D": "0.04 D",
+      "E": "no option is correct"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{\\text{f}}\\) = \\(\\frac{1}{\\text{u}}\\) + \\(\\frac{1}{\\text{v}}\\)\n\\(\\frac{1}{\\text{f}}\\) = \\(\\frac{1}{25}\\) + \\(\\frac{1}{-50}\\)\nu = 25cm, v = - 50cm\n\\(\\frac{1}{\\text{f}}\\) = \\(\\frac{1}{u}\\) - \\(\\frac{1}{50}\\) = \\(\\frac{2 - 1}{50}\\)\nf = 50cm\nP = \\(\\frac{1}{\\text{f}}\\)  = \\(\\frac{1}{50}\\)  = 0.02cm. ( in dioptres = 2D)\n1D = 1m\\(^{-1}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14459",
+    "passage": ""
   }
 ]
