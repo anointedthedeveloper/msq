@@ -8956,5 +8956,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62692",
     "passage": ""
+  },
+  {
+    "id": 62693,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "What type of network is represented in Figure 2?",
+    "options": {
+      "A": "Local Area Network",
+      "B": "Metropolitan Area Network",
+      "C": "Personal Area Network",
+      "D": "Wide Area Network"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/yv45ApCwQTiozbEdXJdN0wkNuq2nmFoGlLWZ9ZvO.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781902843/myschool/computer-studies/yv45ApCwQTiozbEdXJdN0wkNuq2nmFoGlLWZ9ZvO.jpg",
+    "correct_answer": "B",
+    "explanation": "The type of network that is represented in the diagram above is a Metropolitan Area Network, a MAN is made up of interconnected LANs",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62693",
+    "passage": ""
   }
 ]
