@@ -4837,5 +4837,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2089",
     "passage": ""
+  },
+  {
+    "id": 2090,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the correct word to fill the space in the following sentences : He travelled to Jos .... train when he came last",
+    "options": {
+      "A": "by",
+      "B": "in",
+      "C": "on",
+      "D": "inside",
+      "E": "through"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The word \"by\" is used to indicate the mode of transport or means of traveling , such as:\nby train by car by bus",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2090",
+    "passage": ""
   }
 ]
