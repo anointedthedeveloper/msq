@@ -2880,5 +2880,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1249",
     "passage": ""
+  },
+  {
+    "id": 1250,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "What is the genetic ratio of a cross between homozygous tall plant and a homozygous dwarf plant?",
+    "options": {
+      "A": "0 tall : 4 short",
+      "B": "3 tall : 1 short",
+      "C": "2 short : 2 tall",
+      "D": "1 tall : 1 short",
+      "E": "4 tall : o short"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1250",
+    "passage": ""
   }
 ]
