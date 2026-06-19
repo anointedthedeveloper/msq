@@ -1573,5 +1573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64444",
     "passage": ""
+  },
+  {
+    "id": 64445,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "During physical exercise, the body requires more supply of",
+    "options": {
+      "A": "Carbon monoxide",
+      "B": "Hydrogen",
+      "C": "Carbon dioxide",
+      "D": "Oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The body requires more supply of oxygen to prevent fatigue.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64445",
+    "passage": ""
   }
 ]
