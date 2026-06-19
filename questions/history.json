@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/32881",
     "passage": ""
+  },
+  {
+    "id": 32882,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following played the greatest role in the British conquest of Nigeria?",
+    "options": {
+      "A": "The John Holt Company",
+      "B": "The Royal Niger Company",
+      "C": "The Church Missionary Society",
+      "D": "The Roman Catholic Mission."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/32882",
+    "passage": ""
   }
 ]
