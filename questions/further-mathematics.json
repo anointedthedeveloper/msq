@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50387",
     "passage": ""
+  },
+  {
+    "id": 50388,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Two functions f and g are defined on the set of real numbers by \\(f : x \\to x^{2} + 1\\) and \\(g : x \\to x - 2\\). Find f o g.",
+    "options": {
+      "A": "\\(x^{2} + 4x - 5\\)",
+      "B": "\\(x^{2} - 4x + 5\\)",
+      "C": "\\(x^{2} - 1\\)",
+      "D": "\\(x - 1\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(f(x) = x^{2} + 1\\)  and  \\(g(x) = x - 2\\)\n\\(f o g = f(g(x)) = f(x - 2) = (x - 2)^{2} + 1 \\)\n= \\(x^{2} - 4x + 4 + 1 = x^{2} - 4x + 5\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50388",
+    "passage": ""
   }
 ]
