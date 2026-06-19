@@ -86,5 +86,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/293",
     "passage": ""
+  },
+  {
+    "id": 296,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "People suffering from myopia",
+    "options": {
+      "A": "can see near object clearly",
+      "B": "can see far away object clearly",
+      "C": "cannot see any object clearly",
+      "D": "are colour blind",
+      "E": "are able to see clearly in the dark"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Myopia is another name given to short- sightedness. Affected persons see close objects clearly but far objects are blurry and would take correction to get from a distance fixed on their retina.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/296",
+    "passage": ""
   }
 ]
