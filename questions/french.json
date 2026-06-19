@@ -4183,5 +4183,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75408",
     "passage": ""
+  },
+  {
+    "id": 75409,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Quand deux personnes se marient, il y a un/une ...",
+    "options": {
+      "A": "accident",
+      "B": "mariage",
+      "C": "baptême",
+      "D": "mort"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word \"marriage\" refers to a formal wedding ceremony.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75409",
+    "passage": ""
   }
 ]
