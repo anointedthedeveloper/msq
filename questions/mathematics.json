@@ -16745,5 +16745,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23234",
     "passage": ""
+  },
+  {
+    "id": 23235,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A die rolled 200 times. The outcome obtained are shown in the table above.\nWhat is the probability of obtaining a number less than 3 ?",
+    "options": {
+      "A": "0.125",
+      "B": "0.150",
+      "C": "0.275",
+      "D": "0.500",
+      "E": "0.725"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Prob(less than 3) = \\(\\frac{25 + 30}{200}\\)\n= \\(\\frac{11}{40}\\)\n= 0.275",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23235",
+    "passage": ""
   }
 ]
