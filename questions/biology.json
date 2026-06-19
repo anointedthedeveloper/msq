@@ -3342,5 +3342,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1846",
     "passage": ""
+  },
+  {
+    "id": 1851,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "If Benedict's solution gives a positive result in a food test, the food contains",
+    "options": {
+      "A": "sugar",
+      "B": "protein",
+      "C": "oil",
+      "D": "fat",
+      "E": "cellulose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1851",
+    "passage": ""
   }
 ]
