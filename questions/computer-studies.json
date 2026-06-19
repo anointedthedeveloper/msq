@@ -6081,5 +6081,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62450",
     "passage": ""
+  },
+  {
+    "id": 62451,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The available page orientation in Microsoft Word are?",
+    "options": {
+      "A": "portrait and justify",
+      "B": "justify and right align",
+      "C": "left align and landscape",
+      "D": "portrait and landscape."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62451",
+    "passage": ""
   }
 ]
