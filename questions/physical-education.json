@@ -4806,5 +4806,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70826",
     "passage": ""
+  },
+  {
+    "id": 70827,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How can self-medication lead to drug misuse?",
+    "options": {
+      "A": "By causing incorrect dosages to be taken",
+      "B": "By preventing access to healthcare",
+      "C": "By increasing the effectiveness of the drug",
+      "D": "By ensuring proper use of medication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Self-medication can lead to taking incorrect dosages, which is a form of drug misuse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70827",
+    "passage": ""
   }
 ]
