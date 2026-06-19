@@ -647,5 +647,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48142",
     "passage": ""
+  },
+  {
+    "id": 48143,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "IIparle ...affaire impossible",
+    "options": {
+      "A": "de la",
+      "B": "d'un",
+      "C": "d'en",
+      "D": "d'une"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48143",
+    "passage": ""
   }
 ]
