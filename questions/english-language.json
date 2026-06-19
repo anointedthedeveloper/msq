@@ -5519,5 +5519,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2666",
     "passage": ""
+  },
+  {
+    "id": 2668,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : We left .... U.S.A, and crossed .... Atlantic ocean to .... Europe.",
+    "options": {
+      "A": "the/the/…",
+      "B": "…/…/…",
+      "C": "…/…/the",
+      "D": "the/…/a",
+      "E": "…/an/…"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let’s look at each part of the sentence:\n“the U.S.A” Correct : We use \"the\" before countries whose names are descriptive or plural (e.g., the United States of America , the Netherlands , the Philippines ). “the Atlantic Ocean” Correct : Always use \"the\" before names of oceans, seas, rivers, and deserts (e.g., the Pacific Ocean , the Red Sea , the Nile ). “to Europe” Correct : We do not use \"the\" before continents or most countries (e.g., to Africa , to Europe , to France ).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2668",
+    "passage": ""
   }
 ]
