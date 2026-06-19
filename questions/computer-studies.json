@@ -14791,5 +14791,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64928",
     "passage": ""
+  },
+  {
+    "id": 64934,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "What will be the result of writing the formula=year[now[][  + 3 in a worksheet,of a spread sheet,if the current calendar is 14 august ,1960?",
+    "options": {
+      "A": "17 august 196003",
+      "B": "14 aug,1963",
+      "C": "11 august,1963",
+      "D": "1963"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64934",
+    "passage": ""
   }
 ]
