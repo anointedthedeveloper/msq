@@ -7873,5 +7873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69789",
     "passage": ""
+  },
+  {
+    "id": 69790,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A pointing device that controls cursor movement on the screen is",
+    "options": {
+      "A": "trackball",
+      "B": "plotter",
+      "C": "keyboard",
+      "D": "monitor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A pointing device that controls cursor movement on the screen is a trackball. A trackball is a small, ball-shaped device that is used to control the movement of the cursor on a computer screen. The trackball is held in place by a socket and is rotated by the user's fingers. The rotation of the trackball causes the cursor to move in the corresponding direction on the screen. Trackballs are often used in laptops and other portable devices where there is limited space for a mouse. They are also used by people with disabilities who have difficulty using a mouse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69790",
+    "passage": ""
   }
 ]
