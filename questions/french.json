@@ -4897,5 +4897,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75866",
     "passage": ""
+  },
+  {
+    "id": 75867,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marché Samedi matin, Claire se rend au marché avec sa mère. Le marché est très animé. Il y a des vendeurs de fruits, de légumes, de viande et de poisson. Claire aime surtout le stand de fruits, car elle adore les mangues, les bananes et les fraises. Sa mère achète des carottes, des tomates et du poisson pour préparer le déjeuner. Après les achats, elles prennent un jus d'orange frais avant de rentrer à la maison. Quel jour Claire va-t-elle au marché ?",
+    "options": {
+      "A": "Dimanche soir",
+      "B": "Samedi matin",
+      "C": "Lundi matin",
+      "D": "Vendredi après-midi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The first sentence clearly says \"Samedi matin\" (Saturday morning).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75867",
+    "passage": ""
   }
 ]
