@@ -1635,5 +1635,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73602",
     "passage": ""
+  },
+  {
+    "id": 73603,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ọlee akara e ji egosi mgbe ihe mberedede mere?​​​​​​​",
+    "options": {
+      "A": "-",
+      "B": "!",
+      "C": "?",
+      "D": ":"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Akara (exclamation mark) is used to indicate strong emotions or sudden feelings, such as surprise, shock, or excitement, which is often the case when something unexpected happens (ihe mberedede).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73603",
+    "passage": ""
   }
 ]
