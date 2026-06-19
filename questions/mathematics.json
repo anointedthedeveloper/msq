@@ -12526,5 +12526,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22420",
     "passage": ""
+  },
+  {
+    "id": 22421,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In an A.P. the first term is 2, and the sum of the 1st and the 6th term is 16\\(\\frac{1}{2}\\). What is the 4th term",
+    "options": {
+      "A": "12",
+      "B": "9 1 / 2",
+      "C": "8",
+      "D": "7",
+      "E": "5 1 / 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1st term a = 2; 6th term = a + (6 - 1)d = 2 + 5d 2 + (2 + 5d) = 16\\(\\frac{1}{2}\\); 4 + 5d = 16\\(\\frac{1}{2}\\) 5d = 12.5 ∴ = 2.5 the 4th term is 2 + (4 - 1)2.5= 9\\(\\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22421",
+    "passage": ""
   }
 ]
