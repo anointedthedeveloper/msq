@@ -1446,5 +1446,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1416",
     "passage": ""
+  },
+  {
+    "id": 1427,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "When a current I was passed through an electrolyte solution for 40 minutes, a mass X g of a univalent metal was deposited at the cathode. What mass of the metal will be deposited when a current 2I is passed  through the solution for 10 minutes?",
+    "options": {
+      "A": "X/4 g",
+      "B": "X/2 g",
+      "C": "2X g",
+      "D": "4X g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1427",
+    "passage": ""
   }
 ]
