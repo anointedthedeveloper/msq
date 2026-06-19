@@ -14878,5 +14878,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23148",
     "passage": ""
+  },
+  {
+    "id": 23149,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Write as a single fraction \\(\\frac{1}{1 - x} + \\frac{2}{1 + x}\\)",
+    "options": {
+      "A": "\\(\\frac{x + 3}{1 - x^2}\\)",
+      "B": "\\(\\frac{3 - x}{(1 - x)^2}\\)",
+      "C": "\\(\\frac{3 - x}{1 + x^2}\\)",
+      "D": "\\(\\frac{3 - x}{(1 + x)^2}\\)",
+      "E": "\\(\\frac{3 - x}{1 - x^2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(\\frac{1}{1 - x} + \\frac{2}{1 + x}\\)\n= \\(\\frac{(1 + x) + 2(1 - x)}{(1 - x)(1 + x)}\\)\n= \\(\\frac{1 + x + 2 - 2x}{1 - x^2}\\)\n= \\(\\frac{3 - x}{1 - x^2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23149",
+    "passage": ""
   }
 ]
