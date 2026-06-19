@@ -3000,5 +3000,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50471",
     "passage": ""
+  },
+  {
+    "id": 50473,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A mass of 75kg is placed on a lift. Find the force exerted by the floor of the lift on the mass when the lift is moving up with constant velocity. \\([g = 9.8ms^{-2}]\\)",
+    "options": {
+      "A": "750N",
+      "B": "745N",
+      "C": "735N",
+      "D": "98N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Net force = Upward force - weight\n\\(ma = F - mg\\)\nWith constant velocity, acceleration = 0, therefore, ma = 0\n\\(\\therefore F = mg = 75 \\times 9.8 = 735N\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50473",
+    "passage": ""
   }
 ]
