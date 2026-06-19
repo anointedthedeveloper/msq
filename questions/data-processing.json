@@ -10028,5 +10028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77104",
     "passage": ""
+  },
+  {
+    "id": 77105,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The process of converting data or information into a form which is readily for processing is called",
+    "options": {
+      "A": "decoding",
+      "B": "manipulating",
+      "C": "encoding",
+      "D": "analysing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The process of converting data or information into a form which is readily for processing is called 'encoding'. Encoding is the process of converting data from one form to another form, especially in computing and digital communications.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77105",
+    "passage": ""
   }
 ]
