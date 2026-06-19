@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75205",
     "passage": ""
+  },
+  {
+    "id": 75206,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "كلمة \"استغفر\" على وزن؟",
+    "options": {
+      "A": "أُفعل",
+      "B": "انفعل",
+      "C": "تفعل",
+      "D": "استفعل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": ". a derived verb -\"استفعل\" follows the pattern of \"استغفر\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75206",
+    "passage": ""
   }
 ]
