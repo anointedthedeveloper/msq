@@ -20028,5 +20028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72671",
     "passage": ""
+  },
+  {
+    "id": 72688,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Figure 7 represents a procedure to",
+    "options": {
+      "A": "backup files on a computer.",
+      "B": "repair a corrupted file on a computer.",
+      "C": "transfer files from one device to another.",
+      "D": "update software on a device."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/IBodUdhLCCwOzxaoPXZwe7T7aJ5pgskHS6Jb5Ih9.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904995/myschool/computer-studies/IBodUdhLCCwOzxaoPXZwe7T7aJ5pgskHS6Jb5Ih9.jpg",
+    "correct_answer": "C",
+    "explanation": "This process involves the transfer of files from one device to another via Bluetooth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72688",
+    "passage": ""
   }
 ]
