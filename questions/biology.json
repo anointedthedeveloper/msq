@@ -4200,5 +4200,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1929",
     "passage": ""
+  },
+  {
+    "id": 1930,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Treatment of a poor soil with lime supplies",
+    "options": {
+      "A": "Sulphur",
+      "B": "Calcium",
+      "C": "Phosphorus",
+      "D": "Sodium",
+      "E": "Nitrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Treating the soil with lime is to improve the calcium content of the soil. It provides a source of calcium and magnesium for plants.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1930",
+    "passage": ""
   }
 ]
