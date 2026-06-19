@@ -10837,5 +10837,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14388",
     "passage": ""
+  },
+  {
+    "id": 14389,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the diagram above , if the magnetic field points into the paper and the force on a current - carrying conductor points upwards, what is the direction of the current?",
+    "options": {
+      "A": "Upwards",
+      "B": "Downwards",
+      "C": "Right",
+      "D": "Left"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16365719088_phy200737.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890754/myschool/physics/16365719088_phy200737.jpg",
+    "correct_answer": "C",
+    "explanation": "Use Fleming's Left-Hand Rule TgQPHd||[] to find the direction: TgQPHd||[]\nFirst Finger (Field): TgQPHd||[] Point it into the paper/screen. TgQPHd||[] TgQPHd||[]\nThumb (Force): TgQPHd||[] Point it upwards. TgQPHd||[] TgQPHd||[]\nSecond Finger (Current): TgQPHd||[] It will naturally point to the right TgQPHd||[] .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14389",
+    "passage": ""
   }
 ]
