@@ -4764,5 +4764,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70824",
     "passage": ""
+  },
+  {
+    "id": 70825,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Cardiovascular fitness refers to:",
+    "options": {
+      "A": "The ability to move joints through a full range of motion",
+      "B": "The strength of muscles",
+      "C": "The ability to perform prolonged physical activity",
+      "D": "The ability to lift heavy weights"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cardiovascular fitness is the capacity of the heart and lungs to supply oxygen to the body during sustained physical activity, which enables prolonged exercise or physical activity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70825",
+    "passage": ""
   }
 ]
