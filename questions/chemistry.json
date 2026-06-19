@@ -8167,5 +8167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3293",
     "passage": ""
+  },
+  {
+    "id": 3294,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "When 50cm\\(^3\\) of a saturated solution of sugar of molar mass 342 g at 40\\(^o\\)C was evaporated to dryness, 34.2g of dry solid was obtained. The solubility of sugar at 40\\(^o\\)C is",
+    "options": {
+      "A": "2.0 mol dm -3",
+      "B": "3.5 mol dm -3",
+      "C": "7.0 mol dm -3",
+      "D": "10.0 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given:\nVolume of solvent, V = 50cm\\(^3\\)\nMolar mass, M = 342g\nMass of solute, m = 34.2g\nSolubility = ?\nSolubility = \\(\\frac{mass}{molar mass}\\times\\)\\(\\frac{1000}{Volume of solvent}\\)\n= \\(\\frac{34.2}{342}\\times\\)\\(\\frac{1000}{50}\\)\n= 2 moldm\\(^{-3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3294",
+    "passage": ""
   }
 ]
