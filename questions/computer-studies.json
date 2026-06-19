@@ -3722,5 +3722,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62182",
     "passage": ""
+  },
+  {
+    "id": 62245,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Charles Babbage was the first to?",
+    "options": {
+      "A": "invent slide rule",
+      "B": "invent analytical engine",
+      "C": "make census machine",
+      "D": "make use of the punched card"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62245",
+    "passage": ""
   }
 ]
