@@ -372,5 +372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/356",
     "passage": ""
+  },
+  {
+    "id": 357,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The greatest volume of shipping across the Atlantic Ocean is",
+    "options": {
+      "A": "between Africa and South America",
+      "B": "between Africa and North America",
+      "C": "between North America and South America",
+      "D": "between Europe and North America",
+      "E": "between Europe and Africa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/357",
+    "passage": ""
   }
 ]
