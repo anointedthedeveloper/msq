@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75315",
     "passage": ""
+  },
+  {
+    "id": 75317,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which Nigerian textile technique uses resist dyeing to create patterns?",
+    "options": {
+      "A": "Uli",
+      "B": "Aso-Oke",
+      "C": "Tie-dye",
+      "D": "Embroidery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tie-dye involves tying sections of fabric before dyeing to resist colour and form patterns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75317",
+    "passage": ""
   }
 ]
