@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60246",
     "passage": ""
+  },
+  {
+    "id": 60247,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Given that 26 \\(_10\\) = X \\(_2\\), X is _________",
+    "options": {
+      "A": "11011",
+      "B": "11010",
+      "C": "11110",
+      "D": "10111"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2     26 2     13     r    0 2      6      r    1 2      3      r    0 2      1      r    1 0      r    1 11010 x = 11010",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60247",
+    "passage": ""
   }
 ]
