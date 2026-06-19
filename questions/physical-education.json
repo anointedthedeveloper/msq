@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64169",
     "passage": ""
+  },
+  {
+    "id": 64171,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The game of football is solely controlled by",
+    "options": {
+      "A": "assistant referee",
+      "B": "coach",
+      "C": "commentator",
+      "D": "referee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The game of football is solely controlled by the referee.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64171",
+    "passage": ""
   }
 ]
