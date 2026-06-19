@@ -19041,5 +19041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71378",
     "passage": ""
+  },
+  {
+    "id": 71379,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does the '%' operator represent in programming languages?",
+    "options": {
+      "A": "Assignment",
+      "B": "Modulus",
+      "C": "Concatenation",
+      "D": "Exponentiation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The '%' operator calculates the modulus or remainder of a division operation in programming.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71379",
+    "passage": ""
   }
 ]
