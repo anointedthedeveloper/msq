@@ -4237,5 +4237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50305",
     "passage": ""
+  },
+  {
+    "id": 50306,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Human rights are basic natural rights which people enjoy primarily because they are",
+    "options": {
+      "A": "members of a political party",
+      "B": "international citizens",
+      "C": "members of a community",
+      "D": "human beings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Human rights are a right which is believed to belong to every person provided you are a human being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50306",
+    "passage": ""
   }
 ]
