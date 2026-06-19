@@ -10962,5 +10962,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7079",
     "passage": ""
+  },
+  {
+    "id": 7080,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A computer that can be used in weather forecast is?",
+    "options": {
+      "A": "a hybrid computer",
+      "B": "an analog computer",
+      "C": "a marineframe computer",
+      "D": "a digital computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The National Weather Service uses supercomputers around the clock to accurately produce forecasts, watches, warnings, and a whole host of data for the public. It falls under digital computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7080",
+    "passage": ""
   }
 ]
