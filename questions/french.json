@@ -4771,5 +4771,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75812",
     "passage": ""
+  },
+  {
+    "id": 75815,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "L'homme est_médecin.",
+    "options": {
+      "A": "une",
+      "B": "le",
+      "C": "en",
+      "D": "un"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Medecin\" is masculine, so the article \"un\" is correctly used.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75815",
+    "passage": ""
   }
 ]
