@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/12",
     "passage": ""
+  },
+  {
+    "id": 13,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A trader bought 100 oranges at 5 for N1.20, 20 oranges got spoilt and the remaining were sold at 4 for N1.50. Find the percentage gain or loss.",
+    "options": {
+      "A": "30% gain",
+      "B": "25% gain",
+      "C": "30% loss",
+      "D": "25% loss"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cost price (cp) = (100/5) x N1.20 =N24.00 Selling price (sp) = 100-20 = 80 (80/4) x N1.50 = N30.00 Gain = SP-CP = N30.00-N24.00 = N6.00 Gain% = (gain/CP) x 100 = 25%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/13",
+    "passage": ""
   }
 ]
