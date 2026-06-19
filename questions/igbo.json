@@ -2412,5 +2412,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73796",
     "passage": ""
+  },
+  {
+    "id": 73797,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kedu aha ala anyị? Aha ala",
+    "options": {
+      "A": "ha bụ Maiduguri",
+      "B": "m bụ Enugu",
+      "C": "gị bụ Ibadan",
+      "D": "anyị bụ Naijiria"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question \"Kedu aha ala anyị?\" means \"What is our country?\" or \"Where are we from?\". The correct response is \"Aha ala anyị bụ Naijiria\", which means \"Our country is Nigeria\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73797",
+    "passage": ""
   }
 ]
