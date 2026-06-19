@@ -8662,5 +8662,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62678",
     "passage": ""
+  },
+  {
+    "id": 62679,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A Collection of software that allows the computer to operate is called?",
+    "options": {
+      "A": "general-purpose software.",
+      "B": "utility software.",
+      "C": "operating system.",
+      "D": "specific software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62679",
+    "passage": ""
   }
 ]
