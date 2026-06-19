@@ -670,5 +670,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/552",
     "passage": ""
+  },
+  {
+    "id": 554,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?",
+    "options": {
+      "A": "480,000",
+      "B": "249,696",
+      "C": "249,600",
+      "D": "244,800"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1st year, Population = 240,000 x (\\(\\frac{2}{100}\\)) = 4800. Being the 2nd year population = 240,000 + 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (\\(\\frac{2}{100}\\)) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/554",
+    "passage": ""
+  },
+  {
+    "id": 555,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively.",
+    "options": {
+      "A": "1, -2",
+      "B": "-2, 1",
+      "C": "\\(\\frac{-2}{5}\\), 1",
+      "D": "2, 3/5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.\nUse  \\(\\sqrt{3}-2\\sqrt{2}\\) as the conjugate for Rationalization\n\\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) X  \\(\\frac{(\\sqrt{3}-2\\sqrt{2})}{(\\sqrt{3}-2\\sqrt{2})}\\)\n\\(\\frac{6 - 4\\sqrt{6} - \\sqrt{6} + 4}{3 - 2\\sqrt{6} + 2\\sqrt{6} - 8}\\)\n=\\(\\frac{10 - 5\\sqrt{6}}{-5}\\)\n= -2 + \\(\\sqrt{6}\\) = \\(m +n\\sqrt{6}\\)\n∴ m = -2 and n = 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/555",
+    "passage": ""
+  },
+  {
+    "id": 556,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In a youth club with 94 members, 60 like modern music, and 50 like traditional music. The number of members who like both traditional and modern music is three times those who do not like any type of music. How many members like only one type of music?",
+    "options": {
+      "A": "8",
+      "B": "24",
+      "C": "62",
+      "D": "86"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x = no. of ppl that like none. no. of ppl that like both Traditional and Modern music, which is equal to 3x Modern Music = 60 - 3x Traditional Music = 50 - 3x 60-3x + 50 - 3x + 3x + x  = 94 110 - 3x + x = 94 -2x = 94 - 110 =>-2x = -16,\nthis x = 8. Members that like only one music: = 60 - 3x + 50 - 3x = 60 - 3[8] + 50 - 3[8] = 60 - 24 + 50 - 24 = 36 + 26 = 62\nMembers that like only one type of music = 62\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/556",
+    "passage": ""
   }
 ]
