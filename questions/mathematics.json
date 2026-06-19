@@ -3799,5 +3799,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7846",
     "passage": ""
+  },
+  {
+    "id": 7847,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The result of tossing a fair die 120 times is summarized below. Find the value of x",
+    "options": {
+      "A": "19",
+      "B": "20",
+      "C": "21",
+      "D": "22"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "12 + 20 + x + 21 + x-1 +28 = 120 2x + 80 = 120 2x = 120 - 80 2x = 40 x = 20\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7847",
+    "passage": ""
   }
 ]
