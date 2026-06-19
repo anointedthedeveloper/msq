@@ -3313,5 +3313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50246",
     "passage": ""
+  },
+  {
+    "id": 50247,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "World AIDS day is observed on?",
+    "options": {
+      "A": "20th May",
+      "B": "30th July",
+      "C": "27th August",
+      "D": "1st December"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "World AIDS Day takes place on the 1st December each year. It's an opportunity for people worldwide to unite in the fight against HIV, to show support for people people living with the virus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50247",
+    "passage": ""
   }
 ]
