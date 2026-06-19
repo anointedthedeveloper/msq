@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/206",
     "passage": ""
+  },
+  {
+    "id": 207,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which statement is NOT true of the middle belt in Nigeria?",
+    "options": {
+      "A": "the soil is not productive",
+      "B": "the population is sparse",
+      "C": "there are insect pests and disease carriers",
+      "D": "mineral resources can be found there",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/207",
+    "passage": ""
   }
 ]
