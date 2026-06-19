@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76311",
     "passage": ""
+  },
+  {
+    "id": 76312,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Missa Brevis was composed by",
+    "options": {
+      "A": "Monteverdi",
+      "B": "G.F Handel",
+      "C": "J.S. Bach",
+      "D": "Palestrina"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Missa Brevis is a type of short mass composition that was popular during the Renaissance and early Baroque periods. The term 'Missa Brevis' means 'short mass' in Latin. One of the composers known for this style is Palestrina.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76312",
+    "passage": ""
   }
 ]
