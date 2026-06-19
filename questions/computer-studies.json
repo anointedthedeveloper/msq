@@ -16095,5 +16095,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67807",
     "passage": ""
+  },
+  {
+    "id": 67826,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is NOT a high-level programming language?",
+    "options": {
+      "A": "Assembly language",
+      "B": "C++",
+      "C": "Python",
+      "D": "Java"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Assembly language is a low-level programming language that is specific to a particular computer architecture. It is more difficult to learn and use than high-level programming languages, but it offers more control over the hardware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67826",
+    "passage": ""
   }
 ]
