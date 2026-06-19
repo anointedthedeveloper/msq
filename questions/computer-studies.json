@@ -14140,5 +14140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64789",
     "passage": ""
+  },
+  {
+    "id": 64791,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "What type of computer would be most suitable for a student who lives in a remote village without constant electricity",
+    "options": {
+      "A": "Desktop computer",
+      "B": "Laptop computer",
+      "C": "Mainframe computer",
+      "D": "Minicomputer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64791",
+    "passage": ""
   }
 ]
