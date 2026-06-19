@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75279",
     "passage": ""
+  },
+  {
+    "id": 75280,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما اسم الشاعر المعروف بـ\"أبو الطيب\"؟",
+    "options": {
+      "A": "المتنبي",
+      "B": "عنترة",
+      "C": "الفرزدق",
+      "D": "بشار بن برد"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": ".( Abu al-Tayyib ) أبو الطيب al-Mutanabbi) is indeed a renowned Arab poet, and his real name/title is ) \"المتنبي\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75280",
+    "passage": ""
   }
 ]
