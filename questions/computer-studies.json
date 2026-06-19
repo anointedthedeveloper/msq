@@ -5334,5 +5334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62412",
     "passage": ""
+  },
+  {
+    "id": 62413,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following networks can be extended to cover continents?",
+    "options": {
+      "A": "Metropolitan Area Network .",
+      "B": "Personal Area Network",
+      "C": "Wide Area Network",
+      "D": "Wireless Area Network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "WAN stands for Wide Area Network is a type of computer network that can cover a large geographical area such as a continent, or a country.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62413",
+    "passage": ""
   }
 ]
