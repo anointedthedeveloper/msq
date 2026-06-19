@@ -3715,5 +3715,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70712",
     "passage": ""
+  },
+  {
+    "id": 70713,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is an example of a recreational activity that promotes mindfulness and relaxation?",
+    "options": {
+      "A": "Archery",
+      "B": "Ziplining",
+      "C": "Yoga",
+      "D": "Skiing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Yoga is an example of a recreational activity that promotes mindfulness, relaxation, and physical well-being through various poses and breathing exercises.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70713",
+    "passage": ""
   }
 ]
