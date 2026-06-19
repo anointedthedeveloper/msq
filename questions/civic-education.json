@@ -2537,5 +2537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50200",
     "passage": ""
+  },
+  {
+    "id": 50201,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "People living with HIV/AIDS (PLWHA) can be supported by",
+    "options": {
+      "A": "billing them for antiretroviral therapy",
+      "B": "providing drugs for them at subsidized rates",
+      "C": "providing special attires for them",
+      "D": "providing accommodation for them in designated locations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It is important for people living with HIV to take their HIV medication every day, exactly as prescribed. Ask your loved one what you can do to support them in establishing a medication routine and sticking to it. This medications should be given free of charge or sold in subsidized rates so as to make it affordable",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50201",
+    "passage": ""
   }
 ]
