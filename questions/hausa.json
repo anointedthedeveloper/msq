@@ -7466,5 +7466,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75991",
     "passage": ""
+  },
+  {
+    "id": 75992,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wa ya rubuta Ruwan Bagaja?",
+    "options": {
+      "A": "Ado Ahmad Gidan Dabino",
+      "B": "Alhaji Abubakar Imam",
+      "C": "Abubakar Gimba",
+      "D": "Sa'adu Zungur"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This is a well-known classic Hausa novel written by Abubakar Imam.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75992",
+    "passage": ""
   }
 ]
