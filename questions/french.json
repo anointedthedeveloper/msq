@@ -1645,5 +1645,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48190",
     "passage": ""
+  },
+  {
+    "id": 48191,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Je souhaite que vous ...beaucoup d'argent",
+    "options": {
+      "A": "avez",
+      "B": "soies",
+      "C": "soyez",
+      "D": "ayez"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48191",
+    "passage": ""
   }
 ]
