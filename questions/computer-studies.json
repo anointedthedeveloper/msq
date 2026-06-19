@@ -1719,5 +1719,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61413",
     "passage": ""
+  },
+  {
+    "id": 61414,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The part of the graphic interface in Figure 8 labelled V is called",
+    "options": {
+      "A": "pan",
+      "B": "zoom in",
+      "C": "zoom out",
+      "D": "fit to window"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/g1F9HPSkTvzBmQ1hEz5NTkMIbRc4vbITkysfAJK5.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781894072/myschool/computer-studies/g1F9HPSkTvzBmQ1hEz5NTkMIbRc4vbITkysfAJK5.jpg",
+    "correct_answer": "D",
+    "explanation": "The part of the graphic interface labelled V is fit to window.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61414",
+    "passage": ""
   }
 ]
