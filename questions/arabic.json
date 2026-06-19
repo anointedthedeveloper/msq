@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75178",
     "passage": ""
+  },
+  {
+    "id": 75179,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "من هو أول خليفة في الإسلام؟",
+    "options": {
+      "A": "أبو بكر الصديق",
+      "B": "علي بن أبي طالب",
+      "C": "عتمان بن عفان",
+      "D": "عمر بن الخطاب"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Abū Bakr al-Siddiq was the first caliph after the Prophet Muhammad.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75179",
+    "passage": ""
   }
 ]
