@@ -8494,5 +8494,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62670",
     "passage": ""
+  },
+  {
+    "id": 62671,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "An input device that converts an image into text is known as?",
+    "options": {
+      "A": "Optical Character Reader.",
+      "B": "Optical Code Reader.",
+      "C": "Optical Display Reader.",
+      "D": "Optical Mark Reader."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62671",
+    "passage": ""
   }
 ]
