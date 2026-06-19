@@ -3757,5 +3757,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70714",
     "passage": ""
+  },
+  {
+    "id": 70715,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which joint is classified as a saddle joint?",
+    "options": {
+      "A": "Thumb joint",
+      "B": "Shoulder joint",
+      "C": "Elbow joint",
+      "D": "Hip joint"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The joint of the thumb, known as the carpometacarpal joint, is a saddle joint, allowing for a variety of movements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70715",
+    "passage": ""
   }
 ]
