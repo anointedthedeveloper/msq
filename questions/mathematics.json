@@ -13822,5 +13822,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22875",
     "passage": ""
+  },
+  {
+    "id": 22876,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "If 2x + y = 7 and 3x - 2y = 3, by how much is 7x greater than 10?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "7",
+      "D": "10",
+      "E": "17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22876",
+    "passage": ""
   }
 ]
