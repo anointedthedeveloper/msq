@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1501",
     "passage": ""
+  },
+  {
+    "id": 1502,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A conductor of length 2m carries a current of 0.8A while kept in a magnetic field of magnetic flux density 0.5T. The maximum force acting on it is",
+    "options": {
+      "A": "0.2N",
+      "B": "0.8N",
+      "C": "3.2N",
+      "D": "8.0N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1502",
+    "passage": ""
   }
 ]
