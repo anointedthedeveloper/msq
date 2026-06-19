@@ -13932,5 +13932,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22880",
     "passage": ""
+  },
+  {
+    "id": 22911,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above, PXR and PYO are two semi-circles with diameters 14cm and 7cm respectively. Find the area of the enclosed region, PXROY correct to the nearest whole number",
+    "options": {
+      "A": "96cm 2",
+      "B": "116cm 2",
+      "C": "154cm 2",
+      "D": "192cm 2",
+      "E": "385cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/b0OalbsXDkgad5s4XPW3zSQvfwxByyDu8CN0diny.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908949/myschool/mathematics/b0OalbsXDkgad5s4XPW3zSQvfwxByyDu8CN0diny.png",
+    "correct_answer": "A",
+    "explanation": "Area of the bigger semi circle PRO = \\(\\frac{πr^2}{2}\\)\n= \\(\\frac{22}{7}\\) x \\(\\frac{49}{2}\\)  = 77cm\\(^2\\)\n2nd Area of the smaller circle DYO = \\(\\frac{22}{7}\\) x \\(\\frac{3.5^2}{2}\\)  = 19.25cm\\(^2\\) Total Area = 77 + 19.25 = 96.25 ≈ 96.00cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22911",
+    "passage": ""
   }
 ]
