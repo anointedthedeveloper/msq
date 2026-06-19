@@ -4456,5 +4456,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75422",
     "passage": ""
+  },
+  {
+    "id": 75423,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marche Samedi matin, Fatou accompagne sa mère au marché. Elles partent tôt pour éviter la foule. Le marché est coloré et bruyant. Il y a des vendeurs de fruits, de légumes, de poissons et de vêtements. Fatou aide sa mère à porter les paniers. Apres les achats, elles rentrent a la maison en taxi. Fatou aime ces sorties avec sa mere. Comment retournent-elles à la maison ?",
+    "options": {
+      "A": "En moto",
+      "B": "À pied",
+      "C": "En voiture privée",
+      "D": "En taxi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Le passage indique qu'elles \"rentrent à la maison en taxi.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75423",
+    "passage": ""
   }
 ]
