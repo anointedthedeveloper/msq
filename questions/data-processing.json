@@ -7978,5 +7978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69794",
     "passage": ""
+  },
+  {
+    "id": 69795,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Macromedia Dreamweaver application is used for",
+    "options": {
+      "A": "surfing the internet",
+      "B": "graphic design",
+      "C": "intranet communication",
+      "D": "web design"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Macromedia Dreamweaver (now part of Adobe Creative Cloud) is an application primarily used for web design. It's a professional web development tool that allows designers and developers to create, edit, and manage websites and web applications. Dreamweaver provides a visual interface for designing web pages and also offers coding capabilities for those who want to work with HTML, CSS, JavaScript, and other web technologies. The application is not used for graphic design, intranet communication, or general internet browsing, as its main focus is on web development and design.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69795",
+    "passage": ""
   }
 ]
