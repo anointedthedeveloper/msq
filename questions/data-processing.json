@@ -691,5 +691,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57370",
     "passage": ""
+  },
+  {
+    "id": 57373,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of these measures would not secure data in database?",
+    "options": {
+      "A": "Encryption",
+      "B": "Data integration",
+      "C": "Personal Identification Number",
+      "D": "Username and passwords"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57373",
+    "passage": ""
+  },
+  {
+    "id": 57426,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The diagram illustrates the relationship between two tables in a database.\nThe student ID in Tables II is referred to as",
+    "options": {
+      "A": "primary key",
+      "B": "foriegn key",
+      "C": "normal key",
+      "D": "composite key"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/XsUzrSwC4h2SywbKF2tznr6gm32c0MJJ6gLtv6ui.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900418/myschool/data-processing/XsUzrSwC4h2SywbKF2tznr6gm32c0MJJ6gLtv6ui.jpg",
+    "correct_answer": "B",
+    "explanation": "B. foreign key\nThis is because it links to the primary key (student ID) in Table I, establishing a relationship between the two tables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57426",
+    "passage": ""
   }
 ]
