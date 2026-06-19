@@ -6663,5 +6663,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2989",
     "passage": ""
+  },
+  {
+    "id": 2990,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : You can go on; I …. what you are saying.",
+    "options": {
+      "A": "Am understanding",
+      "B": "May be understanding",
+      "C": "Was understanding",
+      "D": "Will be understanding",
+      "E": "Understand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The verb “understand” is a stative verb . Stative verbs describe states (thoughts, feelings, possession, senses) rather than actions. They are not normally used in the continuous (-ing) form . Because the speaker is expressing a present mental state, we use the simple present tense :",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2990",
+    "passage": ""
   }
 ]
