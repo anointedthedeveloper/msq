@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50083",
     "passage": ""
+  },
+  {
+    "id": 50084,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The status of being a legal member of a country is referred to as",
+    "options": {
+      "A": "alien",
+      "B": "assylum",
+      "C": "citizenship",
+      "D": "migrant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Citizenship is the status of a person recognized under the custom or law as being a legal member of a sovereign state or belonging to a nation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50084",
+    "passage": ""
   }
 ]
