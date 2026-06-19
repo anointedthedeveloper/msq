@@ -5289,5 +5289,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58996",
     "passage": ""
+  },
+  {
+    "id": 58997,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A novice is discouraged from opening the CRT monitor for maintenance because",
+    "options": {
+      "A": "it cannot be appropriately reassembled after opening",
+      "B": "it may harbour pests carrying infectious diseases",
+      "C": "it may contain high static",
+      "D": "the tube is fragile"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "CRT stands for Cathode Ray Tube. CRT is a technology used in traditional computer monitors and televisions. CRTs are glass vessels that have the air pumped out of them. They have very thick glass in the screen area and thinner glass in the narrow neck area. This makes a CRT fairly fragile when it is not encased in a computer. The neck area is particularly easy to break or crack.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58997",
+    "passage": ""
   }
 ]
