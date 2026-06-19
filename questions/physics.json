@@ -14151,5 +14151,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23922",
     "passage": ""
+  },
+  {
+    "id": 23923,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In a wave the maximum displacement of particles from their equilibrium positions is called.",
+    "options": {
+      "A": "frequency",
+      "B": "amplitude",
+      "C": "period",
+      "D": "wavelength",
+      "E": "wave velocity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23923",
+    "passage": ""
   }
 ]
