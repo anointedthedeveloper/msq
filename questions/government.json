@@ -1532,5 +1532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/987",
     "passage": ""
+  },
+  {
+    "id": 988,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The first Nigerian constitution to provide for the fundamental objectives and directive principles of state policy was the",
+    "options": {
+      "A": "1979 Constitution",
+      "B": "1989 Constitution",
+      "C": "1999 Constitution",
+      "D": "1960 Constitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/988",
+    "passage": ""
   }
 ]
