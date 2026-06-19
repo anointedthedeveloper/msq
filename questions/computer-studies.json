@@ -15864,5 +15864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67791",
     "passage": ""
+  },
+  {
+    "id": 67792,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Evaluate \\(1011_2 + 122_4\\), leaving your answer in base 10.",
+    "options": {
+      "A": "37",
+      "B": "51",
+      "C": "47",
+      "D": "73"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1011\\(_2\\) = 1 × 2\\(^3\\) + 0 × 2\\(^2\\) + 1 × 2\\(^1\\) + 1 × 2\\(^0\\) 1 × 8 + 0 × 4 + 1 × 2 + 1 × 1 = 8 + 0 + 2 + 1 = 11 122\\(_4\\) = 1 × 4\\(^2\\) + 2 × 4\\(^1\\) + 2 × 4\\(^0\\) 1 × 16 + 2 × 4 + 2 × 1 = 16 + 8 + 2 = 26 11 + 26 = 37",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67792",
+    "passage": ""
   }
 ]
