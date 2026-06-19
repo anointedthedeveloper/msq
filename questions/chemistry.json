@@ -3861,5 +3861,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1743",
     "passage": ""
+  },
+  {
+    "id": 1744,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following gases contains the least number of atoms at s.t.p?",
+    "options": {
+      "A": "1 mole of butane",
+      "B": "3 mole of ozone",
+      "C": "4 mole of chlorine",
+      "D": "7 mole of argon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cl is diatomic; 4\\(Cl_2\\) = 8 atoms in total.\nOxygen is triatomic in Ozone; 3\\(O_3\\) = 9 atoms in total\nButane is \\(C_4H_{10}\\) = 14 atoms in total.\nArgon is monoatomic; = 7atoms.\nhence Option D is correct.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1744",
+    "passage": ""
   }
 ]
