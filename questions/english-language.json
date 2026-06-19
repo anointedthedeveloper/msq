@@ -4177,5 +4177,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2047",
     "passage": ""
+  },
+  {
+    "id": 2050,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choosing the word or phrase from A to E which has the same meaning as the underlined word or words in each sentence :\nWhen a man is immune to an illness, he is",
+    "options": {
+      "A": "opposed to it",
+      "B": "attached to it",
+      "C": "hated by it",
+      "D": "protected against it",
+      "E": "addicted to it"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Being immune means to have a high degree of resistance to a disease or something.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2050",
+    "passage": ""
   }
 ]
