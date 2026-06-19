@@ -1291,5 +1291,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57717",
     "passage": ""
+  },
+  {
+    "id": 57718,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A Microsoft Office application suites include all the following except",
+    "options": {
+      "A": "Word",
+      "B": "Access",
+      "C": "CorelDraw",
+      "D": "PowerPoint"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Microsoft Office is a set of applications primarily known as Office Suite.  The three main Microsoft Office applications, Word, Excel, and PowerPoint,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57718",
+    "passage": ""
   }
 ]
