@@ -14064,5 +14064,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22917",
     "passage": ""
+  },
+  {
+    "id": 22918,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Two towns, P and Q, are on (4\no\nN 40\no\nW) and (4\no\nN\n20\no\nE) respectively. What is the distance between\nthem, along their line of latitude? (Give your\nanswer in teems of π and R, the radius of the earth).",
+    "options": {
+      "A": "2πR cos4 o",
+      "B": "πR sin40 o",
+      "C": "πR / 2 cos4 o",
+      "D": "πR / 3 cos4 o",
+      "E": "πR / 6 cos4 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "o\no\no\nθ\n360\n60\n360\no\n1\n3\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22918",
+    "passage": ""
   }
 ]
