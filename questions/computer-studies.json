@@ -4709,5 +4709,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62291",
     "passage": ""
+  },
+  {
+    "id": 62292,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Use the MS-Excel below to answer this question.\nThe number of cells that contain data in row 1 is?",
+    "options": {
+      "A": "1.",
+      "B": "3.",
+      "C": "4.",
+      "D": "5."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The number of cells that contain data in row is A B C D which is 4.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62292",
+    "passage": ""
   }
 ]
