@@ -17145,5 +17145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69823",
     "passage": ""
+  },
+  {
+    "id": 69824,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The central processing unit consists of",
+    "options": {
+      "A": "control unit, primary storage and secondary storage.",
+      "B": "input, output and processing.",
+      "C": "control unit, arithmetic logic unit and primary storage.",
+      "D": "control unit, processing and primary storage."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The central processing unit (CPU) consists of: control unit, arithmetic logic unit, and primary storage. Control Unit: The control unit is responsible for managing the execution of instructions and coordinating the activities of the other components in the CPU. It fetches instructions from memory, decodes them, and directs the flow of data and control signals to ensure that instructions are executed in the correct sequence. Arithmetic Logic Unit (ALU): The ALU performs arithmetic operations (addition, subtraction, multiplication, division) and logical operations (AND, OR, NOT) on data. It carries out the actual computation and manipulations of data as directed by the instructions. Primary Storage: Primary storage refers to the main memory of the computer, typically made up of random-access memory (RAM). It is used to temporarily store data and instructions that the CPU is currently working on. Data and instructions are fetched from secondary storage (like hard drives or solid-state drives) into primary storage before being processed by the CPU. The CPU is often considered the \"brain\" of the computer, as it performs the actual processing of data and instructions, making decisions, and controlling the overall operation of the computer system",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69824",
+    "passage": ""
   }
 ]
