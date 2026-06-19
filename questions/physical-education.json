@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64190",
     "passage": ""
+  },
+  {
+    "id": 64192,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "NICEGA is a body responsible for the organization of sports and games among Nigerian",
+    "options": {
+      "A": "armed forces",
+      "B": "colleges of education",
+      "C": "polytechnics",
+      "D": "secondary schools"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Nigeria College of Education Games Association, popularly known as NICEGA Games is a sporting competition among all colleges of education in Nigeria",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64192",
+    "passage": ""
   }
 ]
