@@ -13828,5 +13828,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12794",
     "passage": ""
+  },
+  {
+    "id": 12810,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "If 1 litre of 2.2M sulphuric acid is poured into a bucket containing 10 litre of water,and resulting solution mixed thoroughly, the resulting sulpuric acid concentration will be?",
+    "options": {
+      "A": "2.2 M",
+      "B": "1.1 M",
+      "C": "O.22 M",
+      "D": "0. 11 M",
+      "E": "0.20 M"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Given:\nC\\(_1\\) = 2.2 M , V\\(_1\\) = 1 Litre , C\\(_2\\) = ?  V\\(_2\\) = 1 + 10 Litres ( because the volume of water has increased) = 11 Litres\nUsing the relationship C\\(_1\\)V\\(_1\\) = C\\(_2\\)V\\(_2\\)\n2.2 X 1 = C\\(_2\\) X 11\nC\\(_2\\) = \\(\\frac{2.2}{11}\\)\n= 0.20 M - Option E",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12810",
+    "passage": ""
   }
 ]
