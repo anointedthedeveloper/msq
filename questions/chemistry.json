@@ -13186,5 +13186,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4785",
     "passage": ""
+  },
+  {
+    "id": 4786,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Given that M is the mass of a substance deposited during electrolysis and Q is the quantity of electricity consumed, then Faraday's first law can be written as\n[Electrochemical equivalent]",
+    "options": {
+      "A": "M = E/Q",
+      "B": "M = EQ",
+      "C": "M = Q/E",
+      "D": "M = E/2Q"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4786",
+    "passage": ""
   }
 ]
