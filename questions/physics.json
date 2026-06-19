@@ -3421,5 +3421,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11835",
     "passage": ""
+  },
+  {
+    "id": 11838,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The diagram above shows two capacitors P and Q of capacitance 2μF and 4μF respectively connected to a d.c source. The ratio of energy stored in P to Q is",
+    "options": {
+      "A": "4:1",
+      "B": "2:1",
+      "C": "1:4",
+      "D": "1:2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/10871595968_phy200123.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888814/myschool/physics/10871595968_phy200123.jpg",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11838",
+    "passage": ""
   }
 ]
