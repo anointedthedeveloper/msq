@@ -3547,5 +3547,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11998",
     "passage": ""
+  },
+  {
+    "id": 12002,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The diagram above shows the force (F) acting on an object through a distance (x). The work done on this object is expressed as",
+    "options": {
+      "A": "Fx J",
+      "B": "Fx / 2 J",
+      "C": "Fx 2 J",
+      "D": "F / x J"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24462421344_phy200212.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888855/myschool/physics/24462421344_phy200212.jpg",
+    "correct_answer": "B",
+    "explanation": "1\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12002",
+    "passage": ""
   }
 ]
