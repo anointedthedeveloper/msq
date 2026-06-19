@@ -834,5 +834,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/350",
     "passage": ""
+  },
+  {
+    "id": 351,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In a breeding program a cross was made between two true breeding cow-pea types: one with round seeds and the other with wrinkled seed. If roundness is dominant why wrinkleness is recessive, in the first filial generation all the seeds produced will be",
+    "options": {
+      "A": "25% wrinkled, 75% round",
+      "B": "100% wrinkled",
+      "C": "50% wrinkled, 50% round",
+      "D": "75% wrinkled, 25% round",
+      "E": "100% round"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Owing to the dominance of roundness, the crossing of the two seeds regularly would see all the offsprings having mixed genes but will be round.\nLet RR = round seeds while RR = wrinkled seed\nIn the first filial generation, if we cross RR x rr\nWe'll have  Rr, Rr, Rr, Rr\nRemember that RR is dominant while rr is recessive\nTherefore, All the four offsprings will be Dominant Round i.e 100% Round",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/351",
+    "passage": ""
+  },
+  {
+    "id": 376,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "All living organism",
+    "options": {
+      "A": "Photosynthesize",
+      "B": "Respire",
+      "C": "Move",
+      "D": "Feed",
+      "E": "Transpire"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All living organisms, from bacteria to humans, carry out cellular respiration, which is the process of converting glucose into energy (ATP) using oxygen.\nThe other options are not universal characteristics of all living organisms:\nA. Photosynthesize: Only plants, algae, and some bacteria can photosynthesize, converting light energy into chemical energy.\nC. Move: Not all living organisms can move, such as plants, fungi, and some microorganisms.\nD. Feed: While many organisms feed on other organisms or organic matter, some, like plants and algae, produce their own food through photosynthesis.\nE. Transpire: Transpiration is the process of water evaporation through leaves, which is specific to plants and some algae.\nRespiration, however, is a fundamental process that occurs in all living cells, making it the correct answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/376",
+    "passage": ""
+  },
+  {
+    "id": 377,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Amoeba moves by means of",
+    "options": {
+      "A": "Cilia",
+      "B": "Flagella",
+      "C": "Pseudopodia",
+      "D": "Swimmerets",
+      "E": "Setae"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/377",
+    "passage": ""
   }
 ]
