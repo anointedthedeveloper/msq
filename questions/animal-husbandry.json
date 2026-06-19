@@ -164,5 +164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49503",
     "passage": ""
+  },
+  {
+    "id": 49507,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A broiler consumed 6.0kg of feed and gained 2.0kg weight in six weeks. Determie the feed: gain ratio",
+    "options": {
+      "A": "1:3",
+      "B": "1:4",
+      "C": "3:1",
+      "D": "4:1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\text{Feed:Gain\\ Ratio}=\\frac{\\text{Total\\ Feed\\ Consumed}}{\\text{Total\\ Weight\\ Gained}}\\) TgQPHd|[]\n\\(\\text{Feed:Gain\\ Ratio}=\\frac{6}{\\text{2}\\) = 3 : 1 TgQPHd|[]\nTgQPHd|[]\nTgQPHd|[]",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49507",
+    "passage": ""
   }
 ]
