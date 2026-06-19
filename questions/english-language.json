@@ -2747,5 +2747,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1346",
     "passage": ""
+  },
+  {
+    "id": 1347,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The principal will be going away on leave. In his absence, the vice president will .... the school.",
+    "options": {
+      "A": "take over",
+      "B": "carry on",
+      "C": "care for",
+      "D": "look after",
+      "E": "overlook"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is “take over.” This phrasal verb means to assume control or responsibility , especially temporarily. In the sentence, the vice president is stepping into the principal’s role during his absence, so “take over the school” fits perfectly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1347",
+    "passage": ""
   }
 ]
