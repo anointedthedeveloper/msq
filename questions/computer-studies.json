@@ -4852,5 +4852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62329",
     "passage": ""
+  },
+  {
+    "id": 62330,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following represents features of a computer?\nI. It is constructed from electronics components.\nII. It has self regeneration capability.\nIlI. It has facility for storage of data and programs.\nIV. It has provision for input and output data.",
+    "options": {
+      "A": "I, Il and ll only",
+      "B": "I, II and IV only",
+      "C": "I, IIl and IV only",
+      "D": "II, Ill and IV only."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "I. It is constructed from electronic components. IlI. It has a facility for the storage of data and programs. IV. It has provisions for input and output data; represent the features of a computer except II. It has self-regeneration capability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62330",
+    "passage": ""
   }
 ]
