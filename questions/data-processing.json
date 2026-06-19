@@ -9629,5 +9629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77054",
     "passage": ""
+  },
+  {
+    "id": 77055,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Software that defines a database, stores the data, supports a query language, produces reports, and creates data entry screens is a",
+    "options": {
+      "A": "data dictionary",
+      "B": "decision support system",
+      "C": "relational database",
+      "D": "database management system (DBMS)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The role of a DBMS in a larger system is to allow other software, or users, to store and retrieve data in a structured way. A \"Database management system is a software that defines a database, stores the data, supports a query language, produces reports, and creates data entry screens.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77055",
+    "passage": ""
   }
 ]
