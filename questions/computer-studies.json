@@ -1320,5 +1320,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61392",
     "passage": ""
+  },
+  {
+    "id": 61393,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The logical equation for the logic circuit in Figure 3 is",
+    "options": {
+      "A": "\\(\\overline{A+B}\\) \\(\\overline{C}\\)",
+      "B": "Z=A.B+C",
+      "C": "Z=A+B.C",
+      "D": "Z=\\(\\overline{A.B}\\) + \\(\\overline{C}\\)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/u0nfG9FadH1VfMcLzEeqANh0OtgkUg7394bZurtj.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900860/myschool/computer-studies/u0nfG9FadH1VfMcLzEeqANh0OtgkUg7394bZurtj.jpg",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61393",
+    "passage": ""
   }
 ]
