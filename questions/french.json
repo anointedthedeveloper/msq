@@ -4330,5 +4330,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75415",
     "passage": ""
+  },
+  {
+    "id": 75416,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Ma maison se trouve_ du port.",
+    "options": {
+      "A": "sous",
+      "B": "hors",
+      "C": "à moins",
+      "D": "à côté"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The French phrase \"a cote\" is correctly translated as \"beside\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75416",
+    "passage": ""
   }
 ]
