@@ -4533,5 +4533,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70811",
     "passage": ""
+  },
+  {
+    "id": 70812,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the classification of diseases like tuberculosis and leprosy?",
+    "options": {
+      "A": "Parasitic diseases",
+      "B": "Fungal diseases",
+      "C": "Bacterial diseases",
+      "D": "Viral diseases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tuberculosis and leprosy are bacterial diseases caused by Mycobacterium tuberculosis and Mycobacterium leprae, respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70812",
+    "passage": ""
   }
 ]
