@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/35",
     "passage": ""
+  },
+  {
+    "id": 36,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who among the following was sold to the Ishaemlites for twenty shekels because of his dreams?",
+    "options": {
+      "A": "Moses",
+      "B": "Joseph",
+      "C": "Jacob",
+      "D": "Ishmael",
+      "E": "Minahem of Israel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Joseph, the son of Jacob (Israel), was sold to the Ishmaelites by his jealous brothers because of his dreams. This can be found in Genesis 37. Joseph's dreams, which symbolized his future authority, provoked envy among his brothers, leading to their decision to sell him into slavery.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/36",
+    "passage": ""
   }
 ]
