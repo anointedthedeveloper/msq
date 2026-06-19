@@ -21074,5 +21074,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76906",
     "passage": ""
+  },
+  {
+    "id": 76907,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Given that 2610 = (X)2, X is",
+    "options": {
+      "A": "11110",
+      "B": "10111",
+      "C": "11011",
+      "D": "11010"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The decimal number 26 can be converted to binary by dividing by 2 and recording the remainder until the quotient is 0. The binary equivalent of 26 is 11010. Therefore, the correct option is 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76907",
+    "passage": ""
   }
 ]
