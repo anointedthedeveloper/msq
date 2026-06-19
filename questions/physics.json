@@ -9952,5 +9952,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14314",
     "passage": ""
+  },
+  {
+    "id": 14316,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The wavelength of a wave traveling with a velocity of 420 ms\\(^{-1}\\) is 42 m. What is its period?",
+    "options": {
+      "A": "1.2 s",
+      "B": "1.0 s",
+      "C": "0.5 s",
+      "D": "0.1 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V = fλ f = (v)/λ = (420)/42 = 10 HZ Period, T = (1)/F = (1)/10 = 0.1 secs\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14316",
+    "passage": ""
   }
 ]
