@@ -5688,5 +5688,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76359",
     "passage": ""
+  },
+  {
+    "id": 76362,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a key phase in the long jump?",
+    "options": {
+      "A": "The 'approach run', where the athlete builds up speed and prepares for takeoff.",
+      "B": "The 'double arm swing', where the athlete swings both arms to increase height.",
+      "C": "The 'glide' phase, where the athlete glides across the pit.",
+      "D": "The 'crossover step', where the athlete crosses their legs to build momentum."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The long jump is composed of several key phases, with the approach run being one of the most important. During the approach run, the athlete sprints down the runway to generate horizontal velocity. The speed built up during this phase is crucial because it directly influences the distance of the jump - the faster and more controlled the approach, the greater the potential jump distance. The athlete must balance between running fast and maintaining control to ensure an accurate takeoff from the board without fouling.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76362",
+    "passage": ""
   }
 ]
