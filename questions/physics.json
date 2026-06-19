@@ -13777,5 +13777,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23894",
     "passage": ""
+  },
+  {
+    "id": 23895,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "An engine raises 1000kg of water through a height of 60m in 20s. What is the power of the engine? (Take g = 10ms\n-2>\n).",
+    "options": {
+      "A": "120,000 W",
+      "B": "30,000 W",
+      "C": "333 W",
+      "D": "300 W",
+      "E": "30 W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23895",
+    "passage": ""
   }
 ]
