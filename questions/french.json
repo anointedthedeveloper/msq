@@ -5338,5 +5338,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75892",
     "passage": ""
+  },
+  {
+    "id": 75893,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Mon père est plus âgé _ ma mère.",
+    "options": {
+      "A": "et",
+      "B": "de",
+      "C": "comme",
+      "D": "que"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The French structure \"plus ... que\" means \"more ... than\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75893",
+    "passage": ""
   }
 ]
