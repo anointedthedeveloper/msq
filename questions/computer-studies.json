@@ -4520,5 +4520,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62282",
     "passage": ""
+  },
+  {
+    "id": 62283,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A high level language can be converted to a machine language using?",
+    "options": {
+      "A": "a compiler.",
+      "B": "an editor.",
+      "C": "a utility program.",
+      "D": "an operating system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62283",
+    "passage": ""
   }
 ]
