@@ -2758,5 +2758,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58321",
     "passage": ""
+  },
+  {
+    "id": 58332,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) Define the term Software Maintenance.\n(b) List four types of Software Maintenance.\n(c) State our importance of software maintenance.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Define Software Maintenance; Software Maintenance is the modification of a software product after delivery to correct faults, improve performance or other attributes. OR It can be seen as the fixing of defect in software.\n(b) List four types of software maintenance;\n(i) Corrective maintenance\n(ii) Perfective maintenance\n(iii) Adaptive maintenance\n(iv) Preventive maintenance\n(c) State four importance of software maintenance;\n(i) To correct faults (e.g) scanning and virus removal, defragmentation)\n(ii) To improve performance (e.g software upgrading/updating)\n(iii) To adapt to a changing environment\n(iv) To prevent faults (e.g installation of Anti-virus)\n(v) To proffer solutions to identified software problems\n(vi) To predict software expenses (predictive cash flow)..",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58332",
+    "passage": ""
   }
 ]
