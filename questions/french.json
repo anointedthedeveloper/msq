@@ -2797,5 +2797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71091",
     "passage": ""
+  },
+  {
+    "id": 71092,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "L'/L.........est le plus long fleuve d'Afrique.",
+    "options": {
+      "A": "Niger",
+      "B": "Nil",
+      "C": "Congo",
+      "D": "Orange"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Nil. The sentence \"L'/Le...est le plus long fleuve d'Afrique\" means \"The...is the longest river in Africa\". The correct completion is \"Nil\", which refers to the Nile River, the longest river in Africa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71092",
+    "passage": ""
   }
 ]
