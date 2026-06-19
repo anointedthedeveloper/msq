@@ -9637,5 +9637,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9954",
     "passage": ""
+  },
+  {
+    "id": 9958,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If the area of ΔPQR above is 12\\(\\sqrt{3}\\) cm\\(^2\\), find the value of q?",
+    "options": {
+      "A": "6 cm",
+      "B": "7 cm",
+      "C": "8 cm",
+      "D": "5 cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25797722910_math201039.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868907/myschool/mathematics/25797722910_math201039.jpg",
+    "correct_answer": "A",
+    "explanation": "Area of a triangle = \\(\\frac{1}{2}\\) ab Sinθ 12\\(\\sqrt{3}\\) = \\(\\frac{1}{2}\\) x 8 x q sin 60 12\\(\\sqrt{3}\\) = 4 x q x \\(\\frac{\\sqrt{3}}{2}\\) 12\\(\\sqrt{3}\\) = 2q\\(\\sqrt{3}\\)\nq = \\(\\frac{12\\sqrt{3}}{2\\sqrt{3}}\\)\nq = 6cm.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9958",
+    "passage": ""
   }
 ]
