@@ -4596,5 +4596,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2146",
     "passage": ""
+  },
+  {
+    "id": 2147,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following chloride would exhibit the least ionic character?",
+    "options": {
+      "A": "MgCl 2",
+      "B": "CaCl 2",
+      "C": "LiCl",
+      "D": "AlCl 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Though all the salts in the options are chloride salts but the focus should be on the Metals that formed the chlorides. In terms of reactivity, Group I metals(Li) are the most reactive, followed by Group II(Mg and Ca) and then group III (Al). Therefore, AlCl\\(_3\\) would exhibit the least ionic character, as the ionic bond formed is not as strong as those found in other options.\nAlso, most importantly, according to Fajan's Rule, the greater the charge on the cation, the greater will be the covalent character in the bond. Since, Li Cl has low charge on cation(Li+), it has the most ionic character, while AlCl\\(_3\\) has a very high charge on Cation Al\\(^{3+}\\), it will exhibit the least ionic character.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2147",
+    "passage": ""
   }
 ]
