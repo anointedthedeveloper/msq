@@ -4029,5 +4029,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1751",
     "passage": ""
+  },
+  {
+    "id": 1752,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Cu\\(_2\\)S(s) + O\\(_2\\)(g) → 2CU(s) + SO\\(_2\\)(g) What is the change in the oxidation number of copper in the reaction above?",
+    "options": {
+      "A": "+1 to 0",
+      "B": "0 to +2",
+      "C": "+2 to +1",
+      "D": "0 to +1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sulphur atom in Cu\\(_2\\)S is - 2. Thus, Cu\\(_2\\)S = 0\n2Cu + S = 0\n2Cu + (-2) = 0\n2Cu  =  2\n\\(\\frac{2Cu}{2}\\) =  \\(\\frac{2}{2}\\)\nCu = +1\nOn the RHS, Cu atom has an oxidation state of 0. Therefore, there is a change in oxidation number of Copper from +1 to 0",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1752",
+    "passage": ""
   }
 ]
