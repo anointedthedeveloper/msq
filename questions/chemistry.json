@@ -12220,5 +12220,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4489",
     "passage": ""
+  },
+  {
+    "id": 4490,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The graph above demonstrate the effect of?",
+    "options": {
+      "A": "surface area on the rate of reaction",
+      "B": "catalyst on the rate of reaction",
+      "C": "pressure on the rate reaction",
+      "D": "concentration on the rate of reaction"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/22995048334_chem200929.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891022/myschool/chemistry/22995048334_chem200929.png",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4490",
+    "passage": ""
   }
 ]
