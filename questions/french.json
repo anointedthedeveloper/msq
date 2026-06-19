@@ -2336,5 +2336,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71069",
     "passage": ""
+  },
+  {
+    "id": 71070,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "La soeur de mon père ou de ma mér.............................est ma...",
+    "options": {
+      "A": "cousine",
+      "B": "tante",
+      "C": "femme",
+      "D": "grand-mère"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is tante. The sentence \"La soeur de mon père ou de ma mère...est ma\" means \"The sister of my father or mother is my...\". The correct completion is \"tante\", which means \"aunt\" in French. The other options do not fit the sentence's meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71070",
+    "passage": ""
   }
 ]
