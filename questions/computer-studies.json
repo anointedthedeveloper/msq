@@ -1131,5 +1131,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61383",
     "passage": ""
+  },
+  {
+    "id": 61384,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following statements is true about super computers? They",
+    "options": {
+      "A": "can fit on a single small chip",
+      "B": "are easily affordable",
+      "C": "can process billions of operations in a second",
+      "D": "are found across various homes and offices"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61384",
+    "passage": ""
   }
 ]
