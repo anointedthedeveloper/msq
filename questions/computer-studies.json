@@ -9881,5 +9881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62740",
     "passage": ""
+  },
+  {
+    "id": 62741,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following devices will not require the use of system software to operate?",
+    "options": {
+      "A": "Analogue camera",
+      "B": "MICR",
+      "C": "Mobile phones",
+      "D": "OCR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Devices like desktops and laptops, enterprise-class server computers, optical character recognition mobile phone requires system software to operate. An analogue camera is the only device from the options that will not require the use of system software to operate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62741",
+    "passage": ""
   }
 ]
