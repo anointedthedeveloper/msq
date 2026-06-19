@@ -8902,5 +8902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9328",
     "passage": ""
+  },
+  {
+    "id": 9329,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If the hypotenuse of a right-angled isosceles triangle is 2cm. What is the area of the triangle?",
+    "options": {
+      "A": "1 / √2 cm 2",
+      "B": "1 cm 2",
+      "C": "√2 cm 2",
+      "D": "2√2 cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "X\\(^2\\) + x\\(^2\\) = 2\\(^2\\) 2x\\(^2\\) = 4 x\\(^2\\) = 4/2 x\\(^2\\) = 2 x = +/-√2 Area of Δ = 1/2bh = 1/2 x √2 x √2 = 2/2 = 1 cm\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9329",
+    "passage": ""
   }
 ]
