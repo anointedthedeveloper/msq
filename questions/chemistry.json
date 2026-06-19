@@ -2895,5 +2895,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1577",
     "passage": ""
+  },
+  {
+    "id": 1578,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Cancerous growths are cured by exposure to",
+    "options": {
+      "A": "γ - rays",
+      "B": "β - rays",
+      "C": "α - rays",
+      "D": "infrared rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Gamma rays are used to treat cancer as part of a type of cancer treatment called radiation therapy. Gamma rays can pass through several inches of lead or a few feet of concrete. They can even pass through the human body, damaging tissue and DNA.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1578",
+    "passage": ""
   }
 ]
