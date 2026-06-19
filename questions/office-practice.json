@@ -1503,5 +1503,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66505",
     "passage": ""
+  },
+  {
+    "id": 66506,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Business document are used for passing information on business transactions among",
+    "options": {
+      "A": "buyers of goods and services only",
+      "B": "sellers of goods and services only",
+      "C": "buyer and sellers of goods and services only",
+      "D": "competitors of the organization only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A business uses documents and reports to share information, data and numbers to improve operations,management and sales, among other reasons. It is used for passing information between the buyer and sellers of goods and services .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66506",
+    "passage": ""
   }
 ]
