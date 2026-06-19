@@ -3129,5 +3129,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1545",
     "passage": ""
+  },
+  {
+    "id": 1546,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The tenure of the President of the UN Security Council is",
+    "options": {
+      "A": "two years",
+      "B": "one month",
+      "C": "six months",
+      "D": "one year"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1546",
+    "passage": ""
   }
 ]
