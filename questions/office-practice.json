@@ -1755,5 +1755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66534",
     "passage": ""
+  },
+  {
+    "id": 66537,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Use the following information to answer questions below:\nAdams has just been employed by a large organization as the first person whom callers and visitors would see when visiting the organization\nWhich of the following position does Adams occupy in the organization?",
+    "options": {
+      "A": "Manager",
+      "B": "Supervisor",
+      "C": "Receptionist",
+      "D": "Secretary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A receptionist (sometimes referred to as an administrative assistant) is someone who performs various adminstrative tasks, including answering telephones and giving information to the public and customers. Receptionist are often the first employee that the public or customer has contact with.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66537",
+    "passage": ""
   }
 ]
