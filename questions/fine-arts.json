@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48043",
     "passage": ""
+  },
+  {
+    "id": 48044,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Artworks that are produced to serve a utilitarian purpose are classified as?",
+    "options": {
+      "A": "theatre arts",
+      "B": "liberal arts",
+      "C": "applied arts",
+      "D": "fine arts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48044",
+    "passage": ""
   }
 ]
