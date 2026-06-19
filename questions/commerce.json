@@ -7097,5 +7097,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2221",
     "passage": ""
+  },
+  {
+    "id": 2223,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The type of computer commonly found in office is?",
+    "options": {
+      "A": "laptop",
+      "B": "desktop",
+      "C": "the hybrid computer",
+      "D": "the mainframe computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2223",
+    "passage": ""
   }
 ]
