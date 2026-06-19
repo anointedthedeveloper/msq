@@ -3736,5 +3736,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70713",
     "passage": ""
+  },
+  {
+    "id": 70714,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "When handing off the baton in a relay race, which type of take-over involves the outgoing runner seeing the incoming runner?",
+    "options": {
+      "A": "Blind take-over",
+      "B": "Overhand take-over",
+      "C": "Underhand take-over",
+      "D": "Visual take-over"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In a visual take-over, the outgoing runner sees the incoming runner during the baton exchange. This allows for direct eye contact and a smoother handoff.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70714",
+    "passage": ""
   }
 ]
