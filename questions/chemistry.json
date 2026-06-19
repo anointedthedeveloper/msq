@@ -12031,5 +12031,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4480",
     "passage": ""
+  },
+  {
+    "id": 4481,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The colour of methyl orange in alkaline medium is?",
+    "options": {
+      "A": "yellow",
+      "B": "pink",
+      "C": "orange",
+      "D": "red"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Methyl orange has the property to color alkaline and neutral water yellow .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4481",
+    "passage": ""
   }
 ]
