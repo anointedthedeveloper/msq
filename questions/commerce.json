@@ -15203,5 +15203,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7540"
+  },
+  {
+    "id": 7542,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The best mode of ensuring that items posted got to the named address through?",
+    "options": {
+      "A": "recorded delivery",
+      "B": "registered mail",
+      "C": "certificate of posting",
+      "D": "express mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7542"
   }
 ]
