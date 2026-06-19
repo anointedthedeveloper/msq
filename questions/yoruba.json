@@ -1831,5 +1831,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73051",
     "passage": ""
+  },
+  {
+    "id": 73052,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ewo ni gbólóhùn alákànpo?",
+    "options": {
+      "A": "O fi isé náà dá wa lágara",
+      "B": "O pe akowé láti gba İwé ojà",
+      "C": "Ó tó kí a béèrè",
+      "D": "Ô tán àbí ò kú?"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73052",
+    "passage": ""
+  },
+  {
+    "id": 73053,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ewo ni oro-orúko nínú \"Mo ti ra ilé ńlá merin\"?",
+    "options": {
+      "A": "ti",
+      "B": "ra",
+      "C": "ilé",
+      "D": "ńlá"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73053",
+    "passage": ""
+  },
+  {
+    "id": 73054,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ewo ló ní àpeerę àpólà-atókùn?",
+    "options": {
+      "A": "Olú wà ní oko",
+      "B": "O ń sorò èyìn",
+      "C": "Ilé ni mo bá owó",
+      "D": "Wón jókòó jéjé won"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73054",
+    "passage": ""
   }
 ]
