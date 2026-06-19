@@ -1247,5 +1247,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48171",
     "passage": ""
+  },
+  {
+    "id": 48172,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Lequel de ces pays a une frontiére avec le Togo?",
+    "options": {
+      "A": "Liberia",
+      "B": "Bénin",
+      "C": "Nigeria",
+      "D": "Niger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48172",
+    "passage": ""
   }
 ]
