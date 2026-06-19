@@ -7978,5 +7978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9281",
     "passage": ""
+  },
+  {
+    "id": 9282,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the angle subtended at the center of a circle by a chord which is equal in length to the radius of the circle.",
+    "options": {
+      "A": "30 o",
+      "B": "45 o",
+      "C": "60 o",
+      "D": "90 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If a length of a chord is equal to the length of a radius in the same circle, the triangle formed y the chord and the radii is an equilateral triangle ∴each angle = 60o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9282",
+    "passage": ""
   }
 ]
