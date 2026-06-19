@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/44",
     "passage": ""
+  },
+  {
+    "id": 48,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through",
+    "options": {
+      "A": "recall",
+      "B": "judicial review",
+      "C": "vote of no confidence",
+      "D": "impeachment."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Where the constitution is supreme, unconstitutional acts of the executive and the legislature can be checked by the courts through judicial review. Judicial Review is the judicial power to declare any actions of the executive and the legislature unconstitutional, null and void.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/48",
+    "passage": ""
   }
 ]
