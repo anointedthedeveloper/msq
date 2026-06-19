@@ -11041,5 +11041,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4411",
     "passage": ""
+  },
+  {
+    "id": 4412,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most appropriately completes the sentence : I was still sleeping when the national news ... this morning",
+    "options": {
+      "A": "were broadcast",
+      "B": "were broadcasted",
+      "C": "was broadcast",
+      "D": "was broadcasted",
+      "E": "were being broadcasted"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"News\" is an uncountable noun and takes a singular verb , even though it looks plural. So, we need a singular auxiliary verb (i.e., \"was\" not \"were\"), and the correct past participle of \"broadcast\" (which is broadcast , not \"broadcasted\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4412",
+    "passage": ""
   }
 ]
