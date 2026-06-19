@@ -2329,5 +2329,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9561",
     "passage": ""
+  },
+  {
+    "id": 9562,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A wheel and axle is used to raise a load of 500 N by the application of an effort of 250 N. If the radii of the wheel and the axle are 0.4 cm and 0.1 cm respectively, the efficiency of the machine is",
+    "options": {
+      "A": "20 %",
+      "B": "40 %",
+      "C": "50 %",
+      "D": "60 %"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9562",
+    "passage": ""
   }
 ]
