@@ -10960,5 +10960,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4309",
     "passage": ""
+  },
+  {
+    "id": 4311,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The acid used in electrolysis of water is dilute?",
+    "options": {
+      "A": "HNO 3",
+      "B": "CH 3 COOH",
+      "C": "H 2 SO 4",
+      "D": "HCl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The electrolyte is dilute sulfuric acid (= acidified water) which, during electrolysis is split into hydrogen and oxygen gases.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4311",
+    "passage": ""
   }
 ]
