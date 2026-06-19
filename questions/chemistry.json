@@ -14275,5 +14275,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12872",
     "passage": ""
+  },
+  {
+    "id": 12873,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "The major component of the slag from the production of iron is?",
+    "options": {
+      "A": "an alloy of calcium and iron",
+      "B": "coke",
+      "C": "impure iron",
+      "D": "calcium trioxosilicate (IV)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Blast furnace slag is a nonmetallic coproduct produced in the process. It consists primarily of silicates, aluminosilicates, and calcium-alumina-silicates",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12873",
+    "passage": ""
   }
 ]
