@@ -504,5 +504,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/362",
     "passage": ""
+  },
+  {
+    "id": 363,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A World Title Boxing contest took place in New York (75°W time zone) on a Tuesday between 21:30 and 22:30 Hours and was televised live. When did viewers in Lagos (15°E time zone) watch the contest live on television?",
+    "options": {
+      "A": "Wednesday between 03:30 and 04:30 Hours",
+      "B": "Monday between 03:30 and 04:30 Hours",
+      "C": "Tuesday between 15:30 and 16:30 Hours",
+      "D": "Tuesday between 21:30 and 22:30 Hours",
+      "E": "Tuesday between 02:30 and 03:30 Hours"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/363",
+    "passage": ""
   }
 ]
