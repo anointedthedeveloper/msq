@@ -3798,5 +3798,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1740",
     "passage": ""
+  },
+  {
+    "id": 1741,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The formula CH\\(_2\\)O for ethanoic acid is regarded as its",
+    "options": {
+      "A": "Molecular formula",
+      "B": "General formula",
+      "C": "Empirical formula",
+      "D": "Structural formula"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The empirical formula is the simplest whole number ratio of the number of atoms of each element in a substance. In the case of ethanoic acid, the ratio of atoms is 1:2:1, as shown by the empirical formula CH\\(_2\\)O.\nThe molecular formula for ethanoic acid is C\\(_2\\)H\\(_4\\)O\\(_2\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1741",
+    "passage": ""
   }
 ]
