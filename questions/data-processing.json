@@ -5079,5 +5079,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58975",
     "passage": ""
+  },
+  {
+    "id": 58979,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "By default numeric values in a worksheet are",
+    "options": {
+      "A": "centred",
+      "B": "left-aligned",
+      "C": "right-aligned",
+      "D": "unaligned"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58979",
+    "passage": ""
   }
 ]
