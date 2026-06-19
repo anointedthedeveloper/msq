@@ -7487,5 +7487,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75992",
     "passage": ""
+  },
+  {
+    "id": 75994,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace kalma ce ke da alaka da ilimi?",
+    "options": {
+      "A": "Abinci",
+      "B": "Barci",
+      "C": "Karatu",
+      "D": "Kuďi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Karatu (study/reading) is directly linked to ilimi (knowledge or education).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75994",
+    "passage": ""
   }
 ]
