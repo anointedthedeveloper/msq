@@ -1383,5 +1383,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49778",
     "passage": ""
+  },
+  {
+    "id": 49779,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The part of the policy that describes the event that could lead to loss in an insurance contract is",
+    "options": {
+      "A": "recital clause",
+      "B": "condition",
+      "C": "specification",
+      "D": "operative clause"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The operative clause of the policy is a promissory clause . It is a promise that the insurer undertakes to pay the benefits of the policy if the reason(s) why the policy was incepted, and issued by the insurer, happens while the policy is in force.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49779",
+    "passage": ""
   }
 ]
