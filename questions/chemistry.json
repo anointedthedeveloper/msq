@@ -261,5 +261,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43",
     "passage": ""
+  },
+  {
+    "id": 47,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The pH of four solutions W, X, Y, Z are 4, 6, 8, 10 respectively, therefore",
+    "options": {
+      "A": "none of these solutions is acidic",
+      "B": "the pH of Y is made more acidic by addition of distilled water",
+      "C": "Z is the most acidic solution",
+      "D": "W is the most acidic solution",
+      "E": "X is neutral"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/47",
+    "passage": ""
   }
 ]
