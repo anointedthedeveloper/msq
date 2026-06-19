@@ -86,5 +86,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/207",
     "passage": ""
+  },
+  {
+    "id": 208,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following zones is the least industrialized in Nigeria?",
+    "options": {
+      "A": "Lokoja-Ajaokuta",
+      "B": "Lagos-Ikeja",
+      "C": "Port harcourt-Aba",
+      "D": "Kaduna-Zaria",
+      "E": "Abeokuta-Ibadan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/208",
+    "passage": ""
   }
 ]
