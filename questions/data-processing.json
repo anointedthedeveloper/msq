@@ -3205,5 +3205,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58434",
     "passage": ""
+  },
+  {
+    "id": 58437,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The merge button in spreadsheet application is used to",
+    "options": {
+      "A": "combine adjacent cell",
+      "B": "convert selected cell into single cell",
+      "C": "merge two tables",
+      "D": "split a cell into two or more cells"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58437",
+    "passage": ""
   }
 ]
