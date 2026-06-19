@@ -1789,5 +1789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73049",
     "passage": ""
+  },
+  {
+    "id": 73050,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ewo ni orò tí a sèdá?",
+    "options": {
+      "A": "Ilé",
+      "B": "İşe",
+      "C": "Isé",
+      "D": "İwé"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73050",
+    "passage": ""
   }
 ]
