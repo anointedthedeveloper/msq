@@ -3924,5 +3924,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1746",
     "passage": ""
+  },
+  {
+    "id": 1747,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following equations show that a reaction is in equilibrium?",
+    "options": {
+      "A": "ΔG < O",
+      "B": "ΔG = ΔH – TΔS",
+      "C": "ΔG > O",
+      "D": "ΔG = O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "If delta G standard is zero, the system is at equilibrium at standard conditions. This time the rate of the forward and reverse reaction is the same , and the system is at equilibrium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1747",
+    "passage": ""
   }
 ]
