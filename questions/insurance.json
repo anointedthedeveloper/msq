@@ -2453,5 +2453,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49918",
     "passage": ""
+  },
+  {
+    "id": 49919,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A class of insurance that covers policy holders for losses caused by fruadulent employees is?",
+    "options": {
+      "A": "all risk policy",
+      "B": "key-man policy",
+      "C": "fidelity guarantee policy",
+      "D": "money insurance policy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A fidelity guarantee is a form of insurance protection that covers policyholders for losses that they incur as a result of fraudulent acts by specified individuals. It usually insures a business for losses caused by the dishonest acts of its employees.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49919",
+    "passage": ""
   }
 ]
