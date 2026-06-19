@@ -333,5 +333,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73422",
     "passage": ""
+  },
+  {
+    "id": 73423,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "'Baba na cin abinci yanzu.' Kalmar suna a wannan jimla ita ce",
+    "options": {
+      "A": "Baba",
+      "B": "cin",
+      "C": "abinci",
+      "D": "na"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "What is the noun in the sentence \"Baba na cin abinci yanzu\"? Answer: Baba (Baba is the noun, which means \"father\". Abinci is a noun, cin is verb, na is a possessive pronoun, and yanzu is an adverb)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73423",
+    "passage": ""
   }
 ]
