@@ -1933,5 +1933,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/639",
     "passage": ""
+  },
+  {
+    "id": 640,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentences: David can only become more mature through .... to life outside his home",
+    "options": {
+      "A": "posting",
+      "B": "exposure",
+      "C": "exposition",
+      "D": "exposing",
+      "E": "positioning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the context of the sentence, \"David can only become more mature through exposure to life outside his home,\" the word that best fits is \"exposure.\"\n\"Exposure\" in this context refers to the act of being exposed or subjected to new experiences, people, or environments. It implies that David can mature by gaining familiarity with life outside his home.\nOptions A, C, and E are not suitable in the context of gaining maturity through experiences. Option D, \"exposing,\" is grammatically correct but does not convey the intended meaning as well as the more appropriate term \"exposure.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/640",
+    "passage": ""
   }
 ]
