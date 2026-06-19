@@ -6653,5 +6653,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76504",
     "passage": ""
+  },
+  {
+    "id": 76505,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of these is a key component of a personal health screening that assesses a person's musculoskeletal health?",
+    "options": {
+      "A": "Blood pressure and heart rate.",
+      "B": "Flexibility and range of motion tests.",
+      "C": "Lung capacity test.",
+      "D": "Body Mass Index (BMI)."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A personal health screening is designed to assess different aspects of an individual's overall well-being, including cardiovascular, metabolic, sensory, and musculoskeletal health. Musculoskeletal health refers to the condition of muscles, bones, joints, and connective tissues, which are essential for movement, posture, and daily activities. Flexibility and range of motion tests-such as the sit-and-reach test, shoulder flexibility test, or joint mobility assessments-are used to evaluate how well these body parts function together. These tests help identify stiffness, joint limitations, or muscle imbalances that could lead to injury or reduced physical performance. In contrast: Lung capacity test measures respiratory function, not musculoskeletal health. Blood pressure and heart rate assess cardiovascular health. Body Mass Index (BMI) measures body weight relative to height, focusing on body compositiontrather than joint or muscle performance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76505",
+    "passage": ""
   }
 ]
