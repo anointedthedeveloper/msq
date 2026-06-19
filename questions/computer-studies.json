@@ -11641,5 +11641,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64132",
     "passage": ""
+  },
+  {
+    "id": 64133,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What does LAN stand for?",
+    "options": {
+      "A": "Land area network",
+      "B": "Local arrangement network",
+      "C": "Legal alternative network",
+      "D": "Local area network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A local area network (LAN) is a collection of devices connected together in one physical location, such as a building, office, or home. A LAN can be small or large, ranging from a home network with one user to an enterprise network with thousands of users and devices in an office or school. Regardless of size, a LAN's single defining characteristic is that it connects devices that are in a single, limited area.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64133",
+    "passage": ""
   }
 ]
