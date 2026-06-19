@@ -9385,5 +9385,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9642",
     "passage": ""
+  },
+  {
+    "id": 9764,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Express the product of 0.21 and 0.34 in standard form",
+    "options": {
+      "A": "7.14 x 10 -3",
+      "B": "7.14 x 10 -2",
+      "C": "7.14 x 10 -1",
+      "D": "7.14 x 10 -4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "0.21 x 0.34 = 0.0714 = 7.14 x 10-2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9764",
+    "passage": ""
   }
 ]
