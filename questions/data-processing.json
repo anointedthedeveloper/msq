@@ -2626,5 +2626,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58258",
     "passage": ""
+  },
+  {
+    "id": 58262,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "What file organization would require that all the five (5) records be read before the 6th record is written?",
+    "options": {
+      "A": "Direct-access file",
+      "B": "Index sequential file",
+      "C": "Random access file",
+      "D": "Sequential access file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58262",
+    "passage": ""
   }
 ]
