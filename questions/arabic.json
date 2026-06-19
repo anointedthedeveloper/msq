@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75198",
     "passage": ""
+  },
+  {
+    "id": 75199,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Translate: \"She is a hardworking girl.\"",
+    "options": {
+      "A": "هي فتاة كسولة",
+      "B": "هي فتاة مجتهدة",
+      "C": "هي فتاة نشيطة",
+      "D": "هي فتاة جميلة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Hardworking\" in Arabic is s0. for feminine form.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75199",
+    "passage": ""
   }
 ]
