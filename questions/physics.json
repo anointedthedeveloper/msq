@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/704",
     "passage": ""
+  },
+  {
+    "id": 705,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A thin wire with heavy weights attached to both ends is hung over a block of ice resting on two supports. If the wire cuts through the ice block while the block remains solid behind the wire, the process is called",
+    "options": {
+      "A": "condensation",
+      "B": "sublimation",
+      "C": "regelation",
+      "D": "fusion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Regelation occurs when ice is subjected to pressure, causing it to melt at the point of contact. When the pressure is removed, the melted water can refreeze. This phenomenon is commonly observed in scenarios where ice is under stress, such as when a wire is pulled through it with weights attached.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/705",
+    "passage": ""
   }
 ]
