@@ -8245,5 +8245,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/3814",
     "passage": ""
+  },
+  {
+    "id": 3816,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "'The pen is mightier than the sword' is an example of",
+    "options": {
+      "A": "metonymy",
+      "B": "antonomasia",
+      "C": "comparison",
+      "D": "synecdoche",
+      "E": "paradox."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "“The pen is mightier than the sword” is a famous phrase that means the written word is more powerful than physical force. This phrase is an example of metonymy , a figure of speech that replaces words with related or associated words. In this case, “pen” is used to represent the written word, and “sword” is used to represent physical force.\nMetonymy is a figure of speech in which one object or idea takes the place of another with which it has a close association.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/3816",
+    "passage": ""
   }
 ]
