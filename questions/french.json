@@ -4729,5 +4729,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75806",
     "passage": ""
+  },
+  {
+    "id": 75809,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Mon frere est _ que moi.",
+    "options": {
+      "A": "plus bon",
+      "B": "plus petit",
+      "C": "petit",
+      "D": "le petit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The French phrase \"plus petit\" means \"smaller than\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75809",
+    "passage": ""
   }
 ]
