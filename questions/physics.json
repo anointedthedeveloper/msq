@@ -15317,5 +15317,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24154",
     "passage": ""
+  },
+  {
+    "id": 24156,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A rectangular coil of wire can rotate in a magnetic field. The ends of the coil are soldered to the two halves of a split ring. Two carbon brushes are made to press lightly against the split ring and when these are connected in circuit with a battery and rheostat, the coil rotates. This is a description of",
+    "options": {
+      "A": "a suspended- coil vanometer",
+      "B": "a moving-cell ammeter",
+      "C": "a d.c generator",
+      "D": "an electric motor",
+      "E": "an induction coil,"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is a description of the d.c electric motor. The coil rotates due to the interaction between the magnetic field and the current flowing through the coil. The split ring and brushes act as a commutator, reversing the current direction in the coil every half rotation to maintain continuous rotation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24156",
+    "passage": ""
   }
 ]
