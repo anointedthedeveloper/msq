@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/62",
     "passage": ""
+  },
+  {
+    "id": 63,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A constitution that requires a plebiscite or a referendum to be amended is",
+    "options": {
+      "A": "rigid",
+      "B": "unwritten",
+      "C": "flexible",
+      "D": "written"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Plebiscite ; the direct vote of all the members of an electorate on an important public question such as a change in the constitution.\nA referendum; is a direct and universal vote in which an entire electorate is invited to vote on a particular proposal and can have nationwide or local forms.\nA rigid Constitution; is a constitution that is difficult or slow to change usually because of a prescribed process of amendment that is detailed and lengthy in execution.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/63",
+    "passage": ""
   }
 ]
