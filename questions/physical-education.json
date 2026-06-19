@@ -5604,5 +5604,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76348",
     "passage": ""
+  },
+  {
+    "id": 76349,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is an example of visual pollution?",
+    "options": {
+      "A": "High-pitched sounds from traffic horns",
+      "B": "Litter scattered across public parks",
+      "C": "Oil leakage into rivers",
+      "D": "Excessive carbon emissions from factories"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Visual pollution refers to unattractive or unpleasant visual elements in the environment, such as litter, graffiti, or poorly maintained structures. It affects community pride, tourism, and the enjoyment of recreational spaces.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76349",
+    "passage": ""
   }
 ]
