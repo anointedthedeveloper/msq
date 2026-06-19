@@ -3819,5 +3819,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1741",
     "passage": ""
+  },
+  {
+    "id": 1742,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A little quantity of trichloromethane (b.pt 60\\(^0\\)C) was added to a large quantity of ethanol (b.pt 78\\(^0\\)C). The most probable boiling point of the resultant mixture is from",
+    "options": {
+      "A": "69 o C - 70 o C",
+      "B": "70 o C – 74 o C",
+      "C": "82 o C – 84 o C",
+      "D": "60 o C – 78 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Trichloromethane (Chloroform) being in smaller quantity and ethanol being in large quantity means trichloromethane is the impurity while the ethanol is the pure substance. As we know, impurities in pure substances tend to increase their boiling point. Consequently, if the boiling point of ethanol (pure substance) is 78\\(^0\\)C, with the introduction of impurity (trichloromethane), the boiling point will increase from 78\\(^0\\)C. Among the options, the only temperature range that has a boiling point higher than 78\\(^0\\)C is option C (82 - 84\\(^0\\)C).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1742",
+    "passage": ""
   }
 ]
