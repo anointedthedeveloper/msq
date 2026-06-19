@@ -10203,5 +10203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11102",
     "passage": ""
+  },
+  {
+    "id": 11104,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "An arc of a circle subtends an angle of 30° on the circumference of a circle of radius 21cm. Find the length of the arc.",
+    "options": {
+      "A": "11cm",
+      "B": "22cm",
+      "C": "44cm",
+      "D": "66cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "θ = 30 x 2(∠ at center twice ∠ at circumference) ∴ θ = 60° Length of arc = \\(\\frac{\\theta}{360}\\times 2\\pi r\\) = \\(\\frac{60}{360}\\times 2 \\times \\frac{22}{7}\\times \\frac{21}{1}\\)\n= 22cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11104",
+    "passage": ""
   }
 ]
