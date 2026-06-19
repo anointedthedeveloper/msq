@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50374",
     "passage": ""
+  },
+  {
+    "id": 50375,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Evaluate \\(\\int_{\\frac{1}{2}}^{1} \\frac{x^{3} - 4}{x^{3}} \\mathrm {d} x\\).",
+    "options": {
+      "A": "-5.5",
+      "B": "-2.0",
+      "C": "2.0",
+      "D": "5.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\int_{\\frac{1}{2}}^{1} \\frac{x^{3} - 4}{x^{3}} \\mathrm {d} x \\equiv \\int_{\\frac{1}{2}}^{1} 1 - \\frac{4}{x^{3}} \\mathrm {d} x\\).\n= \\(\\int_{\\frac{1}{2}}^{1} 1 - 4x^{-3} \\mathrm {d} x\\).\n= \\(\\left. x - \\frac{4x^{-2}}{-2}\\right |_{\\frac{1}{2}}^{1} = \\left. x + \\frac{2}{x^{2}}\\right |_{\\frac{1}{2}}^{1}\\)\n= \\((1 + 2) - (\\frac{1}{2} + 8) = 3 - 8.5 = -5.5\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50375",
+    "passage": ""
   }
 ]
