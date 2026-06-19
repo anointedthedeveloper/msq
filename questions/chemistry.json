@@ -1278,5 +1278,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1379",
     "passage": ""
+  },
+  {
+    "id": 1380,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What is observed when aqueous solutions of each of tetraoxosulphate (VI) acid, potassium trioxoiodate (V) and potassium iodide are mixed together?",
+    "options": {
+      "A": "A white precipitate is formed",
+      "B": "A green precipitate is formed",
+      "C": "The mixture remains colourless",
+      "D": "The mixture turns reddish brown"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1380",
+    "passage": ""
   }
 ]
