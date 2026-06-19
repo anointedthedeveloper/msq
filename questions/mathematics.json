@@ -11779,5 +11779,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22353",
     "passage": ""
+  },
+  {
+    "id": 22354,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Using the above graph, if 10º < x < 60º, what is the value of x for which sin x = cos x?",
+    "options": {
+      "A": "0 o",
+      "B": "20 o",
+      "C": "30 o",
+      "D": "45 o",
+      "E": "50 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/RrQlnmqpjHUVrKkcWIBEhamohLwkf7VDs0MZQdjw.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907268/myschool/mathematics/RrQlnmqpjHUVrKkcWIBEhamohLwkf7VDs0MZQdjw.png",
+    "correct_answer": "D",
+    "explanation": "From the graph; when sin x = cos x x = 45º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22354",
+    "passage": ""
   }
 ]
