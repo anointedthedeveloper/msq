@@ -11359,5 +11359,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4342",
     "passage": ""
+  },
+  {
+    "id": 4343,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Copper metal dissolves in concentrated trioxonitrate (V) acid with the resultant evolution of?",
+    "options": {
+      "A": "CO 2",
+      "B": "SO 2",
+      "C": "NO 2",
+      "D": "CO"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Oxidation of Copper turnings with concentrated trioxonitrate (V) acid wil\nCu + 4HNO\\(_3\\) → CuNO\\(_3\\) + 2H\\(_2\\)O +2NO\\(_2\\) .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4343",
+    "passage": ""
   }
 ]
