@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1077",
     "passage": ""
+  },
+  {
+    "id": 1083,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The variance of x, 2x, 3x, 4x and 5x is",
+    "options": {
+      "A": "x√2",
+      "B": "2x 2",
+      "C": "x 2",
+      "D": "3x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hint: prepare a three-columned table, one for (x), another for the (deviation), and the last for the (squared-deviation). Sum of (x) = 15x, algebraic sum of (deviation) = zero (0) Sum of (squared-deviation) = 10x\\(^2\\) Variance = \\(\\frac{∑(squared-deviation)}{\\text{n}}\\) = \\(\\frac{10x^2}{5}\\) = 2x\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1083",
+    "passage": ""
   }
 ]
