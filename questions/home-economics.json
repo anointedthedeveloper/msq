@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73192",
     "passage": ""
+  },
+  {
+    "id": 73193,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following are reasons for cooking food? To I. Help food digest faster II. Make the food soft IV. Make the food last longer",
+    "options": {
+      "A": "II, III and IV only",
+      "B": "I, II and IV only",
+      "C": "II and IV only",
+      "D": "I, II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cooking food has several reasons, including:\nI. To help food digest faster: Cooking breaks down complex nutrients, making them easier to digest. II. To make the food soft: Cooking tenderizes food, making it more palatable and easier to chew. IV. To make the food last longer: Cooking can preserve food by killing bacteria and other microorganisms, allowing it to be stored for longer periods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73193",
+    "passage": ""
   }
 ]
