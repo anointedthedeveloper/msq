@@ -3106,5 +3106,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11276",
     "passage": ""
+  },
+  {
+    "id": 11277,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A sonometer wire is vibrating at frequency f o. If the tension in the wire is doubled while the length and the mass per unit length are kept constant, the new frequency of vibration is",
+    "options": {
+      "A": "f o / 2",
+      "B": "2 f o",
+      "C": "f o / √2",
+      "D": "f o √2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "For a vibrating sonometer wire, the frequency F = l/2l √(T/m) and if the length, l and mass per unit length, m, are constant, then Fo ∝ √T => FoK√T or Fo/√T = K => F1o/√F1 = F2o/√F2 ∴ F1o/√T1 = F2o/√T2\nthus F2 = F3x√(2T1 __√T1\n=\n= Fox√2 x √T1 √T1\n∴F2 = Fo x √2 = Fox√2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11277",
+    "passage": ""
   }
 ]
