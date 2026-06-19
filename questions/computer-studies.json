@@ -15360,5 +15360,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67767",
     "passage": ""
+  },
+  {
+    "id": 67768,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are input devices except.",
+    "options": {
+      "A": "mouse",
+      "B": "monitor",
+      "C": "Keyboard",
+      "D": "joystick"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The monitor is an output device, not an input device. Input devices are used to input data into a computer system for processing. Examples include a keyboard, mouse, joystick, etc. On the other hand, output devices are used to display or output the processed data. Examples include a monitor, printer, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67768",
+    "passage": ""
   }
 ]
