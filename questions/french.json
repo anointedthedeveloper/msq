@@ -3931,5 +3931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75241",
     "passage": ""
+  },
+  {
+    "id": 75251,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "L'endroit où on peut acheter des médicaments est un/une",
+    "options": {
+      "A": "la pharmacie",
+      "B": "l'hôpital",
+      "C": "la banque",
+      "D": "l'école"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Seule la pharmacie est autorisee à vendre des médicaments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75251",
+    "passage": ""
   }
 ]
