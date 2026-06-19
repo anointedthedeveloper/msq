@@ -3190,5 +3190,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11712",
     "passage": ""
+  },
+  {
+    "id": 11716,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The diagram above shows a maximum and minimum thermometer divided into three portions P, Q and R. Which of the following is true about the respective content of P,Q and R",
+    "options": {
+      "A": "Alcohol, mercury and alcohol",
+      "B": "Air, alcohol and mercury",
+      "C": "Mercury, alcohol and mercury",
+      "D": "Air, mercury and alcohol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0Nmb6SHnNII4mcg8pA7Wq6WPxN1yeqZgrfTzQSNp.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888694/myschool/physics/0Nmb6SHnNII4mcg8pA7Wq6WPxN1yeqZgrfTzQSNp.png",
+    "correct_answer": "A",
+    "explanation": "The Six's maximum and minimum thermometer uses a liquid-filled bulb connected to a U-shaped tube with a mercury thread. As the liquid expands or contracts, the mercury moves, pushing the steel indexes to indicate the maximum and minimum temperatures, which can be reset using a magnet.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11716",
+    "passage": ""
   }
 ]
