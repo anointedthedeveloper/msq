@@ -2110,5 +2110,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16003",
     "passage": ""
+  },
+  {
+    "id": 16004,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The part of the ruminant stomach from which digestive juices secreted is the",
+    "options": {
+      "A": "rumen",
+      "B": "reticulum",
+      "C": "omasum",
+      "D": "paunch",
+      "E": "abomasum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16004",
+    "passage": ""
   }
 ]
