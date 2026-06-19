@@ -19146,5 +19146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72592",
     "passage": ""
+  },
+  {
+    "id": 72593,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Instructions were written to the first generation computers using",
+    "options": {
+      "A": "assemblers.",
+      "B": "low level language.",
+      "C": "machine language.",
+      "D": "mnemonics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C: (machine language) Machine language which consists of binary code (0's and I's) were used to write instructions to the first genera- tion of computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72593",
+    "passage": ""
   }
 ]
