@@ -4458,5 +4458,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58731",
     "passage": ""
+  },
+  {
+    "id": 58734,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the foolowing statements about relational model is not correct?",
+    "options": {
+      "A": "A file is a sequence of related records",
+      "B": "A record consist of a row of data containing single value from each column",
+      "C": "Data in the column of a table are of the same data type",
+      "D": "Data in the rows of a table are of the same data type"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58734",
+    "passage": ""
   }
 ]
