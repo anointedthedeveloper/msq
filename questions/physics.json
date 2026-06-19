@@ -13843,5 +13843,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23900",
     "passage": ""
+  },
+  {
+    "id": 23909,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following statements is/are not correct?",
+    "options": {
+      "A": "Evaporation takes place only at the surface of the liquid",
+      "B": "Boiling takes place throughout the volume of the liquid",
+      "C": "Evaportaion takes place at all temperatures",
+      "D": "Boiling takes place at a particular temperature for a liquid at a fixed external pressure",
+      "E": "The boiling point of a liquid is not affected by impurities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The boiling point of a liquid is not affected by impurities",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23909",
+    "passage": ""
   }
 ]
