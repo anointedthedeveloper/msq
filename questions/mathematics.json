@@ -11207,5 +11207,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22161",
     "passage": ""
+  },
+  {
+    "id": 22165,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "IN the diagram above, LK/PQ, reflex angle KLM = 241° and ∠QPM = 89°. What is the value of ∠LMP?",
+    "options": {
+      "A": "30 o",
+      "B": "61 o",
+      "C": "89 o",
+      "D": "119 o",
+      "E": "150 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3XEb7FD93ICSrF1YZm81YuOZfjHXDnC4OfKIVWOG.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906963/myschool/mathematics/3XEb7FD93ICSrF1YZm81YuOZfjHXDnC4OfKIVWOG.png",
+    "correct_answer": "A",
+    "explanation": "Produce ML to R.\nFrom the figure < LRM = 89° (corresponding angles)\nIn triangle LRM, < LMR = 180° - (61° + 89°)\n= 30°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22165",
+    "passage": ""
   }
 ]
