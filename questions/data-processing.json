@@ -9860,5 +9860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77074",
     "passage": ""
+  },
+  {
+    "id": 77097,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following fields can uniquely identify a record of a student's performance in a school?",
+    "options": {
+      "A": "Classroom number",
+      "B": "Date of birth",
+      "C": "Administration number",
+      "D": "First name"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The administration number is a unique identifier assigned to each student in a school. It is used to track the student's performance and other details. Classroom number, date of birth, first name, and surname can be shared by multiple students,hence they cannot uniquely identify a student's record.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77097",
+    "passage": ""
   }
 ]
