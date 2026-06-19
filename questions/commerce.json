@@ -14847,5 +14847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7510",
     "passage": ""
+  },
+  {
+    "id": 7513,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A doctor who attends to patients at home after his official duty is?",
+    "options": {
+      "A": "a community develoment worker",
+      "B": "a direct service worker",
+      "C": "an indirect sevice worker",
+      "D": "a direct and an indirect sevice worker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Direct services means services delivered by an employee in the physical presence of the Person. Example  services providing therapy, habilitation, or rehabilitation activities or support services such as transportation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7513",
+    "passage": ""
   }
 ]
