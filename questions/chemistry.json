@@ -151,5 +151,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/32",
     "passage": ""
+  },
+  {
+    "id": 38,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An element X forms the following compounds with chlorine; XCl4, XCl3, XCl2. This illustrates the",
+    "options": {
+      "A": "law of multiple proportions",
+      "B": "law of chemical proportions",
+      "C": "law of simple proportions",
+      "D": "law of conservation of mass",
+      "E": "law of definite proportions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "this question expresses the law of multiple proportions which states that if two elements A and B combine together to form more than one compound, the various masses of element B which combines with a fixed mass of B are in simple whole number ratios. e.g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/38",
+    "passage": ""
   }
 ]

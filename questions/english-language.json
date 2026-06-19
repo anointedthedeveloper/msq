@@ -152,5 +152,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/100",
     "passage": ""
+  },
+  {
+    "id": 102,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The bill has to wait as we are now insolvent",
+    "options": {
+      "A": "overworked",
+      "B": "bankrupt",
+      "C": "unsettled",
+      "D": "insoluble",
+      "E": "affluent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Insolvent means unable to pay one’s debts or lacking the money to meet financial obligations. Among the options, bankrupt is the closest in meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/102",
+    "passage": ""
+  },
+  {
+    "id": 103,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nAll his plans fell through",
+    "options": {
+      "A": "failed",
+      "B": "were accomplished",
+      "C": "had to be reviewed",
+      "D": "were rejected",
+      "E": "fell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In this context fell through refers to something that has been planned or agreed on, but does not happen.\nIt simply means for something to fail.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/103",
+    "passage": ""
   }
 ]

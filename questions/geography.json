@@ -152,5 +152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/210",
     "passage": ""
+  },
+  {
+    "id": 211,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which is not exported by the Republic of South Africa?",
+    "options": {
+      "A": "Wines",
+      "B": "Maize",
+      "C": "Wool",
+      "D": "Coffee",
+      "E": "Wheat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/211",
+    "passage": ""
   }
 ]
