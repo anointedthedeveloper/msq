@@ -16872,5 +16872,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67865",
     "passage": ""
+  },
+  {
+    "id": 67866,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Using Boolean identities, reduce the given Boolean expression: A(A+1) + A(B+0) + C.1",
+    "options": {
+      "A": "A + B + C",
+      "B": "A.B.C",
+      "C": "A.B + C",
+      "D": "A + C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Using Boolean identities, the given Boolean expression A(A+1) + A(B+0) + C.1 can be reduced as follows: A.1 + A.B + C = A + A.B + C = A + C. The Boolean identity A + A.B = A is used here, which states that if A is true, the whole expression is true regardless of the value of B.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67866",
+    "passage": ""
   }
 ]
