@@ -14547,5 +14547,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24091",
     "passage": ""
+  },
+  {
+    "id": 24092,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "An object weighs 10.0 N in air and 7.0 N in water. What is its weight when immersed in a liquid of relative density 1.5?",
+    "options": {
+      "A": "4.50N",
+      "B": "4.67N",
+      "C": "5.50N",
+      "D": "6.67N",
+      "E": "8.50N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24092",
+    "passage": ""
   }
 ]
