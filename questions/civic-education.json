@@ -2726,5 +2726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50210",
     "passage": ""
+  },
+  {
+    "id": 50211,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not a form of political participation",
+    "options": {
+      "A": "taking part in voters registration excersice",
+      "B": "voting during election",
+      "C": "joining political party",
+      "D": "ballot box stuffing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Political participation refers to a wide range of activities, designed to influence government. Political participation can take many forms. The most common today are lobbying, public relations, litigation, protest, and, most important, voting .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50211",
+    "passage": ""
   }
 ]
