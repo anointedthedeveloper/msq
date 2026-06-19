@@ -12021,5 +12021,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22397",
     "passage": ""
+  },
+  {
+    "id": 22398,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "If A = {a,b,c}, B = {a,b,c,d,e} and C = {a,b,c,d,e,f}. Find (A∪B)∩(A∪C)",
+    "options": {
+      "A": "{a,b,c,d}",
+      "B": "{a,b,c,d,e}",
+      "C": "{a,b,c,d,e,f}",
+      "D": "{a,b,c}",
+      "E": "Φ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A = {a, b, c};  B = {a, b, c, d, e}; C = {a, b, c, d, e, f}\n(A \\(\\cup\\) B) = {a, b, c, d, e}\n(A \\(\\cup\\) C) = {a, b, c, d, e, f}\n(A \\(\\cup\\) B) \\(\\cap\\) (A \\(\\cup\\) C) = {a, b, c, d, e}",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22398",
+    "passage": ""
   }
 ]
