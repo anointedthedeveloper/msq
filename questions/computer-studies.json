@@ -17334,5 +17334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69832",
     "passage": ""
+  },
+  {
+    "id": 69833,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following commands can be used to switch between open window?",
+    "options": {
+      "A": "Alt + F4",
+      "B": "Alt + Tab",
+      "C": "Ctrl + F",
+      "D": "Ctrl + D"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The command that can be used to switch between open windows is \"Alt + Tab.\" When you press the \"Alt + Tab\" keys simultaneously, it will bring up a visual display showing thumbnail previews of all open windows on your computer. While holding the \"Alt\" key, you can continue pressing the \"Tab\" key to cycle through the open windows. Releasing the \"Alt\" key will switch to the selected window. This feature is commonly used in operating systems like Windows to quickly switch between different applications or open windows without using the mouse. It allows users to efficiently manage and navigate among multiple open applications or tasks on their computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69833",
+    "passage": ""
   }
 ]
