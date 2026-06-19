@@ -4156,5 +4156,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70733",
     "passage": ""
+  },
+  {
+    "id": 70734,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What method of maintaining personal health emphasizes consuming a balanced diet that includes fruits, vegetables, proteins, and whole grains?",
+    "options": {
+      "A": "Regular medical check-ups",
+      "B": "Hydration",
+      "C": "Nutrition",
+      "D": "Meditation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Nutrition plays a crucial role in maintaining personal health by providing essential nutrients for bodily functions and overall well-being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70734",
+    "passage": ""
   }
 ]
