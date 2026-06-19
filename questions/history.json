@@ -12206,5 +12206,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68551",
     "passage": ""
+  },
+  {
+    "id": 68552,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which event marked the rise of Mohammed Ali to power in Egypt?",
+    "options": {
+      "A": "The French Invasion of Egypt",
+      "B": "The British Occupation of Egypt",
+      "C": "The Mamluk Massacre",
+      "D": "The Ottoman-Saudi War"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mohammed Ali came to power in Egypt following the Mamluk Massacre. The Mamluks were a military caste in Egypt, and their massacre by Mohammed Ali marked a significant shift in power.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68552",
+    "passage": ""
   }
 ]
