@@ -9377,5 +9377,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77032",
     "passage": ""
+  },
+  {
+    "id": 77033,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The correctness and completeness of the data in a database are its",
+    "options": {
+      "A": "constraint",
+      "B": "independence",
+      "C": "integrity",
+      "D": "redundancy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Data integrity is the maintenance of, and the assurance of the accuracy and consistency of, data over its entire ... This type of integrity is concerned with the correctness or rationality of a piece of data, given a particular context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77033",
+    "passage": ""
   }
 ]
