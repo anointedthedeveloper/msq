@@ -6643,5 +6643,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67122",
     "passage": ""
+  },
+  {
+    "id": 67123,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "To search for information using the interface in Figure above, the keywords of the search subject is typed into part labelled",
+    "options": {
+      "A": "I",
+      "B": "IV",
+      "C": "II",
+      "D": "V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1NcC5G4Lpn6Y2mXIYW9PRU8vAjEn3eETGuJEMFe7.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911800/myschool/data-processing/1NcC5G4Lpn6Y2mXIYW9PRU8vAjEn3eETGuJEMFe7.png",
+    "correct_answer": "B",
+    "explanation": "IV is the search box",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67123",
+    "passage": ""
   }
 ]
