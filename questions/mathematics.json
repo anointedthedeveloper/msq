@@ -10701,5 +10701,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22043",
     "passage": ""
+  },
+  {
+    "id": 22046,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Points P and Q are respectively 24m north and 7m east of point R. What is the bearing of Q from P to the nearest whole degree?",
+    "options": {
+      "A": "16 o",
+      "B": "17 o",
+      "C": "73 o",
+      "D": "106 o",
+      "E": "164 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Using Pythagoras' theorem:\nHyp\\(^2\\) = Adj\\(^2\\) + Opp\\(^2\\) → 24\\(^2\\) + 7\\(^2\\)\nHyp = \\(\\sqrt{625}\\) → 25\n\\(\\tan P = \\frac{7}{24}\\)\ntan P = 0.2917\nP = tan\\(^{-1}\\) (0.2917)\n= 16.26°\nBearing of Q from P = 180° - 16.26°\n= 163.74° \\(\\approxeq\\) 164°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22046",
+    "passage": ""
   }
 ]
