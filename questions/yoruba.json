@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72472",
     "passage": ""
+  },
+  {
+    "id": 72473,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Lára kí ni a ti lèrí awo?",
+    "options": {
+      "A": "Kòlòkòlò",
+      "B": "Igún",
+      "C": "Aòni",
+      "D": "Agbò"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72473",
+    "passage": ""
   }
 ]
