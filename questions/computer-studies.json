@@ -21158,5 +21158,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76910",
     "passage": ""
+  },
+  {
+    "id": 76911,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following statements is not true about a computer file?",
+    "options": {
+      "A": "It is very fast to access any record within a file",
+      "B": "It is created electronically",
+      "C": "File creation and access are less laborious",
+      "D": "Initial setup is expensive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "While computer files can be accessed quickly, the speed of access can vary depending on the size of the file and the method of access used. For example, sequential access (where records are accessed one after the other in order) can be slower than direct access (where any record can be accessed directly without having to go through other records).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76911",
+    "passage": ""
   }
 ]
