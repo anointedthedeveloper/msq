@@ -2371,5 +2371,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75378",
     "passage": ""
+  },
+  {
+    "id": 75379,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a subtractive sculptural process?",
+    "options": {
+      "A": "Modelling",
+      "B": "Carving",
+      "C": "Welding",
+      "D": "Casting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Carving is a subtractive sculptural process where material is removed from a solid block to create the sculpture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75379",
+    "passage": ""
   }
 ]
