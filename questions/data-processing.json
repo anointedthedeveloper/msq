@@ -9092,5 +9092,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72373",
     "passage": ""
+  },
+  {
+    "id": 72374,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The major difference between serial and sequential files is that sequential files are",
+    "options": {
+      "A": "given a key",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "recorded in any storage medium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sequential files are sorted in a particular order while serial files are simply stored one after the other.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72374",
+    "passage": ""
   }
 ]
