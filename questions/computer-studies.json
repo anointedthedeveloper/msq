@@ -2880,5 +2880,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61830",
     "passage": ""
+  },
+  {
+    "id": 61831,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The four standard ports include the following buses, except?",
+    "options": {
+      "A": "fast infrared",
+      "B": "high performance serial",
+      "C": "parallel",
+      "D": "serial",
+      "E": "universal serial"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A serial port is also called a communication port and they are used for connection of external devices like a modem, mouse, or keyboard (basically in older PCs).\nParallel ports are generally used for connecting scanners and printers.\nAn Infrared(IR) port is used to send and receive infrared signals from other devices.\nUSB (Universal Serial Bus): This can connect all kinds of external USB devices, like external hard disk, printer, scanner, mouse, keyboard, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61831",
+    "passage": ""
   }
 ]
