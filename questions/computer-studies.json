@@ -19062,5 +19062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71379",
     "passage": ""
+  },
+  {
+    "id": 72581,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "An automatic system is one that",
+    "options": {
+      "A": "is operated using sophisticated skills.",
+      "B": "needs fuel before it can. be operated by humans.",
+      "C": "performs different kinds of tasks diligently.",
+      "D": "requires little or no human intervention to work."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An automatic system is one that requires little or no human intervention to work.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72581",
+    "passage": ""
   }
 ]
