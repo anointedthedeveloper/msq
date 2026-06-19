@@ -17418,5 +17418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69836",
     "passage": ""
+  },
+  {
+    "id": 69837,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "An input device that converts an image into a text is known as",
+    "options": {
+      "A": "scanner.",
+      "B": "optical mark reader.",
+      "C": "barcode reader.",
+      "D": "optical character reader."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An input device that converts an image into text is known as an \"optical character reader\" (OCR). OCR technology is used to recognize printed or handwritten characters in an image and convert them into editable and searchable text. It is commonly used to digitize printed documents, such as books, articles, invoices, and receipts, making it easier to store, search, and process the text electronically. OCR technology is widely used in various applications, including document scanning, data entry, text recognition, and document management systems. Scanners and barcode readers are also input devices, but they do not convert images into text. Scanners convert images into digital images, while barcode readers convert barcodes into numbers. Optical mark readers (OMRs) are used to read marks made on a document, such as those made by a pencil or pen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69837",
+    "passage": ""
   }
 ]
