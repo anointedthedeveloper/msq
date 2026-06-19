@@ -3694,5 +3694,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12036",
     "passage": ""
+  },
+  {
+    "id": 12037,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The electric field between two - point charges is shown in the diagram above. What types of charges are at X and Y?",
+    "options": {
+      "A": "Both X and Y are negative",
+      "B": "Both X and Y are positive",
+      "C": "X is positive  and Y is negative",
+      "D": "X is negative and Y is positive"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/19026487816_phy200236.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888915/myschool/physics/19026487816_phy200236.jpg",
+    "correct_answer": "B",
+    "explanation": "In the provided diagram, the arrows on the field lines surrounding both point X and point Y are pointing outward. This indicates that both X and Y are negative charges. turn the positive to positive",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12037",
+    "passage": ""
   }
 ]
