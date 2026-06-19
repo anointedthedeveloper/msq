@@ -5290,5 +5290,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8483",
     "passage": ""
+  },
+  {
+    "id": 8489,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The radius r of a circular disc is increasing at the rate of 0.5cm/sec. At what rate is the area of the disc increasing when its radius is 6cm?",
+    "options": {
+      "A": "36 π cm 2 /sec",
+      "B": "18 π cm 2 /sec",
+      "C": "6 π cm 2 /sec",
+      "D": "3 π cm 2 /sec"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8489",
+    "passage": ""
   }
 ]
