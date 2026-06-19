@@ -13909,5 +13909,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23911",
     "passage": ""
+  },
+  {
+    "id": 23912,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Calculate the heat energy required to vapourize 50g of water initially at 80\no\nC if the specific heat capacity of water is 4.2Jg\n-1\nK (specific latent heat of vapourization of water is 2260Jg\n-1\n).",
+    "options": {
+      "A": "533000J",
+      "B": "230000J",
+      "C": "117200J",
+      "D": "113000J",
+      "E": "4200J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23912",
+    "passage": ""
   }
 ]
