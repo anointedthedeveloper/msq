@@ -7037,5 +7037,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62515",
     "passage": ""
+  },
+  {
+    "id": 62516,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) Match each of the following computing devices.\nCOMPUTER DEVICES\nUSES\nEDVAC\nElectronic general-purpose computer programmed to perform complex sequences of operation.\nENIAC\nElectronic digital stored-program computer intended for the bureau of census and later for presidential election.\nUNIVAC\nElectronic computer, binary in nature with automatic addition, subtraction multiplication and programmed division.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "COMPUTER DEVICES USES ENIAC Electronic general-purpose computer programmed to perform complex sequences of operation. UNIVAC Electronic digital stored-program computer intended for the bureau of census and later for presidential election. EDVAC Electronic computer, binary in nature with automatic addition, subtraction multiplication and programmed division.\n(b)\n(i) Types of Registers in the Control Unit - Memory Data Register (MDR) Current Instruction Register (CIR) -Sequence Control Register (SCR)\n(ii) Types of Registers in the Microprocessor. -Temporary register - Permanent register - Program counter register - Address register - Instruction register -Index register - Stack Pointer Register (SPR) Condition code register - Accumulator register - Interrupt control register - Flag register.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62516",
+    "passage": ""
   }
 ]
