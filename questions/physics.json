@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/706",
     "passage": ""
+  },
+  {
+    "id": 707,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "One end of a long wire is fixed while a vibrator is attached to the other end. When the vibrator is energized, the types of waves generated in the wire are",
+    "options": {
+      "A": "stationary and longitudinal",
+      "B": "stationary and transverse",
+      "C": "progressive and transverse",
+      "D": "progressive and longitudinal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The vibrator is fixed at the end of the rope, hence, it is stationary. Also, the vibrator causes the end of the wire to move up and down (or side to side), creating disturbances that travel along the length of the wire. The displacement of the particles in the wire is perpendicular to the direction of wave propagation, which is characteristic of transverse waves\nTherefore, Option B is correct.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/707",
+    "passage": ""
   }
 ]
