@@ -4904,5 +4904,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2380",
     "passage": ""
+  },
+  {
+    "id": 2381,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "If an organic compound has its hydrogen: oxygen ratio as 2:1, it is likely to be",
+    "options": {
+      "A": "a protein",
+      "B": "a cabohydrate",
+      "C": "a fat",
+      "D": "a fatty acid  and glycerol",
+      "E": "an amino acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2381",
+    "passage": ""
   }
 ]
