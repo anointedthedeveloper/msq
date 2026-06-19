@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73188",
     "passage": ""
+  },
+  {
+    "id": 73189,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The best method to use in cooking tough cuts of meat is:",
+    "options": {
+      "A": "Boiling",
+      "B": "Stewing",
+      "C": "Grilling",
+      "D": "Roasting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Tough cuts of meat like chuck or brisket are best cooked using moist heat methods such as stewing. Stewing involves cooking the meat slowly in liquid, which breaks down connective tissues and adds flavor and tenderness. It:\nBreaks down collagen and connective tissue Adds moisture and flavor Cooks the meat slowly and evenly",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73189",
+    "passage": ""
   }
 ]
