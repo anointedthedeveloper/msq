@@ -4121,5 +4121,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62263",
     "passage": ""
+  },
+  {
+    "id": 62264,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A pictorial representation of program flow is referred to as?",
+    "options": {
+      "A": "algorithm",
+      "B": "flow chart.",
+      "C": "process mapping.",
+      "D": "pseudo code"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62264",
+    "passage": ""
   }
 ]
