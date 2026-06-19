@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75331",
     "passage": ""
+  },
+  {
+    "id": 75355,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What does the term \"medium\" refer in art?",
+    "options": {
+      "A": "A type of balance",
+      "B": "The material used",
+      "C": "A spiritual guide",
+      "D": "The mood of a painting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In art, \"medium\" refers to the material or substance an artist uses to create a work, such as oil paint, watercolor, clay, or digital tools.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75355",
+    "passage": ""
   }
 ]
