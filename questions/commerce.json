@@ -15937,5 +15937,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7620",
     "passage": ""
+  },
+  {
+    "id": 7622,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A cheque that has been drawn but not presented for payment can still be honored?",
+    "options": {
+      "A": "within 6 months",
+      "B": "after 9 months",
+      "C": "within 9 months",
+      "D": "after 6 months"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Personal cheques are valid for six months from the date of issue after which they become stale. Unlike personal cheques, bank cheques do not go stale after six months.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7622",
+    "passage": ""
   }
 ]
