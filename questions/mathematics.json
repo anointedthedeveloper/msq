@@ -12153,5 +12153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22403",
     "passage": ""
+  },
+  {
+    "id": 22404,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above, what is the size of angle ACB?",
+    "options": {
+      "A": "40 o",
+      "B": "50 o",
+      "C": "60 o",
+      "D": "80 o",
+      "E": "100 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/A6VZOftdHa8SIQfWslfEogmJHBPfdgsz4dHvZVns.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907506/myschool/mathematics/A6VZOftdHa8SIQfWslfEogmJHBPfdgsz4dHvZVns.png",
+    "correct_answer": "C",
+    "explanation": "< ABC = 80° (alternate angles)\n< ACB = 180° - (80° + 40°) = 60°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22404",
+    "passage": ""
   }
 ]
