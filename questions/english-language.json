@@ -2879,5 +2879,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1352",
     "passage": ""
+  },
+  {
+    "id": 1353,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : He sent the children out to play .... he might be alone.",
+    "options": {
+      "A": "because",
+      "B": "so that",
+      "C": "yet",
+      "D": "since",
+      "E": "while"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sentence shows purpose —why he sent the children out. “So that” is used to express purpose ( in order that ), which fits the sentence:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1353",
+    "passage": ""
   }
 ]
