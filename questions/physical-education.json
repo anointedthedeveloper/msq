@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64166",
     "passage": ""
+  },
+  {
+    "id": 64167,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A long distance walk on foot describes",
+    "options": {
+      "A": "hiking",
+      "B": "jogging",
+      "C": "striding",
+      "D": "strolling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "This is known as hiking.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64167",
+    "passage": ""
   }
 ]
