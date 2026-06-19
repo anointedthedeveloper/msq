@@ -13027,5 +13027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64372",
     "passage": ""
+  },
+  {
+    "id": 64374,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Why is the base 10 system unique?",
+    "options": {
+      "A": "There are only 10 fingers to every human",
+      "B": "There are only 10 one digit numbers",
+      "C": "The number 10 has just 2 factors",
+      "D": "no specific reason."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The base 10 system of counting has been passed from generations to generations. This because, we learn to count with our fingers at young age.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64374",
+    "passage": ""
   }
 ]
