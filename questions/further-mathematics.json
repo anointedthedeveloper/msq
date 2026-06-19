@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50276",
     "passage": ""
+  },
+  {
+    "id": 50281,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A force (10i + 4j)N acts on a body of mass 2kg which is at rest. Find the velocity after 3 seconds.",
+    "options": {
+      "A": "\\((\\frac{5i}{3} + \\frac{2j}{3})ms^{-1}\\)",
+      "B": "\\((\\frac{10i}{3} + \\frac{4j}{3})ms^{-1}\\)",
+      "C": "\\((5i + 2j)ms^{-1}\\)",
+      "D": "\\((15i + 6j)ms^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Recall, \\(F = mass \\times acceleration \\implies acceleration = \\frac{force}{mass}\\)\n= \\(\\frac{10i + 4j}{2} = (5i + 2j) ms^{-2}\\)\n= \\(v = u + at  \\implies v \\text{at 3 seconds} = 0 + (5i + 2j \\times 3)\\)\n= \\((15i + 6j) ms^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50281",
+    "passage": ""
   }
 ]
