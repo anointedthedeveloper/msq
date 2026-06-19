@@ -8146,5 +8146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69802",
     "passage": ""
+  },
+  {
+    "id": 69803,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The equipment shown in Figure 1 is used for",
+    "options": {
+      "A": "infrared transmission",
+      "B": "ethernet connection",
+      "C": "audio transmission",
+      "D": "radio transmission"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Y4wNu0asKNPJvUNMOXAaJKgAXoDEtsVFxVhp45B7.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912161/myschool/data-processing/Y4wNu0asKNPJvUNMOXAaJKgAXoDEtsVFxVhp45B7.jpg",
+    "correct_answer": "D",
+    "explanation": "Radio transmission refers to the process of sending and receiving information using radio waves, which are a type of electromagnetic radiation. Radio waves are used for various forms of communication, including broadcasting, wireless communication, and remote control systems",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69803",
+    "passage": ""
   }
 ]
