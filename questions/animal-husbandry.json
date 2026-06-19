@@ -1445,5 +1445,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49723",
     "passage": ""
+  },
+  {
+    "id": 49725,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following management practices is used in the identification of livestock?",
+    "options": {
+      "A": "Branding",
+      "B": "Docking",
+      "C": "Dehorning",
+      "D": "Shearing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Livestock branding is a technique for marking livestock so as to identify the owner.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49725",
+    "passage": ""
   }
 ]
