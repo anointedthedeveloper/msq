@@ -17949,5 +17949,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69863",
     "passage": ""
+  },
+  {
+    "id": 70750,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which type of computer functions as a central repository, providing hardware, software, and other resources to multiple clients connected over a network?",
+    "options": {
+      "A": "Workstation",
+      "B": "Mainframe",
+      "C": "Supercomputer",
+      "D": "Server"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Servers are specifically designed to act as central repositories on a network. They provide hardware resources (like storage space and processing power), software resources (like applications and databases), and other resources (like network access) to multiple clients (other computers or devices) connected to the network.\nMainframes are used for large-scale data processing workstations are intended for individual use, and supercomputers are designed for highly complex computations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70750",
+    "passage": ""
   }
 ]
