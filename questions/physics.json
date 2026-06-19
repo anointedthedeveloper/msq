@@ -12457,5 +12457,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16329",
     "passage": ""
+  },
+  {
+    "id": 16334,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The slope of a striaght line displacement time graph indicates the",
+    "options": {
+      "A": "Distance travelled",
+      "B": "Uniform velocity",
+      "C": "Uniform acceleration",
+      "D": "Instantaneous acceleration",
+      "E": "Uniform speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "On a displacement–time graph, the slope (\\(\\frac{\\Delta y}{\\Delta x}\\)) represents velocity, and a straight-line slope indicates that this velocity is constant (uniform).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16334",
+    "passage": ""
   }
 ]
