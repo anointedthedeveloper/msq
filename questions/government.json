@@ -13318,5 +13318,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/16090",
     "passage": ""
+  },
+  {
+    "id": 16091,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following is not a civil obligation of a citizen?",
+    "options": {
+      "A": "Obedience to law",
+      "B": "Payment of taxes",
+      "C": "Voting during elections",
+      "D": "freedom of conscience and religion",
+      "E": "Respect for the national flag and anthem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Civic responsibilities are tasks bestowed upon citizens by their government to ensure a balance between protection and allegiance. All the options except option ''D'' (freedom of conscience and religion) are civic responsibilities. Freedom of religion and conscience is part of fundamental human rights.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/16091",
+    "passage": ""
   }
 ]
