@@ -2245,5 +2245,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2877",
     "passage": ""
+  },
+  {
+    "id": 2878,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Evaluate: \\(\\frac{0.21 \\times 0.072 \\times 0.00054}{0.006 \\times 1.68 \\times 0.063}\\)",
+    "options": {
+      "A": "0.01286",
+      "B": "0.01285",
+      "C": "0.1286",
+      "D": "0.1285"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{0.21 \\times 0.072 \\times 0.00054}{0.006 \\times 1.68 \\times 0.063}\\)\n= \\(\\frac{9 \\times 10^{-10}}{7 \\times 10^{-8}}\\)\n= \\(1.2857 \\times 10^{-2}\\)\n= \\(0.012857 \\approxeq 0.01286\\) (to 4 s.f)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2878",
+    "passage": ""
   }
 ]
