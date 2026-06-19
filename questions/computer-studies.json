@@ -21221,5 +21221,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76913",
     "passage": ""
+  },
+  {
+    "id": 76914,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following ideals is protected by copyright?",
+    "options": {
+      "A": "Profit",
+      "B": "inexperience",
+      "C": "Ideas",
+      "D": "Expression of Ideas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Copyright protects the expression of ideas, not the ideas themselves. This means that if you have a unique way of expressing an idea, that expression is protected by copyright. However, the underlying idea itself is not protected, and others are free to express that same idea in their own unique ways",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76914",
+    "passage": ""
   }
 ]
