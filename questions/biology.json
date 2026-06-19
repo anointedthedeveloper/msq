@@ -350,5 +350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/324",
     "passage": ""
+  },
+  {
+    "id": 326,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The hormone which tones up the muscles of a person in time of danger is from the",
+    "options": {
+      "A": "thyroid gland",
+      "B": "pancreas",
+      "C": "adrenal gland",
+      "D": "liver",
+      "E": "spleen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The adrenalin is a hormone which is released in times of danger. It is produced in the adrenal gland.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/326",
+    "passage": ""
   }
 ]
