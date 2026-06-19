@@ -15229,5 +15229,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24148",
     "passage": ""
+  },
+  {
+    "id": 24151,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "If the frequency of the ac. circuit illustrated above is 500/π Hz what would be the reactance in the circuit?\n(Inductance (L) = 0.9H, Capacitance (C) = \\(2 \\times 10^{-6}\\)",
+    "options": {
+      "A": "0.0009Ω/π",
+      "B": "100Ω",
+      "C": "1030Ω",
+      "D": "400Ω",
+      "E": "2500Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/iA2ZONcHZru9gjiolQFw0O5j8H63jvMNjh3CJUme.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891988/myschool/physics/iA2ZONcHZru9gjiolQFw0O5j8H63jvMNjh3CJUme.png",
+    "correct_answer": "D",
+    "explanation": "Given Data: Frequency (F) = \\(\\frac{500}{π}\\) , Inductance (L) = 0.9H, Capacitance (C) = \\(2 \\times 10^{-6}\\)\nTotal circuit reactance = Inductive reactance ( X\\(_L\\) ) - Capacitive reactance ( X\\(_C\\) )\nwhen  ( X\\(_L\\) ) >  ( X\\(_C\\) )\nInductive reactance ( X\\(_L\\) ) = 2πFL = 2 \\(\\times\\) π \\(\\times\\) \\(\\frac{500}{π}\\) \\(\\times\\) 0.9 = 900Ω\nCapacitive reactance ( X\\(_C\\) ) = \\(\\frac{1}{2πFC}\\) = \\(\\frac{1}{2 \\times π \\times 500/π \\times 2 \\times 10^{-6}}\\)\n= \\(\\frac{1}{2 \\times 10^{-3}}\\) = \\(\\frac{1}{0.002}\\)\n= 500Ω\nTotal circuit reactance =  ( X\\(_L\\) ) -  ( X\\(_C\\) ) = (900 - 500)Ω\n=400Ω",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24151",
+    "passage": ""
   }
 ]
