@@ -7600,5 +7600,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69775",
     "passage": ""
+  },
+  {
+    "id": 69776,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "One application of ICT in medicine is",
+    "options": {
+      "A": "seismic software",
+      "B": "computerized axial tomography",
+      "C": "optical character recognition",
+      "D": "global positioning system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "One application of ICT (Information and Communication Technology) in medicine is computerized axial tomography (CAT or CT scan). Computerized axial tomography is a medical imaging technique that uses X-rays and computer processing to create detailed cross-sectional images of the body's internal structures. It is used for diagnosing and monitoring various medical conditions by providing detailed images of organs, tissues, and bones.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69776",
+    "passage": ""
   }
 ]
