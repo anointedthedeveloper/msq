@@ -7116,5 +7116,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2972",
     "passage": ""
+  },
+  {
+    "id": 2973,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The solubility curve shows the variation of solute concentration with",
+    "options": {
+      "A": "volume",
+      "B": "temperature",
+      "C": "vapour density",
+      "D": "pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A solubility curve graphically represents how the solubility of a solute (a substance that dissolves in a solvent) changes with temperature, showing the maximum amount of solute that can dissolve at a given temperature.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2973",
+    "passage": ""
   }
 ]
