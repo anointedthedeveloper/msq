@@ -2518,5 +2518,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3356",
     "passage": ""
+  },
+  {
+    "id": 3358,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Make r subject of the formula given that \\(\\frac{x}{r+a}=\\frac{a}{r}\\)",
+    "options": {
+      "A": "\\(\\frac{a^{2}}{(x-a)}\\)",
+      "B": "\\(\\frac{a^{2}}{(x+a)}\\)",
+      "C": "\\(\\frac{a}{x-a}\\)",
+      "D": "\\(\\frac{a}{x+a}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x}{r + a} = \\frac{a}{r}\\)\n\\(\\implies rx = ar + a^{2}\\)\n\\(rx - ra = a^{2} \\implies r = \\frac{a^2}{x - a}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3358",
+    "passage": ""
   }
 ]
