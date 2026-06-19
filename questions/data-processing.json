@@ -8357,5 +8357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72329",
     "passage": ""
+  },
+  {
+    "id": 72330,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The binary number 100101, can be written in denary as",
+    "options": {
+      "A": "25",
+      "B": "37",
+      "C": "45",
+      "D": "211"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(1^40^40^30^20^11^0_2 = (1x2^2)+(1x2^2)+(1x2^0) = 32+4+1 = 37_{10}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72330",
+    "passage": ""
   }
 ]
