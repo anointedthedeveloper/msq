@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50343",
     "passage": ""
+  },
+  {
+    "id": 50346,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} + 5x + n = 0\\), such that \\(\\alpha\\beta = 2\\), find the value of n.",
+    "options": {
+      "A": "-4",
+      "B": "-2",
+      "C": "2",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An equation can be written as \\(x^{2} - (\\alpha + \\beta)x + (\\alpha\\beta) = 0\\)\nMaking the coefficient of \\(x^{2}\\) = 1 in the given equation, we have\n\\(x^{2} + \\frac{5}{2}x + \\frac{n}{2} = 0\\)\nComparing, we have \\(\\alpha\\beta = \\frac{n}{2} = 2 \\implies n = 4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50346",
+    "passage": ""
   }
 ]
