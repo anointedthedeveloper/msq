@@ -1466,5 +1466,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49725",
     "passage": ""
+  },
+  {
+    "id": 49727,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A disease that could result from giving animals mouldy food is?",
+    "options": {
+      "A": "anaplasmosis",
+      "B": "aspergillosis",
+      "C": "babesiosis",
+      "D": "theileriosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Aspergillosis is an infection caused by a type of mold.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49727",
+    "passage": ""
   }
 ]
