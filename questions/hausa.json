@@ -5513,5 +5513,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74010",
     "passage": ""
+  },
+  {
+    "id": 74011,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "INSHA'I A Gabatarwar rubutu ana bukatar",
+    "options": {
+      "A": "adireshi",
+      "B": "shimfida.",
+      "C": "bayani dalla-dalla",
+      "D": "dunkulallen bayani"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A Gabatarwar rubutu ana bukatar ... (In the introduction of a writing, what is needed is ... ). Answer: shimfida (a clear and concise statement). good introduction should start with a clear and concise statement that grabs the reader's attention",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74011",
+    "passage": ""
   }
 ]
