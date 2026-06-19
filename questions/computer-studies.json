@@ -6963,5 +6963,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62511",
     "passage": ""
+  },
+  {
+    "id": 62512,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A student mistakenly pressed the F5 key on keyboard while browsing on the internet. This will lead to?",
+    "options": {
+      "A": "opening of a new tab",
+      "B": "closing of the active window",
+      "C": "Closing of all windows",
+      "D": "reloading of the active window"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pressing the F5 key on a keyboard while browsing the internet will lead to the reloading of the active window. This is a common keyboard shortcut in many web browsers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62512",
+    "passage": ""
   }
 ]
