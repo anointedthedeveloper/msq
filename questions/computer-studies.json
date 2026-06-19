@@ -13048,5 +13048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64374",
     "passage": ""
+  },
+  {
+    "id": 64375,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which program translates programs to a simpler language that the computer can execute.",
+    "options": {
+      "A": "Compiler",
+      "B": "Interpreter",
+      "C": "Processor",
+      "D": "algorithm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A compiler is the program that translates the programs written in low level languages to high level languages that can be understood by the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64375",
+    "passage": ""
   }
 ]
