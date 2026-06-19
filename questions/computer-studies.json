@@ -3320,5 +3320,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61850",
     "passage": ""
+  },
+  {
+    "id": 61851,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of these storage media has the lowest capacity?",
+    "options": {
+      "A": "CD-ROM",
+      "B": "Flash Drive",
+      "C": "Floppy Disk",
+      "D": "RAM",
+      "E": "Register"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61851",
+    "passage": ""
   }
 ]
