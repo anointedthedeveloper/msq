@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50062",
     "passage": ""
+  },
+  {
+    "id": 50067,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The chapter IV of the 1999 constitution is about?",
+    "options": {
+      "A": "composition of the national assembly",
+      "B": "fundamental human rights",
+      "C": "procedures for the impeachment of the president",
+      "D": "information of quorum in the senate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Chapter IV (4) of the Constitution of the Federal Republic of Nigeria 1999 contains the fundamental human rights.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50067",
+    "passage": ""
   }
 ]
