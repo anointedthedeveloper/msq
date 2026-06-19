@@ -2413,5 +2413,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9672",
     "passage": ""
+  },
+  {
+    "id": 9674,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Two force each of 10N acts on a body, one towards the north and the other towards the east.\nThe magnitude and the direction of the resultant force are",
+    "options": {
+      "A": "20N, 45°E",
+      "B": "20N, 45°W",
+      "C": "10√2N, 45°W",
+      "D": "10√2N, 45°E"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2 + 10 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9674",
+    "passage": ""
   }
 ]
