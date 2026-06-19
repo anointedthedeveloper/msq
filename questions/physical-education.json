@@ -4722,5 +4722,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70822",
     "passage": ""
+  },
+  {
+    "id": 70823,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the target heart rate zone for aerobic exercise?",
+    "options": {
+      "A": "30-50% of maximum heart rate",
+      "B": "70-85% of maximum heart rate",
+      "C": "50-70% of maximum heart rate",
+      "D": "85-100% of maximum heart rate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The target heart rate zone for aerobic exercise is 70-85% of the maximum heart rate to ensure effective cardiovascular training.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70823",
+    "passage": ""
   }
 ]
