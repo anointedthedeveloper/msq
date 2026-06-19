@@ -790,5 +790,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/348",
     "passage": ""
+  },
+  {
+    "id": 349,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A germinating seed requires oxygen which is essential for",
+    "options": {
+      "A": "converting carbonhydrate into glucose",
+      "B": "Transporting energy from part of the plant to another",
+      "C": "The production of energy by oxidising essential carbonhydrate",
+      "D": "hydrolysis of protein",
+      "E": "The formation of water molecules within the germinating seed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Oxygen is needed by plants in order to produce carbondioxide which is useful by the plant.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/349",
+    "passage": ""
   }
 ]
