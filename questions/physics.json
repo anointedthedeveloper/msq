@@ -6067,5 +6067,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13705",
     "passage": ""
+  },
+  {
+    "id": 13706,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When impurities are added to semi-conductors, the conductivity of the semi-conductor",
+    "options": {
+      "A": "increases then decreases",
+      "B": "increases",
+      "C": "decreases",
+      "D": "remains constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13706",
+    "passage": ""
   }
 ]
