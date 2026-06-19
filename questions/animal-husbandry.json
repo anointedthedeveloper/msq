@@ -983,5 +983,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49665",
     "passage": ""
+  },
+  {
+    "id": 49667,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following organs is influenced by oxytocin",
+    "options": {
+      "A": "Kidney",
+      "B": "Lung",
+      "C": "Testis",
+      "D": "Udder"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Oxytocin stimulates the muscles surrounding the udder to squeeze out the milk.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49667",
+    "passage": ""
   }
 ]
