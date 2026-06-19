@@ -12064,5 +12064,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/72324",
     "passage": ""
+  },
+  {
+    "id": 72325,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following is an example of inalienable rights?",
+    "options": {
+      "A": "Right to life",
+      "B": "Right to vote",
+      "C": "Right ton social security",
+      "D": "Right to adequate wages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Inalienable rights are fundamental rights that cannot be taken away or surrendered. The right to life is considered an inalienable right because it is fundamental to the existence of individuals, unlike rights such as voting or social security, which can vary by country and circumstances.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/72325",
+    "passage": ""
   }
 ]
