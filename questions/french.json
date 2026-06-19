@@ -584,5 +584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48139",
     "passage": ""
+  },
+  {
+    "id": 48140,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Le soeur de olu est jolie ... ennuyeuse",
+    "options": {
+      "A": "mais",
+      "B": "ou",
+      "C": "et",
+      "D": "donc"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48140",
+    "passage": ""
   }
 ]
