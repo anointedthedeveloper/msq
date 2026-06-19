@@ -2035,5 +2035,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50405",
     "passage": ""
+  },
+  {
+    "id": 50406,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Given that \\(-6, -2\\frac{1}{2}, ..., 71\\) is a linear sequence , calculate the number of terms in the sequence.",
+    "options": {
+      "A": "20",
+      "B": "21",
+      "C": "22",
+      "D": "23"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(T_{n} = a + (n - 1)d\\) (for a linear or arithmetic progression)\nGiven: \\(T_{n} = 71, a = -6, d = -2\\frac{1}{2} - (-6) = 3\\frac{1}{2}\\)\n\\(\\implies 71 = -6 + (n - 1)\\times 3\\frac{1}{2}\\)\n\\(71 = -6 + 3\\frac{1}{2}n - 3\\frac{1}{2} = -9\\frac{1}{2} + 3\\frac{1}{2}n\\)\n\\(71 + 9\\frac{1}{2} = 3\\frac{1}{2}n  \\implies  n = \\frac{80\\frac{1}{2}}{3\\frac{1}{2}}\\)\n\\(= 23\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50406",
+    "passage": ""
   }
 ]
