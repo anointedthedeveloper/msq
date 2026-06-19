@@ -20927,5 +20927,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76891",
     "passage": ""
+  },
+  {
+    "id": 76892,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The number of cells in row 1 in the image above is?",
+    "options": {
+      "A": "1",
+      "B": "5",
+      "C": "3",
+      "D": "7"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8eLTwLVl3Rd3MnD1cul6DIqQTnCDrELyntwxOMGt.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905212/myschool/computer-studies/8eLTwLVl3Rd3MnD1cul6DIqQTnCDrELyntwxOMGt.png",
+    "correct_answer": "B",
+    "explanation": "The question asks for the number of cells that contain data in row 1 of the given table. In spreadsheet terminology, a row is a horizontal line, and a cell is a box where a row and column intersect. Looking at the table, row 1 contains the following data: ' BOOKS', 'SUPPLIED', 'TO SENIOR', 'HIGH', 'SCHOOLS'. Therefore, 5 cells in row 1 contain data, which matches option 3.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76892",
+    "passage": ""
   }
 ]
