@@ -11968,5 +11968,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4477",
     "passage": ""
+  },
+  {
+    "id": 4478,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Carbon (II) oxide is considered dangerous if inhaled mainly because it?",
+    "options": {
+      "A": "can cause injury to the nervous system",
+      "B": "competes with oxygen in the blood",
+      "C": "competes with carbon (IV) oxide in the blood",
+      "D": "can cause lung cancer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Carbon monoxide is harmful when breathed because it displaces oxygen in the blood and deprives the heart, brain and other vital organs of oxygen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4478",
+    "passage": ""
   }
 ]
