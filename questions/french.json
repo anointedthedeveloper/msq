@@ -2734,5 +2734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71088",
     "passage": ""
+  },
+  {
+    "id": 71089,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "On se sertd' un/une.......pour écrire au tableau noir.",
+    "options": {
+      "A": "craie",
+      "B": "crayon",
+      "C": "règle",
+      "D": "plume"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is craie. The sentence \"On se sert d'un/une...pour écrire au tableau noir\" means \"We use a... to write on the blackboard\". The correct completion is \"craie\", which means \"chalk\" in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71089",
+    "passage": ""
   }
 ]
