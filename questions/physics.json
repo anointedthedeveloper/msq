@@ -4576,5 +4576,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12405",
     "passage": ""
+  },
+  {
+    "id": 12407,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "An electron of charge 1.6 x 10-19C is accelerated between two metal plates. If the kinetics energy of the electron is 4.8 x 10-17J, the potential difference between the plate is",
+    "options": {
+      "A": "30V",
+      "B": "40V",
+      "C": "300V",
+      "D": "400V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In general, if a charged particle is accelerated between two metal plates/a region by a potential difference V volts, the work done on the charge, given by the product of the charge and the potential difference, is equal to the kinetic energy of the charge Thus eV = K.E 1.6 x 10\\(^{-19}\\) x V = 4.8 x 10\\(^{-17}\\)\n∴ V = \\(\\frac{4.8 \\times 10^{-17}}{1.6 \\times 10^{-19}}\\)\n= 300V",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12407",
+    "passage": ""
   }
 ]
