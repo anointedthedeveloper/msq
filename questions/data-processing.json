@@ -4038,5 +4038,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58680",
     "passage": ""
+  },
+  {
+    "id": 58682,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The website \"www.google.com\" indicates that Google is",
+    "options": {
+      "A": "a commercial organization",
+      "B": "a non-profit organization",
+      "C": "a research organization",
+      "D": "an educational organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Google.com is a commercial organization that makes money majorly from advertising.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58682",
+    "passage": ""
   }
 ]
