@@ -18096,5 +18096,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70760",
     "passage": ""
+  },
+  {
+    "id": 70763,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which stage of the SDLC involves evaluating the system to ensure it meets user needs and making necessary adjustments?",
+    "options": {
+      "A": "Review",
+      "B": "Implementation",
+      "C": "Analysis",
+      "D": "Design"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The review stage, also sometimes called testing involves evaluating the developed system against the initial requirements and user needs. This stage identifies any gaps, errors, or usability issues.\nBased on the review findings,adjustments and bug fixes are made to ensure the system meets the intended purpose and provides a satisfactory user experience.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70763",
+    "passage": ""
   }
 ]
