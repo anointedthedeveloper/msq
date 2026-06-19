@@ -1951,5 +1951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2126",
     "passage": ""
+  },
+  {
+    "id": 2127,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Evaluate \\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)",
+    "options": {
+      "A": "3/5(2x-3) 5/3 + k",
+      "B": "6/5(2x-3) 5/3 + k",
+      "C": "2x-3+k",
+      "D": "2(2x-3)+k"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\int 2(2x - 3)^{\\frac{2}{3}} \\mathrm d x\\)\nLet \\(u = 2x - 3\\)\n\\(\\mathrm d u = 2 \\mathrm d x\\)\n= \\(\\int u^{\\frac{2}{3}} \\mathrm d u\\)\n= \\(\\frac{u^{\\frac{5}{3}}}{\\frac{5}{3}} + k\\)\n= \\(\\frac{3}{5} (2x - 3)^{\\frac{5}{3}} + k\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2127",
+    "passage": ""
   }
 ]
