@@ -10266,5 +10266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11106",
     "passage": ""
+  },
+  {
+    "id": 11107,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "XYZ is a circle with center O and a radius 7cm. Find the area of the shaded region.",
+    "options": {
+      "A": "84cm 2",
+      "B": "77cm 2",
+      "C": "38cm 2",
+      "D": "14cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27169105400_math200333.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868975/myschool/mathematics/27169105400_math200333.jpg",
+    "correct_answer": "D",
+    "explanation": "θ = 45 x 2 (∠ at center twice ∠ at θ) θ = 90° Area of sector = \\(\\frac{θ}{360}\\) x πr\\(^2\\) = \\(\\frac{90}{360}\\) x \\(\\frac{22}{7}\\) x 7 x 7 = \\(\\frac{77}{2}\\)cm\\(^2\\) Area of triangle = \\(\\frac{1}{2}\\) ab sin θ = \\(\\frac{1}{2}\\) x 7 x 7 sin 90 = \\(\\frac{1}{2}\\) x 7 x 7 x 1 = \\(\\frac{49}{2}\\) cm\\(^{2}\\) Area of shaded region = \\(\\frac{77}{2}\\) - \\(\\frac{49}{2}\\)\n= \\(\\frac{28}{2}\\) = 14cm\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11107",
+    "passage": ""
   }
 ]
