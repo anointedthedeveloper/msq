@@ -9171,5 +9171,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3898",
     "passage": ""
+  },
+  {
+    "id": 3899,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below fill in the right word/phrase\n:\nThe policeman was sent to .... the allegation made by the man",
+    "options": {
+      "A": "investigate",
+      "B": "examine",
+      "C": "probe",
+      "D": "enquire",
+      "E": "observe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3899",
+    "passage": ""
   }
 ]
