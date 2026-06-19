@@ -3042,5 +3042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50476",
     "passage": ""
+  },
+  {
+    "id": 50479,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(\\begin{vmatrix}  1+2x & -1 \\\\ 6 & 3-x \\end{vmatrix} = -3 \\), find the values of x.",
+    "options": {
+      "A": "\\(x = 3, -2\\)",
+      "B": "\\(x = 4, \\frac{-2}{3}\\)",
+      "C": "\\(x = -4, \\frac{3}{2}\\)",
+      "D": "\\(x = 4, \\frac{-3}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\begin{vmatrix} 1+2x & -1 \\\\ 6 & 3-x  \\end{vmatrix} =  -3 \\implies (1+2x)(3-x) - (-6) = -3\\)\n\\(3 - x + 6x - 2x^{2} + 6 = -3\\)\n\\(-2x^{2} + 5x + 3 + 6 + 3 = 0\\)\nMultiplying through with -1,\n\\(2x^{2} - 5x -12 = 0\\)\n\\((2x + 3)(x - 4) = 0 \\implies x = \\frac{-3}{2} , 4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50479",
+    "passage": ""
   }
 ]
