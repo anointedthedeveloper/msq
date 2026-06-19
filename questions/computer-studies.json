@@ -19965,5 +19965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72667",
     "passage": ""
+  },
+  {
+    "id": 72668,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following hard disk drive memory capacities can store the largest size of data?",
+    "options": {
+      "A": "2TB",
+      "B": "12GB",
+      "C": "240MB",
+      "D": "800K"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1TB = 1024GB 2TB = 2x 1024 = 2048GB This is a larger size of data than any other option.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72668",
+    "passage": ""
   }
 ]
