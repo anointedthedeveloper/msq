@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/213",
     "passage": ""
+  },
+  {
+    "id": 214,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If a map at a scale of 1:50,000 is reduced by half, what is the new scale of the map?",
+    "options": {
+      "A": "1:250,000",
+      "B": "1:25,000",
+      "C": "1:200,000",
+      "D": "1:100,000",
+      "E": "1:125,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/214",
+    "passage": ""
   }
 ]
