@@ -5772,5 +5772,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76375",
     "passage": ""
+  },
+  {
+    "id": 76379,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the defining characteristic of a 'single-parent family'?",
+    "options": {
+      "A": "The family lives in a single house.",
+      "B": "The family is led by a single adult.",
+      "C": "The family has a single child.",
+      "D": "The family has a single income."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A single-parent family is one in which either the mother or the father is the sole head of the household, responsible for raising the children without the presence of the other parent. This can result from various circumstances such as divorce, separation, death of a partner, or choice. The defining feature is the single adult acting as the primary caregiver, not factors like income level, number of children, or type of housing. Single-parent families may face unique challenges, such as balancing work and caregiving, but can still provide a stable, loving, and supportive environment for children.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76379",
+    "passage": ""
   }
 ]
