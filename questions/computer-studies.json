@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/59441",
     "passage": ""
+  },
+  {
+    "id": 59443,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The property of a disk that determines the amount of data it may contain is?",
+    "options": {
+      "A": "size",
+      "B": "volume",
+      "C": "storage capacity",
+      "D": "storage power"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The property of a disk that determines the amount of data it may contain is its storage capacity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/59443",
+    "passage": ""
   }
 ]
