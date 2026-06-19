@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66123",
     "passage": ""
+  },
+  {
+    "id": 66125,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The term office equipment refers to",
+    "options": {
+      "A": "machine and furniture.",
+      "B": "wires and cables.",
+      "C": "furniture and fittings.",
+      "D": "machines and products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Office equipment refers to tools or machines that are used to carry out particular jobs or activities. They are assets used for the day-to-day running of an office.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66125",
+    "passage": ""
   }
 ]
