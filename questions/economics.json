@@ -3407,5 +3407,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2447",
     "passage": ""
+  },
+  {
+    "id": 2448,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Elasticity of demand is given by",
+    "options": {
+      "A": "the prcentage change in quantity demanded divided by the corresponding percentage change in price",
+      "B": "the percentage change in price divided by the corresponding percentage change in quantity demanded",
+      "C": "the percentage change in quantity demanded divided by the corresponding price",
+      "D": "the percentage change in price divided by the corresponding quantity demanded",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2448",
+    "passage": ""
   }
 ]
