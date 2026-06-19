@@ -16285,5 +16285,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24272",
     "passage": ""
+  },
+  {
+    "id": 24273,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The angle of deviation of light of various colours passing through a glass prism decreases in the order of",
+    "options": {
+      "A": "blue orange and red",
+      "B": "red, blue and orange",
+      "C": "blue, red and orange",
+      "D": "red, orange and blue",
+      "E": "orange, blue and red"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Upon passage through the prism , the white light is separated into its component colors - red, orange, yellow, green, blue and violet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24273",
+    "passage": ""
   }
 ]
