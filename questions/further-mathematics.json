@@ -3420,5 +3420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50527",
     "passage": ""
+  },
+  {
+    "id": 50528,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Given that \\(x * y = \\frac{x + y}{2}, x \\circ y = \\frac{x^{2}}{y}\\) and \\((3 * b) \\circ 48 = \\frac{1}{3}\\), find b, where b > 0.",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "5",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\((x * y) = \\frac{x+y}{2}\\)\n\\((3 * b) = \\frac{3+b}{2}\\)\n\\(x \\circ y = \\frac{x^{2}}{y}\\)\n\\((\\frac{3+b}{2}) \\circ 48 = \\frac{(\\frac{3+b}{2})^{2}}{48} = \\frac{1}{3}\\)\n\\(\\frac{(3+b)^{2}}{48 \\times 4} = \\frac{1}{3}\\)\n\\((3 + b)^{2} = \\frac{48 \\times 4}{3} = 64\\)\n\\(b^{2} + 6b + 9 = 64 \\implies b^{2} + 6b + 9  - 64 = 0\\)\n\\(b^{2} + 6b - 55 = 0 \\implies b^{2} - 5b + 11b - 55 = 0\\)\n\\(b(b - 5) + 11(b - 5) = 0 \\implies (b - 5) = \\text{0 or (} b + 11) = 0\\)\nSince b > 0, b - 5 = 0\nb = 5.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50528",
+    "passage": ""
   }
 ]
