@@ -1123,5 +1123,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57708",
     "passage": ""
+  },
+  {
+    "id": 57710,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Two computers, X and Y are such that the processor in X has a word size of 32 bits while that of Y is 16bits. Which of the following statement is true?",
+    "options": {
+      "A": "X can process half as much data as Y at the same time",
+      "B": "X can process the same amount of data as Y at the same time.",
+      "C": "X can process two times as much data as Y at the same time.",
+      "D": "X can process four times as much data as Y at the same time."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "X can process two times as much data as Y at the same time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57710",
+    "passage": ""
   }
 ]
