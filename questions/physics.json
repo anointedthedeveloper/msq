@@ -9658,5 +9658,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14288",
     "passage": ""
+  },
+  {
+    "id": 14292,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The surfaces of conveyor belts are made rough so as to?",
+    "options": {
+      "A": "protect them while carrying loads",
+      "B": "prevent the loads from slipping",
+      "C": "enable them to carry more load",
+      "D": "make them stronger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Rough surface promotes friction. Therefore, roughness of conveyor belt prevents the load from slipping\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14292",
+    "passage": ""
   }
 ]
