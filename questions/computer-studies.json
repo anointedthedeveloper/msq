@@ -2097,5 +2097,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61501",
     "passage": ""
+  },
+  {
+    "id": 61502,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "(a) What are \"Reports\" in a database system?\n(b) List four (4) ways in which Reports can be viewed in database management system.\n(c) Outline the steps to prints a Report in MS Access.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) A report is a database object that is caused to present information in database for the purpose of displaying or distributing a summary of data. OR Reports offer a way to extract and present a specific subset of information from a large database. OR Reports allow the user to organize and present your data in a reader-friendly manner, visually appealing format. OR Reports present data from tables and also from queries. OR A database report is the formatted result of database queries and contains useful data for decision-making and analysis.\n(b) Reports can be viewed through;\n(i) Design view (ii) Report view (iii) Layout (iv) Print preview\n(c) Steps to print a Report;\n- Right-click on the report name on the navigation pane - click print preview - click print/CTRL + P - click OK\nOR\n- Select the report on the navigation pane and click - click Print preview - click Print/CTRL + P - click OK",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61502",
+    "passage": ""
   }
 ]
