@@ -13657,5 +13657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64415",
     "passage": ""
+  },
+  {
+    "id": 64416,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A collection of facts and figures is known to be _________",
+    "options": {
+      "A": "Data",
+      "B": "Database",
+      "C": "sequenced data",
+      "D": "structural data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Data are a set of values of qualitative or quantitative variables about one or more persons or objects, while a datum (singular of data) is a single value of a single variable. They are individual facts, statistics, or items of information, often numeric.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64416",
+    "passage": ""
   }
 ]
