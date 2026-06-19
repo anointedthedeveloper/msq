@@ -10759,5 +10759,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64090",
     "passage": ""
+  },
+  {
+    "id": 64091,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A computer can't boot if it does not have ____________",
+    "options": {
+      "A": "compiler",
+      "B": "Loader",
+      "C": "OS",
+      "D": "Assembler"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Operating system is responsible for the running of the computer. Hence, in its absence, its impossible for the computer to boot.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64091",
+    "passage": ""
   }
 ]
