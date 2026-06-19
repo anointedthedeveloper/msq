@@ -7179,5 +7179,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2975",
     "passage": ""
+  },
+  {
+    "id": 2976,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The gas that is the most dangerous pollutant to human is",
+    "options": {
+      "A": "sulphur (IV) oxide",
+      "B": "carbon (IV) oxide",
+      "C": "nitrogen (II) oxide",
+      "D": "hydrogen sulphide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "While both SO\\(_2\\) and H\\(_2\\)S are dangerous pollutants, H\\(_2\\)S (hydrogen sulphide) is generally considered more dangerous to humans, especially at high concentrations, due to its rapid and potentially lethal effects on the respiratory system and central nervous system.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2976",
+    "passage": ""
   }
 ]
