@@ -12313,5 +12313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64331",
     "passage": ""
+  },
+  {
+    "id": 64332,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which can be the input and output devices both?",
+    "options": {
+      "A": "Scanner",
+      "B": "Touch screen monitor",
+      "C": "Speaker",
+      "D": "Digitizer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A touch screen monitor can be used to input data into the computer system and can also be used to receive output information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64332",
+    "passage": ""
   }
 ]
