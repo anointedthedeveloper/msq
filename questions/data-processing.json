@@ -2827,5 +2827,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58387",
     "passage": ""
+  },
+  {
+    "id": 58389,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In hexadecimal system, D is equivalent to",
+    "options": {
+      "A": "15",
+      "B": "14",
+      "C": "13",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58389",
+    "passage": ""
   }
 ]
