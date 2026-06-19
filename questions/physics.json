@@ -12246,5 +12246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14514",
     "passage": ""
+  },
+  {
+    "id": 14516,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kwh is sold at N40, the cost of keeping the bulb lighted for a day is?",
+    "options": {
+      "A": "N1,920.00",
+      "B": "N192.00",
+      "C": "N19.20",
+      "D": "N1.92"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17734599181_phy201038.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891149/myschool/physics/17734599181_phy201038.jpg",
+    "correct_answer": "B",
+    "explanation": "Energy consumed = power x time = 200W x 24hr = 4800wh = 4.8 kwh But 1 kwh cost N40 ∴ 4.8kwh costs 4.8 x 40 = N192\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14516",
+    "passage": ""
   }
 ]
