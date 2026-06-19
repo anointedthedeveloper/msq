@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64146",
     "passage": ""
+  },
+  {
+    "id": 64149,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A goal is scored by handball only when the ball.",
+    "options": {
+      "A": "Crosses the goal line in-between the upright and crossbar",
+      "B": "Goes out of play by the side line or goal line",
+      "C": "Hits any of the crossbar of the upright and bounces back",
+      "D": "Is to be thrown from the 9 metres mark of the court"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A goal is scored in hand ball when the ball crosses the goal line in-between the upright and the crossbar. That is, the whole of the ball passes between the goalposts and travels fully over the goal line.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64149",
+    "passage": ""
   }
 ]
