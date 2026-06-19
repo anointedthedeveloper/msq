@@ -4366,5 +4366,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8200",
     "passage": ""
+  },
+  {
+    "id": 8201,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Given that the first and forth terms of G.P are 6 and 162 respectively, find the sum of the first three terms of the progression",
+    "options": {
+      "A": "27",
+      "B": "8",
+      "C": "78",
+      "D": "48"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To find the sum of the first three terms of a geometric progression (G.P.) where the first term \\( a \\) and the fourth term \\( ar^3 \\) are given, we set up the following equations:\nGiven: - \\( a = 6 \\) - \\( ar^3 = 162 \\)\nFind the common ratio \\( r \\)\nFrom the equation for the fourth term:\n\\(ar^3\\) = 162\nSubstituting \\( a \\):\n\\(6r^3\\) = 162\nDividing both sides by 6:\n\\(r^3 = \\frac{162}{6}\\) = 27\nTaking the cube root:\nr = \\(\\sqrt[3]{27}\\) = 3\nFind the first three terms\nThe first three terms of the G.P. are: - First term: \\( a = 6 \\) - Second term: \\( ar = 6 \\cdot 3 = 18 \\) - Third term: \\( ar^2 = 6 \\cdot 3^2 = 6 \\cdot 9 = 54 \\)\nCalculate the sum of the first three terms\nThe sum \\( S \\) of the first three terms is:\nS = a + ar + ar\\(^2\\) = 6 + 18 + 54\nCalculating this:\nS = 6 + 18 + 54 = 78\nThe sum of the first three terms of the progression is \\( \\boxed{78} \\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8201",
+    "passage": ""
   }
 ]
