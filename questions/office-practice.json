@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66098",
     "passage": ""
+  },
+  {
+    "id": 66101,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The correspondence conveying the same information to different organization is/are",
+    "options": {
+      "A": "business letter",
+      "B": "memorandum",
+      "C": "minutes",
+      "D": "circulars"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Circulars is correspondence conveying the same information to different organisation. It is an official letter that is sent to a large number of people at the same time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66101",
+    "passage": ""
   }
 ]
