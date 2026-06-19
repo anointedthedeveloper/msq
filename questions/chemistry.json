@@ -7369,5 +7369,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3092",
     "passage": ""
+  },
+  {
+    "id": 3100,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The pressure of 100cm\\(^3\\) of oxygen at 35\\(^0\\)C is 750mmHg. What will be the volume of gas if the pressure is reduced to 100mmHg without changing the temperature?",
+    "options": {
+      "A": "650 cm 3",
+      "B": "850 cm 3",
+      "C": "580 cm 3",
+      "D": "750 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Given:\nV\\(_1\\) = 100 cm\\(^3\\)    T\\(_1\\) = 35\\(^0\\)C + 273 = 308K      P\\(_1\\) = 750 mmHg\nV\\(_2\\) = ?                     T\\(_2\\) = 35\\(^0\\)C + 273 = 308K        P\\(_2\\) = 100 mmHg\nAccording to Boyle's law, the volume of a given mass of gas is inversely proportional to pressure, provided temperature remains constant.\nSince temperature remains unchanged, it means T\\(_1\\) = T\\(_2\\), invariably meaning that temperature remains constant.\nSo, applying Boyle's law,  P\\(_1\\) V\\(_1\\) = P\\(_2\\)V\\(_2\\) ( At constant temperature)\nV\\(_2\\) = \\(\\frac{{P_1}{V_1}}{P_2}\\)\nV\\(_2\\) = \\(\\frac{{750}\\times{100}}{100}\\)\nV\\(_2\\) = 750cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3100",
+    "passage": ""
   }
 ]
