@@ -1511,5 +1511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/986",
     "passage": ""
+  },
+  {
+    "id": 987,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The fees collected by local governments at motor parks represents",
+    "options": {
+      "A": "levies",
+      "B": "fines",
+      "C": "income tax",
+      "D": "user charge"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/987",
+    "passage": ""
   }
 ]
