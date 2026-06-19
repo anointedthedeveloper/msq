@@ -3144,5 +3144,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61842",
     "passage": ""
+  },
+  {
+    "id": 61843,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The common name for all input and output devices is?",
+    "options": {
+      "A": "keyboard",
+      "B": "peripheral",
+      "C": "printer",
+      "D": "storage medium",
+      "E": "system unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61843",
+    "passage": ""
   }
 ]
