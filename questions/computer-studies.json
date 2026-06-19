@@ -3430,5 +3430,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61855",
     "passage": ""
+  },
+  {
+    "id": 61856,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of these registered jacks is used in terminating phone lines?",
+    "options": {
+      "A": "RJ 11",
+      "B": "RJ 14",
+      "C": "RJ 25",
+      "D": "RJ 35",
+      "E": "RJ 45"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The RJ11 is the most common phone jack that is in use today. RJ11 connectors are used to terminate phone lines and are typically deployed with single-line POTS (Plain Old Telephone Service) telephone jacks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61856",
+    "passage": ""
   }
 ]
