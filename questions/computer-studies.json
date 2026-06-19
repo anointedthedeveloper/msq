@@ -15696,5 +15696,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67783",
     "passage": ""
+  },
+  {
+    "id": 67784,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of these criteria is not important while classifying files ?",
+    "options": {
+      "A": "Organization method",
+      "B": "Nature of content in the file",
+      "C": "Size of the file",
+      "D": "Storage medium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "While classifying files, the storage medium is not a criterion. The classification of files is based on the nature of the content in the file, the organization method, and the size of the file. The storage medium is where the file is stored, which does not affect the classification of the file.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67784",
+    "passage": ""
   }
 ]
