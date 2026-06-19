@@ -5311,5 +5311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12888",
     "passage": ""
+  },
+  {
+    "id": 12889,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If the angle between two vectors P and Q is Oº, the vectors are said to",
+    "options": {
+      "A": "intersect at the angle 45 o",
+      "B": "intersect at the angle 60 o",
+      "C": "be parallel",
+      "D": "be perpendicular"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If the angle between two vectors P and Q is 0°, they point in the same direction and are parallel (in the same sense).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12889",
+    "passage": ""
   }
 ]
