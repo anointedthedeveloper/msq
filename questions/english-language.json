@@ -3319,5 +3319,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1939",
     "passage": ""
+  },
+  {
+    "id": 1940,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options\nOlukayode .... as a mechanic when he was young, but now he is a driver",
+    "options": {
+      "A": "had been working",
+      "B": "used to work",
+      "C": "would work",
+      "D": "would have worked",
+      "E": "had worked"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1940",
+    "passage": ""
   }
 ]
