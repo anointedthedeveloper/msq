@@ -4932,5 +4932,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70832",
     "passage": ""
+  },
+  {
+    "id": 70833,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which muscle is known for its role in the movement of the jaw and chewing?",
+    "options": {
+      "A": "Sternocleidomastoid",
+      "B": "Buccinator",
+      "C": "Temporalis",
+      "D": "Masseter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The masseter muscle is crucial for chewing and moving the jaw.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70833",
+    "passage": ""
   }
 ]
