@@ -11935,5 +11935,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64313",
     "passage": ""
+  },
+  {
+    "id": 64314,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the full form of TCP?",
+    "options": {
+      "A": "Transmission Control Protocol",
+      "B": "Transmission Communication Protocol",
+      "C": "Transformation Control Protocol",
+      "D": "Transmission Central Pass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "TCP means Transmission Control Protocol.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64314",
+    "passage": ""
   }
 ]
