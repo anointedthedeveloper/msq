@@ -1483,5 +1483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/968",
     "passage": ""
+  },
+  {
+    "id": 969,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The most important gold mining town in Africa is",
+    "options": {
+      "A": "Ilesa",
+      "B": "Obuasi",
+      "C": "Johannesburg",
+      "D": "Bouake"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/969",
+    "passage": ""
   }
 ]
