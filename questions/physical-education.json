@@ -2455,5 +2455,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68265",
     "passage": ""
+  },
+  {
+    "id": 68266,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not an official in a gymnastic game ?",
+    "options": {
+      "A": "Referee",
+      "B": "lines men",
+      "C": "Judges",
+      "D": "Time keepers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a gymnastic game, there are officials such as the referee, judges, and timekeepers. However, there are no linesmen in gymnastics. Linesmen are typically found in sports like football where they help the referee decide on matters occurring near the touchline.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68266",
+    "passage": ""
   }
 ]
