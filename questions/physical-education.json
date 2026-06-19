@@ -1783,5 +1783,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64457",
     "passage": ""
+  },
+  {
+    "id": 64458,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are aspects of leisure activities except",
+    "options": {
+      "A": "Fishing",
+      "B": "Gardening",
+      "C": "Playing",
+      "D": "Wrestling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Wrestling is not an aspect of leisure activities. Leisure activities are usually less stressful and do not inflict injury, also, they are done voluntarily. They are activities that are carried out during free time",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64458",
+    "passage": ""
   }
 ]
