@@ -10816,5 +10816,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14387",
     "passage": ""
+  },
+  {
+    "id": 14388,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Three cells each of e.m.f 1.5 V and internal resistance 2.5Ω are connected as shown in the diagram above. Find the net e.m.f and the internal resistance",
+    "options": {
+      "A": "1.5V, 7.50Ω",
+      "B": "1,5V, 0.83Ω",
+      "C": "4.5V, 7.50Ω",
+      "D": "4.5V, 0.83Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6819048110_phy200734.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890747/myschool/physics/6819048110_phy200734.jpg",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14388",
+    "passage": ""
   }
 ]
