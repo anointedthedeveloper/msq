@@ -9049,5 +9049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14210",
     "passage": ""
+  },
+  {
+    "id": 14213,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Calculate the position of an object placed in front of a convex mirror having focal length of 12 cm such that an image is formed 6 cm away from the mirror",
+    "options": {
+      "A": "4. 0 cm",
+      "B": "3. 0 cm",
+      "C": "12.0 cm",
+      "D": "9.0 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14213",
+    "passage": ""
   }
 ]
