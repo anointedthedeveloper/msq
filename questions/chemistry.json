@@ -3315,5 +3315,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1702",
     "passage": ""
+  },
+  {
+    "id": 1714,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "2SO\\(_2\\)(g) + O\\(_2\\)(g) ↔ 2SO\\(_3\\)(g) ΔH = -189 kJ mol-1 The equilibrium constant for the reaction above is increased by?",
+    "options": {
+      "A": "decreasing the temperature of the system",
+      "B": "decrease the pressure of the system",
+      "C": "The addition of a catalyst to the system",
+      "D": "Increasing the surface area of the vessel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Decrease in temperature favors in Equilibrium Constant[k] for this exothermic reaction.\nThe only factor that can affect an equilibrium constant is temperature:\nEndothermic reactions Increasing the temperature increases the equilibrium constant, and decreasing the temperature decreases it. Exothermic reactions Increasing the temperature decreases the equilibrium constant, and decreasing the temperature increases it. - Option A\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1714",
+    "passage": ""
   }
 ]
