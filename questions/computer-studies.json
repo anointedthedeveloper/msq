@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60252",
     "passage": ""
+  },
+  {
+    "id": 60253,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The Use of electronic systems to send an unsolicited e-mail to someone's address is known as ______",
+    "options": {
+      "A": "Hacking",
+      "B": "Spamming",
+      "C": "Internet fraud",
+      "D": "Piracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Spamming is the use of electronic messaging systems like e-mails and other digital delivery systems and broadcast media to send unwanted bulk messages indiscriminately.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60253",
+    "passage": ""
   }
 ]
