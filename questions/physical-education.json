@@ -4072,5 +4072,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70729",
     "passage": ""
+  },
+  {
+    "id": 70730,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which physical fitness component is directly associated with body fat reduction?",
+    "options": {
+      "A": "Balance",
+      "B": "Cardiovascular endurance",
+      "C": "Muscular endurance",
+      "D": "Flexibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cardiovascular endurance activities like running, swimming, and cycling help burn calories and increase metabolism, leading to fat loss.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70730",
+    "passage": ""
   }
 ]
