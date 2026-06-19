@@ -3883,5 +3883,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12258",
     "passage": ""
+  },
+  {
+    "id": 12259,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A transistor is used in the amplification of signals because it",
+    "options": {
+      "A": "controls the flow of current",
+      "B": "consumes a lot of power",
+      "C": "allows doping",
+      "D": "contains electron and hole carriers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12259",
+    "passage": ""
   }
 ]
