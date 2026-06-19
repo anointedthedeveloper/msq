@@ -3562,5 +3562,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58458",
     "passage": ""
+  },
+  {
+    "id": 58459,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The file organisation method which allows records to be accessed in any sequence is",
+    "options": {
+      "A": "Index",
+      "B": "random",
+      "C": "sequential",
+      "D": "serial"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58459",
+    "passage": ""
   }
 ]
