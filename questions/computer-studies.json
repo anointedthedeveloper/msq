@@ -18285,5 +18285,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70957",
     "passage": ""
+  },
+  {
+    "id": 70960,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is a flowchart?",
+    "options": {
+      "A": "A visual representation of an algorithm, using geometric shapes and symbols to depict the flow of logic.",
+      "B": "A collection of data tables used to organize and analyze information.",
+      "C": "A written explanation of the thought process behind solving a problem, without a visual representation.",
+      "D": "A complex code snippet written in a specific programming language."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A flowchart is a visual tool that translates the steps of an algorithm into an easy-to-understand diagram. It uses shapes like rectangles, diamonds, and arrows to represent processes, decision points, and the flow of logic within the algorithm.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70960",
+    "passage": ""
   }
 ]
