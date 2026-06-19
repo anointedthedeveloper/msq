@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/49999",
     "passage": "Use the dialogue below to answer the following question. Ade: Uche, are you not going to work today? Uche: i will go, but by public transport. Ade: why? Uche: One of the side mirrors of my car is broken and also, the car emits excessive smoke."
+  },
+  {
+    "id": 50003,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following is not a skill for settling inter-communal conflict?",
+    "options": {
+      "A": "war",
+      "B": "dialogue",
+      "C": "mediation",
+      "D": "arbitration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "war cannot be used to settle inter-communal dispute. It will rather cause destruction on the communities involved which will lead to huge damage and loss of lives and properties. War should always be avoided when there is crisis in a region because, there are no winners in a war.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50003",
+    "passage": ""
   }
 ]
