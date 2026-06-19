@@ -4960,5 +4960,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75869",
     "passage": ""
+  },
+  {
+    "id": 75870,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Nous avons __voiture rouge.",
+    "options": {
+      "A": "des",
+      "B": "un",
+      "C": "le",
+      "D": "une"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The word \"voiture\" is feminine, so the article \"une\" fits.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75870",
+    "passage": ""
   }
 ]
