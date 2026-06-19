@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50195",
     "passage": ""
+  },
+  {
+    "id": 50199,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha}\\)",
+    "options": {
+      "A": "\\(\\frac{-9}{8}\\)",
+      "B": "\\(\\frac{-7}{8}\\)",
+      "C": "\\(\\frac{7}{8}\\)",
+      "D": "\\(\\frac{9}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\alpha^{2} + \\beta^{2}}{\\alpha\\beta}\\)\n\\(\\alpha + \\beta = \\frac{-b}{a}\\); \\(\\alpha\\beta = \\frac{c}{a}\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\alpha + \\beta)^{2} - 2(\\alpha\\beta)\\)\nFrom the equation, a = 2, b = -3, c =4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)\n\\(\\alpha\\beta = \\frac{4}{2} = 2\\)\n\\(\\alpha^{2} + \\beta^{2} = (\\frac{3}{2})^{2} - 2(2)) = \\frac{9}{4} - 4 = \\frac{-7}{4}\\)\n\\(\\implies \\frac{\\alpha}{\\beta} + \\frac{\\beta}{\\alpha} = \\frac{\\frac{-7}{4}}{2} = \\frac{-7}{8}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50199",
+    "passage": ""
   }
 ]
