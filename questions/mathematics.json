@@ -8860,5 +8860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9326",
     "passage": ""
+  },
+  {
+    "id": 9327,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A regular polygon has 150º as the size of each interior angle. How many sides does it have?",
+    "options": {
+      "A": "12",
+      "B": "10",
+      "C": "9",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sum of interior angles of a polygon = each interior ∠ x n (n-2)180 = 150 x n 180n - 360 = 150n 180n-150n = 360 30n = 360 n = 360/30 n = 12 sides\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9327",
+    "passage": ""
   }
 ]
