@@ -306,5 +306,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/322",
     "passage": ""
+  },
+  {
+    "id": 323,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In the life history of schistosoma (Bilharzia), one of the following is intermediate host",
+    "options": {
+      "A": "man",
+      "B": "snail",
+      "C": "mosquito larva",
+      "D": "crayfish",
+      "E": "fish"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Bhilharzia is another name for snail fever, which attacks primarily the snail's urinary tract.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/323",
+    "passage": ""
+  },
+  {
+    "id": 324,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In which of the following groups of organisms do all the members have asexual method of reproduction?",
+    "options": {
+      "A": "A geen filament algae, a flowering plant and a bird",
+      "B": "A toad (or frog) , ameoba and mucor ( penicillium)",
+      "C": "A flowering plant, tape worm (or ascaris) and a green filamentous algae",
+      "D": "Mucor (or penicillium), a bird and a toad (or frog)",
+      "E": "Ameoba, mucor (or penicillium ) and a green filamentous algae"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Amoeba reproduces by binary fission which is a form of asexual reproduction. Also, the mucor as well as the green algae reproduce asexually .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/324",
+    "passage": ""
+  },
+  {
+    "id": 326,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The hormone which tones up the muscles of a person in time of danger is from the",
+    "options": {
+      "A": "thyroid gland",
+      "B": "pancreas",
+      "C": "adrenal gland",
+      "D": "liver",
+      "E": "spleen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The adrenalin is a hormone which is released in times of danger. It is produced in the adrenal gland.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/326",
+    "passage": ""
+  },
+  {
+    "id": 328,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The study of organism and the environment of an abandoned farmland is the ecology of?",
+    "options": {
+      "A": "a community",
+      "B": "a population",
+      "C": "a specie",
+      "D": "a habitat",
+      "E": "an ecosystem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The ecology of ecosystem has to do with the study of every factor living (biotic) and non- living (abiotic), which affects the population.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/328",
+    "passage": ""
   }
 ]

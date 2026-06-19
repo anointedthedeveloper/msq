@@ -350,5 +350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/418",
     "passage": ""
+  },
+  {
+    "id": 419,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An image in poetry usually gives a clue to one of the following:",
+    "options": {
+      "A": "rhyme",
+      "B": "assonance",
+      "C": "paradox",
+      "D": "theme",
+      "E": "refrain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An image in poetry refers to descriptive language that appeals to the senses —sight, sound, touch, taste, or smell. It helps readers visualise scenes, emotions, or ideas , and often provides insight into the underlying message or theme of the poem.\nPoets use imagery to illustrate or reinforce central ideas . For example, images of decay might reflect themes of death or impermanence; images of light might suggest hope or truth. Thus, when analysing a poem, examining the imagery often reveals the theme the poet is exploring.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/419",
+    "passage": ""
   }
 ]
