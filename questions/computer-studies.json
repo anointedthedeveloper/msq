@@ -4373,5 +4373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62275",
     "passage": ""
+  },
+  {
+    "id": 62276,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In word processing, an efficient way to move the second paragraph and place it after the fourth paragraph is?",
+    "options": {
+      "A": "copy and paste.",
+      "B": "copy, cut and paste.",
+      "C": "cut and paste.",
+      "D": "cut, copy and paste."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62276",
+    "passage": ""
   }
 ]
