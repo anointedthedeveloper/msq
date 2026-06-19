@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73567",
     "passage": ""
+  },
+  {
+    "id": 73569,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. How do you greet somebody who is returning from a journey in Igbo?",
+    "options": {
+      "A": "Ndewo",
+      "B": "Ndọ",
+      "C": "Daalụ",
+      "D": "Ịjẹ ọma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is Ndewo. \"Ndewo\" is a common greeting in Igbo, used to welcome someone who has returned from a journey. It roughly translates to \"Welcome back\" or \"You have returned well\". Nnọọ means hell Ndọ means sorry. Ịjẹ ọma means safe journey. Daalụ means goodbye or well done.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73569",
+    "passage": ""
   }
 ]
