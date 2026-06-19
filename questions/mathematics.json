@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/18",
     "passage": ""
+  },
+  {
+    "id": 19,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A binary operation * is defined by a*b = ab+a+b for any real number a and b. if the identity element is zero, find the inverse of 2 under this operation.",
+    "options": {
+      "A": "2/3",
+      "B": "1/2",
+      "C": "-1/2",
+      "D": "-2/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(a*a^{-1} = aa^{-1} + a + a^{-1} = e\\) if e = 0 \\(2.2^{-1} + 2 + 2^{-1} = 0\\)\ncollecting like terms, we have: \\(3.2^{-1} + 2 = 0\\) = \\(2^{-1}\\) = -\\(\\frac{2}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/19",
+    "passage": ""
   }
 ]
