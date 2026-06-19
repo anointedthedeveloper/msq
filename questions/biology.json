@@ -944,5 +944,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/379",
     "passage": ""
+  },
+  {
+    "id": 380,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "An organism which lives on the remain of dead plant is",
+    "options": {
+      "A": "An endoparasite",
+      "B": "Saprophyte",
+      "C": "Commensal",
+      "D": "Symbiont",
+      "E": "ectoparasite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/380",
+    "passage": ""
   }
 ]
