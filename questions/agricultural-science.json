@@ -1098,5 +1098,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15882",
     "passage": ""
+  },
+  {
+    "id": 15883,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In which of the following ways can fish be processed and preserved?",
+    "options": {
+      "A": "salting and smoking",
+      "B": "salting and fermentation",
+      "C": "smoking and fermentation",
+      "D": "smoking and pasteurization",
+      "E": "pasteurization and salting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15883",
+    "passage": ""
   }
 ]
