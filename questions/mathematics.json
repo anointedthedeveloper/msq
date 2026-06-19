@@ -15230,5 +15230,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23164",
     "passage": ""
+  },
+  {
+    "id": 23165,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A regular polygon has each of its exterior angles as 18\no\n. How many sides has the polygon",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "12",
+      "D": "20",
+      "E": "24"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "360\n18",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23165",
+    "passage": ""
   }
 ]
