@@ -2371,5 +2371,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3338",
     "passage": ""
+  },
+  {
+    "id": 3341,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A circle with radius 5cm has its radius increasing at the rate of 0.2m/s. What will be the corresponding increase in the area?",
+    "options": {
+      "A": "2π",
+      "B": "5π",
+      "C": "π",
+      "D": "4π"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Area of the circle (A) = \\(\\pi r^{2}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)\n\\(r = 5cm\\); \\(\\frac{\\mathrm d r}{\\mathrm d t} = 0.2\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = \\frac{\\mathrm d A}{\\mathrm d r} . \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = 2\\pi \\times 5 \\times 0.2 = 2\\pi\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3341",
+    "passage": ""
   }
 ]
