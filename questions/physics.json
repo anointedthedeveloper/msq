@@ -16372,5 +16372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24276",
     "passage": ""
+  },
+  {
+    "id": 24277,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "How far from a cliff should a boy stand in order to hear the echo of his clap 0.9s later? (Speed of sound in air = 330 ms\n-1\n)",
+    "options": {
+      "A": "36.67m",
+      "B": "74.25m",
+      "C": "148.50m",
+      "D": "297.00",
+      "E": "366.67m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24277",
+    "passage": ""
   }
 ]
