@@ -12145,5 +12145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64323",
     "passage": ""
+  },
+  {
+    "id": 64324,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In Boolean algebra, the bar sign (-) indicates ....................",
+    "options": {
+      "A": "OR operation",
+      "B": "AND operation",
+      "C": "NOT operation",
+      "D": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In modern Boolean algebra, we use the plus (+) symbol to mean OR, the dot (•) symbol to mean AND, and a bar above a variable to mean NOT.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64324",
+    "passage": ""
   }
 ]
