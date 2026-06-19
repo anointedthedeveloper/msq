@@ -11063,5 +11063,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4412",
     "passage": ""
+  },
+  {
+    "id": 4413,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most appropriately completes the sentence : Each of the contestants .... a chance to win",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "get",
+      "D": "gets",
+      "E": "take"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The subject of the sentence, \"Each of the contestants,\" is singular. Even though \"contestants\" is plural, the phrase \"Each of\" makes the subject singular.\nSingular subjects take singular verbs, and the singular form of \"have\" is \"has.\"\nThus, the correct sentence is: \"Each of the contestants has a chance to win.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4413",
+    "passage": ""
+  },
+  {
+    "id": 4414,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most\nappropriately\ncompletes the sentence\n:\nI gave the book to the library attendant ... I think works in the evenings",
+    "options": {
+      "A": "whom",
+      "B": "whose",
+      "C": "which",
+      "D": "who",
+      "E": "of whom"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4414",
+    "passage": ""
+  },
+  {
+    "id": 4415,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most\nappropriately\ncompletes the sentence\n:\nThe politicians are responsible for the .... events have taken in this country",
+    "options": {
+      "A": "course",
+      "B": "curse",
+      "C": "coarse",
+      "D": "cause",
+      "E": "corse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4415",
+    "passage": ""
   }
 ]
