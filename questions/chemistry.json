@@ -10645,5 +10645,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4283",
     "passage": ""
+  },
+  {
+    "id": 4286,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following is a physical change?",
+    "options": {
+      "A": "Freezing ice cream",
+      "B": "dissolving calcium in water",
+      "C": "burning kerosene",
+      "D": "Exposing white phosphorus to air"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Freezing is a physical change. It involves a liquid changing states to a solid. Thus, freezing a substance will not change its chemical identity, but its state.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4286",
+    "passage": ""
   }
 ]
