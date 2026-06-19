@@ -1446,5 +1446,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49781",
     "passage": ""
+  },
+  {
+    "id": 49782,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The document that is legally required to be issued by insurers in respect of compulsory insurance is",
+    "options": {
+      "A": "cover note",
+      "B": "endorsement",
+      "C": "certificate",
+      "D": "renewal note"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A cover note is a temporary document issued by an insurance company that provides proof of insurance coverage until a final insurance policy can be issued.\nAn insurance endorsement is an amendment or addition to an existing insurance contract which changes the terms or scope of the original policy. Endorsements may also be referred to as riders. An insurance endorsement may be used to add, delete, exclude or otherwise alter coverage.\nA certificate of insurance (COI) is issued by an insurance company or broke. The COI verifies the existence of an insurance policy and summarizes the key aspects and conditions of the policy.\nRenewal note; a note sent by an insurance company asking the insured person to renew the insurance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49782",
+    "passage": ""
   }
 ]
