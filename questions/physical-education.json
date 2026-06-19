@@ -5877,5 +5877,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76391",
     "passage": ""
+  },
+  {
+    "id": 76392,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In the discus throw, what is a key element of the athlete's technique?",
+    "options": {
+      "A": "Jumping over a barrier and then throwing the discus.",
+      "B": "Throwing the discus from a stationary position without any rotation.",
+      "C": "Using a spinning motion to build angular momentum before the release.",
+      "D": "Running a long approach and then throwing the discus like a javelin."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The discus throw is a complex field event where the athlete aims to throw a heavy disc-shaped implement as far as possible. A critical element of discus technique is the use of a spinning motion to generate angular momentum before releasing the discus. The athlete begins inside a throwing circle and performs one and a half rapid rotations (or spins) while maintaining balance and control. This rotational movement helps to build up angular velocity, which translates into the kinetic energy transferred to the discus at release. The spinning motion maximizes the amount of force the athlete can apply to the discus, resulting in greater release speed and thus longer throws. It requires a high degree of coordination, balance, and timing to execute effectivelys Athletes also use the spin to optimize the discus's angle of release, which affects aerodynamics and flight distancee",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76392",
+    "passage": ""
   }
 ]
