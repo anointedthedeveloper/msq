@@ -6088,5 +6088,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8833",
     "passage": ""
+  },
+  {
+    "id": 8834,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If tan θ =\n5\n/\n4\n, find sin\n2\nθ - cos\n2\nθ.",
+    "options": {
+      "A": "5 / 4",
+      "B": "41 / 9",
+      "C": "9 / 41",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8834",
+    "passage": ""
   }
 ]
