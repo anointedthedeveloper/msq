@@ -7926,5 +7926,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63722",
     "passage": ""
+  },
+  {
+    "id": 63723,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Sierra Leone owes its name to the 15th century",
+    "options": {
+      "A": "British",
+      "B": "France",
+      "C": "Portuguese",
+      "D": "Spanish"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Portuguese gave the name Sierra Leone (Lion Mountains) to the current Sierra Leone.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63723",
+    "passage": ""
   }
 ]
