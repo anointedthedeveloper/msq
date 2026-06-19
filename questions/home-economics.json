@@ -2077,5 +2077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73271",
     "passage": ""
+  },
+  {
+    "id": 73273,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A place where artworks are displayed and sold is a",
+    "options": {
+      "A": "Gallery",
+      "B": "Museum",
+      "C": "Studio",
+      "D": "Workshop"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A gallery is a space, physical or online, where artworks are displayed and sold. It showcases paintings, sculptures, photos, and more, often representing artists and earning commissions from sales. Galleries support artists and help audiences discover new art.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73273",
+    "passage": ""
   }
 ]
