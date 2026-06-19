@@ -4442,5 +4442,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2288",
     "passage": ""
+  },
+  {
+    "id": 2289,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The maize grain is regarded as a fruit and not a seed because",
+    "options": {
+      "A": "it has a coleorhiza",
+      "B": "it has a coleoptile",
+      "C": "of the relatively large endosperm",
+      "D": "there is the remain of a style",
+      "E": "of the relatively small scutellum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A maize grain is considered a fruit because it's a ripened ovary that contains a ripened ovule, or seed, as the remains of the style.\nThe coleorhiza is a protective layer of tissue that surrounds the radicle in monocotyledon seeds, like maize. During germination, the coleorhiza is the first part to grow out of the seed. It then remains like a collar around the root base.\nA coleoptile is a pointed, cylindrical sheath that protects the first leaf and shoot of a monocotyledon plant as it grows from a seed.\nThe scutellum is a shield-shaped, modified cotyledon in a maize seed that absorbs nutrients from the endosperm and provides them to the embryo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2289",
+    "passage": ""
   }
 ]
