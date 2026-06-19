@@ -7424,5 +7424,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75988",
     "passage": ""
+  },
+  {
+    "id": 75990,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Su_______zuwa kasuwa.\" Wace kalma ta dace?",
+    "options": {
+      "A": "ke",
+      "B": "ka",
+      "C": "kan",
+      "D": "na"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Kan is used for habitual actions - \"They usually go to the market.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75990",
+    "passage": ""
   }
 ]
