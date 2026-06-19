@@ -11704,5 +11704,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64135",
     "passage": ""
+  },
+  {
+    "id": 64136,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A display listing of program options which users can select is called?",
+    "options": {
+      "A": "icons",
+      "B": "options",
+      "C": "selection",
+      "D": "menu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The menu consists of various programs users use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64136",
+    "passage": ""
   }
 ]
