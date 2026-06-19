@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64254",
     "passage": ""
+  },
+  {
+    "id": 64256,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a preventive measure for postural defect?",
+    "options": {
+      "A": "Adequate exercise",
+      "B": "Balanced diet",
+      "C": "Good habit formation",
+      "D": "Self-medication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Self-medication is not a preventive measure for postural defect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64256",
+    "passage": ""
   }
 ]
