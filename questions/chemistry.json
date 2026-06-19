@@ -11275,5 +11275,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4328",
     "passage": ""
+  },
+  {
+    "id": 4329,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The gasification of coke is used for the manufacturing of?",
+    "options": {
+      "A": "producer gas",
+      "B": "natural gas",
+      "C": "synthetic gas",
+      "D": "industrial gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Producer gas TgQPHd|[] is manufactured by the partial combustion or gasification of coke (or coal) in a furnace where a limited supply of air and steam is passed through a red-hot bed of coke. This process yields a gaseous fuel consisting primarily of carbon monoxide (CO), hydrogen (H\\(_2\\)), and a high concentration of nitrogen (N\\(_2\\)) from the injected air.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4329",
+    "passage": ""
   }
 ]
