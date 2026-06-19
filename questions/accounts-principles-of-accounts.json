@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/224",
     "passage": ""
+  },
+  {
+    "id": 225,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The suspense account is used to correct book-keeping error where the",
+    "options": {
+      "A": "amount involved is quite significant",
+      "B": "item involved is not material",
+      "C": "item involved is unknown",
+      "D": "error does not affect the agreement of the trial balance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Suspense accounts are used when your trial balance is out of balance or when you have an unidentified transaction. The suspense account is a general ledger account that acts as a holding account until the error is discovered or the unknown transaction is identified.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/225",
+    "passage": ""
   }
 ]
