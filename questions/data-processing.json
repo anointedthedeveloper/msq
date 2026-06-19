@@ -1144,5 +1144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57710",
     "passage": ""
+  },
+  {
+    "id": 57711,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The television set deisplays information as",
+    "options": {
+      "A": "antenna signals",
+      "B": "visual signal",
+      "C": "audio signals",
+      "D": "audio-visual signals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The television set displays signals that we can see and also hear hence option D.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57711",
+    "passage": ""
   }
 ]
