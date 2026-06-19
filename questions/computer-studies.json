@@ -18726,5 +18726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71002",
     "passage": ""
+  },
+  {
+    "id": 71004,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which type of computer would a small business most likely use for everyday tasks?",
+    "options": {
+      "A": "Minicomputers",
+      "B": "Mainframe computers",
+      "C": "Microcomputers",
+      "D": "Supercomputers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Small businesses typically use microcomputers for everyday tasks such as word processing accounting and internet access.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71004",
+    "passage": ""
   }
 ]
