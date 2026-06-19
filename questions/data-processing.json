@@ -854,5 +854,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57478",
     "passage": ""
+  },
+  {
+    "id": 57533,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "(a) Define the following\n(i) Database\n(ii) Database management system\n(b) Mention three functions of a database management system.\n(c) Mention two ways through which data can be destroyed.\n(d) State three precautionary measure to prevent data loss.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "2 (a) Define;\n(i) Database; is a collection of information that is organized so that it can be easily accessed, managed and updated.\n(ii) Data management system ; simply refers to the collection of program that assist the user to input, organize, select, manipulate, store and extract data in a database.     OR  It is a computer program/software application that interacts with the user, other applications that interact with the user, other applications and database itself to       capture and analyze data.\n(b) Functions of Database;\n(I) Data Definition ; Database management system helps to modify the structure of the existing data, removes data structure from database as well as defining new data structure for a database.\n(II) Update ; Database management system helps in inserting, modifying and deleting data.\n(III) Retrieval ; It helps to obtain information for end-user queries and reports by applications.\n(IV) Data administration ; Database management system helps in registering and monitoring users, maintaining data security, recovering information if the system fails, dealing with concurring control as well as enforcing data security monitoring performance.\nDatabase also performs the following functions; (i) Organise your file to give you more control over your data. (ii) Creates data that assist the user (iii) Enables the user to edit his/her data (iv) Update data (v) Retrieve data\n(c) Ways through which data can be destroyed : (i) by erasing (ii) shredding (iii) by  overwriting data (iv) by deleting/formatting\n(d) Precautionary measures to prevent data loss;\n(i) By creating back-up files\n(ii)Updating anti-virus often\n(iii) Checking those who may have access to the system, through the use of password and access code.\n(iv) Ensuring that access to the computers are fully monitored.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57533",
+    "passage": ""
   }
 ]
