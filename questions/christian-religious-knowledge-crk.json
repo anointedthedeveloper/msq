@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/61",
     "passage": ""
+  },
+  {
+    "id": 66,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who accompanied Paul on his First Missionary journey?",
+    "options": {
+      "A": "Barnabas",
+      "B": "Lucius of Cyrene",
+      "C": "Manaen",
+      "D": "Peter",
+      "E": "Simeon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/66",
+    "passage": ""
   }
 ]
