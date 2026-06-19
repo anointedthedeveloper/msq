@@ -15736,5 +15736,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23187",
     "passage": ""
+  },
+  {
+    "id": 23188,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Simplify: \\(\\frac{3}{4} \\div 1\\frac{1}{4} \\times (1\\frac{1}{2} - \\frac{2}{3})\\)",
+    "options": {
+      "A": "7/30",
+      "B": "7/24",
+      "C": "9/25",
+      "D": "1 / 2",
+      "E": "18/25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{3}{4} \\div 1\\frac{1}{4} \\times (1\\frac{1}{2} - \\frac{2}{3})\\)\n\\(\\frac{3}{4} \\div \\frac{5}{4} \\times (\\frac{9 - 4}{6})\\)\n= \\(\\frac{3}{4} \\times \\frac{4}{5} \\times \\frac{5}{6}\\)\n= \\(\\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23188",
+    "passage": ""
   }
 ]
