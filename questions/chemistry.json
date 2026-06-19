@@ -12157,5 +12157,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4486",
     "passage": ""
+  },
+  {
+    "id": 4487,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In which of the following is the entropy change positive?",
+    "options": {
+      "A": "Thermal  dissociation of ammonium chloride",
+      "B": "Reaction between an acid and a base",
+      "C": "Addition of concentrated acid to water",
+      "D": "Dissolution of sodium metal in water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Thermal dissociation of ammonium chloride is an endothermic reaction as heat is absorbed for a positive entropy, with more products than reactants.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4487",
+    "passage": ""
   }
 ]
