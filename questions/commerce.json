@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/175",
     "passage": ""
+  },
+  {
+    "id": 176,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Governments impose import duties for the following reasons EXCEPT",
+    "options": {
+      "A": "to raise revenue for other services",
+      "B": "to act as a retaliatory measure against other governments",
+      "C": "to discourage the redistribution of income at home",
+      "D": "to protect home industries from external competition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Import duties are typically imposed to raise revenue, protect domestic industries, and sometimes as a retaliatory measure against other countries. However, discouraging income redistribution at home is not a primary objective of import duties.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/176",
+    "passage": ""
   }
 ]
