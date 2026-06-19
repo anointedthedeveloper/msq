@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57358",
     "passage": ""
+  },
+  {
+    "id": 57360,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a preventive maintenance measure?",
+    "options": {
+      "A": "Regular update of the operating system",
+      "B": "Proper shut down of the system",
+      "C": "use of uninterrupted power supply",
+      "D": "data recovery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57360",
+    "passage": ""
   }
 ]
