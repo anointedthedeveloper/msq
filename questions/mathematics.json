@@ -7747,5 +7747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9270",
     "passage": ""
+  },
+  {
+    "id": 9271,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If x - 3 is directly proportional to the square of y and x = 5 when y =2, find x when y = 6.",
+    "options": {
+      "A": "30",
+      "B": "21",
+      "C": "16",
+      "D": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "(x – 3) ∝ y2 X-3 = Ky2 K = X-3 / y2 = 5-2/22 = 2/4 = 1/2 ∴X-3 = 1/2y2 X-3 = 1/2 (6)2 X-3 = 1/2 x 36/1 X-3 = 18 X = 21\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9271",
+    "passage": ""
   }
 ]
