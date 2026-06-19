@@ -4436,5 +4436,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62278",
     "passage": ""
+  },
+  {
+    "id": 62279,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Data loss in a computer cannot be prevented by the use of?",
+    "options": {
+      "A": "antivirus.",
+      "B": "backup.",
+      "C": "flash drive.",
+      "D": "password."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Data loss is an incident where data is destroyed, deleted, corrupted, or made unreadable by users and software applications. this can be prevented through the following means:   antivirus and firewalls, system backup, etc. The use of a password cannot prevent data loss in a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62279",
+    "passage": ""
   }
 ]
