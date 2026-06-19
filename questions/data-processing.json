@@ -7516,5 +7516,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69771",
     "passage": ""
+  },
+  {
+    "id": 69772,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The following feature are found in the toolbox of CorelDraw application except",
+    "options": {
+      "A": "elipse tool",
+      "B": "text tool",
+      "C": "marque tool",
+      "D": "rectangle tool"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The feature that is not found in the toolbox of CorelDraw application is the marque tool. While CorelDraw does offer tools for creating and manipulating shapes like ellipses, rectangles, and text, it does not typically include a specific \"marque tool.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69772",
+    "passage": ""
   }
 ]
