@@ -9826,5 +9826,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4023",
     "passage": ""
+  },
+  {
+    "id": 4024,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The diagram above represent the electron sub-level for",
+    "options": {
+      "A": "carbon",
+      "B": "nitrogen",
+      "C": "oxygen",
+      "D": "flourine"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9464983332_chem08 9.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890443/myschool/chemistry/9464983332_chem08%209.png",
+    "correct_answer": "C",
+    "explanation": "The number of arrows indicates the number of electrons. Since the atomic number of oxygen is 8, the element is oxygen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4024",
+    "passage": ""
   }
 ]
