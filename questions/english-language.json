@@ -10425,5 +10425,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4213",
     "passage": ""
+  },
+  {
+    "id": 4214,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most\nappropriately\ncompletes the sentence\n:\nThe hotel .... is at Wurno Road.",
+    "options": {
+      "A": "which i am staying",
+      "B": "in where i am staying",
+      "C": "that i am staying",
+      "D": "at which i am staying",
+      "E": "i stay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4214",
+    "passage": ""
   }
 ]
