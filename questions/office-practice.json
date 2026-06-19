@@ -1923,5 +1923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66553",
     "passage": ""
+  },
+  {
+    "id": 66554,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A memo is used in an office for",
+    "options": {
+      "A": "internal communication",
+      "B": "oral communication",
+      "C": "external communication",
+      "D": "audio communication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Memorandum is a written message that may be used in a business office.It is used for internal communications regarding procedures or official business within an organization.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66554",
+    "passage": ""
   }
 ]
