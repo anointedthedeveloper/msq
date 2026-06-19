@@ -14724,5 +14724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23141",
     "passage": ""
+  },
+  {
+    "id": 23142,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Convert 77 to a number in base two",
+    "options": {
+      "A": "1001 101",
+      "B": "111001",
+      "C": "100110",
+      "D": "10101",
+      "E": "10011"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "ten\ntwo",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23142",
+    "passage": ""
   }
 ]
