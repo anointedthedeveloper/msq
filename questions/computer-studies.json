@@ -16809,5 +16809,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67861",
     "passage": ""
+  },
+  {
+    "id": 67862,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Translating the problem statement into a series of sequential steps describing what the program must do is known as",
+    "options": {
+      "A": "coding",
+      "B": "creating the algorithm",
+      "C": "debugging",
+      "D": "writing documentation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Algorithm design is the process of listing all the instructions which are to be performed by the computer at different stages.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67862",
+    "passage": ""
   }
 ]
