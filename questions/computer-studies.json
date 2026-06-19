@@ -13531,5 +13531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64406",
     "passage": ""
+  },
+  {
+    "id": 64407,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A half byte is known as ________.",
+    "options": {
+      "A": "data",
+      "B": "bit",
+      "C": "half byte",
+      "D": "nibble"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A nibble is a 4 bit aggression, or half an octet. It has 16 possible values, and can be represented by a single hexadecimal digit which are called hex digit",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64407",
+    "passage": ""
   }
 ]
