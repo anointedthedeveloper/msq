@@ -1955,5 +1955,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/640",
     "passage": ""
+  },
+  {
+    "id": 641,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentences:\nMany of those who .... the country's educational policy have taught for many years",
+    "options": {
+      "A": "develope",
+      "B": "fabricate",
+      "C": "organize",
+      "D": "scheme",
+      "E": "formulate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/641",
+    "passage": ""
   }
 ]
