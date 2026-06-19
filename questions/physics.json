@@ -3001,5 +3001,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11271",
     "passage": ""
+  },
+  {
+    "id": 11272,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the circuit above, The potential across each capacitor is 100V. The total energy stored in the two capacitors is",
+    "options": {
+      "A": "3.0 x 10 4 J",
+      "B": "3.0 x 10 2 J",
+      "C": "2.5 x 10 -2 J",
+      "D": "6.0 x 10 -3 J"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xc5AZvo7ogekTc3knCjdDqMmGIrVZN1j66Umnj5Q.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888615/myschool/physics/xc5AZvo7ogekTc3knCjdDqMmGIrVZN1j66Umnj5Q.png",
+    "correct_answer": "C",
+    "explanation": "Energy stored in a capacitor is given by E = \\(\\frac{1}{2}\\)CV\\(^2\\) But the effective capacitance for the parallel arrangement is given by C = C\\(_1\\) + C\\(_2\\) = 2 + 3 = 5μF = 5 x 10\\(^{-6}\\) x (100)\\(^2\\) ∴E = \\(\\frac{1}{2}\\)CV\\(^2\\) = \\(\\frac{1}{2}\\) x 5 x 10\\(^{-6}\\) x 10\\(^4\\) 2.9 x 10\\(^{-2}\\)J",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11272",
+    "passage": ""
   }
 ]
