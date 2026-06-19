@@ -2411,5 +2411,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49915",
     "passage": ""
+  },
+  {
+    "id": 49917,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The process of transfering a risk already taken by an insurer to other insurers is?",
+    "options": {
+      "A": "assurance",
+      "B": "re-investment",
+      "C": "reinsurance",
+      "D": "insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Reinsurance; The contract made between an insurance company and a third party to protect the insurance company from losses. Reinsurance is insurance that is purchased by an insurance company, in which some part of its own insurance liabilities is passed on to another insurance company.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49917",
+    "passage": ""
   }
 ]
