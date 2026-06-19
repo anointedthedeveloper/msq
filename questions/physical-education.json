@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64189",
     "passage": ""
+  },
+  {
+    "id": 64190,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a recommended sport wear?",
+    "options": {
+      "A": "Canvas and socks",
+      "B": "gowns",
+      "C": "shorts",
+      "D": "Track suits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Gown is not a recommended sport wear. (B)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64190",
+    "passage": ""
   }
 ]
