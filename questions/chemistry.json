@@ -3168,5 +3168,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1673",
     "passage": ""
+  },
+  {
+    "id": 1676,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In which of the following reactions does reduction takes place",
+    "options": {
+      "A": "Fe 2+ - e - →  Fe 3+",
+      "B": "2O 2- →O 2 + 4e -",
+      "C": "Cr – 2e - →  Cr 2+",
+      "D": "2H + + 2e - → H 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Reduction is gain of electron and decrease in oxidation number. Option D is the only one with addition or gain of electron, as 2 electrons were gained by H ion to become Hydrogen molecule. There is also a decrease in oxidation from +2 to 0. Therefore option D is the correct answer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1676",
+    "passage": ""
   }
 ]
