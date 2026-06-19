@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75252",
     "passage": ""
+  },
+  {
+    "id": 75254,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In Nigerian art, masks are primarily used for:",
+    "options": {
+      "A": "Festivals and rituals",
+      "B": "School performance",
+      "C": "Toy making",
+      "D": "Decoration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Masks often hold spiritual significance and are used in rituals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75254",
+    "passage": ""
   }
 ]
