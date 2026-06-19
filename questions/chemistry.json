@@ -3042,5 +3042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1660",
     "passage": ""
+  },
+  {
+    "id": 1662,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Deliquescent substances are used for",
+    "options": {
+      "A": "Cooling",
+      "B": "Wetting",
+      "C": "Melting",
+      "D": "Drying"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Deliquescent substances are used for drying because they can absorb and hold a large amount of moisture. Hence, they are often used as drying agents.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1662",
+    "passage": ""
   }
 ]
