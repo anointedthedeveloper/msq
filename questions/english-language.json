@@ -460,5 +460,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/129",
     "passage": ""
+  },
+  {
+    "id": 482,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best convey the meaning of the underlined portion in each of the following sentence; I have been able to observe him at close quarters",
+    "options": {
+      "A": "in government house nearby",
+      "B": "within a short space of time",
+      "C": "in a small family house",
+      "D": "at close range",
+      "E": "at regular intervals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The expression “at close quarters” means from a very short distance , closely and directly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/482",
+    "passage": ""
   }
 ]
