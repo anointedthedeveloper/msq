@@ -12328,5 +12328,27 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907564/myschool/mathematics/IMG_20191119_130148_%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/22411",
     "passage": ""
+  },
+  {
+    "id": 22412,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "If logax = p, express x in terms of a and p",
+    "options": {
+      "A": "x = u + p",
+      "B": "x = a/p",
+      "C": "x = p",
+      "D": "x = ap",
+      "E": "x = a p"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(\\log_{a} x = p\\)\n\\(x = a^p\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22412",
+    "passage": ""
   }
 ]
