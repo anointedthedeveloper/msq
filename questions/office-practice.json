@@ -1482,5 +1482,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66503",
     "passage": ""
+  },
+  {
+    "id": 66505,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A form of corresponding sent to members asking them to attend a meeting is",
+    "options": {
+      "A": "the minutes",
+      "B": "an invite",
+      "C": "a notice",
+      "D": "an agenda"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A notice of meeting of a company is a document informing the members or directors of a company about an upcoming meeting. This document specifies the date, time and place of the meeting and the general nature of the business to be transacted at the meeting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66505",
+    "passage": ""
   }
 ]
