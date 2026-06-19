@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60214",
     "passage": ""
+  },
+  {
+    "id": 60215,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following signifies the correct association between a hardware component and its functions?",
+    "options": {
+      "A": "Mouse to input",
+      "B": "Monitor to print",
+      "C": "CPU to storage",
+      "D": "Hard disk to processing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60215",
+    "passage": ""
   }
 ]
