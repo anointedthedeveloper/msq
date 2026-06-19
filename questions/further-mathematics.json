@@ -3210,5 +3210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50501",
     "passage": ""
+  },
+  {
+    "id": 50506,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Simplify: \\(^{n}C_{r} ÷ ^{n}C_{r-1}\\)",
+    "options": {
+      "A": "\\(\\frac{n(n-r)}{r}\\)",
+      "B": "\\(\\frac{n}{r(n-r)}\\)",
+      "C": "\\(\\frac{1}{r(n-r)}\\)",
+      "D": "\\(\\frac{n+1-r}{r}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(^{n}C_{r} = \\frac{n!}{(n-r)! r!}\\)\n\\(^{n}C_{r - 1} = \\frac{n!}{(n - (r - 1))! (r - 1)!}\\)\n\\(^{n}C_{r} ÷ ^{n}C_{r - 1} = \\frac{n!}{(n - r)! r!} ÷ \\frac{n!}{(n-(r-1))!(r-1)!}\\)\n= \\(\\frac{n!}{(n-r)! r!} \\times \\frac{(n-(r-1)! (r-1)!}{n!}\\)\n= \\(\\frac{(n + 1 - r)! (r - 1)!}{(n - r)! r!}\\)\n= \\(\\frac{(n+1-r)(n-r)! (r-1)!}{(n-r)! r (r - 1)!}\\)\n= \\(\\frac{n + 1 - r}{r}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50506",
+    "passage": ""
   }
 ]
