@@ -1847,5 +1847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1027",
     "passage": ""
+  },
+  {
+    "id": 1028,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The United Nations charter is an instrument that",
+    "options": {
+      "A": "sets out the rights and obligations of member states",
+      "B": "provides for funding of memeber states",
+      "C": "facilitates the resolution of disputes among member states",
+      "D": "determines the admission of member states"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1028",
+    "passage": ""
   }
 ]
