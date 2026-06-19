@@ -9651,5 +9651,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62729",
     "passage": ""
+  },
+  {
+    "id": 62730,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Arrange the following inventions in chronological order.\nI. Slide Rule ll. Pascaline llI. Analytical Engine IV. Difference Engine",
+    "options": {
+      "A": "I, II, IV and IIl",
+      "B": "I, IV, III and Il",
+      "C": "III, IV, II and I",
+      "D": "I, II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62730",
+    "passage": ""
   }
 ]
