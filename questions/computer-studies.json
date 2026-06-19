@@ -18852,5 +18852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71027",
     "passage": ""
+  },
+  {
+    "id": 71053,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the function of the motherboard in a computer system?",
+    "options": {
+      "A": "Store data",
+      "B": "Connect all hardware components",
+      "C": "Perform calculations",
+      "D": "Provide internet access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The motherboard is the main circuit board that connects all hardware components of a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71053",
+    "passage": ""
   }
 ]
