@@ -3021,5 +3021,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50473",
     "passage": ""
+  },
+  {
+    "id": 50476,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Each of the 90 students in a class speak at least Igbo or Hausa. If 56 students speak Igbo and 50 speak Hausa, find the probability that a student selected at random from the class speaks Igbo only.",
+    "options": {
+      "A": "\\(\\frac{28}{45}\\)",
+      "B": "\\(\\frac{4}{9}\\)",
+      "C": "\\(\\frac{8}{45}\\)",
+      "D": "\\(\\frac{1}{9}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let the number of candidates that speak both Igbo and Hausa = x\nThe number that speaks Igbo only = 56 - x\nThe number that speaks Hausa only = 50 - x\n56 - x + x + 50 - x = 90\n106 - x = 90\nx = 16\nP(Igbo only) = \\(\\frac{56 - 16}{90} = \\frac{4}{9}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50476",
+    "passage": ""
   }
 ]
