@@ -10160,5 +10160,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65916",
     "passage": ""
+  },
+  {
+    "id": 65917,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Representation of Nigerians in the senate is",
+    "options": {
+      "A": "Proportional",
+      "B": "collegial",
+      "C": "equal",
+      "D": "unequal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Representation of Nigerians in the Senate is equal, as each state in Nigeria, regardless of its population size, is represented by three senators, and the Federal Capital Territory (FCT) is represented by one senator. This ensures that each state has an equal voice in the Senate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65917",
+    "passage": ""
   }
 ]
