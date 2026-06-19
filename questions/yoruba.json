@@ -2293,5 +2293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73073",
     "passage": ""
+  },
+  {
+    "id": 73074,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ta ló bí Kónkòodù?",
+    "options": {
+      "A": "Ogúngbèmí",
+      "B": "Ogún Åjobo",
+      "C": "Ögúnlabí",
+      "D": "Agbótikúyo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73074",
+    "passage": ""
   }
 ]
