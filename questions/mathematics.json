@@ -12701,5 +12701,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22605",
     "passage": ""
+  },
+  {
+    "id": 22606,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "While doing his physics practical, Idowu recorded a reading as 1.12cm instead of 1.21cm. Calculate his percentage error",
+    "options": {
+      "A": "1.17%",
+      "B": "6.38%",
+      "C": "7.44%",
+      "D": "8.035%",
+      "E": "9.00%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "%error = \\(\\frac{1.21 - 1.12}{1.21} \\times 100%\\)\n= \\(\\frac{9}{121} \\times 100%\\)\n= 7.44%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22606",
+    "passage": ""
   }
 ]
