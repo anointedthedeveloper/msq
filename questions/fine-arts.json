@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75270",
     "passage": ""
+  },
+  {
+    "id": 75286,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following processes is used in textile printing?",
+    "options": {
+      "A": "Silkscreening",
+      "B": "Embossing",
+      "C": "Carving",
+      "D": "Casting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Silkscreening allows ink to pass through stencils onto fabric.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75286",
+    "passage": ""
   }
 ]
