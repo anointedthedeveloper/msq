@@ -2600,5 +2600,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50204",
     "passage": ""
+  },
+  {
+    "id": 50205,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Youth empowerment promotes?",
+    "options": {
+      "A": "self reliance",
+      "B": "youth exuberance",
+      "C": "pursuit of higher education",
+      "D": "foreign scholarship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Empowered employees are loyal, committed and potentially more productive. When employees are given the tools and resources needed to successfully manage or lead their own projects, work toward their goals and drive their own career, the benefits are endless. They become self reliance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50205",
+    "passage": ""
   }
 ]
