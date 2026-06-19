@@ -9301,5 +9301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3856",
     "passage": ""
+  },
+  {
+    "id": 3859,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A metal X forms two bromides with the formulae XBr2 and XBr3. What type of bonding exists between X and bromine in the bromide?",
+    "options": {
+      "A": "Ionic bonding",
+      "B": "Metallic bonding",
+      "C": "Dative bonding",
+      "D": "Covalent bonding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If the  metal X forms two bromides with the formulae XBr\\(_2\\) and XBr\\(_3\\), it simply means it has variable oxidation number or states which is one of the characteristics of transition metals. This implies X is a metal. However, whenever a metal combines with a non-metal, there is usually a transfer of electrons from the metals to the non-metals, and the type of bond formed is the ionic or electrovalent bond.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3859",
+    "passage": ""
   }
 ]
