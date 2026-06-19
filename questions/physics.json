@@ -9322,5 +9322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14268",
     "passage": ""
+  },
+  {
+    "id": 14269,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "When a pentavalent impurity is added to a pure semiconductor, it becomes?",
+    "options": {
+      "A": "a p-type semiconductor",
+      "B": "an n-type semiconductor",
+      "C": "an insulator",
+      "D": "an intrinsic semi-conductor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When a pentavalent (5 outer electron)atom is added to a pure semiconductor, there is an extra electrons which does not take part in the covalent bonding resulting in an n-type semiconductor.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14269",
+    "passage": ""
   }
 ]
