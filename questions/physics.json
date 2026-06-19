@@ -11110,5 +11110,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14427",
     "passage": ""
+  },
+  {
+    "id": 14432,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "I.  change of state\nII. Diffusion\nIII. Radiation\nIV. Osmosis\nwhich of the processes above can be explained using the kinetic theory?",
+    "options": {
+      "A": "I, II,III and IV",
+      "B": "I, II and III",
+      "C": "I, III and IV",
+      "D": "I, II and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14432",
+    "passage": ""
   }
 ]
