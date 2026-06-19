@@ -12052,5 +12052,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4481",
     "passage": ""
+  },
+  {
+    "id": 4482,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following salts is slightly soluble in water?",
+    "options": {
+      "A": "AgCl",
+      "B": "CaSO 4",
+      "C": "Na 2 CO 3",
+      "D": "PbCl 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The salt that is slightly soluble in water is CaSO\\(_4\\) (Calcium Sulfate).\nAgCl (Silver Chloride): This is considered very slightly soluble or nearly insoluble in water due to its strong ionic bonds. Na\\(_2\\)CO\\(_3\\) (Sodium Carbonate): This is highly soluble in water as it is a sodium salt. PbCl\\(_2\\) (Lead Chloride): While considered slightly soluble, it has a lower solubility compared to CaSO4.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4482",
+    "passage": ""
   }
 ]
