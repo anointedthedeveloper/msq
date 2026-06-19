@@ -5331,5 +5331,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76280",
     "passage": ""
+  },
+  {
+    "id": 76281,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The ISSF is the international governing body for which sport?",
+    "options": {
+      "A": "International Skating Sport Federation",
+      "B": "International Swimming Sport Federation",
+      "C": "International Sailing Sport Federation",
+      "D": "International Shooting Sport Federation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The ISSF stands for International Shooting Sport Federation, which is the global governing body responsible for the administration and regulation of shooting sports. It oversees disciplines such as rifle, pistol, and shotgun shooting in international competitions, including the Olympic Games. The ISSF sets the rules, organizes world championships, and promotes the development of shooting sports worldwide. The other options-sailing, swimming, and skating-are governed by different international federations, such as World Sailing, FINA (Federation Internationale de Natation), and the International Skating Union (ISU), respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76281",
+    "passage": ""
   }
 ]
