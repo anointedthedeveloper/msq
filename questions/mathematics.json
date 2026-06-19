@@ -10525,5 +10525,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22018",
     "passage": ""
+  },
+  {
+    "id": 22020,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A group of students took a test and the following frequency table shows the scores above\nThe mean score is",
+    "options": {
+      "A": "1.75",
+      "B": "2",
+      "C": "2.5",
+      "D": "2.75",
+      "E": "3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1382971619_wcmath19884.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906628/myschool/mathematics/1382971619_wcmath19884.png",
+    "correct_answer": "D",
+    "explanation": "Score 0 1 2 3 4 5 Total Freq 2 3 4 2 7 2 20 \\(fx\\) 0 3 8 6 28 10 55\n\\(\\bar{x} = \\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{55}{20}\\)\n= \\(2.75\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22020",
+    "passage": ""
   }
 ]
