@@ -15591,5 +15591,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67778",
     "passage": ""
+  },
+  {
+    "id": 67779,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a third generation language?",
+    "options": {
+      "A": "FORTRAN",
+      "B": "COBOL",
+      "C": "Assembly language",
+      "D": "Basic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Assembly language is a low-level programming language that is specific to a particular computer architecture. It is more difficult to learn and use than higher-level programming languages, but it offers more control over the hardware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67779",
+    "passage": ""
   }
 ]
