@@ -13515,5 +13515,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22700",
     "passage": ""
+  },
+  {
+    "id": 22701,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Two groups of male students cast their votes on a particular proposal. The result are as follows:\nIf a student in favor of the proposal is selected for a post, what is the probability that he is from group A?",
+    "options": {
+      "A": "8/19",
+      "B": "16/35",
+      "C": "10/19",
+      "D": "4/7",
+      "E": "4/5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Probability that a student in favor is group A\n= \\(\\frac{128}{128 + 32 + 96 + 48}\\)\n= \\(\\frac{128}{304}\\)\n= \\(\\frac{8}{19}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22701",
+    "passage": ""
   }
 ]
