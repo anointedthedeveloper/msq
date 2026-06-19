@@ -15133,5 +15133,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65117",
     "passage": ""
+  },
+  {
+    "id": 65129,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "4[a][i] What is slide master in power point presentation\n[ii] outline the steps to rename the slide master in ms power point\n[b] explain the following features in Ms power point;\n[i] handout master\n[ii] notes master",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "[a][i] In Microsoft power point,the slide master is the top slide that controls all information about the theme,layout,background,color,fonts and positioning of all sides.\nUsing the slide master is an easy way to adjust the look of an existing theme or make changes to all slides in your presentation.\n[ii] The steps to rename the Slide master is Ms Power point:\nOn the view menu, select master- slide master in the slide thumbnails on the left, select the layout you want to rename.\nOn the slide master tab, click rename. in the rename layout box,type a new name and then click rename.\nb[i] Handout Master\nHandout master is used to edit the appearance of presentation handouts ,including the layout,headers and footers and background changes made to the handout master appear on all pages of the printed handout .\n[ii] Notes Master\nThe notes master in ms powerpoint is a feature that allows you to control the settings of the notes section of power point.\nit allows you to change layouts,font size,font type,style.and much more, To enable the Notes master in power point click on \"view ribbon\" and then on\" notes master\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65129",
+    "passage": ""
   }
 ]
