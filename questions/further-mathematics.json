@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50184",
     "passage": ""
+  },
+  {
+    "id": 50192,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A straight line 2x+3y=6, passes through the point (-1,2). Find the equation of the line.",
+    "options": {
+      "A": "2x-3y=2",
+      "B": "2x-3y=-2",
+      "C": "2x+3y=-4",
+      "D": "2x+3y=4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(2x+3y = 6 \\implies 3y = 6-2x\\)\n\\(y = \\frac{6}{3} - \\frac{2x}{3}\\)\nParallel lines have the same gradient\n\\(\\therefore\\) Gradient of the line = \\(\\frac{-2}{3}\\)\nLine passes through (-1,2)\nEquation: \\(\\frac{y-2}{x-(-1)} = \\frac{y-2}{x+1} = \\frac{-2}{3}\\)\n\\(3y-6 = -2x-2 \\implies 3y+2x = -2+6 =4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50192",
+    "passage": ""
   }
 ]
