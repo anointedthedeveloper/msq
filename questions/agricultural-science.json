@@ -2132,5 +2132,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16004",
     "passage": ""
+  },
+  {
+    "id": 16005,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "At which of the following ages are gilts normally mated?",
+    "options": {
+      "A": "8 - 12 months",
+      "B": "14 - 15 months",
+      "C": "15 - 20 months",
+      "D": "21 - 24 months",
+      "E": "over 25 months"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16005",
+    "passage": ""
   }
 ]
