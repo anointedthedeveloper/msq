@@ -2587,5 +2587,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71081",
     "passage": ""
+  },
+  {
+    "id": 71082,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceC'est le stylo de__ami.",
+    "options": {
+      "A": "mon",
+      "B": "ses",
+      "C": "tes",
+      "D": "nos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "La réponse correcte est mon. La phrase complète serait : \"C'est le stylo de mon ami.\" Le déterminant possessif \"mon\" est utilisé devant le nom \"ami\" pour indiquer que le stylo appartient à l'ami de la personne qui parle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71082",
+    "passage": ""
   }
 ]
