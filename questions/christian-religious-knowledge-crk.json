@@ -196,5 +196,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/53",
     "passage": ""
+  },
+  {
+    "id": 56,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Jesus Christ was baptized in the River Jordan by",
+    "options": {
+      "A": "Mathew",
+      "B": "John",
+      "C": "Jeremiah",
+      "D": "Mary Magdalene",
+      "E": "Angel Gabriel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This event is mentioned in the New Testament, particularly in the Gospels of Matthew (Matthew 3:13-17), Mark (Mark 1:9-11), Luke (Luke 3:21-22), and John (John 1:29-34). John the Baptist baptized Jesus in the River Jordan, and during this baptism, the Holy Spirit descended upon Jesus in the form of a dove, and a voice from heaven proclaimed Him as the beloved Son of God.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/56",
+    "passage": ""
   }
 ]
