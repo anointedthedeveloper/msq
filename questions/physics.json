@@ -7453,5 +7453,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13917",
     "passage": ""
+  },
+  {
+    "id": 13918,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A piece of iron weights 250 N in air and 200 N in a liquid of density 1000 kgm-3. the volume of the iron is?",
+    "options": {
+      "A": "5.0 x 10 -3 m -3",
+      "B": "4.5 x 10 -3 m -3",
+      "C": "2.5 x 10 -3 m -3",
+      "D": "2.0 x 10 -3 m -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Wt in the air = 250N wt. in the liquid = 200N loss in wt. in the liquid = 250 - 200 = 50N ∴ mass of liquid displaced = 50N → 5kg ∴If the density of the liquid is 1000kgm-3 then the volume of the liquid = (M)/D = V = (5kg)/1000 = 0.005 → 5.0 X \\(10^{-3}\\)\\(m^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13918",
+    "passage": ""
   }
 ]
