@@ -7081,5 +7081,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3008",
     "passage": ""
+  },
+  {
+    "id": 3009,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nHis hair needs ....",
+    "options": {
+      "A": "to cut",
+      "B": "to have cut",
+      "C": "being cut",
+      "D": "to be cutting",
+      "E": "cutting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3009",
+    "passage": ""
   }
 ]
