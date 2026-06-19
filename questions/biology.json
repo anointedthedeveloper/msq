@@ -856,5 +856,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/351",
     "passage": ""
+  },
+  {
+    "id": 376,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "All living organism",
+    "options": {
+      "A": "Photosynthesize",
+      "B": "Respire",
+      "C": "Move",
+      "D": "Feed",
+      "E": "Transpire"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All living organisms, from bacteria to humans, carry out cellular respiration, which is the process of converting glucose into energy (ATP) using oxygen.\nThe other options are not universal characteristics of all living organisms:\nA. Photosynthesize: Only plants, algae, and some bacteria can photosynthesize, converting light energy into chemical energy.\nC. Move: Not all living organisms can move, such as plants, fungi, and some microorganisms.\nD. Feed: While many organisms feed on other organisms or organic matter, some, like plants and algae, produce their own food through photosynthesis.\nE. Transpire: Transpiration is the process of water evaporation through leaves, which is specific to plants and some algae.\nRespiration, however, is a fundamental process that occurs in all living cells, making it the correct answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/376",
+    "passage": ""
   }
 ]
