@@ -21095,5 +21095,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76907",
     "passage": ""
+  },
+  {
+    "id": 76908,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A = 10, B = 11, C = 12, D =13, E = 14, F = 15 B, D, F = 11, 13, 15, respectively. In the hexadecimal number system, B, D, F represent",
+    "options": {
+      "A": "11, 12, 13 respectively",
+      "B": "13, 14, 15 respectively",
+      "C": "11, 13, 15 respectively",
+      "D": "14, 16, 17 respectively"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A = 10, B = 11, C = 12, D =13, E = 14, F = 15 B, D, F = 11, 13, 15 respectively",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76908",
+    "passage": ""
   }
 ]
