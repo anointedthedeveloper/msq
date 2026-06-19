@@ -6276,5 +6276,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2653",
     "passage": ""
+  },
+  {
+    "id": 2654,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "N\\(_2\\)O\\(_4\\),(g) ↔ 2NO\\(_2\\)(g) In the endothermic reaction above, more product formation will be favoured by",
+    "options": {
+      "A": "a constant volume",
+      "B": "an increase in pressure",
+      "C": "a decrease in pressure",
+      "D": "a decrease in volume"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the endothermic reaction, an increase in pressure will favour the side with the lesser value of number of moles of the gaseous specie while a decrease in pressure will favour the side with a higher value of number of moles of the gaseous specie.\nFrom the above equation, the product(on the RHS) has a higher value of number of moles of NO\\(_2\\) i.e 2 moles, when compared to the number of moles of N\\(_2\\)O\\(_4\\), on the LHS. i.e 1 mole of N\\(_2\\)O\\(_4\\), Therefore, a decrease in pressure will favour more product formation.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2654",
+    "passage": ""
   }
 ]
