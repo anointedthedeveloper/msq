@@ -1005,5 +1005,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/829",
     "passage": ""
+  },
+  {
+    "id": 830,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which is the temperature of a given mass of a gas initially at 0°C and 9 atm, if the pressure is reduced to 3 atm at constant volume?",
+    "options": {
+      "A": "91K",
+      "B": "182K",
+      "C": "273K",
+      "D": "819K"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/830",
+    "passage": ""
   }
 ]
