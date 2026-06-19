@@ -18129,5 +18129,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25062",
     "passage": ""
+  },
+  {
+    "id": 25063,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "A mercury-in-glass thermometer reads - 20\no\nat the ice point and 100\no\nat the steam point. Calculate the celcius temperature corresponding to 70\no\non the thermometer.",
+    "options": {
+      "A": "41.0 o C",
+      "B": "50.0 o C",
+      "C": "62.5 o C",
+      "D": "70.0 o C",
+      "E": "75.0 o C."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25063",
+    "passage": ""
   }
 ]
