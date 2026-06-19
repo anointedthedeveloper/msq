@@ -5044,5 +5044,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75873",
     "passage": ""
+  },
+  {
+    "id": 75874,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Mon pere travaille dans une",
+    "options": {
+      "A": "ferme",
+      "B": "mosquée",
+      "C": "usine",
+      "D": "gare"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French word \"usine\" means \"factory,\" a place with workers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75874",
+    "passage": ""
   }
 ]
