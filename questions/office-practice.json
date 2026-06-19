@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66038",
     "passage": ""
+  },
+  {
+    "id": 66042,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "\"Who is who\" is a book that contains information of",
+    "options": {
+      "A": "important people who are still living.",
+      "B": "people who are dead.",
+      "C": "people who are not eminent.",
+      "D": "late people but important."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Who is who\" is a book that contains information of important people who are still living. It is a book that contains the name of prominent people.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66042",
+    "passage": ""
   }
 ]
