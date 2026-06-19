@@ -1142,5 +1142,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48166",
     "passage": ""
+  },
+  {
+    "id": 48167,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Chaque choes en soon temp' est de quel genre?",
+    "options": {
+      "A": "Le conte",
+      "B": "La poésie",
+      "C": "La prose",
+      "D": "Le theater"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48167",
+    "passage": ""
   }
 ]
