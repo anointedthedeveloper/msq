@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/317",
     "passage": ""
+  },
+  {
+    "id": 320,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "When the brakes in a car are applied, the frictional force force on the tyres is",
+    "options": {
+      "A": "is a disadvantage because it is in the direction of the motion of the car",
+      "B": "is a disadvantage because it is in the opposite direction of the motion of the car",
+      "C": "is an advantage because it is in the direction of the motion of the car",
+      "D": "is an advantage because it is in the opposite direction of the motion of the car"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When the brakes in a car are applied, the frictional force on the tires acts in the opposite direction of the car's motion, slowing down the vehicle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/320",
+    "passage": ""
   }
 ]
