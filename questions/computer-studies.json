@@ -14686,5 +14686,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64891",
     "passage": ""
+  },
+  {
+    "id": 64897,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The maximum length of a text field in MS Access is?",
+    "options": {
+      "A": "75",
+      "B": "120",
+      "C": "255",
+      "D": "265"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64897",
+    "passage": ""
   }
 ]
