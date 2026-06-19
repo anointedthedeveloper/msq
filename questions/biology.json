@@ -4530,5 +4530,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2292",
     "passage": ""
+  },
+  {
+    "id": 2293,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "A pyramid of numbers can be defined as",
+    "options": {
+      "A": "the number of plants and animals in an ecosystem",
+      "B": "an arrangement of organism according to their habitat",
+      "C": "the numerical relationships of a food chain",
+      "D": "the number of plants and animals in a population",
+      "E": "the total number of species and general in a community"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2293",
+    "passage": ""
   }
 ]
