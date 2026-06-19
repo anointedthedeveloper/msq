@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1508",
     "passage": ""
+  },
+  {
+    "id": 1509,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The efficiency of a machine is always less than 100% because the",
+    "options": {
+      "A": "work output is always greater than the work input",
+      "B": "load lifted is always greater than the effort applied",
+      "C": "effort applied is always greater than the load lifted",
+      "D": "velocity ratio is always greater than the mechanical advantage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In real-world machines, due to factors such as friction, deformation, and other losses, the mechanical advantage is always less than the velocity ratio:\nMA < VR\nThis means that the work output (useful work done) is always less than the work input (energy supplied), leading to efficiency being less than 100%.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1509",
+    "passage": ""
   }
 ]
