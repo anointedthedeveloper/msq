@@ -12474,5 +12474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7284",
     "passage": ""
+  },
+  {
+    "id": 7285,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following requires payment into the payee's account?",
+    "options": {
+      "A": "Crossed cheque",
+      "B": "Traveller's cheque",
+      "C": "Open cheque",
+      "D": "Certified chegues"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A crossed cheque is a cheque that has been marked specifying an instruction on the way it is to be redeemed. It cannot be cashed at a bank counter but must be paid into an account in exactly the same name as that which appears on the 'payee' line of the cheque (i.e. the person who has received the cheque, who is legally the “payee” and “holder” of the cheque).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7285",
+    "passage": ""
   }
 ]
