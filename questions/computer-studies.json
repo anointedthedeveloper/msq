@@ -16326,5 +16326,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67838",
     "passage": ""
+  },
+  {
+    "id": 67839,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "When the computer reboots itself without triggering the hardware based reset, it is called ?",
+    "options": {
+      "A": "cold booting",
+      "B": "hard reboot",
+      "C": "cold reboot",
+      "D": "soft reboot"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "soft or warm reboot involves restarting a computer under software control without triggering the hardware based reset.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67839",
+    "passage": ""
   }
 ]
