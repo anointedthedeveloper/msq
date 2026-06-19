@@ -8114,5 +8114,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62569",
     "passage": ""
+  },
+  {
+    "id": 62570,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The common features of formula and function in spread- sheet are:\n-Entry is preceded by = or + symbol I.\n- They have fixed formats\n- They operate with cell addresses\n- Their results are displayed.\nWhich of the following options is/are true?",
+    "options": {
+      "A": "I, II, III",
+      "B": "I, III, IV",
+      "C": "II, III, IV",
+      "D": "I, II, III, IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62570",
+    "passage": ""
   }
 ]
