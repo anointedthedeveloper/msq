@@ -6438,5 +6438,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62483",
     "passage": ""
+  },
+  {
+    "id": 62484,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In MS Excel, comments used in cells are called?",
+    "options": {
+      "A": "cell tip",
+      "B": "smart tip",
+      "C": "soft tip",
+      "D": "web tip"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In MS Excel, comments used in cells are called cell tips.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62484",
+    "passage": ""
   }
 ]
