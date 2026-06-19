@@ -20402,5 +20402,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76766",
     "passage": ""
+  },
+  {
+    "id": 76767,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following is not an output device?",
+    "options": {
+      "A": "Plotters",
+      "B": "Speakers",
+      "C": "Projectors",
+      "D": "Webcams"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An output device is any piece of computer hardware equipment that converts information into a human-readable form. Plotters, speakers, and Projectors are all output devices as they display or produce output from the computer. However, Webcams are input devices because they capture and send data to the computer, rather than receiving and displaying data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76767",
+    "passage": ""
   }
 ]
