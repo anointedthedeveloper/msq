@@ -2076,5 +2076,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61500",
     "passage": ""
+  },
+  {
+    "id": 61501,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The following actions are the effects of virus infection in a system except",
+    "options": {
+      "A": "deletion of files",
+      "B": "slow operation",
+      "C": "hard disk failure",
+      "D": "display of unwanted messages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer viruses infect personal computers (PCs) and servers. Some viruses create mere annoyance, but others can do serious damage: delete or change files, steal important information, load and run unwanted applications, send documents via electronic mail, or even cripple a machine's operating system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61501",
+    "passage": ""
   }
 ]
