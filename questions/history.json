@@ -12227,5 +12227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68552",
     "passage": ""
+  },
+  {
+    "id": 68553,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The Rwandan genocide in 1994 resulted in the mass killing of which ethnic group?",
+    "options": {
+      "A": "Zulus",
+      "B": "Tutsis",
+      "C": "Hutus",
+      "D": "Bantus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Rwandan genocide was a mass slaughter of Tutsi in Rwanda during the Rwandan Civil War, which had started in 1990. It is estimated that during the approximately 100-day period from April 7 to mid-July 1994, between 500,000 and 1,000,000 Tutsis were killed, constituting an estimated 70% of the Tutsi population.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68553",
+    "passage": ""
   }
 ]
