@@ -5710,5 +5710,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12931",
     "passage": ""
+  },
+  {
+    "id": 12936,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The change in volume when 450kg of ice is completely melted is [density of ice = 900 kgm\\(^{-3}\\), density of water = 1000 kgm\\(^{-3}\\)]",
+    "options": {
+      "A": "0.50m 3",
+      "B": "0.45m 3",
+      "C": "0.05m 3",
+      "D": "4.50m 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Vol. of ice = \\(\\frac{\\text{M}}{\\text{D}}\\) = \\(\\frac{450}{900}\\) = 0.500m\\(^3\\) vol. of water = \\(\\frac{\\text{M}}{\\text{D}}\\) = \\(\\frac{450}{1000}\\) = 0.450m\\(^3\\) ∴ Difference in vol. = 0.500 - 0.450 = 0.05m\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12936",
+    "passage": ""
   }
 ]
