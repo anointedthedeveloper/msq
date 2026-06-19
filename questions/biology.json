@@ -570,5 +570,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/338",
     "passage": ""
+  },
+  {
+    "id": 339,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of these is not a part of the feather of a bird?",
+    "options": {
+      "A": "Wing",
+      "B": "aftershaft",
+      "C": "Inferior umblilicus",
+      "D": "Vane",
+      "E": "Barbule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The feather contains a vane, afterfeather, calamus, barb, rachis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/339",
+    "passage": ""
   }
 ]
