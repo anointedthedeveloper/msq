@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/754",
     "passage": ""
+  },
+  {
+    "id": 755,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1995",
+    "question": "What are the factors with which commercial undertaking can be distinguish?\nI    Size of the undertaking\nII   Profits generated\nIII  Forms of ownership\nIV   Location of the undertaking",
+    "options": {
+      "A": "I and II only",
+      "B": "I andIII only",
+      "C": "II and III only",
+      "D": "III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/755",
+    "passage": ""
   }
 ]
