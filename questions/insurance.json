@@ -1362,5 +1362,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49777",
     "passage": ""
+  },
+  {
+    "id": 49778,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In an endowment policy, benefits are paid at death or",
+    "options": {
+      "A": "a lump  sum is paid on maturity",
+      "B": "regular payments are made after maturity",
+      "C": "regular payments are made before maturity",
+      "D": "no payments is made until the death of the insured."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An endowment policy is a life insurance contract designed to pay a lump sum after a specific term (on its 'maturity') or on death.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49778",
+    "passage": ""
   }
 ]
