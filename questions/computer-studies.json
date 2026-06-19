@@ -17649,5 +17649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69848",
     "passage": ""
+  },
+  {
+    "id": 69849,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The act of translating data into a secret code is known as",
+    "options": {
+      "A": "piracy.",
+      "B": "encryption.",
+      "C": "authentication.",
+      "D": "authorization."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The act of translating data into a secret code is known as \"encryption\". Authentication is the process of verifying the identity of a user or device. Authorization is the process of granting permissions to a user or device to access certain resources. Piracy is the unauthorized use or reproduction of copyrighted material. Encryption is a security technique that converts data into a secret code so that it cannot be read by unauthorized users. The code is only readable by someone who has the decryption key. Encryption is used to protect data from unauthorized access, disclosure, modification, or destruction",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69849",
+    "passage": ""
   }
 ]
