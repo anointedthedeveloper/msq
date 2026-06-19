@@ -1802,5 +1802,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49807",
     "passage": ""
+  },
+  {
+    "id": 49809,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The insurance cover a businessman who buys goods from lagos and wants to transport it to kano would require is",
+    "options": {
+      "A": "marine insurance",
+      "B": "business interruption insurance",
+      "C": "theft insurance",
+      "D": "goods in transit insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Goods in Transit policy (GIT) covers the goods of the insured against fire, theft or accidental damage while the goods are being loaded or unloaded, as well as, while the goods are in transit or whilst temporarily housed within the general course of transit .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49809",
+    "passage": ""
   }
 ]
