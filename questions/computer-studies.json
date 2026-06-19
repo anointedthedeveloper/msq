@@ -13678,5 +13678,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64416",
     "passage": ""
+  },
+  {
+    "id": 64417,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The logical structure of the database can be depicted through its ______",
+    "options": {
+      "A": "Domain",
+      "B": "Data model",
+      "C": "Architecture",
+      "D": "Schemas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Data model. It is the logical inter relationships and data flow between different data elements involved in the information word. Through the flow chart, the logical structure of a database can be depicted.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64417",
+    "passage": ""
   }
 ]
