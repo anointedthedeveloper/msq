@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15819",
     "passage": ""
+  },
+  {
+    "id": 15820,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "An example of fungal disease of stored grains is",
+    "options": {
+      "A": "rosette",
+      "B": "wilt",
+      "C": "soft rot",
+      "D": "damping off",
+      "E": "mould"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15820",
+    "passage": ""
   }
 ]
