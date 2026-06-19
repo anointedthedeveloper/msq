@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75213",
     "passage": ""
+  },
+  {
+    "id": 75214,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أي الجمل تحتوي على مبتدأ وخبر؟",
+    "options": {
+      "A": "المعلم يشرح الدرس",
+      "B": "جلس أحمد على الكرسي",
+      "C": "ذهب الطالب إلى الفصل",
+      "D": "السماءُ صافيةٌ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": ".( is the predicate (khabar \"صافية\" ,(' is the subject (mubtada \"السماء\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75214",
+    "passage": ""
   }
 ]
