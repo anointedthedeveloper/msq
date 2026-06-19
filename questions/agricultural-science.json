@@ -2220,5 +2220,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16008",
     "passage": ""
+  },
+  {
+    "id": 16009,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The best method(s) of regulating fish capture is/are",
+    "options": {
+      "A": "gill netting and electro-fishing",
+      "B": "quota and mesh-size control",
+      "C": "beach seine method",
+      "D": "active netting",
+      "E": "passive netting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16009",
+    "passage": ""
   }
 ]
