@@ -17586,5 +17586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69845",
     "passage": ""
+  },
+  {
+    "id": 69846,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "An opening on the motherboard of a system unit where expansion cards can be inserted is known as",
+    "options": {
+      "A": "expansion port.",
+      "B": "extension box.",
+      "C": "extension board.",
+      "D": "expansion slot."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An opening on the motherboard of a system unit where expansion cards can be inserted is known as an expansion slot. Expansion slots are used to add additional functionality to a computer, such as a graphics card, sound card, or network card. They are also used to add more memory to a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69846",
+    "passage": ""
   }
 ]
