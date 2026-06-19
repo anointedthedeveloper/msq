@@ -14133,5 +14133,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7392",
     "passage": ""
+  },
+  {
+    "id": 7394,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In which of the following will the numbers of words used determine the cost of the message sent?",
+    "options": {
+      "A": "Telephone",
+      "B": "Telegram",
+      "C": "E-mail",
+      "D": "Telex"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A telegram is a message that is sent by electricity or radio and then printed and delivered to someone's home or office. The cost of the messages sent are determined by the number of words contained in the message.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7394",
+    "passage": ""
   }
 ]
