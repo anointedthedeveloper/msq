@@ -6697,5 +6697,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13852",
     "passage": ""
+  },
+  {
+    "id": 13853,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A cell of internal resistance r is connected to an external resistor R. The condition for maximum power transfer is?",
+    "options": {
+      "A": "R < r",
+      "B": "R = r",
+      "C": "R = 2r",
+      "D": "R > r"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Power = I\\(^2\\)R\n= \\((\\frac{E}{R + r})^2 R\\)\nTo get point of maximum power transfer, we take the derivative and equate it to 0.\n\\(P = E^2 (\\frac{R}{(R + r)^2})\\)\n\\(\\frac{\\mathrm d P}{\\mathrm R} = E^2 (\\frac{(R + r)^2 - 2R(R + r)}{(R + r)^4})\\)\n= \\(E^2 (\\frac{(R + r)[(R + r) - 2R}{(R + r)^4})\\)\n\\(\\frac{\\mathrm d P}{\\mathrm d R} = E^2 (\\frac{r - R}{(R + r)^3})\\)\nMaximum power is gotten when r - R = 0 i.e. r = R.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13853",
+    "passage": ""
   }
 ]
