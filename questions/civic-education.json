@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50104",
     "passage": ""
+  },
+  {
+    "id": 50105,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In obeying traffics rules, pedestrian are to walk on the left side of the road so as to",
+    "options": {
+      "A": "buy things at the road side",
+      "B": "see oncoming cars",
+      "C": "cross at anytime",
+      "D": "walk across junction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Walk on the side of the road seems the safest. In general it is safer if people walk on the side of the road so that you can see the oncoming cars. Depending on your direction, stay on the side of the road you can see the cars coming.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50105",
+    "passage": ""
   }
 ]
