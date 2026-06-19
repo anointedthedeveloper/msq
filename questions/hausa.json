@@ -6290,5 +6290,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74056",
     "passage": ""
+  },
+  {
+    "id": 74057,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "Wannan jimlar",
+    "options": {
+      "A": "Korewa",
+      "B": "bayani",
+      "C": "tambayau",
+      "D": "Karfafau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Wannan jimlar ... (This sentence is ... ). Answer: tambayau (a question). The sentence is a question, but it is not a complete question, so the correct answer is \"tambayau\" (an incomplete question).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74057",
+    "passage": ""
   }
 ]
