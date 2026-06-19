@@ -8903,5 +8903,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72361",
     "passage": ""
+  },
+  {
+    "id": 72362,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which one of the following practices is considered ethical?",
+    "options": {
+      "A": "Gaining access into school database to change one's grades",
+      "B": "Gaining access into government database to alter personal details",
+      "C": "Logging into a friend's social media account to read inbox messages",
+      "D": "Signing into school e-library to read e-books"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ethical practice is the application of a good moral principles and values to guide decision-making and behaviour Only option D here satisfies that.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72362",
+    "passage": ""
   }
 ]
