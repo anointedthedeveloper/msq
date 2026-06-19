@@ -900,5 +900,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/454",
     "passage": ""
+  },
+  {
+    "id": 455,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following is NOT strictly included In the study of economics?",
+    "options": {
+      "A": "The study of wants",
+      "B": "The study of choice",
+      "C": "Whether a particular want satisfies a good or bad purpose",
+      "D": "The study of scarcity",
+      "E": "The study of substitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/455",
+    "passage": ""
   }
 ]
