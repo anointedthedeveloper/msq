@@ -10245,5 +10245,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11105",
     "passage": ""
+  },
+  {
+    "id": 11106,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "In the diagram above, PQ is parallel to RS. What is the value of α + β + γ?",
+    "options": {
+      "A": "360 o",
+      "B": "200 o",
+      "C": "180 o",
+      "D": "90 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17659899725_math200325.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868972/myschool/mathematics/17659899725_math200325.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11106",
+    "passage": ""
   }
 ]
