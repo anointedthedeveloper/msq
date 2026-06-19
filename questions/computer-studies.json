@@ -14161,5 +14161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64791",
     "passage": ""
+  },
+  {
+    "id": 64795,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "EDSAC was produced using a concept known as",
+    "options": {
+      "A": "Circuit switching",
+      "B": "Packet routing",
+      "C": "Packet switching",
+      "D": "Stored program"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64795",
+    "passage": ""
   }
 ]
