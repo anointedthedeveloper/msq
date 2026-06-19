@@ -6592,5 +6592,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13841",
     "passage": ""
+  },
+  {
+    "id": 13842,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The thermometric property of a constant volume thermometer is?",
+    "options": {
+      "A": "change in volume",
+      "B": "differential expanssion",
+      "C": "change in pressure",
+      "D": "change in length"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13842",
+    "passage": ""
   }
 ]
