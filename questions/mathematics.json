@@ -13713,5 +13713,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22870",
     "passage": ""
+  },
+  {
+    "id": 22871,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Solve the equation: 3a + 10 = a\\(^2\\)",
+    "options": {
+      "A": "a = 5 or a = 2",
+      "B": "a = -5 or a = 2",
+      "C": "a = 10 or a = 0",
+      "D": "a = 5 or a = 0",
+      "E": "a = 5 or a = -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "3a + 10 = a\\(^2\\)\na\\(^2\\) - 3a - 10 = 0\na\\(^2\\) - 5a + 2a - 10 = 0\na(a - 5) + 2(a - 5) = 0\n(a - 5)(a + 2) = 0\na = 5 or a = -2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22871",
+    "passage": ""
   }
 ]
