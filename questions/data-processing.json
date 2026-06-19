@@ -8062,5 +8062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69798",
     "passage": ""
+  },
+  {
+    "id": 69799,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Use Table 1 to answer questions 35 and 36 . Table 1: TableStudent\nAge\nThe attributes in Table 1 are",
+    "options": {
+      "A": "Yellow, Blue, Yellow",
+      "B": "14, 15, 15",
+      "C": "Reg. No, House, Age",
+      "D": "18/001, 18/002, 18/003"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The attributes in Table 1 are Reg. No, House, and Age. An attribute is a single piece of data about an entity. In Table 1, each row represents a student entity. The Reg. No, House, and Age columns represent the attributes of the student entity. The values in the Reg. No column are unique, so the Reg. No column is the primary key of the table. The House and Age columns are not unique, so they cannot be used as primary keys. The other values in the table are the data for the attributes. For example, the value \"18/001\" in the Reg. No column is the data for the Reg. No attribute of the first student entity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69799",
+    "passage": ""
   }
 ]
