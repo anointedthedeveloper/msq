@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50390",
     "passage": ""
+  },
+  {
+    "id": 50391,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An operation * is defined on the set, R, of real numbers by \\(p * q = p + q + 2pq\\). If the identity element is 0, find the value of p for which the operation has no inverse.",
+    "options": {
+      "A": "\\(\\frac{-1}{2}\\)",
+      "B": "\\(0\\)",
+      "C": "\\(\\frac{2}{3}\\)",
+      "D": "\\(2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given the formula for p * q as: \\(p + q + 2pq\\) and its identity element is 0, such that if, say, t is the inverse of p, then\n\\(p * t = 0\\), then \\(p + t + 2pt = 0  \\therefore p + (1 + 2p)t = 0\\)\n\\(t = \\frac{-1}{1 + 2p}\\) is the formula for the inverse of p and is undefined on R when\n\\(1 + 2p) = 0\\) i.e when \\(2p = -1; p = \\frac{-1}{2}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50391",
+    "passage": ""
   }
 ]
