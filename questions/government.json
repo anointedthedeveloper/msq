@@ -2645,5 +2645,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1293",
     "passage": ""
+  },
+  {
+    "id": 1294,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The 1979 Constitution established the",
+    "options": {
+      "A": "National Human Rights Commission",
+      "B": "National Population Commission",
+      "C": "Federal Road Safety Commission",
+      "D": "Federal Civil Defense Corps"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1294",
+    "passage": ""
   }
 ]
