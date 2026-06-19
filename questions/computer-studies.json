@@ -10948,5 +10948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64099",
     "passage": ""
+  },
+  {
+    "id": 64100,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "An inventory management program can assist with ________",
+    "options": {
+      "A": "distribution",
+      "B": "purchasing",
+      "C": "planning",
+      "D": "all of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "All of the above.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64100",
+    "passage": ""
   }
 ]
