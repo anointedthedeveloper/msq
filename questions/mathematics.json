@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/29",
     "passage": ""
+  },
+  {
+    "id": 30,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "From a point P, the bearings of two points Q and R are N67ºW and N23ºE, respectively. If the bearing of R from Q is N68ºE and PQ = 150m, calculate PR",
+    "options": {
+      "A": "120m",
+      "B": "140m",
+      "C": "150m",
+      "D": "160m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{150}{PR}\\) = tan45º\nPR = \\(\\frac{150}{tan45º}\\) = 150m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/30",
+    "passage": ""
   }
 ]
