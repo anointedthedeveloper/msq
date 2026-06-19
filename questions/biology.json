@@ -1164,5 +1164,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/389",
     "passage": ""
+  },
+  {
+    "id": 390,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these statement below is not a characteristic of wind pollinated flower?",
+    "options": {
+      "A": "Stigmas are usually large and feathery",
+      "B": "Nectar is usually absent",
+      "C": "The pollen grains have rough spiny surfaces",
+      "D": "The flowers are not scented",
+      "E": "The pollen is light and smooth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Pollen grains with rough, spiny surfaces are not a characteristic of wind-pollinated flowers. In fact, wind-pollinated flowers typically have smooth, light pollen grains to facilitate easy dispersal by the wind. Rough or spiny pollen would be less effective in wind pollination, as it would not disperse as well.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/390",
+    "passage": ""
   }
 ]
