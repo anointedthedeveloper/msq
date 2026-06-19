@@ -13636,5 +13636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64414",
     "passage": ""
+  },
+  {
+    "id": 64415,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When does the output of a NOR gate =0?",
+    "options": {
+      "A": "whenever 0 is present at input",
+      "B": "only when all input =0",
+      "C": "whenever 1 is present at input",
+      "D": "only when all input =1."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The NOR gate is a digital logic gate that implements logical NOR - it behaves according to the truth table to the right. A HIGH output (1) results if both the inputs to the gate are LOW (0); if one or both input is HIGH (1), a LOW output (0) results.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64415",
+    "passage": ""
   }
 ]
