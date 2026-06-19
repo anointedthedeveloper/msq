@@ -2768,5 +2768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49937",
     "passage": ""
+  },
+  {
+    "id": 49939,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Ex-gratia payment is made where there is",
+    "options": {
+      "A": "no legal liability obligation",
+      "B": "legal liability obligation",
+      "C": "need to refund a premium",
+      "D": "delay in payment of compensation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "ex gratia payment . A sum of money paid when there was no obligation or liability to pay it. For example, a lump sum payment over and above the pension benefits of a retiring employee. In insurance claims, it may take the form of payment for which the insurer did not appear to be liable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49939",
+    "passage": ""
   }
 ]
