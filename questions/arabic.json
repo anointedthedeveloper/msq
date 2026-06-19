@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75258",
     "passage": ""
+  },
+  {
+    "id": 75259,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "كم عدد سور القرآن الكريم؟",
+    "options": {
+      "A": "120",
+      "B": "100",
+      "C": "90",
+      "D": "114"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Qur'an contains 114 chapters (suras), each with a purpose.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75259",
+    "passage": ""
   }
 ]
