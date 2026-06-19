@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/187",
     "passage": ""
+  },
+  {
+    "id": 188,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Drawing two parallel lines across a cheque means that it has to be paid into the account of the",
+    "options": {
+      "A": "payee",
+      "B": "drawer",
+      "C": "drawee",
+      "D": "payer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/188",
+    "passage": ""
   }
 ]
