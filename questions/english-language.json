@@ -3891,5 +3891,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1967",
     "passage": ""
+  },
+  {
+    "id": 1968,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "complete the sentences with the\ncorrect options\nfrom the list below\n:\nCould i ring him up? I'd rather you ....",
+    "options": {
+      "A": "visit him",
+      "B": "visited him",
+      "C": "would visit him",
+      "D": "visiting him",
+      "E": "will visit him"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1968",
+    "passage": ""
   }
 ]
