@@ -13510,5 +13510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64405",
     "passage": ""
+  },
+  {
+    "id": 64406,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the memories must be refreshed many times per second?",
+    "options": {
+      "A": "EPROM",
+      "B": "ROM",
+      "C": "Static RAM",
+      "D": "Dynamic RAM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dynamic RAM memory must be refreshed many times a second because without it being refreshed often, it will lose the data contents it holds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64406",
+    "passage": ""
   }
 ]
