@@ -5668,5 +5668,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12926",
     "passage": ""
+  },
+  {
+    "id": 12927,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "When left in a freezer, a bottle full of water cracks on freezing into ice because of the",
+    "options": {
+      "A": "increase in the volume of water",
+      "B": "contraction of the bottle",
+      "C": "expansion of the bottle",
+      "D": "decrease in the volume of water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When water freezes to ice, it undergoes anomalous expansion. Water's volume actually increases by approximately 9% as it turns into ice.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12927",
+    "passage": ""
   }
 ]
