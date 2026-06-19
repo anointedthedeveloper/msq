@@ -8431,5 +8431,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62667",
     "passage": ""
+  },
+  {
+    "id": 62668,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Computers are classified using the following criteria except?",
+    "options": {
+      "A": "cost and portability.",
+      "B": "data representation and purpose.",
+      "C": "size and speed.",
+      "D": "speed and storage."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62668",
+    "passage": ""
   }
 ]
