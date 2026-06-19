@@ -2119,5 +2119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50162",
     "passage": ""
+  },
+  {
+    "id": 50164,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Rates are collected in Nigeria by?",
+    "options": {
+      "A": "federal inland revenue councils",
+      "B": "state ministry of finance",
+      "C": "local government council",
+      "D": "council of traditional rulers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Federal Inland Revenue Service is responsible for assessing, collecting and accounting for tax and other revenues accruing to the Federal Government. The States Boards of Internal Revenue and the Local Government Revenue Committees perform similar functions at the State and Local Government levels respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50164",
+    "passage": ""
   }
 ]
