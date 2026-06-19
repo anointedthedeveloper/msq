@@ -3467,5 +3467,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75942",
     "passage": ""
+  },
+  {
+    "id": 75943,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A member who raises a motion at a meeting is a",
+    "options": {
+      "A": "convener",
+      "B": "Proxy",
+      "C": "scrutinizer",
+      "D": "proposer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the context of a meeting, the person who raises a motion is known as the proposer. The proposer initiates a process of debate and decision- making on a particular issue. A scrutinizer is someone who examines something closely, a convener is a person who brings together a group of people for a meeting, and a proxy is a person authorized to act for another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75943",
+    "passage": ""
   }
 ]
