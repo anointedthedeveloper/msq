@@ -3944,5 +3944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73981",
     "passage": ""
+  },
+  {
+    "id": 73982,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Gịnị ka '80' pụtara n'Igbo?",
+    "options": {
+      "A": "Iri asatọ",
+      "B": "Asatọ na efu",
+      "C": "Asatọ",
+      "D": "Iri na asatọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "What is '80' in Igbo? Iri asatọ. '80' is written as \"Iri asatọ\" in Igbo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73982",
+    "passage": ""
   }
 ]
