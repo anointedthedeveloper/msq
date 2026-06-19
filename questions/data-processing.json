@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57195",
     "passage": ""
+  },
+  {
+    "id": 57212,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a source of data collection.",
+    "options": {
+      "A": "observation",
+      "B": "interview",
+      "C": "questionnaire",
+      "D": "classification"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Data collection is defined as the procedure of collecting, measuring and analyzing accurate insights for research using standard validated techniques. All the other processes help to achieve this apart from option D.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57212",
+    "passage": ""
   }
 ]
