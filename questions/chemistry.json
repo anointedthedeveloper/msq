@@ -5562,5 +5562,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2524",
     "passage": ""
+  },
+  {
+    "id": 2525,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The formula for ethyl butanoate is",
+    "options": {
+      "A": "C 3 H 7 COOC 2 H 5",
+      "B": "C 2 H 5 COOC 3 H 7",
+      "C": "C 4 H 9 COOC 2 H 5",
+      "D": "C 2 H 5 COOC 4 H 9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ethyl butyrate, also known as ethyl butanoate, or butyric ether, is an ester with the chemical formula CH₃CH₂CH₂COOCH₂CH₃.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2525",
+    "passage": ""
+  },
+  {
+    "id": 2526,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The type of reaction that is peculiar to benzene is?",
+    "options": {
+      "A": "addition",
+      "B": "hydrolysis",
+      "C": "polymerization",
+      "D": "substitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Benzene undergoes substitution reaction whereby one or more hydrogen atoms on the benzene ring is/are replaced by other atoms or groups of atoms. E.g CH\\(_3\\), OH, NO\\(_2\\), NH\\(_2\\) etc can be substituted to replace hydrogen atom.\nSubstitution reaction is a reaction where one functional group is exchanged for another. There are several types of substitution reactions, including nucleophilic, electrophilic, and free radical.\nA substitution reaction is more peculiar to benzene compared to an addition reaction; benzene primarily undergoes substitution reactions because addition reactions would disrupt its stable aromatic ring structure, causing it to lose its unique stability due to delocalized electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2526",
+    "passage": ""
   }
 ]
