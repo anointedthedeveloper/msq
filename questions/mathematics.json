@@ -15560,5 +15560,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23179",
     "passage": ""
+  },
+  {
+    "id": 23180,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The table above shows the scores of 15 students in a Physics test.\nHow many students scored at least 5?",
+    "options": {
+      "A": "1",
+      "B": "6",
+      "C": "8",
+      "D": "9",
+      "E": "14"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "No of students that scored at least 5 = 1 + 6 + 1 + 0 + 1 + 0\n= 9 students.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23180",
+    "passage": ""
   }
 ]
