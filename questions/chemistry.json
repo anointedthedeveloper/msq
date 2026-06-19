@@ -14653,5 +14653,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12932",
     "passage": ""
+  },
+  {
+    "id": 12935,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "A blue solid, T, which weighed 5.0g was placed on a table. After 8 hours, the resulting pink solid was found to weigh 5.5g. It can be inferred that substance T?",
+    "options": {
+      "A": "is deliquescent",
+      "B": "is hygroscopic",
+      "C": "has some molecules of water of crystallization",
+      "D": "is efflorescent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hygroscopic salts are compounds that readily absorb moisture from the surrounding air, and become sticky and remain solids.\nFrom the question, we were told the solid before exposure to air or placed on the table, weighed 5.0g and then after exposure to air for 8 hours, it was weighing 5.5g which suggests it has absorbed moisture. That accounts for the increase in weight. That substance is said to be a hygroscopic substance because they(hygroscopic substances) often behave in such manner.Unlike the deliquescent salts, they do not turn into solutions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12935",
+    "passage": ""
   }
 ]
