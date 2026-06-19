@@ -7864,5 +7864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76201",
     "passage": ""
+  },
+  {
+    "id": 76202,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace ka'ida ce ke sa kalmomi su sauya fasali a cikin nahawun Hausa?",
+    "options": {
+      "A": "Tsarin jumla",
+      "B": "Ka'idar girmamawa",
+      "C": "Ka'idar sarrafa kalmomi",
+      "D": "Tsarin lafazi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A cikin nahawun Hausa, ka'idar sarrafa kalmomi (morphology) tana nuna yadda kalma ke iya sauyawa ta hanyar kari ko sauyin sassa. Wannan ya hada da karin kari, gyaran tushen kalma, da dai sauransu. Wannan ke sa kalma daya ta zama suna, aiki, ko siffa bisa ga yadda aka tsara ta. Saboda haka, Zabi D ne daidai.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76202",
+    "passage": ""
   }
 ]
