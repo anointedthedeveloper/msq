@@ -12178,5 +12178,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4487",
     "passage": ""
+  },
+  {
+    "id": 4488,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If a reaction is exothermic and there is a great disorder, it means that?",
+    "options": {
+      "A": "the reaction is static",
+      "B": "the reaction is in a state of equilibrium",
+      "C": "there will be a large increase in free energy",
+      "D": "there will be a large decrease in free energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "If a reaction is exothermic and there is a great disorder for a spontaneous reaction to occur, a large decrease in free energy is evident.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4488",
+    "passage": ""
   }
 ]
