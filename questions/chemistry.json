@@ -8671,5 +8671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3741",
     "passage": ""
+  },
+  {
+    "id": 3742,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "5SO\\(_2\\)(g) + 2KMnO\\(_4\\)(aq) + 2H\\(_2\\)O(l) → K\\(_2\\)SO\\(_4\\) + 2MnSO\\(_4\\)(aq) + 2H\\(_2\\)SO\\(_4\\)(aq) In the reaction above, the products give a",
+    "options": {
+      "A": "purple solution",
+      "B": "purple precipitate",
+      "C": "colourless precipitate",
+      "D": "colourless solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When sulphur dioxide (SO₂) reacts with an acidified solution of potassium permanganate (KMnO₄), the initially purple solution turns colourless. The reason is because the reaction between SO₂ and KMnO₄ is a redox (reduction-oxidation) reaction. SO₂ acts as a reducing agent, meaning it causes the reduction of another substance (KMnO₄), While the permanganate ion (MnO₄⁻) in KMnO₄ is reduced to manganese(II) ions (Mn²⁺), which are colourless.\nSO₂ is oxidized to sulphate ions (SO₄²⁻), which are also colourless. So, the purple colour of KMnO₄ is due to the permanganate ion, and when this ion is reduced, the solution becomes colourless.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3742",
+    "passage": ""
   }
 ]
