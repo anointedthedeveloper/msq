@@ -5607,5 +5607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62426",
     "passage": ""
+  },
+  {
+    "id": 62427,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Converting 4B7\\(_16\\) to binary?",
+    "options": {
+      "A": "0100 1010 0111",
+      "B": "0100 1011 0111,",
+      "C": "0100 1000 0111,",
+      "D": "0100 1100 0111"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62427",
+    "passage": ""
   }
 ]
