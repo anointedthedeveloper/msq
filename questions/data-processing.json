@@ -4017,5 +4017,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58679",
     "passage": ""
+  },
+  {
+    "id": 58680,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Another term for Uniform Resources Locator (URL) is",
+    "options": {
+      "A": "website address",
+      "B": "IP address",
+      "C": "domain name",
+      "D": "data link"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A URL (Uniform Resource Locator) is a unique identifier used to locate a resource on the Internet. It is also referred to as a web address. URLs consist of multiple parts -- including a protocol and domain name -- that tell a web browser how and where to retrieve a resource.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58680",
+    "passage": ""
   }
 ]
