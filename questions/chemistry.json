@@ -9259,5 +9259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3849",
     "passage": ""
+  },
+  {
+    "id": 3853,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following decrease when a given mass of gas is compressed to half its initial volume?",
+    "options": {
+      "A": "Atomic radius of each",
+      "B": "Average intermolecular distance",
+      "C": "Frequency of collisions",
+      "D": "Number of molecules presents"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When a gas is compressed to half its volume, the average intermolecular distance decreases because the same number of gas molecules are now confined to a smaller space, forcing them closer together, resulting in a smaller average distance between each molecule.\nConversely, when the volume of a gas is reduced, the frequency of collisions between molecules increases; this is because the molecules have less space to move around, leading to more frequent interactions with each other and the container walls.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3853",
+    "passage": ""
   }
 ]
