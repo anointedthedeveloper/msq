@@ -3211,5 +3211,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11716",
     "passage": ""
+  },
+  {
+    "id": 11721,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The diagram above shows two capacitors P and Q of capacitance 5μF and 10μF. Find the charges stored in P and Q respectively",
+    "options": {
+      "A": "2μC and 4μC",
+      "B": "4μC and 2μC",
+      "C": "100μC and 200μC",
+      "D": "200μC and 100μC"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/yTDSPWexRy8gOPTHZhGPeDrlwwYZRvhtW7dDims0.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888698/myschool/physics/yTDSPWexRy8gOPTHZhGPeDrlwwYZRvhtW7dDims0.jpg",
+    "correct_answer": "C",
+    "explanation": "Since capacitance C = Q/V, => Q = CV ∴ Qp = 5 x 10\\(^{-6}\\) x 20 = 100 x 10\\(^{-6}\\) or 100μC Qp = 10 x 10\\(^{-6}\\) x 20 = 200 x 10\\(^{-6}\\) or 200μC Correct option 100μC and 200μC\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11721",
+    "passage": ""
   }
 ]
