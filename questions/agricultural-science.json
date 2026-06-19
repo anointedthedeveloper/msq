@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15808",
     "passage": ""
+  },
+  {
+    "id": 15811,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The type of rocks formed from the molten magma is known as",
+    "options": {
+      "A": "sedimentary",
+      "B": "igneous",
+      "C": "metamorphic",
+      "D": "schist",
+      "E": "sandstone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15811",
+    "passage": ""
   }
 ]
