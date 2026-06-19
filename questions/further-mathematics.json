@@ -2853,5 +2853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50455",
     "passage": ""
+  },
+  {
+    "id": 50457,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The gradient of a curve at the point (-2, 0) is \\(3x^{2} - 4x\\). Find the equation of the curve.",
+    "options": {
+      "A": "\\(y = 6x - 4\\)",
+      "B": "\\(y = 6x^{2} - 4x + 12\\)",
+      "C": "\\(y = x^{3} - 2x^{2}\\)",
+      "D": "\\(y = x^{3} - 2x^{2} + 16\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The gradient of a curve is gotten by differentiating the equation of the curve. Therefore, given the gradient, integrate to get the equation of the curve back.\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 4x\\)\n\\(y = \\int {(3x^{2} - 4x)} \\mathrm {d} x = \\frac{3x^{2+1}}{2+1} - \\frac{4x^{1+1}}{1+1} + c\\)\n= \\(x^{3} - 2x^{2} + c \\)\nTo find c (the constant of integration), when x = -2, y = 0\n\\(0 = (-2^{3}) - 2(-2^{2}) + c\\)\n\\(0 = -8 - 8 + c \\implies c = 16\\)\n\\(\\therefore y = x^{3} - 2x^{2} + 16\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50457",
+    "passage": ""
   }
 ]
