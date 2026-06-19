@@ -10350,5 +10350,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11110",
     "passage": ""
+  },
+  {
+    "id": 11111,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "PQRSTV is a regular polygon of side 7 cm inscribed in a circle. Find the circumference of the circle PQRSTV.",
+    "options": {
+      "A": "56 cm",
+      "B": "22 cm",
+      "C": "42 cm",
+      "D": "44 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Each interior Angle of the polygon = (n-2) 180 _n\n= (6-2) 180 _6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11111",
+    "passage": ""
   }
 ]
