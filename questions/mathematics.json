@@ -15054,5 +15054,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23156",
     "passage": ""
+  },
+  {
+    "id": 23157,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above PQT is a tangent to the circle QRS at Q. Angle QTR = 48° and ∠QRT = 95°. Find ∠QSR",
+    "options": {
+      "A": "48 o",
+      "B": "45 o",
+      "C": "37 o",
+      "D": "32 o",
+      "E": "30 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27688905460_wcmath199219.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909604/myschool/mathematics/27688905460_wcmath199219.jpg",
+    "correct_answer": "C",
+    "explanation": "∠RQT = 180° - (95° + 48°) = 37° ∠OQR = 90° - 37° = 53° ∠QOR = 180° - (53° + 53°) = 74° QSR = 74°/2 = 37°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23157",
+    "passage": ""
   }
 ]
