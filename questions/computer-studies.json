@@ -10969,5 +10969,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64100",
     "passage": ""
+  },
+  {
+    "id": 64101,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In any software package, which of the following versions represents a major improvement on the previous version?",
+    "options": {
+      "A": "1.0",
+      "B": "1.5",
+      "C": "2.0",
+      "D": "2.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Windows 2.0 allowed application windows to overlap each other, unlike its predecessor Windows 1.0, which could display only tiled windows. Windows 2.0 also introduced more sophisticated keyboard-shortcuts and the terminology of \"Minimize\" and \"Maximize\", as opposed to \"Iconize\" and \"Zoom\" in Windows 1.0. It was also the last version of Windows that did not require a hard disk. With the improved speed, reliability and usability, computers now started becoming a part of daily life for some workers. Desktop icons and use of keyboard shortcuts helped to speed up work",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64101",
+    "passage": ""
   }
 ]
