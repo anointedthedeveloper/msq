@@ -8440,5 +8440,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9305",
     "passage": ""
+  },
+  {
+    "id": 9306,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Evaluate \\(\\frac{81.81+99.44}{20.09+36.16}\\) correct to 3 significant figures.",
+    "options": {
+      "A": "6.24",
+      "B": "3.22",
+      "C": "2.78",
+      "D": "2.13"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{81.81 + 99.44}{20.09 + 36.16}\\\\ =\\frac{181.25}{56.25}\\\\ =\\frac{18125}{5625}\\\\ \\frac{29}{9}\\\\ =3\\frac{2}{9}\\\\ ≅ 3.22\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9306",
+    "passage": ""
   }
 ]
