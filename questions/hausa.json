@@ -7361,5 +7361,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75982",
     "passage": ""
+  },
+  {
+    "id": 75984,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Waka da kida\" ana amfani da su ne wajen me?",
+    "options": {
+      "A": "Karatu",
+      "B": "Bikin gargajiya",
+      "C": "Barci",
+      "D": "Cin abinci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Traditional songs and instruments in Hausa culture are commonly used during cultural ceremonies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75984",
+    "passage": ""
   }
 ]
