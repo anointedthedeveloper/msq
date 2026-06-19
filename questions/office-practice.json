@@ -2259,5 +2259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66586",
     "passage": ""
+  },
+  {
+    "id": 66587,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following activities is a function of an office?",
+    "options": {
+      "A": "Receiving information",
+      "B": "Punishing late comers",
+      "C": "Calculating of workers salaries",
+      "D": "Welcoming visitors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The function of an office are, sorting information, storing information, gathering information, receiving information etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66587",
+    "passage": ""
   }
 ]
