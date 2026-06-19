@@ -7684,5 +7684,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3270",
     "passage": ""
+  },
+  {
+    "id": 3271,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In a flame test for calcium, the flame appears",
+    "options": {
+      "A": "green when viewed through a blue glass",
+      "B": "blue when viewed through a blue glass",
+      "C": "orange -red when viewed through a blue glass",
+      "D": "brick-red when viewed through a blue-glass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When a Calcium compound is held in a non-luminous Bunsen flame and viewed directly with the naked eye, it is seen as brick red,then as light green as seen through blue glass.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3271",
+    "passage": ""
   }
 ]
