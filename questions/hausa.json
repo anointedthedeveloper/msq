@@ -3840,5 +3840,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73872",
     "passage": ""
+  },
+  {
+    "id": 73873,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "(same passage)\nSarkin fawa shi ne mai kula da",
+    "options": {
+      "A": "Mahauta",
+      "B": "Makera",
+      "C": "Maharta",
+      "D": "Magina"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The text mentions that Sarkin Fawa is the leader of the farmers, and Mahauta is the traditional occupation of farming",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73873",
+    "passage": ""
   }
 ]
