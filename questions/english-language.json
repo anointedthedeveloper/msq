@@ -3121,5 +3121,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1363",
     "passage": ""
+  },
+  {
+    "id": 1364,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The neighbour's children always make ... when she is not at home",
+    "options": {
+      "A": "noises",
+      "B": "lots of noise",
+      "C": "plenty of noise",
+      "D": "lots of noise",
+      "E": "a lot of noise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The phrase \"make a lot of noise\" is the most natural and grammatically correct expression in English. You make use of \"lots of\" and \"plenty of\" to quantify countable nouns but make use of \"a lot of\" to quantify uncountable nouns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1364",
+    "passage": ""
   }
 ]
