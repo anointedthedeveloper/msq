@@ -12284,5 +12284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22409",
     "passage": ""
+  },
+  {
+    "id": 22410,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following gives the point of intersection of the graph y = x2 and y = x + 6 shown above?",
+    "options": {
+      "A": "(0,6), (3,9)",
+      "B": "(-3, 0)(2,4)",
+      "C": "(-2,4)(3,9)",
+      "D": "(-2,3)(-3,2)",
+      "E": "(-2,2)(3,6)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9Ja8K8pyZ6J3qYHULDQGNoDzM1ab32GmSpjtSl3I.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907557/myschool/mathematics/9Ja8K8pyZ6J3qYHULDQGNoDzM1ab32GmSpjtSl3I.jpg",
+    "correct_answer": "C",
+    "explanation": "From the graph; when x = -2, y = 4 (-2, 4) x = 3.0, y = 9; (3,9) (-2, 4)(3,9)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22410",
+    "passage": ""
   }
 ]
