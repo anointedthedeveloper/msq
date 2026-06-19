@@ -4541,5 +4541,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62283",
     "passage": ""
+  },
+  {
+    "id": 62284,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following statements is true of encryption? It",
+    "options": {
+      "A": "provides complete privacy.",
+      "B": "provides security of varying reliability.",
+      "C": "makes messages un- readable by the recipient.",
+      "D": "permits an individual to have access to another person's message."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62284",
+    "passage": ""
   }
 ]
