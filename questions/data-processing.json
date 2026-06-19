@@ -6416,5 +6416,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62625",
     "passage": ""
+  },
+  {
+    "id": 62626,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following terms is not a feature of distributed database?",
+    "options": {
+      "A": "Fragmentation",
+      "B": "Multiple storage",
+      "C": "Replication",
+      "D": "Single server"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62626",
+    "passage": ""
   }
 ]
