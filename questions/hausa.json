@@ -7801,5 +7801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76197",
     "passage": ""
+  },
+  {
+    "id": 76199,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wadanne ne nau'ikan nau'in labari na tatsuniya?",
+    "options": {
+      "A": "Zamani da tarihi",
+      "B": "Al'amura da abubuwa",
+      "C": "Kwakwalwa da almara",
+      "D": "Wasanni da waka"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tatsuniya has types like folklore and fable in Hausa culture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76199",
+    "passage": ""
   }
 ]
