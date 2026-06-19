@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72431",
     "passage": ""
+  },
+  {
+    "id": 72432,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "I have no intention of coming to your house.",
+    "options": {
+      "A": "Mi ò ti è gbèrò láti lọ si ilé rè",
+      "B": "Mi ò gbèrò láti wá sí ilé re.",
+      "C": "Mi ò nií gbèrò láti wả sí ilé re",
+      "D": "Miò gbèrò láti lọ sí ilé rè."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72432",
+    "passage": ""
   }
 ]
