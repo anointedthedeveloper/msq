@@ -10885,5 +10885,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64096",
     "passage": ""
+  },
+  {
+    "id": 64097,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The acronym IP address has its full meaning to be _________",
+    "options": {
+      "A": "Internet protocol",
+      "B": "Internet password",
+      "C": "International processing",
+      "D": "Internet processing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Internet protocol is the full meaning of the acronym IP.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64097",
+    "passage": ""
   }
 ]
