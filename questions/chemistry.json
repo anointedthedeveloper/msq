@@ -8923,5 +8923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3791",
     "passage": ""
+  },
+  {
+    "id": 3796,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "H\\(_3\\)PO\\(_4\\)(aq) + H\\(_2\\)O(l) ↔ H\\(_2\\)PO\\(^{4-}\\)(aq) + H\\(_3\\)O\\(^+\\)(aq)    ΔH = -13kJ at 298K In the reaction above, an increase in temperature would",
+    "options": {
+      "A": "slow down the reverse reaction",
+      "B": "have no effect on the reaction",
+      "C": "favour the reverse reaction",
+      "D": "favour the forward reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In an exothermic reaction, an increase in temperature will favour the reactants (shift the reaction towards the left), meaning the reaction will produce less product as heat is considered a product in an exothermic reaction; according to Le Chatelier's principle, the system will try to counteract the added heat by favouring the reactant side. Thus, the reverse reaction will be favoured.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3796",
+    "passage": ""
   }
 ]
