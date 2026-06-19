@@ -438,5 +438,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72870",
     "passage": ""
+  },
+  {
+    "id": 72874,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A self balancing ledger is",
+    "options": {
+      "A": "Trading account",
+      "B": "Control account",
+      "C": "Sales ledger",
+      "D": "Petty cash book"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "After appropriating all transactions to their places ,the appropriation account balance off",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72874",
+    "passage": ""
   }
 ]
