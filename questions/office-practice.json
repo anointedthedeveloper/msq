@@ -2070,5 +2070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66571",
     "passage": ""
+  },
+  {
+    "id": 66572,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Use the diagram above to answer questions below\nWhich of the following names comes first in alphabetical filing?",
+    "options": {
+      "A": "R.A.D Johnson",
+      "B": "A.R.D Johnson",
+      "C": "Dr. R.A.D Johnson",
+      "D": "Dr. A.R.D Johnson"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/CfbZr28ZLkAgtKTj6QPHxi5gxNtAc9cGJNHuxeWr.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901573/myschool/office-practice/CfbZr28ZLkAgtKTj6QPHxi5gxNtAc9cGJNHuxeWr.jpg",
+    "correct_answer": "D",
+    "explanation": "Alphabetical filing is a method in which files and folders are arranged in order of alphabets of the names of person or institution concerned with such file. It may be dome using either the first names or surnames, but whichever is chosen must be consistent throughout the particular filing system. However, initial comes first before the names.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66572",
+    "passage": ""
   }
 ]
