@@ -4555,5 +4555,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8209",
     "passage": ""
+  },
+  {
+    "id": 8210,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Find\nP\n, if 451\n6\n-\nP\n7\n= 305\n6",
+    "options": {
+      "A": "62 7",
+      "B": "116 7",
+      "C": "611 7",
+      "D": "142 7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8210",
+    "passage": ""
   }
 ]
