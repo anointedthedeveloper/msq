@@ -8756,5 +8756,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72350",
     "passage": ""
+  },
+  {
+    "id": 72351,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "To add a new column to the right of the IGR column on the interface in the figure above, the user would.",
+    "options": {
+      "A": "right click on cell Cl snf thrn click on insert",
+      "B": "right click on cell Dl and then click on user",
+      "C": "right click on column C and then click on insert",
+      "D": "right click on column D and the click on user"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/QaavjOXaMOs9zCAOFwbcoDr6jEZJKELDyHXvqRcQ.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912295/myschool/data-processing/QaavjOXaMOs9zCAOFwbcoDr6jEZJKELDyHXvqRcQ.jpg",
+    "correct_answer": "D",
+    "explanation": "Right-click on the column to the RIGHT of where you want the new column to be inserted, which is column D in this case and then click on insert.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72351",
+    "passage": ""
   }
 ]
