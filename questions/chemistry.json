@@ -4134,5 +4134,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1756",
     "passage": ""
+  },
+  {
+    "id": 1757,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Three drops of a 1.0 mol dm-3 solution of NaOH are added to 20 cm3 of a solution of pH 8.4. The pH of the resulting solution will?",
+    "options": {
+      "A": "Close to that of pure water",
+      "B": "Unaltered",
+      "C": "Greater than 8.4",
+      "D": "Less than 8.4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A strong base is one that fully dissociates to give ions in solution. Weak bases only partially dissociate in a solution,\nwhile the strong bases dissociate fully in a solution. Weak bases have pH 7.3 – 10, strong ones have pH 10 – 14 .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1757",
+    "passage": ""
   }
 ]
