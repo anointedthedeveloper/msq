@@ -10864,5 +10864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64095",
     "passage": ""
+  },
+  {
+    "id": 64096,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "For what does WAN stand?",
+    "options": {
+      "A": "World application network",
+      "B": "Wide area network",
+      "C": "Wide acreage network",
+      "D": "Work arrangement network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In its simplest form, a wide-area network (WAN) is a collection of local-area networks (LANs) or other networks that communicate with one another. A WAN is essentially a network of networks, with the Internet the world's largest WAN",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64096",
+    "passage": ""
   }
 ]
