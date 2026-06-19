@@ -16616,5 +16616,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23228",
     "passage": ""
+  },
+  {
+    "id": 23229,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "How many students scored less than 7 marks?",
+    "options": {
+      "A": "9",
+      "B": "15",
+      "C": "18",
+      "D": "21",
+      "E": "25"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13847860540_wcmath199343.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910462/myschool/mathematics/13847860540_wcmath199343.jpg",
+    "correct_answer": "B",
+    "explanation": "= 2 + 4 + 3 + 6\n= 15 students scored less than 7 marks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23229",
+    "passage": ""
   }
 ]
