@@ -11956,5 +11956,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64314",
     "passage": ""
+  },
+  {
+    "id": 64315,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the full form of UDP?",
+    "options": {
+      "A": "User Datagram Packet",
+      "B": "User Data Packet",
+      "C": "User Datagram Protocol",
+      "D": "Unique Data Protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "User datagram protocol (UDP) operates on top of the Internet Protocol (IP) to transmit datagrams over a network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64315",
+    "passage": ""
   }
 ]
