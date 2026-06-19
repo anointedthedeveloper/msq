@@ -7464,5 +7464,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62538",
     "passage": ""
+  },
+  {
+    "id": 62539,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The major components of a computer system are?",
+    "options": {
+      "A": "fimware and humanware",
+      "B": "hardware and firmware",
+      "C": "hardware and software",
+      "D": "software and firmware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62539",
+    "passage": ""
   }
 ]
