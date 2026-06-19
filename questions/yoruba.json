@@ -481,5 +481,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72427",
     "passage": ""
+  },
+  {
+    "id": 72428,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Nínú \"ó pàdé mi\", pådé jệ òrỳ-işe",
+    "options": {
+      "A": "aláiléní",
+      "B": "alápèpadà",
+      "C": "àkànmórúko",
+      "D": "agbèrún"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72428",
+    "passage": ""
+  },
+  {
+    "id": 72429,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Åpólà orúkọ tí kò ní àpónlé èyán nínú ni",
+    "options": {
+      "A": "ilé nlá méji",
+      "B": "iyàwó kan şoşo",
+      "C": "omi tútù nini",
+      "D": "eni méji péré"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72429",
+    "passage": ""
+  },
+  {
+    "id": 72430,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Apeere gbólóhùn àbòdé ni",
+    "options": {
+      "A": "A kí i sùgbón kò dáhùn",
+      "B": "Órí Olú ní àná",
+      "C": "Mo fé kí o wá silé",
+      "D": "Wá lo ra ata ní ojà"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72430",
+    "passage": ""
   }
 ]
