@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75299",
     "passage": ""
+  },
+  {
+    "id": 75301,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following art forms is considered two-dimensional?",
+    "options": {
+      "A": "Textile weaving",
+      "B": "Pottery",
+      "C": "Sculpture",
+      "D": "Painting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Painting exists on a flat surface and lacks physical depth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75301",
+    "passage": ""
   }
 ]
