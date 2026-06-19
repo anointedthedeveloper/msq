@@ -10014,5 +10014,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10767",
     "passage": ""
+  },
+  {
+    "id": 10770,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The bar chart above shows different colours of passing a particular point of a certain street in two minutes. What fraction of the total number of cars is yellow?",
+    "options": {
+      "A": "3 / 25",
+      "B": "2 / 25",
+      "C": "1 / 5",
+      "D": "4 / 15"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25807577621_math200148.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868946/myschool/mathematics/25807577621_math200148.jpg",
+    "correct_answer": "A",
+    "explanation": "Number of yellow cars = 3 Total number of cars = 3 + 4 + 8 + 2 + 6 + 2 = 25 Fraction of yellow cars = 3/25\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10770",
+    "passage": ""
   }
 ]
