@@ -14988,5 +14988,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23153",
     "passage": ""
+  },
+  {
+    "id": 23154,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The volume of a cone of height 9cm is 1848cm\\(^3\\). Find its radius. [Take π = 22/7]",
+    "options": {
+      "A": "7cm",
+      "B": "14cm",
+      "C": "28cm",
+      "D": "98cm",
+      "E": "196cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1/3 πr\\(^2\\) x 9 = 1848 3 x πr2 = 1848 r2 = 1848/3 x 7/22 r = 14\n\\(\\text{Volume of a cone} = \\frac{1}{3} \\pi r^2 h\\)\n\\(\\frac{1}{3} \\times \\frac{22}{7} \\times r^2 \\times 9 = 1848\\)\n\\(r^2 = \\frac{1848 \\times 7}{22 \\times 3}\\)\n\\(r^2 = 196 \\therefore r = 14cm\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23154",
+    "passage": ""
   }
 ]
