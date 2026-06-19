@@ -16074,5 +16074,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67805",
     "passage": ""
+  },
+  {
+    "id": 67807,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not an application software",
+    "options": {
+      "A": "MS - Word",
+      "B": "Corel Draw",
+      "C": "Linux",
+      "D": "MacWrite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Linux is not an application software. It is an example of system software.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67807",
+    "passage": ""
   }
 ]
