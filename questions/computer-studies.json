@@ -18201,5 +18201,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70802",
     "passage": ""
+  },
+  {
+    "id": 70803,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the purpose of the design phase in program development?",
+    "options": {
+      "A": "To provide program documentation",
+      "B": "To test the program",
+      "C": "To create a flow chart and algorithm",
+      "D": "To write the source code"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The purpose of the design phase is to create a flowchart and algorithm that outline the logical steps the program will take to solve the problem. This helps in planning the program's structure before coding begins.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70803",
+    "passage": ""
   }
 ]
