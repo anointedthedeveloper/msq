@@ -4030,5 +4030,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12265",
     "passage": ""
+  },
+  {
+    "id": 12266,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A test tube of radius 1.0cm is loaded to 8.8g. If is placed upright in water, find the depth to which it would sink",
+    "options": {
+      "A": "2.8cm",
+      "B": "5.2cm",
+      "C": "25.5cm",
+      "D": "28.0cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To find the depth to which a test tube sinks when placed upright in water, we apply the principle of buoyancy.\nGiven: - Radius of the test tube, \\( r = 1.0 \\, \\text{cm} = 0.01 \\, \\text{m} \\) - Mass of the test tube, \\( m = 8.8 \\, \\text{g} = 0.0088 \\, \\text{kg} \\) - Density of water, \\( \\rho = 1000 \\, \\text{kg/m}^3 \\) - Acceleration due to gravity, \\( g = 10 \\, \\text{m/s}^2 \\)\nCalculate the weight of the test tube The weight \\( W \\) of the test tube is given by: \\(W = mg = 0.0088 \\, \\text{kg} \\times 10 \\, \\text{m/s}^2 = 0.088 \\, \\text{N}\\)\nCalculate the buoyant force The buoyant force \\( F_b \\) is given by: \\(F_b = \\rho g V_{\\text{displaced}} = \\rho g \\pi r^2 h\\)\nBut, the buoyant force is equal to the weight: \\(\\rho g \\pi r^2 h = W\\) Substituting the known values: \\(1000 \\times 10 \\times \\pi \\times (0.01)^2 \\times h = 0.088\\)\nSolve for \\( h \\) Rearranging gives: \\(h = \\frac{0.088}{1000 \\times 10 \\times \\pi \\times (0.01)^2}\\)\nCalculating: \\(h = \\frac{0.088}{1000 \\times 10 \\times \\pi \\times 0.0001} = \\frac{0.088}{3.142} \\approx 0.028 \\, \\text{m}\\) ≈ 2.8cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12266",
+    "passage": ""
   }
 ]
