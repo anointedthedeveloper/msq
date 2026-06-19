@@ -16389,5 +16389,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67841",
     "passage": ""
+  },
+  {
+    "id": 67842,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The two types of operating system are",
+    "options": {
+      "A": "command line and graphical user interface",
+      "B": "translators and assemblers",
+      "C": "system software and application software",
+      "D": "UNIX and LINUX"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Operating systems can be categorized into two types based on their user interface: Command Line Interface (CLI) and Graphical User Interface (GUI). CLI requires users to type commands to interact with the system, while GUI uses visual elements like icons, windows, and buttons for interaction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67842",
+    "passage": ""
   }
 ]
