@@ -11695,5 +11695,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4464",
     "passage": ""
+  },
+  {
+    "id": 4465,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The droplets of water observed around a bottle of milk taken out of the refrigerator is due to the fact that the?",
+    "options": {
+      "A": "water vapour in the air around the bottle gains some energy from the bottle",
+      "B": "temperature of the milk drops as it loses heat into the surroundings",
+      "C": "saturated vapour pressure of the milk is equal to the atmospheric pressure",
+      "D": "water vapour in the air around the bottle loses some of its energy to the bottle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When a cold milk bottle is taken out from the refrigerator, the water vapor in the air around the bottle comes in contact with the cold surface of the bottle and gets condensed.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4465",
+    "passage": ""
   }
 ]
