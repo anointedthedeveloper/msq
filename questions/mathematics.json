@@ -6466,5 +6466,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9041",
     "passage": ""
+  },
+  {
+    "id": 9042,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If y = x\\(^2\\) - x - 12, find the range of values of x for which y \\( \\geq \\) 0",
+    "options": {
+      "A": "x < -3 0r x > 4",
+      "B": "x \\( \\leq \\) -3 or x \\( \\geq \\) 4",
+      "C": "-3 < x \\( \\geq \\) 4",
+      "D": "-3 \\( \\leq \\) x \\( \\leq \\) 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "y = x\\(^2\\) - x - 12 = (x - 4)(x + 3) ∴ x = 4 or x = -3 Checking the cases for y \\( \\geq \\) 0 We check values on the range x - 4 \\(\\geq\\) 0; x + 3 \\(\\leq\\) 0; x - 4 \\(\\leq\\) 0 and x + 3 \\(\\geq\\) 0 for the range which satisfies the inequality x\\(^2\\) - x - 12 \\(\\geq\\) 0.\nWe find that the inequality is satisfied on the range x \\(\\leq\\) -3 and x \\(\\geq\\) 4.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9042",
+    "passage": ""
   }
 ]
