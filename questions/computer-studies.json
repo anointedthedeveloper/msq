@@ -15927,5 +15927,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67794",
     "passage": ""
+  },
+  {
+    "id": 67796,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of these is not true about peer-to-peer network ?",
+    "options": {
+      "A": "there is no dedicated servers",
+      "B": "it has a strong security system",
+      "C": "all computers in this network are known as peers",
+      "D": "there is no hierarchy among the computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A peer-to-peer (P2P) network is a decentralized network where each computer (peer) acts as both a client and a server. This means that there are no dedicated servers and no hierarchy among the computers. However, P2P networks are generally not known for having a strong security system. This is because each peer has equal access to the resources, which can lead to potential security risks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67796",
+    "passage": ""
   }
 ]
