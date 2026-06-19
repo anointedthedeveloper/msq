@@ -240,5 +240,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/308",
     "passage": ""
+  },
+  {
+    "id": 315,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The following events take place during conjugation in spirogyra 1. The protoplasm of each of the conjugating cell separate from the cell wall to form a Gamete; the gamete of one filament passes through the conjugation tube to meet the gamete of the other filament 2. The zygote soon become surrounded by thick brown wall to become zygospore which burst after a short rest and germinate to produce a new filament 3. The nuclei of the gametes fuse to form a zygote 4. The protuberance meet and where they touch the cell-wall disappear so that a conjugation tube joining the two cell is formed 5. protuberance appear on the wall of the cell of two filament of spirogyra lying side by side opposite one another. Now what is the correct sequence in which the above sequence occur?",
+    "options": {
+      "A": "1,2,3,4,5",
+      "B": "1,2,4,5,3",
+      "C": "3,4,5,2,1",
+      "D": "5,4,1,3,2",
+      "E": "5,4,3,1,2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sexual reproduction in Spirogyra occurs by a process known as conjugation, in which cells of two filaments lying side by side are joined by outgrowths called conjugation tubes. This allows the contents of one cell to completely pass into and fuse with the contents of the other. The resulting fused cell (zygote) becomes surrounded by a thick wall and overwinters, while the vegetative filaments die.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/315",
+    "passage": ""
   }
 ]
