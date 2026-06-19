@@ -11989,5 +11989,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4478",
     "passage": ""
+  },
+  {
+    "id": 4479,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The acid that is used to remove rust is?",
+    "options": {
+      "A": "boric",
+      "B": "hydrochloric",
+      "C": "trioxonitrate (V)",
+      "D": "tetraoxosulphate (VI)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4479",
+    "passage": ""
   }
 ]
