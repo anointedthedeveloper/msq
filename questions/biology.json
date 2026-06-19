@@ -1824,5 +1824,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/462",
     "passage": ""
+  },
+  {
+    "id": 463,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The element nitrogen is utilized in",
+    "options": {
+      "A": "Formation of ATP",
+      "B": "Formation of glucose",
+      "C": "Formation of amino acid",
+      "D": "Photosynthesis",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/463",
+    "passage": ""
   }
 ]
