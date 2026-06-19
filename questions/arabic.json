@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75273",
     "passage": ""
+  },
+  {
+    "id": 75275,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\".ترجم: \"ذهب أبي إلى المستشفى",
+    "options": {
+      "A": "My brother went to the hospital",
+      "B": "My uncle went to the market",
+      "C": "My father went to the hospital",
+      "D": "My father stayed at home"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Îwi\"means \"my father went\" and it is a verbal sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75275",
+    "passage": ""
   }
 ]
