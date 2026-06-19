@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/309",
     "passage": ""
+  },
+  {
+    "id": 313,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A ball of mass 0.1kg is thrown vertically upwards with a speed of 10ms-1 from the top of a tower 10m high. Neglecting air resistance, its total energy just before hitting the ground is (take g = 10ms-2)",
+    "options": {
+      "A": "5 J",
+      "B": "10 J",
+      "C": "15 J",
+      "D": "20 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Total Energy  = Kinetic Energy + Potential Energy\nP.E = mgh = 0.1 x 10 x 10= 10 J\nK.E = \\(\\frac{1}{2}\\) MV\\(^2\\) =  \\(\\frac{1}{2}\\) x 0.1 x 10\\(^2\\) = 0.5 x 0.1 x 100 = 5J\nT.E = K.E + P.E = 5 + 10 = 15J",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/313",
+    "passage": ""
   }
 ]
