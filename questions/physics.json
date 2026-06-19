@@ -2770,5 +2770,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9791",
     "passage": ""
+  },
+  {
+    "id": 9792,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "the pressure of 3 moles of an ideal gas at a temperature of 27°C having a volume of 10\n-3\nm\n3\nis",
+    "options": {
+      "A": "2.49 x 10 5 -2",
+      "B": "7.47 x 10 5 -2",
+      "C": "2.49 x 10 6 -2",
+      "D": "7.47 x 10 6 -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "-3\n-1\n-1\n-3\n6\n-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9792",
+    "passage": ""
   }
 ]
