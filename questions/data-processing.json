@@ -5436,5 +5436,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59010",
     "passage": ""
+  },
+  {
+    "id": 59011,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following file organization requires a primary key",
+    "options": {
+      "A": "Indexed file organization",
+      "B": "Random file organization",
+      "C": "Serial file organization",
+      "D": "Sequential file organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An indexed file is a file in which each record includes a primary key. To distinguish one record from another, the primary key's value must be unique for each record. Records can then be accessed randomly by specifying the value of the record's primary key.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59011",
+    "passage": ""
   }
 ]
