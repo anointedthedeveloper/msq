@@ -12019,5 +12019,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64317",
     "passage": ""
+  },
+  {
+    "id": 64318,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What does an Operating System do?",
+    "options": {
+      "A": "Memory Management",
+      "B": "File Management",
+      "C": "Application Management",
+      "D": "All of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Operating System (OS) is a program that manages a computer's resources, especially the allocation of those resources among other programs. Typical resources include the central processing unit (CPU), computer memory, file storage, input/output (I/O) devices, and network connections.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64318",
+    "passage": ""
   }
 ]
