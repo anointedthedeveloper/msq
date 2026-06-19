@@ -13216,5 +13216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64383",
     "passage": ""
+  },
+  {
+    "id": 64384,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which process is used by large retailers to study trends?",
+    "options": {
+      "A": "Data mining",
+      "B": "Data selection",
+      "C": "Data conversion",
+      "D": "Pos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Data mining is used to study trends by large retailers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64384",
+    "passage": ""
   }
 ]
