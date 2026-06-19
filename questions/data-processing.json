@@ -7105,5 +7105,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67144",
     "passage": ""
+  },
+  {
+    "id": 67145,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Computer virus replicates itself into",
+    "options": {
+      "A": "Execution phase",
+      "B": "Trigger phase",
+      "C": "Propagation phase",
+      "D": "Dormant phase"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the propagation phase, the virus is fruitful and multiplies. The virus will start to insert copies of itself into other programs or areas on the disk. These copies are often altered in some way to make detection more difficult.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67145",
+    "passage": ""
   }
 ]
