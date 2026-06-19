@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73201",
     "passage": ""
+  },
+  {
+    "id": 73202,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The colour code for a live wire is:",
+    "options": {
+      "A": "Blue",
+      "B": "Red",
+      "C": "Yellow",
+      "D": "Green"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The color code for a live wire can be either red or black, depending on the country and the type of electrical circuit. In the United States and Canada, a black wire is used for hot wires that carry current, while red wires are used for the second hot wire in 240-volt installations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73202",
+    "passage": ""
   }
 ]
