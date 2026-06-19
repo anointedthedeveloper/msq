@@ -10975,5 +10975,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69543",
     "passage": ""
+  },
+  {
+    "id": 69546,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Road signs are usually",
+    "options": {
+      "A": "informative and persuasive",
+      "B": "punitive and informative",
+      "C": "persuasive and regulatory",
+      "D": "regulatory and informative"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Road signs are usually regulatory and informative. Regulatory signs instruct road users on what they must or must not do under certain circumstances. Informative signs provide information about the road conditions, route directions, and points of geographical or historical interest.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69546",
+    "passage": ""
   }
 ]
