@@ -11088,5 +11088,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7088",
     "passage": ""
+  },
+  {
+    "id": 7089,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A public company has 2 000 000 ordinary shares of 50k each and offers 50% for subscription at N2 per share. If the shares were fully subscribed, calculate the issued capital?",
+    "options": {
+      "A": "N4 000 000",
+      "B": "N2 000 000",
+      "C": "N1 000 000",
+      "D": "500 000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Total number of ordinary shares: 2,000,000.\nNominal value of each share: 50k (which is N0.50)\nSubscription offer: 50% of the shares\nSubscription price: N2 per share\nShares offered for subscription = 5% of 2,000,000 = 1,000,000.\nIssued Capital = Shares offered × Subscription price = 1,000,000 x 2 = N2,000,000.\nThe issued capital when the shares are fully subscribed is N2,000,000.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7089",
+    "passage": ""
   }
 ]
