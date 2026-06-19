@@ -6773,5 +6773,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75930",
     "passage": ""
+  },
+  {
+    "id": 75931,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Read the passage and answer questions below. \"Akwai wani yaro mai suna Umar, wanda ke zaune a garin Funtua. Umar na da sha'awar karatu sosai, musamman kimiyya. Duk da cewa iyayensa ba su da karfi, suna dagewa wajen tallafa masa domin cimma burinsa. Kullum yana zuwa makaranta da wuri, yana kuma taimaka wa malamansa. Ranar wata gasa ta kimiyya, Umar ya lashe kyauta ta farko. Wannan ya sa aka yaba masa a makarantar gaba ɗaya.\"\nMene ne Umar ke sha'awa sosai?",
+    "options": {
+      "A": "Kasuwanci",
+      "B": "Noma",
+      "C": "Kwallon kafa",
+      "D": "Kimiyya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The passage clearly mentions that Umar is especially interested in kimiyya, which means \"science.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75931",
+    "passage": ""
   }
 ]
