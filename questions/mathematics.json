@@ -5857,5 +5857,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8732",
     "passage": ""
+  },
+  {
+    "id": 8741,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "simplify \\(\\frac{\\frac{7}{9}-\\frac{2}{3}}{\\frac{1}{3}+\\frac{\\frac{2}{5}}{\\frac{4}{5}}}\\)",
+    "options": {
+      "A": "\\(\\frac{11}{12}\\)",
+      "B": "\\(\\frac{5}{6}\\)",
+      "C": "\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{2}{15}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8741",
+    "passage": ""
   }
 ]
