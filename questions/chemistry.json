@@ -1950,5 +1950,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1485",
     "passage": ""
+  },
+  {
+    "id": 1486,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The ratio of the initial to final pressure of a given mass of gas is 1:1.5. Calculate the final volume of the gas if the initial volume was 300 cm\n3\nat the same temperature",
+    "options": {
+      "A": "120 cm 3",
+      "B": "200 cm 3",
+      "C": "450 cm 3",
+      "D": "750 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1486",
+    "passage": ""
   }
 ]
