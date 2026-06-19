@@ -9196,5 +9196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9364",
     "passage": ""
+  },
+  {
+    "id": 9365,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The pie chart above represents 400 fruits on display in a grocery store. How many apples are in the store?",
+    "options": {
+      "A": "45",
+      "B": "50",
+      "C": "60",
+      "D": "75"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20362397190_math200943.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868867/myschool/mathematics/20362397190_math200943.jpg",
+    "correct_answer": "B",
+    "explanation": "Sectorial angle of apple 100 + 100 + 115 + x = 30o 315 + x = 360 x = 360 - 315 x = 45o 360o represents 400 1o represents 400 / 360 45o represents (400/360) x (45/1) = 50 apples\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9365",
+    "passage": ""
   }
 ]
