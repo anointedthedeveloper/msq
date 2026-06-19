@@ -7453,5 +7453,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3227",
     "passage": ""
+  },
+  {
+    "id": 3229,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When pure aluminium metal is heated to red hot in the presence of nitrogen gas, the compound formed is",
+    "options": {
+      "A": "Al 2 N",
+      "B": "Al 2 N 2",
+      "C": "AlN",
+      "D": "Al 2 N 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When pure aluminum metal is heated to red-hot in the presence of nitrogen gas, it undergoes a chemical reaction, forming aluminum nitride (AlN).\nThe reaction can be represented by the following balanced chemical equation: 2 Al(s) + N₂(g) → 2 AlN(s).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3229",
+    "passage": ""
   }
 ]
