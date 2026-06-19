@@ -2350,5 +2350,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68260",
     "passage": ""
+  },
+  {
+    "id": 68261,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are the examples of sports except",
+    "options": {
+      "A": "canoeing",
+      "B": "racing",
+      "C": "Camping",
+      "D": "marketing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "marketing, the sum of activities involved in directing the flow of goods and services from producers to consumers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68261",
+    "passage": ""
   }
 ]
