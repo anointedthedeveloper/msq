@@ -7053,5 +7053,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62516",
     "passage": ""
+  },
+  {
+    "id": 62517,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) In a tabular form, state two differences between random access memory and read only memory\n(b) State four characteristics of windows operating system environment.\n(c) list two examples of utility programs",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a) DIFFERENCES BETWEEN RAM AND ROM\nS/N RANDOM ACCESS MEMORY(RAM) READ ONLY MEMORY(ROM) Volatile Non-volatile Content of RAM can be read, changed or added or added Content of ROM can only be read but cannot be changed RAM chips are relatively expensive ROM chips are relatively less expensive RAM stores all the applications and data when the computer is running ROM chips are fast RAM chips are bigger in size Storage capacity of ROM installed in a computer is much lesser Processor can directly access the content of RAM ROM usually stores instructions that are required for starting (booting) the computer RAM chips are slow ROM chips are smaller in size Content of ROM are usually first transferred to RAM and then accessed by processor. This is done in order to be able to access RAM is often installed with large storage ROM content at a faster speed\n(b) CHARACTERISTICS OF WINDOWS OPERATING SYSTEM\n(i) It is a multi-tasking environment (ii) It is a user-friendly environment (ii) It has usual interactive capabilities (iv) It has object linking and embodiments\n(v) It has icons which represents commands (Vi) Windows enhances easy file transfer (vii) Ease of access of files, folders, etc.\n(Viii) lt has good security (password/encryption) features (ix)Windows operating system promotes system upgrade\n(x) It enables easy searching/organising of files and folders (xi) System activities can be monitored easily (xii) Default setting can be adjusted/ customised\n(xiii) Windows promotes remote desktop connected by entering the IP address of the other computer (xiv) Time sharing (xv) Abstraction (xvi) Memory management (xvii) Multi-user environment\n(c) EXAMPLES OF UTILITY PROGRAMS\n(i) Editor (ii) Disk defragmenter (iii) Registry cleaner (iv) Device drivers (v) Backup software (vi) Anti-virus (vii) Disk clean-up (viii) Scan disk (Viii) Firmware",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62517",
+    "passage": ""
   }
 ]
