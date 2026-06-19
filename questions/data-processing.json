@@ -1060,5 +1060,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57704",
     "passage": ""
+  },
+  {
+    "id": 57705,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is a negative impact of ICT in education?",
+    "options": {
+      "A": "Plagiarism",
+      "B": "E-Library",
+      "C": "Distance Learning",
+      "D": "Computer-based test"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "One of the negative aspects of using technology for education and especially for assessment is its potential to support academic dishonesty and plagiarism is the practice of taking someone else's work or ideas and passing them off as one's own.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57705",
+    "passage": ""
   }
 ]
