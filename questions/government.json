@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/78",
     "passage": ""
+  },
+  {
+    "id": 80,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In the legislative process, a bill is a",
+    "options": {
+      "A": "motion accepted for debate",
+      "B": "motion rejected after debate",
+      "C": "proposal before the legislature",
+      "D": "law pass by the legislature."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A bill is a formal proposal for new legislation or an amendment to existing legislation. It is introduced and presented for consideration by a legislative body, such as a parliament or congress, with the goal of becoming law if approved through the legislative process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/80",
+    "passage": ""
   }
 ]
