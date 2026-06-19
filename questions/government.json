@@ -2141,5 +2141,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1192",
     "passage": ""
+  },
+  {
+    "id": 1194,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A collegial executive is a government in which power is vested in a",
+    "options": {
+      "A": "president",
+      "B": "monarch",
+      "C": "commitee",
+      "D": "parliament"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1194",
+    "passage": ""
   }
 ]
