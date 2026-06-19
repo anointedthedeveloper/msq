@@ -102,5 +102,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72819",
     "passage": ""
+  },
+  {
+    "id": 72820,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A balance sheet shows",
+    "options": {
+      "A": "Current assets minus current liabilities",
+      "B": "The difference between fixed assets and current liabilities",
+      "C": "Assets and  sources of financing them",
+      "D": "Sources of funding owners equity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This is an expression of assets = capital+ liabilities ,this shows assets as claims against the assets",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72820",
+    "passage": ""
   }
 ]
