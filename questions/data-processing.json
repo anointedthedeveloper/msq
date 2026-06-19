@@ -3436,5 +3436,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58451",
     "passage": ""
+  },
+  {
+    "id": 58452,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In order to protect a computer on the World Wide Web from throats, the user should",
+    "options": {
+      "A": "Install the latest operating system version",
+      "B": "Install a single user antivirus software",
+      "C": "implement an internet security software",
+      "D": "deploy online transaction application"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58452",
+    "passage": ""
   }
 ]
