@@ -12439,5 +12439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64337",
     "passage": ""
+  },
+  {
+    "id": 64338,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In general, a file is basically a collection of all related______.",
+    "options": {
+      "A": "Rows & Columns",
+      "B": "Fields",
+      "C": "Database",
+      "D": "Records"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A file is a collection of related data or program records stored on some input/output or auxiliary storage medium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64338",
+    "passage": ""
   }
 ]
