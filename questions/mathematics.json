@@ -3064,5 +3064,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5903",
     "passage": ""
+  },
+  {
+    "id": 5904,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Find (\\(\\frac{1}{0.06} \\div \\frac{1}{0.042}\\))\\(^{-1}\\)",
+    "options": {
+      "A": "1.43",
+      "B": "1.53",
+      "C": "3.14",
+      "D": "4.42"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\((\\frac{1}{0.06} \\div \\frac{1}{0.042})^{-1}\\)\n= \\((\\frac{100}{6} \\div \\frac{1000}{42})^{-1}\\)\n= \\((\\frac{100}{6} \\times \\frac{42}{1000})^{-1}\\)\n= \\((\\frac{7}{10})^{-1}\\)\n= \\(\\frac{10}{7}\\)\n= 1.4285 \\(\\approxeq\\) 1.43.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5904",
+    "passage": ""
   }
 ]
