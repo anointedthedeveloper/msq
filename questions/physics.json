@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/713",
     "passage": ""
+  },
+  {
+    "id": 714,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A cell of internal resistance 0.01Ω can be measured accurately using the",
+    "options": {
+      "A": "Ohm meter",
+      "B": "metre bridge",
+      "C": "potentiometer",
+      "D": "electroscope"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A cell with internal resistance can be measured accurately using a potentiometer .\nA potentiometer is an instrument used to measure the potential difference (voltage) across a component without drawing any current. This is crucial because drawing current can affect the measurement due to the internal resistance of the cell.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/714",
+    "passage": ""
   }
 ]
