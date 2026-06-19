@@ -10456,5 +10456,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4076",
     "passage": ""
+  },
+  {
+    "id": 4249,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The IUPAC nomenclature for the structure above is",
+    "options": {
+      "A": "2, 3 - dichloro - 4, 4, 5 - trimethyl pent - 2 - ene",
+      "B": "4, 5 - dichloro - 2, 3 - dimethyl hex - 2 - ene",
+      "C": "2, 3 - dichloro - 4, 4 - dimethyl hex - 2- ene",
+      "D": "2, 3 dichloro - 2, 2 - dimethyl hex - 2 - ene"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12171316122_chem 2008 41.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890609/myschool/chemistry/12171316122_chem%202008%2041.png",
+    "correct_answer": "C",
+    "explanation": "The longest carbon chain in the compound is the hex-2-ene.\nCounting all the attachments, the IUPAC nomenclature of the compound is 2,3 - dichloro-4,4- dimethyl hex-2-ene.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4249",
+    "passage": ""
   }
 ]
