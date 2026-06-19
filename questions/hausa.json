@@ -6500,5 +6500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74066",
     "passage": ""
+  },
+  {
+    "id": 74067,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "\"Shehu ya harbi zomo fari\" Fito da sifa daga wannan jimlar.",
+    "options": {
+      "A": "Shehu",
+      "B": "Fari",
+      "C": "Ya",
+      "D": "Harbi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Fari. In the sentence \"Shehu ya harbi zomo fari\", \"Fari\" is an adjective (sifa) describing the noun \"zomo\" (horse). It means \"white\" and gives more information about the horse's color. Therefore, the correct answer is Fari, as it is the adjective in the sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74067",
+    "passage": ""
   }
 ]
