@@ -2581,5 +2581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6221",
     "passage": ""
+  },
+  {
+    "id": 6222,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The direct cause of waves is",
+    "options": {
+      "A": "a difference in the density of ocean water",
+      "B": "the great heat of the sun",
+      "C": "the wind",
+      "D": "difference in depth of the ocean floor",
+      "E": "change in the phase of the moon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6222",
+    "passage": ""
   }
 ]
