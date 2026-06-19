@@ -5793,5 +5793,215 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2630",
     "passage": ""
+  },
+  {
+    "id": 2631,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "According to charles' law, the volume of a gas becomes zero at",
+    "options": {
+      "A": "0 o C",
+      "B": "-100 o C",
+      "C": "-273 o C",
+      "D": "-373 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "According to Charles's Law, the volume of a gas would be zero at absolute zero, which is - 273°C or 0 Kelvin. The Volume is of gas is zero at absolute zero of temperature . On the Celsius scale, zero is the temperature at which water freezes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2631",
+    "passage": ""
+  },
+  {
+    "id": 2632,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they?",
+    "options": {
+      "A": "have no definite shape",
+      "B": "have little force of attraction between them",
+      "C": "can collide with one another in the container",
+      "D": "are too small in size"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In most cases, there are essentially no attractive forces between particles . This means that a gas has nothing to hold a specific shape or volume.\nIt's difficult to achieve an orderly arrangement of gas molecules due to their high kinetic energy, large distances between particles, and lack of intermolecular forces. These factors cause the molecules to move randomly and freely, making it difficult to constrain them into a structured arrangement.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2632",
+    "passage": ""
+  },
+  {
+    "id": 2633,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A given volume of methane diffuses in 20s. How long will it take the same volume of sulphur (IV) oxide to diffuse under the same conditions? [C = 12, H = 1, S = 32, O = 16",
+    "options": {
+      "A": "5s",
+      "B": "20s",
+      "C": "40s",
+      "D": "60s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Applying the Graham's law definition; i.e,\n\\(\\frac{RSO_2}{RCH_4}\\) = \\(\\sqrt{\\frac{MCH_4}{MSO_2}}\\)\n\\(\\frac{tSO_2}{tCH_4}\\) = \\(\\sqrt{\\frac{MSO_2}{MCH_4}}\\) (rate of diffusion ∝ \\(\\frac{1}{time taken}\\))\nWhere t(SO\\(_2\\)) = ?, M(SO\\(_2\\)) = 64\nt(CH\\(_4\\)) = 20 sec, M(CH\\(_4\\)) = 16\nTherefore, \\(\\frac{t(SO_2)}{20}\\) = \\(\\sqrt{\\frac{64}{16}}\\)\n\\(\\frac{t(SO_2)}{20}\\) = \\(\\frac{8}{4}\\)\nt(SO\\(_2\\)) = 8 x \\(\\frac{20}{4}\\)\n= 40 sec.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2633",
+    "passage": ""
+  },
+  {
+    "id": 2634,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An electron can be added to a halogen atom to form a halide ion with",
+    "options": {
+      "A": "2 valence electrons",
+      "B": "3 valence electrons",
+      "C": "7 valence electrons",
+      "D": "8 valence electrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When an electron is added to a halogen atom, it will have eight valence electrons. Halogens have seven valence electrons in their outermost shell. When an electron is added to a halogen atom, it fills its outermost shell, resulting in a full valence shell of 8 electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2634",
+    "passage": ""
+  },
+  {
+    "id": 2635,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The shape of s-orbitals is",
+    "options": {
+      "A": "spherical",
+      "B": "elliptical",
+      "C": "spiral",
+      "D": "circular"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The shape of an s-orbital is spherical. S-orbitals are spherically symmetric, meaning that the wave function only depends on the distance from the nucleus, not the direction. The s-orbital is spherical due to its lack of angular dependence and zero angular momentum (l=0), meaning the probability of finding an electron is the same in all directions from the nucleus.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2635",
+    "passage": ""
+  },
+  {
+    "id": 2636,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "\\(^{226}\\)\\(_{88}\\)Ra → \\(^x\\)\\(_{86}\\)Rn + α - particle What is the value of x in the nuclear reaction above?",
+    "options": {
+      "A": "220",
+      "B": "222",
+      "C": "226",
+      "D": "227"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "α - particle is represented by He atom with mass number of 4 and atomic number of 2. Thus, try to balance the mass number and atomic number of both Ra and Rn by subtracting 4 from 226 i.e (226 - 4) and subtracting 2 from 88 i.e (88 - 2 = 86 ).\n\\(^{226}\\)\\(_{88}\\)Ra → \\(^{222}\\)\\(_{86}\\)Rn + \\(^4\\)\\(_2\\)He (α - particle)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2636",
+    "passage": ""
+  },
+  {
+    "id": 2637,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecules is its",
+    "options": {
+      "A": "electrovalency",
+      "B": "electron affinity",
+      "C": "electropositivity",
+      "D": "electronegativity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Electronegativity is the tendency of an atom to attract electrons when forming a chemical bond. In HCl, the chlorine atom's higher electronegativity causes it to attract the bonding electrons, resulting in a partial negative charge on chlorine and a partial positive charge on hydrogen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2637",
+    "passage": ""
+  },
+  {
+    "id": 2638,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Chlorine consisting of two isotopes of mass number 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotopes of mass number 37",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "60",
+      "D": "75"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Two isotopes of Chlorine  are :  \\(^{35}\\)Cl            and              \\(^{37}\\)Cl\nAtomic mass of Cl :  35.5\nRatio of the isotopes of Chlorine :   3                  :                     1\nLet the relative atomic abundance of \\(^{37}\\)Cl  =  1 x X =  X\nLet the relative atomic abundance of \\(^{35}\\)Cl  = 3 x X = 3X\nN.B : The average atomic mass = sum of products of each isotope mass and its relative abundance.\nA.M.M = (3x of 35)  +  (x of 37)\n35.5 = (3x X 35)  +   (x  X 37)\n35.5 = 105x  +   37x\n35.5 = 142x\nx = \\(\\frac{35.5}{142}\\)\nx =  0.25\nConvert to percentage.\nRecall that relative atomic abundance of \\(^{37}\\)Cl  =  x = 0.25 x  100 = 25%\nand the relative atomic abundance of \\(^{35}\\)Cl  = 3X = 3(0.25) = 0.75 x 100 = 75% We were asked for the Relative abundance of isotope of mass number 37 i.e \\(^{37}\\)Cl  is 25%\nAlternatively,\nRatio of the isotopes of Chlorine :   3     :    1\nSum of ratios = 3 + 1 = 4\nRelative Abundance of Cl isotopes = % ratio of \\(^{35}\\)Cl   and    % ratio of  \\(^{37}\\)Cl\n= \\(\\frac{3}{4}\\)x 100        and        \\(\\frac{1}{4}\\) x 100\n= 75% \\(^{35}\\)Cl  and 25% \\(^{37}\\)Cl\nRelative abundance of \\(^{37}\\)Cl = 25\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2638",
+    "passage": ""
+  },
+  {
+    "id": 2639,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following mixture of gases is likely to burn in flame?",
+    "options": {
+      "A": "neon and hydrogen",
+      "B": "nitrogen and helium",
+      "C": "helium and neon",
+      "D": "neon and nitrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When heated, a mixture of hydrogen and neon gases emits light and burns in a flame.When heated, the atoms in the gas absorb energy, causing the electrons to jump to higher energy levels. When the electrons return to their original energy levels, they emit light.\nA mixture of helium and nitrogen does not burn in a flame because both helium and nitrogen are non-flammable.\nA mixture of helium and neon does not burn in a flame because helium and neon are non-reactive.\nA mixture of neon and nitrogen will not burn in a flame because neither neon nor nitrogen are flammable.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2639",
+    "passage": ""
+  },
+  {
+    "id": 2640,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Hardness of water is caused by the presence of ions of",
+    "options": {
+      "A": "magnesium and silver",
+      "B": "calcium and magnesium",
+      "C": "sodium and potassium",
+      "D": "calcium and sodium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Water hardness is caused by the presence of positively charged metallic ions, most commonly calcium and magnesium.\nWater becomes hard when it comes into contact with limestone and other rocks that contain calcium compounds. For example, rainwater that flows over rocks on its way to a reservoir can pick up calcium and magnesium ions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2640",
+    "passage": ""
   }
 ]
