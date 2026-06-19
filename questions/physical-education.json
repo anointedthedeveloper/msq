@@ -3526,5 +3526,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68322",
     "passage": ""
+  },
+  {
+    "id": 68324,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a water-borne disease?",
+    "options": {
+      "A": "hepatitis",
+      "B": "Headache",
+      "C": "cholera",
+      "D": "typhoid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Headache is not a water-borne disease. Water-borne diseases are caused by pathogenic microorganisms that most commonly are transmitted in contaminated fresh water. Examples of these diseases include typhoid, cholera, and hepatitis which are caused by bacteria, viruses, and parasites respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68324",
+    "passage": ""
   }
 ]
