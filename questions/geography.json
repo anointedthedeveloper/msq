@@ -6208,5 +6208,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8077",
     "passage": ""
+  },
+  {
+    "id": 8078,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following is NOT a sedimentary rock?",
+    "options": {
+      "A": "slate",
+      "B": "coal",
+      "C": "clay",
+      "D": "sand",
+      "E": "shale"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8078",
+    "passage": ""
   }
 ]
