@@ -12166,5 +12166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64324",
     "passage": ""
+  },
+  {
+    "id": 64325,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In SQL, which command is used to remove a stored function from the database?",
+    "options": {
+      "A": "REMOVE Function",
+      "B": "DELETE function",
+      "C": "DROP function",
+      "D": "ERASE Function"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "DROP FUNCTION removes the definition of an existing function. To execute this command the user must be the owner of the function. The argument types to the function must be specified, since several different functions can exist with the same name and different argument lists.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64325",
+    "passage": ""
   }
 ]
