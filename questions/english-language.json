@@ -5101,5 +5101,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2101",
     "passage": ""
+  },
+  {
+    "id": 2102,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options\n:\nPeter's .... a cold upsets our plans",
+    "options": {
+      "A": "catches",
+      "B": "will catch",
+      "C": "to catch",
+      "D": "to have caught",
+      "E": "catching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2102",
+    "passage": ""
   }
 ]
