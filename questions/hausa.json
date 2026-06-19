@@ -7403,5 +7403,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75986",
     "passage": ""
+  },
+  {
+    "id": 75988,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Ina da kudi amma_______ba su da komai.\"",
+    "options": {
+      "A": "kai",
+      "B": "su",
+      "C": "mu",
+      "D": "ni"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Su refers to \"they\" - maintaining subject-verb agreement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75988",
+    "passage": ""
   }
 ]
