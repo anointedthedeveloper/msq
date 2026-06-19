@@ -10119,5 +10119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10930",
     "passage": ""
+  },
+  {
+    "id": 10931,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The distribution above shows the number of days a group of 260 students were absents from school in a particular term. How many students were absent for at least four days in the term",
+    "options": {
+      "A": "210",
+      "B": "40",
+      "C": "120",
+      "D": "160"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "20 + X + 50 + 40 + 2X + 60 = 260 3X + 170 = 260 3X = 260 - 170 3x = 90 x = 30 Absent for at least 4 days\n4 5 6 40 2x 60\ni.e 40 + 2x + 60 = 40 + (2 x 30) + 60 = 40 + 60 + 60 = 160",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10931",
+    "passage": ""
   }
 ]
