@@ -7117,5 +7117,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13890",
     "passage": ""
+  },
+  {
+    "id": 13891,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
+    "options": {
+      "A": "\\(\\frac{15}{16}\\)",
+      "B": "\\(\\frac{1}{16}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "16 days = 4 half-lives. The fraction left 16 days = after 4 half live, = (1/2)4 = (1)/16\nFraction that decayed = 1- \\(\\frac{1}{16}\\)\n\\(\\frac{15}{16}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13891",
+    "passage": ""
   }
 ]
