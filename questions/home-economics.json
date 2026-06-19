@@ -2497,5 +2497,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73292",
     "passage": ""
+  },
+  {
+    "id": 73293,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Which of the following is not a body builder?",
+    "options": {
+      "A": "Egg",
+      "B": "Cassava",
+      "C": "Milk",
+      "D": "Meat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cassava is a starchy root vegetable that provides energy, but it is not a significant source of protein, which is essential for building and repairing muscles.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73293",
+    "passage": ""
   }
 ]
