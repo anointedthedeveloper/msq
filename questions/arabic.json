@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75307",
     "passage": ""
+  },
+  {
+    "id": 75309,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما الجملة التي تحتوي على خبر مرفوع؟",
+    "options": {
+      "A": "المعلمُ نقيطٌ",
+      "B": "سافر محمد أمس",
+      "C": "قرأ الطالبُ الدرسّ",
+      "D": "اشترى الرجلُ کتابًا"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Luai\" is the predicate () in a nominal sentence and takes the nominative case.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75309",
+    "passage": ""
   }
 ]
