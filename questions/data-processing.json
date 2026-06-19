@@ -8083,5 +8083,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69799",
     "passage": ""
+  },
+  {
+    "id": 69800,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Computer ethical practises include the following except",
+    "options": {
+      "A": "respect for intellectual property",
+      "B": "exposure of vulnerability in websites",
+      "C": "use of polite words on other users",
+      "D": "use of other people’s computer without due permission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Computer ethical practices include the following, but they do not include: Use of other people's computer without due permission. The other options listed are generally considered ethical practices in the realm of computer use and technology. However, using someone else's computer without permission is a violation of privacy and unauthorized access, which goes against ethical guidelines. It's important to respect the rights and ownership of others' devices and data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69800",
+    "passage": ""
   }
 ]
