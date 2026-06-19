@@ -13141,5 +13141,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22668",
     "passage": ""
+  },
+  {
+    "id": 22670,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take π = 22/7]. What is the volume of the container?",
+    "options": {
+      "A": "35cm 3",
+      "B": "154cm 3",
+      "C": "220cm 3",
+      "D": "528cm 3",
+      "E": "770cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Volume = \\(\\pi r^2 h\\)\n= \\(\\frac{22}{7} \\times 7^2 \\times 5\\)\n= \\(770 cm^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22670",
+    "passage": ""
+  },
+  {
+    "id": 22672,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, |PQ| = |PR| = |RS| and ∠RPS = 32°. Find the value of ∠QPR",
+    "options": {
+      "A": "72 o",
+      "B": "64 o",
+      "C": "52 o",
+      "D": "32 o",
+      "E": "26 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9683201675_wcmath199030.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908286/myschool/mathematics/9683201675_wcmath199030.jpg",
+    "correct_answer": "C",
+    "explanation": "From the figure, < PSR = 32° (base angles of an isos. triangle)\n\\(\\therefore\\) < PRS = 180° - (32° + 32°) = 116° (sum of angles in a triangle)\n< QRP = 180° - 116° = 64° (angle on a straight line)\n< PQR = 64° (base angles of an isos. triangle)\n< QPR = 180° - (64° + 64°) = 52°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22672",
+    "passage": ""
+  },
+  {
+    "id": 22674,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, WXYZ is a rhombus and ∠WYX = 20°. What is the value of ∠XZY",
+    "options": {
+      "A": "20 o",
+      "B": "30 o",
+      "C": "45 o",
+      "D": "60 o",
+      "E": "70 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13833147380_wcmath199031.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908319/myschool/mathematics/13833147380_wcmath199031.jpg",
+    "correct_answer": "E",
+    "explanation": "Diagonals bisect at 90°;  < YXZ = 90° - 20° = 70°\nBut ZY = XY (sides of a rhombus)\n\\(\\therefore\\) < XYZ = 70° (base angle of an isos. triangle)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22674",
+    "passage": ""
+  },
+  {
+    "id": 22675,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above PS||RQ, |RQ| = 6.4cm and perpendicular PH = 3.2cm. Find the area of SQR",
+    "options": {
+      "A": "5.12cm 2",
+      "B": "9.60cm 2",
+      "C": "10.24cm 2",
+      "D": "20.48cm 2",
+      "E": "40.96cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1383314934_wcmath199032.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908354/myschool/mathematics/1383314934_wcmath199032.jpg",
+    "correct_answer": "C",
+    "explanation": "Area of a triangle = \\(\\frac{1}{2} \\times b \\times h\\)\nArea of \\(\\Delta\\) SQR = \\(\\frac{1}{2} \\times 6.4 \\times 3.2\\)\n= 10.24 cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22675",
+    "passage": ""
   }
 ]
