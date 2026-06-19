@@ -10288,5 +10288,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4066",
     "passage": ""
+  },
+  {
+    "id": 4067,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Which of the following compounds of trioxonitrate (V) will decompose to give dinitrogen (i) oxide and water when heated?",
+    "options": {
+      "A": "NaNO 3",
+      "B": "Zn(NO 3 ) 2",
+      "C": "Cu(NO 3 ) 2",
+      "D": "NH 4 NO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(NH_4NO_3 → N_2O + 2H_2O\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4067",
+    "passage": ""
   }
 ]
