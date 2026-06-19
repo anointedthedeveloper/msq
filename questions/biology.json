@@ -5300,5 +5300,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2398",
     "passage": ""
+  },
+  {
+    "id": 2399,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In  what order do the following structure develop during the metamorphosis of the toad? 1. External gills 2. Internal gills 3. Forelimbs 4.Hindlimbs 5. Mouth",
+    "options": {
+      "A": "12345",
+      "B": "15243",
+      "C": "21345",
+      "D": "53412",
+      "E": "54321"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2399",
+    "passage": ""
   }
 ]
