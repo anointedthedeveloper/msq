@@ -7231,5 +7231,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67150",
     "passage": ""
+  },
+  {
+    "id": 67151,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Arrange the following steps in the correct order for editing data type in data sheet view of a Microsoft Access database I. Click the type of data that that will be entered into the fields II. Click the data sheet tab on the ribbon III. Click the field you wish to define IV. Click the 'down' arrow next to the data type",
+    "options": {
+      "A": "IV, III, II and I",
+      "B": "III, II, IV and I",
+      "C": "I, III, IV and II",
+      "D": "II, III, I and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "- Click the field you wish to define - Click the data sheet tab on the ribbon - Click the 'down' arrow next to the data type - Click the type of data that that will be entered into the fields",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67151",
+    "passage": ""
   }
 ]
