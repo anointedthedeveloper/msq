@@ -1290,5 +1290,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/60911",
     "passage": ""
+  },
+  {
+    "id": 60915,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following distribution channels is suitable for the sale of cosmetics?",
+    "options": {
+      "A": "Producer + Consumer",
+      "B": "Producer +Wholesaler + Consumer",
+      "C": "Producer + Wholesaler + Retailer + Consumer",
+      "D": "Producer + Agent + Consumer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C. Producer + Wholesaler + Retailer + Consumer\nThis channel allows for a broader reach and accessibility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/60915",
+    "passage": ""
   }
 ]
