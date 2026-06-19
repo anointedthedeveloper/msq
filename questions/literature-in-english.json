@@ -5825,5 +5825,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/3059",
     "passage": ""
+  },
+  {
+    "id": 3060,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Point out the odd term",
+    "options": {
+      "A": "Enjambment",
+      "B": "Rhyme",
+      "C": "Alliteration",
+      "D": "Assonance",
+      "E": "plot."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "All the other terms— enjambment , rhyme , alliteration , and assonance —are literary devices commonly used in poetry to enhance its structure, sound or rhythm. However, plot refers to the sequence of events in a narrative, which is more relevant to storytelling in prose or drama rather than the structural elements of poetry. This makes \"plot\" the odd term in the list.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/3060",
+    "passage": ""
   }
 ]
