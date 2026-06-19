@@ -1295,5 +1295,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/568",
     "passage": ""
+  },
+  {
+    "id": 569,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; His horrible high-pitched laugh .... on my nerves",
+    "options": {
+      "A": "jags",
+      "B": "jabs",
+      "C": "jams",
+      "D": "jars",
+      "E": "jeers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The expression “jars on one’s nerves” is a common idiom meaning to irritate or annoy someone . The verb “jar” means to have a harsh, unpleasant effect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/569",
+    "passage": ""
   }
 ]
