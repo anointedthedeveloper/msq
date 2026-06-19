@@ -9182,5 +9182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/3087",
     "passage": ""
+  },
+  {
+    "id": 3090,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A political entity that possesses independence is a",
+    "options": {
+      "A": "community",
+      "B": "nation",
+      "C": "society",
+      "D": "state"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/3090",
+    "passage": ""
   }
 ]
