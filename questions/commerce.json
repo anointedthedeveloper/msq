@@ -13188,5 +13188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7328",
     "passage": ""
+  },
+  {
+    "id": 7329,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Balance of payments is made up of?",
+    "options": {
+      "A": "visible and current items",
+      "B": "invisible and capital items",
+      "C": "current and capital items",
+      "D": "visible and invisible items"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The balance of payments (BOP) is a statement of all transactions made between people in one country and the rest of the world over a defined period of time. It consists of current and capital items.\nCurrent items consist of the inflow and outflow of goods and services between countries, including all the receipts and payments made with respect to raw materials and manufactured goods. While capital transactions include the purchase and sale of assets (non-financial) like land and properties.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7329",
+    "passage": ""
   }
 ]
