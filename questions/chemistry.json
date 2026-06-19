@@ -11926,5 +11926,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4475",
     "passage": ""
+  },
+  {
+    "id": 4476,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Calculate the solubility in mol dm-3 of 40g of CuSO4 dissolved in 100g of water at 120°C? [Cu = 64, S = 32, O = 16]",
+    "options": {
+      "A": "4.00",
+      "B": "2.50",
+      "C": "0.40",
+      "D": "0.25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Solubility = \\(\\frac{\\text{number of moles of solution}}{\\text{vol of solution}}\\)\n100g of water = 100 cm\\(^3\\) = 0.1 dm\\(^3\\).\nCuSO\\(_4\\) = 160 g/mol\nNo of moles of CuSO\\(_4\\) in 40g = \\(\\frac{40}{160}\\)\n= 0.25 mol.\nSolubility = \\(\\frac{0.25}{0.1}\\)\n= 2.5 moldm\\(^{-3}\\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4476",
+    "passage": ""
   }
 ]
