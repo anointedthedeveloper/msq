@@ -9930,5 +9930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10418",
     "passage": ""
+  },
+  {
+    "id": 10419,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If y = 3x\\(^2\\)(x\\(^3\\) + 1)\\(^{\\frac{1}{2}}\\). Find \\(\\frac{\\text{dy}}{\\text{dx}}\\)",
+    "options": {
+      "A": "\\(\\frac{9x^4 + 12x (x^3 + 1)}{2\\sqrt{x^3 + 1}}\\)",
+      "B": "\\(\\frac{3x^2 + 6x (x^3 + 1)}{2\\sqrt{x^3 + 1}}\\)",
+      "C": "\\(\\frac{9x^2 + 12x (x^3 + 1)}{2\\sqrt{x^3 + 1}}\\)",
+      "D": "\\(\\frac{15x^4 + 6x}{6x^2\\sqrt{x^3 + 1}}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let \\( u = 3x^2 \\) and \\( v = (x^3 + 1)^{1/2} \\)\nThen \\( y = u \\cdot v \\)\n- \\( \\frac{du}{dx} = 6x \\)\n- For \\( v \\): \\(\\frac{dv}{dx} = \\frac{1}{2}(x^3 + 1)^{-1/2} \\cdot 3x^2 = \\frac{3x^2}{2\\sqrt{x^3 + 1}}\\)\nNow apply the product rule: \\(\\frac{dy}{dx} = u \\frac{dv}{dx} + v \\frac{du}{dx} \\)\n\\(\\frac{dy}{dx} = 3x^2 \\cdot \\frac{3x^2}{2\\sqrt{x^3 + 1}} + \\sqrt{x^3 + 1} \\cdot 6x\\)\n\\(= \\frac{9x^4}{2\\sqrt{x^3 + 1}} + 6x \\sqrt{x^3 + 1}\\)\nSimplify (common denominator \\( 2\\sqrt{x^3 + 1} \\)):\n\\(\\frac{dy}{dx} = \\frac{9x^4 + 12x (x^3 + 1)}{2\\sqrt{x^3 + 1}}\\)\n\\(= \\frac{9x^4 + 12x^4 + 12x}{2\\sqrt{x^3 + 1}} = \\frac{21x^4 + 12x}{2\\sqrt{x^3 + 1}}\\)\nFactor out 3x:\n\\(\\frac{dy}{dx} = \\frac{3x(7x^3 + 4)}{2\\sqrt{x^3 + 1}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10419",
+    "passage": ""
   }
 ]
