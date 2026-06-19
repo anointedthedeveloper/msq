@@ -1938,5 +1938,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48204",
     "passage": ""
+  },
+  {
+    "id": 48205,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "La radiothérapie est une technique ...dans le traitement du cancer du sein",
+    "options": {
+      "A": "compléte",
+      "B": "complémentaire",
+      "C": "totale",
+      "D": "démodée"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3Qw6W0PjuqD57BbKtnUWdNtDZPq2C6CVvPkQ4wgx.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898423/myschool/french/3Qw6W0PjuqD57BbKtnUWdNtDZPq2C6CVvPkQ4wgx.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48205",
+    "passage": ""
   }
 ]
