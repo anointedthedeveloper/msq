@@ -11452,5 +11452,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64123",
     "passage": ""
+  },
+  {
+    "id": 64124,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a model used in problem solving?",
+    "options": {
+      "A": "critical thinking",
+      "B": "SDCL",
+      "C": "waterfall",
+      "D": "prototype"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Waterfall is not a model used in solving problems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64124",
+    "passage": ""
   }
 ]
