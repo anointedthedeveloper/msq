@@ -17097,5 +17097,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25000",
     "passage": ""
+  },
+  {
+    "id": 25001,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "An object is projected with a velocity of 100 ms\\(^{-1}\\) from the ground level at an angle \\(\\theta\\) to the vertical. If the total time of flight of the projectile is 10 s, calculate θ. (g = 10 ms\\(^{-2}\\)).",
+    "options": {
+      "A": "0 o",
+      "B": "30 o",
+      "C": "45 o",
+      "D": "60 o",
+      "E": "90 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "T = \\(\\frac{2u sin θ}{g}\\)\nsin θ = \\(\\frac{Tg}{2u}\\)\nsin θ = \\(\\frac{10 \\times 10}{2 \\times 100}\\) = 0.5 θ = sin\\(^{- 0.5}\\) = 30º\n\\(\\theta\\)\\(_{horizontal}\\) = 30º\nBut \\(\\theta\\)\\(_{vertical}\\) = 90º - 30º = 60º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25001",
+    "passage": ""
   }
 ]
