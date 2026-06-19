@@ -10437,5 +10437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14346",
     "passage": ""
+  },
+  {
+    "id": 14347,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following is a pure semiconductor?",
+    "options": {
+      "A": "carbon",
+      "B": "silicon",
+      "C": "transistor",
+      "D": "phosphorus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A semiconductor is a material whose conductivity is between good conductor and insulator. Example of pure semi conductors are silicon and germanium\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14347",
+    "passage": ""
   }
 ]
