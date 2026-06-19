@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/795",
     "passage": ""
+  },
+  {
+    "id": 796,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Find the value of \\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta\\)",
+    "options": {
+      "A": "π",
+      "B": "π/2",
+      "C": "-π/2",
+      "D": "-π"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\int^{\\pi}_{0}\\frac{cos^{2}\\theta-1}{sin^{2}\\theta}d\\theta\\)\n= \\(\\int^{\\pi}_{0}\\frac{-sin^{2}\\theta}{sin^{2}\\theta}\\) = \\(\\int^{\\pi}_{0}d\\theta = -\\pi\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/796",
+    "passage": ""
   }
 ]
