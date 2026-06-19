@@ -1867,5 +1867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7255",
     "passage": ""
+  },
+  {
+    "id": 7266,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A cell of internal resistance r supplies current to a 6.0Ω resistor and its efficiency is 75%. Find the value of r.",
+    "options": {
+      "A": "4.5Ω",
+      "B": "1.0Ω",
+      "C": "8.0Ω",
+      "D": "2.0Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Efficiency = \\(\\frac{power output}{power input}\\) = \\(\\frac{R}{R + r}\\) Given\nefficiency = 75% = 0.75, R = 6.0Ω, r = ?\nEfficiency =  \\(\\frac{R}{R + r}\\)\n0.75 =  \\(\\frac{6.0}{6.0 + r}\\)\n0.75(6.0 + r) = 6.0\n4.5 + 0.75r = 6.0\n0.75r = 6.0 - 4.5 = 1.5\nr =  \\(\\frac{1.5}{0.7}\\) = 2Ω\nThe internal resistance r of the cell is 2.0 ohms .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7266",
+    "passage": ""
   }
 ]
