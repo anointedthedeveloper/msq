@@ -7621,5 +7621,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69776",
     "passage": ""
+  },
+  {
+    "id": 69777,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 2 is an email application interface. Use it to answer questions 15 and 16 . New messages received are save in the part labelled",
+    "options": {
+      "A": "II",
+      "B": "IV",
+      "C": "III",
+      "D": "I"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Tg3WVa0muD1RTtVN7RoDGjdSgfDn0dr9l2rhPmFZ.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912039/myschool/data-processing/Tg3WVa0muD1RTtVN7RoDGjdSgfDn0dr9l2rhPmFZ.jpg",
+    "correct_answer": "A",
+    "explanation": "New messages that are received are typically saved in the inbox of an email application interface. The inbox is where incoming emails are displayed, allowing the user to see and manage new messages that have been received. The other options provided—New, sent items, and drafts—refer to different folders or sections within an email application, each serving a specific purpose: New: This might refer to a \"New Message\" button or option, allowing you to compose and send new emails. Sent Items: This folder contains copies of emails you have sent. Drafts: This folder holds emails that you have started composing but have not yet sent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69777",
+    "passage": ""
   }
 ]
