@@ -10696,5 +10696,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62780",
     "passage": ""
+  },
+  {
+    "id": 64088,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A word processor can be used to",
+    "options": {
+      "A": "write text",
+      "B": "edit text",
+      "C": "print text",
+      "D": "all of these"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "word processor (WP) is a device or computer program that provides for input, editing, formatting, and output of text, often with some additional features. ... The functions of a word processor program fall somewhere between those of a simple text editor and a fully functioned desktop publishing program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64088",
+    "passage": ""
   }
 ]
