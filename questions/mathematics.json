@@ -16440,5 +16440,27 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910308/myschool/mathematics/IMG_20191125_122752_%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/23220",
     "passage": ""
+  },
+  {
+    "id": 23221,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "At a point 500m from the base of a water tank the angle of elevation of the top of the tank is 45o. Find the height of the tank,",
+    "options": {
+      "A": "250m",
+      "B": "353m",
+      "C": "354m",
+      "D": "433m",
+      "E": "500m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(\\tan 45 = \\frac{x}{500}\\)\n\\(x = 500 \\tan 45\\)\n= \\(500 m\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191125_122752%20%283%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910335/myschool/mathematics/IMG_20191125_122752_%283%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/23221",
+    "passage": ""
   }
 ]
