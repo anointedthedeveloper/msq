@@ -5878,5 +5878,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8741",
     "passage": ""
+  },
+  {
+    "id": 8742,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If m:n = 13:11, find m\\(^2\\) - n\\(^2\\) : (m + n)\\(^2\\)",
+    "options": {
+      "A": "1:11",
+      "B": "1:13",
+      "C": "1:10",
+      "D": "1:12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "m : n = 13 : 11 m\\(^2\\) - n\\(^2\\) : (m + n)2 = 13\\(^2\\) - 11\\(^2\\) : (13 + 11)\\(^2\\) = 169 - 121 : 24\\(^2\\) = 48 : 576 = 1 : 12\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8742",
+    "passage": ""
   }
 ]
