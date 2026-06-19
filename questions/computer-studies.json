@@ -7673,5 +7673,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62548",
     "passage": ""
+  },
+  {
+    "id": 62549,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following options is not an advantage of  linear bus topology?",
+    "options": {
+      "A": "It requires less cable length",
+      "B": "It ensures easy casting",
+      "C": "Additional nodes can be connected  easily",
+      "D": "Terminators are required at both ends of the"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Terminators are required at both ends of the backbone cable is not an advantage of linear bus topology.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62549",
+    "passage": ""
   }
 ]
