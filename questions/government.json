@@ -2582,5 +2582,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1288",
     "passage": ""
+  },
+  {
+    "id": 1290,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The smooth operation of the civil service in Nigeria is mostly hampered by",
+    "options": {
+      "A": "inadequate training of personnel",
+      "B": "corruption and inefficiency",
+      "C": "debt burden and redundancy",
+      "D": "poor infrastructure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1290",
+    "passage": ""
   }
 ]
