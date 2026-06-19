@@ -8062,5 +8062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3288",
     "passage": ""
+  },
+  {
+    "id": 3289,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Which of the following has an isomer?",
+    "options": {
+      "A": "C 6 H 6",
+      "B": "C 2 H 6",
+      "C": "C 4 H 10",
+      "D": "C 2 H 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The molecule C4H10 has two isomers. These are commonly known as \"butane\" and \"isobutane\".\nC4H10 represents a four-carbon alkane, and the only structural variations possible are a straight chain (n-butane) and a branched chain (isobutane) or 2-methylpropane.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3289",
+    "passage": ""
   }
 ]
