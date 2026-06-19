@@ -13993,5 +13993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64435",
     "passage": ""
+  },
+  {
+    "id": 64436,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "_______ is the process of finding errors and fixing them within a program.",
+    "options": {
+      "A": "Compiling",
+      "B": "Executing",
+      "C": "Debugging",
+      "D": "Scanning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Debugging is the process of detecting and removing of existing and potential errors (also called as 'bugs') in a software code that can cause it to behave unexpectedly or crash. To prevent incorrect operation of a software or system, debugging is used to find and resolve bugs or defects",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64436",
+    "passage": ""
   }
 ]
