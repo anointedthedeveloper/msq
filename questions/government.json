@@ -5084,5 +5084,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2205",
     "passage": ""
+  },
+  {
+    "id": 2207,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The most important aspect of political participation in a democracy is",
+    "options": {
+      "A": "voting in elections",
+      "B": "attending political rallies",
+      "C": "the observance of electoral processes",
+      "D": "registration with a political party"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2207",
+    "passage": ""
   }
 ]
