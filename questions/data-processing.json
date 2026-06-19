@@ -7453,5 +7453,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67162",
     "passage": ""
+  },
+  {
+    "id": 69769,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The Difference Engine and the Analytical Engine were invented by",
+    "options": {
+      "A": "Ada Lovelace and Charles Babbage",
+      "B": "Blaise Pascal",
+      "C": "Blaise Pascal and Ada Lovelace",
+      "D": "Charles Babbage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Difference Engine and the Analytical Engine were invented by Charles Babbage. Blaise Pascal invented the first mechanical calculator, the Pascaline, in the 17th century. However, the Difference Engine and the Analytical Engine were much more sophisticated machines that could perform a wider range of calculations. Babbage began work on the Difference Engine in the early 1820s. It was a mechanical calculator that could be used to tabulate polynomial functions. The Difference Engine was never completed, but Babbage did build a small prototype. In the 1830s, Babbage began work on the Analytical Engine. The Analytical Engine was a much more ambitious project than the Difference Engine. It was a general-purpose computer that could be programmed to perform any calculation. The Analytical Engine was never built, but Babbage's design is considered to be the first blueprint for a modern computer. Ada Lovelace, the daughter of poet Lord Byron, was a collaborator of Babbage's. She is credited with writing the first computer program, which was for the Analytical Engine. The Difference Engine and the Analytical Engine were revolutionary machines that laid the foundation for the development of modern computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69769",
+    "passage": ""
   }
 ]
