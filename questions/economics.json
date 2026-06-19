@@ -658,5 +658,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/443",
     "passage": ""
+  },
+  {
+    "id": 444,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Economics is called a social science because it is",
+    "options": {
+      "A": "A branch of social studies",
+      "B": "A study of the ways man devises to satisfy his unlimited wants from unlimited resources",
+      "C": "A dismissal science in the Malthusian sense",
+      "D": "Governed by scientific law",
+      "E": "The study of human wants by the means of scientific method of  observation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Economics is regarded as a social science because it uses scientific methods to build theories that can help explain the behavior of individuals, groups, and organizations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/444",
+    "passage": ""
   }
 ]
