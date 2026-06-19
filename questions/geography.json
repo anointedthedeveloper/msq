@@ -614,5 +614,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/367",
     "passage": ""
+  },
+  {
+    "id": 368,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following gradients is the steepest?",
+    "options": {
+      "A": "1 in 134",
+      "B": "1 in 351",
+      "C": "1 in 531",
+      "D": "1 in 315",
+      "E": "1 in 153"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/368",
+    "passage": ""
+  },
+  {
+    "id": 369,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In which of the following countries is commercial grain farming an important occupation?",
+    "options": {
+      "A": "Nigeria",
+      "B": "Kenya",
+      "C": "Spain",
+      "D": "Canada",
+      "E": "Brazil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/369",
+    "passage": ""
   }
 ]
