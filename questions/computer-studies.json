@@ -12565,5 +12565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64343",
     "passage": ""
+  },
+  {
+    "id": 64344,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the listed is not a type of computer application?",
+    "options": {
+      "A": "Microsoft word",
+      "B": "Firefox",
+      "C": "Joy stick",
+      "D": "VLC media player"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This because a joystick is a hard ware and not a software",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64344",
+    "passage": ""
   }
 ]
