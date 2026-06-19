@@ -4513,5 +4513,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8207",
     "passage": ""
+  },
+  {
+    "id": 8208,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Three teachers shared a packet of chalk. The first teacher got 2/5 of the chalk and the second teacher received 2/15 of the remainder. What fraction did the third teacher receive?",
+    "options": {
+      "A": "8/15",
+      "B": "11/25",
+      "C": "12/25",
+      "D": "13/25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "First teacher received \\(\\frac{2}{5}\\) ∴Remainder \\(= 1 - \\frac{2}{5} = \\frac{3}{5}\\) 2nd teacher received; \\(\\frac{2}{15} of \\frac{3}{5} = \\frac{2}{15} \\times \\frac{3}{5} = \\frac{2}{25}\\) 3rd teacher will receive; \\(1-\\frac{2}{5}-\\frac{2}{25}=\\frac{25-10-2}{15}\\\\=\\frac{13}{25}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8208",
+    "passage": ""
   }
 ]
