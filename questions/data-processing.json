@@ -9818,5 +9818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77067",
     "passage": ""
+  },
+  {
+    "id": 77073,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the function keys opens the \"Save-As\" windows in MS word?",
+    "options": {
+      "A": "F12",
+      "B": "F10",
+      "C": "F2",
+      "D": "F1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The F12 Key - Save As\nF12, the final function key, is used mostly in Microsoft Office. If you want to save your document, workbook, or slideshow with a different name or to a different location, tap F12 to bring up the Save As dialog. Ctrl+F12 will start the Open File dialog. Which of the function keys opens the \"Save-As\" windows in MS Word?",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77073",
+    "passage": ""
   }
 ]
