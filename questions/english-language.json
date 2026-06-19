@@ -3451,5 +3451,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1946",
     "passage": ""
+  },
+  {
+    "id": 1948,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options\nThe old car .... several times this year",
+    "options": {
+      "A": "was repaired",
+      "B": "has been repaired",
+      "C": "had been repaired",
+      "D": "has repaired",
+      "E": "was being repaired"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1948",
+    "passage": ""
   }
 ]
