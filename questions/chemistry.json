@@ -1089,5 +1089,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/836",
     "passage": ""
+  },
+  {
+    "id": 837,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In which of the following are water molecules in the most disorderly arrangement?",
+    "options": {
+      "A": "Ice at -10°C",
+      "B": "Ice at 0°C",
+      "C": "Water at 100°C",
+      "D": "Steam at 100°C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The gaseous state of matter has the most disorderly arrangement of particles. Hence, steam (water in gaseous form) is the most disorderly arrangement on the list.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/837",
+    "passage": ""
   }
 ]
