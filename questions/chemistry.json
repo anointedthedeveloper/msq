@@ -8503,5 +8503,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3733",
     "passage": ""
+  },
+  {
+    "id": 3734,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Trioxonitrate (V) acid is not used for preparing hydrogen gas from metals because it",
+    "options": {
+      "A": "is strongly oxidizing",
+      "B": "is volatile",
+      "C": "renders the metal passive",
+      "D": "forms a layer of oxide on the metal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Nitric acid is not used in the preparation of hydrogen because it is a strong oxidizing agent, meaning it readily oxidizes the hydrogen gas produced during the reaction with a metal, converting it to water and thus preventing the collection of hydrogen gas; instead, acids like dilute hydrochloric acid or sulphuric acid are preferred for hydrogen production as they do not oxidize hydrogen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3734",
+    "passage": ""
   }
 ]
