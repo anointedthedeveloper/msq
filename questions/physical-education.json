@@ -6170,5 +6170,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76457",
     "passage": ""
+  },
+  {
+    "id": 76460,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a symptom of drug withdrawal?",
+    "options": {
+      "A": "An increased appetite and a feeling of being well-rested.",
+      "B": "A sudden increase in energy and a feeling of euphoria.",
+      "C": "Feeling of calm and relaxation after not taking the drug.",
+      "D": "Cravings, sweating, tremors, and anxiety after stopping the drug."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Drug withdrawal refers to the physical and psychological symptoms that occur when a person who has developed dependence on a drug stops taking it or reduces the dose suddenly. Common withdrawal symptoms include intense cravings for the drug, sweating, shaking or tremors, anxiety, irritability, insomnia, nausea, and in severe cases, seizures. These symptoms occur because the body has adapted to the presence of the drug, and its sudden absence disrupts the body's normal balance (homeostasis).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76460",
+    "passage": ""
   }
 ]
