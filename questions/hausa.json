@@ -2979,5 +2979,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73743",
     "passage": ""
+  },
+  {
+    "id": 73744,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ware bare dangane da jam'i.",
+    "options": {
+      "A": "Riga",
+      "B": "Rafi",
+      "C": "Hula",
+      "D": "Lambu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73744",
+    "passage": ""
   }
 ]
