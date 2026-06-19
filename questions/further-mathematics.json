@@ -1867,5 +1867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50397",
     "passage": ""
+  },
+  {
+    "id": 50398,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If (2t - 3s)(t - s) = 0, find \\(\\frac{t}{s}\\).",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\) or \\(1\\)",
+      "B": "\\(\\frac{3}{2}\\) or \\(-1\\)",
+      "C": "\\(\\frac{-3}{2}\\) or \\(-1\\)",
+      "D": "\\(\\frac{-3}{2}\\) or \\(1\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\((2t - 3s)(t - s) = 0 \\implies (2t - 3s) = \\text{0 or} (t - s) = 0\\)\n\\(2t - 3s = 0 \\implies 2t = 3s \\therefore \\frac{t}{s} = \\frac{3}{2}\\)\n\\(t - s = 0 \\implies t = s  \\therefore  \\frac{t}{s} = 1\\)\n\\(\\frac{t}{s} = \\frac{3}{2} or 1\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50398",
+    "passage": ""
   }
 ]
