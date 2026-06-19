@@ -7694,5 +7694,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62549",
     "passage": ""
+  },
+  {
+    "id": 62550,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following components are data communication equipment?\nI. Scanner ll. Hub lIl. Modem",
+    "options": {
+      "A": "I and Il only",
+      "B": "I and lll only",
+      "C": "II and IIl only",
+      "D": "I, Il and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Data communications equipment (DCE) are devices that send and receive digital data in communication systems. They serve as intermediaries that ensure a smooth and reliable flow of digital information between networks. Examples of Data communication equipment are: modems, routers, hubs, bridges, switches, and digital signal processors(DSP)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62550",
+    "passage": ""
   }
 ]
