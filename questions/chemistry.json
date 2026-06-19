@@ -9280,5 +9280,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3853",
     "passage": ""
+  },
+  {
+    "id": 3856,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The elements that belong to the third period of the periodic table are?",
+    "options": {
+      "A": "Li, Be, Al and P",
+      "B": "Na, P, O and Cl",
+      "C": "B, C, N and O",
+      "D": "Na, Mg, S and Ar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Elements in period 3 have 3 shells in their atomic structure.\nThese include elements from sodium to argon.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3856",
+    "passage": ""
   }
 ]
