@@ -1120,5 +1120,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/535",
     "passage": ""
+  },
+  {
+    "id": 538,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space: Although he is in all respects a poor student, he has managed to buy a tape recorder to improve his .... of French.",
+    "options": {
+      "A": "mastery",
+      "B": "mastering",
+      "C": "speaking",
+      "D": "ideas",
+      "E": "thinking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "“Mastery” is the correct noun that collocates naturally with “of French”. “Mastery of French” means a high level of skill or proficiency in the language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/538",
+    "passage": ""
   }
 ]
