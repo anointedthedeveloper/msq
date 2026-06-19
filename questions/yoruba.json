@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72423",
     "passage": ""
+  },
+  {
+    "id": 72424,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "\"Bóńdùrù\" jé òrò àyálò tí a yá nípasè",
+    "options": {
+      "A": "òlàjú",
+      "B": "oro-ajé",
+      "C": "ètò-èkó",
+      "D": "èsin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72424",
+    "passage": ""
   }
 ]
