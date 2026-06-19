@@ -1184,5 +1184,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48168",
     "passage": ""
+  },
+  {
+    "id": 48169,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Quelle est la capitale du Burkina Fasso?",
+    "options": {
+      "A": "Bouaké",
+      "B": "Ouagadougou",
+      "C": "Korhoro",
+      "D": "Koulikoro"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48169",
+    "passage": ""
   }
 ]
