@@ -3822,5 +3822,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1661",
     "passage": ""
+  },
+  {
+    "id": 1663,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a parliamentary system of government,a vote of no confidence leads to the resignation of",
+    "options": {
+      "A": "an indidvidual minister",
+      "B": "the entire parliament",
+      "C": "the prime minister",
+      "D": "the entire cabinet",
+      "E": "C and D"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1663",
+    "passage": ""
   }
 ]
