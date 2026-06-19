@@ -14614,5 +14614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23116",
     "passage": ""
+  },
+  {
+    "id": 23117,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above , |AD| = 10cm, |DC| = 8cm and |CF| = 15cmIf the area of triangle DCF = 24cm\n2\n, find the area of the quadrilateral ABCD.",
+    "options": {
+      "A": "24cm 2",
+      "B": "48cm 2",
+      "C": "80cm 2",
+      "D": "96cm 2",
+      "E": "120cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8305526526_wcmath199149.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909386/myschool/mathematics/8305526526_wcmath199149.jpg",
+    "correct_answer": "B",
+    "explanation": "2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23117",
+    "passage": ""
   }
 ]
