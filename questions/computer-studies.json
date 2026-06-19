@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60216",
     "passage": ""
+  },
+  {
+    "id": 60217,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": ".",
+    "options": {
+      "A": "Input, Output and Input signals",
+      "B": "Output, Output and Input signals",
+      "C": "Output, Input and Output Signals",
+      "D": "Input, Input and Output signals"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ytlPTjcAIbPfOMMNWdsWvvTTMpl0kqIrHHYln7S0.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781893629/myschool/computer-studies/ytlPTjcAIbPfOMMNWdsWvvTTMpl0kqIrHHYln7S0.jpg",
+    "correct_answer": "D",
+    "explanation": "X = input, Y = input, and Z = output.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60217",
+    "passage": ""
   }
 ]
