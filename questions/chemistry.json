@@ -8629,5 +8629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3739",
     "passage": ""
+  },
+  {
+    "id": 3740,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Na\\(_2\\)CO\\(_3\\)(g) + 2HCl(aq) → 2NaCl(aq) + H\\(_2\\)O(l) + CO\\(_2\\)(g) How many moles of sodium trioxocarbonate (IV) are there in a 25 cm\\(^3\\) solution which required 10cm\\(^3\\) of 0.05 mol dm\\(^3\\) hydrochloric acid solution to neutralize it?",
+    "options": {
+      "A": "1.000 mole",
+      "B": "0.100 mole",
+      "C": "0.010 mole`",
+      "D": "0.111 mole"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{C_A V_A}{C_BV_B} = \\frac{a}{b}\\) \\(\\frac{0.05 \\times 10}{C_B \\times 25} = \\frac{2}{1}\\) 50C\\(_B\\) = 0.5 C\\(_B\\) = \\(\\frac{0.5}{50} = \\frac{1}{100}\\) = 0.01\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3740",
+    "passage": ""
   }
 ]
