@@ -4122,5 +4122,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58695",
     "passage": ""
+  },
+  {
+    "id": 58700,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Table 1 is a part of MS Excel worksheet that shows the marks obtained by some students in an examination. Use the table to answer questions 20 and 21.\nWhich of the following formulas would calculate the average score of the students in Mathematics?",
+    "options": {
+      "A": "= Average (C2:C6)",
+      "B": "= Average (C2:F2)",
+      "C": "= Average (C1:C6)",
+      "D": "= Average (C1:F1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Average : To calculate the average of a range of numbers in Excel, you can use the AVERAGE function. The basic syntax for the AVERAGE function is: =AVERAGE(number1, [number2], ...) For example, to calculate the average of the values in cells A1 to A5, you can use the formula: =AVERAGE(A1:A5)\nTherefore OPTION A is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58700",
+    "passage": ""
   }
 ]
