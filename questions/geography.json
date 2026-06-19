@@ -1903,5 +1903,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1053",
     "passage": ""
+  },
+  {
+    "id": 1054,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The speed of the wind is usually measured by",
+    "options": {
+      "A": "an anemometer",
+      "B": "a speedometer",
+      "C": "an arrow",
+      "D": "a wind vane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1054",
+    "passage": ""
   }
 ]
