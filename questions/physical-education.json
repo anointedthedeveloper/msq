@@ -6422,5 +6422,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76490",
     "passage": ""
+  },
+  {
+    "id": 76491,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a key benefit of participating in NATCEGA?",
+    "options": {
+      "A": "Scholarship opportunities for non-athletes",
+      "B": "Promotion of physical fitness and talent identification",
+      "C": "Reduced academic workload",
+      "D": "Guaranteed employment after graduation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "NATCEGA provides a platform for students to showcase their talents, improve physical fitness, and possibly get identified for higher-level competitions or scholarships based on their performance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76491",
+    "passage": ""
   }
 ]
