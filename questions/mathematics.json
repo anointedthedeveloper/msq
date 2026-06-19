@@ -10877,5 +10877,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22057",
     "passage": ""
+  },
+  {
+    "id": 22061,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A water tank is made with a right-angled trapezium - shaped vertical cross-section so that when it is placed on sloping ground the top of the tank is level. The dimension are given in the diagram above\nIf the tank is completely filled with water, how many cubic metres can it hold?",
+    "options": {
+      "A": "66m 3",
+      "B": "84m 3",
+      "C": "132m 3",
+      "D": "168m 3",
+      "E": "264m 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17991044040_scanrr.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906768/myschool/mathematics/17991044040_scanrr.jpg",
+    "correct_answer": "C",
+    "explanation": "1\n2\n1\n2\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22061",
+    "passage": ""
   }
 ]
