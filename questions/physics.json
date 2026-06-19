@@ -8146,5 +8146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14040",
     "passage": ""
+  },
+  {
+    "id": 14041,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A sealed flask contains 600cm3 of air at 27°C and is heated to 35°C at constant pressure. The new volume is?",
+    "options": {
+      "A": "508 cm 3",
+      "B": "516 cm 3",
+      "C": "608 cm 3",
+      "D": "616 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V1 = 600cm3, T1 = 27 = 273 = 300k T2 = 35 + 273 = 308K, V2 = ? (V)1/T1 = (V)2/T2 = V2 = (V)1/T1 x X T2 = (600 X 308)/300 = 616 cm3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14041",
+    "passage": ""
   }
 ]
