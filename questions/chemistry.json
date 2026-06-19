@@ -4365,5 +4365,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2135",
     "passage": ""
+  },
+  {
+    "id": 2136,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The number of isomers formed by C\\(_6\\)H\\(_{14}\\) is",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "2",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The five structural isomers of C\\(_6\\)H\\(_{14}\\), also known as hexane, are:\nn-hexane : Has only primary and secondary carbon atoms 2-methylpentane : Has a single tertiary carbon atom 3-methylpentane : Has a tertiary carbon atom 2,2-dimethylbutane : Has two tertiary carbon atoms 2,3-dimethylbutane : Has two tertiary carbon atoms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2136",
+    "passage": ""
   }
 ]
