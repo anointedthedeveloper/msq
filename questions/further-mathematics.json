@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50389",
     "passage": ""
+  },
+  {
+    "id": 50390,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Express \\(\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}}\\) in the form \\(p\\sqrt{3} + q\\sqrt{2}\\).",
+    "options": {
+      "A": "\\(7\\sqrt{3} - \\frac{17\\sqrt{2}}{3}\\)",
+      "B": "\\(7\\sqrt{2} - \\frac{17\\sqrt{3}}{3}\\)",
+      "C": "\\(-7\\sqrt{2} + \\frac{17\\sqrt{3}}{3}\\)",
+      "D": "\\(-7\\sqrt{3} - \\frac{17\\sqrt{2}}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given \\(\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}}\\),\nfirst, we rationalise  by multiplying through with \\(2\\sqrt{3} - 3\\sqrt{2}\\) (the inverse of the denominator).\n\\((\\frac{8 - 3\\sqrt{6}}{2\\sqrt{3} + 3\\sqrt{2}})(\\frac{2\\sqrt{3} - 3\\sqrt{2}}{2\\sqrt{3} - 3\\sqrt{2}})\\)\n= \\(\\frac{16\\sqrt{3} - 24\\sqrt{2} - 18\\sqrt{2} + 18\\sqrt{3}}{4(3) - 6\\sqrt{6} + 6\\sqrt{6} - 9(2)}\\)\n= \\(\\frac{34\\sqrt{3} - 42\\sqrt{2}}{-6} = 7\\sqrt{2} - \\frac{17\\sqrt{3}}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50390",
+    "passage": ""
   }
 ]
