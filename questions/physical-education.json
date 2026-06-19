@@ -2308,5 +2308,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68258",
     "passage": ""
+  },
+  {
+    "id": 68259,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a track event ?",
+    "options": {
+      "A": "Triple jump",
+      "B": "Pole vault",
+      "C": "100m race",
+      "D": "High jump"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Track event - long distance races (5km, 10km, half marathon, full marathon) - Middle distance races (800m, 1500m, 1600m, 2000m, 3000m) - Short distance sprints (100m, 200m, 400m) - Relay races (4x100m, 4x200m, 4x400m, 4x800m) - Steeplechase races (3000m) - Hurdle races (100m, 110m, 400m)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68259",
+    "passage": ""
   }
 ]
