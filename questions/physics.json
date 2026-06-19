@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/621",
     "passage": ""
+  },
+  {
+    "id": 626,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "At what frequency would a 10H inductor have a reactance of 2000Ω?",
+    "options": {
+      "A": "π/200Hz",
+      "B": "π/100Hz",
+      "C": "100/πHz",
+      "D": "100πHz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "L",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/626",
+    "passage": ""
   }
 ]
