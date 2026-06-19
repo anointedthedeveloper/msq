@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50037",
     "passage": ""
+  },
+  {
+    "id": 50041,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "According to the 1999 constitution, sovereignty resides in the?",
+    "options": {
+      "A": "command in charge of the armed forces",
+      "B": "people who confer legitimacy on elected leaders",
+      "C": "national assembly which has power to make laws and amend the constitution",
+      "D": "military which can declare any law, null and of no effect"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The elctorates confer legitimacy on the government which in turns make its decisions acceptable to the electorate .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50041",
+    "passage": ""
   }
 ]
