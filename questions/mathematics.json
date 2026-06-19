@@ -5647,5 +5647,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8656",
     "passage": ""
+  },
+  {
+    "id": 8663,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Find the variance of 2x, 2x-1 and 2x+1",
+    "options": {
+      "A": "2/3",
+      "B": "2",
+      "C": "√(2/3)",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\sum x = 6x\\) \\(\\sum(x-\\bar{x})^2\\) = 2 \\(\\bar{x} = \\frac{\\sum x}{n}\\) = \\(\\frac{6x}{3}\\) = 2x Variance = \\(\\frac{\\sum(x-\\bar{x})^2}{n}\\) = \\(\\frac{2}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8663",
+    "passage": ""
   }
 ]
