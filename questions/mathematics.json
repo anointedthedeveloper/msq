@@ -2056,5 +2056,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2569",
     "passage": ""
+  },
+  {
+    "id": 2577,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the dimensions of a rectangle of greatest area which has a fixed perimeter p.",
+    "options": {
+      "A": "square of sides p",
+      "B": "square of sides 2p",
+      "C": "square of sides (p/2)",
+      "D": "square of sides (p/4)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2577",
+    "passage": ""
   }
 ]
