@@ -2199,5 +2199,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73801",
     "passage": ""
+  },
+  {
+    "id": 73802,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ugochi na Eze. The underlined word is",
+    "options": {
+      "A": "noun",
+      "B": "conjunction",
+      "C": "adjective",
+      "D": "pronoun"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The underlined word is conjunction ($\\text{na}$ is a conjunction in Igbo). The sentence \"Ugochi na Eze\" means \"Ugochi and Eze\". The word \"na\" is used to join two nouns together.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73802",
+    "passage": ""
   }
 ]
