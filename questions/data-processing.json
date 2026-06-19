@@ -6685,5 +6685,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67124",
     "passage": ""
+  },
+  {
+    "id": 67125,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One of the major differences between WAN and MAN is that",
+    "options": {
+      "A": "WAN used routers while MAN uses switches",
+      "B": "WAN connects countries while MAN connects continents",
+      "C": "WAN has no limited coverage while MAN has limited coverage",
+      "D": "WAN incorporate servers while MAN does not incorporate servers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "WAN has no limited coverage while MAN has limited coverage The transmission speed of MAN is faster than WAN.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67125",
+    "passage": ""
   }
 ]
