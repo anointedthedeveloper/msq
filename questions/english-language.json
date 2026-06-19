@@ -1647,5 +1647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/610",
     "passage": ""
+  },
+  {
+    "id": 611,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nMy little boy is suffering .... jaundice",
+    "options": {
+      "A": "from",
+      "B": "of",
+      "C": "for",
+      "D": "with",
+      "E": "by"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/611",
+    "passage": ""
   }
 ]
