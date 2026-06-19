@@ -4386,5 +4386,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2136",
     "passage": ""
+  },
+  {
+    "id": 2137,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of these pairs are synthetic and natural macromolecules respectively?",
+    "options": {
+      "A": "Haemoglobin and nylon, creatine and polyethylene",
+      "B": "Nylon and polyethlene, creatine and Haemoglobin",
+      "C": "Nylon and creatine, polyethylene and haemoglobin",
+      "D": "Creatine and Polyethylene, nylon and haemoglobin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A macromolecule is a very large molecule, usually with a diameter of 100 to 10,000 angstroms (10−5 to 10−3 mm).\nNylon is a synthetic macromolecule that's made up of repeating subunits called monomers. It's created through a condensation polymerization reaction between adipic acid and hexamethylene diamine.\nPolyethylene is a synthetic polymer, which means it's made by scientists and engineers from petroleum oil.\nCreatine is a non-protein compound that is derived from amino acids , and is produced in the body by the liver, kidneys, and pancreas. It is also found in protein-rich foods like meat, fish, and milk.\nHemoglobin is a natural organic(natural) macromolecule.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2137",
+    "passage": ""
   }
 ]
