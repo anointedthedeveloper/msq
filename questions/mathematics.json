@@ -16374,5 +16374,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23217",
     "passage": ""
+  },
+  {
+    "id": 23218,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Cos 75\no\nhas the same value as",
+    "options": {
+      "A": "cos 115 o",
+      "B": "cos 255 o",
+      "C": "cos 285 o",
+      "D": "-sin165 o",
+      "E": "-sin 255 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23218",
+    "passage": ""
+  },
+  {
+    "id": 23219,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "If sin x = 12/13, where 0° < x < 90°, find the value of 1 - cos\\(^2\\)x",
+    "options": {
+      "A": "25/169",
+      "B": "64/169",
+      "C": "105/169",
+      "D": "144/169",
+      "E": "8/13"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\sin x = \\frac{12}{13}\\)\n\\(\\cos x = \\frac{5}{13}\\)\n\\(\\cos^{2} x = (\\frac{5}{13})^2 = \\frac{25}{169}\\)\n\\(1 - \\cos^{2} x = 1 - \\frac{25}{169}\\)\n= \\(\\frac{144}{169}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23219",
+    "passage": ""
   }
 ]
