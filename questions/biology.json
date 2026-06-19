@@ -2682,5 +2682,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1240",
     "passage": ""
+  },
+  {
+    "id": 1241,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "During thunderstorms the energy of lightning discharge causes",
+    "options": {
+      "A": "oxygen and nitrogen to combine",
+      "B": "more carbon dioxide to be formed",
+      "C": "nitrites to be converted to nitrates",
+      "D": "nitrates to be converted to nitrogen",
+      "E": "death"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1241",
+    "passage": ""
   }
 ]
