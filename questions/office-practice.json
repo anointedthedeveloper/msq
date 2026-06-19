@@ -2628,5 +2628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66831",
     "passage": ""
+  },
+  {
+    "id": 66832,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "One of the essential parts of a report is",
+    "options": {
+      "A": "reference",
+      "B": "conclusion",
+      "C": "salutation",
+      "D": "enclosure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The report should be divided into some essential parts, such as introduction, body, conclusion and summary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66832",
+    "passage": ""
   }
 ]
