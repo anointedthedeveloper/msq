@@ -1973,5 +1973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1035",
     "passage": ""
+  },
+  {
+    "id": 1036,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Professor Ibrahim Gambari is the Special Assistant to the United Nations Secretary General on",
+    "options": {
+      "A": "African affairs",
+      "B": "political and social matters",
+      "C": "the Economic Commission of Africa",
+      "D": "security matters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Professor Ibrahim Gambari served as the Under-Secretary-General and Special Adviser on Africa to the United Nations Secretary-General.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1036",
+    "passage": ""
   }
 ]
