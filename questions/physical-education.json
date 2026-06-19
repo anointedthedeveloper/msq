@@ -6527,5 +6527,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76497",
     "passage": ""
+  },
+  {
+    "id": 76498,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the function of the valves within the heart?",
+    "options": {
+      "A": "To produce the electrical impulses that regulate the heart beat.",
+      "B": "To prevent the backflow of blood, ensuring it flows in one direction.",
+      "C": "To separate the oxygenated blood from the deoxygenated blood.",
+      "D": "To produce the 'lub-dub' sound of the heart beat."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The valves within the heart - including the mitral, tricuspid, aortic, and pulmonary valves - act as one-way gates that open and close to regulate blood flow through the heart's chambers. Their primary function is to prevent the backward flow of blood during the contraction and relaxation phases, ensuring efficient circulation and maintaining unidirectional blood movement through the heart and to the rest of the body. This function is crucial for maintaining proper cardiac output and preventing mixing of oxygenated and deoxygenated blood.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76498",
+    "passage": ""
   }
 ]
