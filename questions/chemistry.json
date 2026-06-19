@@ -11191,5 +11191,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4324",
     "passage": ""
+  },
+  {
+    "id": 4325,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "CuO(s) + H\\(_2\\)(g) ↔ Cu(s) + H\\(_2\\)O(g) What is the effect of increasing the pressure on the equilibrium reaction above?",
+    "options": {
+      "A": "The equilibrium is shifted to the left",
+      "B": "The equilibrium is shifted to the right",
+      "C": "There is no effect",
+      "D": "More H 2(g) is produced"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When amount / volume of gaseous reactants equal amount / volume of gaseous products, the change in pressure has no effect on the equilibrium position.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4325",
+    "passage": ""
   }
 ]
