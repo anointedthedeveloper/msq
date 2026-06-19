@@ -7589,5 +7589,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62544",
     "passage": ""
+  },
+  {
+    "id": 62545,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The following are relational operators in QBASIC?",
+    "options": {
+      "A": "<",
+      "B": ">",
+      "C": "#",
+      "D": "="
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62545",
+    "passage": ""
   }
 ]
