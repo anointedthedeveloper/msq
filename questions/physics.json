@@ -7138,5 +7138,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13891",
     "passage": ""
+  },
+  {
+    "id": 13892,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The theory of electronic conduction in solids, which satisfactorily explains the properties of conductors, insulators and semi-conductor,is?",
+    "options": {
+      "A": "string theory",
+      "B": "particle theory",
+      "C": "group theory",
+      "D": "band theory"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Band Theory : This theory describes the energy levels of electrons in solids as bands. It explains how the bands (valence and conduction bands) determine the electrical properties of materials.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13892",
+    "passage": ""
   }
 ]
