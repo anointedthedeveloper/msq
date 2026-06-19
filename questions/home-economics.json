@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73186",
     "passage": ""
+  },
+  {
+    "id": 73187,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The artifact when completed should be able to hold a normal size candle. This specification is classified as:",
+    "options": {
+      "A": "Aesthetics",
+      "B": "Function",
+      "C": "Ergonomics",
+      "D": "Construction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The specification that the artifact should hold a normal-sized candle is a functional requirement since it defines the purpose or use of the artifact. In this case, the item serves as a candle holder, and holding the candle is its primary function.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73187",
+    "passage": ""
   }
 ]
