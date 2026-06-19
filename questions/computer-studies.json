@@ -20717,5 +20717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76869",
     "passage": ""
+  },
+  {
+    "id": 76870,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The acronym HTTP stands for",
+    "options": {
+      "A": "Higher Text Transfer Protocol",
+      "B": "Hard Text Transfer Protocol",
+      "C": "Hyper Text Transfer Protocol",
+      "D": "Higher Transfer Text Protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "HTTP stands for Hypertext Transfer Protocol. It is the protocol used for transferring hypertext requests and information on the Internet. Hypertext is structured text that uses logical links (hyperlinks) between nodes containing text. Therefore, the correct answer is Hyper Text Transfer Protocol.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76870",
+    "passage": ""
   }
 ]
