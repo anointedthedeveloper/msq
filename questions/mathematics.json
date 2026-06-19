@@ -14350,5 +14350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22932",
     "passage": ""
+  },
+  {
+    "id": 22933,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the median of the distribution",
+    "options": {
+      "A": "9",
+      "B": "6.5",
+      "C": "5",
+      "D": "4.5",
+      "E": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Median = 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, | 5, 5, | 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7,\nMedian = \\(\\frac{5 + 5}{2}\\) = 5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22933",
+    "passage": ""
   }
 ]
