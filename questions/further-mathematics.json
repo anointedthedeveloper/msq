@@ -3462,5 +3462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50529",
     "passage": ""
+  },
+  {
+    "id": 50531,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(8^{x} ÷ (\\frac{1}{4})^{y} = 1\\) and \\(\\log_{2}(x - 2y) = 1\\), find the value of (x - y).",
+    "options": {
+      "A": "\\(\\frac{5}{4}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(1\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(8^{x} ÷ (\\frac{1}{4})^{y} = 1\\)\n\\((2^{3})^{x} ÷ (2^{-2})^{y} = 2^{0}\\)\n\\(2^{3x - (-2y)} = 2^{0}\\)\n\\(\\implies 3x + 2y = 0 .... (1)\\)\n\\(\\log_{2}(x - 2y) = 1\\)\n\\( x - 2y = 2^{1} = 2 ..... (2)\\)\nSolving equations 1 and 2,\n\\(x = \\frac{1}{2}, y = \\frac{-3}{4}\\)\n\\((x - y) = \\frac{1}{2} - \\frac{-3}{4} = \\frac{5}{4}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50531",
+    "passage": ""
   }
 ]
