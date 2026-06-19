@@ -9343,5 +9343,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14269",
     "passage": ""
+  },
+  {
+    "id": 14271,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The figure above shows a plot of angles of deviation through a glass prism when light is incident at θ degrees on the prism. The incident angle that produces the minimum deviation is",
+    "options": {
+      "A": "20 o",
+      "B": "18 o",
+      "C": "35 o",
+      "D": "25 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/dyIHJALulRLzUmsAa41b4gCBM3txLjrJS2t4aHod.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890340/myschool/physics/dyIHJALulRLzUmsAa41b4gCBM3txLjrJS2t4aHod.png",
+    "correct_answer": "D",
+    "explanation": "From the given graph, when the angle of minimum deviation = 18º, the angle of incidence = 25º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14271",
+    "passage": ""
   }
 ]
