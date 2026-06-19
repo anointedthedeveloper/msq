@@ -2937,5 +2937,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1579",
     "passage": ""
+  },
+  {
+    "id": 1580,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Millikan's contributions to the development of atomic theory is the determination of",
+    "options": {
+      "A": "charge on electron",
+      "B": "positive rays",
+      "C": "charge to mass ratio",
+      "D": "cathode rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In 1910, Millikan successfully measured the charge of the electron to be 1.6 x 10\\(^{-19}\\)C.\nPositive rays were discovered by Eugen Goldstein, in 1886.\nJ.J. Thomson discovered the charge-to-mass ratio of an electron in 1897:\nCathode rays were discovered by. J. J. Thomson\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1580",
+    "passage": ""
   }
 ]
