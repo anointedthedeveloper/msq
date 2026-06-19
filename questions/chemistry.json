@@ -6444,5 +6444,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2939",
     "passage": ""
+  },
+  {
+    "id": 2940,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Alloys are best prepared by",
+    "options": {
+      "A": "Electroplating",
+      "B": "Arc-welding",
+      "C": "Reducing and mixture of their metallic oxide",
+      "D": "Cooling a molten mixture of the metals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The most common way to prepare an alloy is to melt metals together and then pour the mixture into a mold to solidify. This method is called melting and mixing.\nAlloys are created by combining two or more metallic elements, or sometimes a metal with a non-metal, in a solid solution, compound, or mixture. The process typically involves melting the base metal and then adding the alloying agents. Mixing is easier in the liquid state than in the solid state, so most alloys are made by melting the base metal.\nElectroplating primarily adds a thin coating of metal to a substrate, not creating a true alloy with the base material. It can be used to enhance surface properties like corrosion resistance or wear resistance, but not to create a new alloy with specific metallurgical properties throughout the material.\nWhile welding can join different metals, it's primarily used for joining existing pieces of metal, not for creating alloys from scratch.\nWhile some methods involve processing metal oxides to create alloys, melting and mixing the metals directly is generally more common and efficient for most alloy production.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2940",
+    "passage": ""
   }
 ]
