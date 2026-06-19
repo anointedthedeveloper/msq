@@ -3971,5 +3971,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75999",
     "passage": ""
+  },
+  {
+    "id": 76000,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of these items could be found in the reception?",
+    "options": {
+      "A": "Attendance registers",
+      "B": "Newspaper and Magazine",
+      "C": "Dispatch book",
+      "D": "Inward and outward registers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the reception area of an office, you are likely to find items like newspapers and magazines. These are usually provided for visitors to read while they wait for their appointments. The other options listed such as inward and outward registers, attendance registers, and dispatch books are typically not found in the reception area, but rather in other parts of the office.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76000",
+    "passage": ""
   }
 ]
