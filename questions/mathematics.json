@@ -10921,5 +10921,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22085",
     "passage": ""
+  },
+  {
+    "id": 22092,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Evaluate log\n10\n6 + log\n10\n45 - log\n10\n27 without using logarithm tables",
+    "options": {
+      "A": "o",
+      "B": "1",
+      "C": "1.1738",
+      "D": "1.3802",
+      "E": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "10\n10\n10\n10\n10\n10",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22092",
+    "passage": ""
   }
 ]
