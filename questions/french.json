@@ -81,5 +81,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48115",
     "passage": ""
+  },
+  {
+    "id": 48116,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Qui est l'auteur de Chaque chose en son temps?",
+    "options": {
+      "A": "Margaret Kwakwa",
+      "B": "Camara Laye",
+      "C": "Tunde Ajiboye",
+      "D": "Lynn Mbuko"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48116",
+    "passage": ""
   }
 ]
