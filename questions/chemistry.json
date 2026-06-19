@@ -9910,5 +9910,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4029",
     "passage": ""
+  },
+  {
+    "id": 4031,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the course of purifying water for town supply the water is passed through large settlings tanks, containing sodium aluminate (III) to remove?",
+    "options": {
+      "A": "large particles",
+      "B": "germs",
+      "C": "fine particles",
+      "D": "odour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Potash alum [kAl(S\\({O}_4\\))\\(_2\\)] n sodium aluminate (ii) (NaHCO\\(_2\\)) are added to cause coagulation.\nAs  fine particles to clump together, forming large particles heavy enough to settle at the bottom of the tanks as impurities.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4031",
+    "passage": ""
   }
 ]
