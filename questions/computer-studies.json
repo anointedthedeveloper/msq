@@ -18999,5 +18999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71376",
     "passage": ""
+  },
+  {
+    "id": 71377,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "When data is organized, processed, and presented in a meaningful context, it becomes:",
+    "options": {
+      "A": "Information",
+      "B": "Structured Query Language",
+      "C": "Metadata",
+      "D": "Fact"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Information is the result of organizing and processing raw data to provide context, relevance, and meaning. It is essential for decision-making and communication. Metadata refers to data that describes other data, while a fact is a piece of information that is considered to be true. Structured Query Language (SQL) is a programming language used for managing data in relational database management systems, not the transformation of raw.' data into meaningful context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71377",
+    "passage": ""
   }
 ]
