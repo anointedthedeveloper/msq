@@ -3127,5 +3127,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68301",
     "passage": ""
+  },
+  {
+    "id": 68302,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following cannot be found in a first aid box ?",
+    "options": {
+      "A": "gloves",
+      "B": "hand sanitizer",
+      "C": "bandages",
+      "D": "soda drinks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "first aid box content - thermometer - gauze -gloves - hand sanitizer - bandages - adhesive dressings - ice pack - cotton balls",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68302",
+    "passage": ""
   }
 ]
