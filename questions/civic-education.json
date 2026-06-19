@@ -4468,5 +4468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50322",
     "passage": ""
+  },
+  {
+    "id": 50323,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The division of Nigeria into various constituencies with each electing a person to represent it in the national assembly is a demonstration of?",
+    "options": {
+      "A": "checks and balances",
+      "B": "popular participation",
+      "C": "political rivalry among the constituents",
+      "D": "drive towards succession"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Dividing Nigeria into constituencies and having each constituency elect a representative to the national assembly ensures that citizens from different regions can participate in the democratic process. It allows for a more representative government, where the interests and voices of various segments of the population are taken into account.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50323",
+    "passage": ""
   }
 ]
