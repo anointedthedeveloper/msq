@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75348",
     "passage": ""
+  },
+  {
+    "id": 75349,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Translate: \"The girl is smart and polite.\"",
+    "options": {
+      "A": "الفتاة متأخرة وقوية",
+      "B": "الفتاة ذکية ومهنبة",
+      "C": "الفتاة سريعة وجميلة",
+      "D": "الفتاة ضعيفة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ". means \"My father went\" and it begins with a verb \"ذهب أبي\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75349",
+    "passage": ""
   }
 ]
