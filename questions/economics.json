@@ -3913,5 +3913,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2502",
     "passage": ""
+  },
+  {
+    "id": 2503,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Economics is a science which deals basically with",
+    "options": {
+      "A": "the factors of production",
+      "B": "allocation of scarce resources",
+      "C": "oil exportation",
+      "D": "the gross domestic product (GDP)",
+      "E": "national income"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2503",
+    "passage": ""
   }
 ]
