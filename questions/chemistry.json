@@ -6066,5 +6066,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2643",
     "passage": ""
+  },
+  {
+    "id": 2644,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Calcium tetraoxosulphate (VI) dissolves in water only sparingly to form a",
+    "options": {
+      "A": "solution",
+      "B": "suspension",
+      "C": "precipitate",
+      "D": "colloid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Calcium sulphate is only slightly soluble in water, meaning that only a small amount of it will dissolve, and the rest will remain as a solid. Calcium sulfate in water forms a precipitate, not a suspension. While calcium sulfate is only slightly soluble in water, it does not form a true suspension where particles are suspended in the liquid. Instead, it generally forms a precipitate, which is a solid that separates from the solution and settles at the bottom.  When calcium tetraoxosulphate(VI) dissolves sparingly in water, a precipitate is formed .\nColloids and precipitates are both related to the separation of substances in a mixture, but they differ in particle size and the process that leads to their formation. Colloids are mixtures where particles are dispersed throughout another substance, but don't settle out quickly. Precipitates, on the other hand, are solid substances that form and separate from a solution during a chemical reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2644",
+    "passage": ""
   }
 ]
