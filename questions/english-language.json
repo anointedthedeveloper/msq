@@ -12647,5 +12647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4642",
     "passage": ""
+  },
+  {
+    "id": 4643,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence : The court ordered the lorry driver to pay for the .... to my car",
+    "options": {
+      "A": "damages",
+      "B": "heavy damages",
+      "C": "destruction",
+      "D": "many damages",
+      "E": "damage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The sentence should read: \"The court ordered the lorry driver to pay for the damage to my car.\" Damage is appropriate because it is an uncountable noun and it would be ungrammatical to attach an \"s\". Though the word damages is used to refer to the legal compensation for the harm or losses in a car collision, it is not the correct option to fill in the gap because the lorry driver is required to pay \"for\" the damage to the car and not to pay the damages for the car.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4643",
+    "passage": ""
   }
 ]
