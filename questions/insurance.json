@@ -2348,5 +2348,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49909",
     "passage": ""
+  },
+  {
+    "id": 49911,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A clause that prevents the insurer from paying under a policy if the insured killed himself is?",
+    "options": {
+      "A": "exceptional clause",
+      "B": "revival clause",
+      "C": "accidental clause",
+      "D": "suicide clause"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The “suicide clause.” Usually, this clause states that no death benefit will be paid if the insured commits suicide within two years of taking out a policy. Whenever an insured person replaces an existing life insurance policy with a new one, the time clock for the suicide clause is set back to zero and starts over again.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49911",
+    "passage": ""
   }
 ]
