@@ -10687,5 +10687,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4287",
     "passage": ""
+  },
+  {
+    "id": 4291,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "0.0075 mole of calcium trioxocarbonate (IV) is added to 0.015 mole of a solution of hydrochloric acid. The volume of gas evolved at s.t.p is? [Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "options": {
+      "A": "224cm 3",
+      "B": "168cm 3",
+      "C": "112cm 3",
+      "D": "100cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1mole of gas at STP = 22.4dm\\(^3\\) 0.0075 mole of CaCO3  = xdm\\(^3\\)\ncross multiply;\nwhere 22.4dm\\(^3\\) = 22400cm\\(^3\\)\nx * 1 = 0.0075 * 22400 → 168cm\\(^3\\)\nthe gas CO2 which evolved was gotten from CaCO3 so we use the number of moles of CaCO3 only\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4291",
+    "passage": ""
   }
 ]
