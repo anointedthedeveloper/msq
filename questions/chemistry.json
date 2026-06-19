@@ -11149,5 +11149,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4322",
     "passage": ""
+  },
+  {
+    "id": 4323,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In the diagram above, which of the curves represents the evolution of oxygen with time in the equation 2KClO3(s) → 2KCl(s) + 3O2(g)?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "R"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17580954326_chem200927.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890756/myschool/chemistry/17580954326_chem200927.png",
+    "correct_answer": "D",
+    "explanation": "The curve that represents the evolution of oxygen over time for the reaction Sv6Kpe[] 2KClO\\(_3\\)(s) → 2KCl(s)+3O\\(_2\\)\\(_g\\) would start at a concentration of zero and then increase, with the rate of increase slowing down over time until it reaches a constant, maximum value.\nAt the beginning of the reaction (t=0), no oxygen has been produced. As the reaction proceeds, the amount of oxygen gas increases. The reaction rate is fastest at the start when the concentration of the reactant, KClO\\(_3\\), is highest. As the reactant is consumed, the rate of the reaction slows down, which is reflected in the curve's slope becoming less steep. Once all of the KClO\\(_3\\) has reacted, the amount of oxygen produced will no longer increase, and the curve will flatten out.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4323",
+    "passage": ""
   }
 ]
