@@ -3625,5 +3625,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58462",
     "passage": ""
+  },
+  {
+    "id": 58463,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Figure 1  ABOVE depicts.",
+    "options": {
+      "A": "a distributed database",
+      "B": "a parallel database",
+      "C": "an extranet",
+      "D": "an internet"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9AvnaMUdfMppBEvhO4EWIqlaPiqjeq49RiVre9a8.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911051/myschool/data-processing/9AvnaMUdfMppBEvhO4EWIqlaPiqjeq49RiVre9a8.jpg",
+    "correct_answer": "A",
+    "explanation": "A distributed database is basically a type of database which consists of multiple databases that are connected with each other and are spread across different physical locations. The data that is stored in various physical locations can thus be managed independently of other physical locations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58463",
+    "passage": ""
   }
 ]
