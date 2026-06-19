@@ -2034,5 +2034,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73698",
     "passage": ""
+  },
+  {
+    "id": 73699,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ware bare dangane da jinsi.",
+    "options": {
+      "A": "Gida",
+      "B": "Mota",
+      "C": "Fata",
+      "D": "Hula"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Mota. The question is asking about the name of a letter in the Hausa alphabet, and the answer is Mota.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73699",
+    "passage": ""
   }
 ]
