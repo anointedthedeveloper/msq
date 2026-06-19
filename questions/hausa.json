@@ -7508,5 +7508,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75994",
     "passage": ""
+  },
+  {
+    "id": 75996,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane salo ne ya fi dacewa da karin magana a Hausance?",
+    "options": {
+      "A": "Sauki da zurfi",
+      "B": "Rashin ma'ana",
+      "C": "Dogon bayani",
+      "D": "Maimaici"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hausa proverbs are known for their simplicity of form but depth of meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75996",
+    "passage": ""
   }
 ]
