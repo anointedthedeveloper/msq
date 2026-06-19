@@ -2035,5 +2035,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2559",
     "passage": ""
+  },
+  {
+    "id": 2569,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "If y = x sinx, find dy/dx when x = π/2.",
+    "options": {
+      "A": "-π/2",
+      "B": "-1",
+      "C": "1",
+      "D": "π/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2569",
+    "passage": ""
   }
 ]
