@@ -1383,5 +1383,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/622",
     "passage": ""
+  },
+  {
+    "id": 623,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The quantity supplied of a commodity increases best when",
+    "options": {
+      "A": "Production increases",
+      "B": "Demand increases",
+      "C": "Price of the commodity increases",
+      "D": "Population of the country increases",
+      "E": "More commodities are imported"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/623",
+    "passage": ""
   }
 ]
