@@ -6361,5 +6361,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13764",
     "passage": ""
+  },
+  {
+    "id": 13767,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When very hot water is poured into two identical thin and thick glass tumblers in equal volumes, the thick one cracks because?",
+    "options": {
+      "A": "of the even expansion of glass",
+      "B": "glass is a crystal",
+      "C": "glass is a good conductor of heat",
+      "D": "of the uneven expansion of glass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When very hot water is poured into the thick glass tumbler, the inner surface of the glass heats up and expands more quickly than the outer part. This creates stress due to uneven expansion, leading to cracking. In contrast, the thin glass tumbler is less prone to this issue because it heats more uniformly.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13767",
+    "passage": ""
   }
 ]
