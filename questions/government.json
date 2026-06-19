@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/133",
     "passage": ""
+  },
+  {
+    "id": 134,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A common feature of a multi-party system is that government is formed by",
+    "options": {
+      "A": "the major political party",
+      "B": "all the registered political parties",
+      "C": "a coalition of political parties",
+      "D": "the party with the highest votes."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/134",
+    "passage": ""
   }
 ]
