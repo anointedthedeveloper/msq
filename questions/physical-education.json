@@ -6233,5 +6233,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76477",
     "passage": ""
+  },
+  {
+    "id": 76480,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is NOT an objective of health education?",
+    "options": {
+      "A": "To promote healthy behaviors and habits.",
+      "B": "To provide accurate health information.",
+      "C": "To develop positive attitudes toward health.",
+      "D": "To diagnose medical conditions."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Health education's role is to inform and influence behaviors, not to diagnose or treat medical conditions-that is the role of healthcare professionals. Education supports prevention, awareness, and empowerment rather than clinical diagnosis",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76480",
+    "passage": ""
   }
 ]
