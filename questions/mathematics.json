@@ -3001,5 +3001,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3396",
     "passage": ""
+  },
+  {
+    "id": 5901,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Evaluate \\(Log_{\\sqrt{2}}4 + Log_{\\frac{1}{2}}16 - Log_{4}32\\)",
+    "options": {
+      "A": "-5.5",
+      "B": "-2.5",
+      "C": "2.5",
+      "D": "5.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To evaluate the expression \\( \\log_{\\sqrt{2}} 4 + \\log_{\\frac{1}{2}} 16 - \\log_{4} 32 \\), we can simplify each term separately.\n1. Calculate \\( \\log_{\\sqrt{2}} 4 \\) \\(\\log_{\\sqrt{2}} 4 = \\frac{\\log_2 4}{\\log_2 \\sqrt{2}}\\) We know that \\( \\log_2 4 = 2 \\) (since \\( 2^2 = 4 \\)) and \\( \\log_2 \\sqrt{2} = \\log_2 2^{1/2} = \\frac{1}{2} \\). Thus, \\(log_{\\sqrt{2}} 4 = \\frac{2}{\\frac{1}{2}} = 4\\)\n2. Calculate \\( \\log_{\\frac{1}{2}} 16 \\) \\(\\log_{\\frac{1}{2}} 16 = \\frac{\\log_2 16}{\\log_2 \\frac{1}{2}}\\) We know that \\( \\log_2 16 = 4 \\) (since \\( 2^4 = 16 \\)) and \\( \\log_2 \\frac{1}{2} = \\log_2 2^{-1} = -1 \\). Thus, \\(\\log_{\\frac{1}{2}} 16 = \\frac{4}{-1} = -4\\)\n3. Calculate \\( \\log_{4} 32 \\) \\(\\log_{4} 32 = \\frac{\\log_2 32}{\\log_2 4}\\) We know that \\( \\log_2 32 = 5 \\) (since \\( 2^5 = 32 \\)) and \\( \\log_2 4 = 2 \\). Thus, \\(\\log_{4} 32 = \\frac{5}{2}\\)\nNow, we can substitute these results back into the original expression: \\(\\log_{\\sqrt{2}} 4 + \\log_{\\frac{1}{2}} 16 - \\log_{4} 32 = 4 - 4 - \\frac{5}{2}\\)\nCalculating this gives: \\(4 - 4 - \\frac{5}{2} = 0 - \\frac{5}{2} = -\\frac{5}{2}\\)\nThus, the final result is: \\(-\\frac{5}{2}\\) = - 2.5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5901",
+    "passage": ""
   }
 ]
