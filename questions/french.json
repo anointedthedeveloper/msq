@@ -3805,5 +3805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75221",
     "passage": ""
+  },
+  {
+    "id": 75223,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Lequel de ces mots a le son /t/ final ?",
+    "options": {
+      "A": "Patient",
+      "B": "Petite",
+      "C": "Part",
+      "D": "Petit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Petite\" is the feminine form of \"petit.\" In French, final consonants are often silent, but in this case, the \"t\" is pronounced because it is followed by a vowel sound when used in phrases like \"la petite amie\".\"Petite\" is feminine, and the \"t\" is pronounced.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75223",
+    "passage": ""
   }
 ]
