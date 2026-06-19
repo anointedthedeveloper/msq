@@ -4743,5 +4743,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70823",
     "passage": ""
+  },
+  {
+    "id": 70824,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "First aid training is important because it:",
+    "options": {
+      "A": "Allows people to diagnose diseases",
+      "B": "Reduces the risk of injury altogether",
+      "C": "Eliminates the need for professional medical care",
+      "D": "Prepares individuals to act in emergencies"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "First aid training equips individuals with the skills needed to handle emergencies effectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70824",
+    "passage": ""
   }
 ]
