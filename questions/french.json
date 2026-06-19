@@ -792,5 +792,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48149",
     "passage": ""
+  },
+  {
+    "id": 48150,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Les joueurs de boules et de pétanque sont trés nombreux",
+    "options": {
+      "A": "au nord de la France",
+      "B": "hors de France",
+      "C": "au Sud de la France",
+      "D": "lion de la France"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/NuSuOhEKeNfl4H8fbjO5pOUmgWk0ok77vzCoBKjC.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890630/myschool/french/NuSuOhEKeNfl4H8fbjO5pOUmgWk0ok77vzCoBKjC.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48150",
+    "passage": ""
   }
 ]
