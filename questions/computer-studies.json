@@ -17775,5 +17775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69854",
     "passage": ""
+  },
+  {
+    "id": 69855,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following actions is not an animation in Microsoft PowerPoint?",
+    "options": {
+      "A": "Entrance",
+      "B": "Emphasis",
+      "C": "Motion paths",
+      "D": "Dancing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The action \"Dancing\" is not an animation in Microsoft PowerPoint. In Microsoft PowerPoint, animations are used to add movement and visual effects to slides and their content during a presentation. The other actions you mentioned, namely \"Emphasis,\" \"Entrance,\" and \"Motion paths,\" are types of animations that you can apply to elements on your slides to enhance your presentation. \"Dancing\" is not a predefined animation effect in PowerPoint. However, you can use various animation effects like \"Emphasis,\" \"Entrance,\" and \"Motion paths\" to create dynamic and engaging presentations by making text, images, and other elements appear, move, or change in ways that capture your audience's attention.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69855",
+    "passage": ""
   }
 ]
