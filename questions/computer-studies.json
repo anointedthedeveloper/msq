@@ -18117,5 +18117,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70763",
     "passage": ""
+  },
+  {
+    "id": 70792,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the relationship between a 'record' and a 'file'?",
+    "options": {
+      "A": "A record contains multiple files",
+      "B": "A file is a type of record",
+      "C": "o\r\nA record and a file are the same",
+      "D": "A file contains multiple records"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A file is a collection of multiple records, each containing related fields",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70792",
+    "passage": ""
   }
 ]
