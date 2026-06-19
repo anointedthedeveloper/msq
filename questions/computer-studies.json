@@ -5796,5 +5796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62435",
     "passage": ""
+  },
+  {
+    "id": 62436,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Sorting of records is sufficient and a necessary condition for creating?",
+    "options": {
+      "A": "random file",
+      "B": "indirect file",
+      "C": "sequential file",
+      "D": "indexed sequential file."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62436",
+    "passage": ""
   }
 ]
