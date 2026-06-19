@@ -4646,5 +4646,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7902",
     "passage": ""
+  },
+  {
+    "id": 7903,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of these groups of rocks consist of only sedimentary rocks and are used in the manufacture of cement?",
+    "options": {
+      "A": "Limestone, granite, chalk",
+      "B": "Shale, gypsum, slate",
+      "C": "Coal, Limestone, gypsum",
+      "D": "Graphite, marble, limestone",
+      "E": "Sandstone, chalk, ironstone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7903",
+    "passage": ""
   }
 ]
