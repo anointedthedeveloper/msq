@@ -10122,5 +10122,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7001",
     "passage": ""
+  },
+  {
+    "id": 7002,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "An instrument that is traded i the second-tier foreign exchange market is?",
+    "options": {
+      "A": "money order",
+      "B": "stock",
+      "C": "travellers' cheque",
+      "D": "debenture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7002",
+    "passage": ""
   }
 ]
