@@ -8776,5 +8776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3752",
     "passage": ""
+  },
+  {
+    "id": 3755,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The reddish-brown rust on iron roofing sheets consists of",
+    "options": {
+      "A": "Fe 3+ (H 2 O) 6",
+      "B": "FeO.H 2 O",
+      "C": "Fe 2 O 3 .3H 2 O",
+      "D": "Fe 3 O 4 .2H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The chemical formula for rust is Fe\\(_2\\)O\\(_3\\).xH\\(_2\\)O, which represents hydrated iron(III) oxide, where \"x\" indicates the variable amount of water molecules associated with the iron oxide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3755",
+    "passage": ""
   }
 ]
