@@ -2113,5 +2113,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61502",
     "passage": ""
+  },
+  {
+    "id": 61503,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Perform the following conversions in the stated number bases;\n(a) AB1\\(_{16}\\) to Octal system\n(b) 1110111.101\\(_2\\) to Denary system\n(c) 507\\(_2\\) to Binary system.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) ABI\\(_{Hex}\\) to octal\nA=1010  B=1011 1=0001    -------- Step 1\n= 101010110001\\(_2\\)\n= 101=5   010=2    110=6    001=1  ---------- Step 2\n=5261\\(_{octal}\\) ------ Step 3\n= AB1\\(_{16}\\)\n= Ax16\\(^2\\) + Bx16\\(^1\\) + 1x16\\(^0\\)\n= 10 X 16\\(_2\\) + 11 X 16\\(_1\\) + 1 X 16\\(_0\\)\n= 2560 + 176 + 1\n= 2737\\(_{10}\\)\nIt has to be converted to octal\n8 2737 8 342 R1 8 42 R6 8 5 R2 0 R5\n= 5261\n(b) 1110111.101\\(_2\\) to Denary\n64=1  32=1  16=1  8=0  4=1   2=1   1=1\n64+32+16+0+4+2+1\n=96+16+7 =96+23 =119\n2nd step fractional part\n-1 -2 -3\n.1 0 1\n=1x2\\(^{-1}\\) + 0x2\\(^{-2}\\) + 1x2\\(^{-3}\\)\n= \\(\\frac{1}{2^1}\\) +  \\(\\frac{0}{2^2}\\) + \\(\\frac{1}{2^3}\\)\n= \\(\\frac{1}{4}\\) + 0 + \\(\\frac{1}{8}\\)\n= \\(\\frac{5}{8}\\)\n= 0.625\n: 1110111.101\\(_2\\) = 119.625\n(c) 507\\(_{octal}\\) to Binary\n5=101   0=000    9=111\n=101000111\\(_2\\)\nOR\n507\\(_8\\) to decimal\n=5x8\\(^2\\) + 0x8\\(^1\\) + 7x8\\(^0\\)\n= 5x64+0+7\n=327\\(_{10}\\)\nConversion to binary\n327\\(_{10}\\) to binary\n2 327 2 163 R1 2 81 R1 2 40 R1 2 20 R0 2 10 R0 2 5 R0 2 2 R1 2 1 R0 0 R1\n=101000111\\(_2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61503",
+    "passage": ""
   }
 ]
