@@ -6506,5 +6506,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76495",
     "passage": ""
+  },
+  {
+    "id": 76497,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which dance from Benue State is known for its elaborate headgear and swift footwork?",
+    "options": {
+      "A": "Sharo",
+      "B": "Koroso",
+      "C": "Swange",
+      "D": "Ekombi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Swange is a Tiv dance characterized by graceful yet quick movements and sometimes elaborate costumes. The dance reflects both cultural storytelling and entertainment. Sharo is a Fulani endurance display, Ekombi is from the Efik people, and Koroso is a Hausa-Fulani dance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76497",
+    "passage": ""
   }
 ]
