@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64141",
     "passage": ""
+  },
+  {
+    "id": 64142,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these gymnastics activities can be performed without an apparatus?",
+    "options": {
+      "A": "Astride vault",
+      "B": "Backward roll",
+      "C": "Hanging bat",
+      "D": "Rope walking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Backward roll does not require apparatus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64142",
+    "passage": ""
   }
 ]
