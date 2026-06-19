@@ -14115,5 +14115,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/71187",
     "passage": ""
+  },
+  {
+    "id": 71188,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The Voortrekker Monument, inaugurated in 1949, is a symbol of Afrikaner nationalism. It commemorates which historical event?",
+    "options": {
+      "A": "The Great Trek",
+      "B": "The founding of Cape Colony",
+      "C": "The Battle of Blood River",
+      "D": "The Union of South Africa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Voortrekker Monument commemorates The Great Trek, which was a significant historical event in Afrikaner history The monument symbolizes the pioneering spirit and nationalism of the Afrikaner people during their migration inland i the early 19th century.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/71188",
+    "passage": ""
   }
 ]
