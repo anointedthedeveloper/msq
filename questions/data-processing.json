@@ -3121,5 +3121,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58428",
     "passage": ""
+  },
+  {
+    "id": 58430,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "An entrepreneur who wishes to send digital data over a telephone line would need a",
+    "options": {
+      "A": "hub",
+      "B": "modem",
+      "C": "router",
+      "D": "switch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Modem: It stands for Modulator-Demodulator.\nIt is a device that helps computers send data over the telephone or cable and also allows a computer or another device, such as a router or switch, to connect to the Internet.\nIt can also convert digital data from a computer or other device into an analog signal that can be sent over standard telephone lines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58430",
+    "passage": ""
   }
 ]
