@@ -2563,5 +2563,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58251",
     "passage": ""
+  },
+  {
+    "id": 58252,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is used to retrieve specific information from database tables?",
+    "options": {
+      "A": "Index",
+      "B": "Query",
+      "C": "Report",
+      "D": "Table"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58252",
+    "passage": ""
   }
 ]
