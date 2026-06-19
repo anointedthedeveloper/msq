@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50285",
     "passage": ""
+  },
+  {
+    "id": 50291,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Find the magnitude and direction of the vector \\(p = (5i - 12j)\\)",
+    "options": {
+      "A": "(13, 113.38°)",
+      "B": "(13, 067.38°)",
+      "C": "(13, 025.38°)",
+      "D": "(13, 157.38°)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(p = (5i - 12j); |p| = \\sqrt{5^{2} + (-12)^{2}}\\)\n= \\(\\sqrt{169} = 13\\)\n\\(\\tan\\theta = \\frac{-12}{5} = -2.4 \\implies \\theta = -67.38°\\)\nDirection = \\(90° - (-67.38°) = 157.38°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50291",
+    "passage": ""
   }
 ]
