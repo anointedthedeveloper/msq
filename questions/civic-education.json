@@ -2558,5 +2558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50201",
     "passage": ""
+  },
+  {
+    "id": 50202,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Cult members are particularly hostile to?",
+    "options": {
+      "A": "lectures",
+      "B": "perceived enemies",
+      "C": "their group members",
+      "D": "all students"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "cult members are hostile to people or environments they consider as their perceived enemy.  they usually consider those  who are against their activities as enemies. It commonly occurs in war and hostile social disagreements. They view the opposing side as being different, hostile, and generally bad.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50202",
+    "passage": ""
   }
 ]
