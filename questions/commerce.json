@@ -13860,5 +13860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7374",
     "passage": ""
+  },
+  {
+    "id": 7376,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Primary production is associated with?",
+    "options": {
+      "A": "banking",
+      "B": "manufacturing",
+      "C": "agriculture",
+      "D": "construction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Primary production encompasses agricultural activities, aquaculture, fisheries, and similar processes resulting in raw food materials.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7376",
+    "passage": ""
   }
 ]
