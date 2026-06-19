@@ -5038,5 +5038,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8317",
     "passage": ""
+  },
+  {
+    "id": 8324,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "An operation * is defined on the set of real numbers by a * b = ab + 2(a + b + 1). find the identity element",
+    "options": {
+      "A": "2",
+      "B": "1",
+      "C": "-1",
+      "D": "-2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "a * b = ab + 2(a + b + 1) let e be the identity element ∴ a * e = e * a = a ∴ a * e = a ae + 2(a + e + 1) = a ae + 2a + 2e + 2 = a ae + 2e = a - 2a = 2 (a + 2)e = -a - 2 e = -a-2 / (a+2) e = -(a+2) / (a+2) e = -1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8324",
+    "passage": ""
   }
 ]
