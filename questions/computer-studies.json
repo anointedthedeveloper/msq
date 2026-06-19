@@ -20612,5 +20612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76826",
     "passage": ""
+  },
+  {
+    "id": 76863,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Fig. 2 is a System Development Cycle. Use it to answer this question\nThe path labeled II is the",
+    "options": {
+      "A": "feasibility study",
+      "B": "system implementation",
+      "C": "system design",
+      "D": "study review"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/BMqLJeJFBGF9q2qJLWMI9dZ1eOXn0lZcISmDpfz3.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905138/myschool/computer-studies/BMqLJeJFBGF9q2qJLWMI9dZ1eOXn0lZcISmDpfz3.png",
+    "correct_answer": "C",
+    "explanation": "The path labeled 'II' represents the system design phase of the software development life cycle (SDLC). System design involves creating a detailed blueprint of the software system, outlining its architecture, components, and interactions. This phase ensures that the software meets the specified requirements and is technically feasible.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76863",
+    "passage": ""
   }
 ]
