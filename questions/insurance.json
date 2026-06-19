@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49643",
     "passage": ""
+  },
+  {
+    "id": 49644,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "An insured arranges for his premium payment to cease at the age of 70. This is a whole life policy with",
+    "options": {
+      "A": "indeterminate premium payment",
+      "B": "limited premium payment",
+      "C": "single premium payment",
+      "D": "modified premium payment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A limited premium payment plan is a plan where you pay the premium for a shorter span of time and enjoy the benefits of an insurance cover for a long time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49644",
+    "passage": ""
   }
 ]
