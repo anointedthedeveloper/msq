@@ -7011,5 +7011,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2966",
     "passage": ""
+  },
+  {
+    "id": 2968,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "How many hydrogen atoms does a single ring cycloalkane have less than the corresponding open-chain alkane?",
+    "options": {
+      "A": "Two",
+      "B": "Three",
+      "C": "Four",
+      "D": "One"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let's consider an example:\nCycloalkane →  Cyclopropane has the formula  CH\\(_2\\)-CH\\(_2\\)-CH\\(_2\\) (when drawn in a cyclic form) = C\\(_3\\)H\\(_6\\)\nOpen chain alkane → Propane has the formula  CH\\(_3\\)CH\\(_2\\)CH\\(_3\\) (when drawn on a straight chain) = C\\(_3\\)H\\(_8\\)\nComparing the two formulas; C\\(_3\\)H\\(_6\\) and C\\(_3\\)H\\(_8\\), the difference in the hydrogen atoms is two.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2968",
+    "passage": ""
   }
 ]
