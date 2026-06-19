@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/707",
     "passage": ""
+  },
+  {
+    "id": 708,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A metal of mass 0.5kg is heated to 100°C and then transferred to a well-lagged calorimeter of heat capacity 80JK\n-1\ncontaining water of heat capacity 420JK\n-1\nat 15°C. If the final steady temperature of the mixture is 25°C, find the specific heat capacity of the metal.",
+    "options": {
+      "A": "877Jkg -1 K -1",
+      "B": "286Jkg -1 K -1",
+      "C": "133Jkg -1 K -1",
+      "D": "92Jkg -1 K -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/708",
+    "passage": ""
   }
 ]
