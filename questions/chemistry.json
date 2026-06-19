@@ -8965,5 +8965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3797",
     "passage": ""
+  },
+  {
+    "id": 3805,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "What happens when zinc rod is immersed in copper (II) tetraoxosulphate (VI) solution?",
+    "options": {
+      "A": "The blue colour of the solution disappears",
+      "B": "Electrons flow from copper to zinc",
+      "C": "The zinc rod remain undissolved",
+      "D": "The copper generate more copper ions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When a zinc rod is immersed in a copper (II) tetraoxosulphate (VI) solution (commonly known as copper sulphate solution), a chemical reaction occurs where the zinc displaces the copper ions in the solution, resulting in a reddish-brown coating of copper metal depositing on the zinc rod while the solution loses its blue colour as zinc sulphate is formed; this is a classic example of a displacement reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3805",
+    "passage": ""
   }
 ]
