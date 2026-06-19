@@ -10717,5 +10717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64088",
     "passage": ""
+  },
+  {
+    "id": 64089,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these application packages is mostly used by computer users?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Ms Access",
+      "C": "Ms Excel",
+      "D": "Ms Word"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ms Word is an application package mostly used by computer users.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64089",
+    "passage": ""
   }
 ]
