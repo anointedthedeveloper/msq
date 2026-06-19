@@ -15906,5 +15906,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67793",
     "passage": ""
+  },
+  {
+    "id": 67794,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What does R stands for in the CRUD acronym ?",
+    "options": {
+      "A": "Retrieve",
+      "B": "Redirect",
+      "C": "Read",
+      "D": "Relate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the CRUD acronym, R stands for 'Read'. CRUD stands for Create, Read, Update, and Delete. These are the four basic functions of persistent storage in databases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67794",
+    "passage": ""
   }
 ]
