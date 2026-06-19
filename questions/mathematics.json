@@ -10965,5 +10965,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22093",
     "passage": ""
+  },
+  {
+    "id": 22094,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "What value of k makes the given expression a perfect square ? m\\(^2\\) - 8m + k = 0",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "16",
+      "E": "64"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Take half the coefficient of m and square it => (-8/2)2 = k = 16",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22094",
+    "passage": ""
   }
 ]
