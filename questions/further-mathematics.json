@@ -3357,5 +3357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50523",
     "passage": ""
+  },
+  {
+    "id": 50525,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(\\frac{1}{5^{-y}} = 25(5^{4-2y})\\), find the value of y.",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "-4",
+      "D": "-5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{5^{-y}} = 25(5^{4-2y})\\)\n\\(\\implies 5^{y} = (5^{2})(5^{4-2y})\\)\n\\(5^{y} = 5^{2+4-2y}\\)\nComparing bases, we have\n\\(y = 6 - 2y\\)\n\\(3y = 6 \\implies y = 2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50525",
+    "passage": ""
   }
 ]
