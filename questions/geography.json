@@ -6274,5 +6274,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8081",
     "passage": ""
+  },
+  {
+    "id": 8082,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following landforms is NOT  due tot he process of glacial erosion?",
+    "options": {
+      "A": "Valley-bench",
+      "B": "Hanging valley",
+      "C": "Corrie",
+      "D": "Arete",
+      "E": "Esker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8082",
+    "passage": ""
   }
 ]
