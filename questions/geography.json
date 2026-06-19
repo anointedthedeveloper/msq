@@ -1315,5 +1315,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/956",
     "passage": ""
+  },
+  {
+    "id": 957,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The best climate for the production of tea is",
+    "options": {
+      "A": "monsoon",
+      "B": "maritime",
+      "C": "equatorial",
+      "D": "temperate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/957",
+    "passage": ""
   }
 ]
