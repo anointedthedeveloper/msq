@@ -2686,5 +2686,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73301",
     "passage": ""
+  },
+  {
+    "id": 73302,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Texture, colour, and shape in a design are referred to as",
+    "options": {
+      "A": "Elements",
+      "B": "Ideas",
+      "C": "Objects",
+      "D": "Principles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In design, elements are the basic building blocks of visual composition, including: Texture: how a surface feels or looks. Color: how an object appears based on the light it reflects or emits. Shape: a defined area with height, width, and depth.\nThese elements help designers create visuals, express ideas, and convey meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73302",
+    "passage": ""
   }
 ]
