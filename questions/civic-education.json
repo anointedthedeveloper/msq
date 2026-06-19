@@ -11164,5 +11164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69568",
     "passage": ""
+  },
+  {
+    "id": 69569,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Traffic regulations are law that mainly",
+    "options": {
+      "A": "guide all road users on safety practices",
+      "B": "instruct drivers on the use of traffic signs only",
+      "C": "ensure the teaching of road safety in school",
+      "D": "establish agencies for control of traffic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Traffic regulations are laws that guide all road users on safety practices to prevent accidents and ensure smooth flow of traffic. They do not primarily establish agencies for control of traffic, ensure the teaching of road safety in school, or instruct drivers on the use of traffic signs only.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69569",
+    "passage": ""
   }
 ]
