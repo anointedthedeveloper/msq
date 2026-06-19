@@ -2945,5 +2945,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1355",
     "passage": ""
+  },
+  {
+    "id": 1356,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence :\nThe teacher asked if she .... seen her boyfriend recently",
+    "options": {
+      "A": "has",
+      "B": "have",
+      "C": "was",
+      "D": "had",
+      "E": "will have"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In this case, the statement above is a reported speech. And it's not in the present. Since reported speeches have been made before the reporter reported. Hence it's a past tense already. So 'had' is the appropriate answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1356",
+    "passage": ""
   }
 ]
