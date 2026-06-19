@@ -17670,5 +17670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69849",
     "passage": ""
+  },
+  {
+    "id": 69850,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The https in the web address, https://waec.org.ng, is called a",
+    "options": {
+      "A": "web page.",
+      "B": "protocol.",
+      "C": "hostname.",
+      "D": "file path."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The \"https\" in the web address \"https://waec.org.ng\" is called a \"protocol.\" In web addresses (URLs), \"https\" stands for \"Hypertext Transfer Protocol Secure.\" It's a communication protocol used to transmit data securely over the internet. When you access a website with an \"https\" URL, the data exchanged between your browser and the web server is encrypted to ensure privacy and security. This is especially important for transmitting sensitive information like login credentials, payment details, and personal data",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69850",
+    "passage": ""
   }
 ]
