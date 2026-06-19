@@ -7957,5 +7957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9280",
     "passage": ""
+  },
+  {
+    "id": 9281,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the area of the figure above [π = 22/7]",
+    "options": {
+      "A": "12.5 cm 2",
+      "B": "75.0 cm 2",
+      "C": "78.5 cm 2",
+      "D": "84.8 cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14922921849_math200828.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868756/myschool/mathematics/14922921849_math200828.jpg",
+    "correct_answer": "D",
+    "explanation": "Area of the figure = Area of the rectangle + area of the semicircle \\(=L \\times h + \\frac{1}{2}\\pi r^2\\) 5 \\(\\times 15 + \\frac{1}{2} \\times \\frac{22}{7} \\times \\left(\\frac{5}{2}\\right)^2\\) =75+\\(\\frac{(22\\times 25)}{8\\times7}\\) =75 + \\(\\frac{550}{56}\\) =84.8cm\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9281",
+    "passage": ""
   }
 ]
