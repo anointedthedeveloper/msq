@@ -4996,5 +4996,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8301",
     "passage": ""
+  },
+  {
+    "id": 8315,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "If the 7th term of an AP is twice the third term and the sum of the first four terms is 42, find the common difference.",
+    "options": {
+      "A": "6",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8315",
+    "passage": ""
   }
 ]
