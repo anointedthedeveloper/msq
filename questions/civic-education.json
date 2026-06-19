@@ -4195,5 +4195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50303",
     "passage": ""
+  },
+  {
+    "id": 50304,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In the above diagram, all vehicles stop mainly because of?",
+    "options": {
+      "A": "it is emergency crossing line",
+      "B": "the pedestrians have already stepped on the line.",
+      "C": "the traffic warden have instructed them to stop",
+      "D": "the traffic light has shown green"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Gst9bVTnjVygTvWmt2s4PuDSH6dPKPlaF2fQb6Yd.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911030/myschool/civic-education/Gst9bVTnjVygTvWmt2s4PuDSH6dPKPlaF2fQb6Yd.jpg",
+    "correct_answer": "B",
+    "explanation": "A zebra crossing is a type of pedestrian crossing used in many places around the world. Its distinguishing feature is alternating dark and light stripes on the road surface, resembling the coat of a zebra . A zebra crossing typically gives priority to pedestrians.\nAs you approach a zebra crossing as a driver:\nlook out for pedestrians waiting to cross and be ready to slow down or stop to let them cross. you MUST give way when a pedestrian has moved onto a crossing. allow more time for stopping on wet or icy roads.",
+    "explanation_image_url": "/storage/classroom/editor_images/zebra.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911033/myschool/civic-education/zebra.jpg",
+    "url": "https://myschool.ng/classroom/civic-education/50304",
+    "passage": ""
   }
 ]
