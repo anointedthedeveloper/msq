@@ -8461,5 +8461,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3731",
     "passage": ""
+  },
+  {
+    "id": 3732,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "2C\\(_2\\)H\\(_2\\)(g) + 5O\\(_2\\)(g) → 4CO\\(_2\\)(g) + 2H\\(_2\\)O(g) In the reaction above, the mass of carbon(IV)oxide produced on burning 78 g of ethyne is [C =12, O = 16, H = 1]",
+    "options": {
+      "A": "264 g",
+      "B": "39 g",
+      "C": "352 g",
+      "D": "156 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "2C\\(_2\\)H\\(_2\\)(g) + 5O\\(_2\\)(g) → 4CO\\(_2\\)(g) + 2H\\(_2\\)O(g)\n2 moles                :            4 moles\nn = \\(\\frac{mass}{molar mass}\\) = \\(\\frac{78}{26}\\)\nIf                  3 moles                :              6 moles\nn = \\(\\frac{m}{M}\\)\nm =  n x M\nm = 6 x 44\nm = 264g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3732",
+    "passage": ""
   }
 ]
