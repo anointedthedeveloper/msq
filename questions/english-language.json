@@ -7389,5 +7389,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3022",
     "passage": ""
+  },
+  {
+    "id": 3023,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : Plans for a rise in production .... through when a strike started.",
+    "options": {
+      "A": "went",
+      "B": "came",
+      "C": "set",
+      "D": "carried",
+      "E": "fell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The phrasal verb “fall through” means to fail, collapse or not happen as planned , especially because of unexpected problems.\nIn this sentence, the strike prevented the production plan from being implemented, so the plan failed . Therefore, “fell through” is the correct collocation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3023",
+    "passage": ""
   }
 ]

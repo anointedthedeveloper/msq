@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48050",
     "passage": ""
+  },
+  {
+    "id": 48051,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "In corel draw application, ruler guide is used to get the",
+    "options": {
+      "A": "accurate size of a given object",
+      "B": "lower size of a given object",
+      "C": "top size of a given object",
+      "D": "inaccurate size of a given object"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48051",
+    "passage": ""
   }
 ]

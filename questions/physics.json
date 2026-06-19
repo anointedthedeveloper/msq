@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1512",
     "passage": ""
+  },
+  {
+    "id": 1513,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The terrestrial telescope has one extra lens more than the astronomical telescope. The extra lens is for",
+    "options": {
+      "A": "improving the sharpness",
+      "B": "creating an inverted image",
+      "C": "magnification of the image",
+      "D": "erection of the image"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The extra lens in the terrestrial telescope mounted at the middle between the objective lens and the eye piece is to re-invert the image so that it is upright.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1513",
+    "passage": ""
   }
 ]
