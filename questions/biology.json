@@ -1802,5 +1802,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/461",
     "passage": ""
+  },
+  {
+    "id": 462,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Root hair have their origin from",
+    "options": {
+      "A": "Endodermis",
+      "B": "Pericycle",
+      "C": "Cortex",
+      "D": "Epidermis",
+      "E": "Xylem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Asymmetric cell division in an epidermal cell gives rise to a large cell (atrichoblast) that develops into a hairless epidermal cell and a shorter 'specialized' cell that forms a root hair (trichoblast).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/462",
+    "passage": ""
   }
 ]
