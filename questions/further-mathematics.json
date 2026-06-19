@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50375",
     "passage": ""
+  },
+  {
+    "id": 50376,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Calculate the standard deviation of 30, 29, 25, 28, 32 and 24.",
+    "options": {
+      "A": "2.0",
+      "B": "2.8",
+      "C": "3.0",
+      "D": "3.2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(x\\) \\(x - \\mu\\) \\((x - \\mu)^{2}\\) 24 -4 16 25 -3 9 28 0 0 29 1 1 30 2 4 32 4 16 \\(\\sum\\) = 168 46\n\\(\\mu = \\frac{24+25+28+29+30+32}{6} = \\frac{168}{8} = 28\\)\n\\(S.D = \\sqrt{\\frac{\\sum{(x - \\mu)^{2}}}{n}} = \\sqrt{\\frac{46}{6}}\\)\n= \\(\\sqrt{7.67} \\approxeq 2.8\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50376",
+    "passage": ""
   }
 ]
