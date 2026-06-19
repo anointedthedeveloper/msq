@@ -12057,5 +12057,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14505",
     "passage": ""
+  },
+  {
+    "id": 14506,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The diagram above shows a velocity - time graph. The statement that is true about this motion is that the car?",
+    "options": {
+      "A": "has no acceleration between point F and G",
+      "B": "decelerates between F and H",
+      "C": "has a constant soeed between points E and F",
+      "D": "Accelerates between points F and G"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8184705780_phy20103.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891098/myschool/physics/8184705780_phy20103.jpg",
+    "correct_answer": "A",
+    "explanation": "Above are the V-t graphs for I Uniform acceleration II uniform retardation III Uniform velocity Thus the car has no acceleration between point F and G since that portion of the graph represents uniform velocity\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14506",
+    "passage": ""
   }
 ]
