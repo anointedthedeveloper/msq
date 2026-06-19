@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49761",
     "passage": ""
+  },
+  {
+    "id": 49763,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "which type of insurance product is appropriate for a young couple who is embarking on a holiday trip abroad?",
+    "options": {
+      "A": "whole life policy",
+      "B": "investment linked policy",
+      "C": "education endowment policy",
+      "D": "term assurance policy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Term life insurance or term assurance is life insurance that provides coverage at a fixed rate of payments for a limited period of time, the relevant term. After that period expires, coverage at the previous rate of premiums is no longer guaranteed and the client must either forgo coverage or potentially obtain further coverage with different payments or conditions. If the life insured dies during the term, the death benefit will be paid to the beneficiary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49763",
+    "passage": ""
   }
 ]
