@@ -11632,5 +11632,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4461",
     "passage": ""
+  },
+  {
+    "id": 4462,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Organic molecules that have the suffix-ene are unsaturated hydrocarbons that have?",
+    "options": {
+      "A": "a single bond",
+      "B": "a double bond",
+      "C": "a triple bond",
+      "D": "an ionic bond"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In chemistry, an alkene is a hydrocarbon containing a carbon–carbon double bond. Alkene is often used as synonym of olefin, that is, any hydrocarbon containing one or more double bonds.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4462",
+    "passage": ""
   }
 ]
