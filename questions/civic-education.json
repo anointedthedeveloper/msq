@@ -11500,5 +11500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69612",
     "passage": ""
+  },
+  {
+    "id": 69614,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The beam of yellow colour on a traffic light is an indication to drivers to",
+    "options": {
+      "A": "get ready to move",
+      "B": "watch out for cars",
+      "C": "stop",
+      "D": "move"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The beam of yellow colour on a traffic light is an indication to drivers to get ready to move. It is the transition signal between green (go) and red (stop), preparing drivers for the change.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69614",
+    "passage": ""
   }
 ]
