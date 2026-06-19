@@ -6277,5 +6277,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13746",
     "passage": ""
+  },
+  {
+    "id": 13748,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The process whereby the molecules of different substances move randomly is called?",
+    "options": {
+      "A": "capillarity",
+      "B": "surface tension",
+      "C": "osmosis",
+      "D": "diffusion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Diffusion is the process by which molecules move from an area of higher concentration to an area of lower concentration. This movement occurs due to the random motion of particles, leading to an even distribution of substances over time.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13748",
+    "passage": ""
   }
 ]
