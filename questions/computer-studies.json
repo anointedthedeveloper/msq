@@ -1236,5 +1236,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61388",
     "passage": ""
+  },
+  {
+    "id": 61389,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "What is the least number of 750 MB capacity CD-ROM discs needed to transfer 10 GB size file?",
+    "options": {
+      "A": "75",
+      "B": "31",
+      "C": "14",
+      "D": "13"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "1GB = 1000MB\n10GB = 10,000MB\n\\(\\therefore\\), the numbers of 750MB in 10000MB = \\(\\frac{10000}{750}\\) = 13.33 \\(\\approx\\)  14",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61389",
+    "passage": ""
   }
 ]
