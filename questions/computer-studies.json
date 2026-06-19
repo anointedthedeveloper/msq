@@ -9819,5 +9819,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62737",
     "passage": ""
+  },
+  {
+    "id": 62738,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One attribute of the Read Only Memory is that it?",
+    "options": {
+      "A": "can be modified.",
+      "C": "stores the BIOS.",
+      "D": "stores the POST."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62738",
+    "passage": ""
   }
 ]
