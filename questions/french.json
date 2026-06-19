@@ -2441,5 +2441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71074",
     "passage": ""
+  },
+  {
+    "id": 71075,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceEst-ce qu'it regarde la fille? Oui il_regarde.",
+    "options": {
+      "A": "I'",
+      "B": "la",
+      "C": "les",
+      "D": "le"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Lorsque le pronom \"la\" est utilisé dans cette phrase, il se réfère à \"la fille\" et remplace le nom féminin \"fille\". Ainsi, la réponse correcte est \"la\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71075",
+    "passage": ""
   }
 ]
