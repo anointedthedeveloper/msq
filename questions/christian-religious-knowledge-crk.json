@@ -746,5 +746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/158",
     "passage": ""
+  },
+  {
+    "id": 159,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Paul's First Missionary Journey started from",
+    "options": {
+      "A": "Jerusalem",
+      "B": "Samaria",
+      "C": "Cyrene",
+      "D": "Antioch",
+      "E": "Damascus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/159",
+    "passage": ""
   }
 ]
