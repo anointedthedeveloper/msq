@@ -5122,5 +5122,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8425",
     "passage": ""
+  },
+  {
+    "id": 8426,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A sector of a circle has an area of 55 cm2. If the radius of the circle is 10 cm, calculate the angle of the sector [π = 22/7]",
+    "options": {
+      "A": "45 o",
+      "B": "63 o",
+      "C": "75 o",
+      "D": "90 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Area of a sector = \\(\\frac{\\theta}{360}\\times \\pi r^2\\)\n55 = \\(\\frac{\\theta}{360}\\times \\frac{22}{7}\\times \\frac{10\\times 10}{1}\\)\n\\(\\theta = \\frac{360 \\times 55 \\times 7}{22 \\times 10 \\times 10}\\)\n\\(\\theta = 63^{\\circ}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8426",
+    "passage": ""
   }
 ]
