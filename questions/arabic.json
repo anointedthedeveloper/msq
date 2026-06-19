@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75174",
     "passage": ""
+  },
+  {
+    "id": 75176,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "في الإسلام، ما هو ركن الصيام؟",
+    "options": {
+      "A": "الحج",
+      "B": "الصيام",
+      "C": "الذكر",
+      "D": "الزكاة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Fasting in Ramadan is among the five pillars of Islam.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75176",
+    "passage": ""
   }
 ]
