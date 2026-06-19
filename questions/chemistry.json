@@ -810,5 +810,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/761",
     "passage": ""
+  },
+  {
+    "id": 762,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following changes is physical?",
+    "options": {
+      "A": "Adding iron filing to aerated water",
+      "B": "Adding sodium metal to water",
+      "C": "Cooling a solution of Iron (II) sulphate to obtain the hydrated salt",
+      "D": "Cooling water to obtain ice",
+      "E": "Burning the domestic gas (Utilgas) for cooking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/762",
+    "passage": ""
   }
 ]
