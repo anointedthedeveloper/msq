@@ -19314,5 +19314,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72601",
     "passage": ""
+  },
+  {
+    "id": 72603,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Using the given values of X and Y for the device in Figure 1, what will be the value of the output Z if it is passed through the device in Figure 2?\n0\n0\n1\n1\n0\n1\n0\n1",
+    "options": {
+      "A": "0001",
+      "B": "0110",
+      "C": "0111",
+      "D": "1000"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0zoqmG6imwEDKN8rGwGprJTi25nNK6vsZA8Ve2KZ.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904767/myschool/computer-studies/0zoqmG6imwEDKN8rGwGprJTi25nNK6vsZA8Ve2KZ.jpg",
+    "correct_answer": "D",
+    "explanation": "D: (1000) Our original output for Z as gotten in no. (10) is 0111. After passing it through the NOT gate in figure 2, it becomes 1000.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72603",
+    "passage": ""
   }
 ]
