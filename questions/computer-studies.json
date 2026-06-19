@@ -11326,5 +11326,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64117",
     "passage": ""
+  },
+  {
+    "id": 64118,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The joystick typically have a button on _________ used to select the option pointed by the cursor.",
+    "options": {
+      "A": "bottom",
+      "B": "left",
+      "C": "right",
+      "D": "top"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The bottom is placed on top of the joystick.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64118",
+    "passage": ""
   }
 ]
