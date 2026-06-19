@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/630",
     "passage": ""
+  },
+  {
+    "id": 644,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What is the speed of a particle of mass 10\n-27\nkg whose wavelength is 10\n-8\nm.\n[h = 6.63 x 10\n-34\nJs]",
+    "options": {
+      "A": "6.63ms -1",
+      "B": "66.30ms -1",
+      "C": "663.00ms -1",
+      "D": "6630.00ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\n2\n-34\n-27\n-8\n-34\n-35\n-34+35\n-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/644",
+    "passage": ""
   }
 ]
