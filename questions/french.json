@@ -2315,5 +2315,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71068",
     "passage": ""
+  },
+  {
+    "id": 71069,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Il attend tous les jours la boulangerie.",
+    "options": {
+      "A": "en",
+      "B": "sous",
+      "C": "de",
+      "D": "devarnt"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is en The correct sentence would be: \"Il attend tous les jours en boulangerie.\" Which translates to \"He waits every day at the bakery.\" \"En\" is a preposition that indicates a location or a place, in this case, he waits inside the bakery. Alternatively, the sentence could be \"Il attend tous les jours à la boulangerie\" (He waits every day at the bakery), using the preposition \"à to indicate a specific location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71069",
+    "passage": ""
   }
 ]
