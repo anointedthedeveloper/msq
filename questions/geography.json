@@ -7682,5 +7682,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8188",
     "passage": ""
+  },
+  {
+    "id": 8236,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "The earth?",
+    "options": {
+      "A": "rotates on its axis round the moon",
+      "B": "is inclined at 66° on its orbital plane",
+      "C": "inclined at 23° on its orbital plane",
+      "D": "revolves round the sun in 365 days",
+      "E": "is a satelite of the sun"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8236",
+    "passage": ""
   }
 ]
