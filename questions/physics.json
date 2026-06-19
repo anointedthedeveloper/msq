@@ -17427,5 +17427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25015",
     "passage": ""
+  },
+  {
+    "id": 25016,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A man stands in front of a tall wall and produces a sound. If he receives the echo of the sound two seconds later, calculate his distance from the wall. (The speed of sound in air is 330ms\n-1\n)",
+    "options": {
+      "A": "600m",
+      "B": "400m",
+      "C": "330m",
+      "D": "328m",
+      "E": "165m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25016",
+    "passage": ""
   }
 ]
