@@ -4785,5 +4785,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2231",
     "passage": ""
+  },
+  {
+    "id": 2233,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The filter in the cigarette reduces the nicotine content by",
+    "options": {
+      "A": "Burning",
+      "B": "Adsorption",
+      "C": "Evaporation",
+      "D": "Absorption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The nicotine content is a solute carried by the smoke (mobile phase) and it is removed by the filter (stationary phase) by adsorption. Adsorption is the process by which a solid holds molecules of a gas or liquid or solute as a thin film.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2233",
+    "passage": ""
   }
 ]
