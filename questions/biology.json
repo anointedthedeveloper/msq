@@ -2242,5 +2242,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/850",
     "passage": ""
+  },
+  {
+    "id": 1157,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "For pollination and fruit formation, the essential part(s) of the flower should be the",
+    "options": {
+      "A": "corolla",
+      "B": "ovary",
+      "C": "pistil (gynoecium)",
+      "D": "ovules",
+      "E": "receptacle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The pistil is a highly essential part of a flower, particularly for pollination and fruit formation. It's the female reproductive part of the flower, and its stigma receives pollen, initiating the fertilization process that leads to seed development within the ovary, which then matures into a fruit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1157",
+    "passage": ""
   }
 ]
