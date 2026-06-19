@@ -2812,5 +2812,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68283",
     "passage": ""
+  },
+  {
+    "id": 68284,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The capacity to change direction effectively and quickly while maintaining body posture is called ?",
+    "options": {
+      "A": "Power",
+      "B": "Stamina",
+      "C": "Agility",
+      "D": "strength"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Agility is the capacity to change direction effectively and quickly while maintaining body posture. It is a key component in many sports that require quick changes in direction, such as football, basketball, and soccer. Power, stamina, and strength are all important aspects of fitness, but they do not specifically refer to the ability to change direction quickly while maintaining body posture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68284",
+    "passage": ""
   }
 ]
