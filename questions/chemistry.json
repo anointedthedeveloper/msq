@@ -10162,5 +10162,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4055",
     "passage": ""
+  },
+  {
+    "id": 4057,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If a given quantity of electricity liberates 0.65g of Zn2+, what amount of Hg2+ would be liberated by the same quantity of current? [Zn = 65, Hg = 201]",
+    "options": {
+      "A": "1.00g",
+      "B": "2.01g",
+      "C": "4.02g",
+      "D": "8.04g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "At the cathode, we have: \\(Zn^{2+} + 2e^- → Zn_{(s)}\\) Normally, we need 2F → 65g x → 0.65 x = 0.02F Let us check how much mercury will be deposited by 0.02F of electricity \\(Hg^{2+} + 2e^-(aq) → Hg_{(s)}\\) 2F → 201g ∴ 0.02F = x x = 2.01g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4057",
+    "passage": ""
   }
 ]
