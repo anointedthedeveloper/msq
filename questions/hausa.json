@@ -1572,5 +1572,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73664",
     "passage": ""
+  },
+  {
+    "id": 73665,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "\"Tafi ka d'auko ruwa a rijiya\" Wannan misali ne na jimla",
+    "options": {
+      "A": "bayanau",
+      "B": "umurtau",
+      "C": "korau",
+      "D": "Karfafau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is umurtau. The sentence \"Tafi ka d'auko ruwa a rijiya\" is a command or instruction, which is a characteristic of \"umurtau\" (imperative) sentences. Imperative sentences are used to give orders, instructions, or commands, and they typically start with a verb in the imperative form, as il this sentence. Therefore, the correct answer is umurtau.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73665",
+    "passage": ""
   }
 ]
