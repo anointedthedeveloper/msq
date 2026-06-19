@@ -8398,5 +8398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3728",
     "passage": ""
+  },
+  {
+    "id": 3729,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The order in which a mixture of sand, ammonium chloride and sodium chloride can be separated is",
+    "options": {
+      "A": "dissolution → dryness → filtration → evaporation",
+      "B": "filtration → sublimation → evaporation → dryness",
+      "C": "sublimation → dissolution → filtration → evaporation",
+      "D": "dissolution → filtration → sublimation → evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To separate sand, NH₄Cl, and NaCl, you can use sublimation to isolate NH₄Cl, followed by dissolving the remaining mixture in water, filtering out the sand, and then evaporating the solution to recover NaCl.\nSublimation of NH₄Cl Heat the mixture of sand, NH₄Cl, and NaCl in a china dish covered with a funnel (plugged with cotton). NH₄Cl will sublime (transform directly from solid to gas) and condense on the cooler surface of the funnel, leaving behind a mixture of sand and NaCl. Collect the NH₄Cl from the funnel walls. Dissolving and Filtering: Add water to the remaining mixture of sand and NaCl. NaCl will dissolve in water, while sand will remain undissolved. Filter the mixture to separate the sand from the NaCl solution. 3. Evaporating the NaCl Solution: Evaporate the water from the NaCl solution, leaving behind solid NaCl crystals.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3729",
+    "passage": ""
   }
 ]
