@@ -3169,5 +3169,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68303",
     "passage": ""
+  },
+  {
+    "id": 68304,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Excess presence of which of the following causes tooth decay in children?",
+    "options": {
+      "A": "fluoride",
+      "B": "chloride",
+      "C": "Softness",
+      "D": "hardness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fluoride can cause the teeth of the children to be mottled and discolored. It changes the appearance of tooth enamel in young children",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68304",
+    "passage": ""
   }
 ]
