@@ -6017,5 +6017,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62606",
     "passage": ""
+  },
+  {
+    "id": 62607,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The formula to calculate the average of a given range of data from cell B2 to cell D4 in a Microsoft Excel worksheet is",
+    "options": {
+      "A": "= AVERAGE (B2+D4)",
+      "B": "=AVERAGE (B2:D4)",
+      "C": "=AVERAGE(B2, D4)",
+      "D": "=AVERAGE(B2;D4)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62607",
+    "passage": ""
   }
 ]
