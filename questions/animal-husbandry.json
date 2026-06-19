@@ -626,5 +626,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49616",
     "passage": ""
+  },
+  {
+    "id": 49624,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following factors affects the productivity of pasture? I Soil fertility II. Climate III . Weeds",
+    "options": {
+      "A": "I and II",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Soil fertility as well as climatic factors like relative humidity, temperature, sunshine hours affect productivity of pastures.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49624",
+    "passage": ""
   }
 ]
