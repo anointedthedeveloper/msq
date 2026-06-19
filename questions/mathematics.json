@@ -16352,5 +16352,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23216",
     "passage": ""
+  },
+  {
+    "id": 23217,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Given that tan x = 5/12, what is the value of sin x + cos x ?",
+    "options": {
+      "A": "5/13",
+      "B": "7/13",
+      "C": "12/13",
+      "D": "17/13",
+      "E": "5/12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan x = \\frac{opp}{adj} = \\frac{5}{12}\\)\n\\(Hyp^2 = opp^2 + adj^2\\)\n\\(Hyp^2 = 5^2 + 12^2\\)\n= \\(25 + 144 = 169\\)\n\\(Hyp = \\sqrt{169} = 13\\)\n\\(\\sin x = \\frac{5}{13}; \\cos x = \\frac{12}{13}\\)\n\\(\\sin x + \\cos x = \\frac{5}{13} + \\frac{12}{13}\\)\n= \\(\\frac{17}{13}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23217",
+    "passage": ""
   }
 ]
