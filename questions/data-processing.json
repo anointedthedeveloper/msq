@@ -7063,5 +7063,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67142",
     "passage": ""
+  },
+  {
+    "id": 67143,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One application of ICT in education is",
+    "options": {
+      "A": "Optical Mark Reader",
+      "B": "Electronic Fund Transfer",
+      "C": "Automated Teller Machine",
+      "D": "Magnetic Ink Character Recognition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Optical Mark reading (OMR) is a method of entering data into a computer system. Optical Mark Readers reads pencil or pen marks made in pre-defined positions on paper forms as responses to questions or tick list prompts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67143",
+    "passage": ""
   }
 ]
