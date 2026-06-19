@@ -5702,5 +5702,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62588",
     "passage": ""
+  },
+  {
+    "id": 62589,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following media involves point-to-point communication?",
+    "options": {
+      "A": "Radio",
+      "B": "Satellite",
+      "C": "Telephone",
+      "D": "Television"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The term point-to-point telecommunications means a wireless data link between two fixed points. The telecommunications signal is typically bi-directional and either time division multiple access or channelized e.g. telephone call.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62589",
+    "passage": ""
   }
 ]
