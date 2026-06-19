@@ -7075,5 +7075,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13888",
     "passage": ""
+  },
+  {
+    "id": 13889,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The battery connection that permits current to flow across a p-n junction is called?",
+    "options": {
+      "A": "reverse baised",
+      "B": "forward baised",
+      "C": "amplification.",
+      "D": "rectification"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Definition : A battery connection that allows current to flow across a p-n junction. Positive terminal to the p-type semiconductor and negative terminal to the n-type.Reduces the potential barrier, allowing charge carriers (holes and electrons) to move toward the junction and enabling current flow.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13889",
+    "passage": ""
   }
 ]
