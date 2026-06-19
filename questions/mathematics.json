@@ -13691,5 +13691,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22869",
     "passage": ""
+  },
+  {
+    "id": 22870,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Factorize 3a\\(^2\\) - 11a + 6",
+    "options": {
+      "A": "(3a - 2)(a - 3)",
+      "B": "(2a -2)(a - 3)",
+      "C": "(3a - 2)(a + 3)",
+      "D": "(3a + 2)(a - 3)",
+      "E": "(2a-3)(a + 2)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "3a\\(^2\\) - 11a + 6\n3a\\(^2\\) - 9a - 2a + 6\n3a(a - 3) - 2(a - 3)\n= (3a - 2)(a - 3)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22870",
+    "passage": ""
   }
 ]
