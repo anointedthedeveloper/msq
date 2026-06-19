@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76300",
     "passage": ""
+  },
+  {
+    "id": 76301,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The score above is meant for the",
+    "options": {
+      "A": "violin",
+      "B": "cello",
+      "C": "guitar",
+      "D": "viola"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/mVXylY8SsNc6Bo6WNbXLv2TeRehDLOweYaABe6FU.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890491/myschool/music/mVXylY8SsNc6Bo6WNbXLv2TeRehDLOweYaABe6FU.png",
+    "correct_answer": "D",
+    "explanation": "The score is meant for the viola . The musical staff uses the alto clef (also known as the C-clef centered on the third line). The viola is the primary orchestral instrument that uses this clef for its standard notation, as it allows the instrument's range to be written mostly within the staff without the excessive use of ledger lines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76301",
+    "passage": ""
   }
 ]
