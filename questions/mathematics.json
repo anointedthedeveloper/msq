@@ -10723,5 +10723,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22046",
     "passage": ""
+  },
+  {
+    "id": 22048,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "If sinθ = 3/5 find tanθ   for 0 < θ < 90\no",
+    "options": {
+      "A": "4\\5",
+      "B": "3\\4",
+      "C": "5\\8",
+      "D": "1\\2",
+      "E": "3\\8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22048",
+    "passage": ""
   }
 ]
