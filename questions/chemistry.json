@@ -10351,5 +10351,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4069",
     "passage": ""
+  },
+  {
+    "id": 4071,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "which of the following gives a precipitate when treated with NaOH solution?",
+    "options": {
+      "A": "AlCl 3",
+      "B": "NH 4 Cl",
+      "C": "Na 2 CO 3",
+      "D": "CH 3 COONa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sodium hydroxide reacts with aluminium chloride to form a precipitate; aluminium hydroxide ; AlCl3 (Alumunium chloride).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4071",
+    "passage": ""
   }
 ]
