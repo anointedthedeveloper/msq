@@ -702,5 +702,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/445",
     "passage": ""
+  },
+  {
+    "id": 446,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If the consumer demand for product X increases as the price of product Y decreases we can be fairly certain that X",
+    "options": {
+      "A": "X and Y are complementary commodities",
+      "B": "X and Y are substitute goods",
+      "C": "X and Y are independent goods",
+      "D": "X and Y are jointly supplied",
+      "E": "X and Y are inferior commodities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/446",
+    "passage": ""
   }
 ]
