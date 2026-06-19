@@ -13161,5 +13161,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21251",
     "passage": ""
+  },
+  {
+    "id": 21252,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A transformer with 5500 turns in its primary is used between a 240V a. c supply and a 120V kettle. Calculate the number of turns in the secondary",
+    "options": {
+      "A": "11000",
+      "B": "2750",
+      "C": "460",
+      "D": "232",
+      "E": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{E_p}{E_s}\\) = \\(\\frac{n_p}{n_s}\\) \\(\\frac{240}{120}\\) = \\(\\frac{5500}{n_s}\\) => n\\(_s\\) = 2750",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21252",
+    "passage": ""
   }
 ]
