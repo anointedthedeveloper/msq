@@ -2790,5 +2790,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58351",
     "passage": ""
+  },
+  {
+    "id": 58378,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) Use the Fig 1 to answer questions (i) to (iv)\n(i) What does Fig 1 represent?\n(ii) Identify two output components in Fig 1.\n(iii) Give the names of the parts labelled III, VI, VII.\n(iv) State one precautionary measure that should be taken to protect the setup from power fluctuations while in use\n(v) Data entry into system can be achieved through the parts labelled\n(vi) Mention one device that can be used to access the part labelled VII.\n(b) Figures 2 and 3 represent mass storage media. Use the figures to answer questions (i) to (iv)\n(i) Identify the media represented by; Fig 2, Fig 3\n(ii) The transaction files of a company are to be recorded and accessed in the order which they arrive. Which of the media is most suitable for the purpose?\n(iii) In which media will the stored data be accessed faster?\n(iv) State the file access method for each medium\nFig. 2\nFig 3\n(c) A CCTV camera system has a 300 MB storage device. Each image size is 300 kB.\n(i) How many images can be stored by the CCTV.\n(ii) If the storage device is full, mention one one measures that should betaken to ensure that the system continues to capture and store image without loosing already stored images.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Computer set-up/Computer Connections/Computer System\n(ii) Output Computer in Fig 1;\nI- Monitor IV- Speaker VII- Printer\n(iii) Names of the parts labelled III, VI, and VII; III- System Unit, VI- Power Supply/Socket, VII- Internet/Cloud\n(iv) Precautionary measure that should be taken to protect the set up from power fluctuation while in use; AVR, UPS, Inverter, Power Stabilizer, Surge Protector\n(v) Data entering into the system can be achieved through the parts labelled; II- Keyboard, IV- Mouse\n(vi) The part that can be used to access the part labelled VII; Modem, Vsat, Mobile Phones.\n(b) Fig 2; CD-ROM OR DVD-ROM\nFig 3; Magnetic tape/Cassette (Audio, Videotape)\n(ii) The media most suitable fir the purpose is Magnetic tape.\n(iii) In which will the store data be accessed faster? In the CD-ROM OR DVD-ROM\n(iv) File access method for each medium.\nFig 2; Direct, Random Access.\nFig 3; Serial Access/Sequential Access\n(c)(i) 300 MB=300KB, Number of images = 300,000KB/300KB = 1000 images OR 1024 images\n(ii) Remove the storage devices and replace it with a new one OR backup the storage devices and format it OR Save in the cloud",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58378",
+    "passage": ""
   }
 ]
