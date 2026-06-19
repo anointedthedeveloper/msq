@@ -988,5 +988,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/381",
     "passage": ""
+  },
+  {
+    "id": 382,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The movement of molecules from a region of higher concentration to one of lower concentration is",
+    "options": {
+      "A": "Diffusion",
+      "B": "Transpiration",
+      "C": "Osmosis",
+      "D": "Translocation",
+      "E": "Plasmolysis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The movement of molecules from a region of higher concentration to one of lower concentration is called diffusion, while Osmosis is the movement of a solvent across a semi-permeable membrane toward a higher concentration of solute.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/382",
+    "passage": ""
   }
 ]
