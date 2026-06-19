@@ -1322,5 +1322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/961",
     "passage": ""
+  },
+  {
+    "id": 963,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Oligarchy is a form of government which",
+    "options": {
+      "A": "enhances the interest of the ruling few",
+      "B": "enhances the electoral chances of the majority",
+      "C": "disregards the views of the minority",
+      "D": "protects the interest of the common people"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/963",
+    "passage": ""
   }
 ]
