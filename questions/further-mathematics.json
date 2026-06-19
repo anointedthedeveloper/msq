@@ -2265,5 +2265,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50416",
     "passage": ""
+  },
+  {
+    "id": 50417,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The radius of a circle increases at a rate of 0.5\\(cms^{-1}\\). Find the rate of change in the area of the circle with radius 7cm. \\([\\pi = \\frac{22}{7}]\\)",
+    "options": {
+      "A": "11\\(cm^{2}s^{-1}\\)",
+      "B": "22\\(cm^{2}s^{-1}\\)",
+      "C": "33\\(cm^{2}s^{-1}\\)",
+      "D": "44\\(cm^{2}s^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "With radius = 7cm, \\(Area = \\pi r^{2} = \\frac{22}{7} \\times 7^{2}\\)\n= \\(154cm^{2}\\)\nThe next second, radius = 7.5cm, \\(Area = \\pi r^{2} = \\frac{22}{7} \\times 7.5^{2}\\)\n= \\(176cm^{2}\\)\nChange in area = \\((176 - 154)cm^{2} = 22cm^{2}\\)\n\\(\\therefore\\) The rate of increase = \\(22cm^{2}s^{-1}\\)\nOR\n\\(Area (A) = \\pi r^{2} \\implies \\frac{\\mathrm d A}{\\mathrm d r} = 2\\pi r\\)\nGiven \\(\\frac{\\mathrm d r}{\\mathrm d t} = 0.5\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d r} \\times \\frac{\\mathrm d r}{\\mathrm d t} = \\frac{\\mathrm d A}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = 2\\pi r \\times 0.5 = 2 \\times \\frac{22}{7} \\times 7 \\times 0.5\\)\n= \\(22cm^{2}s^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50417",
+    "passage": ""
   }
 ]
