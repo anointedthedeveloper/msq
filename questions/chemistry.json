@@ -12451,5 +12451,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4500",
     "passage": ""
+  },
+  {
+    "id": 4501,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following organic compounds is very soluble in water?",
+    "options": {
+      "A": "CH 3 COOH",
+      "B": "C 2 H 2",
+      "C": "C 2 H 4",
+      "D": "CH 3 COOC 2 H 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ethanoic acid ( CH\\(_3\\)COOH ) is the only organic compound listed here that is (very) soluble in water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4501",
+    "passage": ""
   }
 ]
