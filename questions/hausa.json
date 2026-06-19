@@ -2496,5 +2496,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73720",
     "passage": ""
+  },
+  {
+    "id": 73721,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "HARSHE: NAHAWU Lokaci Na Yanzu II shi ne mai manunin lokaci",
+    "options": {
+      "A": "-na",
+      "B": "za",
+      "C": "-ke",
+      "D": "-kan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "saboda ana cikin ba a kare ba",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73721",
+    "passage": ""
   }
 ]
