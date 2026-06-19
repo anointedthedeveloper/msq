@@ -14959,5 +14959,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64981",
     "passage": ""
+  },
+  {
+    "id": 64983,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The octal fraction 0.65 converts to binary as",
+    "options": {
+      "A": "0.110011",
+      "B": "0.110101",
+      "C": "101101",
+      "D": "101101"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(0.65_8 = 0 + 6 \\times 8^{-1} + 5 \\times 8^{-2}\\)\n= 0 + \\(\\frac{6}{8} + \\frac{5}{64}\\) = 0.828125 base 10\n0.828125 base 10 to base 2\n0.828125 X 2 = 1.65625 1 0.65625 X 2 = 1.3125 1 0.3125 X 2 = 0.625 0 0.625 X 2 = 1.25 1 0.25 X 2 = 0.5 0 0.5 X 2 = 1.0 1\nread answer from up to down\n0.828125 in base 10 = 0.110101 in base 2.\nTherefore, 0.65 in base 8 = 0.110101 in base 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64983",
+    "passage": ""
   }
 ]
