@@ -6690,5 +6690,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62498",
     "passage": ""
+  },
+  {
+    "id": 62499,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Use the information below to answer this question I. - Mouse II. - Keyboard III. - Scanner IV. - Joystick. The input devices used to capture finger print is?",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A scanner is typically used to capture fingerprints.This is because a scanner can create a digital image of the fingerprint, which can then be stored and analyzed. \\(\\therefore\\) III is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62499",
+    "passage": ""
   }
 ]
