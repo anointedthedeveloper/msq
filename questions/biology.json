@@ -4970,5 +4970,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2383",
     "passage": ""
+  },
+  {
+    "id": 2384,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In woody plants, grass and water vapour are transported across the stems by the",
+    "options": {
+      "A": "xylem fibres",
+      "B": "medullary rays",
+      "C": "sieve tubes",
+      "D": "phloem fibres",
+      "E": "phloem parenchyma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In woody plants, medullary rays (also known as vascular rays or pith rays) are responsible for the radial (transverse) transport of substances across the stem. While xylem and phloem primarily handle vertical (longitudinal) transport, medullary rays facilitate the lateral movement of water, nutrients, and gases (such as water vapor) between the inner and outer layers of the stem, extending from the pith to the cortex.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2384",
+    "passage": ""
   }
 ]
