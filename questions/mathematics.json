@@ -15538,5 +15538,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23178",
     "passage": ""
+  },
+  {
+    "id": 23179,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A group of students measured a certain angle (to the nearest degree) and obtained the following results: 75o, 76o, 72o, 73o, 74o, 79o, 72o, 72o, 77o, 72o, 71o, 70o, 78o, 73o. Find the mode",
+    "options": {
+      "A": "79 o",
+      "B": "78 o",
+      "C": "74 o",
+      "D": "73 o",
+      "E": "72 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "mode = 72º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23179",
+    "passage": ""
   }
 ]
