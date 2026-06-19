@@ -3146,5 +3146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50235",
     "passage": ""
+  },
+  {
+    "id": 50237,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In which year did the United Nations General assembly adopt the universal declaration of human rights",
+    "options": {
+      "A": "1945",
+      "B": "1946",
+      "C": "1947",
+      "D": "1948"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Universal Declaration of Human Rights (UDHR) is a historic document that was adopted by the United Nations General Assembly at its third session on 10 December 1948 as Resolution 217 at the Palais de Chaillot in Paris, France.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50237",
+    "passage": ""
   }
 ]
