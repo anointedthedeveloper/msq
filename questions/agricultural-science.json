@@ -812,5 +812,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15842",
     "passage": ""
+  },
+  {
+    "id": 15843,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following is not a function of the ruminal microorganism?",
+    "options": {
+      "A": "digestion of cellulose",
+      "B": "conversion of plant proteins into microbial protein",
+      "C": "production of vitamin B",
+      "D": "production of gas in the rumen",
+      "E": "eructation of the ruminal gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15843",
+    "passage": ""
   }
 ]
