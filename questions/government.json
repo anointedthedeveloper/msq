@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/104",
     "passage": ""
+  },
+  {
+    "id": 109,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Some pre-colonial Nigerian societies are described as stateless because",
+    "options": {
+      "A": "they had no formal governmental institutions",
+      "B": "they had no definite political boundaries",
+      "C": "their population was too small",
+      "D": "they were not independent."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Some pre-colonial Nigerian societies are described as stateless because they had no formal governmental institutions. For instance, the Igbos unlike Yorubas and the Fulanis have a complex and complicated system of administration in pre-colonial era. There was no sort of central authority, what they had was a diffusion of political authority into different groups.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/109",
+    "passage": ""
   }
 ]
