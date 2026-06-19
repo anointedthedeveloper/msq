@@ -3980,5 +3980,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1919",
     "passage": ""
+  },
+  {
+    "id": 1920,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "If a 26 year old blind man married a young one-eyed woman and they had four children, how many of them would be blind like their father?",
+    "options": {
+      "A": "All",
+      "B": "3",
+      "C": "2",
+      "D": "1",
+      "E": "none"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Blindness is not necessarily a genetic trait that is passed down from parents to offspring. The fact that the father is blind and the mother is one-eyed does not guarantee that any of the children will be blind.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1920",
+    "passage": ""
   }
 ]
