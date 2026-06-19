@@ -6215,5 +6215,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2154",
     "passage": ""
+  },
+  {
+    "id": 2155,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A documentary bill will normally be accompanied by",
+    "options": {
+      "A": ". sales invoice, bill of lading and insurance certificate",
+      "B": "clean bill, bill of lading, and insurance certificate",
+      "C": "bill of lading, consular invoice, and insurance certificate",
+      "D": "consular invoice, FOB certificate and bill of lading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2155",
+    "passage": ""
+  },
+  {
+    "id": 2156,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following best describes the classification of computer?",
+    "options": {
+      "A": "Mini-computer, speed and size",
+      "B": "Micro-computer, cost and abilities",
+      "C": "Mini-computer, Micro-computer and work station",
+      "D": "Mini-computer , hybrid and digital"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This classification groups computers based on their size, power, and typical usage:\nMini-computer : These are mid-sized computers that are more powerful than micro-computers and often used for tasks that require moderate computing power. Micro-computer : These are small computers meant for individual use, such as personal computers (PCs) and laptops. Work station : These are high-performance computers designed for technical or scientific applications, often used by professionals who need substantial computing power for tasks such as graphic design, software development, and data analysis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2156",
+    "passage": ""
   }
 ]
