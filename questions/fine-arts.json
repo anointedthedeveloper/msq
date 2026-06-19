@@ -2455,5 +2455,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75382",
     "passage": ""
+  },
+  {
+    "id": 75384,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The process of building up a sculpture with soft materials is known as:",
+    "options": {
+      "A": "Casting",
+      "B": "Subtracting",
+      "C": "Assembling",
+      "D": "Modelling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Modelling is an additive process where an artist shapes soft materials like clay, wax, or plaster. Because these materials are pliable, the artist can easily add or move material to create the desired form.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75384",
+    "passage": ""
   }
 ]
