@@ -7054,5 +7054,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13887",
     "passage": ""
+  },
+  {
+    "id": 13888,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The process through which free electrons leave the surface of hot metal is known as?",
+    "options": {
+      "A": "photon emission",
+      "B": "photo emission",
+      "C": "thermionic emission",
+      "D": "electron emission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This process occurs when the thermal energy of the metal is sufficient to allow electrons to overcome the work function and escape from the surface.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13888",
+    "passage": ""
   }
 ]
