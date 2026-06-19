@@ -1510,5 +1510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64441",
     "passage": ""
+  },
+  {
+    "id": 64442,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The air we breathe in during physical activities is called",
+    "options": {
+      "A": "Ammonia",
+      "B": "Carbon dioxide",
+      "C": "Oxygen",
+      "D": "Nitrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The air we breathe in is oxygen. We breathe out carbon dioxide.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64442",
+    "passage": ""
   }
 ]
