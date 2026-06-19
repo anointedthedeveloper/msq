@@ -11548,5 +11548,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4457",
     "passage": ""
+  },
+  {
+    "id": 4458,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An organic compound reacted with bromine water to give a colourless solution. The compound is probably an?",
+    "options": {
+      "A": "alkene",
+      "B": "alkanal",
+      "C": "alkyl",
+      "D": "alkanone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Alkenes react in the cold with pure liquid bromine, or with a solution of bromine in an organic solvent like tetrachloromethane. The double bond breaks, and a bromine atom becomes attached to each carbon. The bromine loses its original red-brown colour to give a colourless liquid.\nAlkynes also react with bromine, decolorising it though not as immediate as alkenes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4458",
+    "passage": ""
   }
 ]
