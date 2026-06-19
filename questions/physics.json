@@ -11532,5 +11532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14476",
     "passage": ""
+  },
+  {
+    "id": 14477,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "118.8cm2 surface of the copper cathode of a voltameter is to be coated with 10-6m thick copper of density 9 x 103kgm-3. How long will the process run with 10A constant current? [3.3 x 10-7kgC-1]",
+    "options": {
+      "A": "5.4 min",
+      "B": "10.8 min",
+      "C": "15.0 min",
+      "D": "20.0 min"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "From faradays law, M = itz But mass, M = volume x density and volume = cross-sectional area x thickness M = 118.8 x 10\\(^{-6}\\) x 9 x 10\\(^3\\) ∴ 118.8cm2 x 10\\(^{-6}\\) x 9 x 10\\(^3\\) = 10 x t x 3.3 x 10\\(^{-7}\\) ∴ (118.8 x 9) x 10\\(^{-7}\\) = 10 x t x 3.3 x 10\\(^{-7}\\) ∴ t = \\(\\frac{118.8 \\times 9}{ 3.3}\\) t = 324 seconds Convert to minutes by dividing by 60 t = \\(\\frac{324}{60}\\) t = 5.4 mins.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14477",
+    "passage": ""
   }
 ]
