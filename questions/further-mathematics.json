@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50366",
     "passage": ""
+  },
+  {
+    "id": 50367,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the radius of the circle \\(x^{2} + y^{2} - 8x - 2y + 1 = 0\\).",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Given the equation of the circle \\(x^{2} + y^{2} - 8x - 2y + 1 = 0\\).\nThe equation of a circle is given as \\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nExpanding, we have \\(x^{2} - 2ax + a^{2} + y^{2} - 2by + b^{2} = r^{2} \\equiv x^{2} - 2ax + y^{2} - 2by = r^{2} - a^{2} - b^{2}\\)\nComparing the RHS of the equation above with the equation rewritten as \\(x^{2} + y^{2} - 8x - 2y = -1\\), we have\n\\(-2a = -8; -2b = -2 \\implies a = 4, b = 1\\)\n\\(\\therefore r^{2} - 4^{2} - 1^{2} = -1 \\implies r^{2} = -1 + 16 + 1 = 16\\)\n\\(r = \\sqrt{16} = 4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50367",
+    "passage": ""
   }
 ]
