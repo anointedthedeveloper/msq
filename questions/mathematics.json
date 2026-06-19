@@ -12767,5 +12767,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22641",
     "passage": ""
+  },
+  {
+    "id": 22642,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Find the values of x for which y = 5",
+    "options": {
+      "A": "-2.5, 2.0",
+      "B": "-2.6, 2.1",
+      "C": "-2.0, 1.5",
+      "D": "-2.0, 2.0",
+      "E": "0, 0"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ogOk2L8RI09BAO3IedN04HPkqLTNx63yh2Z8sArp.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869243/myschool/mathematics/ogOk2L8RI09BAO3IedN04HPkqLTNx63yh2Z8sArp.png",
+    "correct_answer": "B",
+    "explanation": "from the graph, x = - 2.6 and 2.1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22642",
+    "passage": ""
   }
 ]
