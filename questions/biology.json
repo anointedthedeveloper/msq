@@ -592,5 +592,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/339",
     "passage": ""
+  },
+  {
+    "id": 340,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of these is not a function of the mammalian skin/",
+    "options": {
+      "A": "Protection against bacteria infection",
+      "B": "Excretion of waste and water",
+      "C": "Production of vitamin d when exposed to sun light",
+      "D": "production of pigments to reduce temperature",
+      "E": "Regulation of body temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Regulates body temperature. Excretes toxic substances with sweat. Protection of the body from harmful effects of the sun and radiation. Prevents penetration of toxic substances.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/340",
+    "passage": ""
+  },
+  {
+    "id": 341,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "which of these elements in plants is required in small quantities only",
+    "options": {
+      "A": "Boron",
+      "B": "Nitrogen",
+      "C": "Phosphorus",
+      "D": "Magnesium",
+      "E": "Potassium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Boron (B) is not required by plants in high amounts, but can cause serious growth problems if it is not supplied at appropriate levels.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/341",
+    "passage": ""
   }
 ]
