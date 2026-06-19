@@ -11086,5 +11086,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4318",
     "passage": ""
+  },
+  {
+    "id": 4320,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What current will deposit 3.25g of zinc in 2hrs?\n[Zn = 65, F = 96500 mol\n-\n]",
+    "options": {
+      "A": "3.25A",
+      "B": "2.00A",
+      "C": "1.34A",
+      "D": "0.67A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4320",
+    "passage": ""
   }
 ]
