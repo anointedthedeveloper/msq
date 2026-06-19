@@ -17799,5 +17799,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25047",
     "passage": ""
+  },
+  {
+    "id": 25048,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Which of the following is used a nuclear reactor to slow down fast moving neutrons?",
+    "options": {
+      "A": "Carbondioxide gas",
+      "B": "Liquid sodium metal",
+      "C": "Concrete shield",
+      "D": "Graphite rods",
+      "E": "Boron rods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The uses of graphite:\nUsed in making a pencil. Used as a dry lubricant. For making electrodes. For polishing iron articles. As a moderator in the nuclear furnace.\nThe moderator of a nuclear reactor is a substance that slows neutrons down .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25048",
+    "passage": ""
   }
 ]
