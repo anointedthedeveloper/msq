@@ -1867,5 +1867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2122",
     "passage": ""
+  },
+  {
+    "id": 2123,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A cylindrical tank has a capacity of 3080 m\n3\n. What is the depth of the tank if the diameter of its base is 14 m?\n(Take pi = 22/7)",
+    "options": {
+      "A": "23 m",
+      "B": "25 m",
+      "C": "20 m",
+      "D": "22 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2123",
+    "passage": ""
   }
 ]
