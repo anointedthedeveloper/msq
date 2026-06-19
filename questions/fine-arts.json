@@ -2308,5 +2308,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75375",
     "passage": ""
+  },
+  {
+    "id": 75376,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is a 'palette' in painting?",
+    "options": {
+      "A": "A shading technique",
+      "B": "A brush cleaner",
+      "C": "A board for mixing colours",
+      "D": "A type of frame"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A palette is the surface or board an artist uses to mix and hold paints while painting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75376",
+    "passage": ""
+  },
+  {
+    "id": 75377,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the term for artwork that uses letters or words as main element?",
+    "options": {
+      "A": "Word art",
+      "B": "Typography",
+      "C": "Letterform art",
+      "D": "Calligraphy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Typography is an art that uses letters and words as the main visual elements, focusing on their design, arrangement, and style.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75377",
+    "passage": ""
   }
 ]
