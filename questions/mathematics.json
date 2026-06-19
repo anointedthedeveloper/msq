@@ -2875,5 +2875,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3384",
     "passage": ""
+  },
+  {
+    "id": 3385,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The range of the data: k+2, k-3, k+4, k-2, k, k-5, k+3, k-1, and k+6 is",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "6",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Range = Highest value - Lowest value\n= (k + 6) - (k - 5)\n= 11",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3385",
+    "passage": ""
   }
 ]
