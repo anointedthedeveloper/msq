@@ -9721,5 +9721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4011",
     "passage": ""
+  },
+  {
+    "id": 4019,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "16.8 g of sodium hydrogen trioxocarbonate (IV) is completely decomposed by heat. Calculate the volume of carbon(IV) oxide given off at s.t.p [Na 23, C = 12, O = 16, H = 1, Molar volume of a gas at s.t.p = 22.4 dm3]",
+    "options": {
+      "A": "22.40 dm 3",
+      "B": "11.20 dm 3",
+      "C": "2.24 dm 3",
+      "D": "1.12 dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2NaHCO3(s) → Na2CO3(s) + H2O(l) + CO2 Relative molecular mass of NaHCO3 = 23 +1 + 12 + 16 * 3 = 84gmol-1 2 * 84g of NaHCO3 will be liberated 22.4dm3 or CO2 at s.t.p 16.8g of NaHCO3 will liberate (16.8 * 22.4)/(2 * 84) = 2.24 dm3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4019",
+    "passage": ""
   }
 ]
