@@ -6748,5 +6748,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67127",
     "passage": ""
+  },
+  {
+    "id": 67128,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The part labelled III in the figure above is used to",
+    "options": {
+      "A": "Shape objects",
+      "B": "Change the viewing windows",
+      "C": "Search for objects",
+      "D": "Select and transform objects"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/WGgnv01T2r3luAWTCDfOrPm7bWF280aIfsKyk9s6.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911829/myschool/data-processing/WGgnv01T2r3luAWTCDfOrPm7bWF280aIfsKyk9s6.png",
+    "correct_answer": "C",
+    "explanation": "III is a search icon",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67128",
+    "passage": ""
   }
 ]
