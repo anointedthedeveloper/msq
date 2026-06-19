@@ -16179,5 +16179,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67829",
     "passage": ""
+  },
+  {
+    "id": 67832,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following does not replicate itself in an infected computer?",
+    "options": {
+      "A": "spyware",
+      "B": "worm",
+      "C": "trojan horse",
+      "D": "virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "trojan horse is a malicious software program that hides inside other programs, trojan horse does not usually spread by themselves.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67832",
+    "passage": ""
   }
 ]
