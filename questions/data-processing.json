@@ -4611,5 +4611,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58743",
     "passage": ""
+  },
+  {
+    "id": 58745,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a) Outline the steps involved in creating the Query By Example (QBE) in figure 1 assuming the table customer exist already.\nFigure 1\n(b) Write the steps to generate the SQL statement for the action in 4 (a).",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Steps involved in creating the query in MS Access;\n- Click on Create\n- Select Query Design\n- Add table tbl Customer to QBE interface\n- Select the field Last Name from the grid\n- Select the field First Name from the grid.\n- Select the fields Town from the grid.\n- Type 'John' in the criteria row under the last Name field.\n- Tick all the check boxes in the show row under last Name, first Name and Town fields.\n(b) Steps to generate the SQL statement for the action in 4(a)\n- Right click on Query (QBE) Interface\n- Select SQL view\nOR\n- From  Design  view, click view\n- Select SQL view\nOR\n- Click on SQL at the bottom right corner",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58745",
+    "passage": ""
   }
 ]
