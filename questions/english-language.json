@@ -3011,5 +3011,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1358",
     "passage": ""
+  },
+  {
+    "id": 1359,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The benefit one gets from watching plays .... comparable to that found in taking a university course in drama.",
+    "options": {
+      "A": "is",
+      "B": "was",
+      "C": "were",
+      "D": "are",
+      "E": "being"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The subject of the sentence is “The benefit one gets from watching plays.”\nThe head noun of the subject is benefit , which is singular . Therefore, the verb that agrees with it must also be singular .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1359",
+    "passage": ""
   }
 ]
