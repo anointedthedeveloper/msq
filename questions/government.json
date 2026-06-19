@@ -2519,5 +2519,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1285",
     "passage": ""
+  },
+  {
+    "id": 1286,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The type of government operated in Nigeria between October 1st 1979 to December 31st 1983 is called a",
+    "options": {
+      "A": "collegial system of government",
+      "B": "presidential system of government",
+      "C": "unitary system of government",
+      "D": "parliamentary system of government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1286",
+    "passage": ""
   }
 ]
