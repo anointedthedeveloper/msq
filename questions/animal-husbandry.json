@@ -773,5 +773,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49634",
     "passage": ""
+  },
+  {
+    "id": 49636,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The fundamental principles underlying animal breeding is based on",
+    "options": {
+      "A": "genetics",
+      "B": "management",
+      "C": "physiology",
+      "D": "selection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Animal breeding is the process of selective mating of animals with desirable genetic traits, to maintain or enhance these traits in future generations. For livestock, this involves estimation of the genetic value of individuals for traits including growth rate and yield of products such as eggs, milk or meat.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49636",
+    "passage": ""
   }
 ]
