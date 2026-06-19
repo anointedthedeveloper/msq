@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73533",
     "passage": ""
+  },
+  {
+    "id": 73535,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Uzochi na-eri nri. Nke a kara ihe n'ọkpụrụ bụ.",
+    "options": {
+      "A": "ngwaa",
+      "B": "enyemakangwaa",
+      "C": "njikọ",
+      "D": "mbuuzo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ugochi na Eze means Ugochi and Eze. \"na\" is the underlined word, and it means \"and\". It should be noted that \"and\" is a conjunction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73535",
+    "passage": ""
   }
 ]
