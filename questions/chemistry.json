@@ -5184,5 +5184,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2267",
     "passage": ""
+  },
+  {
+    "id": 2269,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Which of the following will change when a catalyst is added to a chemical reaction?",
+    "options": {
+      "A": "The activation energy",
+      "B": "The potential energy of the reactants",
+      "C": "The heat of the reaction",
+      "D": "the potential energy of the product"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Adding a catalyst to a chemical reaction lowers the activation energy.\nA catalyst speeds up a reaction by providing an alternative reaction pathway that requires less energy. This is similar to how an escalator requires less energy to get to a destination than stairs.The catalyst does not change the energy of the reactants or products. It also doesn't change the standard enthalpy change or the Gibbs energy of the reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2269",
+    "passage": ""
   }
 ]
