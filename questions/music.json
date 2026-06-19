@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48106",
     "passage": ""
+  },
+  {
+    "id": 48107,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The song entiled Adara was composed by",
+    "options": {
+      "A": "Weird MC",
+      "B": "Olu Maintain",
+      "C": "Sasha",
+      "D": "Alex"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48107",
+    "passage": ""
   }
 ]
