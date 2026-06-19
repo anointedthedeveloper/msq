@@ -9301,5 +9301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14267",
     "passage": ""
+  },
+  {
+    "id": 14268,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following can conduct electricity owing to the presence of free mobile electrons?",
+    "options": {
+      "A": "germanium",
+      "B": "silicon",
+      "C": "grapefruit",
+      "D": "copper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Metals are good conductors due to the presence of free electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14268",
+    "passage": ""
   }
 ]
