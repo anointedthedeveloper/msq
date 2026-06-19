@@ -4287,5 +4287,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2055",
     "passage": ""
+  },
+  {
+    "id": 2057,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choosing the word or phrase from A to E which has the same meaning as the underlined word or words in each sentence : Sitting majestically on his throne is the Oba of Benin flanked by some of his wives",
+    "options": {
+      "A": "surrounded",
+      "B": "supported",
+      "C": "guarded",
+      "D": "protected",
+      "E": "neglected"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The word flanked means positioned on either side of someone or something. In this context, it suggests that the Oba is seated with his wives on both sides.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2057",
+    "passage": ""
   }
 ]
