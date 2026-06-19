@@ -12747,5 +12747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7300",
     "passage": ""
+  },
+  {
+    "id": 7301,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The body regulating the sale and purchase of shares in Nigeria is the?",
+    "options": {
+      "A": "Corporate Affairs Commision",
+      "B": "Securities and Exchange Commision",
+      "C": "Securities and Exchange Tribunal",
+      "D": "Nigeria Stock Exchange"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Securities and Exchange Commission (SEC), is the apex regulatory institution of the Nigerian capital market. We all know the capital market is where long-term securities are sold, and shares fall under long-term securities.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7301",
+    "passage": ""
   }
 ]
