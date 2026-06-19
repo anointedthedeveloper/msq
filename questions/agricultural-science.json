@@ -592,5 +592,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15830",
     "passage": ""
+  },
+  {
+    "id": 15831,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A situation where only specified trees in a forest reserve are cut down is known as",
+    "options": {
+      "A": "selection",
+      "B": "afforestation",
+      "C": "reforestation",
+      "D": "selective exploitation",
+      "E": "deforestation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15831",
+    "passage": ""
   }
 ]
