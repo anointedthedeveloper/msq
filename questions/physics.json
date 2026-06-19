@@ -10099,5 +10099,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14329",
     "passage": ""
+  },
+  {
+    "id": 14330,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A mirror of weight 75N is hung by a cord from a hook on the wall. If the cord makes an angle of 30o with horizontal, the tension in the cord is",
+    "options": {
+      "A": "100N",
+      "B": "1500N",
+      "C": "250N",
+      "D": "150N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "For vertical equilibrium, we have 2Ty = 75N But \\(\\frac{Ty}{T}\\) = \\(\\frac{adj}{hyp}\\) = cos 60º ∴ Ty = T Cos 60º => 2Ty = 2Tcos 60º = 75N 2 x T x 0.5 = 75 => T = 75N ∴ Total tension in the rope = 2 T. = 2 x 75 = 150N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14330",
+    "passage": ""
   }
 ]
