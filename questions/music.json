@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76286",
     "passage": ""
+  },
+  {
+    "id": 76287,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The song entitled Swing Low, Sweet Chariot is an example of a",
+    "options": {
+      "A": "tango",
+      "B": "cha-cha-cha",
+      "C": "bolero",
+      "D": "negro spiritual"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "'Swing Low, Sweet Chariot' is an example of a negro spiritual . Negro spirituals are a type of religious song associated with African-American Christians during the era of slavery in the United States.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76287",
+    "passage": ""
   }
 ]
