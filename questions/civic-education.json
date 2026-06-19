@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50114",
     "passage": ""
+  },
+  {
+    "id": 50115,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is not a symptom of HIV/AIDS",
+    "options": {
+      "A": "loss of appetite and weight",
+      "B": "unexplained feverish condition",
+      "C": "infections that often resist treatment",
+      "D": "systematic growth of the body"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The following are some of the signs of HIV/AIDS in its early stage\nheadache fever tiredness swollen lymph nodes sore throat thrush rash muscle and joint pain ulcers in the mouth ulcers on the genitals night sweats diarrhea",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50115",
+    "passage": ""
   }
 ]
