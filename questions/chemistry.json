@@ -9616,5 +9616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3997",
     "passage": ""
+  },
+  {
+    "id": 4000,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Smog usually occurs over cities which",
+    "options": {
+      "A": "burn a lot of fossil fuels",
+      "B": "have very few plants",
+      "C": "are surrounded by water",
+      "D": "are overpopulated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Burn a lot of fossil fuels.\nSmog, a type of air pollution, is often associated with urban areas that burn large amounts of fossil fuels, such as coal, oil, and gasoline. These fuels release pollutants like nitrogen oxides, sulphur dioxide, and particulate matter into the atmosphere, which can react with sunlight and other chemicals to form ground-level ozone and smog.\nWhile options B, C, and D may be related to urban areas, they are not the primary cause of smog. Burning fossil fuels is the main culprit!\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4000",
+    "passage": ""
   }
 ]
