@@ -13315,5 +13315,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21264",
     "passage": ""
+  },
+  {
+    "id": 23840,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "What is the effect of using split-rings in a simple d.c motor?",
+    "options": {
+      "A": "The direction of rotation of the coil is reversed",
+      "B": "The current in the coil flows in the same direction",
+      "C": "The current in the coil becomes alternating",
+      "D": "The direction of the force on the coil is reversed",
+      "E": "The contact with the voltage is cut-off"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Split ring is used for reversing the direction of current in the coil. For the continuous rotation of the coil in the same direction, the current in the coil must be reversed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23840",
+    "passage": ""
   }
 ]
