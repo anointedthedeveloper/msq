@@ -18936,5 +18936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71373",
     "passage": ""
+  },
+  {
+    "id": 71374,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the benefit of using a bulleted or numbered list in your document?",
+    "options": {
+      "A": "To automatically insert page breaks after each list item, forcing them onto separate pages.",
+      "B": "To automatically change the font style and size of the text within the list.",
+      "C": "To add decorative borders and background colors to specific sections of your document.",
+      "D": "To highlight important points and improve readability by visually separating items."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Bulleted and numbered lists are valuable tools for presenting information clearly and organized. They visually separate items, making them easier to read and understand, especially for points within a series or sequence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71374",
+    "passage": ""
   }
 ]
