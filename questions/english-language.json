@@ -1427,5 +1427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/575",
     "passage": ""
+  },
+  {
+    "id": 577,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nThere were so many children ....",
+    "options": {
+      "A": "that she couldn't feed them all",
+      "B": "than she could feed",
+      "C": "that she couldn't feed",
+      "D": "that she could feed them all",
+      "E": "more than she could feed them all"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/577",
+    "passage": ""
   }
 ]
