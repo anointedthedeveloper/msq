@@ -15717,5 +15717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67784",
     "passage": ""
+  },
+  {
+    "id": 67785,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a valid variable name in Python?",
+    "options": {
+      "A": "my_variable$",
+      "B": "my_variable",
+      "C": "my-variable",
+      "D": "1my_variable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Variable names in Python must start with a letter or underscore, and can only contain letters, numbers, and underscores. The other options are invalid because they either start with a number (option C) or contain a special character (option D).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67785",
+    "passage": ""
   }
 ]
