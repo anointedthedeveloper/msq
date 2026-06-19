@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50008",
     "passage": ""
+  },
+  {
+    "id": 50009,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The establishment of the National Drug Law Enforcement Agency (NDLEA) by the government was a measure to?",
+    "options": {
+      "A": "make drugs available to the masses",
+      "B": "prevent  drug abuse",
+      "C": "encourage the use of drugs by the masses",
+      "D": "support importation of drugs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The National Drug Law Enforcement Agency ( NDLEA ) was established in 1989 with the statutory responsibility to control and manage the growing menace of illicit drug activities.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50009",
+    "passage": ""
   }
 ]
