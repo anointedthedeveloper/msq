@@ -1299,5 +1299,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73651",
     "passage": ""
+  },
+  {
+    "id": 73652,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Kalmar da aka ja wa layi ......... ce",
+    "options": {
+      "A": "sifa",
+      "B": "suna",
+      "C": "aikatau",
+      "D": "bayanau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is aikatau. The question is asking which word is used to indicate possession. In Hausa, the word \"aikatau\" is used to indicate possession, similar to the word \"of\" or \"belonging to\" in English. For example, \"aikatau Audu\" means \"belonging to Audu\" or \"Audu's\". Therefore, the correct answer is aikatau.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73652",
+    "passage": ""
   }
 ]
