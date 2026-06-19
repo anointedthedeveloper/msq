@@ -14078,5 +14078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5124",
     "passage": ""
+  },
+  {
+    "id": 5126,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap : A number of doctors are not so all well disposed to .... in government hospitals these days .... they?",
+    "options": {
+      "A": "working/do",
+      "B": "work/are",
+      "C": "working/are",
+      "D": "work/aren't"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "What follows \"to\" in a noun clause is a gerund (verb+ing), making \"working\" the correct choice. The sentence is a negative statement (\"not so well disposed\"), so the tag question should be positive . Since \"are\" is the auxiliary verb in the main clause, the correct tag question is \"are they?\"\nThus, the best option is: \"A number of doctors are not so well disposed to working in government hospitals these days, are they?\" ✅",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5126",
+    "passage": ""
   }
 ]
