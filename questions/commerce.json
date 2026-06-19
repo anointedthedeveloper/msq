@@ -16504,5 +16504,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7664",
     "passage": ""
+  },
+  {
+    "id": 7666,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A software application that enables a user to display and interact with texts, images and videos is the?",
+    "options": {
+      "A": "web server",
+      "B": "Internet Protocol",
+      "C": "coreldraw",
+      "D": "web browser"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A web browser is a software program that allows a user to locate, access and display web pages which can be in form of texts, images, and videos",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7666",
+    "passage": ""
   }
 ]
