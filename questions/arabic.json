@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75276",
     "passage": ""
+  },
+  {
+    "id": 75279,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما المصدر من الفعل \"استمع\"؟",
+    "options": {
+      "A": "استماع",
+      "B": "سماع",
+      "C": "سمّاع",
+      "D": "مستمع"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\". istama'a), which means \"to listen ) \"استمع\" istima) is indeed the verbal noun (masdar) derived from the verb ) \"استماع\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75279",
+    "passage": ""
   }
 ]
