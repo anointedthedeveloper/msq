@@ -6606,5 +6606,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62491",
     "passage": ""
+  },
+  {
+    "id": 62493,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following factors limits access to computerized file system? it",
+    "options": {
+      "A": "occupies less space",
+      "B": "requires regular supply of power",
+      "C": "is highly efficient in processing information",
+      "D": "provides easy and fast access to information"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A computerized file system requires a regular supply of power to function. Without power, the system cannot operate, thus limiting access to the files. The other options are advantages of a computerized file system, not limitations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62493",
+    "passage": ""
   }
 ]
