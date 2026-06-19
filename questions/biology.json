@@ -372,5 +372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/326",
     "passage": ""
+  },
+  {
+    "id": 328,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The study of organism and the environment of an abandoned farmland is the ecology of?",
+    "options": {
+      "A": "a community",
+      "B": "a population",
+      "C": "a specie",
+      "D": "a habitat",
+      "E": "an ecosystem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The ecology of ecosystem has to do with the study of every factor living (biotic) and non- living (abiotic), which affects the population.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/328",
+    "passage": ""
   }
 ]
