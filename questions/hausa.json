@@ -2160,5 +2160,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73704",
     "passage": ""
+  },
+  {
+    "id": 73705,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "She washed her school uniform.\nFassarar wannnan ita ce\nTa wanke.......... makaranta",
+    "options": {
+      "A": "jakar",
+      "B": "rigar",
+      "C": "kayan",
+      "D": "takalmin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is kayan. The correct translation of the sentence \"She washed her school uniform\" in Hausa is \"Ta wanke kayan makaranta\". Here, \"kayan\" means \"uniform\" or \"clothing\", and \"makaranta\" means \"school\". So, the correct answer is kayan.\nHere's a breakdown of the translation:\n\"Ta\" means \"she\"\n\"wanke\" means \"washed\"\n\"kayan\" means \"uniform\" or \"clothing\"\n\"makaranta\" means \"school\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73705",
+    "passage": ""
   }
 ]
