@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48023",
     "passage": ""
+  },
+  {
+    "id": 48024,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following does a textile artist use to form patterns?",
+    "options": {
+      "A": "motif",
+      "B": "posters",
+      "C": "yam",
+      "D": "logo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48024",
+    "passage": ""
   }
 ]
