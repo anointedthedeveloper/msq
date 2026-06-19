@@ -5626,5 +5626,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12913",
     "passage": ""
+  },
+  {
+    "id": 12918,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If u is the object distance and v the image distance, which of the following expressions gives the linear magnification produced by a convex lens of focal length f?",
+    "options": {
+      "A": "u / f - f",
+      "B": "u / v + f",
+      "C": "v / f + 1",
+      "D": "v / f - 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12918",
+    "passage": ""
   }
 ]
