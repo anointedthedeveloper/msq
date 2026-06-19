@@ -18663,5 +18663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70996",
     "passage": ""
+  },
+  {
+    "id": 70997,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the main advantage of using hexadecimal over binary?",
+    "options": {
+      "A": "Compatible with octal",
+      "B": "Easier to read and write",
+      "C": "Provides higher precision",
+      "D": "Requires more digits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hexadecimal is easier to lead and write compared to binary because it uses fewer digits to represent the same value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70997",
+    "passage": ""
   }
 ]
