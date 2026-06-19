@@ -5786,5 +5786,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62593",
     "passage": ""
+  },
+  {
+    "id": 62594,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following actions is not a source of computer virus?",
+    "options": {
+      "A": "Checking of e-mail",
+      "B": "Downloading programs",
+      "C": "Reading from CD/DVD",
+      "D": "Uploading data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sources of computer viruses are:\nDownloading Programs. ... Pirated or Cracked Software. Email Attachments. ... Internet. Booting Data from Unknown CDs. ... Bluetooth. ... Unpatched Software. Infected disk of a flash drive.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62594",
+    "passage": ""
   }
 ]
