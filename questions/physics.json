@@ -9889,5 +9889,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14308",
     "passage": ""
+  },
+  {
+    "id": 14310,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A vapor is said to be saturated when?",
+    "options": {
+      "A": "a dynamic equilibrium exists between liquid molecules and the vapour molecules",
+      "B": "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it",
+      "C": "the temperature of the vapour varies",
+      "D": "the vapour pressure is atmospheric"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A saturated vapour is one which is in dynamic equilibrium with its own liquid; that is as many go from the liquid to the vapour state every second return back to liquid.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14310",
+    "passage": ""
   }
 ]
