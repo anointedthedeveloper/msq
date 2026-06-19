@@ -4562,5 +4562,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62284",
     "passage": ""
+  },
+  {
+    "id": 62285,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Computer ethics are important because they?",
+    "options": {
+      "A": "ensure identity theft.",
+      "B": "regulate the privacy of messages only.",
+      "C": "address piracy and comportment issues.",
+      "D": "prevent copyright infringement on discretional basis."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer ethics are important because they address piracy and comportment issues. They guide how individuals should behave when using computers and the internet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62285",
+    "passage": ""
   }
 ]
