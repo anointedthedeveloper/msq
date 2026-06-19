@@ -7486,5 +7486,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/63075",
     "passage": ""
+  },
+  {
+    "id": 68745,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A source of primary data for marketing research is",
+    "options": {
+      "A": "inventory report",
+      "B": "customer's feedback",
+      "C": "marketing budget",
+      "D": "sales report"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A source of primary data for marketing research is customer's feedback. Primary data refers to data that is collected firsthand specifically for the purpose of the research study at hand. Customer feedback can be obtained through surveys, interviews, focus groups, or other direct interactions with customers. This data provides direct insights into customers' opinions, preferences, experiences, and behaviors, which are valuable for understanding consumer needs, improving products or services, and making informed marketing decisions. Sales reports, inventory reports, and marketing budgets are typically considered secondary data sources as they are already existing data within the organization and may have been collected for purposes other than the specific research study.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/68745",
+    "passage": ""
   }
 ]
