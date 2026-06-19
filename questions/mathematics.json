@@ -15164,5 +15164,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23161",
     "passage": ""
+  },
+  {
+    "id": 23162,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above, ML//PQ and NP//QR, if ∠LMN = 40° and ∠MNP = 55°. Find ∠QPR",
+    "options": {
+      "A": "15 o",
+      "B": "25 o",
+      "C": "35 o",
+      "D": "40 o",
+      "E": "55 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15228921972_wcmath199224.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909694/myschool/mathematics/15228921972_wcmath199224.jpg",
+    "correct_answer": "A",
+    "explanation": "Draw line ANB// ML\n< MNA = 40° (alternate angle AB/ ML)\n< ANP = 55° - 40° = 15°\n< PQR = 15° = < ANP (corresponding angles, PN // RQ)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191121_121655%20%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909697/myschool/mathematics/IMG_20191121_121655_%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/23162",
+    "passage": ""
   }
 ]
