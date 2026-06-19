@@ -3546,5 +3546,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50537",
     "passage": ""
+  },
+  {
+    "id": 50538,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(2, (k+1), 8,...\\) form an exponential sequence (GP), find the values of k.",
+    "options": {
+      "A": "-3 and 5",
+      "B": "5 and -5",
+      "C": "3 and -3",
+      "D": "-5 and 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Given an exponential sequence, say \\(a, b, c,...\\), as consecutive terms, then \\(\\sqrt{a \\times c} = b\\).\n\\(\\therefore 2, (k+1), 8 \\implies \\sqrt{2 \\times 8} = k + 1\\)\n\\(k + 1 = \\pm{4} \\implies k = \\text{-5 or 3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50538",
+    "passage": ""
   }
 ]
