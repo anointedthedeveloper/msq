@@ -1,10 +1,8 @@
 name: Scrape Past Questions
 
 on:
-  # Run every day at 2am UTC
   schedule:
     - cron: "0 2 * * *"
-  # Manual trigger from GitHub UI (Actions tab → Run workflow)
   workflow_dispatch:
     inputs:
       subject:
@@ -19,47 +17,35 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 360   # 6 hours max (full scrape of all subjects takes ~2-3h)
+    timeout-minutes: 360
 
     steps:
-      # ── 1. Checkout ──────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
-      # ── 2. Python setup ───────────────────────────────────────────────────
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
 
-      # ── 3. Install dependencies ───────────────────────────────────────────
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 4. Configure git ──────────────────────────────────────────────────
       - name: Configure git
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      # ── 5. Scrape & commit per subject ────────────────────────────────────
-      #
-      #  Strategy: scrape one subject at a time, verify it, then commit.
-      #  This way partial progress is never lost — each subject is saved
-      #  independently even if a later subject fails.
-      #
-      - name: Scrape and commit
+      - name: Scrape and commit per subject
         env:
           CLOUDINARY_CLOUD_NAME: ${{ secrets.CLOUDINARY_CLOUD_NAME }}
           CLOUDINARY_API_KEY: ${{ secrets.CLOUDINARY_API_KEY }}
           CLOUDINARY_API_SECRET: ${{ secrets.CLOUDINARY_API_SECRET }}
         run: |
-          set -e   # stop on first unhandled error
-
           INPUT_SUBJECT="${{ github.event.inputs.subject }}"
           INPUT_PAGES="${{ github.event.inputs.pages }}"
 
@@ -68,21 +54,10 @@ jobs:
             PAGES_ARG="--pages $INPUT_PAGES"
           fi
 
-          # Build the list of subjects to process
           if [ -n "$INPUT_SUBJECT" ]; then
             SUBJECTS="$INPUT_SUBJECT"
           else
-            # All 37 subjects
-            SUBJECTS="mathematics english-language chemistry physics biology \
-              geography literature-in-english economics commerce \
-              accounts-principles-of-accounts government \
-              christian-religious-knowledge-crk agricultural-science \
-              islamic-religious-knowledge-irk history fine-arts music french \
-              animal-husbandry insurance civic-education further-mathematics \
-              yoruba igbo arabic home-economics hausa book-keeping \
-              data-processing catering-craft-practice computer-studies \
-              marketing physical-education office-practice technical-drawing \
-              food-and-nutrition home-management"
+            SUBJECTS="mathematics english-language chemistry physics biology geography literature-in-english economics commerce accounts-principles-of-accounts government christian-religious-knowledge-crk agricultural-science islamic-religious-knowledge-irk history fine-arts music french animal-husbandry insurance civic-education further-mathematics yoruba igbo arabic home-economics hausa book-keeping data-processing catering-craft-practice computer-studies marketing physical-education office-practice technical-drawing food-and-nutrition home-management"
           fi
 
           TOTAL_NEW=0
@@ -90,65 +65,50 @@ jobs:
 
           for SUBJECT in $SUBJECTS; do
             echo ""
-            echo "============================================"
-            echo " Subject: $SUBJECT"
-            echo "============================================"
+            echo "Subject: $SUBJECT"
 
-            # Scrape this subject (errors are caught, don't abort the loop)
             if python scraper.py --subject "$SUBJECT" $PAGES_ARG; then
               echo "Scrape OK: $SUBJECT"
             else
-              echo "::warning::Scrape failed for $SUBJECT — skipping commit"
+              echo "::warning::Scrape failed for $SUBJECT"
               FAILED_SUBJECTS="$FAILED_SUBJECTS $SUBJECT"
               continue
             fi
 
-            # Verify the JSON before committing
             if python verify.py --subject "$SUBJECT"; then
               echo "Verify OK: $SUBJECT"
             else
-              echo "::warning::Verification failed for $SUBJECT — running --fix"
+              echo "::warning::Verification issues for $SUBJECT, running fix"
               python verify.py --subject "$SUBJECT" --fix || true
             fi
 
-            # Stage the file
             git add "questions/${SUBJECT}.json"
 
-            # Commit only if the file changed
             if git diff --cached --quiet; then
               echo "No new questions for $SUBJECT"
             else
-              COUNT=$(python - <<'EOF'
+              COUNT=$(python -c "
 import json, sys
-with open(f"questions/{sys.argv[1]}.json", encoding="utf-8") as f:
+with open('questions/' + sys.argv[1] + '.json', encoding='utf-8') as f:
     print(len(json.load(f)))
-EOF
-              "$SUBJECT" 2>/dev/null || echo "?")
+" "$SUBJECT" 2>/dev/null || echo "?")
               TIMESTAMP=$(date -u "+%Y-%m-%d %H:%M UTC")
               git commit -m "scrape($SUBJECT): $COUNT questions [$TIMESTAMP]"
               git push
               echo "Committed: $SUBJECT ($COUNT questions)"
               TOTAL_NEW=$((TOTAL_NEW + 1))
             fi
-
           done
 
           echo ""
-          echo "============================================"
-          echo " Scrape complete"
-          echo " Subjects with new data : $TOTAL_NEW"
+          echo "Scrape complete. Subjects with new data: $TOTAL_NEW"
           if [ -n "$FAILED_SUBJECTS" ]; then
-            echo "::warning::Failed subjects:$FAILED_SUBJECTS"
+            echo "::warning::Failed subjects: $FAILED_SUBJECTS"
           fi
-          echo "============================================"
 
-      # ── 6. Final verification across all downloaded files ─────────────────
       - name: Verify all question files
-        run: |
-          python verify.py
-          echo "Verification complete."
+        run: python verify.py
 
-      # ── 7. Job summary ────────────────────────────────────────────────────
       - name: Write job summary
         if: always()
         run: |
@@ -156,10 +116,9 @@ EOF
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "| Subject | Questions | Status |" >> $GITHUB_STEP_SUMMARY
           echo "|---------|-----------|--------|" >> $GITHUB_STEP_SUMMARY
-
           for f in questions/*.json; do
             SUBJECT=$(basename "$f" .json)
-            COUNT=$(python -c "import json; d=json.load(open('$f',encoding='utf-8')); print(len(d))" 2>/dev/null || echo "error")
+            COUNT=$(python -c "import json; print(len(json.load(open('$f', encoding='utf-8'))))" 2>/dev/null || echo "error")
             if [ "$COUNT" = "error" ]; then
               echo "| $SUBJECT | - | FAILED |" >> $GITHUB_STEP_SUMMARY
             else
