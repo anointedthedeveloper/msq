@@ -6004,5 +6004,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8829",
     "passage": ""
+  },
+  {
+    "id": 8830,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Compute 110011\n2\n+ 11111\n2",
+    "options": {
+      "A": "1001010 2",
+      "B": "1010010 2",
+      "C": "1000110 2",
+      "D": "1000100 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8830",
+    "passage": ""
   }
 ]
