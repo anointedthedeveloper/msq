@@ -7319,5 +7319,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75969",
     "passage": ""
+  },
+  {
+    "id": 75970,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Shiru kamar mako\" yana nufin -",
+    "options": {
+      "A": "Hayaniya",
+      "B": "Farin ciki",
+      "C": "Fushi",
+      "D": "Tsananin shiru"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The phrase means \"extremely quiet,\" with mako symbolizing a long period of silence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75970",
+    "passage": ""
   }
 ]
