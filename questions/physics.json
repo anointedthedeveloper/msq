@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/644",
     "passage": ""
+  },
+  {
+    "id": 649,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "in a series R-L-C circuit at resonance, the voltages across the resistor and the inductor are 30V and 40V respectively, what is the voltage across the capacitor?",
+    "options": {
+      "A": "30V",
+      "B": "40V",
+      "C": "50V",
+      "D": "70V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "L\nC\nL\nC\nL\nL\nL\nC\nC\nC\nL\nC\nL\nL\nC\nC\nL\nC",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/649",
+    "passage": ""
   }
 ]
