@@ -11173,5 +11173,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14453",
     "passage": ""
+  },
+  {
+    "id": 14455,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "When a red rose flower is observed in blue light, what colour does the observer see?",
+    "options": {
+      "A": "Red",
+      "B": "Blue",
+      "C": "Magenta",
+      "D": "yellow",
+      "E": "No correct option"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The colour which an object presents to the eye is the colour of light it reflects. Red rose flower will therefore absorb any other colour and reflect red. Therefore when viewed in blue light, it has no colur to reflect and will therefore appear black. Although mixture of red light and blue light = magenta .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14455",
+    "passage": ""
   }
 ]
