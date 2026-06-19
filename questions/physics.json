@@ -4555,5 +4555,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12385",
     "passage": ""
+  },
+  {
+    "id": 12405,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A wire of 5Ω resistance is drawn out so that its new length is two times the original length. If the resistivity of the wire remains the same and the cross-sectional area is halved, the new resistance is",
+    "options": {
+      "A": "40Ω",
+      "B": "20Ω",
+      "C": "10Ω",
+      "D": "5Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given: - Original resistance \\( R_1 = 5 \\, \\Omega \\) - The new length \\( L_2 = 2L_1 \\) (where \\( L_1 \\) is the original length) - The new cross-sectional area \\( A_2 = \\frac{1}{2} A_1 \\) (where \\( A_1 \\) is the original area)\nStep 1: Recall the formula for resistance\nThe resistance \\( R \\) of a wire is given by:\n\\(R = \\rho \\frac{L}{A}\\)\nwhere: - \\( \\rho \\) is the resistivity, - \\( L \\) is the length, - \\( A \\) is the cross-sectional area.\nStep 2: Calculate the new resistance\nThe new resistance \\( R_2 \\) can be calculated using the new length and new area:\n\\(R_2 = \\rho \\frac{L_2}{A_2}\\)\nSubstituting for \\( L_2 \\) and \\( A_2 \\):\n\\(R_2 = \\rho \\frac{2L_1}{\\frac{1}{2}A_1} = \\rho \\frac{2L_1 \\cdot 2}{A_1} = \\rho \\frac{4L_1}{A_1}\\)\nStep 3: Relate \\( R_1 \\) and \\( R_2 \\)\nFrom the original resistance \\( R_1 \\):\n\\(R_1 = \\rho \\frac{L_1}{A_1}\\)\nNow, we can express \\( R_2 \\) in terms of \\( R_1 \\):\n\\(R_2 = 4 \\left(\\rho \\frac{L_1}{A_1}\\right) = 4R_1\\)\nStep 4: Substitute the value of \\( R_1 \\)\nNow substitute \\( R_1 = 5 \\, \\Omega \\):\n\\(R_2 = 4 \\times 5 \\, \\Omega = 20 \\, \\Omega\\)\nTherefore, the  new resistance is: \\(\\boxed{20 \\, \\Omega}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12405",
+    "passage": ""
   }
 ]
