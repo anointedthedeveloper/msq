@@ -8167,5 +8167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9291",
     "passage": ""
+  },
+  {
+    "id": 9292,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Evaluate \\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx\\)",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}} cos x dx = [sinx]^{\\frac{\\pi}{2}} _{\\frac{-\\pi}{2}}\\) =sin\\(\\frac{\\pi}{2} - sin\\frac{-\\pi}{2}\\) = sin90 – sin(-90) = sin90 – sin270 = 1 – (-1) = 1+1 = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9292",
+    "passage": ""
   }
 ]
