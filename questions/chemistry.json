@@ -1131,5 +1131,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/838",
     "passage": ""
+  },
+  {
+    "id": 839,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Nitrogen obtained from the liquefaction of air has a higher density than that obtained from nitrogen containing compounds because the former contains",
+    "options": {
+      "A": "water vapour",
+      "B": "oxygen",
+      "C": "carbon (IV) oxide",
+      "D": "rare gases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is rare gases because when nitrogen is obtained from air, \\(CO_2\\) and \\(O_2\\) are removed by passing air through caustic soda and heated copper turnings respectively. However, the nitrogen obtained this way contains about 1% by volume of rare gases as impurities, these rare gases make it denser than nitrogen obtained from nitrogen compounds like ammonia, etc",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/839",
+    "passage": ""
   }
 ]
