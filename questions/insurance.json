@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49622",
     "passage": ""
+  },
+  {
+    "id": 49630,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A risk considered as sub standard in future can be dealt with by insurers through\n(i) premium loading (ii) double insurance (iii) excess imposition",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I,II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "premium loading; The amount an insurer needs to cover its expenses and generate profit.\nExcess imposition - Your insurer may impose a non-standard excess , because of the number of claims you have had, or other factors which may mean you are more likely to make a claim.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49630",
+    "passage": ""
   }
 ]
