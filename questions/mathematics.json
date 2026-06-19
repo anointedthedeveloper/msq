@@ -10503,5 +10503,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22014",
     "passage": ""
+  },
+  {
+    "id": 22018,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A group of students took a test and the following frequency table shows the scores above\nFind the mode",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "7"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24893484840_wcmath19884.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906615/myschool/mathematics/24893484840_wcmath19884.png",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22018",
+    "passage": ""
   }
 ]
