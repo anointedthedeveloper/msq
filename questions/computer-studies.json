@@ -1803,5 +1803,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61417",
     "passage": ""
+  },
+  {
+    "id": 61418,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The part of the MS Word interface labelled II in Figure 10 is called",
+    "options": {
+      "A": "Read mode",
+      "B": "Print Layout",
+      "C": "Proofing error",
+      "D": "Web layout"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/TzuRu4fx1ZCxzDjtEfJnvYuvfhorV3H1uTHzE6EP.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781894095/myschool/computer-studies/TzuRu4fx1ZCxzDjtEfJnvYuvfhorV3H1uTHzE6EP.jpg",
+    "correct_answer": "B",
+    "explanation": "The print view is located at the bottom-right corner of your document window. Click the view tab and then click the view you want to use, such as print layout or draft view.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61418",
+    "passage": ""
   }
 ]
