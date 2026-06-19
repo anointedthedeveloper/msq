@@ -3022,5 +3022,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11272",
     "passage": ""
+  },
+  {
+    "id": 11273,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the diagram above, if the internal resistance of the cell is zero, the ration of the powers P\n1\nand P\n2\ndissipated by R\n1\nand R\n2",
+    "options": {
+      "A": "R 2 / R 1",
+      "B": "R 1 / R 2",
+      "C": "R 1 +R 2 / R 1",
+      "D": "R 1 +R 2 / R 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12227575617_phy199936.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888633/myschool/physics/12227575617_phy199936.jpg",
+    "correct_answer": "A",
+    "explanation": "2\nV 2\nR\n2\n2\n1\nE 2\nR\n2\nE 2\nR 2\nE 2\nR 2\nE 2\nR 1\nR 2\nE 2\nR 2\nR 1\nP 1\nP 2\nR 2\nR 1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11273",
+    "passage": ""
   }
 ]
