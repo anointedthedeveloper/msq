@@ -2462,5 +2462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71075",
     "passage": ""
+  },
+  {
+    "id": 71076,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceDe toutes ces jupes, c'est je préfère",
+    "options": {
+      "A": "Celle",
+      "B": "celui-la",
+      "C": "ceu-ci",
+      "D": "Celle-là"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "La réponse correcte est A. Celle-là. Dans cette phrase, \"je préfère\" est suivi de \"celle-là\" pour indiquer une préférence parmi plusieurs options.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71076",
+    "passage": ""
   }
 ]
