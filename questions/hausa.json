@@ -5282,5 +5282,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73952",
     "passage": ""
+  },
+  {
+    "id": 73953,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Duk wad'annan dabbobin sun iya ruwa in banda",
+    "options": {
+      "A": "jakuna",
+      "B": "shanu",
+      "C": "agwagi",
+      "D": "dawaki"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Duk wad'annan dabbobin sun iya ruwa in bana ... (All of these animals can swim except ... ). Answer: jakuna (jakuna, meaning horses, cannot swim). The passage mentions that Tanko saved his animals that can swim, such as dawaki (donkeys), shanu (sheep), tumaki (ducks), and agwagi (goats), but not his horses (jakuna) because they cannot swim",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73953",
+    "passage": ""
   }
 ]
