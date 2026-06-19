@@ -2549,5 +2549,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1337",
     "passage": ""
+  },
+  {
+    "id": 1338,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined statement or words: He has a big heart but he inept at following a witty conversion",
+    "options": {
+      "A": "Large",
+      "B": "huge",
+      "C": "warm",
+      "D": "placid",
+      "E": "fragile"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A Big Heart is kind and generous. Warm connotatively means showing affection and kindness",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1338",
+    "passage": ""
   }
 ]
