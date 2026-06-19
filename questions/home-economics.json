@@ -2182,5 +2182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73277",
     "passage": ""
+  },
+  {
+    "id": 73278,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The process of neatening the raw edges of articles is called",
+    "options": {
+      "A": "Seam finishing",
+      "B": "Seam line",
+      "C": "Seam allowance",
+      "D": "Hemming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Seam finishing is the process of neatening raw fabric edges to prevent fraying, using methods such as folding, hemming, or serging.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73278",
+    "passage": ""
   }
 ]
