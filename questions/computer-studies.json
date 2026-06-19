@@ -2836,5 +2836,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61828",
     "passage": ""
+  },
+  {
+    "id": 61829,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of the these is not among the file organization?",
+    "options": {
+      "A": "Indexed",
+      "B": "Parallel",
+      "C": "Random",
+      "D": "Sequential",
+      "E": "Serial"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61829",
+    "passage": ""
   }
 ]
