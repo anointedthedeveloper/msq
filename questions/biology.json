@@ -1098,5 +1098,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/386",
     "passage": ""
+  },
+  {
+    "id": 387,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which one of the following option is not true for mucor of Rhizophus? it",
+    "options": {
+      "A": "Grows on moist dead organic matter",
+      "B": "Is a plant",
+      "C": "Has cellulose cell-wall",
+      "D": "Reproduce asexually by producing a spore",
+      "E": "Has no chlorophyll"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "While technically both statements are false, Option C is often the primary intended answer in many academic contexts because it highlights a defining biochemical difference between fungi and plants.\nKingdom Fungi: Mucor and Rhizopus are fungi, not plants. They belong to the Kingdom Fungi, specifically the class Zygomycetes.\nCell Wall Composition: Unlike plants, which have cell walls made of cellulose, the cell walls of Mucor and Rhizopus are primarily composed of chitin.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/387",
+    "passage": ""
   }
 ]
