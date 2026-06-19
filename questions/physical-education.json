@@ -5919,5 +5919,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76393",
     "passage": ""
+  },
+  {
+    "id": 76407,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the standard height of a badminton net at the center of the court?",
+    "options": {
+      "A": "1.524 meters",
+      "B": "1.55 meters",
+      "C": "1.60 meters",
+      "D": "1.40 meters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Badminton World Federation (BWF) sets the standard net height at 1.524 meters (5 feet) at the center of the court. This height balances offensive and defensive play, ensuring a fair challenge for players to clear or smash the shuttlecock.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76407",
+    "passage": ""
   }
 ]
