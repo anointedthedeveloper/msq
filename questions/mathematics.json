@@ -7327,5 +7327,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9250",
     "passage": ""
+  },
+  {
+    "id": 9251,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A man 40 m from the foot of a tower observes the angle of elevation of the tower to be 30º. Determine the height of the tower.",
+    "options": {
+      "A": "\\(\\frac{40\\sqrt{3}}{3}m\\)",
+      "B": "20 m",
+      "C": "40√3 m",
+      "D": "40 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Tan 30 = \\(\\frac{h}{40}\\) \\(\\frac{1}{\\sqrt{3}}=\\frac{h}{40}\\) h\\(\\sqrt{3}\\) = 40 h = \\(\\frac{40}{\\sqrt{3}}\\) h = \\(\\frac{40}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}}\\) h = \\(\\frac{40\\sqrt{3}}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9251",
+    "passage": ""
   }
 ]
