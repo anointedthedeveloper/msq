@@ -2601,5 +2601,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50432",
     "passage": ""
+  },
+  {
+    "id": 50433,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Find the 3rd term of \\((\\frac{x}{2} - 1)^{8}\\) in descending order of x.",
+    "options": {
+      "A": "\\(\\frac{x^{7}}{8}\\)",
+      "B": "\\(\\frac{7x^{6}}{16}\\)",
+      "C": "\\(\\frac{7x^{5}}{4}\\)",
+      "D": "\\(\\frac{35x^{4}}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\((\\frac{x}{2} - 1)^{8} = ^{8}C_{8}(\\frac{x}{2})^{8}(-1)^{0} + ^{8}C_{7}(\\frac{x}{2})^{7}(-1)^{1} + ^{8}C_{6}(\\frac{x}{2})^{6}(-1)^{2} + ...\\)\n\\(\\text{The third term in the expansion =} ^{8}C_{6}(\\frac{x}{2})^{6}(-1)^{2}\\)\n= \\(\\frac{8!}{6!2!}(\\frac{x^{6}}{64})(1) \\)\n= \\(28 \\times \\frac{x^{6}}{64} = \\frac{7x^{6}}{16}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50433",
+    "passage": ""
   }
 ]
