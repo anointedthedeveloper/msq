@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76294",
     "passage": ""
+  },
+  {
+    "id": 76295,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "is equivalent to",
+    "options": {
+      "A": "16 demisemiquavers",
+      "B": "13 demisemiquavers",
+      "C": "14 demisemiquavers",
+      "D": "12 demisemiquavers"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/vq3bnf0EMAwIWXKg6LFsotRZ5cfgWsD397rkvvNt.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890455/myschool/music/vq3bnf0EMAwIWXKg6LFsotRZ5cfgWsD397rkvvNt.png",
+    "correct_answer": "C",
+    "explanation": "To arrive at 14 , we break the notes down into their smallest values:\nDotted Crotchet: A standard crotchet is equal to 8 demisemiquavers. The dot adds half of that value (+4), totaling 12 demisemiquavers . Quaver: A single quaver is equal to 2 demisemiquavers . The Tie: Since the notes are tied, we add their values together: 12 + 2 = 14",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76295",
+    "passage": ""
   }
 ]
