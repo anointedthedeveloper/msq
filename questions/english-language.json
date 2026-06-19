@@ -3671,5 +3671,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1957",
     "passage": ""
+  },
+  {
+    "id": 1958,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the best option to fill the gaps in the following sentences : I am a student and .... Musa. I left for the university, and .... Musa",
+    "options": {
+      "A": "was, does",
+      "B": "so is, so did",
+      "C": "so was, so does",
+      "D": "he is , he did",
+      "E": "so he is, so he went"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sentence is:\nThis tests the structure of “so + auxiliary + subject” , which is used to show that the same thing is true for another person .\nThe auxiliary verb in the first clause is “am” (from “be”). So we use “is” for Musa:\nThe verb is in the past tense (“left”) , so we use the auxiliary “did” :",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1958",
+    "passage": ""
   }
 ]
