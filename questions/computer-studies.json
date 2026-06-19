@@ -15528,5 +15528,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67775",
     "passage": ""
+  },
+  {
+    "id": 67776,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not an example of graphics packages",
+    "options": {
+      "A": "Freelance",
+      "B": "Quattro pro",
+      "C": "Corel draw",
+      "D": "Havard graphics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Quattro Pro is not a graphics package. It is a spreadsheet program developed by Borland and now managed by Corel. It provides tools for data management and analysis. Havard Graphics, Freelance, and Corel Draw are examples of graphics packages. They provide tools for creating and editing images, drawings, and illustrations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67776",
+    "passage": ""
   }
 ]
