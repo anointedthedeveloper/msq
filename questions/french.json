@@ -1918,5 +1918,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48203",
     "passage": ""
+  },
+  {
+    "id": 48204,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Ce quit est commun aux deux types d'opération est",
+    "options": {
+      "A": "qu'ils se font suivre d'une autre opûration",
+      "C": "qu'ils sont parties",
+      "D": "qu'ils cherchent à envlever toutes les traces du cancer"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xqKJ2fzSBQUyQojS8c68eb9F4trN3lC9IaK5u8M7.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898417/myschool/french/xqKJ2fzSBQUyQojS8c68eb9F4trN3lC9IaK5u8M7.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48204",
+    "passage": ""
   }
 ]
