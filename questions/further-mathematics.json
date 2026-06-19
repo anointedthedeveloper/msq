@@ -103,5 +103,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50140",
     "passage": ""
+  },
+  {
+    "id": 50156,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The function f: x \\(\\to \\sqrt{4 - 2x}\\) is defined on the set of real numbers R. Find the domain of f.",
+    "options": {
+      "A": "\\(x<2\\)",
+      "B": "\\(x \\leq 2\\)",
+      "C": "\\(x = 2\\)",
+      "D": "\\(x > -2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(f : x \\to \\sqrt{4 -2x}\\) defined on the set of real numbers, R , which has range from \\((-\\infty, \\infty)\\) but because of the root sign, it is defined from \\([0, \\infty)\\).\nThis is because the root of numbers only has real number values from 0 and upwards.\n\\(\\sqrt{4-2x} \\geq 0 \\implies 4-2x \\geq 0\\)\n\\(-2x \\geq -4; x \\leq 2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50156",
+    "passage": ""
+  },
+  {
+    "id": 50158,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given that \\(f(x) = \\frac{x+1}{2}\\), find \\(f^{1}(-2)\\).",
+    "options": {
+      "A": "-5",
+      "B": "-3",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let \\(f(x) = y\\), then we have\n\\(y = \\frac{x+1}{2} \\implies 2y = x+1; x = 2y-1\\)\nLet \\(f^{1}(x) = x; x = 2y-1\\), replacing y with x,\n\\(f^{1}(x) = 2x - 1 \\implies f^{1}(-2) = 2(-2) -1= -5\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50158",
+    "passage": ""
   }
 ]
