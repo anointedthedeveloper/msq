@@ -14476,5 +14476,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64850",
     "passage": ""
+  },
+  {
+    "id": 64852,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Use the QBASIC program below to answer question below\n10 REM Program to calculate product of numbers\n20 CLS\n30 INPUT A\n40 INPUT B\n50 LET PRODUCT=A*B\n60 PRINT PRODUCT\n70 END\nThe number 10, 20,30, 40, 50, 60 and 70 as stated in the program indicate",
+    "options": {
+      "A": "bullet numbering",
+      "B": "codes",
+      "C": "bullet numbering",
+      "D": "line number"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The numbers 10, 20, 30, 40, 50, 60, and 70 in the Q BASIC program represent line numbers. In Q BASIC, each line of code is identified by a line number. The line numbers help navigate the program, jump to specific lines, and edit the code.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64852",
+    "passage": ""
   }
 ]
