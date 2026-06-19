@@ -5437,5 +5437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12894",
     "passage": ""
+  },
+  {
+    "id": 12895,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "As the pressure of a fluid increases, its viscosity",
+    "options": {
+      "A": "decreases",
+      "B": "increases",
+      "C": "increases then decreases",
+      "D": "remains constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "With an increase in pressure, the viscosity of liquids except water increases while that of gases is practically independent of pressure.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12895",
+    "passage": ""
   }
 ]
