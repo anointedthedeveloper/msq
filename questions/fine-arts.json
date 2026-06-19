@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75224",
     "passage": ""
+  },
+  {
+    "id": 75226,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which craft involves carving and hollowing wood to create utensils or sculptures?",
+    "options": {
+      "A": "Wood painting",
+      "B": "Wood carving",
+      "C": "Wood turning",
+      "D": "Wood burning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Wood carving shapes wood using tools like chisels and knives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75226",
+    "passage": ""
   }
 ]
