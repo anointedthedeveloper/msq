@@ -1845,5 +1845,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/668",
     "passage": ""
+  },
+  {
+    "id": 676,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which is the most liquid of the following financial assets held by an individual?",
+    "options": {
+      "A": "Outstanding balance on the current account of a commercial bank",
+      "B": "A credit balance on a savings account",
+      "C": "A crossed postal order",
+      "D": "An insurance policy",
+      "E": "All of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/676",
+    "passage": ""
   }
 ]
