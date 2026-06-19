@@ -4009,5 +4009,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12264",
     "passage": ""
+  },
+  {
+    "id": 12265,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "On top of a spiral spring of the force constant 500Nm\n-1\nis placed a mass of 5 x 10\n-3\nkg. If the spring is compressed downwards by a length of 0.02m and then released, calculate the height to which the mass is projected",
+    "options": {
+      "A": "8 m",
+      "B": "4 m",
+      "C": "2 m",
+      "D": "1 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "-1\n-3\n-2\n1\n2\n2\n1\n2\n2\n-3\n1\n2\n2\n-3\n-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12265",
+    "passage": ""
   }
 ]
