@@ -19188,5 +19188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72594",
     "passage": ""
+  },
+  {
+    "id": 72595,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "In using the slide rule, multiplication that goes off the scale can be corrected by the following approaches except",
+    "options": {
+      "A": "resetting the slide.",
+      "B": "using circular slide rule.",
+      "C": "using flat scales.",
+      "D": "using folded scales."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A: (resetting the slide) Resetting the slide does not correct multiplication that goes off the scale but rather, it signifies the start of a new calculation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72595",
+    "passage": ""
   }
 ]
