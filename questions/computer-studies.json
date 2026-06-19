@@ -20675,5 +20675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76865",
     "passage": ""
+  },
+  {
+    "id": 76866,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The part labeled II represents?",
+    "options": {
+      "A": "decision symbol",
+      "B": "stop/end symbol",
+      "C": "read/write symbol",
+      "D": "process symbol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/BOnpIfBpE7XXr4KFkh75u2mqA4wJlMNDQ58zmPS7.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905158/myschool/computer-studies/BOnpIfBpE7XXr4KFkh75u2mqA4wJlMNDQ58zmPS7.png",
+    "correct_answer": "D",
+    "explanation": "The symbol labeled 'II' within the flowchart represents a process step, indicating an action or operation that is performed within the process. This symbol is typically used to represent tasks, activities, or decision points.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76866",
+    "passage": ""
   }
 ]
