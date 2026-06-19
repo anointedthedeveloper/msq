@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1506",
     "passage": ""
+  },
+  {
+    "id": 1507,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The resultant of two forces acting on an object is maximum if the angle between them is",
+    "options": {
+      "A": "45°",
+      "B": "0°",
+      "C": "90°",
+      "D": "180°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The resultant of two forces acting on an object is maximum when the angle between them is zero, during which the two forces are parallel and pointing in the same direction\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1507",
+    "passage": ""
   }
 ]
