@@ -2916,5 +2916,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1578",
     "passage": ""
+  },
+  {
+    "id": 1579,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "An oxide X O\\(_2\\) has a vapour density of 32. What is the atomic mass of X ?",
+    "options": {
+      "A": "32",
+      "B": "20",
+      "C": "14",
+      "D": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Relative molecular mass of X O\\(_2\\)  = 2 × vapour density\nRelative molecular mass → (2 x 32) = 64 Atomic mass of X:\nX + [16 x 2] = 64 X = 64 - 32 = 32\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1579",
+    "passage": ""
   }
 ]
