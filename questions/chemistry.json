@@ -2538,5 +2538,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1560",
     "passage": ""
+  },
+  {
+    "id": 1561,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence in them of",
+    "options": {
+      "A": "carbon (IV) oxide",
+      "B": "carbon (II) oxide",
+      "C": "soda",
+      "D": "glucose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The refreshing and characteristic taste of soda water and other soft drinks is as a result of the presence of carbon(IV)oxide. Carbon(iv) oxide does not just act as a preservative in carbonated drinks but also gives the refreshing taste.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1561",
+    "passage": ""
   }
 ]
