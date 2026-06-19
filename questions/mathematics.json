@@ -10459,5 +10459,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22008",
     "passage": ""
+  },
+  {
+    "id": 22012,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Simplify 36\\(^\\frac{1}{2}\\) x 64\\(^{-\\frac{1}{3}}\\) x 5\\(^0\\)",
+    "options": {
+      "A": "0",
+      "B": "1\\24",
+      "C": "2/3",
+      "D": "1 1 / 2",
+      "E": "7 1 / 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "36\\(^\\frac{1}{2}\\) x 64\\(^{-\\frac{1}{3}}\\) x 5\\(^0\\)\n= \\(6 \\times \\frac{1}{4} \\times 1\\)\n= \\(1\\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22012",
+    "passage": ""
   }
 ]
