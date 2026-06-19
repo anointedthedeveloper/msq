@@ -3043,5 +3043,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68295",
     "passage": ""
+  },
+  {
+    "id": 68296,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following part of human skeleton forms the helmet that protect the human brain",
+    "options": {
+      "A": "Cranium",
+      "B": "Fibula",
+      "C": "Tibia",
+      "D": "Suture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Cranium is the part of the human skeleton that forms a protective helmet for the human brain. It is made up of eight bones that enclose the brain to protect it from impact. The other options, Tibia and Fibula, are bones found in the leg, while Suture is the term for the type of joint found between the bones in the skull.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68296",
+    "passage": ""
   }
 ]
