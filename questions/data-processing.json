@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57433",
     "passage": ""
+  },
+  {
+    "id": 57438,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "One of the advantages of a parallel database is",
+    "options": {
+      "A": "data sharing",
+      "B": "data security",
+      "C": "faster processing of data",
+      "D": "uniform memory access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A parallel database is designed to operate across multiple processors or nodes simultaneously. Its key advantage is parallel query execution, which breaks large tasks—such as complex queries or data analysis—into smaller parts that run concurrently on multiple CPUs, disks, or servers. This approach significantly speeds up data processing, making it especially effective for large-scale and big data workloads.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57438",
+    "passage": ""
   }
 ]
