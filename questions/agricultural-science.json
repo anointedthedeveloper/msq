@@ -2418,5 +2418,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16017",
     "passage": ""
+  },
+  {
+    "id": 16018,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following is not a factor affecting fertility in farm animals?",
+    "options": {
+      "A": "age",
+      "B": "ovulation rate",
+      "C": "number of ova fertilized",
+      "D": "number of offspring produced",
+      "E": "lactation rate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16018",
+    "passage": ""
   }
 ]
