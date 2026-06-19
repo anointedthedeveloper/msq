@@ -7759,5 +7759,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76195",
     "passage": ""
+  },
+  {
+    "id": 76196,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Menene aikin bako a adabin Hausa?",
+    "options": {
+      "A": "Fadakar da yara cikin wasa",
+      "B": "Kara yawan waƙoƙi",
+      "C": "Samun labari na gaskiya",
+      "D": "Taimakawa wajen cin abinci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Bako (riddle) is a form of playful oral literature aimed at educating children indirectly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76196",
+    "passage": ""
   }
 ]
