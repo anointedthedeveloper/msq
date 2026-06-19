@@ -3902,5 +3902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73979",
     "passage": ""
+  },
+  {
+    "id": 73980,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Write 20 in Igbo.",
+    "options": {
+      "A": "abụọ",
+      "B": "iri abụọ",
+      "C": "iri",
+      "D": "iri abụọ na efu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Iri abụọ. 20 is written as \"iri abụọ\" in Igbo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73980",
+    "passage": ""
   }
 ]
