@@ -14749,5 +14749,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64899",
     "passage": ""
+  },
+  {
+    "id": 64921,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The part of the Corel Draw window labelled II in the diagram above is called?",
+    "options": {
+      "A": "zoom in",
+      "B": "pan",
+      "C": "zoom out",
+      "D": "zoom to fit"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ugD1QmPFEjoTDBICwuYAZYv43JOAc7SSfo7EyDMt.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903894/myschool/computer-studies/ugD1QmPFEjoTDBICwuYAZYv43JOAc7SSfo7EyDMt.jpg",
+    "correct_answer": "C",
+    "explanation": "The part of the Corel Draw window labeled II is the ZOOM OUT(command).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64921",
+    "passage": ""
   }
 ]
