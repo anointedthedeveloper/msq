@@ -12495,5 +12495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7285",
     "passage": ""
+  },
+  {
+    "id": 7287,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The traditional way of paying cooperative dividend is to distribute profit in proportional to members'?",
+    "options": {
+      "A": "subscriptions",
+      "B": "total savings",
+      "C": "volume of purchase",
+      "D": "contributions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Dividends are paid in proportion to the number of securities that an investor holds in a particular company. For instance, an investor with 1,000,000 worth of securities will most definitely get paid more dividends than someone with 800,000 worth of investments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7287",
+    "passage": ""
   }
 ]
