@@ -1417,5 +1417,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57725",
     "passage": ""
+  },
+  {
+    "id": 57726,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "In MS PowerPoint presentation, the special effects that control the order in which objects enter a slide and their manner of appearance is",
+    "options": {
+      "A": "Transition",
+      "B": "Media",
+      "C": "ClipArt",
+      "D": "Animation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An animation is a special effect that applies to a single element on a slide such as text, a shape, an image, and so on. While A transition is the special effect that occurs when you exit one slide and move on to the next during a presentation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57726",
+    "passage": ""
   }
 ]
