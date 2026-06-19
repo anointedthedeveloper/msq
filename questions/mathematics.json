@@ -13339,5 +13339,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22687",
     "passage": ""
+  },
+  {
+    "id": 22690,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the sketches above gives a correct method for constructed an angle of 120\no\nat the point P?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "I, II and III"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20749784595_wcmath199039.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908519/myschool/mathematics/20749784595_wcmath199039.jpg",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22690",
+    "passage": ""
+  },
+  {
+    "id": 22691,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Use mathematical table to evaluate (cos40° - sin30°)",
+    "options": {
+      "A": "-0.2660",
+      "B": "-0.0266",
+      "C": "0.0266",
+      "D": "0.2660",
+      "E": "1.5320"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(cos 40° - sin 30°)\n= 0.7660 - 0.5\n= 0.2660",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22691",
+    "passage": ""
   }
 ]
