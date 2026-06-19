@@ -20070,5 +20070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72689",
     "passage": ""
+  },
+  {
+    "id": 72690,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Set of characters used to authenticate a computer user is called",
+    "options": {
+      "A": "encoder.",
+      "B": "binary code.",
+      "C": "password.",
+      "D": "barcode."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Password is a set of characters used to authenticate a computer user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72690",
+    "passage": ""
   }
 ]
