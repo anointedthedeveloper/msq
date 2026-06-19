@@ -14632,5 +14632,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12924",
     "passage": ""
+  },
+  {
+    "id": 12932,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": ".0 dm\n3\nof air containing H\n2\nS as an impurity was passed through a solution of Pb(NO\n3\n)\n2\nuntil all the H\n2\nS had reacted. The precipitate of PbS was found to weigh 5.02 g. According to the equation:\nPb(NO\n3\n)\n2\n+ H\n2\nS → PbS + 2HNO\n3\nthe percentage by volume of hydrogen sulphide in the air is?\n(Pb = 207, S = 32, GMV at s.t.p = 22.4dm\n3\n)",
+    "options": {
+      "A": "50.2",
+      "B": "47.0",
+      "C": "4.70",
+      "D": "0.47"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "3\n2\n2\n3\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12932",
+    "passage": ""
   }
 ]
