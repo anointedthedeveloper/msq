@@ -9902,5 +9902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77098",
     "passage": ""
+  },
+  {
+    "id": 77099,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The function of the history link in the standard navigation bar of Internet Explorer is to",
+    "options": {
+      "A": "display a list of previously viewed websites",
+      "B": "go to the homepage of the currently viewed website",
+      "C": "display a list of previously bookmarked website",
+      "D": "move forward to a webpage viewed before using the back button"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "History button: The history function allows you to view and select Web pages you have visited within the last 20 days. You can sort your items by clicking on the black triangle to the right of the word View. You can sort by size, date, number of visits, and the order you visited today.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77099",
+    "passage": ""
   }
 ]
