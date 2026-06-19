@@ -2440,5 +2440,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61759",
     "passage": ""
+  },
+  {
+    "id": 61760,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of these is not a logic comparison symbol in computer studies ?",
+    "options": {
+      "A": "=",
+      "B": "<",
+      "C": ">",
+      "D": "<=",
+      "E": "^"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "There are six main logic comparison symbols in computer studies: equal to, not equal to, greater than, greater than or equal to, less than, and less than or equal to. ^ is not a logic comparison symbol.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61760",
+    "passage": ""
   }
 ]
