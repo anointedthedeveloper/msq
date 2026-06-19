@@ -1629,5 +1629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66516",
     "passage": ""
+  },
+  {
+    "id": 66519,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A record of the proceedings of a meeting that is circulated to members is the",
+    "options": {
+      "A": "quorum",
+      "B": "agenda",
+      "C": "minutes",
+      "D": "motion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A meeting agenda is a list of activities that participants are hoping to accomplish during their meeting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66519",
+    "passage": ""
   }
 ]
