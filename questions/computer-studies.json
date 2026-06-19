@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60234",
     "passage": ""
+  },
+  {
+    "id": 60235,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following software can be used for graphic production?",
+    "options": {
+      "A": "DOS Editor",
+      "B": "PC Writer",
+      "C": "Coreldraw",
+      "D": "Acrobat Reader"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60235",
+    "passage": ""
   }
 ]
