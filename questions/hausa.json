@@ -7885,5 +7885,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76202",
     "passage": ""
+  },
+  {
+    "id": 76203,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wani tsarin waƙa ke nuna maimaitawa don jaddada magana?",
+    "options": {
+      "A": "Salo na boye magana",
+      "B": "Wakar aure",
+      "C": "Salo na maimaitawa",
+      "D": "Gajeriyar waka"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Maimaitawa (repetition) is a common poetic device in Hausa oral traditions to emphasise meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76203",
+    "passage": ""
   }
 ]
