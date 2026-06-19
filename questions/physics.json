@@ -4618,5 +4618,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12408",
     "passage": ""
+  },
+  {
+    "id": 12410,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "I It retains its magnetic much longer than steel. II It is more easily magnetized than steel III It is more easily demagnetized than steel IV It produces a stronger magnet than steel Which combination of the above makes iron preferable to steel in the making of electromagnets?",
+    "options": {
+      "A": "I and II only",
+      "B": "II and III only",
+      "C": "I, III, and IV only",
+      "D": "II, III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Iron (soft iron) is usually preferred to steel in the making of electromagnets because it is more easily magnetized and equally more easily demagnetized than [II, III and IV]",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12410",
+    "passage": ""
   }
 ]
