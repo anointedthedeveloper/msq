@@ -3085,5 +3085,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5904",
     "passage": ""
+  },
+  {
+    "id": 5905,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A woman buys 270 oranges for N1800.00 and sells at 5 for N40.00. What is her profit?",
+    "options": {
+      "A": "N2,160.00",
+      "B": "N1, 620.00",
+      "C": "N630.00",
+      "D": "N360.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "C.P = N1800 S.P = (270/5) x 40 = N2160.00 Profit = S.P - C.P = N2160 - N1800 = N360.00\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5905",
+    "passage": ""
   }
 ]
