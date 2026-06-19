@@ -152,5 +152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/142",
     "passage": ""
+  },
+  {
+    "id": 143,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which is an example of an invisible item in the trade Account of Ghana?",
+    "options": {
+      "A": "Export of Cocoa from Ghana",
+      "B": "Import of oil from Nigeria",
+      "C": "A gift of a Peugout 504 by a firm in Nigeria to a firm in Ghana",
+      "D": "Payment for shipping and insurance by a Ghanaian company to companies outside Ghana",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Invisible trade includes those items that can not be seen or touched. That is the exchange of intangible goods such as services (receipts and payments arising from activities such as customer service or shipping), income from foreign investment in the form of interest, profits, and dividends; private or government transfers of monies from one country to another, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/143",
+    "passage": ""
   }
 ]
