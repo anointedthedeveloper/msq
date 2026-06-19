@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76289",
     "passage": ""
+  },
+  {
+    "id": 76290,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The classical blues usually consist of",
+    "options": {
+      "A": "8 bars",
+      "B": "16 bars",
+      "C": "32 bars",
+      "D": "12 bars"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The classical blues usually consist of 12 bars . The 12-bar blues is one of the most prominent chord progressions in popular music, featuring a distinctive form in lyrics, phrase, chord structure, and duration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76290",
+    "passage": ""
   }
 ]
