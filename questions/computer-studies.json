@@ -17019,5 +17019,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69817",
     "passage": ""
+  },
+  {
+    "id": 69818,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A wait state of zero in hardware means the",
+    "options": {
+      "A": "memory is faster than the processor in terms of speed.",
+      "B": "processor speed is higher than that of the memory.",
+      "C": "processor speed is lower than that of the memory.",
+      "D": "processor and the memory are equally matched in speed."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A wait state of zero in hardware means that the processor and the memory are equally matched in speed. In computing, a wait state refers to the delay experienced by a computer processor when accessing memory. A wait state of zero means that there is no delay, implying that the processor and memory are operating at the same speed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69818",
+    "passage": ""
   }
 ]
