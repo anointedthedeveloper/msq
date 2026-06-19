@@ -1278,5 +1278,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61390",
     "passage": ""
+  },
+  {
+    "id": 61391,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use the logic gate in Fig 2 to answer question 12.\nWhich of the logic gates will give an output opposite to the input state?",
+    "options": {
+      "A": "X",
+      "B": "Y",
+      "C": "Z",
+      "D": "X and Y"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/QMie2irfdvkBpf448SPGKtwJgCKKPJnZOYqb6QAg.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781893917/myschool/computer-studies/QMie2irfdvkBpf448SPGKtwJgCKKPJnZOYqb6QAg.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61391",
+    "passage": ""
   }
 ]
