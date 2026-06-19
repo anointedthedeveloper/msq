@@ -2915,5 +2915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49947",
     "passage": ""
+  },
+  {
+    "id": 49949,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A life policy where the insured cannot make claim himself because the payment cannot be made in his life time is",
+    "options": {
+      "A": "whole life policy",
+      "B": "annuity policy",
+      "C": "key-man policy",
+      "D": "endowment policy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "whole life policy is a life insurance policy which is guaranteed to remain in force for the insured's entire lifetime, provided required premiums are paid, or to the maturity date. it can only be cashed after the death of the insured.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49949",
+    "passage": ""
   }
 ]
