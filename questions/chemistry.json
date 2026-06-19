@@ -14485,5 +14485,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12907",
     "passage": ""
+  },
+  {
+    "id": 12909,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "The volume occupies by 1.58g of a gas at s.t.p is 500cm\n3\n. What is the relative molecular mass of the gas?\n(G.M.V at s.t.p = 22.40dm\n3\n)",
+    "options": {
+      "A": "28",
+      "B": "32",
+      "C": "44",
+      "D": "71"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "3\n3\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12909",
+    "passage": ""
   }
 ]
