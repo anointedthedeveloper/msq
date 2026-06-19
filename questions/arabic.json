@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75271",
     "passage": ""
+  },
+  {
+    "id": 75273,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\".ترجم إلى الإنجليزية: \"أنا أحب مدرستي",
+    "options": {
+      "A": "I love my teacher",
+      "B": "I love my school",
+      "C": "I am going to school",
+      "D": "I read in my class"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ". means \"I love my school\" and it expresses affection \"أحب مدرستي\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75273",
+    "passage": ""
   }
 ]
