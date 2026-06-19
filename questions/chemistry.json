@@ -6738,5 +6738,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2953",
     "passage": ""
+  },
+  {
+    "id": 2954,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Which of the following ions require the largest quantity of electricity for discharge at an electrode?",
+    "options": {
+      "A": "4.0 moles of Cl -",
+      "B": "3.0 moles of Na +",
+      "C": "2.5 moles of Cu 2+",
+      "D": "2.0 moles of Al 3+"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To get the quantity of electricity for discharge at an electrode for each ions, we multiply the number of electrons by the number of moles, since 1 mole = 1F\n4.0 moles of Cl\\(^-\\)  → 1e\\(^-\\) x  4 = 4F 3.0 moles of Na\\(^+\\)  → 3e\\(^-\\) x 1 = 3F 2.5 moles of Cu\\(^{2+}\\) → 2e\\(^-\\) x 2.5 = 5F 2.0 moles of Al\\(^{3+}\\)  → 3e\\(^-\\) x 2  = 6F.  The Ions that require the largest quantity of electricity for discharge at an electrode is the Al\\(^{3+}\\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2954",
+    "passage": ""
   }
 ]
