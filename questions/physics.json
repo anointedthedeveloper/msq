@@ -8755,5 +8755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14146",
     "passage": ""
+  },
+  {
+    "id": 14150,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "I. Density of the liquid. II. Acceleration due to gravity. III. Type of container of the liquid. IV. The constituents of the liquid. which of the above conditions will NOT affect the pressure of fluid?",
+    "options": {
+      "A": "I and III only",
+      "B": "II and III only",
+      "C": "III and IV only",
+      "D": "I and II only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "pressure in fluid is given by P = hpg. ∴ fluid pressure depends on height of liquid column, h, density of liquid p and acceleration of free fall g. it is therefore independent of type of container and constituents of the liquid.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14150",
+    "passage": ""
   }
 ]
