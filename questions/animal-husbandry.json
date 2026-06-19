@@ -605,5 +605,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49613",
     "passage": ""
+  },
+  {
+    "id": 49616,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A disadvantage of prolonged inbreeding in farm animals it that it leads to",
+    "options": {
+      "A": "reduced vigour among offspring",
+      "B": "increased vigour among offspring",
+      "C": "production of pure breeds",
+      "D": "production of animals with uniform characteristics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The genetic diversity or variability is reduced with increase in inbreeding . Prolonged inbreeding leads to I nbreeding depression which is the reduced biological fitness in a given population.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49616",
+    "passage": ""
   }
 ]
