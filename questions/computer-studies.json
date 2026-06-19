@@ -17271,5 +17271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69829",
     "passage": ""
+  },
+  {
+    "id": 69830,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The process of converting data into information is known as data",
+    "options": {
+      "A": "collation",
+      "B": "processing",
+      "C": "analysis",
+      "D": "collection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The process of converting data into information is known as data processing. Data processing involves collecting, manipulating, and storing data to produce information that is meaningful. Data analysis is a part of data processing where data is inspected, cleaned, and modeled to discover useful information. Data collection is the process of gathering and measuring data, information or any variables of interest in a standardized and established manner that enables the collector to answer or test hypothesis and evaluate outcomes of the particular collection. Collation is the assembly of written information into a standard order. None of these options fully encapsulate the process of converting data into information like data processing does",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69830",
+    "passage": ""
   }
 ]
