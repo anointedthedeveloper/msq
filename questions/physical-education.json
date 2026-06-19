@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64237",
     "passage": ""
+  },
+  {
+    "id": 64240,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following equipment are used to play badminton game?",
+    "options": {
+      "A": "Bat and ball",
+      "B": "Bat and shuttle",
+      "C": "Racket and shuttle",
+      "D": "Racket and ball"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Badminton involves using a racket to hit a shuttlecock across a net.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64240",
+    "passage": ""
   }
 ]
