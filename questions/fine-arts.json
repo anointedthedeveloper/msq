@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75233",
     "passage": ""
+  },
+  {
+    "id": 75235,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which type of balance is achieved when both sides of a composition are identical?",
+    "options": {
+      "A": "Symmetrical",
+      "B": "Vertical",
+      "C": "Radial",
+      "D": "Asymmetrical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Symmetrical balance uses mirror-like arrangements to create equilibrium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75235",
+    "passage": ""
   }
 ]
