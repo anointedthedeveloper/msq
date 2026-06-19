@@ -8188,5 +8188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3294",
     "passage": ""
+  },
+  {
+    "id": 3295,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Which of the following results in the fall of acid rain?",
+    "options": {
+      "A": "Oxides of lead",
+      "B": "Particulate matter",
+      "C": "Oxides of sulphur",
+      "D": "Gaseous hydrocarbon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is C. Oxides of sulphur.\nAcid rain is formed when pollutants in the atmosphere, such as sulphur dioxide (SO₂) and nitrogen oxides (NOx), react with water, oxygen, and other chemicals to form acidic compounds. These compounds can then fall to the ground as precipitation, resulting in acid rain.\nSulphur dioxide (SO₂) is a major contributor to acid rain. When SO₂ is released into the atmosphere, it can react with water and oxygen to form sulphuric acid (H₂SO₄), which is a strong acid:\nSO₂ + H₂O + 1/2O₂ → H₂SO₄\nThe other options are not directly responsible for acid rain:\nA. Oxides of lead are toxic pollutants, but they don't contribute to acid rain.\nB. Particulate matter can be a pollutant, but it's not directly involved in acid rain formation.\nD. Gaseous hydrocarbons can contribute to smog and other air quality issues, but they're not a primary cause of acid rain.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3295",
+    "passage": ""
   }
 ]
