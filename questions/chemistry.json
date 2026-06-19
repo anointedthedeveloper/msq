@@ -9847,5 +9847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4024",
     "passage": ""
+  },
+  {
+    "id": 4025,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the periodic table, the electrical and thermal conductivities are properties of elements that",
+    "options": {
+      "A": "decrease across the period and increase down the group",
+      "B": "increase across the period and decrease down the group",
+      "C": "decrease across the period and down the group`",
+      "D": "increase acrosss the period and down the group"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the periodic table, electrical and thermal conductivities of elements decrease across the period and increase down the group.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4025",
+    "passage": ""
   }
 ]
