@@ -9112,5 +9112,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14237",
     "passage": ""
+  },
+  {
+    "id": 14244,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The ability of the human eye to focus object on the retina is referred to as the power of?",
+    "options": {
+      "A": "interference",
+      "B": "diffraction",
+      "C": "accomodation",
+      "D": "superposition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Accommodation is the adjustment of the optics of the eye to keep an object in focus on the retina as its distance from the eye varies.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14244",
+    "passage": ""
   }
 ]
