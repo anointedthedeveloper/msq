@@ -20007,5 +20007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72670",
     "passage": ""
+  },
+  {
+    "id": 72671,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "One example of a file containing reference data which is usually altered is",
+    "options": {
+      "A": "brand name.",
+      "B": "payroll.",
+      "C": "price list.",
+      "D": "stock."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Stock file contains reference data (e.g. quantity of inventory) that is frequently altered to reflect changes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72671",
+    "passage": ""
   }
 ]
