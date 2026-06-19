@@ -4955,5 +4955,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1978",
     "passage": ""
+  },
+  {
+    "id": 1979,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An invoice can be described as a",
+    "options": {
+      "A": "contractual agreement for the sale of goods",
+      "B": "document specifying quantity, description, prices and total value of purchase",
+      "C": "receipt containing necessary information about the goods",
+      "D": "letter specifying the contractual sales of goods between two parties"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1979",
+    "passage": ""
   }
 ]
