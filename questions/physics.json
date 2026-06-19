@@ -4702,5 +4702,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12748",
     "passage": ""
+  },
+  {
+    "id": 12749,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The count rate of a radioactive material is 800 count/min. If the half-life of the material is 4 days, what would the count rate be in 16 days later",
+    "options": {
+      "A": "200 count / min",
+      "B": "100 count / min",
+      "C": "50 count / min",
+      "D": "25 count / min"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "1\n2\n4\n1\n16\n1\n16\n800\n1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12749",
+    "passage": ""
   }
 ]
