@@ -5079,5 +5079,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70839",
     "passage": ""
+  },
+  {
+    "id": 70840,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the importance of using sunscreen daily?",
+    "options": {
+      "A": "It is not necessary unless at the beach",
+      "B": "It darkens the skin",
+      "C": "It causes the skin to age faster",
+      "D": "It prevents skin damage from UV rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sunscreen protects the skin from harmful UV rays, reducing the risk of sunburn and skin cancer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70840",
+    "passage": ""
   }
 ]
