@@ -6821,5 +6821,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76512",
     "passage": ""
+  },
+  {
+    "id": 76513,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "A student misuses an opioid painkiller by taking a higher dose than prescribed. What is a serious and immediate effect this can have on the body?",
+    "options": {
+      "A": "A sudden increase in muscle strength.",
+      "B": "Respiratory depression.",
+      "C": "Improved coordination and balance.",
+      "D": "An increase in heart rate and energy."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Opioid painkillers, such as morphine, oxycodone, or fentanyl, work by binding to specific receptors in the brain and spinal cord to reduce pain perception. However, when taken in higher doses than prescribed, they not only block pain but also depress the central nervous system (CNS), which controls vital involuntary actions such as breathing. This can lead to respiratory depression, a dangerous condition where breathing becomes extremely slow or even stops entirely, reducing oxygen supply to the body and brain. If not treated promptly, this can result in brain damage, coma, or death. Unlike mild side effects like drowsiness or constipation, respiratory depression is an acute, life-threatening emergency that is a major cause of death in opioid overdoses. This is why medical professionals strictly control dosage and warn against misuse, as the body's tolerance to opioids develops over time but tolerance to their breathing suppressing effects does not grow at the same rate, greatly increasing the overdose risk.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76513",
+    "passage": ""
   }
 ]
