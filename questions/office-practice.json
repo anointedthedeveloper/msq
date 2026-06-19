@@ -2091,5 +2091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66572",
     "passage": ""
+  },
+  {
+    "id": 66574,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One of the functions of an office is to safeguard",
+    "options": {
+      "A": "information",
+      "B": "assets",
+      "C": "payment vouchers",
+      "D": "visitors book"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The function of an office is to store information, keep information etc",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66574",
+    "passage": ""
   }
 ]
