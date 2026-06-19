@@ -2875,5 +2875,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11143",
     "passage": ""
+  },
+  {
+    "id": 11171,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The diagram above shows a lift pump with valves at P and Q. During a downward stroke of the piston",
+    "options": {
+      "A": "both valves are open",
+      "B": "P is open while Q is closed",
+      "C": "P is closed while Q is open",
+      "D": "Both valves are closed"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14943572765_phy199912.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888533/myschool/physics/14943572765_phy199912.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11171",
+    "passage": ""
   }
 ]
