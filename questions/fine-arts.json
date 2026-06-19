@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48027",
     "passage": ""
+  },
+  {
+    "id": 48028,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Varninsh is essential for the protection of",
+    "options": {
+      "A": "water colour painting",
+      "B": "pastel painting",
+      "C": "oil painting",
+      "D": "gouache painting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48028",
+    "passage": ""
   }
 ]
