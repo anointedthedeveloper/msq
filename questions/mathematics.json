@@ -5143,5 +5143,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8426",
     "passage": ""
+  },
+  {
+    "id": 8427,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the curved surface area of a cone with circular base diameter 10 cm and height 12 cm",
+    "options": {
+      "A": "25 πcm 2",
+      "B": "65 πcm 2",
+      "C": "120 πcm 2",
+      "D": "156 πcm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8427",
+    "passage": ""
   }
 ]
