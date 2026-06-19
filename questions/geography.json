@@ -4231,5 +4231,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6667",
     "passage": ""
+  },
+  {
+    "id": 6677,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "which of these sea routes carries the heaviest traffic?",
+    "options": {
+      "A": "the North Atlantic routes between europe and North America",
+      "B": "the Suez Canal route between Europe and Asia",
+      "C": "the Cape route between Europe and ASIA",
+      "D": "the Panama Canal route between Europe and ASIA",
+      "E": "the Atlantic route between North America and West Africa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6677",
+    "passage": ""
   }
 ]
