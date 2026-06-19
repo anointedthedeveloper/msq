@@ -1320,5 +1320,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1389",
     "passage": ""
+  },
+  {
+    "id": 1391,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The solubility product of Cu(IO3)2 is 1.08 * 10-7. Assuming that neither ions react appreciable with water to form H+ and OH-, what is the solubility of this salt?",
+    "options": {
+      "A": "2.7 * 10 -8 mol dm -3",
+      "B": "9.0 * 10 -8 mol dm -3",
+      "C": "3.0 * 10 -3 mol dm -3",
+      "D": "9.0 * 10 -3 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "On dissociation,    Cu(IO\\(_3\\))\\(_2\\)  ⇌ Cu\\(^{2+}\\)(aq) + 2IO\\(_3\\)\\(^-\\)(aq).\nSolubility product constant = Ksp\nThe formula is : Ksp =  [Cu\\(^{2+}\\)] [IO\\(_3\\)\\(^-\\)]\\(^2\\)\nLet the concentrations of Cu\\(^{2+}\\) and IO\\(_3\\)\\(^-\\)  be expressed as d.\n[Cu\\(^{2+}\\)] = d  ; [ IO\\(_3\\)\\(^-\\)] = 2d (because 2IO\\(_3\\)\\(^-\\) )\nSubstituting these expressions into the Ksp\nKsp =  [Cu\\(^{2+}\\)] [IO\\(_3\\)\\(^-\\)]\\(^2\\)\nKsp = (d) x (2d)\\(^2\\)\nKsp = d.4d\\(^2\\)\nKsp = 4d\\(^3\\)\nRecall that Ksp = 1.08 x 10\\(^{-7}\\)\n4d\\(^3\\) =  1.08 x 10\\(^{-7}\\)\nDivide both sides by 4\nd\\(^3\\) = \\(\\frac{1.08 x 10^{-7}}{4}\\)\nd\\(^3\\) = 0.000000027\nd = ∛0.000 000 027\nd = 0.003\nd = 3 x 10\\(^{-3}\\) moldm\\(^{-3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1391",
+    "passage": ""
   }
 ]
