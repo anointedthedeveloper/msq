@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50392",
     "passage": ""
+  },
+  {
+    "id": 50393,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(f(x) = \\frac{4}{x} - 1, x \\neq 0\\), find \\(f^{-1}(7)\\).",
+    "options": {
+      "A": "\\(\\frac{-3}{7}\\)",
+      "B": "\\(0\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(4\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(f(x) = \\frac{4}{x} - 1\\). Let y = f(x)\n\\(y = \\frac{4 - x}{x}  \\implies xy + x = 4\\)\n\\(x(y + 1) = 4  \\therefore  x = \\frac{4}{y + 1}\\)\n\\(f^{-1}(7) = \\frac{4}{7 + 1} = \\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50393",
+    "passage": ""
   }
 ]
