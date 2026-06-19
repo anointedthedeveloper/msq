@@ -7285,5 +7285,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13899",
     "passage": ""
+  },
+  {
+    "id": 13900,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The wavelength of the first overtone of a note in a closed pipe of length 33 cm is?",
+    "options": {
+      "A": "33 cm",
+      "B": "44 cm",
+      "C": "22 cm",
+      "D": "17 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a closed tube, the fundamental note occurs when the length of the tube l = \\(\\frac{λ}{4}\\), the first overtone occurs when the length of the tube l = \\(\\frac{3 \\lambda}{4}\\) λ = \\(\\frac{4l}{3}\\) = \\(\\frac{ 4 \\times 33}{3}\\) = 44 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13900",
+    "passage": ""
   }
 ]
