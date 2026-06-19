@@ -4617,5 +4617,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2079",
     "passage": ""
+  },
+  {
+    "id": 2080,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the appropriate option to fill the gap in the following sentences : Now that i realize the full extent of your ... i am afraid it will be impossible for me to ever trust you again",
+    "options": {
+      "A": "dubiousness",
+      "B": "corruption",
+      "C": "deceptiveness",
+      "D": "duplicity",
+      "E": "inconsistency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Duplicity refers to deceitfulness or double-dealing , which fits the context of someone realising the extent of another person's dishonesty and concluding that trust is no longer possible.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2080",
+    "passage": ""
   }
 ]
