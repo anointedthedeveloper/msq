@@ -6070,5 +6070,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2587",
     "passage": ""
+  },
+  {
+    "id": 2588,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Exoskeleton is NOT found in the",
+    "options": {
+      "A": "Maggot",
+      "B": "Mosquito larva",
+      "C": "Earth worm",
+      "D": "Caterpillar",
+      "E": "Termite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Molting occurs when maggots shed the outer coverings of their bodies, which is called an exoskeleton. also, The head of mosquito larvae is large and sclerotized (made of hardened exoskeleton). termite and caterpillars also have exoskeletons so the only exception here is earthworms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2588",
+    "passage": ""
   }
 ]
