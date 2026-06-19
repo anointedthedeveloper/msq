@@ -18033,5 +18033,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70757",
     "passage": ""
+  },
+  {
+    "id": 70758,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following best describes software?",
+    "options": {
+      "A": "Elements used for data transmission",
+      "B": "Logical sequences of coded instructions",
+      "C": "Systems that control data flow",
+      "D": "Tangible components of a computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Software refers to logical sequences of coded instructions (programs and applications) that tell the computer what task to perform.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70758",
+    "passage": ""
   }
 ]
