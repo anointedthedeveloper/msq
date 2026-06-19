@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66161",
     "passage": ""
+  },
+  {
+    "id": 66163,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "One of the duties of a mail room clerk is to",
+    "options": {
+      "A": "sort outgoing mail into department.",
+      "B": "ensure that enclosures are attached to outgoing mail.",
+      "C": "give advance notice to addresses of incoming mail.",
+      "D": "return uncleared letters to the writers."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "One of the duties of a mail clerk is to ensure that enclosures are attached to outgoing mail.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66163",
+    "passage": ""
   }
 ]
