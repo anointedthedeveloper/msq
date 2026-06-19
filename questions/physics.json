@@ -6676,5 +6676,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13850",
     "passage": ""
+  },
+  {
+    "id": 13852,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A drop of petrol makes a finger colder than a drop of water would because?",
+    "options": {
+      "A": "petrol takes its latent heat of veporization from the finger",
+      "B": "petrol takes its latent heat of fusion from the finger",
+      "C": "water is more viscious than petrol",
+      "D": "water has higher surface tension dan petrol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "This process occurs as the petrol evaporates, drawing heat away from the skin and causing a cooling sensation.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13852",
+    "passage": ""
   }
 ]
