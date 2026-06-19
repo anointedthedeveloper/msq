@@ -10415,5 +10415,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22006",
     "passage": ""
+  },
+  {
+    "id": 22007,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Evaluate (101.5)\n2\n- (100.5)\n2",
+    "options": {
+      "A": "1",
+      "B": "2.02",
+      "C": "20.02",
+      "D": "202",
+      "E": "2020"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22007",
+    "passage": ""
   }
 ]
