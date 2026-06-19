@@ -2874,5 +2874,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1576",
     "passage": ""
+  },
+  {
+    "id": 1577,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A particle that contains 9 protons, 10 neutrons and 10 electrons is a",
+    "options": {
+      "A": "negative ion",
+      "B": "positive ion",
+      "C": "neutral atom of non-metal",
+      "D": "neutral atom of a metal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If it were a neutral atom,the number of proton would have been equal to number of electron = 9 each\nHowever, since the number of electrons is by 1 greater than that of proton, and since electrons having more number than proton are negatively charged, the particle must be a negative ion.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1577",
+    "passage": ""
   }
 ]
