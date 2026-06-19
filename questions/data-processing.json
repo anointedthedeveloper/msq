@@ -5765,5 +5765,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62592",
     "passage": ""
+  },
+  {
+    "id": 62593,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The manipulation of digitalized information by computer or other electronic equipment is known as",
+    "options": {
+      "A": "data collation",
+      "B": "data manipulation",
+      "C": "information manipulation",
+      "D": "information processing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Information processing refers to the manipulation of digitized information by computers and other digital electronic equipment, known collectively as information technology(IT)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62593",
+    "passage": ""
   }
 ]
