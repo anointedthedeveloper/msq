@@ -6026,5 +6026,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2058",
     "passage": ""
+  },
+  {
+    "id": 2060,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The balance of payments of countries is",
+    "options": {
+      "A": "a record of imports and export",
+      "B": "a systematic record of transaction among countries at a given time",
+      "C": "the current and the capital accounts and their payments",
+      "D": "the trade relationships and  payment among nations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The balance of payments (BOP) is a comprehensive record of all economic transactions between residents of a country and the rest of the world during a specific period. It includes the current account (which covers trade in goods and services, income, and current transfers) and the capital and financial account (which records transactions in financial instruments and changes in reserve assets).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2060",
+    "passage": ""
   }
 ]
