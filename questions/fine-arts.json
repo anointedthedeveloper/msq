@@ -2539,5 +2539,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75389",
     "passage": ""
+  },
+  {
+    "id": 75390,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which primary colour is not used to make green?",
+    "options": {
+      "A": "Red",
+      "B": "Yellow",
+      "C": "None",
+      "D": "Blue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In traditional color theory, green is a secondary color made by mixing the primary colors yellow and blue .\nRed is not used to make green; it’s actually the complementary color of green. Adding red to green usually dulls the color, making it look muddy or brown.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75390",
+    "passage": ""
   }
 ]
