@@ -5187,5 +5187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62345",
     "passage": ""
+  },
+  {
+    "id": 62346,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A pictorial representation of the logic of a program is called?",
+    "options": {
+      "A": "diagram",
+      "B": "flowchart",
+      "C": "pseudo code",
+      "D": "software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A flowchart is a pictorial representation depicting the flow of steps in a program or business process in an organization. A flowchart can often be used to show the program structure, logic flow, and operations performed that form an important part of the documentation of the system; subsequently, it enables us to trace and detect any logical or other errors before the programs are written.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62346",
+    "passage": ""
   }
 ]
