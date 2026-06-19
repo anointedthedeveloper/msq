@@ -15295,5 +15295,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24153",
     "passage": ""
+  },
+  {
+    "id": 24154,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A cell of e.m.f. 1.5 V and internal resistance of 2.59 is connected in series with an ammeter of resistance 0.59 and a resistor of resistance 7.09. Calculate the current in the circuit.",
+    "options": {
+      "A": "0.15 A",
+      "B": "0.20 A",
+      "C": "0.60A",
+      "D": "3.00A",
+      "E": "6.67 A."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "I = E / R + r = 1.5 / 2.5 + 0.5 + 7 = 0.15",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24154",
+    "passage": ""
   }
 ]
