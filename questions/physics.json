@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/2005",
     "passage": ""
+  },
+  {
+    "id": 2010,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The pressure of a given mass of a gas changes from 300Nm\\(^{-2}\\) to 120Nm\\(^{-2}\\) while the temperature drops from 127°C to -73°C. The ratio of the final volume to the initial volume is",
+    "options": {
+      "A": "2 : 5",
+      "B": "5 : 4",
+      "C": "4 : 5",
+      "D": "5 : 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To find the ratio of the final volume to the initial volume of a gas when both pressure and temperature change, we can use the Ideal Gas Law , which states that\n\\(\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}\\)\nP\\(_1\\) = 300N/m\\(^2\\)     V\\(_1\\) =  ?,    V\\(_2\\) =  ?,    T\\(_1\\) = 127°C =127+273 = 400K,   T\\(_2\\)  = −73°C = −73 + 273 = 200K\nP\\(_2\\) = 120N/m\\(^2\\)\nUsing the Ideal Gas Law, we can rearrange it to find the ratio of volumes:\n= \\(\\frac{V_2}{V_1} =  \\frac{P_1T_2}{P_2T_1}\\)\n=  \\(\\frac{V_2}{V_1} =  \\frac{300 \\times 200}{120 \\times 400}\\) =  \\(\\frac{5}{4}\\)\nTherefore,  V\\(_2\\) :  V\\(_1\\) = 5 : 4.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/2010",
+    "passage": ""
   }
 ]
