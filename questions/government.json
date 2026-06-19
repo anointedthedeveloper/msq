@@ -4433,5 +4433,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1802",
     "passage": ""
+  },
+  {
+    "id": 1803,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A member of the Commonwealth that still recognizes the British monarch as its Head of State is",
+    "options": {
+      "A": "Singapore",
+      "B": "Ghana",
+      "C": "India",
+      "D": "Australia"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1803",
+    "passage": ""
   }
 ]
