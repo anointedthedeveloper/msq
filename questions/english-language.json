@@ -7213,5 +7213,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3014",
     "passage": ""
+  },
+  {
+    "id": 3015,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nHis English was so good that he .... for an Englishman",
+    "options": {
+      "A": "took",
+      "B": "is taken",
+      "C": "was taken",
+      "D": "has taken",
+      "E": "is taking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3015",
+    "passage": ""
   }
 ]
