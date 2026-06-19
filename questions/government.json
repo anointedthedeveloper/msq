@@ -5420,5 +5420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2327",
     "passage": ""
+  },
+  {
+    "id": 2328,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Nigeria's first participation in a United Nations peace-keeping operation was in",
+    "options": {
+      "A": "Angola",
+      "B": "Lebanon",
+      "C": "Chad",
+      "D": "Congo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2328",
+    "passage": ""
   }
 ]
