@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64259",
     "passage": ""
+  },
+  {
+    "id": 64260,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The classes of food that protects the body from diseases is called",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "fats and oil",
+      "C": "proteins",
+      "D": "vitamins"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The class of food that protects the body from diseases and boosts the immune system is vitamins",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64260",
+    "passage": ""
   }
 ]
