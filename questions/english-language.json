@@ -3231,5 +3231,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1368",
     "passage": ""
+  },
+  {
+    "id": 1369,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five option : The telephone .... in the nineteenth century and is now used in most countries in the world",
+    "options": {
+      "A": "had been invented",
+      "B": "was invented",
+      "C": "would have been invented",
+      "D": "has been invented",
+      "E": "was being invented"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sentence refers to a specific past event —the invention of the telephone in the nineteenth century. In such cases, the simple past tense (\"was invented\") is the most appropriate choice.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1369",
+    "passage": ""
   }
 ]
