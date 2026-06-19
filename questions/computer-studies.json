@@ -9986,5 +9986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62745",
     "passage": ""
+  },
+  {
+    "id": 62746,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Express P(1 + \\(\\frac{R}{100}\\))\\(^N\\) as a BASIC programming notation.",
+    "options": {
+      "A": "P x (1 + R ÷ 100)\\(^N\\)",
+      "B": "P * (1 + \\(\\frac{R}{100}\\))\\(^N\\)",
+      "C": "P x (1 + R ÷ 100)^N",
+      "D": "P *(1 + R /100) ^N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The BASIC programming notation for the expression \\(P( 1 + R \\div100)^N\\) is P * (1 + R/100)^N. This is because in BASIC programming, the multiplication operator is represented by *, division by /, and exponentiation by ^.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62746",
+    "passage": ""
   }
 ]
