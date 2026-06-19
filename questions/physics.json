@@ -7810,5 +7810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14012",
     "passage": ""
+  },
+  {
+    "id": 14013,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The bond that forms a semiconductor is?",
+    "options": {
+      "A": "covalent",
+      "B": "electrovalent",
+      "C": "ionic",
+      "D": "metallic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Semiconductors, such as silicon and germanium, primarily exhibit covalent bonding, where atoms share electrons to form a stable structure.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14013",
+    "passage": ""
   }
 ]
