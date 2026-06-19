@@ -4429,5 +4429,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8203",
     "passage": ""
+  },
+  {
+    "id": 8204,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The nth term of two sequences are Q\nn\n= 3 . 2\nn - 2\nand U\nm\n= 3 . 2\n2m - 3\n. Find the product of Q\n2\nand U\n2\n.",
+    "options": {
+      "A": "18",
+      "B": "12",
+      "C": "6",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8204",
+    "passage": ""
   }
 ]
