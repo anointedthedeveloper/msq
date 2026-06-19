@@ -13888,5 +13888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64429",
     "passage": ""
+  },
+  {
+    "id": 64430,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What kind of data is processed by an analog computer?",
+    "options": {
+      "A": "Discrete data",
+      "B": "Intermittent",
+      "C": "Discretely varying",
+      "D": "Continuously varying data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An analog computer is the one which is used to process continuously varying data. This changeable yet continuous data is generally referred to as the analog data",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64430",
+    "passage": ""
   }
 ]
