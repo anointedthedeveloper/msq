@@ -8944,5 +8944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9330",
     "passage": ""
+  },
+  {
+    "id": 9331,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Find the radius of a sphere whose surface area is 154 cm\\(^2\\)?",
+    "options": {
+      "A": "7.00 cm",
+      "B": "3.50 cm",
+      "C": "3.00 cm",
+      "D": "1.75 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Surface Area of a sphere = 4\\(\\pi\\)r\\(^2\\)\nS.A of a sphere = 154 = 4 x \\(\\frac{22}{7}\\) x r\\(^2\\)\nr\\(^2\\) = \\(\\frac{154 \\times 7}{4 \\times 22}\\)\nr\\(^2\\) = \\(\\frac{49}{4}\\)\nr = \\(\\sqrt{\\frac{49}{4}}\\)\nr = \\(\\frac{7}{2}\\)\nr = 3.5cm.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9331",
+    "passage": ""
   }
 ]
