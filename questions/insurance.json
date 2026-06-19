@@ -1635,5 +1635,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49791",
     "passage": ""
+  },
+  {
+    "id": 49792,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A life policy that pays the sum assured if the policy holder dies anytime within the policy period is",
+    "options": {
+      "A": "term assurance",
+      "B": "pure endowment",
+      "C": "whole life insurance",
+      "D": "personal accident insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A term assurance policy will be set up to last for a certain period of time (usually a specific number of years or until you reach a certain age): this is known as the term of the policy. A payment will only be made in the event of your death during that period.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49792",
+    "passage": ""
   }
 ]
