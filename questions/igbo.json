@@ -2136,5 +2136,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73798",
     "passage": ""
+  },
+  {
+    "id": 73799,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ọlee aha nwanne gị nwoke? Aha",
+    "options": {
+      "A": "m bụ Musa",
+      "B": "ya bụ Emeka",
+      "C": "anyị bụ Ebikina",
+      "D": "ha bụ Biodun"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The question \"Ọlee aha nwanne gị nwoke?\" means \"What is your brother's name?\" in Igbo. The correct response is \"Ya bụ Emeka\", which means \"His name is Emeka\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73799",
+    "passage": ""
   }
 ]
