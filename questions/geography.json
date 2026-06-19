@@ -1399,5 +1399,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/962",
     "passage": ""
+  },
+  {
+    "id": 964,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Oil refineries are found in which of the following sets of states?",
+    "options": {
+      "A": "Cross River, Rivers and Edo",
+      "B": "Edo, Delta and Kaduna",
+      "C": "Cross River, Edo and Kaduna",
+      "D": "Rivers, Delta and Kaduna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/964",
+    "passage": ""
   }
 ]
