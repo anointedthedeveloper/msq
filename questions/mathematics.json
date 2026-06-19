@@ -12943,5 +12943,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22650",
     "passage": ""
+  },
+  {
+    "id": 22652,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Factorize x\\(^2\\) + 4x - 192",
+    "options": {
+      "A": "(x-4) (x+48)",
+      "B": "(x-48) (x+4)",
+      "C": "(x-12) (x+16)",
+      "D": "(x-12) (x-16)",
+      "E": "(x+12) (x+16)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x\\(^2\\) + 4x - 192\nx\\(^2\\) + 16x - 12x - 192\nx(x + 16) - 12(x + 16)\n(x + 16)(x - 12)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22652",
+    "passage": ""
   }
 ]
