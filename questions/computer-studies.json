@@ -19293,5 +19293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72599",
     "passage": ""
+  },
+  {
+    "id": 72601,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "If the input variable Y in Figure 1 is passed through the device in Figure 2 before going into the logic gate in Figure 1, compute the resulting value of the output at Z.\n0\n0\n1\n1\n0\n1\n0\n1",
+    "options": {
+      "A": "0111",
+      "B": "1011",
+      "C": "1101",
+      "D": "110"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/L2XvgoqgL1EDjZf1nEhyhYSKdyWHcBH2b2RTmsic.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904761/myschool/computer-studies/L2XvgoqgL1EDjZf1nEhyhYSKdyWHcBH2b2RTmsic.jpg",
+    "correct_answer": "B",
+    "explanation": "B: (1011)\nY is originally 0101. After passing it through the NOT gate, in Figure 2, it becomes 1010.\nX \\(\\overline{Y}\\) Z 0 0 1 1 1 0 1 0 1 0 1 1\nZ= 1011",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72601",
+    "passage": ""
   }
 ]
