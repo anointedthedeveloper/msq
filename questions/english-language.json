@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/106",
     "passage": ""
+  },
+  {
+    "id": 107,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nHe was appointed specifically to put the recruits through",
+    "options": {
+      "A": "assign them to work",
+      "B": "train them",
+      "C": "discipline them",
+      "D": "assist them at work",
+      "E": "supervise them at work"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To ''put through'' in this context means to train, educate, teach or instruct someone or something to complete a test or evaluation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/107",
+    "passage": ""
   }
 ]
