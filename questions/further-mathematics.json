@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50272",
     "passage": ""
+  },
+  {
+    "id": 50276,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given that a = 5i + 4j and b = 3i + 7j, evaluate (3a - 8b).",
+    "options": {
+      "A": "9i + 44j",
+      "B": "-9i + 44j",
+      "C": "-9i - 44j",
+      "D": "9i - 44j"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "= \\(3(5i+4j) - 8(3i+7j) = 15i + 12j - 24i -56j\\)\n= \\(-9i - 44j\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50276",
+    "passage": ""
   }
 ]
