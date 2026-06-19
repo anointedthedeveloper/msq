@@ -12610,5 +12610,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/72524",
     "passage": ""
+  },
+  {
+    "id": 72532,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following institutions was set up to address the unfair treatment of citizens by public servants?",
+    "options": {
+      "A": "Independent Corrupt Practices Commission",
+      "B": "Economic and Financial Crime Commission",
+      "C": "public complaint commission /ombudsman",
+      "D": "International Labour Commission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Public Complaint Commission /Ombudsman was set up to address unfair treatment of citizens by public servants. This institution investigates complaints and ensures accountability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/72532",
+    "passage": ""
   }
 ]
