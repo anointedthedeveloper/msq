@@ -15465,5 +15465,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67772",
     "passage": ""
+  },
+  {
+    "id": 67773,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What protocol is used between Email servers?",
+    "options": {
+      "A": "SMTP",
+      "B": "SNMP",
+      "C": "FTP",
+      "D": "POP"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Simple Mail Transfer Protocol is an internet standard communication protocol for electronic mail transmission.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67773",
+    "passage": ""
   }
 ]
