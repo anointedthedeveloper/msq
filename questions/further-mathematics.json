@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50261",
     "passage": ""
+  },
+  {
+    "id": 50266,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In a class of 10 boys and 15 girls, the average score in a Biology test is 90. If the average score for the girls is x, find the average score for the boys in terms of x.",
+    "options": {
+      "A": "\\(200 - \\frac{2x}{3}\\)",
+      "B": "\\(225 - \\frac{3x}{2}\\)",
+      "C": "\\(250 - 2x\\)",
+      "D": "\\(250 - 3x\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let A and B be the sum for the boys and girls respectively.\n\\(\\frac{A + B}{10 + 15} = \\frac{A + B}{25} = 90\\)\n\\(\\implies A + B = 90 \\times 25 = 2250\\)\nGiven the average for girls = x, we have \\(\\frac{B}{15} = x \\implies B = 15x\\)\n\\(\\therefore A + 15x = 2250; A = 2250 - 15x \\implies\\) average score for boys \\(= \\frac{2250 - 15x}{10}\\)\n= \\(225 - \\frac{3x}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50266",
+    "passage": ""
   }
 ]
