@@ -9166,5 +9166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62704",
     "passage": ""
+  },
+  {
+    "id": 62705,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "After several 'save' and 'delete' operations, there remain many scattered areas of data too small to be used productively. This describes?",
+    "options": {
+      "A": "utilization.",
+      "B": "protection.",
+      "C": "fragmentation.",
+      "D": "backing up."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fragmentation is a condition in which there are many scattered areas of storage in a database that are too small to be used productively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62705",
+    "passage": ""
   }
 ]
