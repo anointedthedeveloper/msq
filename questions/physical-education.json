@@ -4114,5 +4114,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70731",
     "passage": ""
+  },
+  {
+    "id": 70732,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which nutrient class is primarily responsible for providing structure to cells and supporting growth and development?",
+    "options": {
+      "A": "Proteins",
+      "B": "Fats",
+      "C": "Carbohydrates",
+      "D": "Minerals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Proteins provide structure to cells and tissues, supporting growth, repair, and development throughout the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70732",
+    "passage": ""
   }
 ]
