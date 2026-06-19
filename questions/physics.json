@@ -4324,5 +4324,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12279",
     "passage": ""
+  },
+  {
+    "id": 12280,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "On a fairly cool rainy day when the temperature is 20\no\nC, the length of a steel railroad track is 20m. What will be its length on a hot a dry day when the temperature is 40\no\nC?\n[coefficient of linear expansion of steel = 11 x 10\n-6\nK\n-1\n]",
+    "options": {
+      "A": "20.013m",
+      "B": "20.009m",
+      "C": "20.004m",
+      "D": "20.002m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "-6\n-6\n-3\n-3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12280",
+    "passage": ""
   }
 ]
