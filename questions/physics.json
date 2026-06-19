@@ -12589,5 +12589,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16349",
     "passage": ""
+  },
+  {
+    "id": 16350,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A ball is thrown vertically upwards from the ground with an initial velocity of 50ms\n-1\n. What is the total time spent by the ball in the air? (g = 10ms\n-2\n)",
+    "options": {
+      "A": "2.5s",
+      "B": "5.0s",
+      "C": "10.0s",
+      "D": "15.0s",
+      "E": "20.0s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16350",
+    "passage": ""
   }
 ]
