@@ -10134,5 +10134,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/77125",
     "passage": ""
+  },
+  {
+    "id": 77126,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A delivery note that accompanies goods to the buyer shows",
+    "options": {
+      "A": "price of goods bought",
+      "B": "quality of goods bought",
+      "C": "quantity of goods bought",
+      "D": "discount on goods bought"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A delivery note is a document that accompanies goods delivered to a buyer. It serves as proof of delivery and typically shows the quantity of goods bought. It does not usually include information about the price, quality, or any discount on the goods. These details are usually included in the invoice, not the delivery note.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/77126",
+    "passage": ""
   }
 ]
