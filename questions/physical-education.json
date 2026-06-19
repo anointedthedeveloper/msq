@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64151",
     "passage": ""
+  },
+  {
+    "id": 64152,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The standard measurement of a hockey pitch is ......... by ......... metres.",
+    "options": {
+      "A": "19.44, 22.9",
+      "B": "20.9,14",
+      "C": "22.9, 8.66",
+      "D": "91.44, 54.86"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The field of play is 91.4 by 55.0 metres (100 yd × 60 yd) with an area of 5,027 square metres (1.24 acres)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64152",
+    "passage": ""
   }
 ]

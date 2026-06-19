@@ -3189,5 +3189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50498",
     "passage": ""
+  },
+  {
+    "id": 50501,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In calculating the mean of 8 numbers, a boy mistakenly used 17 instead of 25 as one of the numbers. If he obtained 20 as the mean, find the correct mean.",
+    "options": {
+      "A": "24",
+      "B": "23",
+      "C": "21",
+      "D": "19"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let the sum of the 8 numbers = y.\n\\(\\frac{y}{8} = 20 \\implies y = 20 \\times 8 = 160\\)\n\\(160 - 17 = 143 (\\text{the sum of the other 7 numbers})\\)\n\\(mean = \\frac{143 + 25}{8} = \\frac{168}{8}\\)\n= 21",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50501",
+    "passage": ""
   }
 ]
