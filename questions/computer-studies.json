@@ -13741,5 +13741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64419",
     "passage": ""
+  },
+  {
+    "id": 64422,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The hexadecimal digits are 0-9 and A-_____",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "G",
+      "D": "D"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hexadecimal has 16 digits ranging from 0 to 9, and A to F.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64422",
+    "passage": ""
   }
 ]
