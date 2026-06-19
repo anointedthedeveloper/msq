@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75194",
     "passage": ""
+  },
+  {
+    "id": 75196,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أي الكلمات التالية اسم إشارة؟",
+    "options": {
+      "A": "هذ",
+      "B": "علم",
+      "C": "فوق",
+      "D": "كتب"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"lis\" means \"this,\" which is a demonstrative pronoun in Arabic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75196",
+    "passage": ""
   }
 ]
