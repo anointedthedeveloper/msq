@@ -9280,5 +9280,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14266",
     "passage": ""
+  },
+  {
+    "id": 14267,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Thermionic emission is the process whereby?",
+    "options": {
+      "A": "β - rays are produced",
+      "B": "holes are produced",
+      "C": "x - rays are produced",
+      "D": "electrons leave a hot element"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Thermionic emission is ejection of electron from a metal surface as a result of heating.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14267",
+    "passage": ""
   }
 ]
