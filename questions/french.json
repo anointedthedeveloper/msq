@@ -3112,5 +3112,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71196",
     "passage": ""
+  },
+  {
+    "id": 71197,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option juste Dans la chambre, on se couche sur l'/la/le.",
+    "options": {
+      "A": "lit",
+      "B": "armoire",
+      "C": "rideau",
+      "D": "miroir"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a bedroom, one sleeps on a bed or lit, not on a wardrobe (armoire), mirror (miroir), curtain (rideau), or table. Therefore, the correct answer is lit (bed).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71197",
+    "passage": ""
   }
 ]
