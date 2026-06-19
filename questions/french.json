@@ -354,5 +354,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48128",
     "passage": ""
+  },
+  {
+    "id": 48129,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "... robe portez- vous?",
+    "options": {
+      "A": "Quel",
+      "B": "Qu'elles",
+      "C": "Quoi",
+      "D": "Quelle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48129",
+    "passage": ""
   }
 ]
