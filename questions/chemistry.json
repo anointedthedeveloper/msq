@@ -6633,5 +6633,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2948",
     "passage": ""
+  },
+  {
+    "id": 2949,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "CH\\(_3\\)COOH(g) → CH\\(_4\\)(g) + CO\\(_2\\)(g) The reaction above is",
+    "options": {
+      "A": "Carboxylation",
+      "B": "Decarboxylation",
+      "C": "Acidification",
+      "D": "Esterification"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The decarboxylation reaction of acetic acid (CH\\(_3\\)COOH) is a process that removes the carboxyl group (−COOH) and replaces it with a hydrogen atom. The reaction produces methane (CH\\(_4\\)), carbon dioxide (CO\\(_2\\)).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2949",
+    "passage": ""
   }
 ]
