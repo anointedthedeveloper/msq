@@ -5893,5 +5893,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2834",
     "passage": ""
+  },
+  {
+    "id": 2835,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options :\n.... reached 18.7% of the U.S population.",
+    "options": {
+      "A": "Employed",
+      "B": "Unemployment",
+      "C": "Employers",
+      "D": "Employees",
+      "E": "Underemployment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Unemployment reached 18.7% of the U.S population.\nThis means that, 18.7% of U.S population are unemployed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2835",
+    "passage": ""
   }
 ]
