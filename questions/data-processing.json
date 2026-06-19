@@ -2437,5 +2437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58197",
     "passage": ""
+  },
+  {
+    "id": 58201,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is not a good computer maintenance practice?",
+    "options": {
+      "A": "Blowing the system unit with a blower",
+      "B": "Blowing the keyboard with a blower",
+      "C": "Cleaning the screen with a wet cloth",
+      "D": "Cleaning the CD-ROM drive with lens cleaner"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58201",
+    "passage": ""
   }
 ]
