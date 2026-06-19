@@ -6725,5 +6725,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/76025",
     "passage": ""
+  },
+  {
+    "id": 76026,
+    "subject": "yoruba",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Kí ni àfojúsùn orin ewì to pataki?",
+    "options": {
+      "A": "Ikegan",
+      "B": "Idaraya",
+      "C": "Ikeko",
+      "D": "Ifigagbaga"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Orin ewì ni a máa n lò fún ìtósónà àti ìmoràn. O je ohun elo lati koni ati lati taniji.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/76026",
+    "passage": ""
   }
 ]
