@@ -3505,5 +3505,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6396",
     "passage": ""
+  },
+  {
+    "id": 6399,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Ketegi settlement is typically a",
+    "options": {
+      "A": "scarpfoot settlement",
+      "B": "foot-hill settlement",
+      "C": "wet-point settlement",
+      "D": "dry-point settlement",
+      "E": "confluence settlement"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/29219856560_13000449_1057733247624675_489356484_o.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781895891/myschool/geography/29219856560_13000449_1057733247624675_489356484_o.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6399",
+    "passage": ""
   }
 ]
