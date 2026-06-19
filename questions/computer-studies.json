@@ -16893,5 +16893,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67866",
     "passage": ""
+  },
+  {
+    "id": 67867,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "In computer architecture, the type of bus that connects the major components of a computer system is",
+    "options": {
+      "A": "address",
+      "B": "data bus",
+      "C": "control bus",
+      "D": "system bus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In computer architecture, the system bus is the main communication route that connects the major components of a computer system, such as the CPU, memory, and input/output devices. It is composed of the data bus, address bus, and control bus. Therefore, the correct answer is 'system bus'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67867",
+    "passage": ""
   }
 ]
