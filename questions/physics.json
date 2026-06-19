@@ -14767,5 +14767,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24101",
     "passage": ""
+  },
+  {
+    "id": 24102,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A bat emits a sound wave at a speed of 1650.0ms\n-1\nand receives the echoes 0.15s later. Calculate the distance of the bat from the reflector",
+    "options": {
+      "A": "8.75m",
+      "B": "16.50m",
+      "C": "87.75m",
+      "D": "123.75m",
+      "E": "330.00m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Distance x = vt/2 = 1650 x 0.15 / 2 = 123.75m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24102",
+    "passage": ""
   }
 ]
