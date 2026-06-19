@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/91",
     "passage": ""
+  },
+  {
+    "id": 94,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Public opinion is a view that is",
+    "options": {
+      "A": "held by the majority",
+      "B": "active in the public realm",
+      "C": "widely publicized",
+      "D": "no longer a secret."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Public opinion is a view that is held by the majority. As far as public opinion is concerned, the view must be held and expressed by the majority of the society. According to G. A. I. Ofoegbu (1999), public opinion is the believes, values and attitudes which are commonly held and expressed by majority of the people on a given issue.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/94",
+    "passage": ""
   }
 ]
