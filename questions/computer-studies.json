@@ -11515,5 +11515,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64126",
     "passage": ""
+  },
+  {
+    "id": 64127,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which among the following generation computers had expensive operation cost?",
+    "options": {
+      "A": "First",
+      "B": "Second",
+      "C": "Third",
+      "D": "Fourth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The first generation computers had extensive operation cost because of many reasons such as the excess consumption of electricity, high generation of heat, as well as the cost of maintaining it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64127",
+    "passage": ""
   }
 ]
