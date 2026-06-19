@@ -13300,5 +13300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64387",
     "passage": ""
+  },
+  {
+    "id": 64388,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "System software can further be classified into two. Operating software and ______________ software",
+    "options": {
+      "A": "Utility",
+      "B": "Storage",
+      "C": "Anti virus",
+      "D": "File management system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The types of system software include: 1.Operating systems or system control program. 2. Utility software or system support programs",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64388",
+    "passage": ""
   }
 ]
