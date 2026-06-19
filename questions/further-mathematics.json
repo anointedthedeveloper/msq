@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50382",
     "passage": ""
+  },
+  {
+    "id": 50383,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A body of mass 28g, initially at rest is acted upon by a force, F Newtons. If it attains a velocity of \\(5.4ms^{-1}\\) in 18 seconds, find the value of F.",
+    "options": {
+      "A": "0.0082N",
+      "B": "0.0084N",
+      "C": "0.082N",
+      "D": "0.084N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(F = mass \\times acceleration\\) but \\(accl = \\frac{v - u}{t}\\)\n\\(\\therefore F = m(\\frac{v - u}{t})\\)\n\\(Mass = 28g = 0.028kg\\)\n\\(v = 5.4 ms^{-1}; u = 0; t = 18secs\\)\n\\(\\therefore F = 0.028(\\frac{5.4 - 0}{18}) = 0.028 \\times 0.3 = 0.0084N\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50383",
+    "passage": ""
   }
 ]
