@@ -6249,5 +6249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62459",
     "passage": ""
+  },
+  {
+    "id": 62460,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The expression DEPOSIT (1, 10) stands for an array with?",
+    "options": {
+      "A": "1 element",
+      "B": "11 elements",
+      "C": "10 elements",
+      "D": "no element."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62460",
+    "passage": ""
   }
 ]
