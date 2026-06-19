@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76325",
     "passage": ""
+  },
+  {
+    "id": 76326,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The combination of a string quartet is",
+    "options": {
+      "A": "2 violins, 1 viola and 1 double bass",
+      "B": "1 violin, 2 violas and 1 cello",
+      "C": "2 violins, 1 viola and 1 cello",
+      "D": "2 violins, 1 cello and 1 double bass."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A standard string quartet is a musical ensemble consisting of four string players: two violinists (first and second violin), one violist , and one cellist . This specific instrumentation has been the most influential chamber music format in Western classical music since the 18th century.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76326",
+    "passage": ""
   }
 ]
