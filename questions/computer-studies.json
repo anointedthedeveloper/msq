@@ -16641,5 +16641,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67853",
     "passage": ""
+  },
+  {
+    "id": 67854,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "which communication channel allows the sending of information in one direction only?",
+    "options": {
+      "A": "simplex mode",
+      "B": "half duplex mode",
+      "C": "duplex mode",
+      "D": "full duplex mode"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "simplex mode allows the sending of information in one direction only, which is similar to a one-way street.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67854",
+    "passage": ""
   }
 ]
