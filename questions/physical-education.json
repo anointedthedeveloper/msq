@@ -3841,5 +3841,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70718",
     "passage": ""
+  },
+  {
+    "id": 70719,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which basketball skill involves securing possession of missed shots or opponent's shots that come off the backboard or rim?",
+    "options": {
+      "A": "Shooting",
+      "B": "Dribbling",
+      "C": "Passing",
+      "D": "Rebounding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rebounding in basketball refers to the skill of securing possession of missed shots or opponent's shots that rebound off the backboard or rim. It is crucial for both offensive and defensive strategies, as it allows teams to maintain possession c prevent the opposing team from scoring second-chance points.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70719",
+    "passage": ""
   }
 ]
