@@ -15412,5 +15412,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7581",
     "passage": ""
+  },
+  {
+    "id": 7584,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "An agency contract must involve?",
+    "options": {
+      "A": "a principal and a consumer",
+      "B": "a principal and a producer",
+      "C": "a principal and a third party",
+      "D": "a principal and an agent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An agency contract involves the principal and the agent.\nThe principal-agent relationship is an arrangement in which one entity legally appoints another to act on its behalf. In a principal-agent relationship, the agent acts on behalf of the principal and should not have a conflict of interest in carrying out the act.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7584",
+    "passage": ""
   }
 ]
