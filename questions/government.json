@@ -3738,5 +3738,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1653",
     "passage": ""
+  },
+  {
+    "id": 1655,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The law of libel limits a citizen's right to freedom of",
+    "options": {
+      "A": "movement",
+      "B": "association",
+      "C": "expression",
+      "D": "worship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1655",
+    "passage": ""
   }
 ]
