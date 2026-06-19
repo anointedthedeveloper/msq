@@ -13647,5 +13647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22867",
     "passage": ""
+  },
+  {
+    "id": 22868,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Simplify: \\((\\frac{1}{4})^{-1\\frac{1}{2}}\\)",
+    "options": {
+      "A": "1/8",
+      "B": "1/4",
+      "C": "2",
+      "D": "4",
+      "E": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\((\\frac{1}{4})^{-1\\frac{1}{2}}\\)\n= \\((\\frac{1}{4})^{-\\frac{3}{2}}\\)\n= \\((\\sqrt{\\frac{1}{4}})^{-3}\\)\n= \\((\\frac{1}{2})^{-3}\\)\n= \\(2^3\\)\n= 8",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22868",
+    "passage": ""
   }
 ]
