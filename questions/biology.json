@@ -1252,5 +1252,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/393",
     "passage": ""
+  },
+  {
+    "id": 394,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "In which of these association is much harm done to one of the partners?",
+    "options": {
+      "A": "Symbiosis",
+      "B": "Epiphytism",
+      "C": "Commensalism",
+      "D": "Parasitism",
+      "E": "Mutualism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/394",
+    "passage": ""
   }
 ]
