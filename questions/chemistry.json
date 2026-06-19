@@ -11422,5 +11422,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4345",
     "passage": ""
+  },
+  {
+    "id": 4346,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "One of the products of the thermal decomposition of sodium trioxonitrate (V) is?",
+    "options": {
+      "A": "sodium",
+      "B": "nitrogen",
+      "C": "sodium dioxonitrate (III)",
+      "D": "sodium oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4346",
+    "passage": ""
   }
 ]
