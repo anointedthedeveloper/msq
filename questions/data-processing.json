@@ -5100,5 +5100,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58979",
     "passage": ""
+  },
+  {
+    "id": 58982,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The diagram in Figure 5 depicts a",
+    "options": {
+      "A": "flat file database",
+      "B": "hierarchical database",
+      "C": "network database",
+      "D": "parallel database"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/NzPSJE2ZZVSqZRgPHfeEqxuXJU72pSMjBYFi0yZ1.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911409/myschool/data-processing/NzPSJE2ZZVSqZRgPHfeEqxuXJU72pSMjBYFi0yZ1.jpg",
+    "correct_answer": "C",
+    "explanation": "The figure above depicts a network database model.\nA network database is a model wherein multiple member records or files can be linked to multiple owner files and vice versa. The model can be viewed as an upside-down tree where each member's information is the branch linked to the owner, which is the bottom of the tree.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58982",
+    "passage": ""
   }
 ]
