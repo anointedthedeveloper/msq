@@ -1581,5 +1581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/585",
     "passage": ""
+  },
+  {
+    "id": 586,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option which is nearest in meaning to the sentences in each of the following questions: For all he cared, his parent might have been dead for years",
+    "options": {
+      "A": "although concern about his parent,he had been unable to find out if they were alive",
+      "B": "He cared for no one except his parents, and it was possible that they had died long before",
+      "C": "he did not care whether his parents were alive or had died long before",
+      "D": "He was concerned about everyone not just his parents, who might have died long before",
+      "E": "He cared very much for his parents even though they were dead"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"For all he cared\" means he is indifferent towards the situation, implying that he had no concern about whether his parents were alive or not. Option C accurately captures this sentiment of indifference.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/586",
+    "passage": ""
   }
 ]
