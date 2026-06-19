@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73259",
     "passage": ""
+  },
+  {
+    "id": 73260,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The space between the stitching line and the cutting line is called",
+    "options": {
+      "A": "Grain line",
+      "B": "Dart",
+      "C": "Seam allowance",
+      "D": "Notch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Seam allowance is the space between the stitching line and the fabric edge, allowing room for sewing, preventing fraying, and giving the seam a neat, professional finish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73260",
+    "passage": ""
   }
 ]
