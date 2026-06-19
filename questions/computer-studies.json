@@ -3578,5 +3578,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61862",
     "passage": ""
+  },
+  {
+    "id": 61863,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "(a) What is an operating system?\n(b) Give three examples of operating system.\n(c) State two differences between the floppy disk and compact disc.\n(d) Write a Basic program to calculate the perimeter of a rectangle.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) An operating system is a collection of integrated Computer programs that provide recurring services to other programs or the user of a computer.\nThese services consist of disk and file management, memory management, and device management.\nIn other words, it manages C.P.U operations, input/output activities, storage resources, diverse support services, and controls various devices.\nOperating systems are classified into two.\nThese are the command line e.g. UNIX and Ms DOS; and graphical user interface e.g. Micro soft Window and Linux.\n(b)(i) DOS - Disk Operating System (i) UNIX (ii) LINUX (iv) Microsoft Window\n(c) A floppy disk, or diskette is a disk storage medium composed of a disk of thin and flexible magnetic storage medium.sealed in a rectangular plastic carrier lined with fabric that removes dust particles.They are read and written by a Floppy Disk Drive (FDD).\nA compact disc is a small.portable.round medium made of molded polymer for electronically recording.storing,and playing back audio,video,text and other information in digital form.\nStandard CDs have a diameter of 120 mm and can hold up to 80mins of uncompressed audio or 737mb of data.\n(d) 10 REM PERIMETER OF A RECTANGLE\n20 INPUT \"PERIMETER\" P\n30 LET P 2\"L+B\n40 PRINT PERIMETER\" P\n50 END",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61863",
+    "passage": ""
   }
 ]
