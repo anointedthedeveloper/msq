@@ -5184,5 +5184,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70844",
     "passage": ""
+  },
+  {
+    "id": 70845,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the purpose of the cartilage rings in the trachea?",
+    "options": {
+      "A": "To conduct gas exchange",
+      "B": "To keep the trachea open",
+      "C": "To produce mucus",
+      "D": "To filter air"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The cartilage rings provide structural support, preventing the trachea from collapsing and ensuring a clear airway for breathing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70845",
+    "passage": ""
   }
 ]
