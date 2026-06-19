@@ -4744,5 +4744,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8218",
     "passage": ""
+  },
+  {
+    "id": 8219,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "If the interest on N150.00 for 2\\(\\frac{1}{2}\\) years is N4.50, find the interest on N250.00 for 6 months at the same rate",
+    "options": {
+      "A": "N1.50",
+      "B": "N7.50",
+      "C": "N15.00",
+      "D": "N18.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To find the interest on \\( N250.00 \\) for \\( 6 \\) months at the same rate, we follow these steps:\nCalculate the Interest Rate\nGiven: P = N150.00, T = 2\\(\\frac{1}{2}\\) years and I = N4.50\nUsing the formula for simple interest:\n\\(I = P \\times r \\times T\\)\nRearranging to find the interest rate \\( r \\):\n\\(r = \\frac{I}{P \\times T}\\)\nSubstituting the values:\n\\(r = \\frac{4.50}{150 \\times 2.5}\\)\nCalculating \\( P \\times T \\):\n\\(P \\times T = 150 \\times 2.5 = 375\\)\nNow, substituting back to find \\( r \\):\n\\(r = \\frac{4.50}{375} = 0.012\\)\nCalculate the Interest for  N250.00 \\) for 6 Months\nWe need to calculate the interest for: P = N250.00, T = 6 months = 0.5yrs, r = 0.012\nUsing the interest formula again:\n\\(I = P \\times r \\times T\\)\nSubstituting the values:\n\\(I = 250 \\times 0.012 \\times 0.5\\)\n\\(I = 250 \\times 0.012 = 3\\)\nThen: \\(I = 3 \\times 0.5 = 1.50\\)\nThe interest on \\( N250.00 \\) for \\( 6 \\) months at the same rate is N1.5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8219",
+    "passage": ""
   }
 ]
