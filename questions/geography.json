@@ -10092,5 +10092,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8503",
     "passage": ""
+  },
+  {
+    "id": 8505,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "If the distance between two points on a map with scale 1: 50 000 is 28mm, what is the distance between them on the ground?",
+    "options": {
+      "A": "5.6 km",
+      "B": "2.8km",
+      "C": "1.4km",
+      "D": "0.7km"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8505",
+    "passage": ""
   }
 ]
