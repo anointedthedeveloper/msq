@@ -7037,5 +7037,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3006",
     "passage": ""
+  },
+  {
+    "id": 3007,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : Do come tonight, but don't expect me to speak to you because i .... an interesting programme on television when you arrive",
+    "options": {
+      "A": "am watching",
+      "B": "watch",
+      "C": "watched",
+      "D": "shall be watching",
+      "E": "have watched"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sentence refers to a future event where, by the time the person arrives, the speaker will be in the middle of watching an interesting program on television. The future continuous tense \"shall be watching\" indicates an ongoing action in the future.\nSo, the sentence should read: \"Do come tonight, but don't expect me to speak to you because I shall be watching an interesting programme on television when you arrive.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3007",
+    "passage": ""
   }
 ]
