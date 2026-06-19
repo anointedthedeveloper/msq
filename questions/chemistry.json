@@ -8125,5 +8125,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3291",
     "passage": ""
+  },
+  {
+    "id": 3292,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An emulsion may be produced by shaking a detergent solution with",
+    "options": {
+      "A": "palm wine",
+      "B": "ethanoic acid",
+      "C": "palm oil",
+      "D": "water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is C. Palm oil.\nAn emulsion is a mixture of two or more liquids that don't normally mix, such as oil and water. Detergents can help stabilize emulsions.\nPalm oil is an oil that can be emulsified with water using a detergent solution. When you shake a detergent solution with palm oil, the detergent molecules can help stabilize the mixture, creating an emulsion.\nThe other options won't produce an emulsion:\nA. Palm wine is a liquid that's already miscible with water.\nB. Ethanoic acid (acetic acid) is a polar solvent that's miscible with water.\nD. Water is already a component of the detergent solution, so shaking it with more water won't create an emulsion.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3292",
+    "passage": ""
   }
 ]
