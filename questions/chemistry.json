@@ -5016,5 +5016,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2256",
     "passage": ""
+  },
+  {
+    "id": 2257,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The structural component that makes detergent dissolve more quickly in water than soap is",
+    "options": {
+      "A": "-SO 3 - Na +",
+      "B": "-COO-Na -",
+      "C": "-SO 4 - Na +",
+      "D": "-COO-K +"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Soaps are made up of a fatty acid with a long alkyl chain and a '-COONa' group, while detergents are made up of a long alkyl chain and a '-SO3 Na\\(^+\\) group. The polar sulfonate in detergents makes them more soluble in hard water than soaps because it's less likely to bind to calcium and other ions in hard water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2257",
+    "passage": ""
   }
 ]
