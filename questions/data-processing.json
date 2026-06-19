@@ -7558,5 +7558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69773",
     "passage": ""
+  },
+  {
+    "id": 69774,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Advantages of parallel database include the following except",
+    "options": {
+      "A": "high availability",
+      "B": "greater flexibility",
+      "C": "high performance",
+      "D": "huge resources"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The advantages of parallel database include the following except huge resources . Advantages of parallel databases typically include: Greater Flexibility: Parallel databases can distribute and process data across multiple nodes, providing flexibility in handling various types of queries and workloads. High Availability: Parallel databases can offer improved fault tolerance and availability through redundancy and distribution of data. High Performance: Parallel processing allows for faster query execution and data processing, especially for complex analytical queries. However, \"huge resources\" is not typically considered an advantage of parallel databases. While parallel databases can efficiently utilize resources across multiple nodes, the emphasis is on utilizing resources effectively rather than simply having a large quantity of resources.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69774",
+    "passage": ""
   }
 ]
