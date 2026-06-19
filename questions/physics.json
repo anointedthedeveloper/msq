@@ -12036,5 +12036,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14504",
     "passage": ""
+  },
+  {
+    "id": 14505,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "From the diagram above, if the potential difference across the resistor, capacitor and inductor are 80 v, 110 v, 40 v respectively, the effective potential difference is?",
+    "options": {
+      "A": "116.3 V",
+      "B": "50.0 V",
+      "C": "230.0 V",
+      "D": "106.3 V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20422277148_pa.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891092/myschool/physics/20422277148_pa.jpg",
+    "correct_answer": "D",
+    "explanation": "V = √ \\({(v_l  -  v_c)}^2 + V^2R\\) V =√ \\({(40 - 110)}^2 + 80^2\\) V = √ \\({-70}^2 + 80^2\\) =√ 4900 + 6400 =√ 11300 = 106.3v\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14505",
+    "passage": ""
   }
 ]
