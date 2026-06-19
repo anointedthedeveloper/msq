@@ -3777,5 +3777,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50586",
     "passage": ""
+  },
+  {
+    "id": 50589,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(Px^{2} + (P+1)x + P = 0\\) has equal roots, find the values of P.",
+    "options": {
+      "A": "\\(\\text{-1 and }\\frac{-1}{3}\\)",
+      "B": "\\(\\text{1 and }\\frac{-1}{3}\\)",
+      "C": "\\(\\text{-1 and }\\frac{1}{3}\\)",
+      "D": "\\(\\text{1 and }\\frac{1}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For equal roots, \\(b^{2} - 4ac = 0\\)\nFrom the equation, \\(a = P, b = (P+1), c = P\\)\n\\((P+1)^{2} - 4(P)(P) = P^{2} + 2P + 1 - 4P^{2} = 0\\)\n\\(-3P^{2} + 2P + 1 = 0 \\implies 3P^{2} - 2P - 1 = 0\\)\n\\(3P^{2} - 3P + P - 1 = 0\\)\n\\(3P(P - 1) + 1(P - 1) = 0\\)\n\\(P = \\text{1 or }\\frac{-1}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50589",
+    "passage": ""
   }
 ]
