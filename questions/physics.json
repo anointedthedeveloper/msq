@@ -5248,5 +5248,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12804",
     "passage": ""
+  },
+  {
+    "id": 12805,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The difference between X-rays and gamma rays is that",
+    "options": {
+      "A": "x-rays are more penetrating than gamma rays",
+      "B": "x-rays are electromagnetic radiations while gamma rays are negatively charged radiation",
+      "C": "x-rays have higher frequencies than gamma rays",
+      "D": "x-rays arise from energy changes in the electronic structure of atoms while gamma rays come from the nucleus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Both X-rays and gamma rays are uncharged electromagnetic waves with similar high energy, but they differ mainly in their origin.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12805",
+    "passage": ""
   }
 ]
