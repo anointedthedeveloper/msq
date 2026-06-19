@@ -4009,5 +4009,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5473",
     "passage": ""
+  },
+  {
+    "id": 5474,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "On November 1, 1998, Zaria Holdings owed N13,600 in respect of a creditor. On November 15, it purchases goods worth N69,000 and paid a cheque of N51,600. On November 29, one of the Holdings' cheques worth N3,000 was returned while the creditor granted a N1,500 discount. The amount owed by Zaria Holdings as at November 29 is?",
+    "options": {
+      "A": "N32,500",
+      "B": "N32,000",
+      "C": "N31,000",
+      "D": "N29,500"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "13,600 + (69,000 - 51,600) + 3,000 - 1500 (discount)\n13,600 + 17,400 + 3000 - 1500 = 32,500",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5474",
+    "passage": ""
   }
 ]
