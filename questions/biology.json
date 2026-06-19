@@ -614,5 +614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/340",
     "passage": ""
+  },
+  {
+    "id": 341,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "which of these elements in plants is required in small quantities only",
+    "options": {
+      "A": "Boron",
+      "B": "Nitrogen",
+      "C": "Phosphorus",
+      "D": "Magnesium",
+      "E": "Potassium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Boron (B) is not required by plants in high amounts, but can cause serious growth problems if it is not supplied at appropriate levels.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/341",
+    "passage": ""
   }
 ]
