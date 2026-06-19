@@ -9469,5 +9469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3981",
     "passage": ""
+  },
+  {
+    "id": 3982,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following alkanes has the highest boiling point?",
+    "options": {
+      "A": "Pentane",
+      "B": "Ethane",
+      "C": "Propane",
+      "D": "Methane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Pentane.\nBoiling point increases with molecular weight and size in alkanes, due to increased London dispersion forces (also known as van der Waals forces).The order of boiling points for the given options is:\nMethane (boiling point: -161.5°C) < Ethane (boiling point: -88.5°C) < Propane (boiling point: -42.2°C) < Pentane (boiling point: 36.1°C). Therefore, Pentane has the highest boiling point among the given options.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3982",
+    "passage": ""
   }
 ]
