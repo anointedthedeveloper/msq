@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50178",
     "passage": ""
+  },
+  {
+    "id": 50184,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Express cos150° in surd form.",
+    "options": {
+      "A": "\\(-\\sqrt{3}\\)",
+      "B": "\\(-\\frac{\\sqrt{3}}{2}\\)",
+      "C": "\\(-\\frac{1}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "cos150° = -cos30°\n= \\(-\\frac{\\sqrt{3}}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50184",
+    "passage": ""
   }
 ]
