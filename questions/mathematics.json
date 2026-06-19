@@ -9784,5 +9784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10410",
     "passage": ""
+  },
+  {
+    "id": 10411,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In the diagram above, if ∠RPS = 50o, ∠RPQ = 30o and PQ = QR, find the value of ∠PRS.",
+    "options": {
+      "A": "80 o",
+      "B": "70 o",
+      "C": "60 o",
+      "D": "50 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16295181348_math200029.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868922/myschool/mathematics/16295181348_math200029.jpg",
+    "correct_answer": "B",
+    "explanation": "Δ PQR is isosceles ∴∠PRQ = 30o Also in Δ PQR ^Q = 180 -(30 + 30) = 120o PQRS is a cyclic quad ∴^S + ^Q = 180(opp ∠s of a cyclic quad) S + 120 = 180 S = 60o In ΔPSR x + 50 + 60 = 180(sum of ∠s of a Δ) x + 110 = 180 x = 180 - 110 x = 70o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10411",
+    "passage": ""
   }
 ]
