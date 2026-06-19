@@ -9238,5 +9238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3845",
     "passage": ""
+  },
+  {
+    "id": 3849,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "If the electron configuration of an element is 1S\\(^2\\) 2S\\(^2\\)2P\\(^5\\), how many unpaired electron are there?",
+    "options": {
+      "A": "2",
+      "B": "8",
+      "C": "1",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When the electrons are drawn out in the orbitals, following the Hund's rule, the diagram above is what will be obtained.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3849",
+    "passage": ""
   }
 ]
