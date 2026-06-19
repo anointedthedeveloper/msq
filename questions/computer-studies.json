@@ -2550,5 +2550,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61815",
     "passage": ""
+  },
+  {
+    "id": 61816,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "We can improve computer security by the use of?",
+    "options": {
+      "A": "account number",
+      "B": "ID number",
+      "C": "layout",
+      "D": "password",
+      "E": "user names"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61816",
+    "passage": ""
   }
 ]
