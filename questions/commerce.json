@@ -14175,5 +14175,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7396",
     "passage": ""
+  },
+  {
+    "id": 7398,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The principle of insurance which entitles an insurance company to take any advantage due to the insured after full indemnity is?",
+    "options": {
+      "A": "contribution",
+      "B": "subrogation",
+      "C": "promiate cause",
+      "D": "utmost good faith"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Subrogation is a term describing a right held by most insurance companies to legally pursue a third party that caused an insurance loss to the insured.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7398",
+    "passage": ""
   }
 ]
