@@ -11911,5 +11911,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22359",
     "passage": ""
+  },
+  {
+    "id": 22360,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above, O is the center of the circle. Calculate the length of the chord AB if |OA| = 5cm, |OD| = 3cm and ∠AOD = ∠BOD",
+    "options": {
+      "A": "3cm",
+      "B": "4cm",
+      "C": "5cm",
+      "D": "8cm",
+      "E": "15cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/22130549168_wcmath198923.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907362/myschool/mathematics/22130549168_wcmath198923.jpg",
+    "correct_answer": "D",
+    "explanation": "In \\(\\Delta DOB\\), let < DOB = \\(\\alpha\\)\nIn \\(\\Delta DOB\\), \\(5^2 = 3^2 + s^2\\)\n\\(s^2 = 25 - 9 = 16\\)\n\\(s = 4cm\\)\n\\(\\sin \\alpha = \\frac{4}{5}\\)\n\\(\\alpha = \\frac{< AOB}{2}\\)\nLength of chord = \\(2r \\sin (\\frac{\\theta}{2})\\)\n|OB| = r = 5cm\nL = \\(2(5)(\\frac{4}{5})\\)\n= 8 cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22360",
+    "passage": ""
   }
 ]
