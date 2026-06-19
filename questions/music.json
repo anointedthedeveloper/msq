@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76282",
     "passage": ""
+  },
+  {
+    "id": 76283,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The folk symphony is a nationalistic work by",
+    "options": {
+      "A": "Fela Sowande",
+      "B": "Ayo Bankole",
+      "C": "Bode Omojola",
+      "D": "Akin Euba"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The folk symphony is a nationalistic work by Fela Sowande. Fela Sowande was a Nigerian musician and composer who is considered the father of modern Nigerian art music and was the first African composer to be widely recognised for his work in the European classical tradition.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76283",
+    "passage": ""
   }
 ]
