@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48057",
     "passage": ""
+  },
+  {
+    "id": 48058,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Plasticine is an art medium that can be used in place of",
+    "options": {
+      "A": "wood",
+      "B": "ivory",
+      "C": "mud",
+      "D": "clay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48058",
+    "passage": ""
   }
 ]
