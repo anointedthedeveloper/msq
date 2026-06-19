@@ -10912,5 +10912,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69538",
     "passage": ""
+  },
+  {
+    "id": 69539,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A person born in Ghana by Nigerian parents and resides in Ghana is a citizen of",
+    "options": {
+      "A": "Nigerian by registration",
+      "B": "Ghana by birth",
+      "C": "Ghana by naturalization",
+      "D": "Nigeria by birth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "If you are born in Ghana to parents who are not Ghanaian citizens, you are not considered a Ghanaian citizen by birth.  According to Nigerian law, a person is considered a Nigerian citizen by birth if:\nThey were born in Nigeria and at least one parent or grandparent is a Nigerian citizen. They were born outside Nigeria but at least one parent is a Nigerian citizen.\nIn this scenario, the person was born in Ghana to Nigerian parents. This means that, under Nigerian law, the person is a Nigerian citizen by birth because his/her parents are Nigerian citizens, regardless of location of birth. So, even though the person was born in Ghana, the citizenship follows the nationality of his/her parents, making the person a Nigerian citizen by birth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69539",
+    "passage": ""
   }
 ]
