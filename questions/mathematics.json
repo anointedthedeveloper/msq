@@ -9951,5 +9951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10419",
     "passage": ""
+  },
+  {
+    "id": 10420,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The table above shows the frequency distribution of the ages (in years) of pupils in a certain secondary school. What percentage of the total number of pupils is over 15 years but less than 21 years?",
+    "options": {
+      "A": "35%",
+      "B": "45%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1I6nhU12wMhi37iBHd1WXDUa4LAGblLZgV4dofDk.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868938/myschool/mathematics/1I6nhU12wMhi37iBHd1WXDUa4LAGblLZgV4dofDk.png",
+    "correct_answer": "C",
+    "explanation": "% of those above 15 but less than 21 years age = \\(\\frac{25}{50}\\) x \\(\\frac{100}{1}\\) = 50%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10420",
+    "passage": ""
   }
 ]
