@@ -7033,5 +7033,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9236",
     "passage": ""
+  },
+  {
+    "id": 9237,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Evaluate \\(\\frac{(0.5625)^2 - (0.4375)^2}{0.04}\\) correct to three significant figures",
+    "options": {
+      "A": "3.11",
+      "B": "3.13",
+      "C": "0.313",
+      "D": "3.12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{(0.5625)^2) -  (0.4375)^2}{0.04}\\) \\(\\frac{(0.5625 + 0.4375)(0.5625 - 0.4375)}{0.04}\\) \\(\\frac{1.000\\times 0.125}{0.04}\\) = 3.125 = 3.13\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9237",
+    "passage": ""
   }
 ]
