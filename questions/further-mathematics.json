@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50259",
     "passage": ""
+  },
+  {
+    "id": 50261,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A curve is given by \\(y = 5 - x - 2x^{2}\\). Find the equation of its line of symmetry.",
+    "options": {
+      "A": "\\(x = \\frac{-41}{8}\\)",
+      "B": "\\(x = \\frac{-1}{4}\\)",
+      "C": "\\(x = \\frac{1}{4}\\)",
+      "D": "\\(x = \\frac{41}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The line of symmetry of the curve is at the minimum point of the curve (ie y' = 0)\n\\(\\frac{ \\mathrm d}{ \\mathrm d x} \\left ( 5-x-2x^{2} \\right)\\) = -1 - 4x\nIf y' = 0, we have \\(-1 - 4x = 0 \\implies 4x = -1\\)\n\\(x = \\frac{-1}{4}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50261",
+    "passage": ""
   }
 ]
