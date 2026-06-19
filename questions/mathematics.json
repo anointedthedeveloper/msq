@@ -11075,5 +11075,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22098",
     "passage": ""
+  },
+  {
+    "id": 22099,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "A student measured the length of a room and obtained the measurement of 3.99m. If the percentage error of is measurement was 5% and his own measurement was smaller than the length , what is the length of the room?",
+    "options": {
+      "A": "3.78m",
+      "B": "3.80m",
+      "C": "4.18m",
+      "D": "4.20m",
+      "E": "4.788m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Let the actual length of the room = y m\n\\(\\therefore \\frac{y - 3.99}{y} \\times 100 = 5%\\)\n\\(100(y - 3.99) = 5y \\implies 100y - 399 = 5y\\)\n\\(100y - 5y = 399 \\implies y = \\frac{399}{95}\\)\ny = 4.2 m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22099",
+    "passage": ""
   }
 ]
