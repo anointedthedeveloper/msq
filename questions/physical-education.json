@@ -3799,5 +3799,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70716",
     "passage": ""
+  },
+  {
+    "id": 70717,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What type of flooring is usually used for indoor basketball courts?",
+    "options": {
+      "A": "Asphalt",
+      "B": "Hardwood",
+      "C": "Grass",
+      "D": "Carpet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hardwood flooring is commonly used for indoor basketball courts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70717",
+    "passage": ""
   }
 ]
