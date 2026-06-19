@@ -2392,5 +2392,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75379",
     "passage": ""
+  },
+  {
+    "id": 75380,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the use of tints and shades in a painting primarily meant to show?",
+    "options": {
+      "A": "Saturation",
+      "B": "Hue",
+      "C": "Value",
+      "D": "Temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tints (lighter versions) and shades (darker versions) of a color are used to show value , which refers to the lightness or darkness in a painting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75380",
+    "passage": ""
   }
 ]
