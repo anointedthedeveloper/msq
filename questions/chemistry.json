@@ -1782,5 +1782,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1477",
     "passage": ""
+  },
+  {
+    "id": 1478,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "POlyvinyl chloride is used to produce",
+    "options": {
+      "A": "bread",
+      "B": "pencils",
+      "C": "ink",
+      "D": "pipes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1478",
+    "passage": ""
   }
 ]
