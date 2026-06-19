@@ -11639,5 +11639,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68524",
     "passage": ""
+  },
+  {
+    "id": 68525,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which African leader famously stated, \"I am the captain of my soul\" and became an icon of the decolonization movement?",
+    "options": {
+      "A": "Nelson Mandela",
+      "B": "Julius Nyerere",
+      "C": "Patrice Lumumba",
+      "D": "Jomo Kenyatta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Nelson Mandela famously stated, \"I am the captain of my soul.\" This quote is from the poem 'Invictus' by William Ernest Henley, which Mandela recited to other prisoners while he was incarcerated. Mandela became an icon of the decolonization movement in Africa, particularly in his home country of South Africa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68525",
+    "passage": ""
   }
 ]
