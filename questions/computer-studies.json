@@ -17502,5 +17502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69840",
     "passage": ""
+  },
+  {
+    "id": 69841,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The usage of the keys CTRL + W in Ms Word",
+    "options": {
+      "A": "closes the current window.",
+      "B": "updates the current web page.",
+      "C": "opens the print dialogue box.",
+      "D": "saves the current file."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The usage of the keys \"CTRL + W\" in Microsoft Word is to \"close the current window.\" When you press \"CTRL + W\" in Microsoft Word, it closes the currently active document window. This action doesn't save the document if changes have been made; it simply closes the window. If there are unsaved changes, Word will prompt you to save before closing. This keyboard shortcut is used to quickly close documents and is commonly found in many applications to close active windows or tabs. To close the current window using Ctrl + W, simply press and hold the Ctrl key and then press the W key. The current window will be closed immediately.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69841",
+    "passage": ""
   }
 ]
