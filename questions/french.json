@@ -959,5 +959,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48157",
     "passage": ""
+  },
+  {
+    "id": 48158,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Le son// se trouve à la fin du mot",
+    "options": {
+      "A": "valet",
+      "B": "vallée",
+      "C": "forée",
+      "D": "forcer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48158",
+    "passage": ""
   }
 ]
