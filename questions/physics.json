@@ -12677,5 +12677,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21202",
     "passage": ""
+  },
+  {
+    "id": 21205,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following cannot be used to measure the temperature of a substance?",
+    "options": {
+      "A": "variation of pressure with temperature",
+      "B": "expansivity of a liquid",
+      "C": "change in resistance of a conductor",
+      "D": "thermometric effect",
+      "E": "change in color with temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21205",
+    "passage": ""
   }
 ]
