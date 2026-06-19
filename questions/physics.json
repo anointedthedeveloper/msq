@@ -10858,5 +10858,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14389",
     "passage": ""
+  },
+  {
+    "id": 14390,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The instantaneous value of the induced e.m.f as a function of time is ε = ε\no\nsin ωt where ε\no\nis the peak value of the e.m.f. The instantaneous value of the e.m.f., one quarter of the period is",
+    "options": {
+      "A": "0.00",
+      "B": "ε o / 4",
+      "C": "ε o / 2",
+      "D": "ε o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14390",
+    "passage": ""
   }
 ]
