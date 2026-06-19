@@ -20381,5 +20381,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76763",
     "passage": ""
+  },
+  {
+    "id": 76766,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following items best describes the term hard copy?",
+    "options": {
+      "A": "Print out",
+      "B": "Written on a hard board",
+      "C": "Information stored on a hard disk",
+      "D": "Amount of data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A hard copy refers to a printed document or material that is in a physical form. It is a physical version of a digital document. Therefore, the term 'hard copy' is best described as a 'printout'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76766",
+    "passage": ""
   }
 ]
