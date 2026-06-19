@@ -6486,5 +6486,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2941",
     "passage": ""
+  },
+  {
+    "id": 2942,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Sodium metal is always kept under oil because it",
+    "options": {
+      "A": "Readily reacts with water",
+      "B": "Is reduced by atmospheric nitrogen",
+      "C": "Reacts vigorously on exposure to air",
+      "D": "Reacts with oxygen and carbon (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sodium metal is always kept under oil, typically kerosene, because it is a highly reactive metal that readily reacts with oxygen and moisture in the air, potentially causing a fire if exposed directly; by submerging it in oil, this contact is prevented and the metal remains stable. Also, sodium metal reacts vigorously with oxygen and carbon dioxide in air as it is a highly reactive metal that can catch fire and burn when exposed to air. It reacts vigorously with air, especially in the presence of moisture. Sodium is a highly reactive metal that can ignite spontaneously in air.\nOption D would have been also correct but option C is more detailed and all encompassing because in air, we have O\\(_2\\). CO\\(_2\\). as well as water vapour. Therefore, option C is the correct answer\nIn summary, while sodium reacts vigorously with all three (oxygen and water), preventing the reaction with oxygen and moisture is the most important reason for storing it under oil because these reactions are more exothermic and potentially dangerous.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2942",
+    "passage": ""
   }
 ]
