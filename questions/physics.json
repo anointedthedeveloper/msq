@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/329",
     "passage": ""
+  },
+  {
+    "id": 330,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A gas at a volume of V0 in a container at pressure P0 is compressed to one-fifth of its volume. What will be its pressure if the magnitude of its original temperature T is constant?",
+    "options": {
+      "A": "P 0 /5",
+      "B": "4P 0 /5",
+      "C": "P 0",
+      "D": "5P 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "At constant T, P1 V1 = P2 V2. Let P1 = P0 and V1 = V0, then solve accordingly.\nAs pressure is varies inversely as volume according to: Boyle's law, also referred to as the Boyle–Mariotte law, or Mariotte's law, is an experimental gas law that describes how the pressure of a gas tends to decrease as the volume of the container increases. As volume is reduced by one-fifth; pressure will increase by five times.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/330",
+    "passage": ""
   }
 ]
