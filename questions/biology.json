@@ -1670,5 +1670,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/412",
     "passage": ""
+  },
+  {
+    "id": 413,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Identical twins are produced under one of the following conditions",
+    "options": {
+      "A": "Two oval fertilized at the same time by two sperm",
+      "B": "one ovum ferilized divides to give two embryos",
+      "C": "one ovum fertilized, twins formed shortly before birth",
+      "D": "Two ova fertilized by one sperm",
+      "E": "one ovum fertilized by two sperm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/413",
+    "passage": ""
+  },
+  {
+    "id": 414,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The one-seeded fuit in which the pericarp and the seed coat have become fused together is known as",
+    "options": {
+      "A": "achene",
+      "B": "samara",
+      "C": "caryopsis",
+      "D": "legume",
+      "E": "drupe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/414",
+    "passage": ""
+  },
+  {
+    "id": 415,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The major function of contractile vacuole in amoeba is?",
+    "options": {
+      "A": "to secrete enzyme to digest food particles",
+      "B": "to store excess food materials",
+      "C": "to excrete nitrogenous waste",
+      "D": "to absorb water from the surrounding",
+      "E": "to collect and expel water in the cytoplasm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "- The contractile vacuole (CV) complex is an osmoregulatory organelle of free-living amoebae and protozoa, which controls the intracellular water balance by accumulating and expelling excess water out of the cell, allowing cells to survive under hypotonic stress as in pond water.\n- This implies that the contractile vacuole, as its name suggests, expels water out of the cell by contracting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/415",
+    "passage": ""
+  },
+  {
+    "id": 416,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Grasses → grasshopper→ lizard → snakes → hawks. In the food chain, the organism which are the least in number are",
+    "options": {
+      "A": "grasses",
+      "B": "grasshopper",
+      "C": "lizards",
+      "D": "snakes",
+      "E": "hawks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Tertiary consumers are typically the least numerous in a food chain because of energy loss at each trophic level, with only about 10% of energy being transferred to the next level, limiting the amount of energy available to support higher-level consumers.\nAs energy flows up the food chain, a significant amount is lost as heat, used for metabolism, and not all food is consumed or digested. Only about 10% of the energy from one trophic level is available to the next. This energy loss means that there's less energy available to support larger populations of tertiary consumers, which are at the top of the food chain.\nIn summary, as you move from left to right, i.e from the primary producers to the primary consumer to secondary producers and so on, the number of species decreases due to energy loss at each trophic level, thereby limiting the amount of energy available to support the higher level consumers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/416",
+    "passage": ""
   }
 ]
