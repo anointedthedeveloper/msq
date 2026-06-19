@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50320",
     "passage": ""
+  },
+  {
+    "id": 50329,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "\\(P = {1, 3, 5, 7, 9}, Q = {2, 4, 6, 8, 10, 12}, R = {2, 3, 5, 7, 11}\\) are subsets of \\(U = {1, 2, 3, ... , 12}\\). Which of the following statements is true?",
+    "options": {
+      "A": "\\(Q \\cap R = \\varnothing\\)",
+      "B": "\\(R \\subset P\\)",
+      "C": "\\((R \\cap P) \\subset (R \\cap U)\\)",
+      "D": "\\(n(P' \\cap R) = 2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All the statements are false except option C.\n\\(R \\cap P = {3, 5, 7} and R \\cap U = {2, 3, 5, 7, 11}\\)\n\\(\\therefore (R \\cap P) \\subset (R \\cap U)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50329",
+    "passage": ""
   }
 ]
