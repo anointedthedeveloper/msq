@@ -2814,5 +2814,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73101"
+  },
+  {
+    "id": 73102,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2009",
+    "question": "Irú iwà wo ni Şùbòmí fi hàn nínú àyokà yii?",
+    "options": {
+      "A": "Sùúrù",
+      "B": "İgbraga",
+      "C": "Ojúkòròrò",
+      "D": "İjekúję"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73102"
   }
 ]
