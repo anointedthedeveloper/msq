@@ -14917,5 +14917,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64979",
     "passage": ""
+  },
+  {
+    "id": 64980,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "In number system ,base 16 is called ?",
+    "options": {
+      "A": "hexadecimal",
+      "B": "decimal",
+      "C": "duodecimal",
+      "D": "octal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64980",
+    "passage": ""
   }
 ]
