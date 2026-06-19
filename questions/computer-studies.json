@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60229",
     "passage": ""
+  },
+  {
+    "id": 60230,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In ring topology, the computer that is allowed to transmit data possesses the ________",
+    "options": {
+      "A": "Packet",
+      "B": "Data",
+      "C": "Access method",
+      "D": "Token"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In a ring topology, the computer that is allowed to transmit data possesses the token. A token is a small data packet that circulates the network in a specific order.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60230",
+    "passage": ""
   }
 ]
