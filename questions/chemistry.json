@@ -984,5 +984,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/828",
     "passage": ""
+  },
+  {
+    "id": 829,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following gases will diffuse fastest when passed through a porous plug? [H = 1, C = 12, N = 14, O = 16]",
+    "options": {
+      "A": "Propane",
+      "B": "Oxygen",
+      "C": "Methane",
+      "D": "Ammonia"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The rate of diffusion is inversely proportional to the square root of the relative molecular mass; in other words, lighter molecules diffuse faster than heavier ones.\nThe relationship between diffusion rate and molecular mass is an inverse one. This means that as the molecular mass of a substance increases, its diffusion rate decreases. Conversely, substances with lower molecular masses will diffuse more quickly.\nRelative molecular mass of :\n(a) Propane, C\\(_3\\)H\\(_8\\) = (12 x 3) + (1 x 8) = 36 + 8 = 44\n(b) Oxygen, O\\(_2\\) = 16 x 2 = 32\n(c) Methane, CH\\(_4\\) = 12 + (1x4) = 12 + 4 = 16\n(d) Ammonia, NH\\(_3\\) = 14 + (1 x 3) = 17\nSince CH\\(_4\\) has the least molecular mass compared to other options, it has the highest diffusion rate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/829",
+    "passage": ""
   }
 ]
