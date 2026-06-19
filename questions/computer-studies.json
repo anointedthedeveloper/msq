@@ -20444,5 +20444,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76799",
     "passage": ""
+  },
+  {
+    "id": 76800,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Fig 1 is a logic gate; use it to answer these questions. Fig 1 represents?",
+    "options": {
+      "A": "a NAND gate",
+      "B": "an AND gate",
+      "C": "a NOT gae",
+      "D": "an OR gate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/sf7MfHyRacHHAfu31DaVqeW5nfLvlzhiiHEj4Dq6.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905099/myschool/computer-studies/sf7MfHyRacHHAfu31DaVqeW5nfLvlzhiiHEj4Dq6.png",
+    "correct_answer": "D",
+    "explanation": "The diagram labeled Fig. 1 illustrates an OR gate, a fundamental logic gate used in digital circuits. An OR gate produces a high output (1) if any of its inputs are high (1). It acts as a logical OR operation, returning true if any of its inputs are true.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76800",
+    "passage": ""
   }
 ]
