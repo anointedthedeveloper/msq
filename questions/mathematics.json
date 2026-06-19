@@ -12394,5 +12394,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22414",
     "passage": ""
+  },
+  {
+    "id": 22415,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The angle of depression of a point on the ground from the top of a building is 20.3\no\n. If the foot of the building is 40m, calculate the height of the building, correct to one decimal place",
+    "options": {
+      "A": "37.5m",
+      "B": "28.1m",
+      "C": "27.8m",
+      "D": "14.8m",
+      "E": "13.9m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "h = 40 / tan 69.7 = 40 / 2.703 h = 14.79 = 14.8",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22415",
+    "passage": ""
   }
 ]
