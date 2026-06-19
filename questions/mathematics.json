@@ -10679,5 +10679,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22040",
     "passage": ""
+  },
+  {
+    "id": 22043,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Points P and Q respectively 24m north and 7m east point R. Calculate |PQ| in meters",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "25",
+      "D": "31",
+      "E": "84"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "PQ\\(^2\\) = 24\\(^2\\) + 7\\(^2\\) PQ\\(^2\\) = 625 PQ = 25",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22043",
+    "passage": ""
   }
 ]
