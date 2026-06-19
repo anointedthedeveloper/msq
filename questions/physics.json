@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/702",
     "passage": ""
+  },
+  {
+    "id": 703,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "I. Coherence II. Same frequency III. Same wavelength IV. Same Intensity Which of the conditions above are necessary to produce interference fringes?",
+    "options": {
+      "A": "I and III",
+      "B": "I, II and IV",
+      "C": "I, II and III",
+      "D": "II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The necessary conditions to produce interference fringes are I (Coherence) , II (Same Frequency) , and III (Same Wavelength) . Condition IV (Same Intensity) is not necessary .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/703",
+    "passage": ""
   }
 ]
