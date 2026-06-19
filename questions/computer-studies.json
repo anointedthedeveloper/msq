@@ -11074,5 +11074,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64105",
     "passage": ""
+  },
+  {
+    "id": 64106,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When does the output of a NAND gate =1?",
+    "options": {
+      "A": "whenever a 0 is present at an input",
+      "B": "only when all input =0",
+      "C": "whenever 1 is present at an input",
+      "D": "only when all input =1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Whenever a 0 is present at an input, NAND gate = 1.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64106",
+    "passage": ""
   }
 ]
