@@ -1270,5 +1270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57716",
     "passage": ""
+  },
+  {
+    "id": 57717,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An operating system will perform the following except",
+    "options": {
+      "A": "files and folder arrangement",
+      "B": "storage location",
+      "C": "user profile creation",
+      "D": "protection from surge"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57717",
+    "passage": ""
   }
 ]
