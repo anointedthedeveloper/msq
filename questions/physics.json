@@ -17361,5 +17361,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25012",
     "passage": ""
+  },
+  {
+    "id": 25013,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "An object is placed between two mirrors which are inclined at an angle of 120° and facing each other. Determine the number of images observed in the two mirrors",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4",
+      "E": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Number of images = (360 / 120) - 1\n= 3 - 1 = 2\nnumber of images formed = 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25013",
+    "passage": ""
   }
 ]
