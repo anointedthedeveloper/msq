@@ -13951,5 +13951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64433",
     "passage": ""
+  },
+  {
+    "id": 64434,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "_________ are programmes that affect the effectiveness of a computer system.",
+    "options": {
+      "A": "bugs",
+      "B": "virus",
+      "C": "anti virus",
+      "D": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Virus is a piece of code which is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64434",
+    "passage": ""
   }
 ]
