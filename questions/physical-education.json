@@ -2896,5 +2896,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68287",
     "passage": ""
+  },
+  {
+    "id": 68288,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a throw event ?",
+    "options": {
+      "A": "javelin throw",
+      "B": "pole vault",
+      "C": "hammer throw",
+      "D": "shot put"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Pole vault is not a throw event. It is a field event in athletics where a person uses a long, flexible pole (which today is usually made either of fiberglass or carbon fiber) as an aid to jump over a bar. Javelin throw, shot put, and hammer throw are all throw events.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68288",
+    "passage": ""
   }
 ]
