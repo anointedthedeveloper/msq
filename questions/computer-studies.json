@@ -6816,5 +6816,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62504",
     "passage": ""
+  },
+  {
+    "id": 62505,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Use the MS Excel table below to answer questions 42 and43\nThe formula used to compute the TOTAL VALUE in cell D7 is?",
+    "options": {
+      "A": "= sum (D2:D7).",
+      "B": "= sum (D3:D7).",
+      "C": "= sum (D2:D6).",
+      "D": "= sum (D3:D6)."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "=  sum (D3:D6).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62505",
+    "passage": ""
   }
 ]
