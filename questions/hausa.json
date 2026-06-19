@@ -3105,5 +3105,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73749",
     "passage": ""
+  },
+  {
+    "id": 73750,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Wane baki ne ba bahanke ba?",
+    "options": {
+      "A": "/z/",
+      "B": "/m/",
+      "C": "/d/",
+      "D": "/g/"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Therefore, the correct answer is /z/",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73750",
+    "passage": ""
   }
 ]
