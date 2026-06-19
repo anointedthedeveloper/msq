@@ -3142,5 +3142,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58430",
     "passage": ""
+  },
+  {
+    "id": 58431,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Graphical User Interface is considered user friendly because of the following reasons except that it",
+    "options": {
+      "A": "compels the user to learn all the command before operating the system",
+      "B": "displays all the actions available to the user for easy access.",
+      "C": "is easier for user to operate and understand",
+      "D": "makes the icons and menu familiar to the user"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A graphical user interface is a visual way of interacting with a computer using items such as windows, icons, and menus, used by most modern operating systems. It allows users to interact with electronic devices through graphical icons and audio indicators such as primary notation, instead of text-based user interface, typed commands and labels, or text navigation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58431",
+    "passage": ""
   }
 ]
