@@ -14695,5 +14695,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12938",
     "passage": ""
+  },
+  {
+    "id": 12940,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "Smoke consist of?",
+    "options": {
+      "A": "solid particles dispersed in liquid",
+      "B": "solid or liquid particles dispersed in gas",
+      "C": "gas or liquid particles dispersed inliquid",
+      "D": "liquid particles dispersed inliquid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12940",
+    "passage": ""
   }
 ]
