@@ -3127,5 +3127,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5906",
     "passage": ""
+  },
+  {
+    "id": 5907,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Simplify \\(\\frac{\\sqrt{98} - \\sqrt{50}}{\\sqrt{32}}\\)",
+    "options": {
+      "A": "3",
+      "B": "1",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{1}{4}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\sqrt{98} - \\sqrt{50}}{\\sqrt{32}}\\) = \\(\\frac{\\sqrt{49 \\times 2} - \\sqrt{25 \\times 2}}{\\sqrt{16 \\times 2}}\\) => \\(\\frac{7\\sqrt{2} - 5\\sqrt{2}}{4\\sqrt{2}}\\) = \\(\\frac{2\\sqrt{2}}{4\\sqrt{2}}\\) = \\(\\frac{1}{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5907",
+    "passage": ""
   }
 ]
