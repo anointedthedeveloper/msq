@@ -15009,5 +15009,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24112",
     "passage": ""
+  },
+  {
+    "id": 24113,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The eye defect illustrated by the diagram above is",
+    "options": {
+      "A": "astigmatism",
+      "B": "long sightedness",
+      "C": "loss accommodation",
+      "D": "short sightedness",
+      "E": "colour blindness"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2772226060_wcphy199033.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891930/myschool/physics/2772226060_wcphy199033.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24113",
+    "passage": ""
   }
 ]
