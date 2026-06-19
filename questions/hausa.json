@@ -921,5 +921,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73521",
     "passage": ""
+  },
+  {
+    "id": 73522,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "'Ni da kai da su duk dogaye ne.' Wakilin suna nawa ne a wannan jimla?",
+    "options": {
+      "A": "Biyu",
+      "B": "Uku",
+      "C": "Biyar",
+      "D": "Hudu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Uku. The question is asking how many nouns are in the sentence. The sentence is \"Ni da kai da su duk dogaye ne\" which means \"I, you, and the' are all happy\". There are three nouns in the sentence: \"Ni\" (I), \"kai\" (you), and \"su\" (they). Therefore, the correct answer is Uku (three).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73522",
+    "passage": ""
   }
 ]
