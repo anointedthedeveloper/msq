@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73555",
     "passage": ""
+  },
+  {
+    "id": 73556,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ehee ka i na-aga?",
+    "options": {
+      "A": "Ha na-abịa",
+      "B": "Anyị na-aga njem",
+      "C": "Mụ na ha na-aga njem",
+      "D": "Ana m aga akwụkwọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Anyị na-aga njem. The question \"Ebee ka i na-aga?\" means \"Where are you going?\" in Igb The correct response is \"Anyị na-aga njem\", which means \"We are going on a journey\" or \"We are traveling\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73556",
+    "passage": ""
   }
 ]
