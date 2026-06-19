@@ -8041,5 +8041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3287",
     "passage": ""
+  },
+  {
+    "id": 3288,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An example of aliphatic unsaturated hydrocarbon is",
+    "options": {
+      "A": "pentane",
+      "B": "butanol",
+      "C": "propene",
+      "D": "benzene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Unsaturated hydrocarbons are organic compounds that are entirely made up of carbon and hydrogen atoms and consist of a double or a triple bond.\nUnsaturated hydrocarbons are compounds composed of carbon and hydrogen atoms, with one or more carbon-carbon double or triple bonds in their chemical structure.\nIn other words, unsaturated hydrocarbons are the Alkenes(C=C) and the Alkynes (C≡C). Hence, propene is the only alkene member in the given options.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3288",
+    "passage": ""
   }
 ]
