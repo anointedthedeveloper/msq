@@ -3373,5 +3373,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6321",
     "passage": ""
+  },
+  {
+    "id": 6323,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "What is the commodity associated with OPEC?",
+    "options": {
+      "A": "iron and steel",
+      "B": "mineral oil",
+      "C": "vegetable oil",
+      "D": "sugar",
+      "E": "coffee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6323",
+    "passage": ""
   }
 ]
