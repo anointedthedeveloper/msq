@@ -1469,5 +1469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/980",
     "passage": ""
+  },
+  {
+    "id": 985,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Legislative control of public corporation in Nigeria is effected through",
+    "options": {
+      "A": "the dissolution of their management",
+      "B": "the reorganization of their boards",
+      "C": "acts of the National Assembly",
+      "D": "bye-laws"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/985",
+    "passage": ""
   }
 ]
