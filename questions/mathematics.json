@@ -8524,5 +8524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9310",
     "passage": ""
+  },
+  {
+    "id": 9311,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Simplify \\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\)",
+    "options": {
+      "A": "17-√7",
+      "B": "4-√7",
+      "C": "15+√7",
+      "D": "7-√7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}=\\frac{5+\\sqrt{7}}{3+\\sqrt{7}}\\times \\frac{3-\\sqrt{7}}{3-\\sqrt{7}}\\) =\\(\\frac{(5+\\sqrt{7})(3-\\sqrt{7})}{3^2 - \\sqrt{7}^2}\\) =\\(\\frac{15-5\\sqrt{7}+3\\sqrt{7}-7}{9-7}\\) = \\(\\frac{8-2\\sqrt{7}}{2}\\) Factorize, then divide by 2 \\(=\\frac{2(4-\\sqrt{7}}{2})\\) =4-\\(\\sqrt{7}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9311",
+    "passage": ""
   }
 ]
