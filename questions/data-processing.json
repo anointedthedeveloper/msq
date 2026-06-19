@@ -5681,5 +5681,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62587",
     "passage": ""
+  },
+  {
+    "id": 62588,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The type of computer that counts in discrete form only is referred to as",
+    "options": {
+      "A": "analog computer",
+      "B": "digital computer",
+      "C": "hybrid computer",
+      "D": "mainframe computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Digital computers represent data as discrete signals, which means that data is represented using binary digits or bits, which have a value of either 0 or 1.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62588",
+    "passage": ""
   }
 ]
