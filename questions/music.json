@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76293",
     "passage": ""
+  },
+  {
+    "id": 76294,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The chord progression in the passage above is",
+    "options": {
+      "A": "Ib – Vb – IVc - Ia",
+      "B": "Ia – Va – Va - Ia",
+      "C": "Ia – iib – Vc - Ib",
+      "D": "Ia – Vb – Va - Ia."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/dMP9xN5X5y2PWfPEz0NE8p5tNo9S6MnbwiUzsfqy.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890450/myschool/music/dMP9xN5X5y2PWfPEz0NE8p5tNo9S6MnbwiUzsfqy.png",
+    "correct_answer": "B",
+    "explanation": "The chord progression in the passage is Ia – Va – Va – Ia .\nThe excerpt is in the key of D Major , as indicated by the two sharps (F# and C#) in the key signature.\nFirst chord (Ia): The notes are D, F#, and A. D is in the bass, making it a tonic triad (I) in root position (a). Middle chords (Va): The second and third chords consist of A, C#, and E. Since A is in the bass, these are dominant triads (V) in root position (a). Final chord (Ia): The progression returns to the tonic triad (D, F#, A) with D in the bass, completing the phrase in root position.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76294",
+    "passage": ""
   }
 ]
