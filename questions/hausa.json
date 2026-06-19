@@ -921,5 +921,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73521",
     "passage": ""
+  },
+  {
+    "id": 73522,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "'Ni da kai da su duk dogaye ne.' Wakilin suna nawa ne a wannan jimla?",
+    "options": {
+      "A": "Biyu",
+      "B": "Uku",
+      "C": "Biyar",
+      "D": "Hudu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Uku. The question is asking how many nouns are in the sentence. The sentence is \"Ni da kai da su duk dogaye ne\" which means \"I, you, and the' are all happy\". There are three nouns in the sentence: \"Ni\" (I), \"kai\" (you), and \"su\" (they). Therefore, the correct answer is Uku (three).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73522",
+    "passage": ""
+  },
+  {
+    "id": 73525,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Mutane sun tafi da Bello\". Kalmar da aka ja wa layi na iya d'aukar\nA\nkai\nB\nshi\nC\nmu\nD\nku",
+    "options": {
+      "A": "kai",
+      "B": "shi",
+      "C": "mu",
+      "D": "ku"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is shi. The sentence \"Mutane sun tafi da Bello\" means \"People have gone with Bello\". The word \"shi\" is a pronoun that means \"him\" or \"it\", and i is used to indicate possession or association. In this sentence, \"shi\" is used to indicate that Bello is the one with whom the people have gone. Therefore, the correct answer is shi. The word \"shi\" is often used in Hausa to indicate possession or association, similar to the word \"his\" or \"him\" in English. For example: \"shi na tafi\" means \"he has gone\", and \"shi ya dauki\" means \"he took it\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73525",
+    "passage": ""
   }
 ]
