@@ -9070,5 +9070,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9337",
     "passage": ""
+  },
+  {
+    "id": 9358,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Find the value of sin 45° - cos 30°",
+    "options": {
+      "A": "\\(\\frac{2+\\sqrt{3}}{4}\\)",
+      "B": "\\(\\frac{\\sqrt{2}+\\sqrt{3}}{4}\\)",
+      "C": "\\(\\frac{\\sqrt{2}+\\sqrt{3}}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(Sin 45 - cos 30\\\\ \\frac{\\sqrt{2}}{2}-\\frac{\\sqrt{3}}{2}\\\\ =\\frac{\\sqrt{2}-\\sqrt{3}}{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9358",
+    "passage": ""
   }
 ]
