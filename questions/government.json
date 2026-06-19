@@ -5000,5 +5000,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2199",
     "passage": ""
+  },
+  {
+    "id": 2200,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The ultimate authority in a state is",
+    "options": {
+      "A": "sovereignty",
+      "B": "power",
+      "C": "influence",
+      "D": "legitimacy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2200",
+    "passage": ""
   }
 ]
