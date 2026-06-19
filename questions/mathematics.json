@@ -15076,5 +15076,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23157",
     "passage": ""
+  },
+  {
+    "id": 23158,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above, O is the center of the circle and ∠POR = 126°. Find ∠PQR",
+    "options": {
+      "A": "234 o",
+      "B": "117 o",
+      "C": "72 o",
+      "D": "63 o",
+      "E": "54 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15228902931_wcmath199220.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909624/myschool/mathematics/15228902931_wcmath199220.jpg",
+    "correct_answer": "B",
+    "explanation": "Reflex < POR = 360° - 126° = 234°\n\\(\\therefore\\) < PQR = \\(\\frac{1}{2} \\times 234°\\)\n= 117°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23158",
+    "passage": ""
+  },
+  {
+    "id": 23159,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above, TR = TS and ∠TRS = 60\no\n. Find the value of x",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "60",
+      "D": "120",
+      "E": "150"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5537784768_wcmath199221.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909659/myschool/mathematics/5537784768_wcmath199221.jpg",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23159",
+    "passage": ""
   }
 ]
