@@ -7642,5 +7642,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13939",
     "passage": ""
+  },
+  {
+    "id": 13943,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The phenomenon of light bending round an obstacle is?",
+    "options": {
+      "A": "diffraction",
+      "B": "refraction",
+      "C": "reflection",
+      "D": "polarization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The phenomenon of light bending around an obstacle is:  diffraction\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13943",
+    "passage": ""
   }
 ]
