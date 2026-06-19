@@ -5919,5 +5919,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2636",
     "passage": ""
+  },
+  {
+    "id": 2637,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The property of chlorine which causes hydrogen chloride to be more ionic than the chlorine molecules is its",
+    "options": {
+      "A": "electrovalency",
+      "B": "electron affinity",
+      "C": "electropositivity",
+      "D": "electronegativity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Electronegativity is the tendency of an atom to attract electrons when forming a chemical bond. In HCl, the chlorine atom's higher electronegativity causes it to attract the bonding electrons, resulting in a partial negative charge on chlorine and a partial positive charge on hydrogen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2637",
+    "passage": ""
   }
 ]
