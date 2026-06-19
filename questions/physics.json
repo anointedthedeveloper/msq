@@ -9847,5 +9847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14305",
     "passage": ""
+  },
+  {
+    "id": 14306,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+    "options": {
+      "A": "the level of water goes up",
+      "B": "the water in the glass outflows",
+      "C": "the level of water remains unchanged",
+      "D": "the level of water drops"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The container is filled 'only with ice' to the brim (no liquid water mentioned).\nIce is less dense than water (it expands when freezing).\nWhen the ice melts, the same mass turns into water that occupies less volume.\nResult: The water level drops below the brim.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14306",
+    "passage": ""
   }
 ]
