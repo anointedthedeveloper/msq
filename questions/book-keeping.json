@@ -543,5 +543,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72883",
     "passage": ""
+  },
+  {
+    "id": 72884,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The word limited written after the name of a company means that the.",
+    "options": {
+      "A": "Individual members capital is limited",
+      "B": "Members are liable to the extent of their holdings",
+      "C": "Total sum of the company's capital is limited",
+      "D": "Company's activities are restricted"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word limited at the end of the company's name indicates that the liability of members is limited to the capital contributed",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72884",
+    "passage": ""
   }
 ]
