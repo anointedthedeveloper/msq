@@ -10801,5 +10801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64092",
     "passage": ""
+  },
+  {
+    "id": 64093,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The Caps key on a keyboard is used to___________",
+    "options": {
+      "A": "move to previous page",
+      "B": "Delete files",
+      "C": "Switch between upper and lower case letters",
+      "D": "Space texts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Caps Lock is a key on a computer keyboard that allows users to generate letters in uppercase once activated, as in \"SAMPLE,\" without holding down the Shift key. It is a toggle key and can be found on the left side of a computer keyboard below the Tab key.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64093",
+    "passage": ""
   }
 ]
