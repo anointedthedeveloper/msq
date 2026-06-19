@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/21",
     "passage": ""
+  },
+  {
+    "id": 22,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Three consecutive positive integers k, l and m are such that l\\(^2\\) = 3(k+m). Find the value of m.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "l\\(^2\\) = 3 (k + m)\nSince they are consecutive positive numbers, we have\nl = k+1, m = k+2.\n\\(\\to\\) (k+1)\\(^2\\) = 3(k + k + 2)\nk\\(^2\\) + 2k + 1 = 3(2k + 2)\nk\\(^2\\) + 2k + 1 = 6k + 6\nk\\(^2\\) + 2k - 6k + 1 - 6 = 0\nk\\(^2\\) - 4k - 5 = 0\nk\\(^2\\) - 5k + k - 5 = 0\nk(k - 5) + 1(k - 5) = 0\nk = -1 or 5\nSince k, l and m are positive, then k = 5.\nm = k + 2 = 5 + 2\n= 7.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22",
+    "passage": ""
   }
 ]
