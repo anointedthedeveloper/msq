@@ -15956,5 +15956,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23197",
     "passage": ""
+  },
+  {
+    "id": 23198,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Factorize 2x\\(^2\\) - 21x + 45",
+    "options": {
+      "A": "(2x - 9)(x - 5)",
+      "B": "(2x-15)(x + 3)",
+      "C": "(2x +15)(x - 3)",
+      "D": "(2x -15(x - 3)",
+      "E": "(2x - 9)(x + 5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2x\\(^2\\) - 21x + 45\n= 2x\\(^2\\) - 15x - 6x + 45\n= x(2x - 15) - 3(2x - 15)\n= (x - 3)(2x - 15)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23198",
+    "passage": ""
   }
 ]
