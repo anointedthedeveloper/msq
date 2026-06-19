@@ -7096,5 +7096,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9239",
     "passage": ""
+  },
+  {
+    "id": 9240,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "If log\n10\n2 = x, express log\n10\n12.5 in terms of x",
+    "options": {
+      "A": "2(1 + x)",
+      "B": "2 + 3x",
+      "C": "2(1 - x)",
+      "D": "2 - 3x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9240",
+    "passage": ""
   }
 ]
