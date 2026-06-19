@@ -305,5 +305,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/50",
     "passage": ""
+  },
+  {
+    "id": 51,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following metals cannot replace hydrogen from water or steam?",
+    "options": {
+      "A": "Sodium",
+      "B": "Magnesium",
+      "C": "Iron",
+      "D": "Calcium",
+      "E": "Copper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Copper cannot replace hydrogen from water or steam because it is less reactive than hydrogen and therefore cannot displace it in a chemical reaction.\nCopper is located below hydrogen in the reactivity series, indicating that it is less reactive and cannot displace hydrogen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/51",
+    "passage": ""
   }
 ]
