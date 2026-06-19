@@ -8776,5 +8776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9322",
     "passage": ""
+  },
+  {
+    "id": 9323,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A binary operation ⊗ defined on the set of integers is such that m⊗n = m + n + mn for all integers m and n. Find the inverse of -5 under this operation, if the identity element is 0?",
+    "options": {
+      "A": "- 5 / 4",
+      "B": "- 5 / 6",
+      "C": "zero",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(m \\otimes n = m + n + mn\\)\nLet the inverse of -5 be n.\n\\(\\therefore -5 \\otimes n = 0\\)\n\\(-5 + n + (-5n) = 0\\)\n\\(n - 5n = 5 \\implies -4n = 5\\)\n\\(n = -\\frac{5}{4}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9323",
+    "passage": ""
   }
 ]
