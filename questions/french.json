@@ -730,5 +730,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48146",
     "passage": ""
+  },
+  {
+    "id": 48147,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Quel est la séquence correcte?",
+    "options": {
+      "A": "Va des bouquets de cueillir rose!",
+      "C": "Des bouquets va cueillir de rose!",
+      "D": "Cueillir va des bouquets de rose!"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48147",
+    "passage": ""
   }
 ]
