@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48030",
     "passage": ""
+  },
+  {
+    "id": 48031,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Byzantine art emerged in the 4thcentury in",
+    "options": {
+      "A": "Constantinople",
+      "B": "Crete",
+      "C": "Rome",
+      "D": "Paris"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48031",
+    "passage": ""
   }
 ]
