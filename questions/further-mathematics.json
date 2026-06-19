@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50301",
     "passage": ""
+  },
+  {
+    "id": 50302,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\((2x^{2} - x - 3)\\) is a factor of \\(f(x) = 2x^{3} - 5x^{2} - x + 6\\), find the other factor",
+    "options": {
+      "A": "(x - 2)",
+      "B": "(x - 1)",
+      "C": "(x + 1)",
+      "D": "(x + \\(\\frac{3}{2}\\))"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Divide \\((2x^{3} - 5x^{2} - x + 6)\\) by \\((2x^{2} - x - 3)\\) to get the other factor. Be careful of sign conventions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50302",
+    "passage": ""
   }
 ]
