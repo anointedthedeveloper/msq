@@ -5226,5 +5226,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2270",
     "passage": ""
+  },
+  {
+    "id": 2271,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "When at equilibrium, which of the reactions below will shift to the right if the pressure is increased and the temperature is kept constant?",
+    "options": {
+      "A": "2SO 3(g) ↔ 2SO 2(g) + O 2(g)",
+      "B": "2CO 2(g) ↔ 2CO (g) + O 2(g)",
+      "C": "2H 2(g) + O 2(g) ↔ 2H 2 O (g)",
+      "D": "2NO (g) ↔ N 2(g) + O 2(g)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An increase in pressure will usually favour the side with a lesser value of total number of moles of gaseous substances, thereby causing the equilibrium position to shift. However, for the equilibrium position to shift to the right if the pressure is increased, it means the total number of moles of the gaseous species on the RHS must be lesser than the total number of moles on the LHS. Consequently, option C is the only option having  2moles of water on the RHS against 3moles on the LHS.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2271",
+    "passage": ""
   }
 ]
