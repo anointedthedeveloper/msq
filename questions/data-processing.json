@@ -7373,5 +7373,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67157",
     "passage": ""
+  },
+  {
+    "id": 67158,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "(ai) A medium-scale enterprise intends to create a database to manage its staff records with the following fields: staff ID, Name, Address, Photograph and Department. what is database? (aii) A medium-scale enterprise intends to create a database to manage its staff records with the following fields: staff ID, Name, Address, Photograph and Department.List three DBMS the firm can use to achieve the stated objectives (bi) A medium-scale enterprise intends to create a database to manage its staff records with the following fields: staff ID, Name, Address, Photograph and Department Mention two tasks that can be performed on staff photographs using graphic packages (bii) A medium-scale enterprise intends to create a database to manage its staff records with the following fields: staff ID, Name, Address, Photograph and Department. Give three examples of graphic packages that can be used for the tasks above",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(ai) A database is an organized collection of structured information, or data, typically stored electronically in a computer system. (aii) - MySQL - PostgreSQL - Microsoft SQL Server - Oracle Database - Microsoft Access (bi) - The dimension of their photographs can be changed. - Different adjustments such as the exposure to light, hue and saturation, etc, for example, can be made. (bii) - Ms Paint - Adobe Photoshop - Instant artist - Harvard graphic - CorelDraw",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67158",
+    "passage": ""
   }
 ]
