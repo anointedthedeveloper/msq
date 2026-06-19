@@ -5668,5 +5668,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8663",
     "passage": ""
+  },
+  {
+    "id": 8671,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The table above shows the distribution of recharge cards of four major GSM operators. What is the probability that a recharge card selected at random will be GTN or Qtel?",
+    "options": {
+      "A": "3/20",
+      "B": "1/4",
+      "C": "2/5",
+      "D": "3/4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/18982773964_math20067.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868547/myschool/mathematics/18982773964_math20067.jpg",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8671",
+    "passage": ""
   }
 ]
