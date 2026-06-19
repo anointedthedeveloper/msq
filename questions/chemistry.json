@@ -13608,5 +13608,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/7494",
     "passage": ""
+  },
+  {
+    "id": 7501,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Consider the solubility curves of three salts X, Y and Z given in the diagram. If each solution of the salt contains 200 g, and is heated to 100\\(^o\\)C, which solution or solutions will deposit 100 g of the solute when suddenly cooled to 0\\(^o\\)C?",
+    "options": {
+      "A": "X only",
+      "B": "Y only",
+      "C": "Z only",
+      "D": "X and Z",
+      "E": "Y and Z"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/23038674278_chem197843.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891393/myschool/chemistry/23038674278_chem197843.png",
+    "correct_answer": "E",
+    "explanation": "If you study the curve very well, looking at the y-axis where we have the solubility, you will discover that Salt X exceeds the 100g/kg mark while Salt Y and do not. This simply implies that solutions Y and Z will deposit 100 g of the solute when suddenly cooled to 0\\(^o\\)C, since they didn't exceed the solubility value of 100g, abinitio.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7501",
+    "passage": ""
   }
 ]
