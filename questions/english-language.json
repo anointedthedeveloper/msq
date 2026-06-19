@@ -10227,5 +10227,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4204",
     "passage": ""
+  },
+  {
+    "id": 4205,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question bellow choose the expression or word which best completes each sentence : She wounded the man ... the back with her knitting needle",
+    "options": {
+      "A": "on",
+      "B": "in",
+      "C": "at",
+      "D": "by",
+      "E": "upon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct preposition to use when referring to a wound on a specific part of the body is \"in\" when the object penetrates the body. She wounded the man in the back with her knitting needle. \"In the back\" suggests that the needle pierced or entered the man's back.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4205",
+    "passage": ""
   }
 ]
