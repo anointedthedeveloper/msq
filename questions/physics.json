@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/558",
     "passage": ""
+  },
+  {
+    "id": 559,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If a sound wave goes from a cold air region to a hot air region, its wavelength will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "decrease then increase",
+      "D": "remain constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When a sound wave moves from a region of cold air to a region of hot air, its wavelength will increase. This occurs because sound travels more quickly in warmer air due to the heightened energy of the air molecules, which allows for a longer wavelength while the frequency remains unchanged.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/559",
+    "passage": ""
   }
 ]
