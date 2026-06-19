@@ -15101,5 +15101,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65068",
     "passage": ""
+  },
+  {
+    "id": 65095,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "2(a) Use appropriate labelled diagrams to illustrate the following network topologies. i Startopology (ii) bustopology (iii) ring topology.\n(b) State one advantage of: i Star topology ii Bus topology.\n(c) Give one disadvantage of: (i) Bus topology: (i)Ring topology.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "[i] star topology\nii bus topology\niii ring topology\n(b)Advantages of:\n(i) Star topology:\n(a) It is very reliable: if one cable or device fails, all the other devices on the network will still work.\n(b) New devices can be added easily yo the network without affecting other devices on the network. (ii) Bus topology:\n(a) It is cheap and easy to install, it doesnt require much cable.\n(b)  Easy to expand by joining the two cables together.\n(c) Disadvantages of:\n(i)  Bus topology\n(a)Troubleshooting becomes difficult if the whole network goes down.\n(b) Additional  devices slow down the network.\n(ii) Ring topology\n(a) Due to the Uni-directional Ring, a data packet (token) must have to pass through all the nodes.\nIf one work station shuts down, it affects whole network or if a node goes down entire network goes down.\n(b) It is slower in performance as compared to the bus topology.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65095",
+    "passage": ""
   }
 ]
