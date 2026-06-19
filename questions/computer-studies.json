@@ -7925,5 +7925,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62560",
     "passage": ""
+  },
+  {
+    "id": 62561,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following options is a biometric data?",
+    "options": {
+      "A": "Gender",
+      "B": "Password",
+      "C": "Date of birth",
+      "D": "Pattern of eye iris"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Biometric data are biological measurements  or physical characteristics that can be used to identify individuals. For example, fingerprint mapping, facial recognition, and retina scans are all forms of biometric technology.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62561",
+    "passage": ""
   }
 ]
