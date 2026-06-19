@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73577",
     "passage": ""
+  },
+  {
+    "id": 73579,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. Ọlee the one hundred and fifty pụtara n'Igbo? Ọtụ narị na",
+    "options": {
+      "A": "Iri ise na ise",
+      "B": "Iri ise",
+      "C": "Ise",
+      "D": "Iri na ise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ọtụ is \"one\" and \"narị\" is hundred; iri is \"ten\" and ise is \"five\". Ọtụ narị means \"one hundred\". Iri ise means \"fifty\". Hence, 150 in Igbo is Ọtụ narị na iri ise. Note that \"na\" is a conjunction in Igbo which means \"and\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73579",
+    "passage": ""
   }
 ]
