@@ -6648,5 +6648,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62494",
     "passage": ""
+  },
+  {
+    "id": 62496,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The table above represents the Truth Table for?",
+    "options": {
+      "A": "NOT logic gate",
+      "B": "NOR logic gate",
+      "C": "AND logic gate",
+      "D": "NAND logic gate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62496",
+    "passage": ""
   }
 ]
