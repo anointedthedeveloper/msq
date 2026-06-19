@@ -9700,5 +9700,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14293",
     "passage": ""
+  },
+  {
+    "id": 14295,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If a wire 30 cm long is extended to 30.5 cm by a force of 300 N. find the strain energy of wire",
+    "options": {
+      "A": "0.75 J",
+      "B": "7.50 J",
+      "C": "75.00 J",
+      "D": "750.00 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Energy stored in a stretched wire (strain energy) = average force x extension = (1)/2 Fe = (1)/2 x 300 N (30.5 - 30.0) x 10-2 m = (300)/2 x 0.5 x 10-2 = 0.75J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14295",
+    "passage": ""
   }
 ]
