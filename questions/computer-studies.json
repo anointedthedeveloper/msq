@@ -5875,5 +5875,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62439",
     "passage": ""
+  },
+  {
+    "id": 62440,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) (i) Define computer virus.\n(i) List three types of computer network security breach.\n(b) State five sources of computer network security breach.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Computer virus is a malicious program which replicates itself and causes damage to the resources in the computer, OR\nComputer virus is a malware that when executed, replicates itself and infects other programs by modifying them.\n(i) Rootkit virus Polymorphic virus and Directory virus (b) Denial of service, Spoofing attack, Tampering at tack, privilege escalation, Eaves dropping, Downloading of files from un-trusted websites, Deliberate divulgence of company's information, Virus, Worms and Trojan horses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62440",
+    "passage": ""
   }
 ]
