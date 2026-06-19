@@ -2811,5 +2811,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73735",
     "passage": ""
+  },
+  {
+    "id": 73736,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kalmar tilo na nufin abu",
+    "options": {
+      "A": "da yawa",
+      "B": "babba",
+      "C": "kadan",
+      "D": "daya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73736",
+    "passage": ""
   }
 ]
