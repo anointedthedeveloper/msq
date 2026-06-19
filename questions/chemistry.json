@@ -1992,5 +1992,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1487",
     "passage": ""
+  },
+  {
+    "id": 1488,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The fundamental difference between the three states of matter is the",
+    "options": {
+      "A": "shape of their particles",
+      "B": "number of particles in each state",
+      "C": "shape of the container they occupy",
+      "D": "degree of movement of their particles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The fundamental difference between the three states of matter is their degree of movement, gaseous particles are very loosely packed hence they can move about easily. The particles of solids are closely packed so solids only make vibrational movement, while liquid particles can move past each other because their particles are not as closely packed as those of solids.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1488",
+    "passage": ""
   }
 ]
