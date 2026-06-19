@@ -5123,5 +5123,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1991",
     "passage": ""
+  },
+  {
+    "id": 1993,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A printer that burns the print image onto the photosensitive  drum is called",
+    "options": {
+      "A": "dot matrix printer",
+      "B": "daisy wheel printer",
+      "C": "laser printer",
+      "D": "thermal printer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1993",
+    "passage": ""
   }
 ]
