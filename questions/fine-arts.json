@@ -2224,5 +2224,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75371",
     "passage": ""
+  },
+  {
+    "id": 75372,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which type of sculpture projects from a flat background but remains attached to it?",
+    "options": {
+      "A": "Full round",
+      "B": "Subtractive",
+      "C": "Relief",
+      "D": "Assembly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A relief sculpture projects from a flat background but remains attached to it, unlike sculpture in the round, which stands freely.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75372",
+    "passage": ""
   }
 ]
