@@ -1543,5 +1543,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57732",
     "passage": ""
+  },
+  {
+    "id": 57734,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A technician can protect itself from electronic discharge by using",
+    "options": {
+      "A": "wrist strap",
+      "B": "voltmeter",
+      "C": "screw driver",
+      "D": "magnet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An anti-static wrist strap is used to make sure that the voltage difference in your body and the computer is balanced out. By grounding your body with an anti-static wrist strap, any excess static charge in your body will be dissipated right away.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57734",
+    "passage": ""
   }
 ]
