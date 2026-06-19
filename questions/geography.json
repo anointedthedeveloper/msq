@@ -2603,5 +2603,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6222",
     "passage": ""
+  },
+  {
+    "id": 6223,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following is not a form of precipitation?",
+    "options": {
+      "A": "Snow",
+      "B": "Sleet",
+      "C": "Fog",
+      "D": "Hail",
+      "E": "Haze"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6223",
+    "passage": ""
   }
 ]
