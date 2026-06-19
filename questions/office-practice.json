@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66139",
     "passage": ""
+  },
+  {
+    "id": 66142,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A filing classification in which documents are stored according to their title is",
+    "options": {
+      "A": "numerical filing",
+      "B": "alpha-numerical filing",
+      "C": "geographical filing",
+      "D": "subject filing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Subject filing is a filing classification in which documents are stored or filed according to their title or topic. The topic or title of the document forms that basis for this system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66142",
+    "passage": ""
   }
 ]
