@@ -2035,5 +2035,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9033",
     "passage": ""
+  },
+  {
+    "id": 9034,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A cell can supply current of 0.4 A and 0.2 A through a 4.0Ω and 10.0Ω resistors respectively. This internal resistance of the cell is",
+    "options": {
+      "A": "2.0Ω",
+      "B": "1.0Ω",
+      "C": "2.5Ω",
+      "D": "1.5Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "let the internal resistance of the cell = r, therefore E = I (R+r) (i) E = 0.4(4+r), (ii) E = 0.2 (10+r) therefore 0.4 (4+r)= 0.2 (10+r) 1.6 + 0.4r = \\(2.0 \\times 0.2\\text{r}\\) 0.4r - 0.2r = 2.0 - 1.6 therefore 0.2r = 0.4 => r = \\(\\frac{0.4}{0.2}\\) = 2Ω therefore r = 2Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9034",
+    "passage": ""
   }
 ]
