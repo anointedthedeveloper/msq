@@ -3759,5 +3759,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1961",
     "passage": ""
+  },
+  {
+    "id": 1962,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "From the options lettered A-D, select the option that best fills the gap(s) in the sentence below:\nMust you always .... lies? Why don't you .... the truth for once",
+    "options": {
+      "A": "speak",
+      "B": "say",
+      "C": "talk",
+      "D": "tell",
+      "E": "utter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Must you always tell lies? Why don't you tell the truth for once?",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1962",
+    "passage": ""
   }
 ]
