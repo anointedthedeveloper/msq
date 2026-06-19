@@ -8525,5 +8525,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72339",
     "passage": ""
+  },
+  {
+    "id": 72340,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "One disadvantage of using computer for information processing is",
+    "options": {
+      "A": "need for staff retraining",
+      "B": "increased running cost in the long run",
+      "C": "the increase in storage space",
+      "D": "redundancy of computers in the long run."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Computers require ongoing maintenance, software updates, hardware upgrades and potential repairs leading to increased running cost in the long run.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72340",
+    "passage": ""
   }
 ]
