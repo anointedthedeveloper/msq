@@ -1616,5 +1616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/994",
     "passage": ""
+  },
+  {
+    "id": 995,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The main duty of the Local Government Service is to",
+    "options": {
+      "A": "supervise and manage the affairs of local governments",
+      "B": "create job opportunities at the local level",
+      "C": "handle requests for the creation of more local governments",
+      "D": "coduct elections into local councils"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/995",
+    "passage": ""
   }
 ]
