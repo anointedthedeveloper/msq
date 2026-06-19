@@ -1891,5 +1891,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58074",
     "passage": ""
+  },
+  {
+    "id": 58079,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Convert 4\\(_{10}\\) to a number in base two",
+    "options": {
+      "A": "10",
+      "B": "11",
+      "C": "100",
+      "D": "110"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2 4 2 2 R 0 2 1 R 0 2 0 R 1\n\\(4_{10}\\) = \\(100_{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58079",
+    "passage": ""
   }
 ]
