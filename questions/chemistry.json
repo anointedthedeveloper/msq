@@ -10750,5 +10750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4294",
     "passage": ""
+  },
+  {
+    "id": 4296,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If an atom is represented as \\( _{11}^{23}X \\), which of the following deduction is correct?",
+    "options": {
+      "A": "it contains 12 protons",
+      "B": "it forms a covalent chloride",
+      "C": "its atomic number is 23",
+      "D": "it is an alkali metal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sodium has atomic / proton number of 11 and belongs to Group 1[alkali metals] on the periodic table\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4296",
+    "passage": ""
   }
 ]
