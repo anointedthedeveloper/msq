@@ -4260,5 +4260,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70738",
     "passage": ""
+  },
+  {
+    "id": 70739,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which nutrient class is essential for maintaining healthy vision, skin, and mucous membranes?",
+    "options": {
+      "A": "Minerals",
+      "B": "Vitamins",
+      "C": "Proteins",
+      "D": "Fats"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Vitamins such as vitamin A are essential for maintaining healthy vision, skin, and mucous membranes, supporting immune function and overall health.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70739",
+    "passage": ""
   }
 ]
