@@ -10007,5 +10007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62746",
     "passage": ""
+  },
+  {
+    "id": 62747,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "An algorithm can be described as?",
+    "options": {
+      "A": "the output of the instruction to computer.",
+      "B": "the required to be processed.",
+      "C": "problem definition.",
+      "D": "a sequence of instructions for solving a problem."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62747",
+    "passage": ""
   }
 ]
