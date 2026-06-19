@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50316",
     "passage": ""
+  },
+  {
+    "id": 50317,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A binary operation * is defined on the set of real numbers, by \\(a * b = \\frac{a}{b} + \\frac{b}{a}\\). If \\((\\sqrt{x} + 1) * (\\sqrt{x} - 1) = 4\\), find the value of x.",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\((\\sqrt{x} + 1) * (\\sqrt{x} - 1) = 4  \\implies  \\frac{\\sqrt{x} + 1}{\\sqrt{x} - 1} + \\frac{\\sqrt{x} - 1}{\\sqrt{x} + 1} = 4\\)\n\\(\\frac{(\\sqrt{x} + 1)(\\sqrt{x} + 1) + (\\sqrt{x} - 1)(\\sqrt{x} - 1)}{(\\sqrt{x} - 1)(\\sqrt{x} + 1)}\\)\n= \\(\\frac{x + 2\\sqrt{x} + 1 + x - 2\\sqrt{x} + 1}{x - 1} \\implies \\frac{2x + 2}{x - 1} = 4\\)\n\\(2x + 2 = 4x - 4  \\therefore 4x - 2x = 2x = 2 + 4= 6\\)\n\\(x = 3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50317",
+    "passage": ""
   }
 ]
