@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75222",
     "passage": ""
+  },
+  {
+    "id": 75248,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "كالنار في الهشيم\" تعني؟\"",
+    "options": {
+      "A": "ببطء",
+      "B": "لا تؤتر",
+      "C": "محرقة",
+      "D": "تنتشر بسرعة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "It's an idiom meaning something that spreads very rapidly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75248",
+    "passage": ""
   }
 ]
