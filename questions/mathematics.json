@@ -11295,5 +11295,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22192",
     "passage": ""
+  },
+  {
+    "id": 22196,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In the diagram above, O is the centre of the circle through points L, M and N, if ∠MLN = 74o and ∠MNL = 39o, calculate ∠LON.",
+    "options": {
+      "A": "67 o",
+      "B": "100 o",
+      "C": "113 o",
+      "D": "126 o",
+      "E": "134 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/r9H1DIzCFTEynQ6pEE8WRP26lWTj4DUPYRzRpSiq.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907005/myschool/mathematics/r9H1DIzCFTEynQ6pEE8WRP26lWTj4DUPYRzRpSiq.png",
+    "correct_answer": "E",
+    "explanation": "From the diagram, < LMN = 180° - (74° + 39°) (sum of angle in a triangle)\n= 67°\n< LON = 2 x 67° (angle subtended at the centre is twice the angle at the circumference)\n= 134°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22196",
+    "passage": ""
   }
 ]
