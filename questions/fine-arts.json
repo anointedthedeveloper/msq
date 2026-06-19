@@ -2266,5 +2266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75373",
     "passage": ""
+  },
+  {
+    "id": 75374,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "A mural is a:",
+    "options": {
+      "A": "Sketchbook",
+      "B": "Small sculpture",
+      "C": "Clay pot",
+      "D": "Painting on wall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A mural is a large artwork painted or applied directly on a wall or ceiling, often in public or outdoor spaces.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75374",
+    "passage": ""
   }
 ]
