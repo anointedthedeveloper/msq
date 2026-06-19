@@ -6402,5 +6402,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2937",
     "passage": ""
+  },
+  {
+    "id": 2938,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Carbon is tetravalent because",
+    "options": {
+      "A": "The electrons in both the 2s and 2p orbitals are equivalent",
+      "B": "The electrons in all the orbitals of carbon are equivalent",
+      "C": "The 2s and 2p atomic orbitals hybridize",
+      "D": "All the atomic orbitals of carbon hybridize"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Carbon is tetravalent because its 2s and 2p atomic orbitals hybridize to form four sp³ hybrid orbitals. Carbon has four valence electrons, so it can form a maximum of four bonds. When a carbon atom's 2s and 2p orbitals hybridize, they form four equivalent sp³ hybrid orbitals. Each sp³ orbital can form a sigma bond, resulting in a tetrahedral geometry.\nCarbon's tetravalency, meaning its ability to form four bonds, is explained by the concept of sp3 hybridization. This hybridization involves the mixing of one s orbital and three p orbitals to create four equivalent sp3 hybrid orbitals. This allows the carbon atom to form four single bonds, as seen in methane (CH\\(_4\\)).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2938",
+    "passage": ""
   }
 ]
