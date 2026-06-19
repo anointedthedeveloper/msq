@@ -746,5 +746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/447",
     "passage": ""
+  },
+  {
+    "id": 448,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following is a term used to describe a payment representing a surplus in excess of transfer costs?",
+    "options": {
+      "A": "Interest rates",
+      "B": "Opportunity costs",
+      "C": "Economic rent",
+      "D": "Indirect costs",
+      "E": "Wages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/448",
+    "passage": ""
   }
 ]
