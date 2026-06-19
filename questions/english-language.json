@@ -12031,5 +12031,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4607",
     "passage": ""
+  },
+  {
+    "id": 4608,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the option nearest in meaning to the word underlined : The judge came down heavily on the accused person in his judgement",
+    "options": {
+      "A": "crashed heavily",
+      "B": "fell down headlong",
+      "C": "descended upon heavily",
+      "D": "impose a stiff penalty",
+      "E": "crash-landed on"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This option conveys the idea that the judge's decision or judgment was severe and imposing and likely involves a significant penalty or punishment for the accused person.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4608",
+    "passage": ""
   }
 ]
