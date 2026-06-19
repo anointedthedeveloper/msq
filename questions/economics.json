@@ -1757,5 +1757,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/663",
     "passage": ""
+  },
+  {
+    "id": 665,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "which of the financial institutions cannot direct tax loans to individuals?",
+    "options": {
+      "A": "The agricultural bank",
+      "B": "The Industrial bank",
+      "C": "The central bank",
+      "D": "The Co-operative bank",
+      "E": "The Standard bank"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/665",
+    "passage": ""
   }
 ]
