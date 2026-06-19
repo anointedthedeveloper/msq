@@ -1046,5 +1046,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49669",
     "passage": ""
+  },
+  {
+    "id": 49671,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following identification methods could be used in poultry production?",
+    "options": {
+      "A": "Banding",
+      "B": "Branding",
+      "C": "Notching",
+      "D": "Tattooing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Livestock branding is a technique for marking livestock so as to identify the owner.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49671",
+    "passage": ""
   }
 ]
