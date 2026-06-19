@@ -4221,5 +4221,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16219",
     "passage": ""
+  },
+  {
+    "id": 16220,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Which of the following may cause disease in a fish pond?",
+    "options": {
+      "A": "mixed stocking",
+      "B": "liming",
+      "C": "poor management practices",
+      "D": "harvesting",
+      "E": "fertilization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16220",
+    "passage": ""
   }
 ]
