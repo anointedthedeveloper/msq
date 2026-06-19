@@ -1708,5 +1708,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48193",
     "passage": ""
+  },
+  {
+    "id": 48194,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Lequel de ces mots a le son /t/ finale?",
+    "options": {
+      "A": "petite",
+      "B": "part",
+      "C": "petit",
+      "D": "patient"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48194",
+    "passage": ""
   }
 ]
