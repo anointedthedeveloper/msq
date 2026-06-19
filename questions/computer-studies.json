@@ -6459,5 +6459,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62484",
     "passage": ""
+  },
+  {
+    "id": 62485,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following statements is not true about secondary storage media? They",
+    "options": {
+      "A": "are volatile",
+      "B": "are non-volatile",
+      "C": "are relatively cheap",
+      "D": "have storage capacity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The properties of secondary storage media includes : It is non-volatile in nature, It is less costly in comparison to primary memory,the storage capacity is quite high and scalable, and It can be removable or fixed as per the requirement. Therefore OPTION A is not true.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62485",
+    "passage": ""
   }
 ]
