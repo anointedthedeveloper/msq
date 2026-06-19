@@ -5247,5 +5247,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2271",
     "passage": ""
+  },
+  {
+    "id": 2274,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "In the electrolysis of a concentrated solution of sodium chloride using electrodes, which of the following ions are discharged at the cathode and anode respectively?",
+    "options": {
+      "A": "Na + and Cl -",
+      "B": "Na + and OH -",
+      "C": "H + and OH -",
+      "D": "H + and Cl -"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The electrolysis of sodium chloride solution, also known as brine, produces chlorine gas at the anode and hydrogen gas at the cathode. Sodium hydroxide is also formed as a by-product, depending on the concentration of sodium chloride in water. During the electrolysis of a concentrated sodium chloride solution, hydrogen ions are discharged at the cathode and chloride ions are discharged at the anode.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2274",
+    "passage": ""
   }
 ]
