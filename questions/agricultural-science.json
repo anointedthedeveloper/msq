@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15789",
     "passage": ""
+  },
+  {
+    "id": 15790,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The alternate heating and cooling of rocks result in",
+    "options": {
+      "A": "sublimation",
+      "B": "volatilization",
+      "C": "fragmentation",
+      "D": "solidification",
+      "E": "sedimentation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15790",
+    "passage": ""
   }
 ]
