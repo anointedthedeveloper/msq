@@ -3693,5 +3693,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1735",
     "passage": ""
+  },
+  {
+    "id": 1736,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following metals burn with brick red flame?",
+    "options": {
+      "A": "Pb",
+      "B": "Ca",
+      "C": "Na",
+      "D": "Mg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When heated, lead (Pb) burns with a bluish-white or greyish-white flame.\nWhen heated, calcium burns with a brick red flame and forms a white solid. The calcium ion (Ca2+) produces a brick red color in a flame test.\nWhen heated in air, sodium (Na) burns with a bright, golden yellow flame.\nWhen heated, magnesium burns with a bright, dazzling white flame .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1736",
+    "passage": ""
   }
 ]
