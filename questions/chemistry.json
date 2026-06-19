@@ -2097,5 +2097,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1492",
     "passage": ""
+  },
+  {
+    "id": 1493,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The shapes of CO\\(_2\\), H\\(_2\\)O and CH\\(_4\\) respectively are",
+    "options": {
+      "A": "bent, linear and tetrahedral",
+      "B": "bent, tetrahedral and linear",
+      "C": "linear, bent and tetrahedral",
+      "D": "tetrahedral, linear and bent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "CO2 is linear because the electron pairs around the central carbon atom repel each other, forcing the two oxygen atoms to push as far as possible to either side of the carbon atom, hence its bond angle is at 180 deg; H2O is bent because of the repulsion between the oxygen atom's unshared electrons and the shared electrons between the oxygen and hydrogen atoms, and CH4 has a tetrahedral shape because of the repulsion between the four pairs of bonding electrons around the central carbon atom.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1493",
+    "passage": ""
   }
 ]
