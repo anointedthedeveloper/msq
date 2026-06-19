@@ -3551,5 +3551,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75946",
     "passage": ""
+  },
+  {
+    "id": 75947,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "If goods are returned, the seller issues",
+    "options": {
+      "A": "a credit note",
+      "B": "a debit notes",
+      "C": "an advice note",
+      "D": "a consignment note"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When goods are returned by the buyer, the seller issues a credit note. A credit note is a document sent by a seller to its buyer, or, in other words, a vendor to the customer, notifying that a credit has been provided to their account. The reason for issuing a credit note are typically due to some returned goods or an overcharge on an invoice.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75947",
+    "passage": ""
   }
 ]
