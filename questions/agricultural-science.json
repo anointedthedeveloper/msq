@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15792",
     "passage": ""
+  },
+  {
+    "id": 15793,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In which layer of the soil profile does most biological activity occur?",
+    "options": {
+      "A": "parent material",
+      "B": "D-horizon",
+      "C": "C-horizon",
+      "D": "B-horizon",
+      "E": "A-horizon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15793",
+    "passage": ""
   }
 ]
