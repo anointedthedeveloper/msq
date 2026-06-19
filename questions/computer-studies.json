@@ -13783,5 +13783,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64423",
     "passage": ""
+  },
+  {
+    "id": 64424,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is not a programming language",
+    "options": {
+      "A": "HTML",
+      "B": "Java",
+      "C": "C++",
+      "D": "ios"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ios is an operating system not a programming language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64424",
+    "passage": ""
   }
 ]
