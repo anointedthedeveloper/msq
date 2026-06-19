@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/693",
     "passage": ""
+  },
+  {
+    "id": 694,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The velocity ratio of a machine is 5 and its efficiency is 75%. What effort would be needed to lift a load of 150N with the machine?",
+    "options": {
+      "A": "20N",
+      "B": "30N",
+      "C": "40N",
+      "D": "50N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Efficiency = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\) 75% = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\) \\(\\frac{75}{100} = \\frac{\\text{M.A}}{5}\\) M.A = \\(\\frac{75(5)}{100}\\) = 3.75 But M.A = \\(\\frac{\\text{Load}}{\\text{Effort}}\\) 3.75 = \\(\\frac{150}{\\text{Effort}}\\) Effort = \\(\\frac{150}{3.75}\\) Effort = 40N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/694",
+    "passage": ""
   }
 ]
