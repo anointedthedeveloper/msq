@@ -4197,5 +4197,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73889",
     "passage": ""
+  },
+  {
+    "id": 73890,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "\"Shehu ya harbi zomo fari\" Fito da sifa daga wannan jimlar.",
+    "options": {
+      "A": "Fari",
+      "B": "Ya",
+      "C": "Shehu",
+      "D": "Harbi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Fari. In the sentence \"Shehu ya harbi zomo fari\", \"Fari\" is an adjective (sifa) describing the noun \"zomo\" (horse). It means \"white\" and gives more information about the horse's color. Therefore, the correct answer is A. Fari, as it is the adjective in the sentence. \"Tafi ka d'auko ruwa a rijiya\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73890",
+    "passage": ""
   }
 ]
