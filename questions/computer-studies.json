@@ -2528,5 +2528,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61814",
     "passage": ""
+  },
+  {
+    "id": 61815,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "In a computer system, SQL, simply means ..... Query language?  Sample B. Simple C. Stratified D. Structured E. Summary",
+    "options": {
+      "A": "Sample",
+      "B": "Simple",
+      "C": "Stratified",
+      "D": "Structured",
+      "E": "Summary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61815",
+    "passage": ""
   }
 ]
