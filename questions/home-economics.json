@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73206",
     "passage": ""
+  },
+  {
+    "id": 73207,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Knowledge on the classification of food helps the individual to:",
+    "options": {
+      "A": "Select cheap food items",
+      "B": "Plan meals properly",
+      "C": "Cook meals properly",
+      "D": "Satisfy hunger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Knowledge on the classification of food helps individuals to:\nUnderstand the different food groups (e.g., protein, carbohydrates, fats, fruits, vegetables, etc.) Identify the nutrient content of various foods Plan balanced and nutritious meals Ensure adequate intake of essential nutrients\nBy understanding food classification, individuals can plan meals that meet their nutritional needs, which is essential for maintaining good health and well-being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73207",
+    "passage": ""
   }
 ]
