@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50041",
     "passage": ""
+  },
+  {
+    "id": 50044,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "In a democratic government, franchise is given to all",
+    "options": {
+      "A": "party members",
+      "B": "resident adults",
+      "C": "adult citizens",
+      "D": "opinion leaders"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "simply franchise is the right for all qualified adult citizens to vote in an election for their individual political partie.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50044",
+    "passage": ""
   }
 ]
