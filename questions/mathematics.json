@@ -11097,5 +11097,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22099",
     "passage": ""
+  },
+  {
+    "id": 22100,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "When an aeroplane is 800m above the ground, its angle of elevation from a point P on the ground is 30o. How far is the plane from P by line of sight?",
+    "options": {
+      "A": "400m",
+      "B": "800m",
+      "C": "1500m",
+      "D": "1600m",
+      "E": "1700m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "From the diagram, \\(\\sin 30 = \\frac{800}{x}\\)\n\\(x = \\frac{800}{\\sin 30} \\)\n= \\(\\frac{800}{0.5} \\)\n= 1600 m",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191129_162257%20%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906874/myschool/mathematics/IMG_20191129_162257_%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/22100",
+    "passage": ""
   }
 ]
