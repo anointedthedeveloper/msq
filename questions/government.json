@@ -1700,5 +1700,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1003",
     "passage": ""
+  },
+  {
+    "id": 1017,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The two military coups that toppled civilian regimes in Nigeria were those of",
+    "options": {
+      "A": "January 1966 and December 1983",
+      "B": "July 1966 and August 1985",
+      "C": "January 1966 and July 1975",
+      "D": "February 1976 and December 1983"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1017",
+    "passage": ""
   }
 ]
