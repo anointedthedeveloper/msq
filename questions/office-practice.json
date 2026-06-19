@@ -4307,5 +4307,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76015",
     "passage": ""
+  },
+  {
+    "id": 76016,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A secretary has found it difficult to type a manuscript given to her by the manager due to poor handwriting. In other words, the secretary has the challenge of",
+    "options": {
+      "A": "poorly decoded manuscript by the manager",
+      "B": "poor encoded manuscript by the manager",
+      "C": "inappropriate choice of channel",
+      "D": "inability to encode the manuscript"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The secretary is having difficulty typing the manuscript due to poor handwriting. This means the manuscript was poorly encoded by the manager. Encoding in this context refers to the process of putting thoughts into symbols for communication, which in this case is the manager's handwriting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76016",
+    "passage": ""
   }
 ]
