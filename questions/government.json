@@ -4034,5 +4034,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1700",
     "passage": ""
+  },
+  {
+    "id": 1701,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a democracy,sovereign authority is exercised by the",
+    "options": {
+      "A": "legislature",
+      "B": "people",
+      "C": "executive",
+      "D": "electorate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a Democracy, sovereignty ultimately belongs to the people. This principle is known as popular sovereignty, meaning that all political authority originates from the citizens.\nGovernment institutions such as the legislature, executive, and judiciary only exercise powers on behalf of the people.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1701",
+    "passage": ""
   }
 ]
