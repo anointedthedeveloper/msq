@@ -13195,5 +13195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64382",
     "passage": ""
+  },
+  {
+    "id": 64383,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a stage of system development cycle?",
+    "options": {
+      "A": "Design",
+      "B": "Test running",
+      "C": "Implementation",
+      "D": "Observation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Observation isn't a stage of system development cycle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64383",
+    "passage": ""
   }
 ]
