@@ -14174,5 +14174,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22924",
     "passage": ""
+  },
+  {
+    "id": 22925,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above, ATR is a tangent at the point T to the circle center O, if ∠TOB = 145°, find ∠TAO",
+    "options": {
+      "A": "20 o",
+      "B": "35 o",
+      "C": "45 o",
+      "D": "55 o",
+      "E": "65 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4150980453_wcmath199129.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909105/myschool/mathematics/4150980453_wcmath199129.jpg",
+    "correct_answer": "D",
+    "explanation": "From the figure, < ATO = 90°\n< AOT = 180° - 145° = 35°\n\\(\\therefore\\) < TAO = 180° - (90° + 35°)\n= 55° (sum of angle in a triangle)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22925",
+    "passage": ""
   }
 ]
