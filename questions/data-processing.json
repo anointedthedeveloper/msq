@@ -6874,5 +6874,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67133",
     "passage": ""
+  },
+  {
+    "id": 67134,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Table 2 can be derived from table 1 by",
+    "options": {
+      "A": "Segmentation",
+      "B": "Replication",
+      "C": "Redundancy",
+      "D": "Fragmentation"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/WLlk0zBmxaGAbzKz7X1aaD2BTPIhsfkRds1k7iK2.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911861/myschool/data-processing/WLlk0zBmxaGAbzKz7X1aaD2BTPIhsfkRds1k7iK2.png",
+    "correct_answer": "C",
+    "explanation": "Data redundancy is a data organization issue that allows the unnecessary duplication of data within your Microsoft Access database. A change or modification, to redundant data, requires that you make changes to multiple fields of a database.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67134",
+    "passage": ""
   }
 ]
