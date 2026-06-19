@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66190",
     "passage": ""
+  },
+  {
+    "id": 66193,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The process of interpreting a received message is",
+    "options": {
+      "A": "ideation",
+      "B": "encoding",
+      "C": "decoding",
+      "D": "feedback"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Decoding is a process of interpreting a received message",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66193",
+    "passage": ""
   }
 ]
