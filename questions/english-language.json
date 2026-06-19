@@ -6597,5 +6597,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2986",
     "passage": ""
+  },
+  {
+    "id": 2987,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E :\nThe armed robbers stabbed the driver …. the back",
+    "options": {
+      "A": "In",
+      "B": "On",
+      "C": "At",
+      "D": "Inside",
+      "E": "By"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "prepositions are all connectors.\nIn this context \"In\" is defined as inside an area, moving from a point outside to a point inside.\n\"On\" is used to indicate position, usually indicating that something is on top of something else.\nA stab in the back would mean, a stab from the outer area to the inner area. Option A is correct",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2987",
+    "passage": ""
   }
 ]
