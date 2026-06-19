@@ -613,5 +613,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/736",
     "passage": ""
+  },
+  {
+    "id": 737,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The normal boiling point of a liquid is defined as?",
+    "options": {
+      "A": "the temperature at which its vapour pressure equals the atmospheric pressure",
+      "B": "the temperature at which bubbles begin to form",
+      "C": "the temperature at which the vapour pressure equals 1 temperature",
+      "D": "the temperature at which the rate of condensation of vapour equals the rate of vaporisation of the liquid",
+      "E": "the temperature at which the space above the liquid is saturated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid and the liquid changes into a vapor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/737",
+    "passage": ""
   }
 ]
