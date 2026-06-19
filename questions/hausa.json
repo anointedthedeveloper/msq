@@ -1047,5 +1047,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73639",
     "passage": ""
+  },
+  {
+    "id": 73640,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ware bare dangane da jam'i a tambaya ta",
+    "options": {
+      "A": "Littafi",
+      "B": "Katifa",
+      "C": "Korama",
+      "D": "Takarda"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Which of the following is a plural noun? The correct answer is Littafi. In the context of the question, \"littafi\" translates to \"book\" in English, which is commonly associated with gathering information or knowledge. The other options may relate to materials but do not specifically denote a collective or comprehensive source of information as \"littafi\" does.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73640",
+    "passage": ""
   }
 ]
