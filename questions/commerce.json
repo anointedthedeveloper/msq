@@ -15391,5 +15391,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7580",
     "passage": ""
+  },
+  {
+    "id": 7581,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "An opportunity to reject a binding contract at will by a third party is said to be a?",
+    "options": {
+      "A": "valid contract",
+      "B": "quasi contract",
+      "C": "voidable contract",
+      "D": "conditional contract"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When a contract is entered into without the free consent of the party, it is considered a voidable contract.\nVoidable contracts are those that have been entered to by trick or coercion, or entered into with a minor, or entered into where one party was temporarily impaired (e.g., drunk).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7581",
+    "passage": ""
   }
 ]
