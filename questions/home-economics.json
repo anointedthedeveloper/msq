@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73225",
     "passage": ""
+  },
+  {
+    "id": 73226,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A person whose work does not involve strenuous physical activity is called ______ workers.",
+    "options": {
+      "A": "Manual",
+      "B": "Sedentary",
+      "C": "Company",
+      "D": "Medical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sedentary workers are those whose jobs involve minimal physical activity, often requiring them to sit or stand for long periods. Examples include office workers, computer operators, and professionals who work in a desk-bound environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73226",
+    "passage": ""
   }
 ]
