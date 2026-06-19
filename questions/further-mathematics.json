@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50307",
     "passage": ""
+  },
+  {
+    "id": 50314,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the domain of \\(g(x) = \\frac{4x^{2} - 1}{\\sqrt{9x^{2} + 1}}\\)",
+    "options": {
+      "A": "\\({x : x \\in R, x = \\frac{1}{2}}\\)",
+      "B": "\\(x: x \\in R, x\\neq \\frac{1}{3}\\)",
+      "C": "\\(x : x \\in R, x = \\frac{1}{3}\\)",
+      "D": "\\(x: x \\in R\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The domain of a function refers to the regions where the function is defined or has a value on a particular region.\n\\(\\frac{4x^{2} - 1}{\\sqrt{9x^{2} + 1}}\\) has a domain defined on all set of real numbers because the function is defined on the set of real numbers when the denominator \\(\\sqrt{9x^{2} + 1} \\geq 0\\).\n\\(\\sqrt{9x^{2} + 1} \\geq 0 \\implies 9x^{2} + 1 \\geq 0\\) which because of the square sign has a value for all values of x, be it negative or positive.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50314",
+    "passage": ""
   }
 ]
