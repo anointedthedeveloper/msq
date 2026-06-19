@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/797",
     "passage": ""
+  },
+  {
+    "id": 798,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1995",
+    "question": "Spot market goods are those which are available for",
+    "options": {
+      "A": "immidiate delivery",
+      "B": "short-term delivery",
+      "C": "long-term delivery",
+      "D": "end of the delivery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Spot market goods refer to goods that are physically available and can be bought and sold for immediate delivery and payment.\nThe term \"spot\" means \"on the spot\" — right now, not in the future.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/798",
+    "passage": ""
   }
 ]
