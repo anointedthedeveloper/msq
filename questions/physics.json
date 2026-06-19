@@ -8335,5 +8335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14049",
     "passage": ""
+  },
+  {
+    "id": 14052,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Convex mirror are used as driving mirrors because images formed are?",
+    "options": {
+      "A": "erect, virtual and diminished",
+      "B": "erect, real and diminished",
+      "C": "erect, virtual and magnified",
+      "D": "inverted virtual and diminished"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Image formed by convex mirror is always erect, virtual and diminished\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14052",
+    "passage": ""
   }
 ]
