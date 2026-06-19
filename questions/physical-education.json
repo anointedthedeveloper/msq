@@ -6129,5 +6129,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76418",
     "passage": ""
+  },
+  {
+    "id": 76419,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which badminton grip is used for powerful overhead shots like clears and smashes?",
+    "options": {
+      "A": "Backhand grip",
+      "B": "Universal grip",
+      "D": "Forehand grip"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The forehand grip in badminton is the primary grip used to execute powerful overhead shots such as clears and smashes. This grip allows players to generate maximum racket head speed and control, making it ideal for delivering forceful and precise shots. With the forehand grip, the hand holds the racket handle loosely but firmly, enabling a quick wrist snap and full arm rotation necessary for power and accuracy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76419",
+    "passage": ""
   }
 ]
