@@ -2791,5 +2791,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9792",
     "passage": ""
+  },
+  {
+    "id": 9793,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Vibration in a stretched spring cannot be polarized because they are",
+    "options": {
+      "A": "stationary waves",
+      "B": "transverse waves",
+      "C": "longitudinal waves",
+      "D": "mechanical waves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In longitudinal waves, such as sound waves in a liquid or gas, the displacement of the particles in the oscillation is always in the direction of propagation, so these waves do not exhibit polarization.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9793",
+    "passage": ""
   }
 ]
