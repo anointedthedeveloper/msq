@@ -2921,5 +2921,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66845",
     "passage": ""
+  },
+  {
+    "id": 66846,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "What does it mean when a meeting is adjourned sine die ?",
+    "options": {
+      "A": "There was no closing prayer",
+      "B": "The meeting was fixed for another date",
+      "C": "No date was fixed for its continuation",
+      "D": "The meeting ended ended in chaos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Adjournment sine die means \"without assigning a day for a further meeting or hearing\".To adjourn an assembly sine die is to adjourn it for an indefinite period.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66846",
+    "passage": ""
   }
 ]
