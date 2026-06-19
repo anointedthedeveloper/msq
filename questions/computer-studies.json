@@ -15570,5 +15570,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67777",
     "passage": ""
+  },
+  {
+    "id": 67778,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following components of the computer is referred to as the administrative section ?",
+    "options": {
+      "A": "CPU",
+      "B": "Output unit",
+      "C": "Input unit",
+      "D": "Memory Unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "CPU is referred to as the administrative section of the computer, it is also called the brain of the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67778",
+    "passage": ""
   }
 ]
