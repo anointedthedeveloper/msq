@@ -2742,5 +2742,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58318",
     "passage": ""
+  },
+  {
+    "id": 58321,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Mr Okafor has a company that specializes in the production of beverages with headquarters in Abuja. He intended to monitor the sales and transactions in the company's branches across Nigeria as well as interact with his customers.\n(a) Through what platform can Mr Okafor achieve his intention?\n(b) What computer professional should Mr Okafor hire to design the platform in 3(a)?\n(c) State two software packages needed to create the platform for Mr Okafor.\n(d) If Mr Okafor decides to connect all the offices within the headquarters in abuja in a single network;\n(i) What type of network is appropriate?\n(ii) Mention three reasons to support his decision.\n(e) Mention two transmission media that can be used to implement the network in 3(d)(i).",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Through the company's website\n(b) Web/Website Developer (Programmer) OR Web/Website Designer OR Webmaster OR System Analyst OR Programmer\n(c) Software packages needed to create the platform,; Website design packages; Adobe Dreamweaver, Adobe Muse, Amaya, Antenna Web, Bluefish, BlueGriffon, Coda, Coffee Cup, Desigb Studio, Galaxy Web, GoDaddy, Google Web Design, Rapid Weaver, H5P, HTML, iWeb, MIcrosoft Frontpage, MySQL, Net object fusion, Odoo Website, Photon fx Easy, Sandfox, Vb-Net, Weebly.\n(d)(i) Local Area Connection (LAN)/Intranet\n(ii) Importance of computer network; File sharing, printer sharing, sharing of media, media centre server, security, communication, preservation/storage, sharing of resources, reduced cost, improved customer, better performance, ease of setup.\n(e) Transmission media that can be used to implement the network in 3(d)(i);\n(1) UTP (2) STP (3) Coaxial/Copper (4) Fibre Optics (5) Bluetooth (6) Infrared (7) Radio (8) WiFi (9) Hot-Spot (10) Satellite",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58321",
+    "passage": ""
   }
 ]
