@@ -2182,5 +2182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9147",
     "passage": ""
+  },
+  {
+    "id": 9171,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "At reasonance, the phase angle in an a.c. circuit is",
+    "options": {
+      "A": "90°",
+      "B": "60°",
+      "C": "0°",
+      "D": "180°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "At resonance in an a.c. circuit, during which the capacitive reactance X\\(_c\\) is equal to the inductive reactance X\\(_l\\), the phase angle Ø = 0°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9171",
+    "passage": ""
   }
 ]
