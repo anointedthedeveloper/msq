@@ -11044,5 +11044,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4315",
     "passage": ""
+  },
+  {
+    "id": 4317,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The oxidation state of Cr in K\\(_2\\)Cr\\(_2\\)O\\(_7\\) is?",
+    "options": {
+      "A": "+7",
+      "B": "+6",
+      "C": "+5",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Potassium dichromate, K\\(_2\\)Cr\\(_2\\)O\\(_7\\)\n→ [1 * 2] + [Cr * 2] + [-2 * 7] = 0\n→ 2 + 2Cr - 14 = 0\n→ 2Cr = 12\n→Cr = \\(\\frac{12}{2}\\) → 6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4317",
+    "passage": ""
   }
 ]
