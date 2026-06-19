@@ -7999,5 +7999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3285",
     "passage": ""
+  },
+  {
+    "id": 3286,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The gas obtained as a product of anaerobic action on organic matter buried in the earth is?",
+    "options": {
+      "A": "ethene",
+      "B": "methane",
+      "C": "carbon (IV) oxide",
+      "D": "nitrogen (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The organic material (or organics) within the low-oxygen environment of landfills also undergoes anaerobic digestion, producing methane .\nWhen organic matter decomposes without oxygen (anaerobic conditions), bacteria produce a gas mixture called biogas, which is mainly composed of methane and carbon dioxide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3286",
+    "passage": ""
   }
 ]
