@@ -2241,5 +2241,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1319",
     "passage": ""
+  },
+  {
+    "id": 1323,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words : Do you have the same aversion as i do for way film?",
+    "options": {
+      "A": "bitterness",
+      "B": "dislike",
+      "C": "criticism",
+      "D": "indignation",
+      "E": "preference"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Aversion simply means a strong dislike for something or someone.\nThe option nearest in meaning from the given options is option B ''dislike''.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1323",
+    "passage": ""
   }
 ]
