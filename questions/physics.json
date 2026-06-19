@@ -17185,5 +17185,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25004",
     "passage": ""
+  },
+  {
+    "id": 25005,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A solid metal cube of side 10 cm is heated from\n10\no\nC to 60\no\nC. lf the linear expansivity of the metal is 1.2 x 10\n5\nK\n-1\n, calculate the increase in its volume.",
+    "options": {
+      "A": "0.6cm 3",
+      "B": "1.2 cm 3",
+      "C": "1.8 cm 3",
+      "D": "3.6 cm 3",
+      "E": "6.0cm 3 ."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "-5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25005",
+    "passage": ""
   }
 ]
