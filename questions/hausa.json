@@ -501,5 +501,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73430",
     "passage": ""
+  },
+  {
+    "id": 73431,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "\"Awakai sun fita gida da gudu.\" Kalmar aikatau a wannan jimla ita ce",
+    "options": {
+      "A": "awakai",
+      "B": "da",
+      "C": "gida",
+      "D": "fita"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The verb in the sentence \"Awakai sun fita gida da gudu\" is: Answer: fita (Fita is the verb in the sentence, which means \"to go out\". Awakai is the subject, da is a preposition, gida means \"home\", and sun is an auxiliary verb)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73431",
+    "passage": ""
   }
 ]
