@@ -7675,5 +7675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76191",
     "passage": ""
+  },
+  {
+    "id": 76192,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace irin waka ce ake rerawa a bukukuwan aure?",
+    "options": {
+      "A": "Wakar soyayya",
+      "B": "Wakar yankan rago",
+      "C": "Wakar daka shinkafa",
+      "D": "Wakar taya murna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A bukukuwan aure, ana rerawa wakokin taya murna domin nuna farin ciki da goyon baya.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76192",
+    "passage": ""
   }
 ]
