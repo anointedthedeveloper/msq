@@ -979,5 +979,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/937",
     "passage": ""
+  },
+  {
+    "id": 938,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Urban floods are mainly caused by",
+    "options": {
+      "A": "construction of dams and barrages",
+      "B": "clearance of vegetation on farmlands",
+      "C": "blockage of drains and waterways",
+      "D": "establishment of shelter belts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/938",
+    "passage": ""
   }
 ]
