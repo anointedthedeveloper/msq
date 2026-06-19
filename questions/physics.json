@@ -4450,5 +4450,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12285",
     "passage": ""
+  },
+  {
+    "id": 12286,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If 1.2 x 10^6J of heat energy is given off in 1 sec from a vessel maintained at a temperature gradient of 30Km-1, the surface area of the vessel is\n[ thermal conductivity of the vessel = 400Wm-1K-1]",
+    "options": {
+      "A": "1.0 x 10 2 m 2",
+      "B": "9. 0 x 10 2 m 2",
+      "C": "1.0 x 10 3 m 2",
+      "D": "9.0 x 10 4 m 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Generally in thermal/heat conduction, if 1.2 x 106 J is the heat flow per seconds; 30KM-1 is the temperature gradient of the materials; and 400Wm-1K-1 the thermal conductivity of the material, then we have that: heat energy  = thermal conductivity x temp. gradient x time x area i.e = 1.2 x 10^6 = 400 x 30 x1x Area => 400 x 30 x Area = 1.2 x 10^6 ∴ Area = (1.2 x 10^6)/(400 x 30) Area = 100m^2 or 1.0 x 10^2m2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12286",
+    "passage": ""
   }
 ]
