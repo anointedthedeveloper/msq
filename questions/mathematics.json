@@ -5794,5 +5794,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8697",
     "passage": ""
+  },
+  {
+    "id": 8713,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If\ndy\n/\ndx\n= x + cos x, find y",
+    "options": {
+      "A": "x 2 - sin x + c",
+      "B": "x 2 + sin x + c",
+      "C": "x 2 / 2 - sin x + c",
+      "D": "x 2 / 2 + sin x + c"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8713",
+    "passage": ""
   }
 ]
