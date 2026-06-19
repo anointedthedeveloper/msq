@@ -11658,5 +11658,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14486",
     "passage": ""
+  },
+  {
+    "id": 14487,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The efficiency of the pulley system shown above is 80%. find the effort E required to lift the load of 1200N",
+    "options": {
+      "A": "275N",
+      "B": "325N",
+      "C": "375N",
+      "D": "573N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17731695150_phy200814.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890975/myschool/physics/17731695150_phy200814.jpg",
+    "correct_answer": "C",
+    "explanation": "VR = No. of pulleys = 4 Efficiency = \\(\\frac{M.A}{V.R}\\)\ncross multiply \\(\\frac{80}{100} * V.R\\) = M.A\n\\(\\frac{80}{100} * 4\\) = M.A M.A = 3.25 where M.A = \\(\\frac{load}{effort}\\) ∴ Effort = \\(\\frac{1200}{3.2} * V.R\\)\n= 375N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14487",
+    "passage": ""
   }
 ]
