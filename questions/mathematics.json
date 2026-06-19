@@ -5815,5 +5815,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8713",
     "passage": ""
+  },
+  {
+    "id": 8727,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Differentiate (cos θ - sin θ)\\(^2\\)",
+    "options": {
+      "A": "-2 cos 2θ",
+      "B": "-2 sin2θ",
+      "C": "1 - 2 cos 2θ",
+      "D": "1 - 2 sin 2θ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "y = (cosθ - sinθ) dy/dx = 2(cosθ - sinθ)(-sinθ - cosθ) dy/dx = 2(-cosθsinθ - cos2θ + sin2θ) dy/dx = 2(- cos\\(^2\\)θ + sin\\(^2\\)θ) = -2(cos\\(^2\\)θ - sin\\(^2\\)θ) = -2(1 - 2sin\\(^2\\)θ) = -2cos2θ\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8727",
+    "passage": ""
   }
 ]
