@@ -10458,5 +10458,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14347",
     "passage": ""
+  },
+  {
+    "id": 14349,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A man standing on a lift that is descending does not feel any weight because",
+    "options": {
+      "A": "the inside of the lift is air tight",
+      "B": "the lift is in vacuum",
+      "C": "the lift's acceleration is same as acceleration due to gravity",
+      "D": "there is no gravitational pull on the man in the lift"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The resultant force acting on the man is given by w = mg - R Mg - mg = 0 The man feels weightless because the reaction, R is equal to the weight mg\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14349",
+    "passage": ""
   }
 ]
