@@ -1404,5 +1404,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49779",
     "passage": ""
+  },
+  {
+    "id": 49780,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Insurance is defined as pooling of risk because many people",
+    "options": {
+      "A": "with common interest make claims every year",
+      "B": "with common risk insure with the same company",
+      "C": "with common interest insure with reinsurance company",
+      "D": "form common association to help themselves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Risk pooling in insur ance is a practice where the company groups large numbers of policyholders together to lower the impact of higher- risk individuals by placing them alongside lower risk ones. The company is able to offer higher risk policyholders more affordable coverage as a result.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49780",
+    "passage": ""
   }
 ]
