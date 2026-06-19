@@ -15780,5 +15780,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67787",
     "passage": ""
+  },
+  {
+    "id": 67788,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "At what stage in system development life cycle are all data documented in the form of detailed data flow diagrams(DFDs)",
+    "options": {
+      "A": "System design",
+      "B": "Feasibility study",
+      "C": "System analysis",
+      "D": "Investigative study"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "During the System Analysis stage of the System Development Life Cycle (SDLC), all data are documented in the form of detailed Data Flow Diagrams (DFDs). The System Analysis stage involves understanding and documenting the business processes and requirements of the new system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67788",
+    "passage": ""
   }
 ]
