@@ -12724,5 +12724,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4697",
     "passage": ""
+  },
+  {
+    "id": 4698,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The relative atomic mass of a naturally occurring lithium consisting of 90% \\(^7 _3\\)Li and \\(^6 _3\\)10% Li is",
+    "options": {
+      "A": "6.9",
+      "B": "7.1",
+      "C": "6.2",
+      "D": "6.8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "R.A.M = m\\(_1 \\alpha_1\\) + m\\(_2 \\alpha_2\\)\n= 7(90/100) + 6(10/100)\n= 6.3 + 0.6\n= 6.9\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4698",
+    "passage": ""
   }
 ]
