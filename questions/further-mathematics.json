@@ -2958,5 +2958,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50466",
     "passage": ""
+  },
+  {
+    "id": 50469,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The table above shows the distribution of marks scored by students in a test. How many candidates scored above the median score?",
+    "options": {
+      "A": "3",
+      "B": "12",
+      "C": "22",
+      "D": "30"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The total number of candidates = 40, therefore, the median occurs as the average between the 20th and 21st candidates. = \\(\\frac{3+3}{2} = 3\\)\nNumber of candidates that scored above 3 : 9 + 3 = 12.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50469",
+    "passage": ""
   }
 ]
