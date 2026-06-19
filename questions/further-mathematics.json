@@ -2077,5 +2077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50407",
     "passage": ""
+  },
+  {
+    "id": 50408,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(P = \\begin{pmatrix} 1 & 2 \\\\ 5 & 1 \\end{pmatrix}\\) and \\(Q = \\begin{pmatrix} 0 & 1 \\\\ 1 & 3 \\end{pmatrix}\\), find PQ.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} 5 & 1 \\\\ 16 & 5 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} 2 & 16 \\\\ 1 & 10 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} 2 & 7 \\\\ 1 & 8 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} 2 & 5 \\\\ -1 & -8 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{pmatrix} 1 & 2 \\\\ 5 & 1 \\end{pmatrix} \\begin{pmatrix} 0 & 1 \\\\ 1 & 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 1\\times 0 + 2\\times 1 & 1\\times 1 + 2\\times3 \\\\ 5\\times0 + 1\\times1 &  5\\times1 + 1\\times 3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} 2 & 7 \\\\ 1 & 8 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50408",
+    "passage": ""
   }
 ]
