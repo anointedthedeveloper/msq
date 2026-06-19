@@ -16724,5 +16724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24292",
     "passage": ""
+  },
+  {
+    "id": 24293,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "lf the frequency of the a.c. circuit illustrated is 500Hz/ π  what would be the reactance in the circuit?",
+    "options": {
+      "A": "0.01Ω",
+      "B": "190.91 Ω",
+      "C": "200.00 Ω",
+      "D": "795.46 Ω",
+      "E": "1000.00Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12475640853_wcphy199252.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892382/myschool/physics/12475640853_wcphy199252.jpg",
+    "correct_answer": "C",
+    "explanation": "Capacitive reactance = 1 / 2πfc\nX = 1 / 2π x 500 x 5 x 10 -6 = 200",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24293",
+    "passage": ""
   }
 ]
