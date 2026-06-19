@@ -3987,5 +3987,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1749",
     "passage": ""
+  },
+  {
+    "id": 1750,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The Arrhenius equation expresses the relationship between the speed of a reaction and its",
+    "options": {
+      "A": "Molecular collision",
+      "B": "Heat of reaction",
+      "C": "Catalyst",
+      "D": "Activation energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Above is the Arrhenius equation. It is a relationship between speed and activation energy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1750",
+    "passage": ""
   }
 ]
