@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57443",
     "passage": ""
+  },
+  {
+    "id": 57450,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The exchange of information over a network follows a set of rules called",
+    "options": {
+      "A": "transmission rules",
+      "B": "transfer rules",
+      "C": "channels rules",
+      "D": "protocols"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Protocol, in computer science, a set of rules or procedures for transmitting data between electronic devices, such as computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57450",
+    "passage": ""
   }
 ]
