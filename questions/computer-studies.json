@@ -11200,5 +11200,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64111",
     "passage": ""
+  },
+  {
+    "id": 64112,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The binary system has the radix of ________",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "½"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Binary consists of two digits, hence its radix being 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64112",
+    "passage": ""
   }
 ]
