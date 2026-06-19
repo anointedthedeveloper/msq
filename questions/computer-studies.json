@@ -3764,5 +3764,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62246",
     "passage": ""
+  },
+  {
+    "id": 62247,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The main difference between a laptop and a desktop is that, a laptop?",
+    "options": {
+      "A": "does not have mouse while a desktop has",
+      "B": "uses USB port while desktop uses parallel port",
+      "C": "can be connected to the internet while desktop cannot",
+      "D": "contains high capacity battery that powers for extensive period while desktop has not."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The main difference between a laptop and a desktop is that a laptop contains a high-capacity battery that powers it for an extensive period while a desktop does not. Both laptops and desktops can use a mouse, have USB and parallel ports, and can be connected to the internet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62247",
+    "passage": ""
   }
 ]
