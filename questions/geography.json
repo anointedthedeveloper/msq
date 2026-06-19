@@ -2625,5 +2625,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6223",
     "passage": ""
+  },
+  {
+    "id": 6224,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The sea bed, bordering the continents, which is covered by shallow water is known as",
+    "options": {
+      "A": "continental slope",
+      "B": "coral reef",
+      "C": "continental platform",
+      "D": "continental drift",
+      "E": "continental shelf"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6224",
+    "passage": ""
   }
 ]
