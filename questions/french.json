@@ -2504,5 +2504,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71077",
     "passage": ""
+  },
+  {
+    "id": 71078,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceLa femme_vient Ici est Belle.",
+    "options": {
+      "A": "ou",
+      "B": "qui",
+      "C": "que",
+      "D": "dont"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "La réponse correcte est qui. La phrase complète serait: \"La femme qui vient ici est belle.\" Dans ce cas, \"qui\" est utilisé pour introduire une clause relative décrivant la femme qui est belle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71078",
+    "passage": ""
   }
 ]
