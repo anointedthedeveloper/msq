@@ -6355,5 +6355,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2859",
     "passage": ""
+  },
+  {
+    "id": 2860,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Choose the word which is opposite in meaning to the underlined word in each sentence : The doctor was very gentle with his patients in the examining room.",
+    "options": {
+      "A": "Harsh",
+      "B": "Rude",
+      "C": "Rough",
+      "D": "Unkind",
+      "E": "Callous"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Gentle in this context means careful, soft and not causing pain , especially in a medical setting. The most direct opposite is rough , which means not careful, harsh in handling or likely to cause discomfort or pain .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2860",
+    "passage": ""
   }
 ]
