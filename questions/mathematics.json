@@ -11559,5 +11559,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22343",
     "passage": ""
+  },
+  {
+    "id": 22344,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram O is the center of the circle, if ∠QRS = 62o, find the value of ∠SQR.",
+    "options": {
+      "A": "14 o",
+      "B": "28 o",
+      "C": "31 o",
+      "D": "45 o",
+      "E": "90 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11065204240_wcmath19895.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907127/myschool/mathematics/11065204240_wcmath19895.jpg",
+    "correct_answer": "B",
+    "explanation": "< QSR = 90° (angle in a semi-circle)\n\\(\\therefore\\) < SQR = 180° - (90° + 62°)\n= 28°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22344",
+    "passage": ""
   }
 ]
