@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60215",
     "passage": ""
+  },
+  {
+    "id": 60216,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Fig 1above is a logic gate. Use it to answer the question below\nFig 1 represents_________?",
+    "options": {
+      "A": "an AND gate",
+      "B": "an OR gate",
+      "C": "a NOT gate",
+      "D": "a NAND gate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/oUy2QFYi02FKT038LblnNwjkJqjvVawg8Lqb3fsE.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781893624/myschool/computer-studies/oUy2QFYi02FKT038LblnNwjkJqjvVawg8Lqb3fsE.jpg",
+    "correct_answer": "B",
+    "explanation": "OR gate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60216",
+    "passage": ""
   }
 ]
