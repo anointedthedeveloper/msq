@@ -11364,5 +11364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14465",
     "passage": ""
+  },
+  {
+    "id": 14466,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following materials has an increase in resistance with temperature?",
+    "options": {
+      "A": "water",
+      "B": "metals",
+      "C": "wood",
+      "D": "electrolyte"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14466",
+    "passage": ""
   }
 ]
