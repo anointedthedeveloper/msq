@@ -460,5 +460,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73459",
     "passage": ""
+  },
+  {
+    "id": 73460,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Mgbọchiume mkpị ọle ka e nwere n'Igbo?",
+    "options": {
+      "A": "Iri",
+      "B": "Asatọ",
+      "C": "Itoọlụ",
+      "D": "Iri na itoọlụ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "How many double consonants are there in Igbo? Itoọlụ. There are 9 double consonants in Igbo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73460",
+    "passage": ""
+  },
+  {
+    "id": 73461,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ọlee akara e ji egosi mgbe ihe mberedede mere?",
+    "options": {
+      "A": "!",
+      "B": ":",
+      "C": "-",
+      "D": "?"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "What symbol is used to indicate excitement or surprise? The exclamation mark (!) is used to indicate excitemen or surprise.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73461",
+    "passage": ""
+  },
+  {
+    "id": 73476,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Họpụta nke abụghị okwụ ajụjụ na ndị a",
+    "options": {
+      "A": "Gịnị",
+      "B": "Ụlọ",
+      "C": "Kedu",
+      "D": "Ebee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Which of the following is not an interrogative word? Ụlọ. Ụlọ is not an interrogative word, it means \"house\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73476",
+    "passage": ""
   }
 ]
