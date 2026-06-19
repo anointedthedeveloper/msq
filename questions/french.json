@@ -500,5 +500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48135",
     "passage": ""
+  },
+  {
+    "id": 48136,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Je regrette ... mon action",
+    "options": {
+      "A": "vive",
+      "B": "vivement",
+      "C": "vivante",
+      "D": "vif"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48136",
+    "passage": ""
   }
 ]
