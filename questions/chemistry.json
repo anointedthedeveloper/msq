@@ -4890,5 +4890,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2237",
     "passage": ""
+  },
+  {
+    "id": 2238,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "I. H = 1S\\(^1\\) II. N = 1S\\(^2\\) 2S\\(^2\\)2P\\(^3\\)  III. O = 1S\\(^2\\) 2S\\(^2\\) 2P\\(^4\\) IV. Zn = 1S\\(^2\\) 2S\\(^2\\) 2P\\(^6\\) 3S\\(^2\\) 3P\\(^6\\) 4S\\(^2\\) 3d\\(^{10}\\) From the above, which of the following pairs is like to be paramagnetic?",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "I and IV",
+      "D": "III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Paramagnetic materials are materials that tend to get weakly magnetized in the direction of the magnetizing field when placed in a magnetic field. Paramagnetic elements are elements that have at least one unpaired electron and are slightly attracted to magnetic fields. Examples: Copper, gold, antimony, bismuth, silver, lead, silicon, mercury, water, Oxygen, hydrogen, nitrogen, etc\nBy elimination method, options C and D are eliminated because of Zinc, which is diamagnetic as it has no unpaired electron. Between options A and B, both have H present with difference of Oxygen and Nitrogen, with Oxygen being more paramagnetic than Nitrogen because molecular oxygen (O2) is paramagnetic and is attracted to the magnet. In contrast, molecular nitrogen (N2) has no unpaired electrons and is diamagnetic; it is unaffected by the magnet.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2238",
+    "passage": ""
   }
 ]
