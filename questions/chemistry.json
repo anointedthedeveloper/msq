@@ -9658,5 +9658,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4002",
     "passage": ""
+  },
+  {
+    "id": 4006,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Chlorophyll obtained from green leaves of plant can be shown to be composed of more than one coloured component by the technique of",
+    "options": {
+      "A": "crystallization",
+      "B": "hydrolysis",
+      "C": "chromatography",
+      "D": "sublimation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The chlorophyll from the green leaves of plant being a mixture can be separated by Chromatography into its different components. Chromatography has to do with the separation of coloured components. chromatography  is used in industrial processes to purify materials, test trace amounts of contaminants, isolate chiral compounds, and quality control test products\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4006",
+    "passage": ""
   }
 ]
