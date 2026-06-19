@@ -270,5 +270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73419",
     "passage": ""
+  },
+  {
+    "id": 73420,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ana amfani da d'afin - una wajen jam'in duk wadannam in ban da",
+    "options": {
+      "A": "rafi",
+      "B": "hula",
+      "C": "rumfa",
+      "D": "riga"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The prefix \"una-\" is used to form the plural of all of the following except: Answer: rafi (Rafi is an exception, as it forms its plural with the prefix \"ri-\" instead of \"una-\". The other options - hula, riga, rumfa, and shago - all form their plurals with the prefix \"una-\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73420",
+    "passage": ""
   }
 ]
