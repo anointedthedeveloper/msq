@@ -13865,5 +13865,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23909",
     "passage": ""
+  },
+  {
+    "id": 23910,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Water in an open container boils at a lower temperature when heated at the top of a mountain than at sea-level because at the top of a mountain the",
+    "options": {
+      "A": "relative humidity is higher than at sea-level",
+      "B": "rays of the sun adds more heat to the water",
+      "C": "temperature is lower than that at sea-level",
+      "D": "pressure is lower than that at sea-level",
+      "E": "pressure is more than that at sea-level"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23910",
+    "passage": ""
   }
 ]
