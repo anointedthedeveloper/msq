@@ -3408,5 +3408,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1858",
     "passage": ""
+  },
+  {
+    "id": 1861,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following statements is NOT true of menstruation?",
+    "options": {
+      "A": "It occurs monthly",
+      "B": "The discharge contains amniotic fluid",
+      "C": "Its signifies no conception",
+      "D": "It involves the lining of uterus",
+      "E": "It may cause pains"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1861",
+    "passage": ""
   }
 ]
