@@ -2140,5 +2140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75367",
     "passage": ""
+  },
+  {
+    "id": 75368,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What kind of sculpture is created by assembling different found objects?",
+    "options": {
+      "A": "Relief",
+      "B": "Carving",
+      "C": "Mosaic",
+      "D": "Assemblage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Assemblage is the art form that involves gathering and combining disparate found or everyday objects into a three-dimensional work, often associated with Dada, Surrealism, and modern artists like Robert Rauschenberg.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75368",
+    "passage": ""
   }
 ]
