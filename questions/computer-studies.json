@@ -4815,5 +4815,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62297",
     "passage": ""
+  },
+  {
+    "id": 62298,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "(a) Define algorithm. (b) State three characteristics of an algorithm. (c) Write an algorithm for finding the average of numbers, when the sum of the numbers is given.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Is a set of rules and sequential steps that define how a particular problem can be solved in a finite and ordered sequence\n(b) (i) Input (ii) Output (ii) Effectiveness\nBEGIN\n(c) Step i: Let the sum of the six be X\nStep ii: Input the sum of the six numbers X\nStep iii: Average =X/6\nStep iv: Print Average. END\nOR BEGIN\nStep 1: Let the sum of the six numbers = X\nStep 2: Input the sum of the six numbers X\nStep 3: Average X/6\nStep 4: Print Average. END.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62298",
+    "passage": ""
   }
 ]
