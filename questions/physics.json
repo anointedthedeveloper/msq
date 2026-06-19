@@ -7915,5 +7915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14017",
     "passage": ""
+  },
+  {
+    "id": 14018,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "I. All the three forces must be concurrent. II. The upward force is equal to the downward force. III. The algebraic sum of the moment about any point must be zero. which of the above conditions must hold for a body acted upon by a system of three coplanar forces equilibrium?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The condition (ii) is a condition for an equilibrium of parallel forces only while conditions (i) and (iii) are correct for both parallel and non- parallel coplanar forces.\nNo specifications are made, so all conditions apply.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14018",
+    "passage": ""
   }
 ]
