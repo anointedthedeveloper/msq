@@ -1567,5 +1567,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/973",
     "passage": ""
+  },
+  {
+    "id": 974,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The group of countries that produce most of the cocoa in West Africa is",
+    "options": {
+      "A": "Ghana, Sierra Leone and Gambia",
+      "B": "Ghana, Cote d'Ivoire and Republic of Benin",
+      "C": "Ghana, Nigeria and Cote d'Ivoire",
+      "D": "Nigeria, Cote d'Ivoire and Togo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/974",
+    "passage": ""
   }
 ]
