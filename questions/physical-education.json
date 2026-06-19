@@ -5121,5 +5121,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70841",
     "passage": ""
+  },
+  {
+    "id": 70842,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which cell organelle is responsible for protein synthesis?",
+    "options": {
+      "A": "Ribosome",
+      "B": "Lysosome",
+      "C": "Golgi Apparatus",
+      "D": "Nucleus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ribosomes are responsible for synthesizing proteins by translating genetic instructions from mRNA.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70842",
+    "passage": ""
   }
 ]
