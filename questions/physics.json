@@ -13359,5 +13359,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23841",
     "passage": ""
+  },
+  {
+    "id": 23842,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Calculate the resistivity of a wire of length 2m and cross-sectional area 0.004cm\n2\nif the resistance is 3.0 Ω.",
+    "options": {
+      "A": "0.0000267Ωcm",
+      "B": "0.006Ωcm",
+      "C": "0.26700Ωcm",
+      "D": "0.27500Ωcm",
+      "E": "0.060000Ωcm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23842",
+    "passage": ""
   }
 ]
