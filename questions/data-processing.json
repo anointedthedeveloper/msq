@@ -5415,5 +5415,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59009",
     "passage": ""
+  },
+  {
+    "id": 59010,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "One unique feature of index file is that it contains",
+    "options": {
+      "A": "reference number",
+      "B": "relative number",
+      "C": "sequential number",
+      "D": "static number"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59010",
+    "passage": ""
   }
 ]
