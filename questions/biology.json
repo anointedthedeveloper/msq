@@ -1340,5 +1340,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/397",
     "passage": ""
+  },
+  {
+    "id": 398,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Alkaline pyrogallol was used in an experiment. That experiment must have been connected with",
+    "options": {
+      "A": "Excretion",
+      "B": "Germination",
+      "C": "Transpiration",
+      "D": "Digestion",
+      "E": "Photosynthesis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Alkaline pyrogallol absorbs water and oxygen. So it is used in photosynthesis to test for the importance of water as one of the materials necessary for photosynthesis to take place.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/398",
+    "passage": ""
   }
 ]
