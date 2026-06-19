@@ -4521,5 +4521,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58736",
     "passage": ""
+  },
+  {
+    "id": 58737,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The protection of database against compromise is known as",
+    "options": {
+      "A": "data passwording",
+      "B": "data protection",
+      "C": "database encoding",
+      "D": "database security"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Database security refers to tools, controls, and measures to establish and preserve database confidentiality, integrity, and availability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58737",
+    "passage": ""
   }
 ]
