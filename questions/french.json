@@ -228,5 +228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48122",
     "passage": ""
+  },
+  {
+    "id": 48123,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "L'auteur était gàté surtout",
+    "options": {
+      "A": "pendant  les vacances",
+      "B": "à l'âge adulte",
+      "C": "à l'école",
+      "D": "pendant son enfance"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2GAYBATspVg3uTUtmfZtMhJ3XWXnO7IuHAQORcUw.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890465/myschool/french/2GAYBATspVg3uTUtmfZtMhJ3XWXnO7IuHAQORcUw.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48123",
+    "passage": ""
   }
 ]
