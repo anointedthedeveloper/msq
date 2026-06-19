@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61380",
     "passage": ""
+  },
+  {
+    "id": 61381,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Data created by the user is called",
+    "options": {
+      "A": "primary data",
+      "B": "qualitative data",
+      "C": "quantitative data",
+      "D": "secondary data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61381",
+    "passage": ""
   }
 ]
