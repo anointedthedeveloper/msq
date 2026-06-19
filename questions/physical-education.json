@@ -5163,5 +5163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70843",
     "passage": ""
+  },
+  {
+    "id": 70844,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which muscle helps in the movement of the shoulder and is known as the shoulder pad?",
+    "options": {
+      "A": "Deltoid",
+      "B": "Trapezius",
+      "C": "Latissimus dorsi",
+      "D": "Rhomboid major"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The deltoid muscle is the prominent muscle forming the rounded contour of the shoulder. It's often referred to as the \"shoulder pad\" due to its shape and location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70844",
+    "passage": ""
   }
 ]
