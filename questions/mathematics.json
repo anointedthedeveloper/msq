@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/13",
     "passage": ""
+  },
+  {
+    "id": 14,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What is the answer when 2434\\(_6\\) is divided by 42\\(_6\\)?",
+    "options": {
+      "A": "23 6",
+      "B": "35 6",
+      "C": "52 6",
+      "D": "55 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hint: Two methods can be used; 1. Direct division (if you know division in number bases) 2. Convert both sides to base 10, divide and convert your answer back to base 6. Your answer should be 356\n2434\\(_6\\) to base 10\n2 \\(\\times\\) 6\\(^3\\) + 4 \\(\\times\\) 6\\(^2\\) + 3 \\(\\times\\) 6\\(^1\\) + 4 \\(\\times\\) 6\\(^0\\)\n2 \\(\\times\\) 216 + 4 \\(\\times\\) 36 + 3 \\(\\times\\) 6 + 4 \\(\\times\\) 1\n432 + 144 + 18 + 4 = 598\nAnd: 42\\(_6\\) to base 10\n4 \\(\\times\\) 6\\(^1\\) + 2 \\(\\times\\) 6\\(^0\\)\n4 \\(\\times\\) 6 + 2 \\(\\times\\) 1\n24 + 2 = 26\nThen divide 598 by 26\n= 23\nThen convert 23\\(_{10}\\) to base 6\n6 23 6 3 r 5 6 0 r 3\n23\\(_{10}\\)  =  35\\(_6\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/14",
+    "passage": ""
   }
 ]
