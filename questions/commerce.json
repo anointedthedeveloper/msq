@@ -5900,5 +5900,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2044",
     "passage": ""
+  },
+  {
+    "id": 2045,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "(i) Personal Savings (ii)Retained Earnings (iii)Accrued taxes Which of the items above constitute internal sources of financing for companies?",
+    "options": {
+      "A": "i and ii",
+      "B": "i and iii",
+      "C": "ii and iii",
+      "D": "i, ii and iii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Internal sources of financing for companies include funds that are generated within the organization itself. These are:\nPersonal Savings : This refers to the personal funds of the business owner or partners used to finance the company. Retained Earnings : This is the portion of the company's profits that are not distributed as dividends but are retained and reinvested in the business.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2045",
+    "passage": ""
   }
 ]
