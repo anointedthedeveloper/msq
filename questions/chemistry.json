@@ -6423,5 +6423,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2938",
     "passage": ""
+  },
+  {
+    "id": 2939,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Aluminium hydroxide is used in the dyeing industry as a",
+    "options": {
+      "A": "Salt",
+      "B": "Dye",
+      "C": "Mordant",
+      "D": "Dispersant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Aluminum hydroxide is used in the dyeing industry as a mordant. A mordant is a substance that helps dyes stick to fabrics by forming a complex with the dye that attaches to the fabric.\nIn dyeing, salt's primary function is to enhance dye absorption and fixation, while a mordant's role is to create a chemical bond between the dye and the fiber, improving colourfastness and potentially altering the final shade. Salts often act as a dyeing promoter, increasing dye exhaustion from the dye bath. Mordants, on the other hand, are typically metallic salts or other substances that form a stable complex with both the dye and the fiber, ensuring the color remains vibrant and stable.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2939",
+    "passage": ""
   }
 ]
