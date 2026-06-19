@@ -10811,5 +10811,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22051",
     "passage": ""
+  },
+  {
+    "id": 22052,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Find the quadratic equation whose roots are x = -2 or x = 7",
+    "options": {
+      "A": "x 2 + 2x - 7 = 0",
+      "B": "x 2 - 2x + 7 = 0",
+      "C": "x 2 + 5 +14 = 0",
+      "D": "x 2 - 5x - 14 = 0",
+      "E": "x 2 + 5x - 14 = 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22052",
+    "passage": ""
   }
 ]
