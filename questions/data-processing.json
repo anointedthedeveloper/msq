@@ -934,5 +934,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57697",
     "passage": ""
+  },
+  {
+    "id": 57699,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Who developed the first digital electrical computer?",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Joseph Jacquard",
+      "C": "Mauchly and Eckert",
+      "D": "Von Leibniz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "John William Mauchly and J. Presper Eckert are the scientists credited with the invention of the Electronic Numerical Integrator And Computer (ENIAC), the first general-purpose electronic digital computer, which was completed in 1946.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57699",
+    "passage": ""
   }
 ]
