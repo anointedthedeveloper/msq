@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/125",
     "passage": ""
+  },
+  {
+    "id": 128,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "One major disadvantage of public opinion is that",
+    "options": {
+      "A": "the critics of government policies are always harassed",
+      "B": "a vocal minority claims to represent the majority",
+      "C": "gossip and rumours thrive",
+      "D": "leaders are unncessarily criticized."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/128",
+    "passage": ""
   }
 ]
