@@ -12535,5 +12535,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4504",
     "passage": ""
+  },
+  {
+    "id": 4505,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The correct order of increasing boiling points of the following compounds C3H7OH, C7H16 and C4H10 is?",
+    "options": {
+      "A": "C 3 H 7 OH → C 4 H 10 → C 7 H 10",
+      "B": "C 4 H 10 → C 7 H 16 → C 3 H 7 OH",
+      "C": "C 7 H 16 → C 3 H 7 OH → C 4 H 10",
+      "D": "C 4 H 10 → C 3 H 7 OH → C 7 H 16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "C3H7OH ( PROPANOL) ⇒ 97ºC\nC7H16 ( HEPTANE ) ⇒ 98.42ºC ;and\nC4H10 ( BUTANE ) ⇒ -1ºC\nALTERNATIVELY,\nIn general, the higher the molecular mass of a substance, the higher its boiling point. This is because larger molecules have more intermolecular forces of attraction, which must be overcome for the substance to boil. If the molecular masses of each of the compounds are calculated, propanol (60g/mol), heptane(100g/mol) while butane(58g/mol).\nArrangement in increasing order will be  C4H10 → C3H7OH → C7H16 - Option D\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4505",
+    "passage": ""
   }
 ]
