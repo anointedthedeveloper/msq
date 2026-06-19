@@ -13119,5 +13119,27 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908233/myschool/mathematics/IMG_20191119_154320_%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/22667",
     "passage": ""
+  },
+  {
+    "id": 22668,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take π = 22/7] Find the total surface area of the container",
+    "options": {
+      "A": "35cm 2",
+      "B": "154cm 2",
+      "C": "220cm 2",
+      "D": "528cm 2",
+      "E": "770cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "TSA of a cylinder = \\(2\\pi r^2 + 2\\pi rh\\)\n= \\(2\\pi r (r + h)\\)\n= \\(2 \\times \\frac{22}{7} \\times 7 (7 + 5)\\)\n= \\(44 \\times 12\\)\n= \\(528 cm^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22668",
+    "passage": ""
   }
 ]
