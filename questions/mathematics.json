@@ -6277,5 +6277,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8983",
     "passage": ""
+  },
+  {
+    "id": 9008,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The solution set of the shaded area above is",
+    "options": {
+      "A": "y ≥ 0, y ≥ x and y + x ≤ 4",
+      "B": "y ≤ x, y + x ≤ 4",
+      "C": "y + x ≥ 4, y ≤ x",
+      "D": "y ≤ x, y + x ≤ 4 and y ≥ 0"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16272170808_math200639.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868604/myschool/mathematics/16272170808_math200639.jpg",
+    "correct_answer": "D",
+    "explanation": "y = x implies y ≤ x y + x = 4 implies y = 4 – x ∴y = 4 – x ∴y ≤ x, y + x ≤ 4 and y ≥ 0\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9008",
+    "passage": ""
   }
 ]
