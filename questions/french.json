@@ -4834,5 +4834,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75863",
     "passage": ""
+  },
+  {
+    "id": 75864,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Nous irons _ la plage demain.",
+    "options": {
+      "A": "par",
+      "B": "en",
+      "C": "dans\r\n\r\nDV\r\ndans",
+      "D": "à"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The phrase \"aller a la plage\" means \"to go to the beach\" in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75864",
+    "passage": ""
   }
 ]
