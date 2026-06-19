@@ -11574,5 +11574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14482",
     "passage": ""
+  },
+  {
+    "id": 14483,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The resultant of two forces 12N and 5N is 13N. What is the angle between the two forces?",
+    "options": {
+      "A": "0 o",
+      "B": "45 o",
+      "C": "90 o",
+      "D": "180 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "R\\(^2\\) = P\\(^2\\) + Q\\(^2\\) = 12\\(^2\\) + 5\\(^2\\) = 144 + 25 = 169 ∴R = \\(\\sqrt{169}\\) = 13N ∴ the angle between the forces is 90º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14483",
+    "passage": ""
   }
 ]
