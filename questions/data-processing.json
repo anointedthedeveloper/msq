@@ -9240,5 +9240,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72398",
     "passage": ""
+  },
+  {
+    "id": 72403,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Highlight the steps to perform the following (a) creating a new table (b) generating a query (c) creating a splít form (d) printing a report",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "( a) Steps in creating a new table\nClick on File Select New Slet blank desktop database Type the name for the new database in the filename box\nOR\nClick on Create on the menu bar Select Table Click on Save As on the File menu Type the Table name\n(b) Steps in generating a query\nClick on Create on the menu bar Select Query Wizard Select Simple Query from option and click on Ok Select the Table(s) that contains the required fields/add required fields Add the required fields to the selected fields section Click on Next Choose whether you went to open the query in datasheet view or modify the query in design view, click on Finish button.\n(c) Steps in creating a Split Form\nSelect the Table or Query that contains the data. Click on Create tab Click on more forms Click on Split Form Select the Table/Query\n(d) Steps in printing a report\nSelect the report to be printed from the Navigation Pane/Open the report to be printed Click on File Click on Prin/CTRL +P, select the printer, and set other properties On the Print dialog box, Click on Ok to print Bight click on the report to be printed on the Navigation Pane",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72403",
+    "passage": ""
   }
 ]
