@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/792",
     "passage": ""
+  },
+  {
+    "id": 793,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "if P and Q are fixed points and X is a point which moves so that XP = XQ, the locus of X is",
+    "options": {
+      "A": "A straight line",
+      "B": "a circle",
+      "C": "the bisector of angle PXQ",
+      "D": "the perpendicular bisector of PQ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A perpendicular bisector always divides a line segment through its midpoint. The term bisect itself means dividing equally or uniformly.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/793",
+    "passage": ""
   }
 ]
