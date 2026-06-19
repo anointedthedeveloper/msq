@@ -9371,5 +9371,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/3111",
     "passage": ""
+  },
+  {
+    "id": 3123,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Citizenship of a state by descent requires that",
+    "options": {
+      "A": "one is born and bred in the state",
+      "B": "one's mother was born in the state",
+      "C": "one's grand parents were citizens of the state",
+      "D": "one is domiciled in that state"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/3123",
+    "passage": ""
   }
 ]
