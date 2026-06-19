@@ -19377,5 +19377,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72611",
     "passage": ""
+  },
+  {
+    "id": 72612,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements explains the function of device drivers? They",
+    "options": {
+      "A": "convert source code to object code.",
+      "B": "enable hardware and software control and manage the system.",
+      "C": "help to clean disk space and manage installation of applications.",
+      "D": "help to improve the functionality of hardware devices."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: Device drivers improve the functionality of hardware devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72612",
+    "passage": ""
   }
 ]
