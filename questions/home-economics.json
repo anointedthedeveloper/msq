@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73230",
     "passage": ""
+  },
+  {
+    "id": 73231,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The act of a mother sewing her used wrapper into a small gown for her daughter is called ______.",
+    "options": {
+      "A": "Decorating",
+      "B": "Renovating",
+      "C": "Darning",
+      "D": "Patching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Renovating refers to the act of giving new life or purpose to an old or used item—in this case, a wrapper. The mother is transforming the used wrapper into a new garment (a small gown) for her daughter.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73231",
+    "passage": ""
   }
 ]
