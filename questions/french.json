@@ -3952,5 +3952,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75251",
     "passage": ""
+  },
+  {
+    "id": 75256,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "J'espère que mon ami, Bodo Wendra ... c'est-à-dire: Je _ que Bodo Wendra ...",
+    "options": {
+      "A": "constate",
+      "B": "pense",
+      "C": "regrette",
+      "D": "demande"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Esperer\", although not the same as, is closest in meaning to \"penser\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75256",
+    "passage": ""
   }
 ]
