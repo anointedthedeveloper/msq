@@ -17603,5 +17603,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25023",
     "passage": ""
+  },
+  {
+    "id": 25024,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A household refrigerator consumes electrical energy at the rate of 200 W. lf electricity costs 5 k per kWh, calculate the cost of operating the appliance for 30 days.",
+    "options": {
+      "A": "N7.20",
+      "B": "N12.00",
+      "C": "N30.00",
+      "D": "N33.33",
+      "E": "N72.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25024",
+    "passage": ""
   }
 ]
