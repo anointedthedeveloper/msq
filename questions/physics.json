@@ -2707,5 +2707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9752",
     "passage": ""
+  },
+  {
+    "id": 9753,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "a ray of light which strikes a glass slab from air at normal incidence passes through the slab",
+    "options": {
+      "A": "undeviated and undisplaced at a lower speed",
+      "B": "deviated and undisplaced at a lower speed",
+      "C": "deviated and displaced at a lower speed",
+      "D": "undeviated and displaced at a faster speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The angle of refraction will be zero as the angle of incidence is zero in this case. This is a rule, that whenever a ray strikes perpendicularly or normally to a surface, no refraction will take place and hence the ray will pass through without deviating from its path.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9753",
+    "passage": ""
   }
 ]
