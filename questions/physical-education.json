@@ -2392,5 +2392,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68262",
     "passage": ""
+  },
+  {
+    "id": 68263,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is the international governing body responsible for soccer ?",
+    "options": {
+      "A": "FIFA",
+      "B": "FIBA",
+      "C": "UEFA",
+      "D": "BWF"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "FIFA (Fédération Internationale de Football Association) is the international governing body for soccer. It is responsible for the organization and governance of football's major international tournaments, notably the World Cup.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68263",
+    "passage": ""
   }
 ]
