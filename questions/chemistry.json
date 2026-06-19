@@ -13039,5 +13039,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4778",
     "passage": ""
+  },
+  {
+    "id": 4779,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following is a deliquescent compound?",
+    "options": {
+      "A": "Na NO 3",
+      "B": "CaCl 2",
+      "C": "CuO",
+      "D": "Na 2 CO 3 .10H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Deliquescent substances are referred to known as those substances which absorbs moisture from the surrounding and dissolves themselves with the moisture or water to form a solution. Examples are sodium hydroxide(NaOH), calcium chloride(CaCl2), potassium hydroxide(KOH), ammonium chloride(NH4Cl) , etc\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4779",
+    "passage": ""
   }
 ]
