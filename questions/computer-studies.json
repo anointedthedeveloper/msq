@@ -15801,5 +15801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67788",
     "passage": ""
+  },
+  {
+    "id": 67789,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Translators are type of ?",
+    "options": {
+      "A": "System software",
+      "B": "Operating system",
+      "C": "Utility programs",
+      "D": "Application software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Translators are a type of system software. They are used to convert source code written in one programming language (the source language) into another programming language (the target language). Examples of translators include compilers, interpreters, and assemblers. System software is a type of computer software designed to run a computer's hardware and application programs. It includes the operating system, device drivers, diagnostic tools, servers, windowing systems, utilities, and more.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67789",
+    "passage": ""
   }
 ]
