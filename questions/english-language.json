@@ -2307,5 +2307,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1325",
     "passage": ""
+  },
+  {
+    "id": 1326,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option\nnearest in meaning\nto the underlined words :\nThe witness was guilty of\nswearing to a statement he knew to be false",
+    "options": {
+      "A": "forgery",
+      "B": "perjury",
+      "C": "libel",
+      "D": "slander",
+      "E": "affidavit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1326",
+    "passage": ""
   }
 ]
