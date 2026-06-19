@@ -526,5 +526,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/336",
     "passage": ""
+  },
+  {
+    "id": 337,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of these is not associated with tadpole stages of toad or frog",
+    "options": {
+      "A": "V-shaped gland",
+      "B": "operculum",
+      "C": "external gills",
+      "D": "jelly",
+      "E": "shell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Tadpoles have soft skins and do not possess shells.",
+    "explanation_image_url": "/storage/classroom/editor_images/2020-08-11%20%282%29.png",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/337",
+    "passage": ""
   }
 ]
