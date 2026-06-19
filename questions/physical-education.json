@@ -5457,5 +5457,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76341",
     "passage": ""
+  },
+  {
+    "id": 76342,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which bone is involved in forming the shoulder joint?",
+    "options": {
+      "A": "Scapula",
+      "B": "Clavicle",
+      "C": "All of the above",
+      "D": "Humerus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The shoulder joint is a complex structure involving the humerus (upper arm bone), scapula (shoulder blade), and clavicle (collarbone). The head of the humerus fits into the glenoid cavity of the scapula, forming the ball-and-socket joint, while the clavicle stabilizes the shoulder girdle and connects the arm to the torso. Together, these bones enable the wide range of motion seen in the shoulder.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76342",
+    "passage": ""
   }
 ]
