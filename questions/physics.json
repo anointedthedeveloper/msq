@@ -14701,5 +14701,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24098",
     "passage": ""
+  },
+  {
+    "id": 24099,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Heat transfer by convection in a liquid is due to the",
+    "options": {
+      "A": "translatory motion of the molecules of the liquid",
+      "B": "increased vibration of the molecules of the liquid about their mean positions",
+      "C": "expansion of the liquid as it is heated",
+      "D": "latent heat of vaporization of the liquid",
+      "E": "ability of the liquid to evaporate at all temperatures"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24099",
+    "passage": ""
   }
 ]
