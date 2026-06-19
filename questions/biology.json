@@ -1780,5 +1780,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/417",
     "passage": ""
+  },
+  {
+    "id": 461,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Insect show consideration powers of water conservation. This is due to the fact that",
+    "options": {
+      "A": "The chitinous cuticle is impregnated with tanned protein",
+      "B": "Nitrogenous waste is eliminated as urea",
+      "C": "Chitin is impermeable to water",
+      "D": "The malpighian tubules are impermeable to water",
+      "E": "The curticle is covered with wax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Insects conserve water through waterproof waxy cuticles, closing respiratory openings (spiracles), efficient excretory systems (Malpighian tubules) to reabsorb water, small size, and even generating metabolic water from food, allowing them to thrive in dry environments by minimizing water loss and maximizing water retention.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/461",
+    "passage": ""
   }
 ]
