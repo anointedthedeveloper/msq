@@ -2119,5 +2119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73274",
     "passage": ""
+  },
+  {
+    "id": 73275,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The main purpose of repairing a garment is to",
+    "options": {
+      "A": "Beautify it",
+      "B": "Alter the style",
+      "C": "Prevent waste",
+      "D": "Prolong its lifespan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The main purpose of repairing a garment is to extend its life by fixing damage or wear, preventing replacement, and helping to save resources and reduce waste.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73275",
+    "passage": ""
   }
 ]
