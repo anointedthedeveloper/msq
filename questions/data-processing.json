@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57315",
     "passage": ""
+  },
+  {
+    "id": 57326,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The feature in a database application that acts as an interface between the user and the database is called a?",
+    "options": {
+      "A": "query",
+      "B": "report",
+      "C": "form",
+      "D": "table"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Forms are database objects that provide a user-friendly interface for entering, editing, and viewing data in an organized manner. They act as the main point of interaction, simplifying the process by hiding the complexity of the underlying database structure.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57326",
+    "passage": ""
   }
 ]
