@@ -3694,5 +3694,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58468",
     "passage": ""
+  },
+  {
+    "id": 58499,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A school decides to harmonize the operation of its two campuses using a distributed database system as well as install air conditioners  and uninterrupted power supply in the computer laboratory.\n(a) State three (i) Importance of using distributed database (ii) disadvantages of using computer processing information in the school\n(b) Give two reasons for installing the; (i) air conditioners (ii) uninterrupted power supply devices",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Importance of using the distributed database\n(i) It enhances sharing of data\n(ii) Protection of valuable data\n(iii) Local or site autonomy\n(iv) It improves readability of data\n(a)(ii) Disadvantages of using computers for information processing in the school\n(i) Extra cost for employment of computer experts\n(ii)Initial investment cost is high\n(iii) Reduced face-to-face interactions/social cost.\n(iv) Loss of jobs/jobs displacement\n(v) Prone to virus attack\n(b)(i) Reasons for using air conditioners in computer laboratory\n(i) Increased productivity/computer system life plans.\n(ii) Optimised low humidity/level/temperature control.\n(iii) Comfort for users/dehydration control.\n(iv) Protection of equipment and critical data.\n(v) Dust control.\n(b)(ii) Importance of UPS in computer laboratory\n(i) To serve as a back-up source of power.\n(ii) To avoid loss of data/improper shut down.\n(iii) To provide adequate power during fluctuation.\n(iv) To protect the system against power interruptions.\n(v) Power surge/spike control.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58499",
+    "passage": ""
   }
 ]
