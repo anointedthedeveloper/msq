@@ -7852,5 +7852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9275",
     "passage": ""
+  },
+  {
+    "id": 9276,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A binary operation * is defined on the set of positive integers is such x*y = 2x-3y+2 for all positive integers x and y. The binary operation is?",
+    "options": {
+      "A": "commutative and close on the set of positive integers",
+      "B": "neither commutative nor closed on the set of positive integers",
+      "C": "commutative but not closed on the set of positive integers",
+      "D": "not cummutative but closed on the set of positive integers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "X * Y = 2X - 3Y + 2 2*3 = 2(2) - 3(3) + 2 =4-9+2 = -3 But -3 does not belong to positive integer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9276",
+    "passage": ""
   }
 ]
