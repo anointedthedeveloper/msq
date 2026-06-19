@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48063",
     "passage": ""
+  },
+  {
+    "id": 48064,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Architecture, an important feature of the built environment, is an example of",
+    "options": {
+      "A": "Literary Art",
+      "B": "Coptic Art",
+      "C": "Visual Art",
+      "D": "Performing Art"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48064",
+    "passage": ""
   }
 ]
