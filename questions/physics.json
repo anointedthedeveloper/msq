@@ -2308,5 +2308,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9502",
     "passage": ""
+  },
+  {
+    "id": 9561,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A copper cube weighs 0.25 N in air, 0.17N when completely immersed in paraffin oil and 0.15 N when completely immersed in water.The ratio of upthrust in oil to upthrust in water is",
+    "options": {
+      "A": "3 : 5",
+      "B": "4 : 5",
+      "C": "7 : 10",
+      "D": "13 : 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Wt. in air = 0.25 N Wt.in water = 0.15 N Therefore, lost in wt. in water = Upthrust in water = 0.25 - 0.15 = 0.10 N. Wt. in paraffin oil = 0.17 N. .. loss in wt. in oil = upthrust in the oil = 0.25 - 0.17 = 0.08 Ratio of upthrust in oil to upthrust in water = \\(\\frac{0.08}{0.10}\\) = \\(\\frac{8}{10}\\) = \\(\\frac{4}{5}\\) Or 4 : 5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9561",
+    "passage": ""
   }
 ]
