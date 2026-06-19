@@ -6108,5 +6108,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76417",
     "passage": ""
+  },
+  {
+    "id": 76418,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which organ is part of both the respiratory and digestive systems?",
+    "options": {
+      "A": "Esophagus",
+      "B": "Larynx",
+      "C": "Trachea",
+      "D": "Pharynx"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The pharynx serves as a passageway for both air (to the lungs) and food (to the stomach). This dual function makes it part of both the respiratory and digestive systems. The trachea and larynx belong solely to the respiratory system, while the esophagus belongs to the digestive system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76418",
+    "passage": ""
   }
 ]
