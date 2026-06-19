@@ -13075,5 +13075,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22664",
     "passage": ""
+  },
+  {
+    "id": 22665,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "calculate the surface area of a sphere of radius 7cm [Take π = 22/7]",
+    "options": {
+      "A": "86cm 2",
+      "B": "154cm 2",
+      "C": "616cm 2",
+      "D": "1434cm 2",
+      "E": "4312cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Surface area of a sphere = \\(4\\pi r^2\\)\n= \\(4 \\times \\frac{22}{7} \\times 7 \\times 7\\)\n= \\(616 cm^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22665",
+    "passage": ""
   }
 ]
