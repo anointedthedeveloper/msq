@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/59438",
     "passage": ""
+  },
+  {
+    "id": 59440,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The computing devices invented by Charles Babbage are?",
+    "options": {
+      "A": "Difference Engine and Abacus",
+      "B": "Analytical Engine and Slide Rule",
+      "C": "Abacus and Slide Rule",
+      "D": "Analytical and Difference Engines"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/59440",
+    "passage": ""
   }
 ]

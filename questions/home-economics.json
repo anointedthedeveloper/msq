@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73241",
     "passage": ""
+  },
+  {
+    "id": 73242,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A person who serves food to the public is expected to ............",
+    "options": {
+      "A": "Allow body contact with it",
+      "B": "Cover it properly",
+      "C": "Leave it open at all times",
+      "D": "Handle it with filthy hand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A person who serves food to the public is expected to handle and serve food in a safe and hygienic manner. This includes covering food properly to prevent contamination and the spread of illnesses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73242",
+    "passage": ""
   }
 ]

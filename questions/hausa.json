@@ -1698,5 +1698,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73682",
     "passage": ""
+  },
+  {
+    "id": 73683,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "\"Wani yaro fari ya rubuta jarabawa jiya. Kalmar da aka ja wa layi.......... ce\"",
+    "options": {
+      "A": "bayanau",
+      "B": "aikatau",
+      "C": "suna",
+      "D": "sifa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sifa. \"A certain white boy wrote the exam yesterday.\" The word that was described as an adjective is sifa.\nIn English, the sentence would be:\n\"A certain white boy wrote the exam yesterday.\"\nThe word \"sifa\" means \"adjective\" or \"descriptive word\", used to describe a noun or pronoun. In this sentence, \"fari\" (meaning \"white\") is an adjective used to describe the noun \"yaro\" (meaning \"boy\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73683",
+    "passage": ""
   }
 ]

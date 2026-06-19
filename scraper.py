@@ -138,10 +138,13 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
     Skips images that return non-200 (broken/missing).
     """
     # Convert relative URLs to absolute URLs
+    original_url = src_url
     if src_url.startswith("/"):
         src_url = f"{BASE_URL}{src_url}"
+        print(f"    [CDN] Converted relative to absolute: {original_url} -> {src_url}")
     
     if src_url in _upload_cache:
+        print(f"    [CDN] Using cached URL for: {original_url}")
         return _upload_cache[src_url]
 
     # Quick HEAD check — skip broken images immediately
@@ -151,16 +154,33 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
             print(f"    [SKIP] Image not available (HTTP {head.status_code}): {src_url}")
             _upload_cache[src_url] = ""
             return ""
+        print(f"    [CDN] HEAD check passed: {src_url}")
     except requests.RequestException as e:
         print(f"    [SKIP] Image HEAD request failed: {e}")
         _upload_cache[src_url] = ""
         return ""
 
     filename  = src_url.split("/")[-1]
-    public_id = f"myschool/{subject_slug}/{os.path.splitext(filename)[0]}"
+    # Clean filename for Cloudinary public_id (remove URL encoding)
+    clean_filename = filename.replace("%20", "_").replace("%28", "(").replace("%29", ")")
+    public_id = f"myschool/{subject_slug}/{os.path.splitext(clean_filename)[0]}"
+
+    # Check if image already exists on Cloudinary
+    try:
+        existing = cloudinary.api.resource(public_id, resource_type="image")
+        if existing:
+            cdn_url = existing.get("secure_url", "")
+            if cdn_url:
+                _upload_cache[src_url] = cdn_url
+                print(f"    [CDN] Already exists on Cloudinary: {filename}")
+                return cdn_url
+    except Exception:
+        # Resource doesn't exist or API error, proceed with upload
+        pass
 
     for attempt in range(retries):
         try:
+            print(f"    [CDN] Attempting upload ({attempt + 1}/{retries}): {src_url}")
             result = cloudinary.uploader.upload(
                 src_url,
                 public_id=public_id,
