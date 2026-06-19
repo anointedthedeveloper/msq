@@ -16557,5 +16557,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67849",
     "passage": ""
+  },
+  {
+    "id": 67850,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of these programming languages is the most suitable for a business data processing?",
+    "options": {
+      "A": "BASIC",
+      "B": "ALGOL",
+      "C": "COBOL",
+      "D": "FORTRAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "COBOL (Common Business-Oriented Language) is the most suitable for business data processing. It was specifically designed for business data processing needs such as arithmetic operations, file handling, and record management. BASIC and FORTRAN are more suited for educational and scientific computations respectively, while ALGOL is more for algorithmic representation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67850",
+    "passage": ""
   }
 ]
