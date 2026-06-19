@@ -5415,5 +5415,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2517",
     "passage": ""
+  },
+  {
+    "id": 2518,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The salt that will form a precipitate soluble in excess ammonia solution is",
+    "options": {
+      "A": "Ca(NO 3 ) 2",
+      "B": "Cu(NO 3 ) 2",
+      "C": "Mg(NO 3 ) 2",
+      "D": "Al(NO 3 ) 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When ammonia is added to a copper(II) nitrate solution, a pale blue precipitate of copper(II) hydroxide (Cu(OH)2) forms. The balanced equation for this reaction is\nCu(NO\\(_3\\))\\(_2\\)  +  2NH\\(_4\\)OH→Cu(OH)2↓ +  2NH\\(_4\\)NO\\(_3\\)\nExcess ammonia : When more ammonia is added, the precipitate dissolves and forms a deep blue solution of tetraammine copper(II) nitrate. The balanced equation for this reaction is   Cu(OH)2(s)+4NH3(aq)−⇀↽−[Cu(NH3)4]+2(aq)+2OH−(aq)\nThis happens because the addition of more ammonia causes the formation of a coordination complex cation of copper(II) bonded to four ammonia molecules. This shifts the solubility equilibrium of copper(II) hydroxide to the right, causing the precipitate to dissolve.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2518",
+    "passage": ""
   }
 ]
