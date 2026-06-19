@@ -2454,5 +2454,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73718",
     "passage": ""
+  },
+  {
+    "id": 73719,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Jam'in\nBoyayye - Boyayyu.\nKorar re -",
+    "options": {
+      "A": "Korarra",
+      "B": "Korarru",
+      "C": "Korarruwa",
+      "D": "Korarriya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The plural form of \"Korar re\" is: Answer: Korarru (Korarru is the correct plural form of Korarre. Korarriya, Korarra, Korarruwa, and Koraye are not the correct plural forms)\nWakili ya auri wata farar yarinya.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73719",
+    "passage": ""
   }
 ]
