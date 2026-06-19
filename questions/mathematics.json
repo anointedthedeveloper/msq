@@ -12635,5 +12635,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22602",
     "passage": ""
+  },
+  {
+    "id": 22603,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Simplify \\(\\frac{\\log \\sqrt{8}}{\\log 8}\\)",
+    "options": {
+      "A": "1/3",
+      "B": "1/2",
+      "C": "1 / 3 log√2",
+      "D": "1 / 3 log√8",
+      "E": "1 / 2 log√2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\log \\sqrt{8}}{\\log 8}\\)\n= \\(\\frac{\\log 8^{\\frac{1}{2}}}{log 8}\\)\n= \\(\\frac{\\frac{1}{2} \\log 8}{\\log 8}\\)\n= \\(\\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22603",
+    "passage": ""
   }
 ]
