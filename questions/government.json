@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/55",
     "passage": ""
+  },
+  {
+    "id": 57,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A major feature of authoritarianism is that government is",
+    "options": {
+      "A": "consensual",
+      "B": "personalized",
+      "C": "centralized",
+      "D": "decentralized."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A major feature of authoritarianism is that government is centralized. It should be remembered that authoritarianism is a form of government in which the state controls or directs everything.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/57",
+    "passage": ""
   }
 ]
