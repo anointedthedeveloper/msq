@@ -12248,5 +12248,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68553",
     "passage": ""
+  },
+  {
+    "id": 68554,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What event marked the official end of apartheid in South Africa?",
+    "options": {
+      "A": "The release of Nelson Mandela from prison",
+      "B": "The signing of the Freedom Charter",
+      "C": "The Sharpeville Massacre",
+      "D": "The Truth and Reconciliation Commission hearings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The official end of apartheid in South Africa was marked by the release of Nelson Mandela from prison in 1990. This was followed by the negotiations that led to the end of the apartheid regime and the establishment of a democratic government in South Africa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68554",
+    "passage": ""
   }
 ]
