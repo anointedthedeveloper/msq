@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50227",
     "passage": ""
+  },
+  {
+    "id": 50229,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\(y = \\frac{1+x}{1-x}\\), find \\(\\frac{dy}{dx}\\).",
+    "options": {
+      "A": "\\(\\frac{2}{(1-x)^{2}}\\)",
+      "B": "\\(\\frac{-2}{(1-x)^{2}}\\)",
+      "C": "\\(\\frac{-1}{\\sqrt{1-x}}\\)",
+      "D": "\\(\\frac{1}{\\sqrt{1-x}}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(y = \\frac{1+x}{1-x}\\)\nUsing quotient rule, \\(\\frac{v\\frac{du}{dx} - u\\frac{dv}{dx}}{v^{2}}\\), we have\n\\(\\frac{dy}{dx} = \\frac{(1-x)(1) - (1+x)(-1)}{(1-x)^{2}} = \\frac{(1 - x +1 +x)}{(1-x)^{2}}\\)\n= \\(\\frac{2}{(1-x)^{2}}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50229",
+    "passage": ""
   }
 ]
