@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73228",
     "passage": ""
+  },
+  {
+    "id": 73229,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The temperature of the baby bath water should be felt with the ______.",
+    "options": {
+      "A": "Elbow",
+      "B": "Ankle",
+      "C": "Foot",
+      "D": "Knee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The temperature of the baby bath water should be tested with the inside of your elbow, as this is a sensitive area that can detect slight changes in temperature. Reasons:\nIt’s sensitive and detects temperature changes easily. It’s close to the baby’s skin temperature. It’s a safe and gentle method to test water temperature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73229",
+    "passage": ""
   }
 ]
