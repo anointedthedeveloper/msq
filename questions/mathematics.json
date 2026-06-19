@@ -5479,5 +5479,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8611",
     "passage": ""
+  },
+  {
+    "id": 8612,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In how many ways can 6coloured chalks be arranged if 2 are same colour?",
+    "options": {
+      "A": "60",
+      "B": "120",
+      "C": "240",
+      "D": "360"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{6!}{2!} = ways\n=\\(\\frac{6\\times5\\times4\\times3\\times2!}{2!}\\)\n= 6\\(\\times5\\times4\\times3\\)\n= 360ways\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8612",
+    "passage": ""
   }
 ]
