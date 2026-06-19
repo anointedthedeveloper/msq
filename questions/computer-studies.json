@@ -16830,5 +16830,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67862",
     "passage": ""
+  },
+  {
+    "id": 67864,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "One of the following is not a good way to prevent virus.",
+    "options": {
+      "A": "encryption",
+      "B": "use of firewall",
+      "C": "carelessly exposing your vital and personal information",
+      "D": "use of antivirus software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ways of preventing virus - use of antivirus software - use of firewall - exercising care in giving out personal and vital information - encryptions",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67864",
+    "passage": ""
   }
 ]
