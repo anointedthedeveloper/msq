@@ -7768,5 +7768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13970",
     "passage": ""
+  },
+  {
+    "id": 14000,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A conductor has a diameter of 1.00 mm and length 2.00m. if the resistance of the material is 0.1Ω, its resistivity is?",
+    "options": {
+      "A": "2.55 x 10 5 Ωm",
+      "B": "2.55 x 10 2 Ωm",
+      "C": "3.93 x 10 -6 Ωm",
+      "D": "3.93 x 10 -8 Ωm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "R = \\(\\frac{ \\rho \\times L}{A}\\), \\(\\rho\\) = \\(\\frac{R . A}{L}\\)\nd = 1mm = 0.001m, r = 0.0005m\nA = \\(\\pi\\)r\\(^2\\) = \\(\\frac{22}{7}\\) x (0.0005)\\(^2\\) = 7.857 x 10\\(^{-7}\\)\n\\(\\rho\\) = \\(\\frac{R . A}{L}\\) = \\(\\frac{0.1 \\times 7.857 \\times 10^{-7}}{2}\\)\n\\(\\rho\\) = 3.928 x 10\\(^{-8}\\)\\(\\Omega\\)m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14000",
+    "passage": ""
   }
 ]
