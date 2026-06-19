@@ -482,5 +482,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/334",
     "passage": ""
+  },
+  {
+    "id": 335,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Rhizopus (or mucor)obtain its food from dead organic matter extracellularly. It is said to be",
+    "options": {
+      "A": "a facultative parasite",
+      "B": "saprophyte",
+      "C": "an obligate parasite",
+      "D": "a commensal",
+      "E": "an autotroph"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A saprophyte or saprotroph is an organism which gets its energy from dead and decaying organic matter. This may be decaying pieces of plants or animals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/335",
+    "passage": ""
   }
 ]
