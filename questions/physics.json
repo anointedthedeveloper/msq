@@ -11490,5 +11490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14472",
     "passage": ""
+  },
+  {
+    "id": 14475,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "During the nuclear reaction described by\n\\(^{235}_{92}\\)W → \\(^{235}_{93}\\)X → \\(^{231}_{91}\\)Y\nThe particles emitted are respectively",
+    "options": {
+      "A": "α and α",
+      "B": "α and β",
+      "C": "β and β",
+      "D": "β and α"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The decay process illustrated above shows that the lost β -particle to decay to the X by increase its atomic number ( from 92 to 93) and leaving the mass no. unaffected. There after, x decayed by -α emission to give Y, by decreasing the mass no. by 2 ( from 93 to 91). Thus , the emission is β and α particles respectively\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14475",
+    "passage": ""
   }
 ]
