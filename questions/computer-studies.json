@@ -20213,5 +20213,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76677",
     "passage": ""
+  },
+  {
+    "id": 76680,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A similarity between data and information is that both",
+    "options": {
+      "A": "Can be displayed on the monitor",
+      "B": "Are computer inputs",
+      "C": "Are processed facts",
+      "D": "Are computer results"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Both data and information can be displayed on a monitor. Data refers to raw, unprocessed, and unorganized facts or details that alone might not make much sense. Information, on the other hand, is processed data; it is data that has been given a context and is useful to the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76680",
+    "passage": ""
   }
 ]
