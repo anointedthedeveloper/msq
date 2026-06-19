@@ -16242,5 +16242,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23210",
     "passage": ""
+  },
+  {
+    "id": 23211,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Simplify \\(\\frac{2.25}{0.015}\\) leaving your answer in standard form",
+    "options": {
+      "A": "1.5 x 10 -4",
+      "B": "1.5 x 10 -2",
+      "C": "1.5 x 10 -3",
+      "D": "1.5 x 10 1",
+      "E": "1.5 x 10 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(\\frac{2.25}{0.015}\\)\n= \\(\\frac{2250}{15}\\)\n= \\(150\\)\n= \\(1.5 \\times 10^{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23211",
+    "passage": ""
   }
 ]
