@@ -2096,5 +2096,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49842",
     "passage": ""
+  },
+  {
+    "id": 49849,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following processes are associated with digestion in cattle? I. Ingestion II. Coprophagy III. Regurgitation",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "I. Ingestion: The process of taking in food. II. Coprophagy: This is the consumption of feces, which allows cattle to extract additional nutrients from their food. III. Regurgitation: Cattle are ruminants, meaning they regurgitate food to chew it again for better digestion. Therefore, all three processes play a role in the digestive system of cattle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49849",
+    "passage": ""
   }
 ]
