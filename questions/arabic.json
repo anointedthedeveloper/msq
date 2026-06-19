@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75305",
     "passage": ""
+  },
+  {
+    "id": 75307,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": ":اختر الجملة الفعلية",
+    "options": {
+      "A": "السماء صافية",
+      "B": "ذهب التلميذُ إلى الفصل",
+      "C": "المدرسة جميلة",
+      "D": "الطالبُ متفوق"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It begins with a verb, hence it's a verbal sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75307",
+    "passage": ""
   }
 ]
