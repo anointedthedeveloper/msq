@@ -2794,5 +2794,25 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73100"
+  },
+  {
+    "id": 73101,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2009",
+    "question": "Ta ni adáhunse?",
+    "options": {
+      "A": "Şùbòmí",
+      "B": "Adóníyi",
+      "C": "Sùnmónù",
+      "D": "Málà"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73101"
   }
 ]
