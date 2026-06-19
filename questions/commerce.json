@@ -14091,5 +14091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7390",
     "passage": ""
+  },
+  {
+    "id": 7391,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "One of the facilities enjoyed by a current account holder is?",
+    "options": {
+      "A": "a dividend",
+      "B": "a bonus",
+      "C": "an overdraft",
+      "D": "interest on deposits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Current account holders have the privilege of enjoying the overdraft facilities because overdrafts are only allowed on current accounts.\nAn overdraft enables the customer to withdraw money more than the funds available in the account.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7391",
+    "passage": ""
   }
 ]
