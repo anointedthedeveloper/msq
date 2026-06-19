@@ -13090,5 +13090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64376",
     "passage": ""
+  },
+  {
+    "id": 64377,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The first commuters were programed using _________",
+    "options": {
+      "A": "Assembly language",
+      "B": "Machine language",
+      "C": "Source code",
+      "D": "Object code"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Machine languages or Machine code. Functionality, this language is a system which comprises of binary digits.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64377",
+    "passage": ""
   }
 ]
