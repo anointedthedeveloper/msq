@@ -14108,5 +14108,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22920",
     "passage": ""
+  },
+  {
+    "id": 22921,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Given that sin \\(\\theta\\) = -0.9063, where O \\(\\leq\\) \\(\\theta\\) \\(\\leq\\) 270°, find \\(\\theta\\).",
+    "options": {
+      "A": "65 o",
+      "B": "115 o",
+      "C": "145 o",
+      "D": "245 o",
+      "E": "265 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sin\\(\\theta\\) = -0.9063; \\(\\theta\\) = sin-1(0.9063) \\(\\theta\\) = -64.99 = -65° \\(\\theta\\) = 180° - (-65); 180 + 65 = 245°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22921",
+    "passage": ""
   }
 ]
