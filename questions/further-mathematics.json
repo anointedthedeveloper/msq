@@ -2056,5 +2056,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50406",
     "passage": ""
+  },
+  {
+    "id": 50407,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(\\begin{vmatrix}  m-2 & m+1 \\\\ m+4 & m-2 \\end{vmatrix} = -27\\), find the value of m.",
+    "options": {
+      "A": "\\(3\\frac{8}{9}\\)",
+      "B": "\\(3\\)",
+      "C": "\\(2\\frac{1}{2}\\)",
+      "D": "\\(2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{vmatrix} m-2 & m+1 \\\\ m+4 & m-2 \\end{vmatrix} = -27\\)\n\\((m^{2} - 4m + 4) - (m^{2} + 5m + 4) = -27\\)\n\\(-9m = -27 \\implies m = 3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50407",
+    "passage": ""
   }
 ]
