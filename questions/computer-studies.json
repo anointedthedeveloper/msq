@@ -13825,5 +13825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64426",
     "passage": ""
+  },
+  {
+    "id": 64427,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What differs a system software from application software?",
+    "options": {
+      "A": "ability to multi task",
+      "B": "being minimal in terms of space",
+      "C": "presence of cache memory",
+      "D": "unique programs installed by the creators to help run the computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A system software differs from an application software in so many ways. Of which one is the ability of system software to control and run the computer, while applications software are installed by users to perform certain functions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64427",
+    "passage": ""
   }
 ]
