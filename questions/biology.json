@@ -4772,5 +4772,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2303",
     "passage": ""
+  },
+  {
+    "id": 2304,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The absence of stomata shows that a leaf may be",
+    "options": {
+      "A": "from a floating plant",
+      "B": "from submerged plant",
+      "C": "varigated",
+      "D": "from a terrestrial plant",
+      "E": "from parasitic green plant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2304",
+    "passage": ""
   }
 ]
