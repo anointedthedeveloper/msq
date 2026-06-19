@@ -8536,5 +8536,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62672",
     "passage": ""
+  },
+  {
+    "id": 62673,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The output of a NAND gate is 1 when?",
+    "options": {
+      "A": "all inputs are 0.",
+      "B": "all inputs are 1.",
+      "C": "any of the input is 0.",
+      "D": "any of the input is 1."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62673",
+    "passage": ""
   }
 ]
