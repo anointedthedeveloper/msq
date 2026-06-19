@@ -14455,5 +14455,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64849",
     "passage": ""
+  },
+  {
+    "id": 64850,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The result of the expression 2 * 6 + 2/4 * 2 * 4^2",
+    "options": {
+      "A": "21",
+      "B": "27",
+      "C": "28",
+      "D": "29"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The result of the expression 2 * 6 + 2/4 * 2 * 4^2\n= 2 x 6 + 1/2 x 2 x 16\n= 12 + 0.5 x 2 x 16\n= 12 + 1 x 16\n= 12 + 16 = 28",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64850",
+    "passage": ""
   }
 ]
