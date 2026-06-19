@@ -5035,5 +5035,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2098",
     "passage": ""
+  },
+  {
+    "id": 2099,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options : It is time we .... this irresponsible member",
+    "options": {
+      "A": "expel",
+      "B": "are to expel",
+      "C": "will expel",
+      "D": "are expelling",
+      "E": "expelled"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "One of the rules in English language states that, when the phrase 'it is time', 'it is high time', or it is about time' is used in a sentence, the verb that follows must be in the past form.\nIt is used to say it is time to do something that should have been done a long time ago\nFor instance, a statement reads; It's high time we made (not make) some changes around here. The verb 'made' is in its past tense. Therefore option E 'expelled' is the correct option, because the verb is in its past tense and correctly fills in the gap.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2099",
+    "passage": ""
   }
 ]
