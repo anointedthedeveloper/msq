@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1058",
     "passage": ""
+  },
+  {
+    "id": 1077,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If U = {x : x is an integer and 1 \\(\\leq\\) x \\(\\leq\\) 20} E\\(_1\\) = {x : x is a multiple of 3} E\\(_2\\) = {x : x is a multiple of 4} and an integer is picked at random from U, find the probability that it is not in E\\(_2\\)",
+    "options": {
+      "A": "3/4",
+      "B": "3/10",
+      "C": "1/4",
+      "D": "1/20"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "U = {1, 2, 3, 4, 5,..., 20} E1 = {3, 6, 9, 12, 15, 18} E2 = {4, 8, 12, 16, 20} P(E\\(_2\\)) = \\(\\frac{5}{20}\\) P(not E\\(_2\\)) = 1 - (\\(\\frac{5}{20}\\)) = \\(\\frac{15}{20} = \\frac{3}{4}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1077",
+    "passage": ""
   }
 ]
