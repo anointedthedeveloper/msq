@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/14",
     "passage": ""
+  },
+  {
+    "id": 15,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If 2\\(_9\\) x (Y3)\\(_9\\) = 3\\(_5\\) x (Y3)\\(_5\\), find the value of Y.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(2 x 9 \\(^0\\) ) (Y x 9 \\(^1\\)+ 3 x 9\\(^0\\)) = (3 x 5 \\(^0\\))(Y x 5\\(^1\\) + 3 x 5\\(^0\\)). (2 * 1)(Y *9 + 3) = (3 * 1)(Y * 5 + 3) 18y + 6 = 15y + 9\n18y - 15y = 9 - 6\n3y = 3\ny = 1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/15",
+    "passage": ""
   }
 ]
