@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50361",
     "passage": ""
+  },
+  {
+    "id": 50362,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The general term of an infinite sequence 9, 4, -1, -6,... is \\(u_{r} = ar + b\\). Find the values of a and b.",
+    "options": {
+      "A": "a = 5, b = 14",
+      "B": "a = -5, b = 14",
+      "C": "a = 5, b = -14",
+      "D": "a = -5, b = -14"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The terms of the sequence can be written as : \\(u_{r} = ar + b\\) in this case, being that they have a regular common difference for each of the r terms.\nWe can rewrite the sequence as \\(a + b, 2a + b, 3a + b,...\\) where a is the common difference of the sequence and b is a given constant gotten by solving\n\\(a + b = 9\\) or \\(2a + b = 4\\) or any other one.\nThe common difference here is 4 - 9 = -1 - 4 = -5.\n\\(-5 + b = 9 \\implies b = 9 + 5 = 14\\)\n\\(\\therefore\\) The equation can be written as \\(u_{r} = -5r + 14\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50362",
+    "passage": ""
   }
 ]
