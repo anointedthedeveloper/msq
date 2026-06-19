@@ -7279,5 +7279,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3017",
     "passage": ""
+  },
+  {
+    "id": 3018,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Can you buy African souvenirs in any other shops? OR .... can you buy African souvenirs?",
+    "options": {
+      "A": "What place",
+      "B": "Which place",
+      "C": "Where",
+      "D": "Where else",
+      "E": "Wherever"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3018",
+    "passage": ""
   }
 ]
