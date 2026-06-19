@@ -2664,5 +2664,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1566",
     "passage": ""
+  },
+  {
+    "id": 1567,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The least easily oxidized of the metals below is?",
+    "options": {
+      "A": "Ca",
+      "B": "Na",
+      "C": "Zn",
+      "D": "Al"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The activity series is a type of ordering system for elements, which ranks how reactive a certain element is in relation to other elements.\nThe order of reactivity of metals is as follows, Potassium > Sodium > Lithium > Calcium > Magnesium > Aluminium > Zinc > Iron > Copper >\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1567",
+    "passage": ""
   }
 ]
