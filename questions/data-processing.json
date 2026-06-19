@@ -886,5 +886,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57552",
     "passage": ""
+  },
+  {
+    "id": 57644,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "(a) Define;\n(i) Data Security (i) Data risk assessment\n(b)(i) What is Access Control\n(ii) List the access control methods in database security.\n(c) State three roles of a database administrator.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "4(a) Define;\n(i) Data Security; Data security refers to the collective measures used to protect and secure a database management software from the illegitimate use and malicious threats and attack. These involve series of processed, methodologies and tools. OR  It is a protective digital piracy measures that are applied to prevent unauthorized access to computers,database and websites. Data security also protects data from corruption.\n(ii) Data Risk Assessment; is identification of hazards that could negatively impact an organization's ability to conduct business. These assessments help identify these inherent business risks and provides measures, processes and controls to reduce the impact of these risks to businesses operations.\n(b)(i) Access Control is a security technique that can be used to regulate who or what can view or use resources in a computing environment. OR Access control is a database security/features that control how users and systems and resources. Access is the flow of information between an object and a subject, e.g program, database file, computer etc. while the programmer, and users are examples of the subject.\n(ii) Access control methods in database security\n(i) Corrective access control\n(ii) Preventive access control\n(iii) Detective access control method\n(c) Role of Administrative in Database\n(i) Setting data privacy; This only permits authorized persons to access and see certain data.\n(ii) Controlling access to database; It also creates log-ins for user and setting roles for each user.\n(iii) Giving support to end users; This ensure that all users know how to use the database.\n(iv) Controlling data security; This includes preventing unauthorized access to the data and protecting against other security threats.\nOthers include;\n(i) Establishing the needs of the users and monitoring user access and security. (ii) Monitoring performance and managing parameters to provide fast response to front-end users. (iii) Mapping out the conceptual design for a planned database. (iv) Considering both back-end organization of a data and front-end accessibility for end-users (v) Refining the logical designs so that it can be translated into specific data model. (vi) Further refining  the physical design to meet system storage requirements. (vii) Installing and testing new versions of the DBMS (viii) Maintaining data standards including adherence to the Data Protection Act(ix) Maintaining data standards procedures and definitions for the data (x) Controlling access permissions and privileges (xi) Developing, managing and testing back-up and recovering plans. (xii) Ensuring that storage and archiving procedures are functioning correctly. (xiii) Capacity planning (xiv) Working closely with IT project managers database programmers. (xv) Communicating regularly with technical, application and operational staff to ensure database integrity and security. (xvi) Commissioning and installing new applications and customizing existing applications in order to make them fut for purpose.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57644",
+    "passage": ""
   }
 ]
