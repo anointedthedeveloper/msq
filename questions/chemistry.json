@@ -7810,5 +7810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3276",
     "passage": ""
+  },
+  {
+    "id": 3277,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Carbon exist naturally in the combined state as?",
+    "options": {
+      "A": "graphite",
+      "B": "coal",
+      "C": "diamond",
+      "D": "wood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Carbon exists in the combined state as petroleum, wood and natural gases.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3277",
+    "passage": ""
   }
 ]
