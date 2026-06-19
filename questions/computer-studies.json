@@ -14644,5 +14644,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64888",
     "passage": ""
+  },
+  {
+    "id": 64889,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The type of transmission in the part labelled q in the diagram above is called",
+    "options": {
+      "A": "broadcast",
+      "B": "full duplex",
+      "C": "half duplex",
+      "D": "simplex"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/w6CxaB7GZmC5ssk3JB3B3VOtF6znlL4qwYc7NXtT.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903870/myschool/computer-studies/w6CxaB7GZmC5ssk3JB3B3VOtF6znlL4qwYc7NXtT.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64889",
+    "passage": ""
   }
 ]
