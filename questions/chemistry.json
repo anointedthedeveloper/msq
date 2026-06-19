@@ -12241,5 +12241,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4490",
     "passage": ""
+  },
+  {
+    "id": 4491,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "2H2(g) + O2(g) ⇌ 2H2O(g) ΔH = -ve what happens to the equilibrium constant of the reaction above if the temperature is increased?",
+    "options": {
+      "A": "it is unaffected",
+      "B": "it becomes zero",
+      "C": "it decrease",
+      "D": "it increase"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This given equation shows the forward reaction is exothermic, which means an increase in temperature will cause the equilibrium position to shift to left to favor reactant formation, i.e K decreases\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4491",
+    "passage": ""
   }
 ]
