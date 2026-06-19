@@ -16053,5 +16053,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67804",
     "passage": ""
+  },
+  {
+    "id": 67805,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Analog, digital and hybrid computers are classification of computers based on",
+    "options": {
+      "A": "the type of data-handling techniques",
+      "B": "the purpose",
+      "C": "the size",
+      "D": "the functionality"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Computers are classified into analog, digital, and hybrid based on the type of data-handling techniques they use. Analog computers work with continuous data and are used for tasks such as measuring and controlling voltages. Digital computers work with discrete data and are used for tasks such as word processing and spreadsheet calculations. Hybrid computers combine the features of both analog and digital computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67805",
+    "passage": ""
   }
 ]
