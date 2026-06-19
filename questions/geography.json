@@ -1189,5 +1189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/950",
     "passage": ""
+  },
+  {
+    "id": 951,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The population of a certain country was observed to be 46 million males and 41 million females within a land area of about 173,000km\n2\n. What is the average density of the population?",
+    "options": {
+      "A": "503 persons per km 2",
+      "B": "351 persons per km 2",
+      "C": "266 persons per km 2",
+      "D": "237 persons per km 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/951",
+    "passage": ""
   }
 ]
