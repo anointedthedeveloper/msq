@@ -11347,5 +11347,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64118",
     "passage": ""
+  },
+  {
+    "id": 64119,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is a computer not used for?",
+    "options": {
+      "A": "entertainment",
+      "B": "information",
+      "C": "social media",
+      "D": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Computer is used in almost every aspect. Hence, it is almost impossible to say there is an aspect where computer isn't used.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64119",
+    "passage": ""
   }
 ]
