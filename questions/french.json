@@ -4309,5 +4309,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75414",
     "passage": ""
+  },
+  {
+    "id": 75415,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "L'expression \"ordinateur\" a combien de syllabes ?",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "5",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The word \"ordinateur\" has three syllables: or-di-na-teur.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75415",
+    "passage": ""
   }
 ]
