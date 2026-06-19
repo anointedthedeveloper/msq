@@ -12078,5 +12078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14506",
     "passage": ""
+  },
+  {
+    "id": 14507,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?",
+    "options": {
+      "A": "III, IV and VIII",
+      "B": "II, V and VIII",
+      "C": "III, VI and IX",
+      "D": "I, IV and VII"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20461779795_phy20107.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891110/myschool/physics/20461779795_phy20107.jpg",
+    "correct_answer": "C",
+    "explanation": "A bod y is said to be in stable equilibrium if after a slight displacement, the body returns to its former position. Thus, position III, VI and XI represents position of stable equilibrium\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14507",
+    "passage": ""
   }
 ]
