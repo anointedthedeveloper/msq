@@ -86,5 +86,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/122",
     "passage": ""
+  },
+  {
+    "id": 123,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Inferior goods are referred to in Economics as goods",
+    "options": {
+      "A": "Whose quality is low",
+      "B": "Consumed by very poor people",
+      "C": "Whose consumption falls when cunsumers' income rises",
+      "D": "Which satisfy only the basic needs",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In economics, an inferior good is a good whose demand decreases when consumer income rises (or demand increases when consumer income decreases)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/123",
+    "passage": ""
   }
 ]
