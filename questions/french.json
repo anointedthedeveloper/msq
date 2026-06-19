@@ -2923,5 +2923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71097",
     "passage": ""
+  },
+  {
+    "id": 71098,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Elle se brosse les dents d'aller se coucher.",
+    "options": {
+      "A": "depuis",
+      "B": "avarit:",
+      "C": "avec",
+      "D": "derrière"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is avant The correct sentence would be: \"Elle se brosse les dents avant d'aller se coucher.\" Which translates to \"She brushes her teeth before goin to bed.\" \"Avant\" is a preposition that indicates an action that occurs before another action, in this case, brushing her teeth happens before going to bed. Note: The option \"avarit\" is not a French word, it seems to be a typo. The correct answer is \"avant\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71098",
+    "passage": ""
   }
 ]
