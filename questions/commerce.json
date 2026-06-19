@@ -9786,5 +9786,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/6985",
     "passage": ""
+  },
+  {
+    "id": 6986,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A floating policy is an example of?",
+    "options": {
+      "A": "marine insurance",
+      "B": "actuaries insurance",
+      "C": "motor insurance",
+      "D": "fire insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The floating policy is a type of insurance policy used in marine insurance. This policy provides protection of a broad nature for shipments of merchandise and that is valid continuously until canceled.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/6986",
+    "passage": ""
   }
 ]
