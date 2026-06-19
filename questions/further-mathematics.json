@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50373",
     "passage": ""
+  },
+  {
+    "id": 50374,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the stationary point of the curve \\(y = 3x^{2} - 2x^{3}\\).",
+    "options": {
+      "A": "(1, 0)",
+      "B": "(-1, 0)",
+      "C": "(1, 1)",
+      "D": "(-1, -1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(y = 3x^{2} - 2x^{3}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 6x - 6x^{2} = 0 \\implies 6x(1 - x) = 0\\)\n\\(x = 0, 1\\), when x = 1, y = 0.\nwhen x = 1, y = 0.\nThe stationary point is (1, 0)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50374",
+    "passage": ""
   }
 ]
