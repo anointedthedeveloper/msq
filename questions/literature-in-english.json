@@ -1406,5 +1406,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/675",
     "passage": "From the novel; As You Like It"
+  },
+  {
+    "id": 843,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following statements is true of Shakespeare's Macbeth",
+    "options": {
+      "A": "Macbeth is a wicked woman who does not love her husband",
+      "B": "The Birnam wood actually moved",
+      "C": "The tragedy of Macbeth is caused by Macbeth's ambition and some other factors",
+      "D": "Macbeth is the only cause of his own tragedy",
+      "E": "The witches have only good news for Macbeth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/843",
+    "passage": "From the novel; Macbeth"
   }
 ]
