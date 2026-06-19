@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/137",
     "passage": ""
+  },
+  {
+    "id": 138,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Proportional representation is a system of allocating seats in the legislature based on",
+    "options": {
+      "A": "gender participation in polities",
+      "B": "an area",
+      "C": "contribution to the national economy",
+      "D": "total votes in an election."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/138",
+    "passage": ""
   }
 ]
