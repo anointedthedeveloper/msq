@@ -4534,5 +4534,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12379",
     "passage": ""
+  },
+  {
+    "id": 12385,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "I the diagram above, what would happen to the current I, if another resistor, R\n2\n, is connected in parallel to R\n1\n?",
+    "options": {
+      "A": "It will increase because the equivalent resistance will increase",
+      "B": "It will decrease if R 2 is greater than R 1",
+      "C": "It will increase because the effective resistance will decrease",
+      "D": "It will decrease if R 2 is less than R 1"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20391222510_phy200330.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781889190/myschool/physics/20391222510_phy200330.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12385",
+    "passage": ""
   }
 ]
