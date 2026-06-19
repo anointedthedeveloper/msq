@@ -8629,5 +8629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9315",
     "passage": ""
+  },
+  {
+    "id": 9316,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following equations represent the graph above?",
+    "options": {
+      "A": "y = 2+7x+4x 2",
+      "B": "y = 2-7x+4x 2",
+      "C": "y = 2+7x-4x 2",
+      "D": "y = 2-7x-4x 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14926060600_math200914.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868817/myschool/mathematics/14926060600_math200914.jpg",
+    "correct_answer": "D",
+    "explanation": "x = -2 and x = 1/4 x = -2 and 4x = 1 x+2 and 4x-1 (x+2)(4x-1) = 0 4x2 - x + 8x -2 = 0 4x2 + 7x – 2 = 0 but y intercept is positive. Multiply the equation by -1 -4x2 - 7x + 2 = 0 ∴y = 2 – 7x – 4x2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9316",
+    "passage": ""
   }
 ]
