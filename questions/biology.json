@@ -4112,5 +4112,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1925",
     "passage": ""
+  },
+  {
+    "id": 1926,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The main function of the swim-bladder is for",
+    "options": {
+      "A": "Swimming",
+      "B": "Detecting sound",
+      "C": "Buoyancy",
+      "D": "Breathing",
+      "E": "Reproduction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1926",
+    "passage": ""
   }
 ]
