@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73546",
     "passage": ""
+  },
+  {
+    "id": 73547,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Write 120 in Igbo. Ọtụ narị na.",
+    "options": {
+      "A": "iri abụọ na efu",
+      "B": "iri abụọ",
+      "C": "iri",
+      "D": "abụọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is iri abụọ. In Igbo, \"iri abụọ\" means \"twenty\", ọtụ narị means \"one hundred\" hence 120 means \"ọtụ narị na iri abụọ\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73547",
+    "passage": ""
   }
 ]
