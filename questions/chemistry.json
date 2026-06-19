@@ -12514,5 +12514,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4503",
     "passage": ""
+  },
+  {
+    "id": 4504,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The final products of the reaction between methane and chlorine in the presence of ultraviolet light are hydrogen chloride and?",
+    "options": {
+      "A": "tricloromethane",
+      "B": "dichloromethane",
+      "C": "tetrachloromethane",
+      "D": "chloromethane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Carbon tetrachloride ( IUPAC: Tetrachloromethane) CCl\\(_4\\), is the final product obtained in this substitution reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4504",
+    "passage": ""
   }
 ]
