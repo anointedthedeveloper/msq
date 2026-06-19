@@ -1215,5 +1215,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/842",
     "passage": ""
+  },
+  {
+    "id": 1375,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": ".25 mole of hydrogen chloride was dissolved in distilled water and the volume made up of 0.50 dm\n3\n. If 15.0 cm\n3\nof the solution requires 12.50 cm\n3\nof aqueous sodium trioxocarbonate (IV) for neutralization, calculate the concentration of the alkaline solution",
+    "options": {
+      "A": "0.30 mol dm 3",
+      "B": "0.40 mol dm 3",
+      "C": "0.50 mol dm 3",
+      "D": "0.60 mol dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1\n1\n2\n2\nn\nn\n2\n3\nn\nn\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1375",
+    "passage": ""
   }
 ]
