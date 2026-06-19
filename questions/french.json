@@ -1582,5 +1582,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48187",
     "passage": ""
+  },
+  {
+    "id": 48188,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Elle prend ...café tous les jours",
+    "options": {
+      "A": "du",
+      "B": "d'un",
+      "C": "de",
+      "D": "d'en"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48188",
+    "passage": ""
   }
 ]
