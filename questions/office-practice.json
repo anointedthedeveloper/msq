@@ -1860,5 +1860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66545",
     "passage": ""
+  },
+  {
+    "id": 66548,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The means of making miniature copies of records for storage is",
+    "options": {
+      "A": "indexing",
+      "B": "microfilming",
+      "C": "cross-referencing",
+      "D": "jogger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Microfilming are scaled-down reproductions of documents,typically either films or paper, made for the purpose of transmission, storage, reading and printing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66548",
+    "passage": ""
   }
 ]
