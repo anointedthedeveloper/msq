@@ -11089,5 +11089,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14420",
     "passage": ""
+  },
+  {
+    "id": 14427,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Steam burn is more severe than that of boiling water because",
+    "options": {
+      "A": "steam burn is independent of relative humidity",
+      "B": "steam possesses greater heat energy per unit mass",
+      "C": "water boils at a higher temperature",
+      "D": "steam burn is dependent on relative humidity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The specific latent heat of vaporization of steam is 2.1 x 106JKg-1 while the energy required to raise the temperature of a unit mass of water from 0°c to 100°c = C x Dt = 4200 x 100 = 420000 = 4.2 x 105 JKg-1 ∴ steam possesses greater heat energy per unit mass\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14427",
+    "passage": ""
   }
 ]
