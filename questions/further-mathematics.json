@@ -2874,5 +2874,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50457",
     "passage": ""
+  },
+  {
+    "id": 50459,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} + x - 2 = 0\\), find the value of \\(\\frac{1}{\\alpha^{2}} + \\frac{1}{\\beta^{2}}\\).",
+    "options": {
+      "A": "\\(\\frac{5}{4}\\)",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{-3}{4}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50459"
   }
 ]
