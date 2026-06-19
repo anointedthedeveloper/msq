@@ -328,5 +328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15812",
     "passage": ""
+  },
+  {
+    "id": 15813,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The type of energy obtained from the sun for agricultural uses is known as",
+    "options": {
+      "A": "potential energy",
+      "B": "mechanical energy",
+      "C": "nuclear energy",
+      "D": "solar energy",
+      "E": "kinetic energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15813",
+    "passage": ""
   }
 ]
