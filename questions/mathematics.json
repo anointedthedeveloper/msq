@@ -12657,5 +12657,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22603",
     "passage": ""
+  },
+  {
+    "id": 22604,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Evaluate using the logarithm table, log(0.65)2",
+    "options": {
+      "A": "1.6258",
+      "B": "0.6272",
+      "C": "0.6258",
+      "D": "\\(\\overline{1}\\).6258",
+      "E": "1.6272"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "log(0.65)\\(^2\\) = 2log(0.65) but log0.65 = \\(\\overline{1}\\).8129 ∴2 x \\(\\overline{1}\\).8129 = \\(\\overline{1}\\).6258",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22604",
+    "passage": ""
   }
 ]
