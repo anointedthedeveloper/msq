@@ -15085,5 +15085,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64998",
     "passage": ""
+  },
+  {
+    "id": 65068,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "[a] Define the term output device.\n[b] Give the two types of printers.\n[c]  [i] Construct a truth table for an AND gate with two input signals.\n[ii] State the output of an OR gate with the signals 0 and 1.\n[d]  list two types of an logic gate that gives an output of 1 when all of its input signals are 1.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "[a] An output device is any piece of computer hardware equipment or peripheral that converts information into a human-perceptible form or machine-readable form for use with other non-computerized equipment. It can be text, graphics, audio, or video. This piece of equipment hardware which gives us the result of the entered input, once it is processed.\n[b]  Two types of printers are: (i) Impact Printer and (ii)Non Impact printer\n[c] i   A truth table for an AND gate with two input signals\nInputs output A B C 0 0 0 0 1 1 1 0 0 1 1 1\n[c] iii The output of an OR gate with the input signals 0 and 1 is 1.\n[d] 1: AND gate\n2: OR     gate",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65068",
+    "passage": ""
   }
 ]
