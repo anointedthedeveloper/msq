@@ -6164,5 +6164,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8071",
     "passage": ""
+  },
+  {
+    "id": 8073,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "A map with a scale of 1:40,000 is reduced to one quarter of its size, what is the new scale of the map?",
+    "options": {
+      "A": "1:20,000",
+      "B": "1:40,000",
+      "C": "1:60,000",
+      "D": "1:80,000",
+      "E": "1:100,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8073",
+    "passage": ""
   }
 ]
