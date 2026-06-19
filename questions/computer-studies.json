@@ -6144,5 +6144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62453",
     "passage": ""
+  },
+  {
+    "id": 62454,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Napier's Bone was designed purposely for calculation of?",
+    "options": {
+      "A": "sum and quotient",
+      "B": "sum and difference",
+      "C": "product and quotient",
+      "D": "difference and quotient"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62454",
+    "passage": ""
   }
 ]
