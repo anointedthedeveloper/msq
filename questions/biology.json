@@ -2396,5 +2396,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1172",
     "passage": ""
+  },
+  {
+    "id": 1174,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "If the bark and phloem tissue of a woody shoot are peeled off by ringing, the whole plant will die eventually die because?",
+    "options": {
+      "A": "water does not reach the leaves",
+      "B": "water and salts remained below the ring portion",
+      "C": "there is a withdrawal of water from the root by soil",
+      "D": "manufactured food does not reach the roots",
+      "E": "the roots store too much water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1174",
+    "passage": ""
   }
 ]
