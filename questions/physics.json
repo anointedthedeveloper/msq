@@ -2266,5 +2266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9212",
     "passage": ""
+  },
+  {
+    "id": 9217,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A capacitor of 20 x 10\\(^{-12}\\)F and an inductor are joined in series. The value of the inductance that will give the circuit a resonance frequency of 200 kHz is",
+    "options": {
+      "A": "\\(\\frac{I}{16}\\) H",
+      "B": "\\(\\frac{I}{8}\\) H",
+      "C": "\\(\\frac{I}{64}\\) H",
+      "D": "\\(\\frac{I}{32}\\) H"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Resonance frequency in an a.c. circuit is given by F = \\(\\frac{1}{2π \\sqrt{LC}}\\) therefore, \\(200\\times 10^3\\) =  \\(\\frac{1}{2π \\sqrt{L\\times 20 \\times 10^{-12}}}\\) therefore (\\(200\\times 10^3)^2\\)  =\\(\\frac{1}{4 \\times π^2 \\times L \\times 20 \\times 10^{-12}}\\) THEREFORE,  L = \\(\\frac{1}{4\\times10\\times (200\\times 10^3)^2 \\times 20\\times 10^{-12}}\\),      (π\\(^2\\)  ≈10) Therefore L =\\(\\frac{1}{32}\\)H\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9217",
+    "passage": ""
   }
 ]
