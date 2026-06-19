@@ -14393,5 +14393,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24084",
     "passage": ""
+  },
+  {
+    "id": 24085,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The diagram above represents a portion of a micrometer screw 20 gauge. What is its reading?",
+    "options": {
+      "A": "3.70mm",
+      "B": "3.67mm",
+      "C": "3.50mm",
+      "D": "3.33mm",
+      "E": "3.17mm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9702738122_wcphy19906.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891759/myschool/physics/9702738122_wcphy19906.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24085",
+    "passage": ""
   }
 ]
