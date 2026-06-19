@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/709",
     "passage": ""
+  },
+  {
+    "id": 710,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A radio is operated by eight cells each of e.m.f. 2.0V connected in series. If two of the cells are wrongly connected, the net e.m.f. of the radio is",
+    "options": {
+      "A": "8V",
+      "B": "10V",
+      "C": "12V",
+      "D": "16V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When cells are connected in series, their voltages add up. However, if two cells are connected in the wrong direction, they will subtract from the total e.m.f\nIf all cells were connected correctly, the total e.m.f. would be: Total E.M.F = 8 x 2.0V = 16V ( since no of cell = 8. and E.M.F of each cells = 2.0V)\nWhen two cells are connected in the reverse direction, their contributions effectively subtract from the total e.m.f\nContribution from 2 wrongly connected cell = 2 x 2.0v = 4V\nTherefore, Total E.M.F = 16 - 4 = 12V.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/710",
+    "passage": ""
   }
 ]
