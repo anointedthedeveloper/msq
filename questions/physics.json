@@ -7222,5 +7222,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13896",
     "passage": ""
+  },
+  {
+    "id": 13897,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An object placed 10cm from a concave mirror of focal length 5cm would have its image",
+    "options": {
+      "A": "at the centre of convature",
+      "B": "at the radius of curvature",
+      "C": "at infinity",
+      "D": "10 cm from the focus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Center of Curvature : For a concave mirror, the center of curvature (C) is located at twice the focal length. With a focal length of 5 cm, C is at 10 cm.\nObject Placement : The object is placed at 10 cm, which is exactly at the center of curvature.\nImage Formation : When an object is at the center of curvature, the image is also formed at that same point, resulting in a real and inverted image\n(When the object is located at the center of curvature, the image will also be located at the center of curvature.)(For concave mirror)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13897",
+    "passage": ""
   }
 ]
