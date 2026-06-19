@@ -6352,5 +6352,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/69580",
     "passage": ""
+  },
+  {
+    "id": 69581,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The pie chart above illustrates the record of sales of a livestock farmer. Study it carefully and use it to answer this question.\nIf the total income of the farmer is ₦1,544,200.00, calculate the income for dairy products.",
+    "options": {
+      "A": "₦1,962,514.00",
+      "B": "₦4,040,470.00",
+      "C": "₦5,194,890.00",
+      "D": "₦802,984.00"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/7fYJyzqO4tugRyUs7mHbJOCos3UPFObY0XsCYDn8.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892596/myschool/animal-husbandry/7fYJyzqO4tugRyUs7mHbJOCos3UPFObY0XsCYDn8.jpg",
+    "correct_answer": "D",
+    "explanation": "Whey, cheese, and butter are all dairy products\n7% + 25% + 20% = 52%\nIncome for dairy products = \\(\\frac{52}{100}\\) x 1,544,200.00 = ₦802,984.00",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/69581",
+    "passage": ""
   }
 ]
