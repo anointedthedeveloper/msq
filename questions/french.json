@@ -2294,5 +2294,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71067",
     "passage": ""
+  },
+  {
+    "id": 71068,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Lequel de ces animaux est un animal sauvage?",
+    "options": {
+      "A": "Le lion",
+      "B": "Le chien",
+      "C": "Le cochon",
+      "D": "Le coq"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The odd one out is Le lion. The other options - Le chien (dog), Le cochon (pig), Le coq (rooster), and Le mouton (sheep) - are all domesticated animals, while Le lion (lion) is a wild animal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71068",
+    "passage": ""
   }
 ]
