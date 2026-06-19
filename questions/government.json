@@ -5315,5 +5315,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2321",
     "passage": ""
+  },
+  {
+    "id": 2322,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Judges of the World Court are appointed to serve for",
+    "options": {
+      "A": "five years",
+      "B": "ten years",
+      "C": "four years",
+      "D": "nine years"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2322",
+    "passage": ""
   }
 ]
