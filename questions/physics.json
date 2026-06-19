@@ -14261,5 +14261,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23927",
     "passage": ""
+  },
+  {
+    "id": 23928,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The electric force between two point charges each of the magnitude, q at a distance of r apart in air of permittivity is:",
+    "options": {
+      "A": "q 2 /4πεr",
+      "B": "rε 0 /q 2",
+      "C": "4πq/ε 0",
+      "D": "qr 2 /ε 0",
+      "E": "\\(\\frac{q^2}{4\\piεor^2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "According to Coulomb's law, the Force between two point charges \\(Q_1\\) and \\(Q_2\\) is equal to\nF = \\(\\frac{Q_1 Q_2}{4\\pi εor^2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23928",
+    "passage": ""
   }
 ]
