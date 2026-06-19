@@ -1428,5 +1428,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/401",
     "passage": ""
+  },
+  {
+    "id": 402,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The farmer cannot check soil erosion effectively by",
+    "options": {
+      "A": "Constructing is ridges of planting across the slope",
+      "B": "Cultivating cover crops",
+      "C": "Practising strip farming",
+      "D": "Clearing the land of vegetation",
+      "E": "Constructing terraces"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/402",
+    "passage": ""
   }
 ]
