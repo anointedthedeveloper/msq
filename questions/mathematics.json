@@ -15142,5 +15142,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23160",
     "passage": ""
+  },
+  {
+    "id": 23161,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above, O is the center of the circle QOR is a diameter and ∠PSR is 37°. Find ∠PRQ",
+    "options": {
+      "A": "37 o",
+      "B": "53 o",
+      "C": "65 o",
+      "D": "127 o",
+      "E": "147 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24920040978_wcmath199223.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909683/myschool/mathematics/24920040978_wcmath199223.jpg",
+    "correct_answer": "B",
+    "explanation": "Construction: Join PQ.\nThen < RSP = 37° = < RQP (angles on the same segment)\nBut < RPQ = 90° (angle in a semi-circle)\n\\(\\therefore\\) < PRQ = 180° - (90° + 37°)\n= 53°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23161",
+    "passage": ""
   }
 ]
