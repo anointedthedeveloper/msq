@@ -1779,5 +1779,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/617",
     "passage": ""
+  },
+  {
+    "id": 618,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nWalking down the street ....",
+    "options": {
+      "A": "the boy was knocked down by a car",
+      "B": "a car knocked the boy down",
+      "C": "the boy was knocked down by car",
+      "D": "a car collided with the boy",
+      "E": "a serious accident happened"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/618",
+    "passage": ""
   }
 ]
