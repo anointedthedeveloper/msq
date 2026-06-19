@@ -20822,5 +20822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76876",
     "passage": ""
+  },
+  {
+    "id": 76887,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following is employed in the transfer of data between computers and a network?",
+    "options": {
+      "A": "USB Port",
+      "B": "Female connector",
+      "C": "Fiber optic",
+      "D": "Male connector"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fiber optic cables are used in the transfer of data between computers and a network. They transmit information as light and are capable of transmitting large amounts of data at high speeds over long distances. They are less susceptible to interference and are faster than traditional copper cables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76887",
+    "passage": ""
   }
 ]
