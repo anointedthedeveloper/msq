@@ -7264,5 +7264,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2979",
     "passage": ""
+  },
+  {
+    "id": 2980,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Which of these properties gives a solid its definite shape?",
+    "options": {
+      "A": "strong intermolecular attraction",
+      "B": "high melting point",
+      "C": "high boiling point",
+      "D": "weak intermolecular attraction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In solids, the particles (atoms, molecules, or ions) are closely packed together due to strong intermolecular forces. These forces are strong enough to overcome the thermal energy of the particles, preventing them from moving freely.\nStrong intermolecular forces of attraction are primarily responsible for the definite shapes and volumes of solids because they hold the constituent particles in fixed positions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2980",
+    "passage": ""
   }
 ]
