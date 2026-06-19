@@ -16044,5 +16044,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23201",
     "passage": ""
+  },
+  {
+    "id": 23202,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A cone is 14cm deep and the base radius is 4\\(\\frac{1}{2}\\)cm. Calculate the volume of water that is exactly half the volume of the cone.[Take π = \\(\\frac{22}{7}\\)]",
+    "options": {
+      "A": "49.5cm 3",
+      "B": "99cm 3",
+      "C": "148.5cm 3",
+      "D": "297cm 3",
+      "E": "445.5cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Volume of a cone = \\(\\frac{1}{3} \\pi r^2 h\\)\nr = 4\\(\\frac{1}{2}\\) cm; h = 14 cm\nVolume of cone = \\(\\frac{1}{3} \\times \\frac{22}{7} \\times \\frac{9}{2} \\times \\frac{9}{2} \\times 14\\)\n= 297 cm\\(^3\\)\nWhen half- filled, the volume of the water = \\(\\frac{297}{2} = 148.5 cm^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23202",
+    "passage": ""
   }
 ]
