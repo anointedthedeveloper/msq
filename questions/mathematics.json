@@ -8923,5 +8923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9329",
     "passage": ""
+  },
+  {
+    "id": 9330,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A chord drawn 5 cm away from the center of a circle of radius 13 cm. Calculate the length of the chord?",
+    "options": {
+      "A": "7cm",
+      "B": "9cm",
+      "C": "12cm",
+      "D": "24cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "x\\(^2\\) + 5\\(^2\\) = 13\\(^2\\) x\\(^2\\) + 25 = 169 x\\(^2\\) = 144 x = √ 144 = 12 Length of the chord AB = 2x 2\\(\\times\\)12= 24cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9330",
+    "passage": ""
   }
 ]
