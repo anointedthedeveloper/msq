@@ -8135,5 +8135,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62570",
     "passage": ""
+  },
+  {
+    "id": 62571,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "One megabyte is equivalent to?",
+    "options": {
+      "A": "1000 X 1024 bytes",
+      "B": "1024 X 1024 bytes",
+      "C": "1024 X 1048 bytes",
+      "D": "1000 X 1000 bytes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62571",
+    "passage": ""
   }
 ]
