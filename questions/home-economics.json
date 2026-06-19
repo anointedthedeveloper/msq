@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73236",
     "passage": ""
+  },
+  {
+    "id": 73237,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The effect of unhealthy eating habits include the following, except",
+    "options": {
+      "A": "Bacterial infection",
+      "B": "Overweight",
+      "C": "Choking",
+      "D": "Optimal growth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Unhealthy eating habits can lead to various negative effects, but optimal growth is not one of them. In fact, unhealthy eating habits can hinder optimal growth and development, particularly in children and adolescents.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73237",
+    "passage": ""
   }
 ]
