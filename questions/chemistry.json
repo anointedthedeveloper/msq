@@ -10372,5 +10372,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4071",
     "passage": ""
+  },
+  {
+    "id": 4072,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The most common ores of iron include",
+    "options": {
+      "A": "haematite, malachite and limonite",
+      "B": "chalcocite, calamine and bornite",
+      "C": "magnetite, haematite and limonite",
+      "D": "magnetite, chalcocite and bornite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The most common ores of iron are magnetic, haematite and limonite\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4072",
+    "passage": ""
   }
 ]
