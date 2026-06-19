@@ -13207,5 +13207,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22674",
     "passage": ""
+  },
+  {
+    "id": 22675,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above PS||RQ, |RQ| = 6.4cm and perpendicular PH = 3.2cm. Find the area of SQR",
+    "options": {
+      "A": "5.12cm 2",
+      "B": "9.60cm 2",
+      "C": "10.24cm 2",
+      "D": "20.48cm 2",
+      "E": "40.96cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1383314934_wcmath199032.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869294/myschool/mathematics/1383314934_wcmath199032.jpg",
+    "correct_answer": "C",
+    "explanation": "Area of a triangle = \\(\\frac{1}{2} \\times b \\times h\\)\nArea of \\(\\Delta\\) SQR = \\(\\frac{1}{2} \\times 6.4 \\times 3.2\\)\n= 10.24 cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22675",
+    "passage": ""
   }
 ]
