@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/548",
     "passage": ""
+  },
+  {
+    "id": 551,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "I. A liquid boils when its saturated vapour pressure is equal to the external pressure\nII. Dissolved substances in pure water lead to increase in the boiling point.\nIII. When the external pressure is increased, the boiling point increases.\nIV. Dissolved substances in pure water decrease the boiling point.\nWhich combination of the above are peculiarities of the boiling point of a liquid?",
+    "options": {
+      "A": "I, II and III",
+      "B": "I, II, III and IV",
+      "C": "I, II and IV",
+      "D": "II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/551",
+    "passage": ""
   }
 ]
