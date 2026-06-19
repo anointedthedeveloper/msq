@@ -3299,5 +3299,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66863",
     "passage": ""
+  },
+  {
+    "id": 66864,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A secretary has found it difficult to type a manuscript given to her by the manager due to poor handwriting. In other words, the secretary has the challenge of",
+    "options": {
+      "A": "inability to encode the manuscript",
+      "B": "poor encoded manuscript by the manager",
+      "C": "poorly decoded manuscript by the manager",
+      "D": "inappropriate choice of channel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Due to poor handwriting of the manager, the secretary is unable to type the manuscript.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66864",
+    "passage": ""
   }
 ]
