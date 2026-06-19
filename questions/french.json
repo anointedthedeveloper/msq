@@ -3553,5 +3553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71217",
     "passage": ""
+  },
+  {
+    "id": 71218,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.C'est la saison sèche, le soleil brille........les jours.",
+    "options": {
+      "A": "toute",
+      "B": "tout",
+      "C": "toutes",
+      "D": "tous"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The adjective \"tous\" agrees with the plural noun \"jours\". his sentence is saying \"It's the dry season, the sun shines every day.\" The adjective \"tous\" agrees with the plural noun \"jours\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71218",
+    "passage": ""
   }
 ]
