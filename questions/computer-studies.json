@@ -13258,5 +13258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64385",
     "passage": ""
+  },
+  {
+    "id": 64386,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following isn't used to navigate in a computer?",
+    "options": {
+      "A": "Cursor",
+      "B": "Keyboard",
+      "C": "mouse",
+      "D": "Scanner"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A scanner is not used to navigate the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64386",
+    "passage": ""
   }
 ]
