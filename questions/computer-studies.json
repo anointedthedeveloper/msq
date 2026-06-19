@@ -20423,5 +20423,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76767",
     "passage": ""
+  },
+  {
+    "id": 76799,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following signifies the correct association between a hardware component and its function?",
+    "options": {
+      "A": "Hard disk to processing",
+      "B": "Mouse to input",
+      "C": "CPU to storage",
+      "D": "Monitor to print"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A hardware component's function is defined by what it does in a computer system. A mouse is an input device used to input data into the computer. A monitor is used to display information, but it does not print. The CPU (Central Processing Unit) is the main processing unit of a computer, but it does not store data. The hard disk is used for storage, not for processing. Therefore, the correct association between a hardware component and its function is 'Mouse to input'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76799",
+    "passage": ""
   }
 ]
