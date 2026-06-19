@@ -10521,5 +10521,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14351",
     "passage": ""
+  },
+  {
+    "id": 14352,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An object of mass 2 kg moves with a velocity of 10 ms\n1\nround at circle of radius 4 m. Calculate the centripetal force on the object",
+    "options": {
+      "A": "25 N",
+      "B": "100 N",
+      "C": "50 N",
+      "D": "40 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14352",
+    "passage": ""
   }
 ]
