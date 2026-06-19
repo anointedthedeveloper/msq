@@ -2264,5 +2264,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49903",
     "passage": ""
+  },
+  {
+    "id": 49904,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "which class of insurance would be required by a petrol filling station operator whose operation involve high financial  transactions?",
+    "options": {
+      "A": "burglary  policy",
+      "B": "public liability policy",
+      "C": "goods-in-transit policy",
+      "D": "money policy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Money insurance policy provides cover for loss of money in transit between the insured’s premises, bank and other specified places occasioned by robbery, theft or any other fortuitous cause. It also provides cover for loss of money in the business premises, safe or vault, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49904",
+    "passage": ""
   }
 ]
