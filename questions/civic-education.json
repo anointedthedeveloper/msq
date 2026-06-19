@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50133",
     "passage": ""
+  },
+  {
+    "id": 50134,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A feature that distinguishes the 1979 constitution from that of 1963 was the introduction of?",
+    "options": {
+      "A": "unitary system of government",
+      "B": "republicanism",
+      "C": "presidential system of government",
+      "D": "west minister system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The imperfection of the 1963 constitution made the people to desire a new constitution , which gave rise to the 1979 constitution , it followed with the adoption of the presidential system of government.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50134",
+    "passage": ""
   }
 ]
