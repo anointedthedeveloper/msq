@@ -12897,5 +12897,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21232",
     "passage": ""
+  },
+  {
+    "id": 21234,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following will affect the saturation vapour pressure of a liquid?",
+    "options": {
+      "A": "Temperature of the liquid",
+      "B": "Humidity of air",
+      "C": "Volume of vapour",
+      "D": "Volume of the liquid",
+      "E": "mass of the liquid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21234",
+    "passage": ""
   }
 ]
