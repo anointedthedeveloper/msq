@@ -20128,5 +20128,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72692",
     "passage": ""
+  },
+  {
+    "id": 72693,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "a(i) What is data cable? (ii) List two types of data cable. (iii) Explain how bus speed can affect the speed of data.\n(b) In the context of data conversion, explain the following terms: (i) register; (i) address.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a(i) Data cable is a type of cable used to transmit data between devices such as computers, servers and peripherals. (i) I. coaxial cables II. Fibre optic cables III. Twisted pair cable (iii) A higher bus speed allows for faster data transfer between the processor and the RAM, lower latency and higher throughput allowing more data to be transmitted simultaneously and at faster speed.\nb(i) Register : This is a high-speed temporary storage device built into a computer's processor that temporarily holds data being processed or converted. ii) Address: This is a unique location or identifier where data is stored or retrieved. They serve as pointers to access and manipulate data during conversion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72693",
+    "passage": ""
   }
 ]
