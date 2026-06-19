@@ -8209,5 +8209,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9293",
     "passage": ""
+  },
+  {
+    "id": 9294,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The bar chart above shows the number of times the word \"a, and , in, it, the ,to\" appear in a paragraph in a book.\nWhat is the ratio of the least frequent word to the most frequent word?",
+    "options": {
+      "A": "1 / 6",
+      "B": "1 / 3",
+      "C": "2 / 3",
+      "D": "3 / 4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13567385130_math200842.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868779/myschool/mathematics/13567385130_math200842.jpg",
+    "correct_answer": "A",
+    "explanation": "Ratio of least to most = 2:12 = 2/12 = 1/6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9294",
+    "passage": ""
   }
 ]
