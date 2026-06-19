@@ -2726,5 +2726,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1242",
     "passage": ""
+  },
+  {
+    "id": 1243,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Oxygen from the atmosphere reaches the mammalian blood stream through one of the path indicated below. Indicate the correct path, a = mouth, b = trachea, c = bronchiole, d = nostril, e = bronchus, f = alveoli",
+    "options": {
+      "A": "a → b → e → f → d",
+      "B": "b → d → f → e → c",
+      "C": "d → b → e → c → f",
+      "D": "b → a → f → e → c",
+      "E": "f → e → c → d → c"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1243",
+    "passage": ""
   }
 ]
