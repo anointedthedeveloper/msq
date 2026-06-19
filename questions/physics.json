@@ -13557,5 +13557,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23850",
     "passage": ""
+  },
+  {
+    "id": 23851,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Two radioactive elements A and B have half-lives of 100 and 50 years respectively. Samples of A and B initially contain equal amounts/number of atoms. What is the ratio of the number of the remaining atoms of A to that of B after 200 years?",
+    "options": {
+      "A": "4 : 1",
+      "B": "2 : 1",
+      "C": "1 : 1",
+      "D": "1 : 2",
+      "E": "1 : 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given that a mass N of elements A and B exists, then:\nFor element A, after 100 years, we have A of mass N/2 remaining\nAfter 200 years, we have A of mass \\(\\frac{1}{2}\\times\\frac{N}{2}\\) = \\(\\frac{N}{4}\\)\nFor element B, after 50 years, we have B of mass N/2 remaining\nAfter 100 years, we have B of mass \\(\\frac{1}{2}\\times\\frac{N}{2}\\) = \\(\\frac{N}{4}\\)\nAfter 150 years, we have B of mass \\(\\frac{1}{2}\\times\\frac{N}{4}\\) = \\(\\frac{N}{8}\\)\nAfter 200 years,we have B of mass \\(\\frac{1}{2}\\times\\frac{N}{8}\\) = \\(\\frac{N}{16}\\)\nRatio: \\((\\frac{N}{4} : \\frac{N}{16})\\)\n=\\(4 : 16\\)  = \\(1 : 4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23851",
+    "passage": ""
   }
 ]
