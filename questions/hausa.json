@@ -8284,5 +8284,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76224",
     "passage": ""
+  },
+  {
+    "id": 76225,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace jumla ce ke nuna aiki dadi ne?",
+    "options": {
+      "A": "Ta dauki kaya",
+      "B": "Ya karanta littafi",
+      "C": "Sun gina gida",
+      "D": "Ina jin dadin karatu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Jumlar ta nuna dadin da ake samu daga yin aiki tukuru sosai.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76225",
+    "passage": ""
   }
 ]
