@@ -2607,5 +2607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66830",
     "passage": ""
+  },
+  {
+    "id": 66831,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following reference books contains information about parliamentary proceedings?",
+    "options": {
+      "A": "Hansards",
+      "B": "Official gazatte",
+      "C": "Atlas",
+      "D": "Post office guide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Official gazatte is a legal newspaper of a country, or of an administrative part of a country, which publishes the text of new laws, decrees, regulations, treaties, legal notice, and court decisions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66831",
+    "passage": ""
   }
 ]
