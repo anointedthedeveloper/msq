@@ -1719,5 +1719,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1474",
     "passage": ""
+  },
+  {
+    "id": 1475,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "-methylprop-1-ene is an isomer of",
+    "options": {
+      "A": "but-2-ene",
+      "B": "pent-1-ene",
+      "C": "2-methylbut-2-ene",
+      "D": "2-methylbut-1-ene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1475",
+    "passage": ""
   }
 ]
