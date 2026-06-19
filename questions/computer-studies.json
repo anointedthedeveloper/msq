@@ -1152,5 +1152,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61384",
     "passage": ""
+  },
+  {
+    "id": 61385,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The Slide Rule is accurate to",
+    "options": {
+      "A": "1-2 decimal places",
+      "B": "3-4 decimal places",
+      "C": "5 decimal places",
+      "D": "6 decimal places"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61385",
+    "passage": ""
   }
 ]
