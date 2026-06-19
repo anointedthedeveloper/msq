@@ -13228,5 +13228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4787",
     "passage": ""
+  },
+  {
+    "id": 4788,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The effect of the presence of impurities such as carbon and sulphur on iron is that they",
+    "options": {
+      "A": "give it high tensile strenght",
+      "B": "make it malleable and ductile",
+      "C": "increase its melting point",
+      "D": "lower its melting point"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4788",
+    "passage": ""
   }
 ]
