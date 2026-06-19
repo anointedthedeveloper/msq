@@ -42,5 +42,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15788",
     "passage": ""
+  },
+  {
+    "id": 15789,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "soil texture is described as the",
+    "options": {
+      "A": "distribution of the different sizes of soil particles",
+      "B": "arrangement of soil particles in a soil sample",
+      "C": "rate at which water moves through the soil",
+      "D": "degree to which air spaces aerate the soil",
+      "E": "distribution of soil particles in a sample"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15789",
+    "passage": ""
   }
 ]
