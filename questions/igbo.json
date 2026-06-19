@@ -3167,5 +3167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73833",
     "passage": ""
+  },
+  {
+    "id": 73834,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Gịnị ka a na-akpọ ship n'Igbo?",
+    "options": {
+      "A": "Ụgbọ ala",
+      "B": "Ụgbọ mmiri",
+      "C": "Ụgbọ ọlọkọ",
+      "D": "Ụgbọelu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ship in Igbo is Ụgbọ mmiri. Ụgbọ ala is car. Ụgbọ elu is aeroplane. Ụgbọ ọlọkọ is train.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73834",
+    "passage": ""
   }
 ]
