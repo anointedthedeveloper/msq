@@ -5037,5 +5037,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58956",
     "passage": ""
+  },
+  {
+    "id": 58969,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the command shortcuts can be used to display the dialog box in Figure 4 when the application is running",
+    "options": {
+      "A": "Ctrl + O",
+      "B": "Ctrl + S",
+      "C": "Ctrl + Y",
+      "D": "Ctrl + Z"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/iLrp31dmwSPMXslxqM8sE8Hgb2EkFWr2oQJ9BSR5.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911393/myschool/data-processing/iLrp31dmwSPMXslxqM8sE8Hgb2EkFWr2oQJ9BSR5.jpg",
+    "correct_answer": "B",
+    "explanation": "The command shortcuts that can be used to display the dialog box in the diagram above when the application is running are Ctrl + S.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58969",
+    "passage": ""
   }
 ]
