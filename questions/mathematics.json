@@ -3883,5 +3883,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7962",
     "passage": ""
+  },
+  {
+    "id": 7974,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In the diagram above, PQ = 4 cm and TS = 6 cm. If the area of parallelogram PQTU is 32 cm\\(^2\\), find the area of the trapezium PQRU",
+    "options": {
+      "A": "60 cm 2",
+      "B": "72 cm 2",
+      "C": "48 cm 2",
+      "D": "24 cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9487858254_math20044.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868380/myschool/mathematics/9487858254_math20044.jpg",
+    "correct_answer": "B",
+    "explanation": "Area of parallelogram PQTU = base * height 32 = 4 * h w = 32/4 w = 8 ∴ = Area of Trapezium PQRU = (1/2)(4 + 14) *8 = 1/2 * (18 * 8) = 72 cm\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7974",
+    "passage": ""
   }
 ]
