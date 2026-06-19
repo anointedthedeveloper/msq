@@ -2374,5 +2374,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61756",
     "passage": ""
+  },
+  {
+    "id": 61757,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "In a worksheet, a set of data is called?",
+    "options": {
+      "A": "Column range",
+      "B": "Data base",
+      "C": "Data file",
+      "D": "Data range",
+      "E": "Row range"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In a worksheet, a set of data is called \" range of data\" , a designated range of cells in tabular format.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61757",
+    "passage": ""
   }
 ]
