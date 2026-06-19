@@ -18369,5 +18369,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70969",
     "passage": ""
+  },
+  {
+    "id": 70970,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is a common security threat that can compromise your computer files?",
+    "options": {
+      "A": "Incompatibility with different operating systems.",
+      "B": "Weak passwords are used for user accounts and file access.",
+      "C": "Outdated software versions.",
+      "D": "Physical damage to your computer hardvvare"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Weak passwords are a major security threat. Hackers can use brute-force attacks or password-cracking techniques to guess weak passwords and gain access to your files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70970",
+    "passage": ""
   }
 ]
