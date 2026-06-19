@@ -4957,5 +4957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62334",
     "passage": ""
+  },
+  {
+    "id": 62335,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The full meaning of the acronym ENIAC is?",
+    "options": {
+      "A": "Electronic Numerical Integrator and Calculator.",
+      "B": "Electronic Numerical Integrator and Computer",
+      "C": "Electronic Numerical Integration Automatic Calculator",
+      "D": "Electronic Numerical Integrated Automatic Calculator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The acronym ENIAC(also known as The Giant Brain) stands for \"Electronic Numerical Integrator and Computer.\" It was one of the earliest electronic general-purpose computers, developed during World War II and completed in 1945.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62335",
+    "passage": ""
   }
 ]
