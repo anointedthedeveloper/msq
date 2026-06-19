@@ -12502,5 +12502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64340",
     "passage": ""
+  },
+  {
+    "id": 64341,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the below-mentioned reasons do not satisfy the reason why people create a computer virus?",
+    "options": {
+      "A": "protection",
+      "B": "Identity theft",
+      "C": "pranks",
+      "D": "research purpose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Computer virus are not created for protection purpose.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64341",
+    "passage": ""
   }
 ]
