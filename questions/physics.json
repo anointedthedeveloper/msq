@@ -2539,5 +2539,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9680",
     "passage": ""
+  },
+  {
+    "id": 9681,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following is a characteristics of stationary waves?",
+    "options": {
+      "A": "They are formed by two identical waves travelling in opposite directions",
+      "B": "they can be transverse or longitudinal",
+      "C": "The distance between two successive nodes is one wavelenght",
+      "D": "The antinode is a point of minimum displacement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "They are produced by the superposition of two progressive identical waves travelling in opposite directions",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9681",
+    "passage": ""
   }
 ]
