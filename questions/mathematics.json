@@ -12613,5 +12613,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22601",
     "passage": ""
+  },
+  {
+    "id": 22602,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Given that 1/3log\n10\nP = 1, find the value of P",
+    "options": {
+      "A": "1/10",
+      "B": "3",
+      "C": "10",
+      "D": "100",
+      "E": "1000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "1\n3\n10\n10\n1/3\n10\n1/3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22602",
+    "passage": ""
   }
 ]
