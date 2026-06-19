@@ -4534,5 +4534,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8208",
     "passage": ""
+  },
+  {
+    "id": 8209,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If 6logx2 - 3logx3 = 3log50.2, find x.",
+    "options": {
+      "A": "8/3",
+      "B": "4/3",
+      "C": "3/4",
+      "D": "3/8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "6log\\(_x2\\) - 3log\\(_x3\\) = 3log\\(_50.2\\) = log\\(_x2^6\\) - 3log\\(_x3^3\\) = log\\(_5(0.2)^3\\) = logx(64/27) = log5(1/5)3 logx(64/27) = log5(1/125) let logx(64/27) = y ∴xy = 64/27 and log5(1/125) = y ∴ 5y = 1/125 5y = 125-1 5y = 5-3 ∴ y = -3 substitute y = -3 in xy = 64/27 implies x-3 = 64/27 1/x3 = 64/27 64x3 = 27 x3 = 27/64 x3 = 3√27/64 x = 3/4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8209",
+    "passage": ""
   }
 ]
