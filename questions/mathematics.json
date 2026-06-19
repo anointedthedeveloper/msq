@@ -3568,5 +3568,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7788",
     "passage": ""
+  },
+  {
+    "id": 7796,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Find the slope of the curve y = 2x\\(^2\\) + 5x - 3 at (1, 4).",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "7",
+      "D": "9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "y = 2x\\(^2\\) + 5x - 3 dy/dx = 4x + 5 = 4 + 5 = 9\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7796",
+    "passage": ""
   }
 ]
