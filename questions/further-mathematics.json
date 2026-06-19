@@ -2643,5 +2643,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50434",
     "passage": ""
+  },
+  {
+    "id": 50435,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(\\frac{2x}{(x + 6)(x + 3)} = \\frac{P}{x + 6} + \\frac{Q}{x + 3}\\), find P and Q.",
+    "options": {
+      "A": "P = 4 and Q = 2",
+      "B": "P = 2 and Q = 4",
+      "C": "P = 4 and Q = -2",
+      "D": "P = -2 and Q = 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{2x}{(x + 6)(x + 3)} = \\frac{P}{x + 6} + \\frac{Q}{x + 3}\\)\n\\(\\frac{2x}{(x + 6)(x + 3)} = \\frac{P(x + 3) + Q(x + 6)}{(x + 6)(x + 3)}\\)\nComparing equations, we have\n\\(2x = Px + 3P + Qx + 6Q\\)\n\\(\\implies 3P + 6Q = 0 ... (1) ; P + Q = 2 .... (2)\\)\nFrom equation (1), \\(3P = -6Q  \\implies P = -2Q\\)\n\\(\\therefore -2Q + Q = -Q = 2 \\)\n\\(Q = -2\\)\n\\(P = -2Q = -2(-2) = 4\\)\n\\(P = 4, Q = -2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50435",
+    "passage": ""
   }
 ]
