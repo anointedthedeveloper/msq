@@ -5775,5 +5775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62434",
     "passage": ""
+  },
+  {
+    "id": 62435,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is a temporary file that can be used only once and then discarded?",
+    "options": {
+      "A": "Refresh file",
+      "B": "Master file",
+      "C": "System file",
+      "D": "Transaction file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A transaction file is a temporary file that is used to store data that will be used to update the master file. The transaction file is used only once and then discarded after the update process. So, the correct answer is 'transaction file'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62435",
+    "passage": ""
   }
 ]
