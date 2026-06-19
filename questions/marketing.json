@@ -8778,5 +8778,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/72917",
     "passage": ""
+  },
+  {
+    "id": 72918,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "KPKC Ltd bought 60 packs of beverages at # 150 each and sold them at a 20%  mark-up\nUse the information above to answer this question\nWhat is the total cost of the beverage?",
+    "options": {
+      "A": "#1,800",
+      "B": "# 7,200",
+      "C": "# 9,000",
+      "D": "# 10,800"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "KPKC used a cost-plus pricing strategy because it uses mark-up\nCost = #150×60 = #9000\nMark-up = \\(\\frac{\\text{profit}}{\\text{cost}}\\)\n\\(\\frac{20}{100}\\) = \\(\\frac{\\text{profit}}{9000}\\)\nProfit = #1,800",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/72918",
+    "passage": ""
   }
 ]
