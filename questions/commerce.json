@@ -5228,5 +5228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2001",
     "passage": ""
+  },
+  {
+    "id": 2002,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A shortcoming of the Second-tier Foreign Exchange Market in Nigeria is that it",
+    "options": {
+      "A": "serves as a mechanism for evaluating an unrealistic exchange rate for the naira",
+      "B": "creates unhealthy competition amongst users of foreign exchange",
+      "C": "contributes to destabilizing national resource allocation",
+      "D": "contributes to flooding the market with foreign essential commodities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2002",
+    "passage": ""
   }
 ]
