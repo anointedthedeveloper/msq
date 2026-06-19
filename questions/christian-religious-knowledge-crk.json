@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/66",
     "passage": ""
+  },
+  {
+    "id": 68,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The Holy spirit descended on the followers of Christ and they began to speak in tongues",
+    "options": {
+      "A": "During the ascension of Christ",
+      "B": "At the crucifixion of Christ",
+      "C": "As the people sat on Mount Gilboa",
+      "D": "While crossing the red sea",
+      "E": "On the day of pentecost"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/68",
+    "passage": ""
   }
 ]
