@@ -10078,5 +10078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4045",
     "passage": ""
+  },
+  {
+    "id": 4047,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Insoluble salts can be prepared by?",
+    "options": {
+      "A": "titrating an alkali against an appropriate acid",
+      "B": "reacting an acid with trioxocarbonate (IV) salt",
+      "C": "directing combination of the elements which make up the salt",
+      "D": "mixing two soluble compounds containing the metallic radical and the acidic radical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An insoluble salt can be prepared by a precipitation method through a double decomposition reaction .\nTwo soluble metal salts react with each other to form one soluble salt and one insoluble salt .\nLead nitrate solution and sodium chloride solution react to produce solid lead chloride , leaving soluble sodium nitrate in solution.\nThe lead chloride can be recovered by filtration.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4047",
+    "passage": ""
   }
 ]
