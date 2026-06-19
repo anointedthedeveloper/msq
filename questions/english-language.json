@@ -14477,5 +14477,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5180",
     "passage": ""
+  },
+  {
+    "id": 5181,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1987",
+    "question": "In the question below, choose the option nearest in meaning to the word(s) or phrase underlined : It is claimed that there is an extinct volcano near Pankshin.",
+    "options": {
+      "A": "extinguished",
+      "B": "inactive",
+      "C": "dead",
+      "D": "disused"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word \"extinct\" in the context of a volcano means no longer active and unlikely to erupt again . The option that best conveys this meaning is \"inactive\" , which suggests that the volcano is no longer functioning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5181",
+    "passage": ""
   }
 ]
