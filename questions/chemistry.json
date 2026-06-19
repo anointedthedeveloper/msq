@@ -13417,5 +13417,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4797",
     "passage": ""
+  },
+  {
+    "id": 4799,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An organic compound has an empirical formula CH\n2\nO and vapour density of 45.\nWhat is the molecular formula?\n[C = 12, H = 1, O = 16]",
+    "options": {
+      "A": "C 3 H 7 OH",
+      "B": "C 2 H 5 OH",
+      "C": "C 3 H 6 O 3",
+      "D": "C 2 H 4 O 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4799",
+    "passage": ""
   }
 ]
