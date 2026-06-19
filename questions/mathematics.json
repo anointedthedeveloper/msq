@@ -12789,5 +12789,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22642",
     "passage": ""
+  },
+  {
+    "id": 22643,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "An arc of length 22cm subtends an angle of θ at the center of the circle. What is the value of θ if the radius of the circle is 15cm?[Take π = 22/7]",
+    "options": {
+      "A": "70 o",
+      "B": "84 o",
+      "C": "96 o",
+      "D": "156 o",
+      "E": "168 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(2\\pi r = 2 \\times 3.142 \\times 15 = 94.28cm\\)\n\\(94.28cm = 360°\\)\n\\(1cm = \\frac{360°}{94.28}\\)\n\\(\\therefore 22cm = \\frac{360°}{94.28} \\times 22\\)\n= 84°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22643",
+    "passage": ""
   }
 ]
