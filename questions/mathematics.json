@@ -8965,5 +8965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9331",
     "passage": ""
+  },
+  {
+    "id": 9332,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Find the locus of a particle which moves in the first quadrant so that it is equidistant from the lines x = 0 and y = 0 (where k is a constant)?",
+    "options": {
+      "A": "x + y = 0",
+      "B": "x - y = 0",
+      "C": "x + y + k = 0",
+      "D": "x - y - k = 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Locus of a particle which moves in the first quadrant so that it is equidistant from the lines X = 0 and Y = 0 are the x and y axes as the lines bisecting the angle between x and y axes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9332",
+    "passage": ""
   }
 ]
