@@ -1818,5 +1818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66540",
     "passage": ""
+  },
+  {
+    "id": 66542,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A feature of an open office is that",
+    "options": {
+      "A": "all the doors are opened",
+      "B": "all the cabinets are opened",
+      "C": "workers are put together in the same room",
+      "D": "each worker occupies a separate room"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Features of an open office are: limited closed space, lacke of privacy, acoustical materials, cheaper construction, fostering teamwork etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66542",
+    "passage": ""
   }
 ]
