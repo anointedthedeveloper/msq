@@ -7537,5 +7537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3232",
     "passage": ""
+  },
+  {
+    "id": 3234,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "NH\\(_4\\)Cl(s) ⇌ NH\\(_3\\)(g) + HCl(g) The reaction above can only attain equilibrium if",
+    "options": {
+      "A": "a gaseous reactant is added",
+      "B": "one of the products is removed",
+      "C": "it is in a closed system",
+      "D": "it is an open system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In a closed system, as a reaction proceeds, the concentrations of reactants and products change until the system reaches a state where the forward and reverse reactions are occurring at the same rate.\nReactions in a closed system naturally tend towards a state of equilibrium, where the rates of the forward and reverse reactions are equal, and the net change in concentrations of reactants and products is zero.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3234",
+    "passage": ""
   }
 ]
