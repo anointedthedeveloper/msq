@@ -1720,5 +1720,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1154",
     "passage": ""
+  },
+  {
+    "id": 1155,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "options": {
+      "A": "8cm",
+      "B": "6cm",
+      "C": "9cm",
+      "D": "7cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "(r/L) = (θ/360°) Given θ = 300, and L = 7.2cm, => r = (300 x 7.2)/360 r = 6cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1155",
+    "passage": ""
+  },
+  {
+    "id": 1156,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A point P moves such that it is equidistant from Points Q and R. Find QR when PR = 8cm and angle PRQ = 30°",
+    "options": {
+      "A": "4√3cm",
+      "B": "8cm",
+      "C": "8√3cm",
+      "D": "4cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hint: Make a sketch of an isosceles triangle with two of its sides and angles angles.\n: PQ (r)  = PR (q) = 8cm\n: R° = Q° = 30°\nSum of angles in a triangle = 180°\nP° + Q° + R° = 180°\nP° + 30° + 30° = 180°\nP° = 180° - 60°\np° = 120°.\n: PQ = r, PR = q, QR = p\nUsing sine rule:\n\\(\\frac{p}{sinP}\\) = \\(\\frac{q}{sinq}\\)\n\\(\\frac{p}{sin120°}\\) = \\(\\frac{8}{sin30°}\\)\ncross multiply\np = \\(\\frac{8 X sin120°}{sin30°}\\)\np = \\(\\frac{8 X √3/2 }{1/2}\\)\np = 8√3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1156",
+    "passage": ""
   }
 ]
