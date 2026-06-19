@@ -2505,5 +2505,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2325",
     "passage": ""
+  },
+  {
+    "id": 2331,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which sector can you say is growing fastest in the Nigeria economy?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Industry",
+      "C": "Education",
+      "D": "Transport",
+      "E": "Labour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The labor market is the fastest-growing sector in the economy with the outpouring of graduates from tertiary institutions and vocational skill acquisition centers on a yearly basis. This sector comprises various skill-level personnel and in the past few years, Nigeria has witnessed a considerably high number of its skilled labor migrate to other parts of the world for greener pastures.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2331",
+    "passage": ""
   }
 ]
