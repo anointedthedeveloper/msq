@@ -14525,5 +14525,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24090",
     "passage": ""
+  },
+  {
+    "id": 24091,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The body P shown in the diagram above is in equilibrium. If the mass Q of the body is 10kg, calculate the tension T in the string. (Take g = 10ms\n2\n)",
+    "options": {
+      "A": "20/√3N",
+      "B": "20N",
+      "C": "50N",
+      "D": "200√3N",
+      "E": "200N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4158321105_wcphy199012.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891802/myschool/physics/4158321105_wcphy199012.jpg",
+    "correct_answer": "E",
+    "explanation": "T = P / cos60 o = 100 / cos60 o = 200N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24091",
+    "passage": ""
   }
 ]
