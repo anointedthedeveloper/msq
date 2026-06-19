@@ -4624,5 +4624,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75574",
     "passage": ""
+  },
+  {
+    "id": 75693,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le médecin soigne _malades.",
+    "options": {
+      "A": "une",
+      "B": "la",
+      "C": "des",
+      "D": "les"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Les malades\" is a definite plural noun referring to sick people.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75693",
+    "passage": ""
   }
 ]
