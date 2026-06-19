@@ -9127,5 +9127,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3896",
     "passage": ""
+  },
+  {
+    "id": 3897,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below fill in the right word/phrase\n:\nHe .... the book to the library last week",
+    "options": {
+      "A": "has returned",
+      "B": "had returned",
+      "C": "was returning",
+      "D": "returned",
+      "E": "was to be returning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3897",
+    "passage": ""
   }
 ]
