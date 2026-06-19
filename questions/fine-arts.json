@@ -2434,5 +2434,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75381",
     "passage": ""
+  },
+  {
+    "id": 75382,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The process of adding materials onto a surface in art is called:",
+    "options": {
+      "A": "Additive",
+      "B": "Additive",
+      "C": "Collage",
+      "D": "Subtractive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The additive process in art involves building up or joining materials to create a form. It’s commonly used in sculpture, like modeling with clay, where the artist adds material step by step to make the final piece.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75382",
+    "passage": ""
   }
 ]
