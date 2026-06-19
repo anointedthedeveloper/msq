@@ -4933,5 +4933,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12788",
     "passage": ""
+  },
+  {
+    "id": 12789,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "For semi conductor to have negative temperature coefficient of resistance implies that",
+    "options": {
+      "A": "their resistance decrease with temperature",
+      "B": "The resistance increase with temperature",
+      "C": "their resistance is constantly changing with temperature",
+      "D": "they have electrons and holes at high temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The temperature coefficient of resistance is given by\nα = \\(\\frac{\\text{Increase in resistance per ºC rise in temp}}{\\text{resistance at 0ºC}}\\)\nAnd for metals where resistance increases with temperature rise, the temperature coefficient of resistance is positive; on the other hand, in semiconductors, where resistance decreases with temperature rise, the temperature coefficient of resistance is negative.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12789",
+    "passage": ""
   }
 ]
