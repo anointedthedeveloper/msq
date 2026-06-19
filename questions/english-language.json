@@ -2659,5 +2659,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1342",
     "passage": ""
+  },
+  {
+    "id": 1343,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The world bank team which visited the land-lock country .... a bleak economic future for it.",
+    "options": {
+      "A": "forecast",
+      "B": "thought of",
+      "C": "discovered",
+      "D": "prophesied",
+      "E": "projected"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The sentence refers to an official assessment or prediction made by a professional body (the World Bank team) about a country’s economic future . The most appropriate verb for such a formal, data-based prediction is “forecast.”",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1343",
+    "passage": ""
   }
 ]
