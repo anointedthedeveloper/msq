@@ -2176,5 +2176,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/607",
     "passage": ""
+  },
+  {
+    "id": 608,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The joint between the atlas and axis vertebrae allows for",
+    "options": {
+      "A": "rotatory movement only",
+      "B": "up and down or nodding movements only",
+      "C": "rotatory and nodding movements",
+      "D": "no movement at all",
+      "E": "slight movement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "-The joint between the atlas and axis vertebrae is a PIVOT JOINT.\n-The Odontoid Process of the axis acts as a pivot which allow the rotation of the head on the vertebral column.\n-Hence; the atlas and the skull together ROTATE about the Odontoid Process.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/608",
+    "passage": ""
   }
 ]
