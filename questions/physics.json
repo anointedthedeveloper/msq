@@ -5941,5 +5941,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13654",
     "passage": ""
+  },
+  {
+    "id": 13659,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The pair of physical quantities consisting of vectors only are",
+    "options": {
+      "A": "momentum and power",
+      "B": "velocity and distance",
+      "C": "displacement and torque",
+      "D": "accelaration and speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Displacement and torque are vector quantities with both magnitude and direction, while options A, B, and D consist of vector and scalar.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13659",
+    "passage": ""
   }
 ]
