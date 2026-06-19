@@ -371,5 +371,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/58",
     "passage": ""
+  },
+  {
+    "id": 60,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The reaction between an organic acid and an alcohol in the presence of an acid catalyst is known as;",
+    "options": {
+      "A": "saponification",
+      "B": "dehydration",
+      "C": "esterification",
+      "D": "hydrolysis",
+      "E": "hydration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Esterification, a reaction in which a carboxylic acid and an alcohol, heated in the presence of a mineral acid catalyst, form an ester and water:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/60",
+    "passage": ""
+  },
+  {
+    "id": 64,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The IUPAC names of the compounds CH3COOH and CH2=CH2 are respectively;",
+    "options": {
+      "A": "acetic acid and ethene",
+      "B": "methanoic acid and ethene",
+      "C": "methanoic acid and ethylene",
+      "D": "ethanol and ethene",
+      "E": "acetic acid and ethylene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The IUPAC id for \\(CH_{3}COOH\\) is Acetic acid, while for \\(C_{2}H_{4}\\) is ethene.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/64",
+    "passage": ""
   }
 ]
