@@ -6311,5 +6311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62620",
     "passage": ""
+  },
+  {
+    "id": 62621,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The function of the SQL statement SELECT Student ID, Surname, House Name FROM Student, is that it",
+    "options": {
+      "A": "retrieves the listed fields from student table",
+      "B": "highlight the listed fields from student table",
+      "C": "hides the selected fields from student table",
+      "D": "deletes the listed fields from students table"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62621",
+    "passage": ""
   }
 ]
