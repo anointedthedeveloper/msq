@@ -4995,5 +4995,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70835",
     "passage": ""
+  },
+  {
+    "id": 70836,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is a common benefit of a proper warm-up?",
+    "options": {
+      "A": "Increased risk of injury",
+      "B": "Decreased blood flow to muscles",
+      "C": "Improved muscle flexibility",
+      "D": "Enhanced muscle stiffness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A proper warm-up increases muscle flexibility, reducing the risk of injury.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70836",
+    "passage": ""
   }
 ]
