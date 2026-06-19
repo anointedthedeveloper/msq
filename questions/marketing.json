@@ -9924,5 +9924,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/77115",
     "passage": ""
+  },
+  {
+    "id": 77116,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Air transport is preferred to other modes because it is",
+    "options": {
+      "A": "faster in transporting goods for long distance",
+      "B": "relatively cheaper than other modes",
+      "C": "affected by weather conditions",
+      "D": "suitable for door-to-door services"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Air transport is often preferred for long-distance transportation because it is faster than other modes of transport such as road, rail, or sea. While air transport can be affected by weather conditions and is not suitable for door-to-door services, its speed is a significant advantage, especially for perishable goods or when time is a critical factor. Therefore, the statement 'faster in transporting goods for long distance' is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/77116",
+    "passage": ""
   }
 ]
