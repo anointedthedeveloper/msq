@@ -9406,5 +9406,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3869",
     "passage": ""
+  },
+  {
+    "id": 3870,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The hydrocarbon used in the production of styrene is",
+    "options": {
+      "A": "ethyne",
+      "B": "propyne",
+      "C": "ethane",
+      "D": "ethene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Styrene is produced from the monomer ethylbenzene through a process called dehydrogenation, where hydrogen is removed from ethylbenzene to create styrene; dehydrogenation of ethylbenzene, a compound obtained by reacting ethylene and benzene. However, ethylene is also known as ethene.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3870",
+    "passage": ""
   }
 ]
