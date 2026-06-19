@@ -4216,5 +4216,26 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911033/myschool/civic-education/zebra.jpg",
     "url": "https://myschool.ng/classroom/civic-education/50304",
     "passage": ""
+  },
+  {
+    "id": 50305,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Citizenship status is acquired through?",
+    "options": {
+      "A": "birth, indigenization, colonization and referendum",
+      "B": "association, convention, naturalization and incorporation",
+      "C": "birth, honorary, naturalization and registration",
+      "D": "registration, inter-relationship, integration and declaration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Acquisition of citizenship refers to the mechanism by which individuals whether citizens or foreign-born children acquire citizenship. This can be done automatically by virtue of being born to parents who are citizens of a particular country, by naturalization, honorary conferment and or by registration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50305",
+    "passage": ""
   }
 ]
