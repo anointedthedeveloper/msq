@@ -2833,5 +2833,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11133",
     "passage": ""
+  },
+  {
+    "id": 11141,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The figure above represents a frictionless pulley system in which a weight W is in equilibrium with a weight of 40N. Find the value of W",
+    "options": {
+      "A": "13.3N",
+      "B": "20.0N",
+      "C": "40.0N",
+      "D": "80.0N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16302013680_phy19995.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888500/myschool/physics/16302013680_phy19995.jpg",
+    "correct_answer": "D",
+    "explanation": "With P1 and P2 as shown (make a V.R of 2), the weight W = 40N * 2 = 80N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11141",
+    "passage": ""
   }
 ]
