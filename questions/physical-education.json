@@ -3190,5 +3190,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68304",
     "passage": ""
+  },
+  {
+    "id": 68305,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following type of cartilage is present at the joints of long bones in humans?",
+    "options": {
+      "A": "Calcified",
+      "B": "Hyaline",
+      "C": "Elastic",
+      "D": "fibrous"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hyaline cartilage is the type of cartilage present at the joints of long bones in humans. It provides a smooth surface for joint movement, absorbs shock, and reduces friction. Fibrous and elastic cartilages are found in other parts of the body, while calcified cartilage is a stage in endochondral ossification, not a type of cartilage found in joints.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68305",
+    "passage": ""
   }
 ]
