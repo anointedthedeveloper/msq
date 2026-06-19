@@ -3301,5 +3301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71205",
     "passage": ""
+  },
+  {
+    "id": 71206,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeEn cas de vol, téléphonez aux.",
+    "options": {
+      "A": "maçons",
+      "B": "marchands",
+      "C": "avocats",
+      "D": "policiers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks who to call in case of theft or burglary (vol). The correct answer is policiers (police), as they are the authorities responsible for investigating and responding to crimes. The other options - avocats (lawyers), maçons (masons), marchands (merchants), and pompiers (firefighters) - are not the appropriate contacts for reporting a theft.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71206",
+    "passage": ""
   }
 ]
