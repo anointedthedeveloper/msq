@@ -3106,5 +3106,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68299",
     "passage": ""
+  },
+  {
+    "id": 68301,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The human heart is located in the",
+    "options": {
+      "A": "cranium cavity",
+      "B": "cervical cavity",
+      "C": "Thoracic cavity",
+      "D": "Nasal cavity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The human heart is located in the thoracic cavity. The heart is shifted slightly towards the left side of the body in most individuals. Thoracic cavity is also called chest cavity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68301",
+    "passage": ""
   }
 ]
