@@ -4310,5 +4310,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62272",
     "passage": ""
+  },
+  {
+    "id": 62273,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "When browsing on the internet, a possible reason for. the message \"page not found\" is that?",
+    "options": {
+      "A": "the weather is hot.",
+      "B": "the web browser is fast.",
+      "C": "multiple web pages are loading at the same time.",
+      "D": "a connection between the client and server has been lost."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62273",
+    "passage": ""
   }
 ]
