@@ -8935,5 +8935,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62691",
     "passage": ""
+  },
+  {
+    "id": 62692,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "To send a created MS PowerPoint document using email to a user, the document can be added as?",
+    "options": {
+      "A": "Attachment.",
+      "B": "Draft.",
+      "C": "Reply.",
+      "D": "Chat."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To send a created MS PowerPoint document using email to a user, the document can be added as an Attachment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62692",
+    "passage": ""
   }
 ]
