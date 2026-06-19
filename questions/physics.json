@@ -11553,5 +11553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14477",
     "passage": ""
+  },
+  {
+    "id": 14482,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The dimension of electromotive force are?",
+    "options": {
+      "A": "ML 2 T -3 I -1",
+      "B": "ML 2 T -3 I -2",
+      "C": "M 2 LT -2 I -1",
+      "D": "M 2 L 2 T -1 I -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Electrical work W = QE, Where Q is the quantity of change and E is the electromotive force. ∴ E = W = FxDQ_It Where D is the displacement,I = current and t = time But dimension of force, = unit of mass x unit of Acceleration = unit of mass xunit of velocityunit of time = unit of mass x unit of displacement__unit of time x unit of time ML/T2 = MLT-2 ∴ Dimension of emf E = MLT-2L = ML2T-3I-1__IT\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14482",
+    "passage": ""
   }
 ]
