@@ -1711,5 +1711,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57747",
     "passage": ""
+  },
+  {
+    "id": 57750,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The records of students in a school are kept in order of their arrival. What files access method would be used to access a student's record if the latest record would first be retrieved?",
+    "options": {
+      "A": "Direct",
+      "B": "Indexed",
+      "C": "Batch",
+      "D": "sequential"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Indexed : Can allow for faster retrieval of records based on specific criteria, but typically does not prioritize the latest records unless designed that way. For this question, the files of the students are kept in order of arrival.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57750",
+    "passage": ""
   }
 ]
