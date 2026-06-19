@@ -2266,5 +2266,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2878",
     "passage": ""
+  },
+  {
+    "id": 2879,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A trader bought goats for N4000 each. He sold them for N180,000 at a loss of 25%. How many goats did he buy?",
+    "options": {
+      "A": "60",
+      "B": "50",
+      "C": "45",
+      "D": "36"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2879",
+    "passage": ""
+  },
+  {
+    "id": 2880,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If dy/dx = 2x - 3 and y = 3 when x = 0, find y in terms of x.",
+    "options": {
+      "A": "2x 2 - 3x",
+      "B": "x 2 - 3x",
+      "C": "x 2 - 3x - 3",
+      "D": "x 2 - 3x + 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2880",
+    "passage": ""
   }
 ]
