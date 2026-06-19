@@ -16812,5 +16812,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24296",
     "passage": ""
+  },
+  {
+    "id": 24297,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "An element whose half-life is 3 years has N atoms. How many atoms would have decayed after 9 years",
+    "options": {
+      "A": "1 N atoms8",
+      "B": "1 N atoms3",
+      "C": "2 N atoms3",
+      "D": "5 N atoms6",
+      "E": "7 N atoms8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24297",
+    "passage": ""
   }
 ]
