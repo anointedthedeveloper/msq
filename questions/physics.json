@@ -14987,5 +14987,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24111",
     "passage": ""
+  },
+  {
+    "id": 24112,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The diagram above shows an incident ray A, inclined at angle of 50º to the interface CB. The ray OB is found to lie along the surface. What is the refractive index of the medium X with respect to air?",
+    "options": {
+      "A": "sin50 o /sin40 o",
+      "B": "sin40 o sin50 o",
+      "C": "sin90 o /sin50 o",
+      "D": "sin40 o /sin90 o",
+      "E": "sin90 o /sin40 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/22177786592_wcphy199032.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891917/myschool/physics/22177786592_wcphy199032.jpg",
+    "correct_answer": "D",
+    "explanation": "angle of incidence = 90º - 50º = 40º\nthe angle the refracted ray makes with the normal is 90º\nbut refractive index(n) = \\(\\frac{i}{r} = \\frac{40}{90}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24112",
+    "passage": ""
   }
 ]
