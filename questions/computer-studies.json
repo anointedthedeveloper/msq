@@ -9334,5 +9334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62712",
     "passage": ""
+  },
+  {
+    "id": 62713,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the file organization methods can be accessed both randomly and sequentially?",
+    "options": {
+      "A": "Direct files",
+      "B": "Indexed sequential files",
+      "C": "Random files",
+      "D": "Sequential files"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62713",
+    "passage": ""
   }
 ]
