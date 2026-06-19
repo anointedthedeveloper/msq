@@ -7999,5 +7999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9282",
     "passage": ""
+  },
+  {
+    "id": 9283,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the capacity in liters of a cylindrical well of radius 1 meter and depth 14 meters [π = 22/7]",
+    "options": {
+      "A": "44,000 liters",
+      "B": "4,400 liters",
+      "C": "440 liters",
+      "D": "44 liters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "V = πr2h 1m = 100cm 14cm = 1400cm \\(∴V = \\frac{22}{7} \\times \\frac{100x100x1400}{1000}\\\\ = 44, 000 liters\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9283",
+    "passage": ""
   }
 ]
