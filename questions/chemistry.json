@@ -3840,5 +3840,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1742",
     "passage": ""
+  },
+  {
+    "id": 1743,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The chromatography separation of ink is based on the ability of the components to",
+    "options": {
+      "A": "React with solvent",
+      "B": "React with each other",
+      "C": "Dissolve in each other in the column",
+      "D": "Move at different speeds in the column"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Chromatography is a laboratory technique for the separation of a mixture into its components. A mixture is dissolved in a mobile phase, which is a liquid or gas that flows through a stationary phase, which is a solid or liquid. The components of the mixture separate as they travel through the stationary phase because they have different affinities for it.\nThe chromatography separation of ink is based on the ability of the components to move at different speeds in the column .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1743",
+    "passage": ""
   }
 ]
