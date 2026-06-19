@@ -1929,5 +1929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73773",
     "passage": ""
+  },
+  {
+    "id": 73774,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ọlee nke pụtara narị asaa na iri abụọ",
+    "options": {
+      "A": "707",
+      "B": "772",
+      "C": "720",
+      "D": "710"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The question is asking for the number that corresponds to \"narị asaa na iri abụọ\" in Igbo. In Igbo language, \"narị\" means \"hundred\", \"asaa\" means \"seven\", \"iri\" means \"ten\", and \"abụọ\" means \"two\". To express this number in Igbo, you combine \"narị asaa\" (seven hundred) with \"iri abụọ\" (twenty) to get \"narị asaa na iri abụọ\", which corresponds to the number 720.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73774",
+    "passage": ""
   }
 ]
