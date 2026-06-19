@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48097",
     "passage": ""
+  },
+  {
+    "id": 48098,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The triad above is in its",
+    "options": {
+      "A": "third inversion",
+      "B": "second inversion",
+      "C": "first inversion",
+      "D": "root position"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/MJ4pHv48De7bnPI7GXSWwBCuvlPCDBdU8nbfTOl6.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890301/myschool/music/MJ4pHv48De7bnPI7GXSWwBCuvlPCDBdU8nbfTOl6.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48098",
+    "passage": ""
   }
 ]
