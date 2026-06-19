@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49735",
     "passage": ""
+  },
+  {
+    "id": 49741,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The right which an insurer has to stand in the place of the insured against a negligent party is?",
+    "options": {
+      "A": "insurable interest",
+      "B": "subrogation",
+      "C": "proximate cause",
+      "D": "contribution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Subrogation is a term describing a legal right held by most insurance carriers to legally pursue a third party that caused an insurance loss to the insured. This is done in order to recover the amount of the claim paid by the insurance carrier to the insured for the loss.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49741",
+    "passage": ""
   }
 ]
