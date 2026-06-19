@@ -10098,5 +10098,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10929",
     "passage": ""
+  },
+  {
+    "id": 10930,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The triangle PQR above is",
+    "options": {
+      "A": "an obtuse-angled triangle",
+      "B": "a scalene triangle",
+      "C": "an isosceles triangle",
+      "D": "an equilateral triangle"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1358366743_math200240.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868958/myschool/mathematics/1358366743_math200240.jpg",
+    "correct_answer": "C",
+    "explanation": "o\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10930",
+    "passage": ""
   }
 ]
