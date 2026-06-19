@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50266",
     "passage": ""
+  },
+  {
+    "id": 50267,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A fair die is tossed twice. What is its smple size?",
+    "options": {
+      "A": "6",
+      "B": "12",
+      "C": "36",
+      "D": "48"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sample size = 6 x 6 = 36.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50267",
+    "passage": ""
   }
 ]
