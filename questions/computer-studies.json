@@ -10196,5 +10196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62755",
     "passage": ""
+  },
+  {
+    "id": 62756,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In networking, bandwidth means?",
+    "options": {
+      "A": "class of IP address used in the network",
+      "B": "number of interconnected computers in the network",
+      "C": "transmission capacity of a communication channel.",
+      "D": "types of nodes in a communication channel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In networking, bandwidth is the maximum data transmission capacity of a channel, measured in bits per second (bps). Like a wider pipe allowing more water flow, higher bandwidth enables faster transfers for streaming and downloading.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62756",
+    "passage": ""
   }
 ]
