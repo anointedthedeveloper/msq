@@ -13111,5 +13111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64377",
     "passage": ""
+  },
+  {
+    "id": 64378,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which computer accessory is both an input and output device?",
+    "options": {
+      "A": "Monitor",
+      "B": "Printer",
+      "C": "Network cards",
+      "D": "Scanner"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Devices for communication between computers, such as modems and network cards, typically perform both input and output operations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64378",
+    "passage": ""
   }
 ]
