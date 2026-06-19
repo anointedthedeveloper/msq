@@ -8146,5 +8146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3292",
     "passage": ""
+  },
+  {
+    "id": 3293,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The products of the combustion of candle wax are?",
+    "options": {
+      "A": "hydrogen and water",
+      "B": "oxygen and water",
+      "C": "carbon (IV) oxide and water",
+      "D": "carbon (II) oxide and water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The heat of the flame vaporizes the liquid wax (turns it into a hot gas), and starts to break down the hydrocarbons into molecules of hydrogen and carbon. These vaporized molecules are drawn up into the flame, where they react with oxygen from the air to create heat, light, water vapor (H\\(_2\\)O) and carbon dioxide (CO\\(_2\\)).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3293",
+    "passage": ""
   }
 ]
