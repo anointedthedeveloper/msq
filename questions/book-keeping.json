@@ -396,5 +396,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72868",
     "passage": ""
+  },
+  {
+    "id": 72869,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Sales of goods to the value of N500 was debited to Ade instead of Adu, The journal entry for correcting this error is debit",
+    "options": {
+      "A": "Adus account #500:credit Ades account #500",
+      "B": "Ades Account #500; credit Adus account N 500",
+      "C": "Adus account # 500; credit sales account #500",
+      "D": "Sales account #500, credit Adus account #500"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "This is an error of commission,it is usually corrected with the reverse of the error.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72869",
+    "passage": ""
   }
 ]
