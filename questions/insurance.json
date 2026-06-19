@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49701",
     "passage": ""
+  },
+  {
+    "id": 49704,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A condition which the insuring public would use to evaluate the financial stability of an insurer is?",
+    "options": {
+      "A": "prompt payment of claims",
+      "B": "adequate reinsurance treaty",
+      "C": "allowance for ex-gratia payment",
+      "D": "settlement of investigated claims"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The “ Prompt Payment of Insurance Claims ” imposes certain deadlines on insurers for responding to, investigating, and accepting or rejecting claims . The purpose is to “promote the prompt payment of insurance claims pursuant to policies of insurance.” The general public would use this to judge the insurance capability of owning up to reponsibilities",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49704",
+    "passage": ""
   }
 ]
