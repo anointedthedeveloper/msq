@@ -12537,5 +12537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7288",
     "passage": ""
+  },
+  {
+    "id": 7289,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The abbreviation C and F indicate that the?",
+    "options": {
+      "A": "production cost excludes the cost of carriage",
+      "B": "selling price includes the cost of carriage",
+      "C": "cost of production includes dilivery charges",
+      "D": "cost price includes the cost of carriage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "C and F stand for cost and freight, used in contracts for international trade that specify that the seller of the goods is required to arrange for the carriage of goods by sea to a port of destination and provide the buyer with the documents necessary to obtain the items from the carrier.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7289",
+    "passage": ""
   }
 ]
