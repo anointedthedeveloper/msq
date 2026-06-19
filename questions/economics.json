@@ -966,5 +966,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/457",
     "passage": ""
+  },
+  {
+    "id": 458,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In economics, production is complete when",
+    "options": {
+      "A": "Goods are produced in the factory",
+      "B": "Goods are sold to the wholesalers",
+      "C": "Goods and services are produced by the government",
+      "D": "Prices are fixed for goods and services",
+      "E": "Goods and services finally reach the consumer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/458",
+    "passage": ""
   }
 ]
