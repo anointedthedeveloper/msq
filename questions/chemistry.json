@@ -5541,5 +5541,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2523",
     "passage": ""
+  },
+  {
+    "id": 2524,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The leachate of a certain plant ash is used in local soap making because it contains",
+    "options": {
+      "A": "sodium chloride and potassium hydroxide",
+      "B": "sodium hydroxide",
+      "C": "potassium hydroxide",
+      "D": "soluble carbonates and hydrogen carbonates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The leachate of certain plant ash, especially from hardwoods, is used in local soap making because it contains potassium hydroxide (KOH), which is a type of lye. KOH is an alkaline substance that reacts with fats to produce soap through a process called saponification. While sodium hydroxide (NaOH) is also used in soap making, KOH-based soaps are known to be softer and are often used in liquid soap formulations.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2524",
+    "passage": ""
   }
 ]
