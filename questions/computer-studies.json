@@ -14245,5 +14245,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64799",
     "passage": ""
+  },
+  {
+    "id": 64801,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "use the diagram above to answer questions below\nThe logic gate in the diagram above is called a",
+    "options": {
+      "A": "AND gate",
+      "B": "NAND gate",
+      "C": "NOR gate",
+      "D": "OR gate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xxuOp0IGAQHckhrFeJiowf7hjKflBi5I9qkLHVXe.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903785/myschool/computer-studies/xxuOp0IGAQHckhrFeJiowf7hjKflBi5I9qkLHVXe.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64801",
+    "passage": ""
   }
 ]
