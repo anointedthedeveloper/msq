@@ -8041,5 +8041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69797",
     "passage": ""
+  },
+  {
+    "id": 69798,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Use Table 1 to answer questions 35 and 36 . Table 1: TableStudent\nAge\nColumns 2 and 3 in Table 1 cannot be used as primary key because both fields contain",
+    "options": {
+      "A": "different datatypes",
+      "B": "duplicate values",
+      "C": "the same datatype",
+      "D": "only strings and numbers respectively"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Columns 2 and 3 in Table 1 cannot be used as a primary key because both fields contain duplicate values . A primary key is a unique identifier for each record in a database table. It ensures that each record has a distinct value, allowing for efficient data retrieval and maintaining data integrity. In the given TableStudent, the \"House\" column (Column 2) and the \"Age\" column (Column 3) both contain duplicate values. For example, the House column has two records with the value \"Yellow\" and the Age column has two records with the value \"15\". Since a primary key must have unique values, neither of these columns can be used as the primary key.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69798",
+    "passage": ""
   }
 ]
