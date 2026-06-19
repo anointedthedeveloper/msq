@@ -8482,5 +8482,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3732",
     "passage": ""
+  },
+  {
+    "id": 3733,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The ion that can be used as an oxidizing agent is",
+    "options": {
+      "A": "Au 3+",
+      "B": "Fe 3+",
+      "C": "ClO -",
+      "D": "Ca 2+"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All the other options given, in their atom state can be good oxidizing agents but the ions are reducing agents.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3733",
+    "passage": ""
   }
 ]
