@@ -6375,5 +6375,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62480",
     "passage": ""
+  },
+  {
+    "id": 62481,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The ASCII code for the word NOT can be written as?",
+    "options": {
+      "A": "101010010011111001110.",
+      "B": "100111010011111010100",
+      "C": "100111110101001001110",
+      "D": "100111010101001111"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The ASCII binary codes are: 'N' = 1001110 (78 decimal), 'O' = 1001111 (79), 'T' = 1010100 (84). Concatenating gives 100111010011111010100, matching option B.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62481",
+    "passage": ""
   }
 ]
