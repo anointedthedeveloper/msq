@@ -3929,5 +3929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75995",
     "passage": ""
+  },
+  {
+    "id": 75998,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "What does it mean when a meeting is adjourned sine die?",
+    "options": {
+      "A": "There was no closing prayer",
+      "B": "The meeting ended in chaos",
+      "C": "The meeting was fixed for another date",
+      "D": "No date was fixed for its continuation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When a meeting is adjourned sine die, it means that it has been postponed indefinitely. The Latin term 'sine die' translates to 'without a day', meaning no date has been set for its continuation. Therefore, the correct answer is that no date was fixed for its continuation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75998",
+    "passage": ""
   }
 ]
