@@ -1678,5 +1678,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1152",
     "passage": ""
+  },
+  {
+    "id": 1153,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The sixth term of an A.P is half of its twelfth term. The first term of the A.P is equal to",
+    "options": {
+      "A": "zero",
+      "B": "half of the common difference",
+      "C": "double the common difference",
+      "D": "the common difference"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1153",
+    "passage": ""
   }
 ]
