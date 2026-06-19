@@ -372,5 +372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/197",
     "passage": ""
+  },
+  {
+    "id": 198,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The largest liability appearing in the book of a commercial bank is",
+    "options": {
+      "A": "cash",
+      "B": "deposits",
+      "C": "loans and advances",
+      "D": "capital and reserves",
+      "E": "treasury bills"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/198",
+    "passage": ""
   }
 ]
