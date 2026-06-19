@@ -6443,5 +6443,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16758",
     "passage": ""
+  },
+  {
+    "id": 16759,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Which of the following farm operations cannot be mechanized?",
+    "options": {
+      "A": "weed control",
+      "B": "fertilizer application",
+      "C": "transportation and handling",
+      "D": "seed-germination",
+      "E": "crop processing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16759",
+    "passage": ""
   }
 ]
