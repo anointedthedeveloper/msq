@@ -6108,5 +6108,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2645",
     "passage": ""
+  },
+  {
+    "id": 2646,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "What volume of 0.5 mol dm\\(^{-3}\\) H\\(_2\\)SO\\(_4\\) will exactly neutralize 20cm\\(^3\\) of 0.1 mol dm\\(^{-3}\\) NaOH solution?",
+    "options": {
+      "A": "2.0 cm 3",
+      "B": "5.0 cm 3",
+      "C": "6.8 cm 3",
+      "D": "8.3 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "First, write a balanced equation for the chemical reaction:  2NaOH  +  H\\(_2\\)SO\\(_4\\) → Na\\(_2\\)SO\\(_4\\) + 2H\\(_2\\)O\nFrom the balanced equation, N\\(_A\\) = 1   ;     N\\(_B\\) = 2\nC\\(_A\\) = 0.5 moldm\\(^{-3}\\)  ;   V\\(_A\\) = ? ; C\\(_B\\) = 0.1 moldm\\(^{-3}\\) ;  V\\(_B\\) = 20 cm\\(^3\\)\nUsing the formula, \\(\\frac{{C_A}{V_A}}{{C_B}{V_B}}\\) = \\(\\frac{N_A}{N_B}\\)\nV\\(_A\\) = \\(\\frac{{C_B}{V_B}{N_A}}{{C_A}{N_B}}\\)\n= \\(\\frac{{0.1}\\times{20}\\times{1}}{{0.5}\\times{2}}\\)\nV\\(_A\\) = 2.0 cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2646",
+    "passage": ""
   }
 ]
