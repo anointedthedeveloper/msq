@@ -5149,5 +5149,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75878",
     "passage": ""
+  },
+  {
+    "id": 75879,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le lion est fort mais_ est encore plus fort.",
+    "options": {
+      "A": "elle",
+      "B": "nous",
+      "C": "moi",
+      "D": "lui"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The French pronoun \"lui\" is often used in comparative sentences.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75879",
+    "passage": ""
   }
 ]
