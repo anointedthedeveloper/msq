@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60245",
     "passage": ""
+  },
+  {
+    "id": 60246,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Evaluate the BASIC statement:\nLET Z = 4*W^2  + 2*Y Given that W = 5 and Y = 10",
+    "options": {
+      "A": "50",
+      "B": "80",
+      "C": "100",
+      "D": "120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "4*W^2 + 2*Y Given that W = 5 and Y = 10\n4(5) \\(\\^2\\) + 2(10) 4(25) + 2(10) 100 + 20 = 120",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60246",
+    "passage": ""
   }
 ]
