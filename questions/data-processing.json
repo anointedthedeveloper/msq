@@ -8483,5 +8483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72337",
     "passage": ""
+  },
+  {
+    "id": 72338,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which one of the following sets of devices can be used to store data during processing?",
+    "options": {
+      "A": "Cache, RAM and Register",
+      "B": "Cache, Register and ROM",
+      "C": "Flash Drive, ROM and Hard Disk Drive",
+      "D": "RAM, Register and Zip Drive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During processing, the cache, RAM and registers are used to store data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72338",
+    "passage": ""
   }
 ]
