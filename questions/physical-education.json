@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64440",
     "passage": ""
+  },
+  {
+    "id": 64441,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following aspects is concerned with the development of the muscles of the legs, arms and abdomen?",
+    "options": {
+      "A": "Emotional",
+      "B": "Mental",
+      "C": "Physical",
+      "D": "Psychological"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This is the physical aspect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64441",
+    "passage": ""
   }
 ]
