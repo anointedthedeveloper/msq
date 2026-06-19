@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73541",
     "passage": ""
+  },
+  {
+    "id": 73544,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Mgbọchiume mkpị ọle ka e nwere n'Igbo?",
+    "options": {
+      "A": "Itoọlụ",
+      "B": "Iri",
+      "C": "Asatọ",
+      "D": "Iri na itoọlụ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is iri na itoọlụ (Nineteen). The question asks how many consonants (Mgbọchiume) are the in Igbo alphabet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73544",
+    "passage": ""
   }
 ]
