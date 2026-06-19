@@ -3322,5 +3322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71206",
     "passage": ""
+  },
+  {
+    "id": 71207,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence. Maman revient de la ville? Qu..... en revient.",
+    "options": {
+      "A": "ils",
+      "B": "Oil",
+      "C": "nous",
+      "D": "elle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This sentence is asking \"Who is coming back from town?\" The subject of the sentence is \"Maman\", which is a feminine noun, so the pronoun \"elle\" is used to agree with the subject. This is a basic subject-verb agreement rule in French grammar.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71207",
+    "passage": ""
   }
 ]
