@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50384",
     "passage": ""
+  },
+  {
+    "id": 50385,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the constant term in the binomial expansion \\((2x^{2} + \\frac{1}{x})^{9}\\)",
+    "options": {
+      "A": "84",
+      "B": "168",
+      "C": "336",
+      "D": "672"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Let the power of \\(2x^{2}\\) be t and the power of \\(\\frac{1}{x} \\equiv x^{-1}\\) = 9 - t.\n\\((2x^{2})^{t}(x^{-1})^{9 - t} = x^{0}\\)\nDealing with x alone, we have\n\\((x^{2t})(x^{-9 + t}) = x^{0} \\implies 2t - 9 + t = 0\\)\n\\(3t - 9 = 0 \\therefore t = 3\\)\nThe binomial expansion is then,\n\\(^{9}C_{3} (2x^{2})^{3}(x^{-1})^{6} = \\frac{9!}{(9-3)! 3!} \\times 2^{3}\\)\n= 84 x 8\n= 672",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50385",
+    "passage": ""
   }
 ]
