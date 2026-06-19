@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66103",
     "passage": ""
+  },
+  {
+    "id": 66106,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following factors will be considered before buying office furniture?",
+    "options": {
+      "A": "The colour of the furniture",
+      "B": "The size of the furniture",
+      "C": "The weight of the furniture",
+      "D": "The source of the furniture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Size of the furniture is one of the factors that will be considered before buying office furniture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66106",
+    "passage": ""
   }
 ]
