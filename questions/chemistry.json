@@ -5961,5 +5961,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2638",
     "passage": ""
+  },
+  {
+    "id": 2639,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following mixture of gases is likely to burn in flame?",
+    "options": {
+      "A": "neon and hydrogen",
+      "B": "nitrogen and helium",
+      "C": "helium and neon",
+      "D": "neon and nitrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When heated, a mixture of hydrogen and neon gases emits light and burns in a flame.When heated, the atoms in the gas absorb energy, causing the electrons to jump to higher energy levels. When the electrons return to their original energy levels, they emit light.\nA mixture of helium and nitrogen does not burn in a flame because both helium and nitrogen are non-flammable.\nA mixture of helium and neon does not burn in a flame because helium and neon are non-reactive.\nA mixture of neon and nitrogen will not burn in a flame because neither neon nor nitrogen are flammable.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2639",
+    "passage": ""
   }
 ]
