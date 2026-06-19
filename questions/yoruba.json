@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72468",
     "passage": ""
+  },
+  {
+    "id": 72469,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Kíni ó se atónà Móremí tití tí ó fi dé ilú ilá Òràngún?",
+    "options": {
+      "A": "Ekòló gòdògbà",
+      "B": "Opá àşe",
+      "C": "Odò Esinmirin",
+      "D": "Eşin funfun"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72469",
+    "passage": ""
   }
 ]
