@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73170",
     "passage": ""
+  },
+  {
+    "id": 73171,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following describes the strength and weakness of a design?",
+    "options": {
+      "A": "Specification",
+      "B": "Evaluation",
+      "C": "Investigation",
+      "D": "Analysis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Evaluation is the process of assessing the strengths and weaknesses of a design, product, or system. It involves judging the quality, effectiveness, and performance of a design against certain criteria, standards, or requirements. Evaluation helps identify what works well and what doesn’t, providing valuable feedback for improvement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73171",
+    "passage": ""
   }
 ]
