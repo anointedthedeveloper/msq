@@ -1362,5 +1362,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61394",
     "passage": ""
+  },
+  {
+    "id": 61395,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "COBOL was developed for",
+    "options": {
+      "A": "business operations",
+      "B": "game developers",
+      "C": "mobile application developers",
+      "D": "search engines optimization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61395",
+    "passage": ""
   }
 ]
