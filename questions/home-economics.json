@@ -2707,5 +2707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73302",
     "passage": ""
+  },
+  {
+    "id": 73303,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Foods are preserved for the following reasons except to ............",
+    "options": {
+      "A": "Prevent spoilage",
+      "B": "Make them available out of a season",
+      "C": "Reduce the nutritional value",
+      "D": "Prevent insect infestation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Preserving foods does not aim to reduce their nutritional value. In fact, food preservation techniques aim to maintain or even enhance the nutritional value of foods. Preservation methods like canning, freezing, and dehydrating help retain nutrients, while others like fermentation and pickling can even increase the bioavailability of certain nutrients.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73303",
+    "passage": ""
   }
 ]
