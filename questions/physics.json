@@ -8167,5 +8167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14041",
     "passage": ""
+  },
+  {
+    "id": 14042,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A block of aluminum is heated electrically by a 25 W heater. if the temperature rises by 10°C in 5 minutes, the heat capacity of the aluminum is?",
+    "options": {
+      "A": "850 JK -1",
+      "B": "750 JK -1",
+      "C": "650 JK -1",
+      "D": "500 JK -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Heat supplied = Heat gained P x t = C ∆ Ø (25 x 5 x 60)/10 = 750 JK-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14042",
+    "passage": ""
   }
 ]
