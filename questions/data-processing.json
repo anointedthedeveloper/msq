@@ -8188,5 +8188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69804",
     "passage": ""
+  },
+  {
+    "id": 69805,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Use the information below to answer questions 13 and 14 . A student in the school hostel was able to upload some personal details on the school portal via the school's WiFi . The ISP and the hostel are both domiciled in the school premises. The physical infrastructure through which internet traffic are exchanged between the ISP in the school illustrated above and other ISP s is called",
+    "options": {
+      "A": "switch racks",
+      "B": "subscriber end points",
+      "C": "internet exchange point",
+      "D": "server farms"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The physical infrastructure through which internet traffic are exchanged between the ISP in the school illustrated above and other ISP s is called an internet exchange point or IXP. An IXP is a facility where multiple networks can connect to each other and exchange traffic. This allows ISPs to exchange traffic directly with each other, without having to go through a third party. This can improve performance and reduce costs. In the given scenario, the ISP in the school will connect to an IXP to exchange traffic with other ISPs. This will allow the student to upload personal details on the school portal, even if the student's ISP is different from the ISP that hosts the school portal. Server farms, subscriber end points, and switch racks are all part of the physical infrastructure of the internet, but they are not used to exchange traffic between ISPs. Server farms are facilities that house large numbers of servers. These servers are used to host websites, applications, and other services. Subscriber end points are the devices that connect users to the internet. This can include computers, smartphones, and tablets. Switch racks are cabinets that house switches. Switches are devices that connect devices on a network together.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69805",
+    "passage": ""
   }
 ]
