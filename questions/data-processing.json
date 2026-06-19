@@ -8651,5 +8651,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72345",
     "passage": ""
+  },
+  {
+    "id": 72346,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The Post Ofice Protocol (POP) is used to",
+    "options": {
+      "A": "interconnect devices on the Internet",
+      "B": "retrieve email from a mail server",
+      "C": "transfer file from a server to a client",
+      "D": "send email from one user to another."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Post Office Protocol (POP) is an application-layer Internet standard protocol used by email clients to re- trieve e-mail from a mail server.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72346",
+    "passage": ""
   }
 ]
