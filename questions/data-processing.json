@@ -5331,5 +5331,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58998",
     "passage": ""
+  },
+  {
+    "id": 58999,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The malware which appears as a harmless object but attack it's victims at the slightest opportunity is called",
+    "options": {
+      "A": "worm",
+      "B": "trojan horse",
+      "C": "macro virus",
+      "D": "logic bomb"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A Trojan Horse (malware) is a type of malware that disguises itself as legitimate code or software. Once inside the network, attackers can carry out any action that a legitimate user could perform, such as exporting files, modifying data, deleting files or otherwise altering the contents of the device.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58999",
+    "passage": ""
   }
 ]
