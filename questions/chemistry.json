@@ -6927,5 +6927,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2962",
     "passage": ""
+  },
+  {
+    "id": 2963,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The enzymes responsible for converting sucrose into two simple isomeric sugars is",
+    "options": {
+      "A": "maltase",
+      "B": "amylase",
+      "C": "invertase",
+      "D": "lactase"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The enzyme that converts sucrose into two simple sugars, glucose and fructose, is called sucrase (also known as invertase).\nSucrase is a specific enzyme that catalyzes the hydrolysis (breaking down with water) of sucrose, a disaccharide (a sugar made of two monosaccharides), into its two constituent monosaccharides (simple sugars): glucose and fructose. Invertase is another name for sucrase, and it is important in plants for metabolizing sucrose into simpler sugars for growth and energy.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2963",
+    "passage": ""
   }
 ]
