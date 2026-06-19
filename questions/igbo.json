@@ -2853,5 +2853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73818",
     "passage": ""
+  },
+  {
+    "id": 73819,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ha na-eri nri. \"Ha\" n'ahiriokwu a bụ",
+    "options": {
+      "A": "mbuuzo",
+      "B": "aha",
+      "C": "njụajụjụ",
+      "D": "nnochiahịa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks to identify the part of speech to which \"Ha\" belongs. \"Ha\" means \"they\", hence, it is a pronoun (Nnochiahịa).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73819",
+    "passage": ""
   }
 ]
