@@ -2681,5 +2681,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1343",
     "passage": ""
+  },
+  {
+    "id": 1344,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which\nbest completes each\nsentence :\nWe travelled all night and arrived .... the oyo motor park at six o'clock in the morning",
+    "options": {
+      "A": "by",
+      "B": "inside",
+      "C": "on",
+      "D": "in",
+      "E": "at"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1344",
+    "passage": ""
   }
 ]
