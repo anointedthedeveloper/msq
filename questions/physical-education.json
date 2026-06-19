@@ -4596,5 +4596,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70815",
     "passage": ""
+  },
+  {
+    "id": 70816,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which item in a first aid box helps to stop bleeding from a wound?",
+    "options": {
+      "A": "Adhesive bandage",
+      "B": "Pain reliever",
+      "C": "Sterile gauze",
+      "D": "Antibiotic ointment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sterile gauze is used to cover wounds and help control bleeding by providing a barrier that can absorb blood and promote clotting",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70816",
+    "passage": ""
   }
 ]
