@@ -3929,5 +3929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1688",
     "passage": ""
+  },
+  {
+    "id": 1691,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a constitutional monarchy,the authority to remove the head of state is exercised by the",
+    "options": {
+      "A": "head of government",
+      "B": "cabinet",
+      "C": "prime minister",
+      "D": "legislature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1691",
+    "passage": ""
   }
 ]
