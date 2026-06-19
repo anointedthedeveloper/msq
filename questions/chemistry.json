@@ -4617,5 +4617,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2147",
     "passage": ""
+  },
+  {
+    "id": 2148,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A fixed mass of gas has a volume of 92\\(cm^3\\) at 3ºC. What will be its volume at 18ºC if the pressure remains constant?",
+    "options": {
+      "A": "15.3cm 3",
+      "B": "87.3cm 3",
+      "C": "552.0cm 3",
+      "D": "97.0cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "According to Charle's law,\n\\(\\frac{V_1}{T_1}\\) =\\(\\frac{V_2}{T_2}\\) T\\(_1\\) = 3+273 = 276K  and T\\(_2\\) = 18 + 273 = 291K ∴ \\(\\frac{92}{276}\\) = \\(\\frac{V_2}{291}\\) V\\(_2\\) =  \\(\\frac{92}{291}\\) X 276 = 97.0\\(cm^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2148",
+    "passage": ""
   }
 ]
