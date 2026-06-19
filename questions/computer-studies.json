@@ -6942,5 +6942,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62510",
     "passage": ""
+  },
+  {
+    "id": 62511,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Arrange in hierarchical order by date the following inventions:\nI. - Census machine; Il. - Abacus; lll. - Slide rule; IV.- Difference engine.",
+    "options": {
+      "A": "I, lI, IlI and IV",
+      "B": "I, Il, III and IV",
+      "C": "I, II, IV and llI",
+      "D": "II, III, IV, and l"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "1 II. Abacus (circa 500 BC)\n2 III. Slide rule (17th century, around 1620)\n3 IV. Difference engine (early 19th century, 1822)\n4 I. Census machine (1890)\nSo the proper sequence is II, III, IV, I .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62511",
+    "passage": ""
   }
 ]
