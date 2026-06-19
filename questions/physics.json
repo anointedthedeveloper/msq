@@ -12611,5 +12611,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16350",
     "passage": ""
+  },
+  {
+    "id": 16351,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following correctly gives the relationship between linear speed V and angular speed ω of a body moving uniformly in a circle of radius r?",
+    "options": {
+      "A": "V = ωr",
+      "B": "V = ω 2 r",
+      "C": "V = ωr 2",
+      "D": "V 2 = ωr",
+      "E": "V = ω/r"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16351",
+    "passage": ""
   }
 ]
