@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75309",
     "passage": ""
+  },
+  {
+    "id": 75327,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "من مؤلف كتاب \"أدب الكاتب\"؟",
+    "options": {
+      "A": "ابن المقفح",
+      "B": "أحمد أمین",
+      "C": "ابن قتيبة",
+      "D": "الجاحظ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": ".\"أدب الكاتب\" is a classical grammar and literary text by Ibn Qutayba",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75327",
+    "passage": ""
   }
 ]
