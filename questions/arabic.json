@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75219",
     "passage": ""
+  },
+  {
+    "id": 75220,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\". I will travel tomorrow \":ترجم إلى العربية",
+    "options": {
+      "A": "سافرتُ غدًا",
+      "B": "سأسافر غدًا",
+      "C": "لن أسافر غدًّا",
+      "D": "أنا مسافرٌ اليوم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"I will travel\" = سأسافر and \"tomorrow\" = غدًا in Arabic language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75220",
+    "passage": ""
   }
 ]
