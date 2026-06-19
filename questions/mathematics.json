@@ -2560,5 +2560,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3360",
     "passage": ""
+  },
+  {
+    "id": 3367,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If -2 is the solution of the equation 2x + 1 - 3c = 2c + 3x - 7, find the value of c.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "-2 is the solution implies x = -2.\n2x + 1 - 3c = 2c + 3x - 7\n2(-2) + 1 - 3c = 2c + 3(-2) - 7\n-4 + 1 - 3c = 2c - 6 - 7\n-3 + 13 = 2c + 3c \\(\\implies\\) c = 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3367",
+    "passage": ""
   }
 ]
