@@ -7705,5 +7705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9268",
     "passage": ""
+  },
+  {
+    "id": 9269,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If 2x\\(^2\\) - kx - 12 is divisible by x-4, Find the value of k.",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2x2 - kx - 12 is divisible by x-4 implies x is a factor ∴ x = 4 f (4) implies 2(4)2 - k(4) - 12 = 0 32 - 4k - 12 = 0 -4k + 20 = 0 -4k = -20 k = 5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9269",
+    "passage": ""
   }
 ]
