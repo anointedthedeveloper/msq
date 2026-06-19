@@ -5933,5 +5933,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62602",
     "passage": ""
+  },
+  {
+    "id": 62603,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "An operating systemthat enables more than one user to access the same data is called",
+    "options": {
+      "A": "multi-tasking OS",
+      "B": "multi-user OS",
+      "C": "single user OS",
+      "D": "virtual memory OS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62603",
+    "passage": ""
   }
 ]
