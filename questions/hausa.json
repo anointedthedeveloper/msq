@@ -3567,5 +3567,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73859",
     "passage": ""
+  },
+  {
+    "id": 73860,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "A gundarin jawabi ne aka fi amfani da wadannan in ban da",
+    "options": {
+      "A": "kwanan wata",
+      "B": "sakin layi omi",
+      "C": "jeranta tunani",
+      "D": "hujjoji Kwarara"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In writing a letter, the following are essential except: Answer is kwanan wata (Kwanan wata refers to the date, which is not essential in a letter. Hujjoji kwarara refers to strong evidence, jeranta tunani is logical reasoning, sakin layi is clear language, and zaben kalmomi is appropriate vocabulary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73860",
+    "passage": ""
   }
 ]
