@@ -1753,5 +1753,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57751",
     "passage": ""
+  },
+  {
+    "id": 57754,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following defines heterogeneous distributed database?",
+    "options": {
+      "A": "Same DBMS is used at each location but data are not distributed across all nodes.",
+      "B": "Same DBSM  is used at each location with data distributed across all nodes.",
+      "C": "Different DBSM is used at each location and data are not distributed across all nodes.",
+      "D": "Different DBSM is used at each location and data are distributed across all nodes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A heterogeneous distributed database is defined by the presence of different Database Management Systems (DBMS) at each location, with each node possibly utilizing its own DBMS from various vendors or versions. In this setup, data may not be uniformly distributed across all nodes; it can be either centralized or selectively distributed depending on the system's architecture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57754",
+    "passage": ""
   }
 ]
