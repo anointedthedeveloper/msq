@@ -5794,5 +5794,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12941",
     "passage": ""
+  },
+  {
+    "id": 12943,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Metal rods of length 20m each are laid end to end to form a bridge at 25oC. What gap will be provided between consecutive rails for the bridge to withstand 75oC? [Linear expansivity of the material = 2.0 x 10-5K-1",
+    "options": {
+      "A": "0.20m",
+      "B": "0.22m",
+      "C": "0.25m",
+      "D": "0.02m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Safety gap = expansion of the rod\n= \\(\\alpha \\times L_0 \\times \\Delta t\\)\nwhere \\(\\alpha\\) = linear expansivity of the material\n\\(L_0\\) = Initial length of the material\n\\(\\Delta t\\) = Change in temperature\n\\(\\therefore\\) The safety gap = \\(2 \\times 10^{-5} \\times 20 \\times (75 - 25)\\)\n= \\(2 \\times 10^{-5} \\times 10^3\\)\n= \\(2 \\times 10^{-2} m\\)\n= 0.02 m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12943",
+    "passage": ""
   }
 ]
