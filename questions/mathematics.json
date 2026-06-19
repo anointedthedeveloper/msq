@@ -7789,5 +7789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9272",
     "passage": ""
+  },
+  {
+    "id": 9273,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the range of values of x which satisfy the inequalities 4x - 7 \\(\\leq\\) 3x and 3x - 4 \\(\\leq\\) 4x",
+    "options": {
+      "A": "-4 \\(\\leq\\) x \\(\\leq\\) 7",
+      "B": "-7 \\(\\leq\\) x \\(\\leq\\) 4",
+      "C": "x \\(\\geq\\) -7",
+      "D": "-7 \\(\\leq\\) x \\(\\leq\\) 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "4X - 7 \\(\\leq\\) 3X and 3X - 4 \\(\\leq\\) 4X 4X - 3X \\(\\leq\\) 7 and 3X - 4X \\(\\leq\\) 4 X \\(\\leq\\) 7 and -X \\(\\leq\\) 4 = X \\(\\geq\\) -4 Range -4 \\(\\leq\\) x \\(\\leq\\) 7\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9273",
+    "passage": ""
   }
 ]
