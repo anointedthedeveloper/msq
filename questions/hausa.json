@@ -5534,5 +5534,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74011",
     "passage": ""
+  },
+  {
+    "id": 74012,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Fito da wakilin suna na biyu, namiji, tilo",
+    "options": {
+      "A": "Ita",
+      "B": "Shi",
+      "C": "Kai",
+      "D": "Ke"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Shi. The question is asking for the second-person singular masculine pronoun, which is \"Shi\" in Hausa. The second-person singular masculine pronoun is used to refer to a male person being addressed, similar to \"you\" in English. The other options - Ita (her), Kai (you, plural), Ke (you, feminine), Ni (I) - do not fit this description,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74012",
+    "passage": ""
   }
 ]
