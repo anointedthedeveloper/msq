@@ -8881,5 +8881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14180",
     "passage": ""
+  },
+  {
+    "id": 14181,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If the pressure of the vapor on top of an enclosed liquid is equal to the atmospheric pressure, what will be the temperature of the liquid enclosed?",
+    "options": {
+      "A": "room temperature",
+      "B": "boiling point",
+      "C": "freezing point",
+      "D": "standard temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Liquid boils when its saturated vapor pressure is equal to the (external) atmospheric pressure.\nI.e. Boiling point at 100°c\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14181",
+    "passage": ""
   }
 ]
