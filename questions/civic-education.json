@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50099",
     "passage": ""
+  },
+  {
+    "id": 50101,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following should not be encouraged by a responsible parent",
+    "options": {
+      "A": "moral development",
+      "B": "religious fundamentalist",
+      "C": "spiritual  development",
+      "D": "respect for elders"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Religious fundamentalism refers to the belief of an individual or a group of individuals in the absolute authority of a sacred religious text or teachings of a particular religious leader, prophet,and/ or God . These fundamentalists believe that their religion is beyond any form of criticism, and should therefore also be forced upon others. A responsible parent wouldnt encourage their children to be religious fundamentalist.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50101",
+    "passage": ""
   }
 ]
