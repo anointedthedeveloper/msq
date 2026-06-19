@@ -2202,5 +2202,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1497",
     "passage": ""
+  },
+  {
+    "id": 1498,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The air pollutant unknown in nature is",
+    "options": {
+      "A": "NO",
+      "B": "CO",
+      "C": "HCHO",
+      "D": "DDT"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "DDT is not found naturally in the environment as it is a synthetic chemical compound that was created for use as an insecticide. On the other hand, NO (nitric oxide), CO (carbon monoxide), and HCHO (formaldehyde) can all be found in nature to some extent, either as byproducts of natural processes or produced by living organisms.DDT (Dichlorodiphenyltrichloroethane) is an air pollutant that is not found in nature\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1498",
+    "passage": ""
   }
 ]
