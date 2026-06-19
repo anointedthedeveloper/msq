@@ -3847,5 +3847,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75225",
     "passage": ""
+  },
+  {
+    "id": 75231,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Lagos, Oyo, Ondo et Ogun se trouvent à du pays Nigeria.",
+    "options": {
+      "A": "l'ouest",
+      "B": "le nord",
+      "C": "le sud",
+      "D": "l'est"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "These Nigerian states are geographically located in the western region.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75231",
+    "passage": ""
   }
 ]
