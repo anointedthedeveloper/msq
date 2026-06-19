@@ -11625,5 +11625,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22346",
     "passage": ""
+  },
+  {
+    "id": 22347,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Evaluate \\(\\frac{0.009}{0.012}\\), leaving your answer in standard form.",
+    "options": {
+      "A": "7.5 x 10 2",
+      "B": "7.5 x 10 1",
+      "C": "7.5 x 10 -1",
+      "D": "7.5 x 10 -2",
+      "E": "7.5 x 10 -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{0.009}{0.012}\\) =\\(\\frac{0.009}{0.012}\\) = \\(\\frac{9}{12}\\) = 0.75 =\\(7.5 \\times 10^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22347",
+    "passage": ""
   }
 ]
