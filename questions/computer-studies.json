@@ -10049,5 +10049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62748",
     "passage": ""
+  },
+  {
+    "id": 62749,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "What will the following BASIC statement produce? PRINT \"Afrikom Computer School\" A .",
+    "options": {
+      "A": "blank on Screen message.",
+      "B": "An error indicating on the screen.",
+      "C": "Afrikon Computer School displayed on the screen.",
+      "D": "Afrikom Computer School printed on paper."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The BASIC statement 'PRINT \"Afrikom Computer School\"' will output the text 'Afrikom Computer School' to the screen. The PRINT command in BASIC is used to output or display text or variables on the screen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62749",
+    "passage": ""
   }
 ]
