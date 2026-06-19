@@ -13230,5 +13230,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7330",
     "passage": ""
+  },
+  {
+    "id": 7331,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A document sent by a seller to inform a buyer about the prices of goods is the?",
+    "options": {
+      "A": "catalogue",
+      "B": "price list",
+      "C": "credit note",
+      "D": "proforma invoice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A price list is simply a list giving the prices of items for sale.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7331",
+    "passage": ""
   }
 ]
