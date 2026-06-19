@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73244",
     "passage": ""
+  },
+  {
+    "id": 73245,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Cotton fabrics should not be stored in a damp place to avoid being affected by",
+    "options": {
+      "A": "Ant",
+      "B": "Moth",
+      "C": "Insect",
+      "D": "Mildew"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cotton fabrics should not be stored in a damp place because moisture can cause mildew to grow, which can damage or discolor the fabric. Mildew is a type of fungus that thrives in damp environments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73245",
+    "passage": ""
   }
 ]
