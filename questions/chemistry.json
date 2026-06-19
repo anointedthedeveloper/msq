@@ -2517,5 +2517,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1559",
     "passage": ""
+  },
+  {
+    "id": 1560,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A gas that is not associated with global warming is",
+    "options": {
+      "A": "CO 2",
+      "B": "SO 3",
+      "C": "CH 4",
+      "D": "H 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The compression ratio of hydrogen is much higher as compared to traditional fuels, which boosts the efficiency and minimizes the carbon emission. Many domestic resources might be utilized to produce hydrogen, which could generate no greenhouse emissions. However, hydrogen gas is not directly a greenhouse gas, even though its chemical reactions change the abundances of the greenhouse gases methane, ozone etc. Option D is the correct answer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1560",
+    "passage": ""
   }
 ]
