@@ -3022,5 +3022,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68294",
     "passage": ""
+  },
+  {
+    "id": 68295,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "____ is the study of the structure and relationship between body parts",
+    "options": {
+      "A": "Anatomy",
+      "B": "Sociology",
+      "C": "physiology",
+      "D": "health education"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Anatomy is a branch of natural science that deals with the structural organization of living things.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68295",
+    "passage": ""
   }
 ]
