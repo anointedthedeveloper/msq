@@ -8188,5 +8188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9292",
     "passage": ""
+  },
+  {
+    "id": 9293,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "On a pie chart there are six sectors of which four angles are 30°, 45°, 60°, 90° and the remaining two angles are in the ratio 2:1. Find the smallest angles of the remaining two angles.",
+    "options": {
+      "A": "15 o",
+      "B": "30 o",
+      "C": "45 o",
+      "D": "60 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "30 + 45 + 60 + 90 + 2x + x = 360° 225 + 3x = 360 3x = 360 - 225 3x = 135 x = 45°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9293",
+    "passage": ""
   }
 ]
