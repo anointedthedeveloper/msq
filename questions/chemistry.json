@@ -1845,5 +1845,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1480",
     "passage": ""
+  },
+  {
+    "id": 1481,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A mixture of iodine and sulphur crystals can be separated by treatment with?",
+    "options": {
+      "A": "Water to filter off sulphur",
+      "B": "carbon (IV) sulphide to filter off iodine",
+      "C": "ethanoic acid to filter off sulphur",
+      "D": "methanol to filter off iodine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A mixture of iodine and sulphur can be separated by adding Carbon disulphide that is (CS₂) then stir the solution and filter it . As sulphur dissolved in CS₂, so it come into filter and got separated from the mixture.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1481",
+    "passage": ""
   }
 ]
