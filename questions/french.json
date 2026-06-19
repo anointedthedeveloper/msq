@@ -5170,5 +5170,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75879",
     "passage": ""
+  },
+  {
+    "id": 75880,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"lundi\" est un :",
+    "options": {
+      "A": "pays",
+      "B": "jour de la semaine",
+      "C": "mois",
+      "D": "saison"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The French word \"lundi\" translates to \"Monday\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75880",
+    "passage": ""
   }
 ]
