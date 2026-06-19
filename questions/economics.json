@@ -922,5 +922,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/455",
     "passage": ""
+  },
+  {
+    "id": 456,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of these would NOT  increase population of a country",
+    "options": {
+      "A": "Increase in death rate",
+      "B": "Decrease in birth rate",
+      "C": "Emigration",
+      "D": "Migration",
+      "E": "Better medical facilities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/456",
+    "passage": ""
   }
 ]
