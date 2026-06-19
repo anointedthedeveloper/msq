@@ -2615,5 +2615,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1340",
     "passage": ""
+  },
+  {
+    "id": 1341,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : The giant hydro-electric project is among the .... of colonial rule in Southern Africa.",
+    "options": {
+      "A": "inheritance",
+      "B": "remnants",
+      "C": "legacies",
+      "D": "evidence",
+      "E": "trappings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The complete sentence would be: \"The giant hydro-electric project is among the legacies of colonial rule in Southern Africa.\"\nA \"legacy\" refers to something left behind or inherited from the past, often used in the context of historical or cultural influence. In this case, the hydro-electric project is seen as one of the enduring outcomes or legacies of colonial rule in Southern Africa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1341",
+    "passage": ""
   }
 ]
