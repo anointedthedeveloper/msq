@@ -13734,5 +13734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7366",
     "passage": ""
+  },
+  {
+    "id": 7367,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A computer component that decodes and interprets instructions and also directs program implementation is?",
+    "options": {
+      "A": "memory unit",
+      "B": "central processing unit",
+      "C": "control unit",
+      "D": "system unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A central processing unit (CPU) is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, logical, control and input/output (I/O) operations specified by the instructions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7367",
+    "passage": ""
   }
 ]
