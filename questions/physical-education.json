@@ -6191,5 +6191,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76460",
     "passage": ""
+  },
+  {
+    "id": 76468,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "During physical activity, what is the key role of the trachea in maintaining a high level of performance?",
+    "options": {
+      "A": "It remains a clear and open airway to facilitate the rapid flow of air.",
+      "B": "It helps in the humidification of the air to prevent dehydration.",
+      "C": "It contracts to force air out of the lungs more quickly.",
+      "D": "It widens to allow a larger volume of air to pass to the lungs."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During physical activity, your muscles demand more oxygen to produce energy efficiently, and they produce more carbon dioxide as waste. The trachea, often referred to as the \"windpipe,\" plays a crucial role by serving as a rigid, open passageway for air to travel from the nose and mouth to the lungs. Its C-shaped rings of cartilage prevent it from collapsing, even during heavy breathing, ensuring uninterrupted airflow. While it does also help filter, warm, and humidify air, its primary performance-related function is to stay open and unobstructed so that air can move quickly and efficiently in and out of the lungs. Without this clear airway, oxygen delivery to muscles would drop/reducing endurance and performance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76468",
+    "passage": ""
   }
 ]
