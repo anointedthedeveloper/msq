@@ -12082,5 +12082,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64320",
     "passage": ""
+  },
+  {
+    "id": 64321,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "___________ is when someone steals another persons identity.",
+    "options": {
+      "A": "Cyber bullying",
+      "B": "Identity Theft",
+      "C": "Identity Phase",
+      "D": "Cyber Know How"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Identity theft occurs when someone uses another person's personal identifying information, like their name, identifying number, or credit card number, without their permission, to commit fraud or other crimes. The term identity theft was coined in 1964",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64321",
+    "passage": ""
   }
 ]
