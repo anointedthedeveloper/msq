@@ -13532,5 +13532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5063",
     "passage": ""
+  },
+  {
+    "id": 5065,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the option nearest in meaning to the word(s) or phrase underlined : The story is rather hard to believe",
+    "options": {
+      "A": "incredulous",
+      "B": "incredible",
+      "C": "superstitious",
+      "D": "untenable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Option B is most suitable as it implies 'disbelieving yet true' as opposed to Option A which implies 'disbelieving because it's false'",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5065",
+    "passage": ""
   }
 ]
