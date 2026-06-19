@@ -3672,5 +3672,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1893",
     "passage": ""
+  },
+  {
+    "id": 1894,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "The hepatic portal vein is unique because it",
+    "options": {
+      "A": "carries deoxygenated blood",
+      "B": "begins and ends with capillaries",
+      "C": "is the largest vein in mammals",
+      "D": "carries digested food",
+      "E": "is the shortest vein in mammals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The hepatic portal vein is unique because it:\nEnsures the liver processes ingested substances first : The hepatic portal vein ensures that substances ingested are first processed by the liver before reaching the rest of the body. This allows the liver to detoxify toxins and absorb nutrients.\nCarries blood to the liver : Unlike most veins, which carry blood to the heart, the hepatic portal vein carries blood to the liver. Carries both oxygenated and deoxygenated blood : The hepatic portal vein carries partially deoxygenated blood from the gastrointestinal tract, pancreas, spleen, and gallbladder, along with oxygenated blood from the hepatic artery. Supplies nutrients and toxins to the liver : The hepatic portal vein delivers nutrients and toxins to the liver, which are then processed by the liver. Being unique means what can it do that other parts cannot do or what makes it stand out. From the given explanation above options A and D are correct, so it's controversial.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1894",
+    "passage": ""
   }
 ]
