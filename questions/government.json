@@ -5925,5 +5925,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2411",
     "passage": ""
+  },
+  {
+    "id": 2414,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A right enjoyed by citizens but denied non-citizens is the right to",
+    "options": {
+      "A": "freedom of worship",
+      "B": "life,liberty and security",
+      "C": "vote and be voted for",
+      "D": "equality before the law"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2414",
+    "passage": ""
   }
 ]
