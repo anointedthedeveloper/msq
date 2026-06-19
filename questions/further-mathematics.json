@@ -3060,5 +3060,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50495",
     "passage": ""
+  },
+  {
+    "id": 50498,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Four fair coins are tossed once. Calculate the probability of having equal heads and tails.",
+    "options": {
+      "A": "\\(\\frac{1}{4}\\)",
+      "B": "\\(\\frac{3}{8}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{15}{16}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let \\(p(head) = p = \\frac{1}{2}\\) and \\(p(tail) = q = \\frac{1}{2}\\)\n\\((p + q)^{4} = p^{4} + 4p^{3}q + 6p^{2}q^{2} + 4pq^{3} + q^{4}\\)\nThe probability of equal heads and tails = \\(6p^{2}q^{2} = 6(\\frac{1}{2}^{2})(\\frac{1}{2}^{2})\\)\n= \\(\\frac{6}{16} = \\frac{3}{8}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50498",
+    "passage": ""
   }
 ]
