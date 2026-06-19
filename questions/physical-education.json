@@ -1930,5 +1930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64464",
     "passage": ""
+  },
+  {
+    "id": 64466,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The start, pacing and finishing are the three ........ of sprinting.",
+    "options": {
+      "A": "Aces",
+      "B": "Cases",
+      "C": "Faces",
+      "D": "Phases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "These are the three phases of sprinting",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64466",
+    "passage": ""
   }
 ]
