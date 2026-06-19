@@ -9923,5 +9923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77099",
     "passage": ""
+  },
+  {
+    "id": 77100,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The roles of a database administrator include the following except",
+    "options": {
+      "A": "aiding and abetting fraud",
+      "B": "backup and receiving the database",
+      "C": "ensuring database security is implemented to safeguard the data",
+      "D": "creating new databases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The role may include capacity planning, installation, configuration, database design, migration, performance monitoring, security, troubleshooting, as well as backup and data recovery.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77100",
+    "passage": ""
   }
 ]
