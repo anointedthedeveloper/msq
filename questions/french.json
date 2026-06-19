@@ -291,5 +291,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48125",
     "passage": ""
+  },
+  {
+    "id": 48126,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Le pére de l'auteur était généralement",
+    "options": {
+      "A": "méchant",
+      "B": "avare",
+      "C": "ravailleur",
+      "D": "triste"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/eYTtzCl69BDPjjJ4IS6004g9gPUvpJSX6XHM5Inm.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890489/myschool/french/eYTtzCl69BDPjjJ4IS6004g9gPUvpJSX6XHM5Inm.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48126",
+    "passage": ""
   }
 ]
