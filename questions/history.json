@@ -6981,5 +6981,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63657",
     "passage": ""
+  },
+  {
+    "id": 63659,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which constitution laid the foundation for the establishment of political parties in Nigeria?",
+    "options": {
+      "A": "The Clifford constitution of 1922",
+      "B": "The Richards constitution of 1946",
+      "C": "The Macpherson constitution of 1951",
+      "D": "The Lyttleton constitution of 1954"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Clifford's constitution of 1922 introduced Elective principles which laid the foundation for the establishment of political parties in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63659",
+    "passage": ""
   }
 ]
