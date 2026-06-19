@@ -4848,5 +4848,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58883",
     "passage": ""
+  },
+  {
+    "id": 58886,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following statements explains information processing",
+    "options": {
+      "A": "Saving documents in a device",
+      "B": "Changing information detectable by an observer",
+      "C": "Data upload to server",
+      "D": "Transfer of information between devices"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Information processing is the manipulation of data to produce useful information.  Processing information involves taking raw information and making it more useful by putting it into context. Hence OPTION B is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58886",
+    "passage": ""
   }
 ]
