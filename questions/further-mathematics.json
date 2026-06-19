@@ -3861,5 +3861,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50593",
     "passage": ""
+  },
+  {
+    "id": 50595,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Find the coefficient of \\(x^3\\) in the binomial expansion of \\((3x + 4)^4\\) in ascending powers of x.",
+    "options": {
+      "A": "432",
+      "B": "194",
+      "C": "144",
+      "D": "108"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\((3x + 4)^{4} = ^{4}C_{0}(3x)^{0}(4)^{4} + ^{4}C_{1}(3x)^{1}(4)^{3} + ^{4}C_{2}(3x)^{2}(4)^{2} + ^{4}C_{3}(3x)^{3}(4)^{1} + ^{4}C_{4}(3x)^{4}(4)^{0}\\)\n\\(x^{3} = ^{4}C_{3}(3x)^{3}(4) = \\frac{4!}{3!1!} \\times 3^{3} \\times 4\\)\n= \\(432x^{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50595",
+    "passage": ""
   }
 ]
