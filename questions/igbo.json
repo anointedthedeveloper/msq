@@ -2370,5 +2370,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73794",
     "passage": ""
+  },
+  {
+    "id": 73795,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ana m eri nri. Translate this sentence to English.",
+    "options": {
+      "A": "I am dancing for food",
+      "B": "All were eating",
+      "C": "I am eating food",
+      "D": "They are eating food"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "I am eating food (Ana m eri nri means \"I am eating food\" in Igbo). The question asks for the translation of \"Ana m eri nri\", and the answer is \"I am eating food\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73795",
+    "passage": ""
   }
 ]
