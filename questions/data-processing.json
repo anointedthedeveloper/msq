@@ -8441,5 +8441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72335",
     "passage": ""
+  },
+  {
+    "id": 72336,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "One reason for using Computer Aided Design in manufacturing is that",
+    "options": {
+      "A": "it uses few system resources",
+      "B": "manufacturing time is reduced.",
+      "C": "designers do not need training to use it",
+      "D": "3D designs are easily produced with it."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Computer - Aided Design systems are capable of creating complex 3D models, simulations, and visualizations which significantly impacts manufacturing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72336",
+    "passage": ""
   }
 ]
