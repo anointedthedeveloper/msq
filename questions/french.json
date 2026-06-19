@@ -4099,5 +4099,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75404",
     "passage": ""
+  },
+  {
+    "id": 75405,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Tola et Tolu changent _ adresse.",
+    "options": {
+      "A": "ton",
+      "B": "leurs",
+      "C": "leur",
+      "D": "ma\r\n\r\nma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Tola et Tolu\" is plural, so we correctly use \"leurs\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75405",
+    "passage": ""
   }
 ]
