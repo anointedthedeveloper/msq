@@ -9364,5 +9364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3861",
     "passage": ""
+  },
+  {
+    "id": 3866,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "CH\\(_3\\)CH\\(_2\\)Cl + KCN → CH\\(_3\\)CH\\(_2\\)CN + KCl In the reaction above, the cyanide is",
+    "options": {
+      "A": "hydrophobic",
+      "B": "hydrophilic",
+      "C": "nucleophilic",
+      "D": "electrophilic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A nucleophile is considered an electron donating species, meaning it readily donates an electron pair to form a bond with another molecule, typically an electrophile, in a chemical reaction; essentially acting as a Lewis base.\nCN\\(^-\\) (cyanide ion) is considered a nucleophile. This is because it has a negative charge and a lone pair of electrons that it can donate to form a bond with a positively charged species, making it an electron-rich species characteristic of nucleophile.\nConversely, an electrophile is a chemical species that forms bonds with nucleophiles by accepting an electron pair. Because electrophiles accept electrons, they are Lewis acids.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3866",
+    "passage": ""
   }
 ]
