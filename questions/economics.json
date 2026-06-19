@@ -328,5 +328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/195",
     "passage": ""
+  },
+  {
+    "id": 196,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A Tax which takes a higher percentage from higher incomes is called?",
+    "options": {
+      "A": "a regressive tax",
+      "B": "a progressive tax",
+      "C": "a proportional tax",
+      "D": "an indirect tax",
+      "E": "a direct tax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/196",
+    "passage": ""
   }
 ]
