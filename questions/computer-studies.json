@@ -13279,5 +13279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64386",
     "passage": ""
+  },
+  {
+    "id": 64387,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How many types of booting are there?",
+    "options": {
+      "A": "5",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There are 2 types of booting cold and warm booting",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64387",
+    "passage": ""
   }
 ]
