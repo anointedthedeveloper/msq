@@ -4716,5 +4716,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73914",
     "passage": ""
+  },
+  {
+    "id": 73915,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Ware bare.",
+    "options": {
+      "A": "Dogo",
+      "B": "Fari",
+      "C": "Baki",
+      "D": "Ja"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is Dogo. The question is asking which of the options is not among the list of names. Dogo is a masculine name, and the other options (Baki, Fari, Ja, and Rawaya) are all feminine names. Therefore, Dogo is the one that is not among the list of feminine names.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73915",
+    "passage": ""
   }
 ]
