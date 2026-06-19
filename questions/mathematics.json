@@ -2980,5 +2980,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3395",
     "passage": ""
+  },
+  {
+    "id": 3396,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Calculate the mean deviation of the set of numbers 7, 3, 14, 9, 7, and 8.",
+    "options": {
+      "A": "13/6",
+      "B": "5/2",
+      "C": "7/6",
+      "D": "7/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "x 7 3 14 9 7 8 Total \\(x - \\bar{x}\\) -1 -5 6 1 -1 0 \\(|x - \\bar{x}|\\) 1 5 6 1 1 0 14\nMean : \\(\\frac{7 + 3 + 14 + 9 + 7 + 8}{6} = \\frac{48}{6} = 8\\)\nMean deviation : \\(\\frac{\\sum |x - \\bar{x}|}{n} = \\frac{14}{6} = \\frac{7}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3396",
+    "passage": ""
   }
 ]
