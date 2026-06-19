@@ -13167,5 +13167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7326",
     "passage": ""
+  },
+  {
+    "id": 7328,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A warehouse which is used to store goods whose customs duty is not yet paid is a?",
+    "options": {
+      "A": "wholesale warehouse",
+      "B": "bonded warehouse",
+      "C": "public warehouse",
+      "D": "branded warehouse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A bonded warehouse is a customs-controlled warehouse for the retention of imported goods until the duty owed is paid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7328",
+    "passage": ""
   }
 ]
