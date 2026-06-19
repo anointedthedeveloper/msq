@@ -7084,5 +7084,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67143",
     "passage": ""
+  },
+  {
+    "id": 67144,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The process of sending and receiving information from one place to another is called information",
+    "options": {
+      "A": "Synchronization",
+      "B": "Transfer",
+      "C": "Transmission",
+      "D": "Technology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Information transmission refers to the process of transferring information between two or more digital devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67144",
+    "passage": ""
   }
 ]
