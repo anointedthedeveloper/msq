@@ -3606,5 +3606,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1887",
     "passage": ""
+  },
+  {
+    "id": 1890,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Growing yam tendrils climb for support. This growth response is",
+    "options": {
+      "A": "haptotropism",
+      "B": "geotropism",
+      "C": "phototropism",
+      "D": "hydrotropism",
+      "E": "chemotropism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "-  Haptotropism / thigmotropism is the movement or change in orientation of a plant's growth as a reaction to touch. The orienting factor is generally a hard surface that can change the direction of the plant's growth or the growth of one of its organs.\n- The movement of parts of a plant (especially tendrils) in response to a touch stimulus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1890",
+    "passage": ""
   }
 ]
