@@ -8167,5 +8167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69803",
     "passage": ""
+  },
+  {
+    "id": 69804,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Use the information below to answer questions 13 and 14 . A student in the school hostel was able to upload some personal details on the school portal via the school's WiFi . The ISP and the hostel are both domiciled in the school premises. What type of network is illustrated above?",
+    "options": {
+      "A": "MAN",
+      "B": "WAN",
+      "C": "LAN",
+      "D": "PAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The type of network illustrated above is a LAN or Local Area Network. A LAN is a network that connects devices in a limited area, such as a school, office, or home. LANs are typically used to connect computers, printers, and other devices together. In the given scenario, the student is using the school's WiFi to upload personal details on the school portal. The WiFi is a wireless LAN that connects the student's device to the school's network. The ISP and the hostel are both domiciled in the school premises, which means that they are all part of the same LAN. MAN or Metropolitan Area Network is a network that covers a larger area than a LAN, such as a city or a campus. WAN or Wide Area Network is a network that covers a large geographic area, such as a country or the world. PAN or Personal Area Network is a network that connects devices close to a person, such as a laptop, smartphone, and printer. In this case, the network is limited to the school premises, so it is a LAN.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69804",
+    "passage": ""
   }
 ]
