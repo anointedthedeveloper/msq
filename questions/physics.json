@@ -15647,5 +15647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24202",
     "passage": ""
+  },
+  {
+    "id": 24206,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The diagram above represents the trajectory of a projectile with an initial velocity U. Calculate the time taken to reach the maximum height. (Take g as acceleration due to gravity)",
+    "options": {
+      "A": "Usinθ/2g",
+      "B": "2Usinθ/g",
+      "C": "Ucosθ/g",
+      "D": "2Ucosθ/g",
+      "E": "Usinθ/g"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12475454175_wcphy19923.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892086/myschool/physics/12475454175_wcphy19923.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24206",
+    "passage": ""
   }
 ]
