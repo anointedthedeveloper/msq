@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64198",
     "passage": ""
+  },
+  {
+    "id": 64199,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In a game of volleyball, a player is allowed to hit the ball ...... time(s)",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "1",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Teams may only hit the volleyball a maximum of three times(in addition to blocking)for returning the ball.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64199",
+    "passage": ""
   }
 ]
