@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75238",
     "passage": ""
+  },
+  {
+    "id": 75240,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In drawing, a vanishing point is used to create?",
+    "options": {
+      "A": "Pattern",
+      "B": "Emphasis",
+      "C": "Unity",
+      "D": "Depth and perspective"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Vanishing points make two-dimensional drawings appear three-dimensional.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75240",
+    "passage": ""
   }
 ]
