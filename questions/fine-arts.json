@@ -2245,5 +2245,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75372",
     "passage": ""
+  },
+  {
+    "id": 75373,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which Nigerian city is historically famous for bronze casting?",
+    "options": {
+      "A": "Ilorin",
+      "B": "Zaria",
+      "C": "Ibadan",
+      "D": "Benin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Benin City is famous for its ancient bronze casting tradition , known as the Benin Bronzes . These artworks were produced by skilled guilds for the Benin royal court and are celebrated worldwide for their detailed craftsmanship and historical importance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75373",
+    "passage": ""
   }
 ]
