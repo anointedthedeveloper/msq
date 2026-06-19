@@ -350,5 +350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/196",
     "passage": ""
+  },
+  {
+    "id": 197,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following statements is true?",
+    "options": {
+      "A": "A proportional tax is one which takes from high income people a larger fraction of their income than it takes for low income people",
+      "B": "taxes on commodities of services which can be shifted elsewhere are usually called direct taxes",
+      "C": "The sole proprietor is a legal entity",
+      "D": "the influence of demand on price will be smallest on the short run",
+      "E": "the cost of production is the most important determining factor of supply in the long run"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the short run, demand is likely to be more inelastic (low = less than 1). If people are used to buying a good, then when the price goes up, they will tend to keep buying it out of habit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/197",
+    "passage": ""
   }
 ]
