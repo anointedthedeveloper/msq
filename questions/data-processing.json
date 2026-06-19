@@ -4680,5 +4680,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58860",
     "passage": ""
+  },
+  {
+    "id": 58864,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The modern definition of a computing machine is based on a concept known as",
+    "options": {
+      "A": "circuit switching",
+      "B": "digital circuit",
+      "C": "packet switching",
+      "D": "stored program"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58864",
+    "passage": ""
   }
 ]
