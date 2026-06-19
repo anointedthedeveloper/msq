@@ -11830,5 +11830,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64308",
     "passage": ""
+  },
+  {
+    "id": 64309,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the shortcut key to \"undo\" last action on a Microsoft word page?",
+    "options": {
+      "A": "Ctrl + A",
+      "B": "Ctrl + U",
+      "C": "Ctrl + X",
+      "D": "Ctrl + Z"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To undo an action press Ctrl+Z. If you prefer your mouse, click Undo on the Quick Access Toolbar. You can press Undo (or CTRL+Z) repeatedly if you want to undo multiple steps",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64309",
+    "passage": ""
   }
 ]
