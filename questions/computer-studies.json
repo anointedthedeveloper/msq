@@ -16221,5 +16221,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67833",
     "passage": ""
+  },
+  {
+    "id": 67834,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A device that sends and receives printed pages or images over telephone lines by digitizing the material with an internal optical scanner and transmitting the information as electronic signals is a",
+    "options": {
+      "A": "ATM",
+      "B": "scanner",
+      "C": "GSM",
+      "D": "fax machine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Fax machine is a device that sends and receives printed pages or images over telephone lines by digitizing the material with an internal optical scanner and transmitting the information as electronic signals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67834",
+    "passage": ""
   }
 ]
