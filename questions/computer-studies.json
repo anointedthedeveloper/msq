@@ -7736,5 +7736,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62551",
     "passage": ""
+  },
+  {
+    "id": 62552,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The process of restarting the computer system is known as?",
+    "options": {
+      "A": "cold booting",
+      "B": "hard booting",
+      "C": "hot bathing",
+      "D": "warm booting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62552",
+    "passage": ""
   }
 ]
