@@ -8461,5 +8461,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14068",
     "passage": ""
+  },
+  {
+    "id": 14072,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A generator is on daily use and in the process, ten 60 W and five 40 W tungsten bulbs are on for the same time interval. the energy consumed daily is?",
+    "options": {
+      "A": "0.96 kWh",
+      "B": "1.92 kWh",
+      "C": "9.60 kWh",
+      "D": "19.20 kWh"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Energy consumed = power x time = (60 W x 10 + 40 W x 5) x 24 h = (600 W + 200 W ) x 24 h = 800 W x 24h = 19200 w h = 19.2 kWh\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14072",
+    "passage": ""
   }
 ]
