@@ -13566,5 +13566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7354",
     "passage": ""
+  },
+  {
+    "id": 7355,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The coordinating section of the central processing unit that manages the flow of data is the?",
+    "options": {
+      "A": "arithematic logic unit",
+      "B": "control unit",
+      "C": "magnetic unit",
+      "D": "register"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The control unit of the central processing unit regulates and integrates the operations of the computer. It directs the flow of data between the CPU and the other devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7355",
+    "passage": ""
   }
 ]
