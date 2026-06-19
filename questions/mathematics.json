@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/547",
     "passage": ""
+  },
+  {
+    "id": 549,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the value of x for which the function y = x\\(^3\\) - x has a minimum value.",
+    "options": {
+      "A": "\\(-\\sqrt{3}\\)",
+      "B": "\\(-\\frac{\\sqrt{3}}{3}\\)",
+      "C": "\\(\\frac{\\sqrt{3}}{3}\\)",
+      "D": "\\(\\sqrt{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "We are given the function: \\(y = x^3 - x\\)\nTo find the critical points, we set the derivative equal to zero: \\(3x^2 - 1 = 0\\) Solving this gives: \\(x = \\pm \\frac{1}{\\sqrt{3}}\\)\nUsing the second derivative test, we find that: \\(\\frac{d^2y}{dx^2} = 6x\\) - For \\( x = \\frac{1}{\\sqrt{3}} \\), \\( \\frac{d^2y}{dx^2} > 0 \\) (minimum). - For \\( x = -\\frac{1}{\\sqrt{3}} \\), \\( \\frac{d^2y}{dx^2} < 0 \\) (maximum).\nThus, the function \\( y = x^3 - x \\) has a minimum value at: \\(x = \\frac{1}{\\sqrt{3}} \\quad \\text{or approximately} \\quad x \\approx 0.577\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/549",
+    "passage": ""
   }
 ]
