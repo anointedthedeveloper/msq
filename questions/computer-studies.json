@@ -5166,5 +5166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62344",
     "passage": ""
+  },
+  {
+    "id": 62345,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The similarities between main memory and registers is that they are: I volatile Il under the direct control of the user ll protected by the system unit lIV for system use only?",
+    "options": {
+      "A": "I, II and IV only",
+      "B": "I, Ill and IV only",
+      "C": "II, Ill and IV only",
+      "D": "I, I, Ill and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62345",
+    "passage": ""
   }
 ]
