@@ -9272,5 +9272,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72404",
     "passage": ""
+  },
+  {
+    "id": 76955,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Who among the following scientists invented the punch card?",
+    "options": {
+      "A": "charles babbage",
+      "B": "herman hollerith",
+      "C": "gottfried wilhelm",
+      "D": "blaise pascal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hollerith first got his idea for the punch-card tabulation machine from watching a train conductor punch tickets. For his tabulation machine, he used the punch card invented in the early 1800s.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/76955",
+    "passage": ""
   }
 ]
