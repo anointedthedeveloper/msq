@@ -130,5 +130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/209",
     "passage": ""
+  },
+  {
+    "id": 210,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "What is the Nile valley best known for?",
+    "options": {
+      "A": "Industrial development",
+      "B": "Water navigation",
+      "C": "Commerce",
+      "D": "Development",
+      "E": "Hydro-electricity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/210",
+    "passage": ""
   }
 ]
