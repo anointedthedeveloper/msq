@@ -5793,5 +5793,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76379",
     "passage": ""
+  },
+  {
+    "id": 76382,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What corrective strategy best manages flatfoot?",
+    "options": {
+      "A": "Wear flexible flat shoes that allow natural flattening of the foot arch.",
+      "B": "Avoid walking barefoot on hard surfaces at all times to prevent collapse.",
+      "C": "Use orthotic insoles paired with regular intrinsic foot muscle strengthening",
+      "D": "Reduce physical activity significantly to avoid foot muscle fatigue."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Flatfoot, or pes planus, occurs when the medial longitudinal arch of the foot collapses, causing the entire sole to come into contact with the ground. This condition can lead to pain, altered gait, and increased risk of injuries up the kinetic chain, such as knee or hip problems. The best corrective strategy focuses on both supporting the arch and strengthening the muscles that maintain it. Orthotic insoles provide external support by elevating the arch, redistributing pressure more evenly across the foot, and improving alignment during walking or running. This mechanical correction helps reduce strain on the soft tissues and joints of the foot. However, orthotics alone are insufficient. The intrinsic foot muscles, especially those supporting the arch, need to be strengthened to provide active, dynamic support. Exercises like toe curls, marble pickups, and towel scrunches help improve muscular endurance and control, making the arch more resilient over time. In contrast, wearing flexible flat shoes can allow the arch to collapse further, worsening symptoms. Avoiding barefoot walking on hard surfaces can help reduce stress but does not address the underlying weakness. Reducing physical activity might decrease discomfort temporarily but ultimately leads to muscle weakening and poorer foot function. Thus, a combined approach of orthotic support with targeted strengthening exercises is the most effective long term management for flatfoot.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76382",
+    "passage": ""
   }
 ]
