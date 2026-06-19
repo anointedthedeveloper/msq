@@ -12943,5 +12943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64367",
     "passage": ""
+  },
+  {
+    "id": 64369,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The major function of a Database management system is _______________",
+    "options": {
+      "A": "Virus detection",
+      "B": "Cyber security",
+      "C": "Manipulation of data in a data base",
+      "D": "Store large data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The DBMS performs the function of manipulating the data in a data base, as well as managing the database structure.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64369",
+    "passage": ""
   }
 ]
