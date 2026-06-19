@@ -6802,5 +6802,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9225",
     "passage": ""
+  },
+  {
+    "id": 9226,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The graph above is represented by",
+    "options": {
+      "A": "y = x 3 - 3x - 2",
+      "B": "y = x 3 + 2x 2 - x - 2",
+      "C": "y = x 3 - 4x 2 + 5x - 2",
+      "D": "y = x 3 - 4x + 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/e7S3PGl1tx92PIjuTHck9juItciQPwxCT7HAgCQV.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868654/myschool/mathematics/e7S3PGl1tx92PIjuTHck9juItciQPwxCT7HAgCQV.png",
+    "correct_answer": "B",
+    "explanation": "x = -2, x = -1 and x = 1 then the factors; x+2, x+1 and x-1 Product of the factors; (x+2)(x+1)(x-1) = y = (x + 2)(x2 - x + x - 1) = y = (x+2)(x2-1) x3 - x + 2x2 - 2 = y x3 + 2x2 - x - 2 = y\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9226",
+    "passage": ""
   }
 ]
