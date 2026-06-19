@@ -10584,5 +10584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14355",
     "passage": ""
+  },
+  {
+    "id": 14359,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An object weighs 22 kg in water and 30kg in air. what is the upthrust exerted by the liquid on the object.\n[g = 10 ms\n2\n]",
+    "options": {
+      "A": "50 N",
+      "B": "520 N",
+      "C": "220 N",
+      "D": "80 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14359",
+    "passage": ""
   }
 ]
