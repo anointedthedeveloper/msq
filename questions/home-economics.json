@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73179",
     "passage": ""
+  },
+  {
+    "id": 73180,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A double-stitch seam can be used decoratively on a",
+    "options": {
+      "A": "Kaba",
+      "B": "Polo shirt",
+      "C": "Track suit",
+      "D": "Pair of jeans"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A kaba is a traditional Yoruba garment from Nigeria. A double-stitch seam can be used decoratively on it to add visual interest and emphasize construction details. Double-stitch seams often serve decorative purposes on cultural garments. In contrast, on garments like jeans or track suits, they are mostly used for reinforcement rather than decoration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73180",
+    "passage": ""
   }
 ]
