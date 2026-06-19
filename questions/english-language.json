@@ -12449,5 +12449,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4626",
     "passage": ""
+  },
+  {
+    "id": 4629,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which\nbest fills the gap\nin each sentence\n:\nThe boy thought that driving a car was not .... dangerous than riding a bicycle",
+    "options": {
+      "A": "so very",
+      "B": "particularly",
+      "C": "very",
+      "D": "any more",
+      "E": "any"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4629",
+    "passage": ""
+  },
+  {
+    "id": 4630,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence : I don't want .... from such a friend as Jimoh",
+    "options": {
+      "A": "any more advice",
+      "B": "no more advice",
+      "C": "any advices",
+      "D": "no advice",
+      "E": "any advice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The sentence already contains a negative marker “don’t” , so options with “no” (B and D) would create a double negative , which is ungrammatical in standard English. Also, the noun “advice” is uncountable , so we cannot use “advices” (C). This leaves A (any more advice) and E (any advice) . Both are grammatically correct, but the meaning differs slightly:\n“Any more advice” (A) → implies the speaker has already received advice from Jimoh and does not want further/additional advice from him. “Any advice” (E) → implies the speaker does not want any advice at all from Jimoh, whether past, present, or future.\nIn the context of the sentence, the stronger natural reading is that Jimoh has already been giving advice, and the speaker now rejects further input.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4630",
+    "passage": ""
   }
 ]
