@@ -7957,5 +7957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69793",
     "passage": ""
+  },
+  {
+    "id": 69794,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Artificial intelligence is a feature of",
+    "options": {
+      "A": "fifth generation computers",
+      "B": "third generation computers",
+      "C": "second generation computers",
+      "D": "fourth generation computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Artificial intelligence (AI) is a feature of fifth generation computers. The first generation of computers were mainframe computers that used vacuum tubes. The second generation of computers used transistors, which were smaller and more efficient than vacuum tubes. The third generation of computers used integrated circuits (ICs), which allowed for even more compact and powerful computers. The fourth generation of computers used microprocessors, which are even smaller and more powerful than ICs. Fifth generation computers are still in development, but they are expected to use artificial intelligence (AI) to perform tasks that are currently beyond the capabilities of human computers. For example, fifth generation computers could be used to translate languages, diagnose diseases, and write creative content.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69794",
+    "passage": ""
   }
 ]
