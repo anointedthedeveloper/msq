@@ -4226,5 +4226,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62268",
     "passage": ""
+  },
+  {
+    "id": 62269,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The keyboard command used to copy text in Ms-Word document is?",
+    "options": {
+      "A": "Shift+G.",
+      "B": "Ctrl+N.",
+      "C": "Ctrl + C.",
+      "D": "Ctrl+ Alt + C."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62269",
+    "passage": ""
   }
 ]
