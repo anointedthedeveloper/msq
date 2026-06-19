@@ -15934,5 +15934,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23196",
     "passage": ""
+  },
+  {
+    "id": 23197,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Write as a single fraction: \\(\\frac{5}{6r} - \\frac{3}{4r}\\)",
+    "options": {
+      "A": "r / 12",
+      "B": "12 / r",
+      "C": "1 / 6r",
+      "D": "r / 6",
+      "E": "1 / 12r"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(\\frac{5}{6r} - \\frac{3}{4r}\\)\n= \\(\\frac{10 - 9}{12r}\\)\n= \\(\\frac{1}{12r}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23197",
+    "passage": ""
   }
 ]
