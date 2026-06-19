@@ -4999,5 +4999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62336",
     "passage": ""
+  },
+  {
+    "id": 62337,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A common communication pathway shared by hard- ware components in the computer is called?",
+    "options": {
+      "A": "bus",
+      "B": "channel",
+      "C": "firmware",
+      "D": "register."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62337",
+    "passage": ""
   }
 ]
