@@ -9091,5 +9091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3822",
     "passage": ""
+  },
+  {
+    "id": 3826,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Calculate the number of moles of HCl present in 20cm\n3\nof a 0.75M solution of the acid",
+    "options": {
+      "A": "0.015 mole",
+      "B": "0.038 mole",
+      "C": "3.800 moles",
+      "D": "1.500 moles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3826",
+    "passage": ""
   }
 ]
