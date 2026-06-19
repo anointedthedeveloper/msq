@@ -10448,5 +10448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62767",
     "passage": ""
+  },
+  {
+    "id": 62768,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A single hexadecimal digit is represented by?",
+    "options": {
+      "A": "one bit.",
+      "B": "two bits.",
+      "C": "four bits",
+      "D": "eight bits."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A single hexadecimal digit can be represented by 4 binary digits (also known as a nibble (or nybble).)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62768",
+    "passage": ""
   }
 ]
