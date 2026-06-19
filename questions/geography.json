@@ -7660,5 +7660,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8187",
     "passage": ""
+  },
+  {
+    "id": 8188,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Rank of the following African rivers (Niger, Zarie, Zambezi and Nile) in order of navigability?",
+    "options": {
+      "A": "Nile, Niger, Zambezi, Zarie",
+      "B": "Niger, Nile, Zarie, Zambzei",
+      "C": "Zambezi, Niger, Nile, Zarie",
+      "D": "Nile, Zarie, Zambazei, Niger",
+      "E": "Zarie, Nile, Niger, Zambezi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8188",
+    "passage": ""
   }
 ]
