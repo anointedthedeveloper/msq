@@ -5401,5 +5401,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75895",
     "passage": ""
+  },
+  {
+    "id": 75896,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Il est_avocat de profession.",
+    "options": {
+      "A": "un",
+      "B": "des",
+      "C": "I'",
+      "D": "au"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The French term \"un avocat\" means \"a lawyer\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75896",
+    "passage": ""
   }
 ]
