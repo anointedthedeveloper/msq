@@ -14490,5 +14490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7424",
     "passage": ""
+  },
+  {
+    "id": 7425,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The major dealers on the stock market are the?",
+    "options": {
+      "A": "agents",
+      "B": "jobbers",
+      "C": "investors",
+      "D": "brokers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A broker is an individual or firm that acts as an intermediary between an investor and a securities exchange. Brokers are the major players in the stock exchange market.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7425",
+    "passage": ""
   }
 ]
