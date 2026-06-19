@@ -14553,5 +14553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7429",
     "passage": ""
+  },
+  {
+    "id": 7430,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An organizational structure that is military in nature is the?",
+    "options": {
+      "A": "line structure",
+      "B": "staff structure",
+      "C": "line and staff structure",
+      "D": "functional structure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a line structure organization, a supervisor exercises direct supervision over a subordinate. Also, authority flows from the top-most person in the organization to the person in the lowest ring. This is synonymous with the military structure where the chain of command is hierarchical with divisions and brigades responsible for administering groupings of smaller units.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7430",
+    "passage": ""
   }
 ]
