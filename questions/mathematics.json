@@ -13427,5 +13427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22695",
     "passage": ""
+  },
+  {
+    "id": 22696,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The bearing of a point X from a point Y is 074°. What is the bearing of Y from X?",
+    "options": {
+      "A": "106 o",
+      "B": "146 o",
+      "C": "164 o",
+      "D": "254 o",
+      "E": "286 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "< YXS = 74° (alternate angles, N\\(_1\\) S\\(_1\\) // N\\(_2\\) S\\(_2\\))\nN\\(_2\\) E\\(_2\\) S\\(_2\\) = 180°\n\\(\\therefore\\) Bearing of Y from X = 180° + 74°\n= 254°",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191120_093938%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908608/myschool/mathematics/IMG_20191120_093938%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/22696",
+    "passage": ""
   }
 ]
