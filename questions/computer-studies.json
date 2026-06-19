@@ -11305,5 +11305,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64116",
     "passage": ""
+  },
+  {
+    "id": 64117,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The device primarily used to provide hardcopy is the?",
+    "options": {
+      "A": "printer",
+      "B": "card reader",
+      "C": "computer console",
+      "D": "CRT"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Printer is an output device that is primarily used to provide hardcopy in the form of paper.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64117",
+    "passage": ""
   }
 ]
