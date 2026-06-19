@@ -17082,5 +17082,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69820",
     "passage": ""
+  },
+  {
+    "id": 69821,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following IP addresses can be used to access a locally running website on a user's computer?",
+    "options": {
+      "A": "127.1.0.1",
+      "B": "127.0.0.1",
+      "C": "1.172.0.0",
+      "D": "172.0.0.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The IP address that can be used to access a locally running website on a user's computer is \"127.0.0.1.\" The IP address \"127.0.0.1\" is known as the loopback address or localhost. It is used to refer to the user's own computer. When you enter \"127.0.0.1\" in a web browser's address bar, it directs the browser to connect to the local machine itself. This is commonly used for testing and development purposes when you want to access a website or application running on your own computer without going through the internet. The other IP addresses provided (\"172.0.0.0,\" \"1.172.0.0,\" and \"127.1.0.1\") are not typically used for this purpose and do not have the same loopback behavior as \"127.0.0.1.\" 172.0.0.0 is a private IP address range that is used for local networks. 1.172.0.0 is not a valid IP address. 127.1.0.1 is a loopback address, but it is not the loopback address for the local comp",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69821",
+    "passage": ""
   }
 ]
