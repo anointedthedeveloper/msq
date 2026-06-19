@@ -10287,5 +10287,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11107",
     "passage": ""
+  },
+  {
+    "id": 11108,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "In the diagram above, PQR is a straight line and PS is a tangent to the circle QRS with /PS/ = /SR/ and ∠SPR = 40°. Find ∠PSQ",
+    "options": {
+      "A": "40 o",
+      "B": "30 o",
+      "C": "20 o",
+      "D": "10 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8150738736_math200335.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868979/myschool/mathematics/8150738736_math200335.jpg",
+    "correct_answer": "A",
+    "explanation": "R = P (base ∠s of isc Δ, ps = RS) ∴R = 40° ∠PSQ = R (∠s in alternate segment) ∴∠PSQ = 40°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11108",
+    "passage": ""
   }
 ]
