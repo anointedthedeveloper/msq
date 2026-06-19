@@ -8839,5 +8839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9325",
     "passage": ""
+  },
+  {
+    "id": 9326,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Find the acute angle between the straight lines y = x and y = √3x",
+    "options": {
+      "A": "15 o",
+      "B": "30 o",
+      "C": "45 o",
+      "D": "60 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9326",
+    "passage": ""
   }
 ]
