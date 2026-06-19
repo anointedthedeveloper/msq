@@ -8293,5 +8293,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14047",
     "passage": ""
+  },
+  {
+    "id": 14048,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An object of height 4cm is placed in front of a cuboid pinhole camera of size 6 cm. if the image formed is 2 cm high, how far is the object from the pinhole?",
+    "options": {
+      "A": "3.0 cm",
+      "B": "8.0 cm",
+      "C": "12.0 cm",
+      "D": "16.0 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Magnification = \\(\\frac{\\text{image height}}{\\text{object height}} = \\frac{\\text{length camera}}{\\text{object distance from pin-hole}}\\) ∴\\(\\frac{2}{4} = \\frac{6}{X}\\) X = \\(\\frac{4 \\times 6}{2}\\) = 12 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14048",
+    "passage": ""
   }
 ]
