@@ -10774,5 +10774,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14385",
     "passage": ""
+  },
+  {
+    "id": 14386,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The ratio of the coefficient of linear expansion of two metals \\(\\frac{∝_1}{∝_2}\\) is 3:4. If, when heated through the same temperature change, the ratio of the increase in length of the two metals, \\(\\frac{e_1}{e_2}\\) is 1:2, the ratio of the original lengths \\(\\frac{l_1}{l_2}\\) is",
+    "options": {
+      "A": "8 / 3",
+      "B": "3 / 2",
+      "C": "2 / 3",
+      "D": "3 / 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ratio of their linear expansion = \\(\\frac{∝_1}{∝_2}\\)= 3:4. When heated to the same temperature range, the ratio of their increase in length \\(\\frac{e_1}{e_2}\\) = 1:2\nSince e = l \\(\\alpha \\Delta T\\) and \\(\\Delta T\\) is same,\n\\(\\frac{e_1}{e_2} = \\frac{l_1 \\alpha_1}{l_2 \\alpha_2}\\)\n\\(\\frac{1}{2} = \\left( \\frac{l_1}{l_2} \\right) \\times \\left( \\frac{3}{4} \\right)\\)\n\\(\\frac{l_1}{l_2} = \\frac{1}{2} \\times \\frac{4}{3} = \\frac{2}{3}\\)\nSo, \\(\\frac{l_1}{l_2}\\) = 2:3.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14386",
+    "passage": ""
   }
 ]
