@@ -526,5 +526,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15826",
     "passage": ""
+  },
+  {
+    "id": 15828,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The most effective method of controlling or preventing viral diseases in plants is by",
+    "options": {
+      "A": "planting resistant varieties",
+      "B": "spraying crops regularly",
+      "C": "burning affected crops",
+      "D": "practising crop rotation",
+      "E": "treating seeds with chemicals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15828",
+    "passage": ""
   }
 ]
