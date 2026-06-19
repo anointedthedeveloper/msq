@@ -2439,5 +2439,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2316",
     "passage": ""
+  },
+  {
+    "id": 2317,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A limited liability company is owned by?",
+    "options": {
+      "A": "an individual",
+      "B": "two or more partners",
+      "C": "shareholders",
+      "D": "government",
+      "E": "a bank"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2317",
+    "passage": ""
   }
 ]
