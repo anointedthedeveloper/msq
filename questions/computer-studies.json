@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60248",
     "passage": ""
+  },
+  {
+    "id": 60249,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The conversion of 11001 \\(_2\\) to base 10 equals_______",
+    "options": {
+      "A": "30",
+      "B": "28",
+      "C": "25",
+      "D": "20"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To convert the binary number 11001 to base 10, you would use the following conversion formula:\n(1 * 2^4) + (1 * 2^3) + (0 * 2^2) + (0 * 2^1) + (1 * 2^0) = 16 + 8 + 0 + 0 + 1 = 25\nTherefore, the binary number 11001 is equal to 25 in base 10.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60249",
+    "passage": ""
   }
 ]
