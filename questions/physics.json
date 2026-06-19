@@ -8776,5 +8776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14150",
     "passage": ""
+  },
+  {
+    "id": 14151,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If a load of mass 10N stretched a cord by 1.2cm, what is the total work done?",
+    "options": {
+      "A": "6.0 x 10 -2 J",
+      "B": "7.6 x 10 -2 J",
+      "C": "1.8 x 10 -2 J",
+      "D": "6.6 x 10 -2 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Work done on a stretched cord = Average force x extension = \\(\\frac{1 \\times 10 \\times 0.012}{2}\\) = 6.0 x 10\\(^{-2}\\)J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14151",
+    "passage": ""
   }
 ]
