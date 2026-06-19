@@ -13251,5 +13251,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22676",
     "passage": ""
+  },
+  {
+    "id": 22678,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which triangle is equal in area to ΔVWZ",
+    "options": {
+      "A": "ΔVXZ",
+      "B": "ΔVYZ",
+      "C": "ΔXYV",
+      "D": "ΔWYV",
+      "E": "ΔWYZ"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1383315211_wcmath199033.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869301/myschool/mathematics/1383315211_wcmath199033.jpg",
+    "correct_answer": "B",
+    "explanation": "Area of \\(\\Delta\\) VYZ = Area of \\(\\Delta\\) VWZ (same base and within same parallel)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22678",
+    "passage": ""
   }
 ]
