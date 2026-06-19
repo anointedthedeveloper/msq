@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/193",
     "passage": ""
+  },
+  {
+    "id": 194,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The effect of the demand for product A caused by a change in the price of a product B is called?",
+    "options": {
+      "A": "cross-elasticity of demand",
+      "B": "elasticity of supply",
+      "C": "competitive demand",
+      "D": "composite demand",
+      "E": "joint demand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cross elasticity of demand refers to the way that changes in the price of one good can affect the quantity demanded of another good. This occurs in goods that are substitutes, joint demand, or complementary goods.\nFor instance, a rise in the price of butter which is a substitute for margarine will lead to a decrease in the demand for butter and a rise in the demand for margarine. Also, the rise in the price of mattresses will lead to a fall in the demand for pillows as its complement",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/194",
+    "passage": ""
   }
 ]
