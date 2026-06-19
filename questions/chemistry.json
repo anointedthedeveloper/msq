@@ -2433,5 +2433,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1555",
     "passage": ""
+  },
+  {
+    "id": 1556,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "N2(g) + O2(g) ↔ 2NO(g); ΔH = + 180.6 kJ mol-1 In the reaction above, increase in temperature will",
+    "options": {
+      "A": "increase the quantity of N 2",
+      "B": "increase in the yield of NO",
+      "C": "decrease the yield of NO",
+      "D": "decrease the quantity of O 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a chemical system in equilibrium, an increase in temperature for an endothermic reaction (ΔH = + 180.6 kJmol-1) will cause the equilibrium position to shift to the right, thereby favouring an increase in the yield of the product i.e NO. On the other hand, a decrease in temperature will cause the equilibrium position to shift to the left, favouring an increase in the yield of the reactants on the LHS. The reverse is the case when it is an exothermic reaction (ΔH = -ve). The correct answer is option B\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1556",
+    "passage": ""
   }
 ]
