@@ -6948,5 +6948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2963",
     "passage": ""
+  },
+  {
+    "id": 2964,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The decolourization of purple colour of tetraoxomanganate (VII) ion is a test for",
+    "options": {
+      "A": "alkenes",
+      "B": "alkanols",
+      "C": "alkanals",
+      "D": "alkanes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Alkenes decolourize potassium permanganate (KMnO\\(_4\\)) solution, a reaction used as a test for unsaturation, with the purple color of KMnO\\(_4\\) changing to a brown precipitate or a colorless solution depending on reaction conditions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2964",
+    "passage": ""
   }
 ]
