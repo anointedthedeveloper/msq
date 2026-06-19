@@ -1364,5 +1364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/967",
     "passage": ""
+  },
+  {
+    "id": 970,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Centralization of power is the basic feature of",
+    "options": {
+      "A": "federalism",
+      "B": "a confederation",
+      "C": "a presidential system",
+      "D": "a unitary government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/970",
+    "passage": ""
   }
 ]
