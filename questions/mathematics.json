@@ -13251,5 +13251,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22676",
     "passage": ""
+  },
+  {
+    "id": 22678,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which triangle is equal in area to ΔVWZ",
+    "options": {
+      "A": "ΔVXZ",
+      "B": "ΔVYZ",
+      "C": "ΔXYV",
+      "D": "ΔWYV",
+      "E": "ΔWYZ"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1383315211_wcmath199033.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908401/myschool/mathematics/1383315211_wcmath199033.jpg",
+    "correct_answer": "B",
+    "explanation": "Area of \\(\\Delta\\) VYZ = Area of \\(\\Delta\\) VWZ (same base and within same parallel)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22678",
+    "passage": ""
+  },
+  {
+    "id": 22683,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, PQRS s a cyclic quadrilateral, ∠PSR = 86\no\nand ∠QPR = 38\no\n. Calculate PRQ",
+    "options": {
+      "A": "58 o",
+      "B": "53 o",
+      "C": "48 o",
+      "D": "43 o",
+      "E": "38 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4149952824_wcmath199034.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908435/myschool/mathematics/4149952824_wcmath199034.jpg",
+    "correct_answer": "C",
+    "explanation": "o\no\no\no\no\no\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22683",
+    "passage": ""
+  },
+  {
+    "id": 22685,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram below, O is the center of the circle if ∠QOR = 290o, find the size ∠QPR",
+    "options": {
+      "A": "110 o",
+      "B": "70 o",
+      "C": "55 o",
+      "D": "35 o",
+      "E": "20 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xagmpCPFt2Q1l4Ff0zfh8tzaCdTOFTs0lHSDkuG2.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908469/myschool/mathematics/xagmpCPFt2Q1l4Ff0zfh8tzaCdTOFTs0lHSDkuG2.png",
+    "correct_answer": "D",
+    "explanation": "360º - 290º = 70º \\(\\frac{70}{2}\\) = 35º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22685",
+    "passage": ""
+  },
+  {
+    "id": 22687,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, PQ is a tangent at T to the circle ABT. ABC is a straight line and TC bisects ∠BTO. Find x.",
+    "options": {
+      "A": "20 o",
+      "B": "30 o",
+      "C": "35 o",
+      "D": "40 o",
+      "E": "50 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Zd5MS6CzmtvT98h3mQl2z5EhXWzfZkG3roVomALR.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908503/myschool/mathematics/Zd5MS6CzmtvT98h3mQl2z5EhXWzfZkG3roVomALR.png",
+    "correct_answer": "E",
+    "explanation": "From the figure < TAB = < BTQ = 40° (alternate segment)\n\\(\\therefore\\)< ATB = 180° - (70° + 40°) = 70° (angle on a straight line)\n< BTC = \\(\\frac{40°}{2} = \\frac{< BTQ}{2}\\)\n\\(\\therefore < BTQ = 40°\\)\nx° = 180° - (40° + 70° + 20°)\n= 50°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22687",
+    "passage": ""
   }
 ]
