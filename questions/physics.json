@@ -2056,5 +2056,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9034",
     "passage": ""
+  },
+  {
+    "id": 9065,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The particles emitted when \\( ^{39}_{19}K \\text{ decay to } ^{39}_{19}K \\) is",
+    "options": {
+      "A": "gamma",
+      "B": "beta",
+      "C": "electron",
+      "D": "alpha"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9065",
+    "passage": ""
   }
 ]
