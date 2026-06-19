@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/718",
     "passage": ""
+  },
+  {
+    "id": 1432,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If ∆x is the uncertainty in the measurement of the position of a particle along the x-axis and ∆P\na\nis the uncertainty in the measurement of the linear momentum along the x-axis, then the uncertainty principle relation is given as",
+    "options": {
+      "A": "∆x ∆P x ≥ h",
+      "B": "∆x ∆P x = 0",
+      "C": "∆x ∆P x < h",
+      "D": "∆x ∆P x = ∞"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1432",
+    "passage": ""
   }
 ]
