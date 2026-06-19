@@ -2109,5 +2109,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/648",
     "passage": ""
+  },
+  {
+    "id": 650,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the correct option that completes the following sentence:\nThe young teacher was surprised that his promotion was approved by the old inspector who is generally known to ....",
+    "options": {
+      "A": "be generous",
+      "B": "be friendly to young people",
+      "C": "like young people",
+      "D": "be hard to please",
+      "E": "be very careful"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- Someone who is hard to please is demanding - Requiring more than usually expected or thought due; especially great patience and effort and skill;",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/650",
+    "passage": ""
   }
 ]
