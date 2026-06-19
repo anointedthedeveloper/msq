@@ -3693,5 +3693,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50579",
     "passage": ""
+  },
+  {
+    "id": 50582,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The radius of a sphere is increasing at a rate \\(3cm s^{-1}\\). Find the rate of increase in the surface area, when the radius is 2cm.",
+    "options": {
+      "A": "\\(8\\pi cm^{2}s^{-1}\\)",
+      "B": "\\(16\\pi cm^{2}s^{-1}\\)",
+      "C": "\\(24\\pi cm^{2}s^{-1}\\)",
+      "D": "\\(48\\pi cm^{2}s^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Surface area of sphere, \\( A = 4\\pi r^{2}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d r} = 8\\pi r\\)\nThe rate of change of radius with time \\(\\frac{\\mathrm d r}{\\mathrm d t} = 3cm s^{-1}\\)\n\\(\\frac{\\mathrm d A}{\\mathrm d t} = (\\frac{\\mathrm d A}{\\mathrm d r})(\\frac{\\mathrm d r}{\\mathrm d t})\\)\n= \\(8\\pi \\times 2cm \\times 3cm s^{-1} = 48\\pi cm^{2}s^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50582",
+    "passage": ""
   }
 ]
