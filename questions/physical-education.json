@@ -2581,5 +2581,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68271",
     "passage": ""
+  },
+  {
+    "id": 68272,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Hockey pitch, nets and flag posts are facilities used in ?",
+    "options": {
+      "A": "boxing",
+      "B": "swimming",
+      "C": "hockey game",
+      "D": "wrestling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hockey pitch, nets, and flag posts are facilities used in a hockey game. A hockey pitch is the field where the game is played, the nets are used as goals, and the flag posts are used to mark the corners of the pitch. These facilities are not typically used in swimming, boxing, or wrestling.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68272",
+    "passage": ""
   }
 ]
