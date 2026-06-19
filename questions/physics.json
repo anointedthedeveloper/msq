@@ -8671,5 +8671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14140",
     "passage": ""
+  },
+  {
+    "id": 14141,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "I. The motion of the tyres of a moving car. II. The motion of a loaded test tube oscillated vertically. III. The beating of the heart. IV. A stone tied to a string and whirled round. V. The motion of the pistons in a gasoline engine. Which of the motions above is simple harmonic?",
+    "options": {
+      "A": "III, IV and V only",
+      "B": "II, III and V only",
+      "C": "II, III and IV only",
+      "D": "I,II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Simple harmonic motion is the motion of a body whose acceleration is directed towards a fixed point and is directly proportional to its displacement from point.\nStatements ii, iii and v are clear examples\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14141",
+    "passage": ""
   }
 ]
