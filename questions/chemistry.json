@@ -4050,5 +4050,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1752",
     "passage": ""
+  },
+  {
+    "id": 1753,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The product of the electrolysis of dilute sodium hydroxide using platinum electrodes are",
+    "options": {
+      "A": "Hydrogen and oxygen gases",
+      "B": "Water and hydrogen gas",
+      "C": "Water and sodium metal",
+      "D": "Sodium metal and oxygen gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The products of the electrolysis of dilute sodium hydroxide using platinum electrodes are hydrogen H\\(_2\\) at the cathode and oxygen (O\\(_2\\) at the anode.\nThis is because the reduction and oxidation of water occurs to produce hydrogen at the cathode and oxygen at the anode.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1753",
+    "passage": ""
   }
 ]
