@@ -9397,5 +9397,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62715",
     "passage": ""
+  },
+  {
+    "id": 62716,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "(a) i() What is firewall? (ii) List two methods used in protecting the computer system.\n(b) Explain the following stages of the System Development Life Cycle: (i) feasibility study; (ii) design; (iii) maintenance.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) Firewall: This is a network security system that monitors and controls all the incoming and outgoing network traffic based on advanced and a defined set of protocol/security rule\nOR\nA firewall is a software or hardware used to maintain the security of a private network and stop malicious traffic from getting to a user's computer;\nit further prevents connection to unwanted sites and sending data without authorization.\n(ii) Methods Used in Protecting the Computer System: - Use of antivirus. - Regular maintenance. -Use of certificates. - Update the operating system.- Physical protection. - Defragmentation.- Download files from trusted sites. - Use firewall.-Authentication/password/biometric.\n- Encryption of files/folders.- Use of license software. - Limit use of external storage devices.\n(b)(i) Feasibility Study Stage: This is a stage in System Development Life Cycle (SDLC) that determines it the set goals of the plan can be accomplished and information is gathered to identify what is needed to achieve the goal.\nOR\nThis is a stage that involves drawing up the terms of reference, state the objectives and scope of the project, how long it should take and how the result should be achieved and presented.\nOR\nThis is a stage a survey/preliminary study/analysis/evaluation is carried out to investigate whether the proposed project is plausible and it involves schedule-driven budget, personnel, legal implication and benefit. Afterwards feasibility report is generated.\n(ii) Design Stage: This is the most crucial phase in the development of a system. At this stage, the logical design is caried out and converted into physical system design. The programming language, the hardware and software platform in which the new system will run are also decided. Data structure, control process, equipment source, documentation, workload and limitation of the system, interface, training, procedures of using the system, taking backups and sta ffing requiremenis are decided at this stage.\nOR\nAt this stage desire features and operations are decided in detail. These include screen layout, business rules, process diagrams, pseudocode/flowchart/algorithm and other documentations.\nOR\nThe stage specifies how the system will accomplish the objectives set ahead. It consists of design activities which proauce system specifications satisfying the functional requirements developed in the system analysis stage.\n(ii) Maintenance Stage: This is the stage in which errors in the system are eliminated. In a new systen must meet the scope of any future enhancement, funçtionality and any other feature to cope with late needs.\nOR\nAt this stage, the system, is assessed/evaluated to ensure it does not become obsolete. changes are made to initial system.\nOR\nThis stage involves monitoring, evaluating users feedback modifying of system to make desirable and necessary improvements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62716",
+    "passage": ""
   }
 ]
