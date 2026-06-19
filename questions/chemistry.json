@@ -12094,5 +12094,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4483",
     "passage": ""
+  },
+  {
+    "id": 4484,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The IUPAC nomenclature of the compound LiAlH4 is?",
+    "options": {
+      "A": "lithiumtetrahydridoaluminate (III)",
+      "B": "aluminium tetrahydrido lithium",
+      "C": "tetrahydrido lithium aluminate (III)",
+      "D": "lithium aluminium hydride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4484",
+    "passage": ""
   }
 ]
