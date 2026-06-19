@@ -6549,5 +6549,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2944",
     "passage": ""
+  },
+  {
+    "id": 2945,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An isomer of C\\(_5\\)H\\(_{12}\\) is",
+    "options": {
+      "A": "Butane",
+      "B": "2 – methylbutane",
+      "C": "2 – methylpropane",
+      "D": "2 – ethylbutane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There are three isomers of C\\(_5\\)H\\(_{12}\\). They include n-pentane , 2 - methyl butane and 2,2-dimethylpropane.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2945",
+    "passage": ""
   }
 ]
