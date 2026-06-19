@@ -4477,5 +4477,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75423",
     "passage": ""
+  },
+  {
+    "id": 75424,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marché Samedi matin, Fatou accompagne sa mère au marché. Elles partent tôt pour éviter la foule. Le marché est coloré et bruyant. Il y a des vendeurs de fruits, de légumes, de poissons et de vetements. Fatou aide sa mère à porter les paniers. Apres les achats, elles rentrent a la maison en taxi. Fatou aime ces sorties avec sa mere. Qu'est-ce que Fatou aime ?",
+    "options": {
+      "A": "Sortir avec ses amis",
+      "B": "Acheter des jouets",
+      "C": "Manger au marche",
+      "D": "Sortir avec sa mere"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "La dernière phrase indique : \"Fatou aime ces sorties avec sa mère.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75424",
+    "passage": ""
   }
 ]
