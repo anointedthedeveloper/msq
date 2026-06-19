@@ -1049,5 +1049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/256",
     "passage": ""
+  },
+  {
+    "id": 258,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The Murtala/Obasanjo regime in Nigeria increased the number of states from",
+    "options": {
+      "A": "4 to 12",
+      "B": "12 to 19",
+      "C": "19 to 20",
+      "D": "30 to 36"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Murtala/Obasanjo regime in Nigeria increased the number of states from 12 to 19.Gowon created 12 states but the Murtala/Obasanjo regime created additional seven states bring the total number to 19\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/258",
+    "passage": ""
   }
 ]
