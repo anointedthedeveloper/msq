@@ -19755,5 +19755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72637",
     "passage": ""
+  },
+  {
+    "id": 72638,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following application packages is suitable for making budgets?",
+    "options": {
+      "A": "Word processor",
+      "B": "Spreadsheet package",
+      "C": "Graphic package",
+      "D": "Database Management System"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Spreadsheet package is suitable for making budgets.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72638",
+    "passage": ""
   }
 ]
