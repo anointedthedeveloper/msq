@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/664",
     "passage": ""
+  },
+  {
+    "id": 692,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "When a ship sails from salt water into fresh water, the fraction of its volume above the water surface will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "remain the same",
+      "D": "increase then decrease"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/692",
+    "passage": ""
   }
 ]
