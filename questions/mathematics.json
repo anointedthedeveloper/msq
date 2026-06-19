@@ -13954,5 +13954,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22911",
     "passage": ""
+  },
+  {
+    "id": 22912,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above, PXR and PYO are two semicircles with diameters 14cm and 7cm respectively. Find the perimeter of the region (take \\(\\pi\\) = \\(\\frac{22}{7}\\) )",
+    "options": {
+      "A": "22cm",
+      "B": "33cm",
+      "C": "40cm",
+      "D": "47cm",
+      "E": "66cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3PanbgCF1f55wH0NVqiuVXFsAyGmJV783rQorxe9.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908967/myschool/mathematics/3PanbgCF1f55wH0NVqiuVXFsAyGmJV783rQorxe9.png",
+    "correct_answer": "C",
+    "explanation": "P = \\(\\pi\\)r + \\(\\pi\\)r + R = \\(\\frac{22}{7}\\) x 7 + \\(\\frac{22}{7}\\) x \\(\\frac{7}{2}\\) + 7 P = 22 + 11 + 7 = 40cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22912",
+    "passage": ""
   }
 ]
