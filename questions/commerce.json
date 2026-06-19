@@ -2077,5 +2077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1403",
     "passage": ""
+  },
+  {
+    "id": 1404,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1997",
+    "question": "Stevedores as a term in foreign trade means men who",
+    "options": {
+      "A": "inspect goods in ships",
+      "B": "import goods by ships",
+      "C": "collect duties in ships",
+      "D": "load and unload ships"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1404",
+    "passage": ""
   }
 ]
