@@ -13699,5 +13699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64417",
     "passage": ""
+  },
+  {
+    "id": 64418,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The java interpreter translates a java program from ____________ to machine language.",
+    "options": {
+      "A": "nibble",
+      "B": "bit",
+      "C": "byte code",
+      "D": "high level language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The java interpreter translates a java program from ____________Byte code. This is a program code that has been compiled from source code into low level code designed for a software interpreter. to machine language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64418",
+    "passage": ""
   }
 ]
