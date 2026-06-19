@@ -3540,5 +3540,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61860",
     "passage": ""
+  },
+  {
+    "id": 61861,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of these is not an example of a browser?",
+    "options": {
+      "A": "Chrome",
+      "B": "Internet Explorer",
+      "C": "Mozilla",
+      "D": "Opera",
+      "E": "Python"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61861",
+    "passage": ""
   }
 ]
