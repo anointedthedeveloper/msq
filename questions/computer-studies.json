@@ -17796,5 +17796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69855",
     "passage": ""
+  },
+  {
+    "id": 69856,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The database model that uses tables with columns and rows is called",
+    "options": {
+      "A": "hierarchical database.",
+      "B": "relational database.",
+      "C": "network database.",
+      "D": "linear database."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The database model that uses tables with columns and rows is called a \"relational database.\" In a relational database, data is organized into tables, where each table represents a specific entity or concept. The columns of the table represent attributes or properties of the entity, and each row contains a set of values corresponding to those attributes. The relationships between tables are established through keys, primarily primary keys and foreign keys. For example, a table that stores customer data might have columns for customer name, address, phone number, and email address. Each row in the table would represent a single customer. Relational databases are widely used for managing structured data, and they provide a flexible and efficient way to store, retrieve, and manipulate data. The relational model has become one of the most dominant and popular approaches for organizing and managing data in various applications and industries.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69856",
+    "passage": ""
   }
 ]
