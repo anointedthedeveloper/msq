@@ -12712,5 +12712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64352",
     "passage": ""
+  },
+  {
+    "id": 64353,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The most basic network is _________",
+    "options": {
+      "A": "WAN",
+      "B": "SAN",
+      "C": "PAN",
+      "D": "MAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Personal area network is the most basic network, because it is usually made up of one wireless modem, a computer or two mini computers and other computer accessories, and it revokes around one person in one building.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64353",
+    "passage": ""
   }
 ]
