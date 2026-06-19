@@ -4093,5 +4093,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70730",
     "passage": ""
+  },
+  {
+    "id": 70731,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How does physical activity contribute to social well-being?",
+    "options": {
+      "A": "By encouraging individualism and solitude",
+      "B": "By fostering social connections and relationships",
+      "C": "By promoting exclusive community activities",
+      "D": "By reducing opportunities for social gatherings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Physical activity fosters social connections and relationships by providing opportunities for interaction and shared experiences, thereby promoting social well-being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70731",
+    "passage": ""
   }
 ]
