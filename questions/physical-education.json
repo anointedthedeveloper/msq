@@ -3967,5 +3967,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70724",
     "passage": ""
+  },
+  {
+    "id": 70725,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Name the events which make up the throwing events.",
+    "options": {
+      "A": "Long jump, Triple jump, High jump, Pole vault",
+      "B": "Discus, Hammer, Pole vault, Triple jump",
+      "C": "Shot put, Discus, Javelin, Hammer throw",
+      "D": "Shot put, Javelin, High jump, Long jump"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The throwing events include shot put, discus throw, javelin throw, and hammer throw.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70725",
+    "passage": ""
   }
 ]
