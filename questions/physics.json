@@ -9679,5 +9679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14292",
     "passage": ""
+  },
+  {
+    "id": 14293,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A machine of velocity ratio 6 requires an effort of 400 N to raise a load of 800 N through I m. Find the efficiency of the machine",
+    "options": {
+      "A": "55. 6 %",
+      "B": "50.0%",
+      "C": "33.3%",
+      "D": "22.2%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Efficiency = (MA)/V.R x 100% = (load)/Effort x (1)/V.R = (800)/400 x (1)/6 x 100% = 33.3%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14293",
+    "passage": ""
   }
 ]
