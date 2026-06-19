@@ -17537,5 +17537,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25020",
     "passage": ""
+  },
+  {
+    "id": 25021,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Which of the following indicates the correct sequence of steps taken in charging a gold-leaf electroscope by induction? l. Removing the ebonite rod ll. Bringing a negatively charged ebonite rod close to the cap III. Earthing the cap IV. Disconnecting the earthing",
+    "options": {
+      "A": "III, II, I and IV",
+      "B": "II, I, III and IV",
+      "C": "III, IV II and I",
+      "D": "II, III, IV and I",
+      "E": "III, IV, I and II."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Bringing a negatively charged ebonite rod close to the cap (II): This causes the electrons in the electroscope to be repelled, leaving the top of the electroscope positively charged. Earthing the cap (III): This allows electrons from the ground to flow into the electroscope, neutralizing the positive charge. Disconnecting the earthing (IV): This isolates the electroscope while it retains the induced charge. Removing the ebonite rod (I): This stops the influence of the charged rod. Therefore, the correct sequence is: II → III → IV → I.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25021",
+    "passage": ""
   }
 ]
