@@ -9134,5 +9134,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72375",
     "passage": ""
+  },
+  {
+    "id": 72376,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements supports the goals of data backup? I. Need for duplication II. Need for future reference III. Protection against data loss",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Need for duplication is not the primary goal of data backup, but rather. Duplication is a means to achieve data backup.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72376",
+    "passage": ""
   }
 ]
