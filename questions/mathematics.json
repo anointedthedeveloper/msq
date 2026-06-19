@@ -9469,5 +9469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9796",
     "passage": ""
+  },
+  {
+    "id": 9802,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If x * y = x + y\\(^2\\), find then value of (2*3)*5",
+    "options": {
+      "A": "36",
+      "B": "25",
+      "C": "11",
+      "D": "55"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x * y = x + y\\(^2\\) 2 * 3 = 2 + 3\\(^2\\) = 2 + 9 = 11 (2 * 3) * 5 = 11 + 5\\(^2\\) = 11 + 25 = 36\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9802",
+    "passage": ""
   }
 ]
