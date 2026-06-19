@@ -14020,5 +14020,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22915",
     "passage": ""
+  },
+  {
+    "id": 22916,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The first term a of an A.P is equal to twice the\ncommon difference d. Find, in terms of d, the 5th\nterm of the A.P.",
+    "options": {
+      "A": "4d",
+      "B": "5d",
+      "C": "6d",
+      "D": "a + 5d",
+      "E": "2a + 4d"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "n\nn\n5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22916",
+    "passage": ""
   }
 ]
