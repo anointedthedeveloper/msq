@@ -16116,5 +16116,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67826",
     "passage": ""
+  },
+  {
+    "id": 67827,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "what is the first computing machine invented ?",
+    "options": {
+      "A": "slide rule",
+      "B": "Pascal calculator",
+      "C": "Napier bones",
+      "D": "Abacus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Abacus was invented between 2700 and 2300 BC, it is the first computing machine known to mankind.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67827",
+    "passage": ""
   }
 ]
