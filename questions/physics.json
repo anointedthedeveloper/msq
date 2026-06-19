@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7266",
     "passage": ""
+  },
+  {
+    "id": 7280,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A resistance R is connected across the terminal of an electric cell of internal resistance 2Ω and the voltage was reduced to 3/5 of its nominal value. The value of R is",
+    "options": {
+      "A": "3 Ω",
+      "B": "2 Ω",
+      "C": "1 Ω",
+      "D": "6 Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "I = \\(\\frac{V}{R}\\)  =  \\(\\frac{E}{R+r}\\) , if r = 2Ω V = \\(\\frac{3}{5}\\)E => \\(\\frac{3E}{5R} = \\frac{E}{R+2}\\) i.e 3E(R+2) = 5RE 3RE + 6E = 5RE ( the Es will cancel out) i.e 3R + 6 = 5R 6 = 5R - 3R => 2R = 6 i.e R = \\(\\frac{6}{2}\\) = 3Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7280",
+    "passage": ""
   }
 ]
