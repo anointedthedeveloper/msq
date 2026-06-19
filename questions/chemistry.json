@@ -173,5 +173,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/38",
     "passage": ""
+  },
+  {
+    "id": 39,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The oxidation state of chlorine in potassium chlorate is?",
+    "options": {
+      "A": "+1",
+      "B": "+2",
+      "C": "+3",
+      "D": "+5",
+      "E": "+7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- potassium chlorate --> KClO\\(_3\\)\nvalencies of K = +1, O = -2.\n: (+1) + Cl + ( -2  X 3 atoms ) = 0\nCl + 1 - 6 = 0\nCl = 5\n∴ The oxidation state of chlorine in potassium chlorate is +5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/39",
+    "passage": ""
   }
 ]
