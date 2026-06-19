@@ -2073,5 +2073,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73795",
     "passage": ""
+  },
+  {
+    "id": 73796,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kedu aha gị?",
+    "options": {
+      "A": "Anyị bụ Amina",
+      "B": "Ha bụ Musa",
+      "C": "Aha m bụ Ụche",
+      "D": "Gị bụ Emeka"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The question \"Kedu aha gị?\" means \"What is your name?\" in Igbo. The correct response is \"Aha m bụ Ụche\", which means \"My name is Ụche\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73796",
+    "passage": ""
   }
 ]
