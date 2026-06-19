@@ -13031,5 +13031,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22660",
     "passage": ""
+  },
+  {
+    "id": 22661,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Solve the equation 2a\\(^2\\) - 3a - 27 = 0",
+    "options": {
+      "A": "3/2, 9",
+      "B": "-2/3, 9",
+      "C": "3, 9/2",
+      "D": "-3, -9/2",
+      "E": "-3, 9/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2a\\(^2\\) - 3a - 27 = 0\n2a\\(^2\\) - 9a + 6a - 27 = 0\na(2a - 9) + 3(2a - 9) = 0\n(a + 3)(2a - 9) = 0\na = -3 or a = \\(\\frac{9}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22661",
+    "passage": ""
   }
 ]
