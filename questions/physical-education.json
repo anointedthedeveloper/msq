@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64142",
     "passage": ""
+  },
+  {
+    "id": 64143,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When a white flag is raised during a track event, it is an indication that",
+    "options": {
+      "A": "A runner is being expected",
+      "B": "All is set",
+      "C": "An athlete is injured",
+      "D": "Game is over"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "White flag indicates \"ready\", I.e. all is set. (B)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64143",
+    "passage": ""
   }
 ]
