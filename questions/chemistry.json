@@ -2790,5 +2790,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1572",
     "passage": ""
+  },
+  {
+    "id": 1573,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Alkanones are generally obtained by the oxidation of",
+    "options": {
+      "A": "primary alkanols",
+      "B": "secondary alkanols",
+      "C": "tertiary alkanols",
+      "D": "alkanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Using a suitable oxidizing agent such as acidified dichromate solution, or, acidified permanganate solution, secondary alkanols (alcohols) can be oxidized to alkanones (ketones), therefore, The oxidation of a secondary alkanol (alcohol) produces an alkanone (ketone). e.g. Oxidation of butan-2-ol (2-butanol) by acidified dichromate solution produces butan-2-one (2-butanone or butanone)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1573",
+    "passage": ""
   }
 ]
