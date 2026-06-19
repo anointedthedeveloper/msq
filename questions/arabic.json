@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75207",
     "passage": ""
+  },
+  {
+    "id": 75208,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما وظيفة \"الذي\" في: \"الطالب الذي فاز بالجائزة مجتهدٌ\"؟",
+    "options": {
+      "A": "اسم استفهام",
+      "B": "اسم موصول",
+      "C": "ظرف مكان",
+      "D": "اسم إشارة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\" gill\" is a relative pronoun (ism mawsūl) meaning \"that\" or \"who.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75208",
+    "passage": ""
   }
 ]
