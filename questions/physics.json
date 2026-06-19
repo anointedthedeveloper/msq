@@ -3673,5 +3673,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12034",
     "passage": ""
+  },
+  {
+    "id": 12036,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "An electric iron is rated 1000W, 230V. What is the resistance of its elements?",
+    "options": {
+      "A": "51.9Ω",
+      "B": "52.9Ω",
+      "C": "55.9Ω",
+      "D": "57.6Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\nV 2\nR\nV 2\nR\n(230) 2\nR\n(230) 2\n1000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12036",
+    "passage": ""
   }
 ]
