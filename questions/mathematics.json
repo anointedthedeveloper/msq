@@ -10987,5 +10987,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22094",
     "passage": ""
+  },
+  {
+    "id": 22095,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "If log\\(_{10}\\) q = 2.7078, what is q?",
+    "options": {
+      "A": "5102",
+      "B": "849.9",
+      "C": "510.2",
+      "D": "84.99",
+      "E": "51.02"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "q = 10\\(^{2.7078}\\)\nAntilog of 2.7078 = 510.2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22095",
+    "passage": ""
   }
 ]
