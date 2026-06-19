@@ -768,5 +768,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/502",
     "passage": ""
+  },
+  {
+    "id": 504,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nHe went abroad with a view .... a business partner",
+    "options": {
+      "A": "to find",
+      "B": "to be finding",
+      "C": "to have found",
+      "D": "to finding",
+      "E": "he will find"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is because the phrase \"with a view to\" is commonly followed by a gerund (a verb ending in \"-ing\").\nWhile \"to\" might initially seem to be part of the infinitive verb (like \"to find\"), in this specific phrase, \"to\" functions as a preposition. Prepositions are followed by nouns, pronouns or gerunds (verbs ending in -ing). Therefore, the correct construction is \"to finding,\" where \"finding\" serves as a gerund.\nIf the phrase were structured differently, such as \"He went abroad to find a business partner,\" it would be correct to use \"to find\" because here \"to\" is part of the infinitive verb.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/504",
+    "passage": ""
   }
 ]
