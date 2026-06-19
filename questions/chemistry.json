@@ -4197,5 +4197,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1759",
     "passage": ""
+  },
+  {
+    "id": 1760,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The furring of kettles is caused by the presence in the water of?",
+    "options": {
+      "A": "Calcium tetraoxosulphate (VI)",
+      "B": "Calcium hydrogentrioxocarbonate (IV)",
+      "C": "Calcium hydroxide",
+      "D": "Calcium trioxocarbonate (IV)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The furring of kettles or boilers - this is as a result of the decomposition of \\(Ca(HCO_3)_2\\) into \\(CaCO_3\\), and this\\(CaCO_3\\) coats the inside of a kettle or boiler used in heating water containing dissolved \\(Ca(HCO_3)_2\\).\nWhen a kettle has been used to boil temporary hard water for quite some time, the inner surfaces become coated with a white fur-like layer. This layer (furring of the kettle) is due to the gradual deposition of calcium trioxocarbonate(IV), from the decomposition of Calcium hydrogentrioxocarbonate (IV).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1760",
+    "passage": ""
   }
 ]
