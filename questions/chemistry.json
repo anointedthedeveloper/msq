@@ -13630,5 +13630,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/7501",
     "passage": ""
+  },
+  {
+    "id": 7509,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An experiment test of the Law of conservation of Mass is illustrated in the diagram. In practice, the flask is weighed before and after reaction between solutions X and Y. Which of the following pairs of solutions will be unsuitable for the experiments",
+    "options": {
+      "A": "X = hydrochloric  acid; Y = silver nitrate",
+      "B": "X = barium chloride; Y = dilute sulphuric acid",
+      "C": "X = hydrochloric acid; Y = sodium hydroxide",
+      "D": "X = hydrochloric acid; Y = lead nitrate",
+      "E": "X = hydrochloric acid; Y = sodium carbonate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13552170800_chem197844.gif",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891403/myschool/chemistry/13552170800_chem197844.gif",
+    "correct_answer": "E",
+    "explanation": "Option E won't be suitable because it contains HCl (acid) and Sodium carbonate ( Carbonate) which will liberate CO\\(_2\\). Hence the mass of the product will not be same as the mass before the reaction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7509",
+    "passage": ""
   }
 ]
