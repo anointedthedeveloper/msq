@@ -2325,5 +2325,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73807",
     "passage": ""
+  },
+  {
+    "id": 73808,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Nne m siri ofe egusi. Ọlee nke bụ ngwaa na ndị a?",
+    "options": {
+      "A": "M",
+      "B": "Nne",
+      "C": "Egusi",
+      "D": "Siri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The answer is Siri (which means \"what\" or \"what is\"). The sentence \"Nne m siri ofe egusi\" means \"My mother is cooking egusi soup\". The word \"Siri\" is used to ask \"what\" is being cooked.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73808",
+    "passage": ""
   }
 ]
