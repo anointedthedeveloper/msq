@@ -6853,5 +6853,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67132",
     "passage": ""
+  },
+  {
+    "id": 67133,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A suitable application software for creating Tables 1 and 2 is",
+    "options": {
+      "A": "Notepad",
+      "B": "MS Powerpoint",
+      "C": "MS access",
+      "D": "CorelDraw"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/OZX5RQMixCtSFfFqAcfq3BnSzmVcA89eoarwEI6M.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911855/myschool/data-processing/OZX5RQMixCtSFfFqAcfq3BnSzmVcA89eoarwEI6M.png",
+    "correct_answer": "C",
+    "explanation": "MS Access",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67133",
+    "passage": ""
   }
 ]
