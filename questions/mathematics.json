@@ -3463,5 +3463,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7766",
     "passage": ""
+  },
+  {
+    "id": 7768,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The triangle OPQ above is the solution of the inequalities",
+    "options": {
+      "A": "x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0",
+      "B": "y + x ≤ 0, y - x ≥ 0, x -1 ≥ 0",
+      "C": "x - 1 ≤ 0, y - x ≥ o, y + x ≥ 0",
+      "D": "x - 1 ≤ 0, y + x ≤ 0, y - x ≤ 0"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9c9vBfxDChtZIoMWV4IDY0waWCXfBNx1SWYKPfZK.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868343/myschool/mathematics/9c9vBfxDChtZIoMWV4IDY0waWCXfBNx1SWYKPfZK.png",
+    "correct_answer": "A",
+    "explanation": "Lines bounding Δ OPQ OQ; y - x = 0 y - x ≥ 0 PQ; x + 1 = 0 x + 1 ≥ = 0 PO; y + x = 0 y + x ≤ 0 ∴ x + 1 ≥ 0, y + x ≤ 0, y - x ≥ 0\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7768",
+    "passage": ""
   }
 ]
