@@ -9028,5 +9028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9334",
     "passage": ""
+  },
+  {
+    "id": 9335,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What is the value of r if the distance between the point (4,2) and (1,r) is 3 units?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A(4,2) and B(1,r), AB = 3 units 3 = √ (x2- x1)2 + (y2-y1)2 3 = √ (4-1)2 + (2-r)2 3 = √ 32 + (2-r)2 3 = √ 9 + 4 – 4r + r2 3 = √ r2 - 4r + 13 9 = r2 - 4r + 13 By squaring both sides r2 - 4r + 4 = 0 (r-2)(r-2) = 0 r = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9335",
+    "passage": ""
   }
 ]
