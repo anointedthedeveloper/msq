@@ -9007,5 +9007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14201",
     "passage": ""
+  },
+  {
+    "id": 14204,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "I. Moon. II. Sun. III.street light. IV. stars. Which of these are natural sources of light?",
+    "options": {
+      "A": "II, III, and IV only",
+      "B": "I, II and III only",
+      "C": "III and IV only",
+      "D": "II and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sun and stars are self luminous object.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14204",
+    "passage": ""
   }
 ]
