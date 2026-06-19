@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49728",
     "passage": ""
+  },
+  {
+    "id": 49732,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "An insurance that could be effected with profit feauture is",
+    "options": {
+      "A": "term insurance",
+      "B": "public liability insurance",
+      "C": "endowment assurance",
+      "D": "personal accident insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An endowment policy is a life insurance contract designed to pay a lump sum after a specific term (on its 'maturity') or on death. Typical maturities are ten, fifteen or twenty years up to a certain age limit. Some policies also pay out in the case of critical illness.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49732",
+    "passage": ""
   }
 ]
