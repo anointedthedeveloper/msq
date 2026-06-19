@@ -17880,5 +17880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69859",
     "passage": ""
+  },
+  {
+    "id": 69860,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The process of making copies of files which can be used to restore the original copy in the event of data loss is called file",
+    "options": {
+      "A": "restoration.",
+      "B": "retrieval.",
+      "C": "organization",
+      "D": "backup"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The process of making copies of files which can be used to restore the original copy in the event of data loss is called \"backup.\" File backup is the process of making copies of files which can be used to restore the original copy in the event of data loss. This is an important process for protecting your data from accidental deletion, corruption, or hardware failure.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69860",
+    "passage": ""
   }
 ]
