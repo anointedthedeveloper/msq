@@ -5458,5 +5458,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8610",
     "passage": ""
+  },
+  {
+    "id": 8611,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the value of t if the standard deviation of 2t, 3t, 4t, 5t, and 6t is √2",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(mean(x) = \\frac{20t}{5}\\)\n= S.D = \\(\\sqrt{\\frac{((\\overline{x} - x)^2}{\\text{n}}}\\)\n\\(\\sqrt{2}\\) = \\(\\sqrt{\\frac{10t^2}{5}}\\)\n2 = \\(\\frac{10t^2}{5}\\)\n10t\\(^2\\) = 10\nt\\(^2\\) = 1\nt = \\(\\sqrt{1}\\) = 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8611",
+    "passage": ""
   }
 ]
