@@ -16900,5 +16900,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24300",
     "passage": ""
+  },
+  {
+    "id": 24301,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "An electric string of length l is elastically stretched through a length e by a force F. The area of cross- section of the string is A and its Young’s modulus is E. Which of the following expressions is correct?",
+    "options": {
+      "A": "F = EA/eI",
+      "B": "F = EAI/e",
+      "C": "F = EAe/l",
+      "D": "F = EAe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24301",
+    "passage": ""
   }
 ]
