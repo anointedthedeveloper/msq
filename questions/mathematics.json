@@ -13449,5 +13449,27 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908608/myschool/mathematics/IMG_20191120_093938%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/22696",
     "passage": ""
+  },
+  {
+    "id": 22698,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The annual salary of Mr. Johnson Mohammed for 1989 was N12,000.00. He spent this on agriculture projects, education of his children, food items, saving , maintenance and miscellaneous items as shown in the pie chart\nHow much money did he invest in agriculture?",
+    "options": {
+      "A": "N1,200.00",
+      "B": "N1,440.00",
+      "C": "N2,000.00",
+      "D": "N2,910.00",
+      "E": "N4,000.00"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Mq7SmwNLn6NzveuF8VUsp8TyK90e0UClzp7XDGAX.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908619/myschool/mathematics/Mq7SmwNLn6NzveuF8VUsp8TyK90e0UClzp7XDGAX.png",
+    "correct_answer": "E",
+    "explanation": "Agric project = \\(\\frac{120}{360} \\times N12,000.00\\)\n= \\(N4,000.00\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22698",
+    "passage": ""
   }
 ]
