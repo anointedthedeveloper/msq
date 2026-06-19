@@ -818,5 +818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/146",
     "passage": ""
+  },
+  {
+    "id": 151,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of these constitutions recognized local government as a third tier of government in Nigeria?",
+    "options": {
+      "A": "1946 Constitution.",
+      "B": "1960 Constitution.",
+      "C": "1963 Constitution.",
+      "D": "1979 Constitution."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/151",
+    "passage": ""
   }
 ]
