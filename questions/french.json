@@ -5275,5 +5275,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75889",
     "passage": ""
+  },
+  {
+    "id": 75890,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Je suis ne _ Nigeria.",
+    "options": {
+      "A": "à",
+      "B": "au",
+      "C": "dans",
+      "D": "en"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Countries like Nigeria (masculine) must take the preposition \"au\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75890",
+    "passage": ""
   }
 ]
