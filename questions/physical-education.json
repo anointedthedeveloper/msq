@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64152",
     "passage": ""
+  },
+  {
+    "id": 64154,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are basic strokes in swimming except",
+    "options": {
+      "A": "basic crawl",
+      "B": "breast stroke",
+      "C": "butterfly",
+      "D": "gliding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Gliding is not a basic stroke associated with swimming.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64154",
+    "passage": ""
   }
 ]
