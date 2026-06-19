@@ -3499,5 +3499,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58454",
     "passage": ""
+  },
+  {
+    "id": 58455,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following software replicates itself without being executed by the user",
+    "options": {
+      "A": "worm",
+      "B": "Trojan",
+      "C": "Plug-ins",
+      "D": "Driver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58455",
+    "passage": ""
   }
 ]
