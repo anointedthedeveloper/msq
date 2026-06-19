@@ -6046,5 +6046,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13693",
     "passage": ""
+  },
+  {
+    "id": 13705,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A proton moving with a speed of 1.0 x 10\\(^6\\)ms\\(^{-1}\\) through a magnetic field of 1.0T experiences a magnetic force of magnitude 8.0 x 10\\(^{-14}\\) N. The angle between the proton's velocity and the field is\n[1.6 x 10\\(^{-19}\\)C]",
+    "options": {
+      "A": "60°",
+      "B": "90°",
+      "C": "30°",
+      "D": "45°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The force acting on a moving charge in the magnetic field is given by: F= qVBSin θ sin θ =F=(8.0x10)-14/1.6x10-19x1.0x106x1.0 = (8.0x10)14/16 x 1013 (8.0x 10)-14/16x10-14 =0.5000 ∴ θ= sin-1 0.5000 =30°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13705",
+    "passage": ""
   }
 ]
