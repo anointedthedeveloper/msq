@@ -1897,5 +1897,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48202",
     "passage": ""
+  },
+  {
+    "id": 48203,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "L'opération partielle permet de",
+    "options": {
+      "A": "ne pas toucher le sein",
+      "B": "couper complétement le sein",
+      "C": "détruire toutes les cellules du sein",
+      "D": "garder une partied u sein"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/y74OWYIxPmtBNRsTHrKTarK2JRUZvZHz3bfLlmXX.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898405/myschool/french/y74OWYIxPmtBNRsTHrKTarK2JRUZvZHz3bfLlmXX.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48203",
+    "passage": ""
   }
 ]
