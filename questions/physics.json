@@ -2980,5 +2980,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11270",
     "passage": ""
+  },
+  {
+    "id": 11271,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the circuit above, the ammeter reads a current of 5.0 A when R = 8Ω and reads 7.0A when R = 5Ω. The value of the unknown resistance X is",
+    "options": {
+      "A": "10.0Ω",
+      "B": "7.5Ω",
+      "C": "5.0Ω",
+      "D": "2.5Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9510249938_phy199933.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888598/myschool/physics/9510249938_phy199933.jpg",
+    "correct_answer": "D",
+    "explanation": "1\n1\n2\n2\n1\n1\n2\n2\n5\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11271",
+    "passage": ""
   }
 ]
