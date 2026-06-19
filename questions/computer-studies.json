@@ -12586,5 +12586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64344",
     "passage": ""
+  },
+  {
+    "id": 64345,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Firefox is an example of __________",
+    "options": {
+      "A": "System software",
+      "B": "Application package",
+      "C": "Application software",
+      "D": "Computer tools"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fire fox is an application software, because it is not an operating system, hence it can't be classified as a system software because it doesn't contribute to the running of the computer system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64345",
+    "passage": ""
   }
 ]
