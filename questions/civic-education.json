@@ -2621,5 +2621,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50205",
     "passage": ""
+  },
+  {
+    "id": 50206,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not a means of reducing the incidence of HIV/AIDS in our society",
+    "options": {
+      "A": "education and enlightenment programme",
+      "B": "the use of specially designed cutleries by victims",
+      "C": "avoiding premarital and extra marital sex",
+      "D": "upholding the value of chastity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "HIV prevention programmes are interventions that aim to halt the transmission of HIV . HIV prevention programmes usually focus on preventing the transmission of HIV through a complementary combination of behavioural, biomedical and structural strategies. It can be done by practicing safe sex, being faithful to one sexual partner, not sharing unsterilized sharp objects as well as abstinence etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50206",
+    "passage": ""
   }
 ]
