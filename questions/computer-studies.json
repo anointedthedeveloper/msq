@@ -19209,5 +19209,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72595",
     "passage": ""
+  },
+  {
+    "id": 72596,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The computer's short-term memory is the",
+    "options": {
+      "A": "arithmetic logic unit.",
+      "B": "arithmetic operator.",
+      "C": "control unit.",
+      "D": "random access memory."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: (Random Access Memory) The RAM (Random Access Memory) only stores the programs the computer is currently working on. Once the program is closed, the RAM deletes it from memory. Hence, short-term memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72596",
+    "passage": ""
   }
 ]
