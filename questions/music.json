@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76307",
     "passage": ""
+  },
+  {
+    "id": 76308,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The Ars Nova and Ars Antiqua belong to the",
+    "options": {
+      "A": "Classical period",
+      "B": "Baroque period",
+      "C": "Romantic period",
+      "D": "Medieval period"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Ars Nova and Ars Antiqua are terms used to describe music of the Medieval period. Ars Antiqua refers to music from the 12th and 13th centuries, while Ars Nova refers to music from the 14th century. Therefore, the correct answer is the Medieval period.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76308",
+    "passage": ""
   }
 ]
