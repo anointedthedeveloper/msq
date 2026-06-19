@@ -4806,5 +4806,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58879",
     "passage": ""
+  },
+  {
+    "id": 58882,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of these devices does not support wireless communication",
+    "options": {
+      "A": "GSM Phone",
+      "B": "mouse",
+      "C": "router",
+      "D": "telephone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Telephone : Traditional landline telephones typically do not support wireless communication, as they rely on wired connections.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58882",
+    "passage": ""
   }
 ]
