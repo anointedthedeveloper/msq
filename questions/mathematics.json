@@ -9238,5 +9238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9366",
     "passage": ""
+  },
+  {
+    "id": 9390,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "5, 8, 6 and k occur with frequency 3, 2, 4, and 1 respectively and have a mean of 5.7. Find the value of k?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x f fx 5 3 15 8 2 16 6 4 24 k i k ∑ f =10 ∑ fx =55+k\nMean = \\(\\frac{∑fx}{∑f}\\)\n5.7 = \\(\\frac{55 + k}{10}\\)\n57 = 55 + k k = 57 - 55 k = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9390",
+    "passage": ""
   }
 ]
