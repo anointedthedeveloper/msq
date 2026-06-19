@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76298",
     "passage": ""
+  },
+  {
+    "id": 76299,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The melody in the score above is in the key of",
+    "options": {
+      "A": "G minor",
+      "B": "D major",
+      "C": "A major",
+      "D": "D minor"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/QH2PlnawKhuOuSNMauf2bVGzRCni1JBrk8gUilTp.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890480/myschool/music/QH2PlnawKhuOuSNMauf2bVGzRCni1JBrk8gUilTp.png",
+    "correct_answer": "B",
+    "explanation": "The melody is in the key of D major .\nKey Signature: The score features a key signature with two sharps: F# and C# . This signature is characteristic of either D major or its relative minor, B minor. Melodic Content: The melody begins and ends on notes belonging to the D major triad. Specifically, the final note of the passage is D , which strongly establishes D as the tonic (the \"home\" key). Accidentals: The presence of an A# in the second measure serves as a chromatic passing tone or part of a secondary dominant, but the overall framework remains firmly rooted in the two-sharp diatonic system of D major.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76299",
+    "passage": ""
   }
 ]
