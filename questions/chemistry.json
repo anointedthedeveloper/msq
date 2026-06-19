@@ -4239,5 +4239,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2129",
     "passage": ""
+  },
+  {
+    "id": 2130,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Steam changes the colour of anhydrous cobalt (II) chloride from",
+    "options": {
+      "A": "blue to pink",
+      "B": "white to red",
+      "C": "white to green",
+      "D": "blue to white"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Steam changes the color of anhydrous cobalt (II) chloride from blue to pink.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2130",
+    "passage": ""
+  },
+  {
+    "id": 2131,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The gas that gives brown colouration in brown ring test is",
+    "options": {
+      "A": "NO",
+      "B": "CO 2",
+      "C": "NO 2",
+      "D": "CO"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the brown ring test, nitric oxide (NO) is produced when acidified iron (II) sulphate reacts with dilute nitric acid. The nitric oxide then reacts with iron (II) to form a complex ion, which creates a brown ring at the junction of the two liquids.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2131",
+    "passage": ""
   }
 ]
