@@ -897,5 +897,46 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48154",
     "passage": ""
+  },
+  {
+    "id": 48155,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Combien de syllabes y-a-t-il dans le mot \"camarade\"",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48155",
+    "passage": ""
+  },
+  {
+    "id": 48156,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Quel ...! La tempête a tout enlevé",
+    "options": {
+      "A": "pitié",
+      "B": "bruit",
+      "C": "orage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48156",
+    "passage": ""
   }
 ]
