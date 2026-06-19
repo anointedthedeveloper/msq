@@ -17691,5 +17691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25027",
     "passage": ""
+  },
+  {
+    "id": 25028,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The vector diagram shown below represents the resistance R, the capacitive reactance Xc, the inductive reactance Xc and the impedance, Z in an R-L-C circuit. The current in the circuit will be maximum when",
+    "options": {
+      "A": "X L = X C",
+      "B": "X L = X L",
+      "C": "R = X L",
+      "D": "R = X"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/kQXls6La4ml46W5wdgJlgyjUc6XRditW7qI7DE2x.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892624/myschool/physics/kQXls6La4ml46W5wdgJlgyjUc6XRditW7qI7DE2x.png",
+    "correct_answer": "A",
+    "explanation": "At resonance X<sub>L</sub> = X<sub>C</sub>",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25028",
+    "passage": ""
   }
 ]
