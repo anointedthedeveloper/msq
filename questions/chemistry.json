@@ -6129,5 +6129,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2646",
     "passage": ""
+  },
+  {
+    "id": 2647,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The oxidation state of chlorine in HClO\\(_4\\) is",
+    "options": {
+      "A": "-5",
+      "B": "-1",
+      "C": "+1",
+      "D": "+7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Oxidation state of H= +1 , O = - 2 , Cl = ?\nHClO\\(_4\\) = 0\n+1 + Cl + (- 2 x 4) = 0\nCl = +8 - 1\nCl = + 7\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2647",
+    "passage": ""
   }
 ]
