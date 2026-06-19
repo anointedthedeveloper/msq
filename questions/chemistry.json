@@ -5037,5 +5037,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2257",
     "passage": ""
+  },
+  {
+    "id": 2258,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A liquid that will dissolve fat is?",
+    "options": {
+      "A": "Hydrochloric acid",
+      "B": "Calcium hydroxide",
+      "C": "Kerosene",
+      "D": "Water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Organic solvents, such as alcohol, chloroform, petroleum ether, and hexane, can dissolve fats and oils. Other organic solvents that can dissolve fats include: benzene, diethylether, and tetrachloromethane. Kerosene also falls within this category of non-polar solvents.\nFats are insoluble in water because they are hydrophobic and do not have polar bonds. Water is a polar molecule, meaning that the oxygen atom has a partial negative charge and the hydrogen atoms have partial positive charges.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2258",
+    "passage": ""
   }
 ]
