@@ -1679,5 +1679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/998",
     "passage": ""
+  },
+  {
+    "id": 1003,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The leading agent in the expansion of British influence in Northern Nigeria in the 1890s was the",
+    "options": {
+      "A": "British Consul in Calabar",
+      "B": "Royal West African Frontier Force",
+      "C": "British Consul in Lagos",
+      "D": "Royal Niger Company"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1003",
+    "passage": ""
   }
 ]
