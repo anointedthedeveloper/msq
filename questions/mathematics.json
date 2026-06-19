@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/549",
     "passage": ""
+  },
+  {
+    "id": 550,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If the minimum value of y = 1 + hx - 3x\\(^2\\) is 13, find h.",
+    "options": {
+      "A": "13",
+      "B": "12",
+      "C": "11",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To find \\( h \\) for the function\n\\(y = 1 + hx - 3x^2\\)\nwith a minimum value of 13:\n1. The vertex \\( x \\) is given by\n\\(x = \\frac{h}{6}\\)\n2. Substitute into the function:\n\\(y = 1 + \\frac{h^2}{6} - 3\\left(\\frac{h}{6}\\right)^2 = 1 + \\frac{h^2}{6} - \\frac{h^2}{12}\\)\n3. Combine terms:\n\\(y = 1 + \\frac{2h^2}{12} - \\frac{h^2}{12} = 1 + \\frac{h^2}{12}\\)\n4. Set equal to 13:\n\\(1 + \\frac{h^2}{12} = 13 \\implies \\frac{h^2}{12} = 12 \\implies h^2 = 144 \\implies h = 12 \\text{ or } -12\\)\n\\( h = 12 \\) or \\( h = -12 \\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/550",
+    "passage": ""
   }
 ]

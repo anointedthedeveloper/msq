@@ -658,5 +658,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/369",
     "passage": ""
+  },
+  {
+    "id": 370,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Pick out the incorrect statement",
+    "options": {
+      "A": "The Ruhr is a great industrial region",
+      "B": "Scandinavia is noted for its hardwood timber",
+      "C": "The North Sea is a great fishing area",
+      "D": "Katanga is a copper mining region",
+      "E": "Woollen fabrics are manufactured in Yorkshire"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/370",
+    "passage": ""
   }
 ]
