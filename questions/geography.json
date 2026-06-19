@@ -5482,5 +5482,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7987",
     "passage": ""
+  },
+  {
+    "id": 7989,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of these statements is NOT true of the great circle?",
+    "options": {
+      "A": "The equator is a great circle",
+      "B": "The great circle is the largest circle one can draw on a sphere",
+      "C": "The great circle is the path of the shortest distance over the earth's surface between two points",
+      "D": "Each meridian is a great circle",
+      "E": "All great circles bisect the earth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7989",
+    "passage": ""
   }
 ]
