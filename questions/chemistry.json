@@ -13312,5 +13312,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4791",
     "passage": ""
+  },
+  {
+    "id": 4793,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The property of concentrated H2SO4 that makes it suitable for preparing HNO3 is its",
+    "options": {
+      "A": "boiling point",
+      "B": "density",
+      "C": "oxidizing properties",
+      "D": "dehydrating properties"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(H_2SO_4\\) acid has a high boiling point of 388°C. Due to its high boiling point, it is considered a non-volatile acid, so when sulphuric acid is reacted with salts of nitric acid eg \\(NaNO_3\\), \\(HNO_3\\) is displaced from its salt\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4793",
+    "passage": ""
   }
 ]
