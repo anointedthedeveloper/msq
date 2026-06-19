@@ -174,5 +174,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/211",
     "passage": ""
+  },
+  {
+    "id": 212,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Name the most important industrial mineral of Ghana",
+    "options": {
+      "A": "Diamond",
+      "B": "Bauxite",
+      "C": "Manganese",
+      "D": "Gold",
+      "E": "Aluminium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/212",
+    "passage": ""
   }
 ]
