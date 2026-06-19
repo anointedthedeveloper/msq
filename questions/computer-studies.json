@@ -15402,5 +15402,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67769",
     "passage": ""
+  },
+  {
+    "id": 67770,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A type of application software that combines the abilities of several general purpose applications in one program is ?",
+    "options": {
+      "A": "Graphics Packages",
+      "B": "Integrated Packages",
+      "C": "Multipurpose application",
+      "D": "Database management packages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Integrated Packages is an all-in-one application package that includes word processing, spreadsheet, database manager, graphics and communications.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67770",
+    "passage": ""
   }
 ]
