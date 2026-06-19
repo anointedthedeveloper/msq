@@ -4016,5 +4016,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62258",
     "passage": ""
+  },
+  {
+    "id": 62259,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The memory unit of the computer belongs to the?",
+    "options": {
+      "A": "control unit",
+      "B": "input device",
+      "C": "output device",
+      "D": "system unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The memory unit of the computer belongs to the system unit. The system unit, also known as the system chassis, is a box-like case housing the electronic components of a computer. These components include the central processing unit (CPU), memory, and other parts essential to the computer's operation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62259",
+    "passage": ""
   }
 ]
