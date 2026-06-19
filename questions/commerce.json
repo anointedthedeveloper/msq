@@ -14217,5 +14217,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7399",
     "passage": ""
+  },
+  {
+    "id": 7402,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The most important reason for the existence of insurance business is to?",
+    "options": {
+      "A": "prevent the occurrence of any loss",
+      "B": "spread losses to all covered participants",
+      "C": "provide for the replacement of facilities",
+      "D": "encourage individuals to save"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Insurance companies exist to provide financial protection from losses that can occur during normal business operations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7402",
+    "passage": ""
   }
 ]
