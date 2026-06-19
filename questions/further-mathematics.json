@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50369",
     "passage": ""
+  },
+  {
+    "id": 50370,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Express \\(\\frac{13}{4}\\pi\\) radians in degrees.",
+    "options": {
+      "A": "495°",
+      "B": "225°",
+      "C": "585°",
+      "D": "135°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(180° = \\pi radian\\)\n\\(\\frac{13}{4}\\pi = \\frac{13}{4} \\times 180° = 585°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50370",
+    "passage": ""
   }
 ]
