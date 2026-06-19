@@ -1299,5 +1299,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61391",
     "passage": ""
+  },
+  {
+    "id": 61392,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use the logic gate in Fig 2 to answer question 13.\nWhich of the following statements is true about logic gates X and Y?",
+    "options": {
+      "A": "They both have multiple output variables",
+      "B": "The output state of each depends on the input state",
+      "C": "The output is true only if all inputs are true",
+      "D": "They are both equivalent gates."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2Pu4kqdqqDVJJxKrBwW0JcE1VOrVN1KVlVBRbACq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900840/myschool/computer-studies/2Pu4kqdqqDVJJxKrBwW0JcE1VOrVN1KVlVBRbACq.jpg",
+    "correct_answer": "B",
+    "explanation": "Computers use Logic gates to transform the 1s and 0s from input wires. A logic gate accepts inputs and then outputs a result on their state.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61392",
+    "passage": ""
   }
 ]
