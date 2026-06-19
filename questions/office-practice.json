@@ -1356,5 +1356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66497",
     "passage": ""
+  },
+  {
+    "id": 66498,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One of the common items included in the agenda of meeting is",
+    "options": {
+      "A": "security issues in different parts of the country",
+      "B": "security of members at the meeting",
+      "C": "matters arising from the minutes of previous meeting",
+      "D": "matters arising from the current meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Items included in the agenda of meetings are: define the meeting goal, outline a list of meeting agenda topics for discussion, identify the list of required attendees, leave a section for action items and off-topic discussion at the end of your meeting agenda , and double-check meeting details, such as time,place,and conference logistics.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66498",
+    "passage": ""
   }
 ]
