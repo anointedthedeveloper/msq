@@ -14931,5 +14931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7518",
     "passage": ""
+  },
+  {
+    "id": 7520,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Division of labour ultimately leads to?",
+    "options": {
+      "A": "conservation",
+      "B": "intergration",
+      "C": "specialization",
+      "D": "repetition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": ". In a division of labor , the production process is broken down into a sequence of stages, and workers are assigned to particular stages. This leads to specialization",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7520",
+    "passage": ""
   }
 ]
