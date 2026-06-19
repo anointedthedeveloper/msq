@@ -2244,5 +2244,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50415",
     "passage": ""
+  },
+  {
+    "id": 50416,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the minimum value of \\(y = 3x^{2} - x - 6\\).",
+    "options": {
+      "A": "\\(-6\\frac{1}{6}\\)",
+      "B": "\\(-6\\frac{1}{12}\\)",
+      "C": "\\(-6\\)",
+      "D": "\\(0\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(3x^{2} - x - 6 = y\\)\n\\(a = 3, b = -1, c = -6\\)\nMinimum value of x = \\(\\frac{-b}{2a} = \\frac{-(-1)}{6} = \\frac{1}{6}\\)\n\\(y(\\frac{1}{6}) = 3(\\frac{1}{6}^{2}) - \\frac{1}{6} - 6 = -6\\frac{1}{12}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50416",
+    "passage": ""
   }
 ]
