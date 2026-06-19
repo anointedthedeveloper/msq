@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76287",
     "passage": ""
+  },
+  {
+    "id": 76288,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The English word for vivace is",
+    "options": {
+      "A": "slow",
+      "B": "sustained",
+      "C": "fast and lively",
+      "D": "slow and steady"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The English translation for the Italian term 'vivace' is 'fast and lively' . In music, 'vivace' is used as a direction to performers. It is an Italian musical term that means lively or brisk.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76288",
+    "passage": ""
   }
 ]
