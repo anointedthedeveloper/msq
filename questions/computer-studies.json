@@ -10259,5 +10259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62758",
     "passage": ""
+  },
+  {
+    "id": 62759,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "To make the entire slides in a presentation to have the same \"look\" in MS PowerPoint, a user  should?",
+    "options": {
+      "A": "use the slide layout option.",
+      "B": "use outline  view",
+      "C": "use a presentation design template.",
+      "D": "add a slide option."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Use a presentation design template: A presentation design template ensures that all slides have a consistent theme, including colors, fonts, and layouts, providing a uniform appearance throughout the presentation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62759",
+    "passage": ""
   }
 ]
