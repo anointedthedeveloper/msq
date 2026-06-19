@@ -3481,5 +3481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50254",
     "passage": ""
+  },
+  {
+    "id": 50255,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not included in the stages of interpersonal relationship",
+    "options": {
+      "A": "rejuvination",
+      "B": "deterioration",
+      "C": "termination",
+      "D": "continuation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The 5 stages of interpersonal relationship are:\nAcquaintance The build-up stage The continuation stage The deterioration stage The termination stage",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50255",
+    "passage": ""
   }
 ]
