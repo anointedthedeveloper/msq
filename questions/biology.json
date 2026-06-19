@@ -2418,5 +2418,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1174",
     "passage": ""
+  },
+  {
+    "id": 1175,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The filament of spirogyra were put into equal volumes of sugar solutions X and Y. After 5 minutes, filaments from solution X had their cells contents rounded up while those from Y were unaffected. The experiment shows that",
+    "options": {
+      "A": "solution X was stronger than Y",
+      "B": "solution Y was stronger than X",
+      "C": "Spirogyra used up the sugar in solution  X",
+      "D": "solution X is good for stimulating sexual reproduction in Spirogyra",
+      "E": "solution Y was less contaminated than X"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Filament of spirogyra  shrink in X - hypertonic medium( more concentration than cells interior), Filament of spirogyra unaffected in Y - Isotonic medium( same concentration)\n-",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1175",
+    "passage": ""
   }
 ]
