@@ -3232,5 +3232,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68306",
     "passage": ""
+  },
+  {
+    "id": 68307,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a benefit of recreation ?",
+    "options": {
+      "A": "It is time wasting",
+      "B": "It provides opportunity for creativity and self expression",
+      "C": "It raises the health and fitness level of the participant",
+      "D": "It helps to correct postural defect"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Benefits of recreation - It helps to correct postural defect - It provides opportunity for creativity and self expression - It raises the health and fitness level of the participant",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68307",
+    "passage": ""
   }
 ]
