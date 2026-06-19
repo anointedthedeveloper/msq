@@ -4093,5 +4093,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8054",
     "passage": ""
+  },
+  {
+    "id": 8056,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Evaluate \\(\\int_{1}^{3}(x^2 - 1)dx\\)",
+    "options": {
+      "A": "\\(\\frac{2}{3}\\)",
+      "B": "\\(-\\frac{2}{3}\\)",
+      "C": "\\(-6\\frac{2}{3}\\)",
+      "D": "\\(6\\frac{2}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\int_{1}^{3}(x^2\\) - 1)dx\n= \\(\\left[\\frac{1}{3}x^3 - x\\right] ^{3}_{1}\\)\n= (9-3) - \\(\\frac{1}{3}-1)\\)\n= 6 - \\(\\left(-\\frac{2}{3}\\right)\\)\n= 6+\\(\\frac{2}{3}\\) =6\\(\\frac{2}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8056",
+    "passage": ""
   }
 ]
