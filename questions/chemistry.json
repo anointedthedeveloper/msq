@@ -5646,5 +5646,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2528",
     "passage": ""
+  },
+  {
+    "id": 2529,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The process by which atoms are rearranged into different molecular structure in the petroleum refining process is referred to as",
+    "options": {
+      "A": "catalytic cracking",
+      "B": "hydrocracking",
+      "C": "polymerization",
+      "D": "reforming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Reforming is a chemical process that changes the molecular structure of hydrocarbons to improve their properties. It's often used to improve the combustion characteristics of low-quality gasoline stocks. Reforming can be done using thermal or catalytic methods.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2529",
+    "passage": ""
   }
 ]
