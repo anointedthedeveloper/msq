@@ -14129,5 +14129,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23921",
     "passage": ""
+  },
+  {
+    "id": 23922,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A sound pulse sent vertically downwards into the earth is reflected from two different layers of the earth such that echoes are heard 1.2s and 1.4s. Assuming speed of the pulse is 2000ms\n-1\n, calculate the distance between the layers.",
+    "options": {
+      "A": "200 m",
+      "B": "400 m",
+      "C": "2400 m",
+      "D": "2600 m",
+      "E": "2800 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "2 - (2000x12) 2} = 200 m.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23922",
+    "passage": ""
   }
 ]
