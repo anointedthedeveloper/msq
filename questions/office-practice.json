@@ -2984,5 +2984,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66848",
     "passage": ""
+  },
+  {
+    "id": 66849,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The purpose of a notice of meeting is to inform members of the",
+    "options": {
+      "A": "time, date and venue of a proposed meeting",
+      "B": "decision taken at the previous meeting",
+      "C": "postponement of a proposed meeting",
+      "D": "items to be discussed at the meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The notice of meeting informs the members when and where the meeting will be. The agenda informs the members what is to be discussed and done at the meeting so that the members can decide: if they want to attend the meeting; and if they do not plan to attend in person, how to cast their proxy or postal vote( if allowed by the rules).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66849",
+    "passage": ""
   }
 ]
