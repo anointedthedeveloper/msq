@@ -13205,5 +13205,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21253",
     "passage": ""
+  },
+  {
+    "id": 21254,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A cell can supply current of 0.8A and 0.4A through a 2Ω and a 3Ω resistors respectively. Calculate the internal resistance of the cell.",
+    "options": {
+      "A": "0.2Ω",
+      "B": "0.4Ω",
+      "C": "1.0Ω",
+      "D": "3.0Ω",
+      "E": "9.0Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Assume the internal resistor = R\nCurrent with 2 Ohm Resistor = 0.80A\nVoltage = (R + 2) x 0.80 = V ; That is 0.8R + 1.6 = V ———————[[1]\nCurrent with 3 Ohm Resistor = 0.40 A\nVoltage = (R+3) x 0.40 = V ; That is 0.4R + 1.2 = V ————————[[2]\nSubtracting 1 from 2 gives\n--> (0.8 - 0.4) R\n( 1.6 - 1.2 )\n( V - V )\nTherefore\n0.4R  + 0.4 = 0\nR = 0.4 /0.4 = 1 Ohms",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21254",
+    "passage": ""
   }
 ]
