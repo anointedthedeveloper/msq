@@ -9509,5 +9509,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62722",
     "passage": ""
+  },
+  {
+    "id": 62723,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "As a database administrator for a company, create a table named tbl-Employee in a database application package containing the fields:\n\"Employee Name\", \"Department\", \"Assumption Date\", Address and \"Designation\".\n(a) Enter the data as shown in the table tbl-Employee\ntbl-Employee\nEmployee Name\nKate Willikie\nJames Elliot\nPaul Akinson\nHRM\nAbdul Kaduna\nClerk\nDavid Madu\nMD\n(b)Sort the data using the Assumption date from oldest to newest.\n(c) Create a report in tabular, landscape using the tbl-Employee table.\n(d) Insert your full name and index number as a label on the report.\n(e) Save the report as rpt-Employee.\n(f) Print your work and submit to the supervisor.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62723",
+    "passage": ""
   }
 ]
