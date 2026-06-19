@@ -8188,5 +8188,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14042",
     "passage": ""
+  },
+  {
+    "id": 14043,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If the partial pressure of water vapour at 27°C is 18 mm Hg and the saturated vapour pressure of the atmosphere at the same temperature is 24 mm Hg, the relative humidity at this temperature is?",
+    "options": {
+      "A": "25%",
+      "B": "33%",
+      "C": "75%",
+      "D": "82%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Relative Humidity = (S.V.P. of water at dew point)/S.V.P of water at air temperature =(18)/24 x 100% = 75%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14043",
+    "passage": ""
   }
 ]
