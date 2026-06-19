@@ -3099,5 +3099,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2375",
     "passage": ""
+  },
+  {
+    "id": 2400,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Two goods, X and Y, are said to be complementary when?",
+    "options": {
+      "A": "A fall in the price of X raises the demand for Y",
+      "B": "A fall in the price of X causes a fall in the demand for Y",
+      "C": "A fall in the price of X does not affect the demand  for Y",
+      "D": "A rise  in the price of X does not affect the demand for Y",
+      "E": "The two goods  are competitive."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2400",
+    "passage": ""
   }
 ]
