@@ -2689,5 +2689,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58275",
     "passage": ""
+  },
+  {
+    "id": 58276,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of these operations would not improve the performance of a parallel database system?",
+    "options": {
+      "A": "Building indexes",
+      "B": "Deleting unwanted data",
+      "C": "Evaluating queries",
+      "D": "Storing data across several sites."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58276",
+    "passage": ""
   }
 ]
