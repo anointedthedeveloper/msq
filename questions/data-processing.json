@@ -6916,5 +6916,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67135",
     "passage": ""
+  },
+  {
+    "id": 67136,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "In Microsoft PowerPoint, the command: ctrl + m is used to create",
+    "options": {
+      "A": "An animation",
+      "B": "New slide",
+      "C": "New presentation",
+      "D": "New PowerPoint document"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "ctrl + m creates a new slide in Microsoft PowerPoint.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67136",
+    "passage": ""
   }
 ]
