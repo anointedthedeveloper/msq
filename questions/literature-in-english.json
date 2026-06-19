@@ -6133,5 +6133,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/3116",
     "passage": ""
+  },
+  {
+    "id": 3118,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "'All was quiet in this park Until the wind, like a gasping messenger, announced The tyrant's coming Then did the branches talk in agony'.\nThere is in line 2 ('like a gasping messenger...') an example of",
+    "options": {
+      "A": "oxymoron",
+      "B": "metonymy",
+      "C": "alliteration",
+      "D": "simile",
+      "E": "personification."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Until the wind, like a gasping messenger, announced...\"\nSimile is the indirect comparison of two unlike objects using \"as\" or \"like\". This line compares the wind to a gasping messenger using the word “like” , which is the key indicator of a simile .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/3118",
+    "passage": ""
   }
 ]
