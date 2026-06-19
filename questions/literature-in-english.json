@@ -1054,5 +1054,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/526",
     "passage": ""
+  },
+  {
+    "id": 527,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A narrative poem must",
+    "options": {
+      "A": "preach a sermon",
+      "B": "tell a story",
+      "C": "describe natural scenery",
+      "D": "argue a question",
+      "E": "propound a philosophy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/527",
+    "passage": ""
   }
 ]
