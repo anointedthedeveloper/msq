@@ -8923,5 +8923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14185",
     "passage": ""
+  },
+  {
+    "id": 14194,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "It is observed that water will wet a clean glass because the?",
+    "options": {
+      "A": "cohesion of water to glass is stronger than the cohesion of water molecules",
+      "B": "adhesion of water molecules is weaker than the cohesion of water to glass",
+      "C": "cohesion of water to glass is weaker  than the cohesion of water molecules",
+      "D": "adhesion of water molecules is stronger than the cohesion of water molecules"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When the adhesion of liquid molecules to the glass is more than the cohesion of the liquid, the liquid will wet glass.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14194",
+    "passage": ""
   }
 ]
