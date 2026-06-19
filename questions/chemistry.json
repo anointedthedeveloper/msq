@@ -4491,5 +4491,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2141",
     "passage": ""
+  },
+  {
+    "id": 2142,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "which of the following polymers is suitable for packaging and electrical insulation?",
+    "options": {
+      "A": "polyamide",
+      "B": "polyethene",
+      "C": "polycarbonate",
+      "D": "polystyrene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Polyvinyl Chloride (PVC) and polyethylene (PE) are polymers that are used for both packaging and electrical insulation.\nPolyethylene or polyethene (PE) is a popular plastic used for insulating cables, wires, bushings, and transformer components. PE has excellent insulation properties and high dielectric strength. However, Polyethylene is a good choice for packaging because it's non-toxic, food safe, and can be customized into many shapes and sizes. It's also resistant to chemicals, UV light, and moisture, and can be reused while polystyrene is a good choice for electrical insulation because it has low thermal conductivity and prevents the flow of electrical current. Since polystyrene can serve both purposes, it's a better answer compared to polyethene.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2142",
+    "passage": ""
   }
 ]
