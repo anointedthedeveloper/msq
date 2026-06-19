@@ -3442,5 +3442,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7761",
     "passage": ""
+  },
+  {
+    "id": 7766,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Three consecutive terms of a geometric progression are given as n-2, n and n+3. Find the common ratio",
+    "options": {
+      "A": "1/4",
+      "B": "1/2",
+      "C": "2/3",
+      "D": "3/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To find the common ratio of the geometric progression with terms \\( n-2 \\), \\( n \\), and \\( n+3 \\), we use the property that the square of the middle term is equal to the product of the other two terms:\n\\(n^2 = (n - 2)(n + 3)\\)\nExpanding the right side gives:\n\\(n^2 = n^2 + 3n - 2n - 6\\)\nSimplifying leads to:\n\\(0 = n - 6 \\implies n = 6\\)\nThe terms of the progression are:\n- First term: \\( n - 2 = 4 \\) - Second term: \\( n = 6 \\) - Third term: \\( n + 3 = 9 \\)\nThe common ratio \\( r \\) is calculated as follows:\n\\(r = \\frac{n}{n-2} = \\frac{6}{4} = \\frac{3}{2}\\)\nWe can verify it with the third term:\n\\(r = \\frac{n+3}{n} = \\frac{9}{6} = \\frac{3}{2}\\)\nThus, the common ratio of the geometric progression is: \\(\\boxed{\\frac{3}{2}}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7766",
+    "passage": ""
   }
 ]
