@@ -16347,5 +16347,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67839",
     "passage": ""
+  },
+  {
+    "id": 67840,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Who invented the Napier Bones",
+    "options": {
+      "A": "John Napier",
+      "B": "Samuel Napier",
+      "C": "Joseph Jacquard",
+      "D": "Charles Babbage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Napier's bones is a manually-operated calculating device created by John Napier of Merchiston for calculation of products and quotients of numbers. The method was based on the ancient mathematical principle known as the Arabic lattice, or gelosia multiplication.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67840",
+    "passage": ""
   }
 ]
