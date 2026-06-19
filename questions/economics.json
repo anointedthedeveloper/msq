@@ -1823,5 +1823,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/667",
     "passage": ""
+  },
+  {
+    "id": 668,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The 'terms of trade' means",
+    "options": {
+      "A": "the trade agreement between two countries",
+      "B": "the difference in the volumes of exports of two countries",
+      "C": "the value of a unit of export in relation to the value of a unit of import",
+      "D": "the production of total value of exports to the value of total trade",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/668",
+    "passage": ""
   }
 ]
