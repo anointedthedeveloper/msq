@@ -9595,5 +9595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9951",
     "passage": ""
+  },
+  {
+    "id": 9952,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "An arc subtends an angle of 50º at the center of circle of radius 6cm. Calculate the area of the sector formed",
+    "options": {
+      "A": "100 / 7",
+      "B": "80 / 7",
+      "C": "110 / 7",
+      "D": "90 / 7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Area of a sector = \\(\\frac{\\theta}{360}\\) x \\(\\pi\\)r\\(^2\\)\n= \\(\\frac{50}{360} \\times \\frac{22}{7}\\) x 36 = \\(\\frac{110}{7}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9952",
+    "passage": ""
   }
 ]
