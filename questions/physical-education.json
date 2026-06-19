@@ -5436,5 +5436,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76321",
     "passage": ""
+  },
+  {
+    "id": 76341,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "How does aerobic energy contribute to track events?",
+    "options": {
+      "A": "Used during rest",
+      "B": "Helps with long-distance events",
+      "C": "Provides energy for short sprints",
+      "D": "Only used for walking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The aerobic energy system relies on oxygen to produce ATP and is the predominant source of energy during long- duration, lower-intensity activities such as middle-distance and long-distance running events (e.g., 1500m, 5000m, marathon). Unlike sprint events, where energy must be supplied rapidly and anaerobically, aerobic metabolism supports sustained energy output over extended periods. The aerobic system uses carbohydrates, fats, and sometimes proteins as fuel, generating large quantities of ATP but at a slower rate than anaerobic systems. Aerobic conditioning improves the body's ability to deliver oxygen to muscles via increased capillary density, mitochondrial size, and efficiency, which delays fatigue during longer events. While minimal in short sprints, aerobic capacity is important for recovery between training bouts and repeated sprint efforts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76341",
+    "passage": ""
   }
 ]
