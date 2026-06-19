@@ -18747,5 +18747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71004",
     "passage": ""
+  },
+  {
+    "id": 71007,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is NOT a characteristic of interpreters?",
+    "options": {
+      "A": "They are generally slower than compilers.",
+      "B": "They provide immediate error detection.",
+      "C": "They execute code line by line.",
+      "D": "They translate code into machine code at once"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Interpreters translate code line by line, not all at once.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71007",
+    "passage": ""
   }
 ]
