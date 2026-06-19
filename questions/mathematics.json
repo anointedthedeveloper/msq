@@ -5017,5 +5017,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8315",
     "passage": ""
+  },
+  {
+    "id": 8317,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the sum of the first 20 terms of the series 8, 12, 16, ....., 96",
+    "options": {
+      "A": "1400",
+      "B": "1040",
+      "C": "960",
+      "D": "920"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "8, 12, 16, .....96 a = 8, d = 4, l = 96, n = 20 \\(S_{20} = \\frac{n}{2}(2a + (n-1)d\\)\n\\(S_{20} = \\frac{20}{2}((2\\times 8) + (20-1)\\times 4)\\)\n\\(S_{20} = 10(16 + (19\\times 4)) = 10 \\times 92\\)\n=920\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8317",
+    "passage": ""
   }
 ]
