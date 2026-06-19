@@ -12859,5 +12859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64362",
     "passage": ""
+  },
+  {
+    "id": 64363,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computer files can be characterised by all but,",
+    "options": {
+      "A": "A title",
+      "B": "It's accessibility",
+      "C": "The ability to be modified",
+      "D": "Where it is stored"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The storage position of a file isn't one of its numerous characters because, it can be stored either in a primary or secondary memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64363",
+    "passage": ""
   }
 ]
