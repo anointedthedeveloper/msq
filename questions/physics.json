@@ -15141,5 +15141,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24118",
     "passage": ""
+  },
+  {
+    "id": 24119,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "What is the electric potential energy between two protons each of charge q and at a distance of r apart? (Permittivity of free space = εo)",
+    "options": {
+      "A": "4πε o q 2 r",
+      "B": "qr/4πε o",
+      "C": "q/4πε o r",
+      "D": "q 2 /4πε o r",
+      "E": "q 2 /4πε o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24119",
+    "passage": ""
   }
 ]
