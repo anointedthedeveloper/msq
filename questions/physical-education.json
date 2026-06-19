@@ -5667,5 +5667,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76356",
     "passage": ""
+  },
+  {
+    "id": 76359,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In the long jump, a foul occurs if the athlete's foot touches what part of the takeoff board?",
+    "options": {
+      "A": "The red warning strip on the side of the runway.",
+      "B": "Any part of the sand pit before the jump.",
+      "C": "The ground beyond the front edge of the takeoff board.",
+      "D": "Any part of the takeoff board before the white line."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the long jump, the takeoff board is a critical element used to measure legal jumps. It is a white rectangular board embedded at the end of the runway. Just beyond the front edge of the takeoff board is a red or plasticine foul line (often called the \"foul line\" or \"warning strip\"), which is used to detect fouls. A foul occurs if any part of the athlete's foot crosses beyond the front edge of the takeoff board during takeoff- meaning the athlete steps on or beyond the foul line before launching into the jump. When this happens, the jump is disqualified because the athlete effectively shortens the jump distance by taking off closer to the landing pit thans allowed, which provides an unfair advantage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76359",
+    "passage": ""
   }
 ]
