@@ -1573,5 +1573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76315",
     "passage": ""
+  },
+  {
+    "id": 76317,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The quality of the triad above is",
+    "options": {
+      "A": "augmented",
+      "B": "minor",
+      "C": "diminished",
+      "D": "major"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/AAFnr2sfNjfH1NYygzdj2oMvY2vh8rj65T6cYF7O.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890565/myschool/music/AAFnr2sfNjfH1NYygzdj2oMvY2vh8rj65T6cYF7O.png",
+    "correct_answer": "A",
+    "explanation": "The image shows a triad on the treble staff with two sharps. By looking at the intervals:\nThe distance from the bottom note to the middle note is a major third (4 semitones). The distance from the middle note to the top note is also a major third . A triad consisting of two major thirds stacked together results in an augmented triad (1, 3, 5#).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76317",
+    "passage": ""
   }
 ]
