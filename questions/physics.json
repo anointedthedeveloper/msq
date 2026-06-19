@@ -12743,5 +12743,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21213",
     "passage": ""
+  },
+  {
+    "id": 21217,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following is a reason why a concrete floor feels colder to the bare feet than a mat on the same floor during the rainy season?",
+    "options": {
+      "A": "A mat if s better conductor of heat than the feet",
+      "B": "Mat losses heat to the bare feet at a faster rate than concrete floor",
+      "C": "Mat losses heat to the bare feet while the concrete floor extracts heat from them",
+      "D": "Concrete floor is a better conductor of heat than the mat",
+      "E": "Mat is a better conductor of heat than the floor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21217",
+    "passage": ""
   }
 ]
