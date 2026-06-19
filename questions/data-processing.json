@@ -9776,5 +9776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77065",
     "passage": ""
+  },
+  {
+    "id": 77066,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "How do you minimize and maximize windows?",
+    "options": {
+      "A": "Hold down both the right and left buttons on the mouse",
+      "B": "Go to file and select minimize or minimize",
+      "C": "It is an impossible task",
+      "D": "At the top right corner, click Dash or Square"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To minimize and maximize windows, you typically click on the dash or square icons at the top right corner of the window. The dash usually minimizes the window, while the square maximizes it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77066",
+    "passage": ""
   }
 ]
