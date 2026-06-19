@@ -11700,5 +11700,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14488",
     "passage": ""
+  },
+  {
+    "id": 14489,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The above figure shows the motion of a progressive wave along a string. The particle motion of the medium is in direction?",
+    "options": {
+      "A": "parallel to OX",
+      "B": "parallel to OY",
+      "C": "60 o to OX",
+      "D": "60v to OY"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27279551640_phy200827.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890987/myschool/physics/27279551640_phy200827.jpg",
+    "correct_answer": "B",
+    "explanation": "Particles of the transmitting medium in transverse wave oscillate in a direction perpendicular to the propagation of the wave\nParticle motion of a string (transverse wave) is parallel to OY (or perpendicular to OX)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14489",
+    "passage": ""
   }
 ]
