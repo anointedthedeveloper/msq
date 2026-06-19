@@ -2671,5 +2671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71085",
     "passage": ""
+  },
+  {
+    "id": 71086,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceJe veux savoir_il a payé.",
+    "options": {
+      "A": "que",
+      "B": "quel",
+      "C": "combien",
+      "D": "don't"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "he correct answer is combien. The correct sentence would be: \"Je veux savoir combien il a payé.\" Which translates to \"I want to know how much he paid.\" \"Combien\" is used to ask for a quantity or amount, which is appropriate in this context",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71086",
+    "passage": ""
   }
 ]
