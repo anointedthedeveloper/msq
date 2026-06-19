@@ -1300,5 +1300,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49773",
     "passage": ""
+  },
+  {
+    "id": 49774,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Term insurance benefits are payable",
+    "options": {
+      "A": "at surrender",
+      "B": "at death",
+      "C": "before maturity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The death benefit would be paid by the insurance company if the insured died during the one-year term, while no benefit is paid if the insured dies one day after the last day of the one-year term. The premium paid is then based on the expected probability of the insured dying in that one year.\nYou purchase this insurance for a set amount of time, or a \"term,\" often in 5, 10, 20, or 30 year increments. It's usually at a set price, which means you pay the same amount of money for the policy ever year until the term is up. If you should die during the term, the beneficiaries of your policy will receive the value of the policy. If you don't die during the term, there's no payout. (The good news is you're still alive!)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49774",
+    "passage": ""
   }
 ]
