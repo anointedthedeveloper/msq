@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1122",
     "passage": ""
+  },
+  {
+    "id": 1126,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "If \\(x = \\frac{y}{2}\\),evaluate\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)",
+    "options": {
+      "A": "5/8",
+      "B": "5/2",
+      "C": "5/32",
+      "D": "5/16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(x = \\frac{y}{2} \\)\n\\(\\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right)\\)\n\\(\\frac{x^3}{y^3} + \\frac{1}{2} = (\\frac{y}{2})^{3} \\div y^{3} + \\frac{1}{2}\\)\n= \\(\\frac{y^{3}}{8} \\times \\frac{1}{y^3} + \\frac{1}{2}\\)\n= \\(\\frac{1}{8} + \\frac{1}{2}\\)\n= \\(\\frac{5}{8}\\)\n\\(\\frac{1}{2} - \\frac{x^2}{y^2} = \\frac{1}{2} - (\\frac{y}{2})^{2} \\div y^2)\\)\n= \\(\\frac{1}{2} - \\frac{y^2}{4} \\times \\frac{1}{y^2}\\)\n= \\(\\frac{1}{2} - \\frac{1}{4}\\)\n= \\(\\frac{1}{4}\\)\n\\(\\therefore \\left(\\frac{x^{3}}{y^{3}}+\\frac{1}{2}\\right) \\div \\left(\\frac{1}{2} - \\frac{x^{2}}{y^{2}}\\right) = \\frac{5}{8} \\div \\frac{1}{4}\\)\n= \\(\\frac{5}{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1126",
+    "passage": ""
   }
 ]
