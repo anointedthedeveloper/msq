@@ -1698,5 +1698,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61412",
     "passage": ""
+  },
+  {
+    "id": 61413,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "In MS Excel, the cell that contains the pointer or cursor is called",
+    "options": {
+      "A": "active cell",
+      "B": "current cell",
+      "C": "default cell",
+      "D": "passive cell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61413",
+    "passage": ""
   }
 ]
