@@ -5104,5 +5104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62341",
     "passage": ""
+  },
+  {
+    "id": 62342,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Software is referred to as the?",
+    "options": {
+      "A": "generic term for computer programs",
+      "B": "physical components of the computer",
+      "C": "part of the computer for communication",
+      "D": "part of the computer which is breakable."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62342",
+    "passage": ""
   }
 ]
