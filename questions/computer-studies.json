@@ -18474,5 +18474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70975",
     "passage": ""
+  },
+  {
+    "id": 70976,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which toolbar in word processing packages provides options for adjusting paragraph alignment, indentation,and spacing.",
+    "options": {
+      "A": "Review Toolbar",
+      "B": "Insert Toolbar",
+      "C": "View Toolbar",
+      "D": "Formatting Toolbar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The formatting toolbar is specifically designed for controlling the appearance of your paragraphs. This includes options for setting alignment (left, right, center, justified), adjusting indentation (left and right), and modifying spacing settings (before and after paragraphs, line spacing).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70976",
+    "passage": ""
   }
 ]
