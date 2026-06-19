@@ -12892,5 +12892,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4771",
     "passage": ""
+  },
+  {
+    "id": 4772,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A suitable solvent for iodine and naphthalene is",
+    "options": {
+      "A": "carbon (IV) sulphide",
+      "B": "ethanol",
+      "C": "water",
+      "D": "benzene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Both Iodine and Naphthalene, being  nonpolar compounds, dissolve best in nonpolar or slightly polar solvents like benzene, toluene, and carbon disulfide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4772",
+    "passage": ""
   }
 ]
