@@ -4912,5 +4912,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12787",
     "passage": ""
+  },
+  {
+    "id": 12788,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An a.c circuit of e.m.f 12V has a resistor of resistance 8Ω connected in series to an inductor of inductive reactance 16Ω and a capacitor capacitive reactance 10Ω. The current flow in the circuit is",
+    "options": {
+      "A": "1.4A",
+      "B": "1.2A",
+      "C": "12.0A",
+      "D": "14.0A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12788",
+    "passage": ""
   }
 ]
