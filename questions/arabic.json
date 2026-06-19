@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75210",
     "passage": ""
+  },
+  {
+    "id": 75211,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\".ترجم إلى الإنجليزية: \"ذهب خالد إلى السوق",
+    "options": {
+      "A": "Khalid went home",
+      "B": "Khalid went to the market",
+      "C": "Khalid goes to school",
+      "D": "Khalid went to the mosque"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ". means he went in Arabic \"ذهب\" means the market, and \"السوق\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75211",
+    "passage": ""
   }
 ]
