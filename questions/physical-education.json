@@ -2140,5 +2140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68229",
     "passage": ""
+  },
+  {
+    "id": 68230,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Fruit and vegetables are important because",
+    "options": {
+      "A": "They give you energy",
+      "B": "They are easily available",
+      "C": "They are colorful",
+      "D": "They provide you with a wide variety of vitamins, minerals, and nutrients"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Balanced diet is a diet consisting of adequate amounts of all the necessary nutrients recommended for healthy growth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68230",
+    "passage": ""
   }
 ]
