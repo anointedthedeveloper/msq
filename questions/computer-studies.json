@@ -20738,5 +20738,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76870",
     "passage": ""
+  },
+  {
+    "id": 76872,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In ring topology, the computer that is allowed to transmit data possesses the\n.",
+    "options": {
+      "A": "data",
+      "B": "token",
+      "C": "packet",
+      "D": "access method"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a ring topology, the computer that is allowed to transmit data possesses the 'token'. A token is a special type of frame that is passed around the network from one node to the next. Only the node that holds the token can transmit data. Once the data transmission is complete, the token is released back into the network for other nodes to use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76872",
+    "passage": ""
   }
 ]
