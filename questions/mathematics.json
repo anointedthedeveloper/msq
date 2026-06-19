@@ -7411,5 +7411,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9254",
     "passage": ""
+  },
+  {
+    "id": 9255,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Find the value of \\(\\frac{tan 60^o - tan 30^o}{tan 60^o + tan 30^o}\\)",
+    "options": {
+      "A": "\\(\\frac{4}{\\sqrt{3}}\\)",
+      "B": "\\(\\frac{2}{\\sqrt{3}}\\)",
+      "C": "1",
+      "D": "\\(\\frac{1}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9255",
+    "passage": ""
   }
 ]
