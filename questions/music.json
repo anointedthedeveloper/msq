@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48087",
     "passage": ""
+  },
+  {
+    "id": 48088,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The combination of a string quartet is",
+    "options": {
+      "A": "2 violins, 1 cello and 1 double bass",
+      "B": "2 violins, 1 viola and 1 cello",
+      "C": "2 violins, 1 viola and 1 double bass",
+      "D": "1 violins, 2 violas and 1 cello"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48088",
+    "passage": ""
   }
 ]
