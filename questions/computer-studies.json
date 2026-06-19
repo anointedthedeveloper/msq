@@ -21032,5 +21032,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76903",
     "passage": ""
+  },
+  {
+    "id": 76905,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The process of restarting a computer is known as",
+    "options": {
+      "A": "cold booting",
+      "B": "resume booting",
+      "C": "warm booting",
+      "D": "restart booting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Warm booting is the process of restarting a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76905",
+    "passage": ""
   }
 ]
