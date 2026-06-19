@@ -249,5 +249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73418",
     "passage": ""
+  },
+  {
+    "id": 73419,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Bayanau a nahawu na nufin kalmar da ke Karin bayani a kan",
+    "options": {
+      "A": "jam'i",
+      "B": "sifa",
+      "C": "aikatau",
+      "D": "adadi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In grammar, a modifier (bayanau) is a word that gives more information about: Answer: aikatau (Aikatau means \"verb\", and a modifier give: more information about the verb. Adadi means \"number\", jam'i means \"plural\", sifa means \"adjective\", and suna means \"name\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73419",
+    "passage": ""
   }
 ]
