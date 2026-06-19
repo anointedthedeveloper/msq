@@ -19020,5 +19020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71377",
     "passage": ""
+  },
+  {
+    "id": 71378,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the primary purpose of using a query in MS Access?",
+    "options": {
+      "A": "To visually represent data trends and relationships through charts and graphs.",
+      "B": "To define the overall structure of the tables and their relationships within the database.",
+      "C": "To retrieve specific data from one or more tables based on defined criteria, allowing for filtering and sorting of\r\ninformation.",
+      "D": "To create a user-friendly interface for entering editing and displaying data in the database."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Queries are a powerful tool in MS Access for retrieving specific data from your tables. You can define criteria to filter the data based on specific conditions, allowing you to focus on relevant information for analysis or reporting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71378",
+    "passage": ""
   }
 ]
