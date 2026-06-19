@@ -16935,5 +16935,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67868",
     "passage": ""
+  },
+  {
+    "id": 69813,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "An advantage of bus topology over star topology is that",
+    "options": {
+      "A": "it is stronger than star topology.",
+      "B": "it is more expensive than star topology.",
+      "C": "its component are easily removed compared to star topology.",
+      "D": "it requires less cable length than star topology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An advantage of bus topology over star topology is that \"it requires less cable length than star topology.\" In a bus topology, all devices are connected to a single central cable (the bus), which means that less cabling is required compared to a star topology where each device has its own cable running to a central hub or switch. This can result in cost savings in terms of both cable material and installation. It's important to note that while bus topology has its advantages, it also has drawbacks, such as potential issues with signal degradation and difficulty in identifying and isolating faults. Each topology has its own set of strengths and weaknesses, and the choice between them depends on factors like the network's size, layout, and specific requirements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69813",
+    "passage": ""
   }
 ]
