@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/554",
     "passage": ""
+  },
+  {
+    "id": 555,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})} = m +n\\sqrt{6}\\), find the values of m and n respectively.",
+    "options": {
+      "A": "1, -2",
+      "B": "-2, 1",
+      "C": "\\(\\frac{-2}{5}\\), 1",
+      "D": "2, 3/5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Rationalize \\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) and equate to \\(m +n\\sqrt{6}\\). Such that m = -2, and n = 1.\nUse  \\(\\sqrt{3}-2\\sqrt{2}\\) as the conjugate for Rationalization\n\\(\\frac{(2\\sqrt{3}-\\sqrt{2})}{(\\sqrt{3}+2\\sqrt{2})}\\) X  \\(\\frac{(\\sqrt{3}-2\\sqrt{2})}{(\\sqrt{3}-2\\sqrt{2})}\\)\n\\(\\frac{6 - 4\\sqrt{6} - \\sqrt{6} + 4}{3 - 2\\sqrt{6} + 2\\sqrt{6} - 8}\\)\n=\\(\\frac{10 - 5\\sqrt{6}}{-5}\\)\n= -2 + \\(\\sqrt{6}\\) = \\(m +n\\sqrt{6}\\)\n∴ m = -2 and n = 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/555",
+    "passage": ""
   }
 ]
