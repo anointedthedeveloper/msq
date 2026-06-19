@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50386",
     "passage": ""
+  },
+  {
+    "id": 50387,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A car is moving at 120\\(kmh^{-1}\\). Find its speed in \\(ms^{-1}\\).",
+    "options": {
+      "A": "33.3\\(ms^{-1}\\)",
+      "B": "66.6\\(ms^{-1}\\)",
+      "C": "99.9\\(ms^{-1}\\)",
+      "D": "120.0\\(ms^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(120 kmh^{-1} = \\frac{120 \\times 1000}{3600} = \\frac{100}{3} = 33.3ms^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50387",
+    "passage": ""
   }
 ]
