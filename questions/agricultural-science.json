@@ -4155,5 +4155,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16207",
     "passage": ""
+  },
+  {
+    "id": 16210,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "What symptom can be used to identify maize rust?",
+    "options": {
+      "A": "yellow colouration of the leaves",
+      "B": "raised brown spots on the leaves",
+      "C": "infected leaves showing stripes of yellow and green",
+      "D": "drying up to the leaves",
+      "E": "shedding of leaves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16210",
+    "passage": ""
   }
 ]
