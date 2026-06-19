@@ -16153,5 +16153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24266",
     "passage": ""
+  },
+  {
+    "id": 24267,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The image of a pin formed by a diverging lens of focal length 10cm is 5cm from the lens. Calculate the distance of the pin from the lens",
+    "options": {
+      "A": "-3.3cm",
+      "B": "3.3cm",
+      "C": "10.0cm",
+      "D": "15.0cm",
+      "E": "20.0cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Using the lens formula:\nUsing the lenses formula and applying the real-is-positive convention\n\\(\\frac{1}{v}\\) + \\(\\frac{1}{u}\\) = \\(\\frac{1}{f}\\)\nf = -10cm for diverging lens, v = 5cm real image\n\\(\\frac{1}{u}\\) = \\(\\frac{1}{f}\\) - \\(\\frac{1}{v}\\)\n\\(\\frac{1}{u}\\) = \\(\\frac{1}{-10}\\) - \\(\\frac{1}{5}\\)\n\\(\\frac{1}{u}\\) = \\(\\frac{-1 - 2}{10}\\) =  \\(\\frac{-3}{10}\\)\nU =  \\(\\frac{10}{-3}\\) = - 3.33cm\nThe negative sign indicates that the object is on the same side as the incoming light.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24267",
+    "passage": ""
   }
 ]
