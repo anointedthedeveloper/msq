@@ -5208,5 +5208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62346",
     "passage": ""
+  },
+  {
+    "id": 62347,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A subroutine is called in a flowchart through the use of?",
+    "options": {
+      "A": "data",
+      "B": "predefined process",
+      "C": "process",
+      "D": "terminator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62347",
+    "passage": ""
   }
 ]
