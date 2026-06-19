@@ -8650,5 +8650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9316",
     "passage": ""
+  },
+  {
+    "id": 9317,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "W is directly proportional to U. If W = 5 when U = 3, find U when W = 2/7",
+    "options": {
+      "A": "6 / 35",
+      "B": "10 / 21",
+      "C": "21 / 10",
+      "D": "35 / 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "W ∝ U W = KU K = \\(\\frac{W}{U}\\) K = \\(\\frac{5}{3}\\) W = \\(\\frac{5}{3}U\\) \\(\\frac{2}{7} = \\frac{5}{3}\\)U U = \\(\\frac{2}{7} \\times \\frac{3}{5}\\) U = \\(\\frac{6}{35}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9317",
+    "passage": ""
   }
 ]
