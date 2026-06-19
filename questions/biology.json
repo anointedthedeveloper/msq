@@ -3804,5 +3804,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1911",
     "passage": ""
+  },
+  {
+    "id": 1912,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of these animals is NOT metamerically segmented?",
+    "options": {
+      "A": "Tapeworm",
+      "B": "Earthworm",
+      "C": "Centipede",
+      "D": "Crayfish",
+      "E": "Shark"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1912",
+    "passage": ""
   }
 ]
