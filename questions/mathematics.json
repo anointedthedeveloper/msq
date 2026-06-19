@@ -4030,5 +4030,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8044",
     "passage": ""
+  },
+  {
+    "id": 8047,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Find the derivatives of (2 + 3x)(1 - x) with respect to x",
+    "options": {
+      "A": "6",
+      "B": "-3",
+      "C": "1 - 6x",
+      "D": "6x - 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "y = (2 + 3x)(1 - x) y = 2 - 2x + 3x - 3x2 y = 2 + x - 3x2 dy/dx = 1 - 6x\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8047",
+    "passage": ""
   }
 ]
