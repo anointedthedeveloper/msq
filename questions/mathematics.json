@@ -6739,5 +6739,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9222",
     "passage": ""
+  },
+  {
+    "id": 9223,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Find the value of x for which the function f(x) = 2x\\(^3\\) - x\\(^2\\) - 4x + 4 has a maximum value",
+    "options": {
+      "A": "2 / 3",
+      "B": "1",
+      "C": "- 2 / 3",
+      "D": "- 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "f(x) = 2x\\(^3\\) - x\\(^2\\) - 4x – 4 f’(x) = 6x\\(^2\\) - 2x – 4 As f’(x) = 0 Implies 6x\\(^2\\) - 2x – 4 = 0 3x – x – 2 = 0 (By dividing by 2) (3x + 2)(x - 1) = 0 3x + 2 = 0 implies x = \\(\\frac{-2}{3}\\) Or x - 1 = 0 implies x = 1 f’(x) = 6x\\(^2\\) - 2x – 4 f’’(x) = 12x – 2 At max point f’’(x) < 0 ∴f’’(x) = 12x – 2 at x = 1 = 12(1) – 2 = 12 – 2 = 10 ∴ Max at x = \\(\\frac{-2}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9223",
+    "passage": ""
   }
 ]
