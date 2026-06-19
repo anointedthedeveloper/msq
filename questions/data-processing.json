@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57301",
     "passage": ""
+  },
+  {
+    "id": 57305,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The property of a system software that enables it to execute more than one program at a time is referred to as",
+    "options": {
+      "A": "compiling",
+      "B": "virtual memory",
+      "C": "multitasking",
+      "D": "load modules"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57305",
+    "passage": ""
   }
 ]
