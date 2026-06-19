@@ -2370,5 +2370,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1552",
     "passage": ""
+  },
+  {
+    "id": 1553,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Given that M is the mass of substance deposited in an electrolysis and Q the quantity of electricity consumed, then Faraday's law can be written as",
+    "options": {
+      "A": "M = Z/Q",
+      "B": "M = Q/Z",
+      "C": "M = Z/2Q",
+      "D": "M = QZ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Faraday’s First Law of Electrolysis states that the mass of a substance deposited at any electrode is directly proportional to the amount of charge passed.\nMathematically it can be expressed as follows – m ∝ Q\nRemoving the proportionality sign  m=ZQ. Therefore, option D is the correct answer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1553",
+    "passage": ""
   }
 ]
