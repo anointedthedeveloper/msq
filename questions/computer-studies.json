@@ -9860,5 +9860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62739",
     "passage": ""
+  },
+  {
+    "id": 62740,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Antivirus software is an example of?",
+    "options": {
+      "A": "application software.",
+      "B": "operating system",
+      "C": "system software.",
+      "D": "utility software."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62740",
+    "passage": ""
   }
 ]
