@@ -15197,5 +15197,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65390",
     "passage": ""
+  },
+  {
+    "id": 65397,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "(a) Create a;\n(i) database and save as WASSCE in the folder on the desktop. (i) table with headings as shown in Table 2 (11 rows).\nDefine the fields appropriately. Save the table as the customers.\nSet CustomlD as primary key\n[iii] form from the customers and save as REFORM\n[b] Enter ten records of your choice using the Form created in (a)(ii). (c) Write a query to retrieve the First Name and Telephone. (d) Design a report using (c). (e) Insert a footer and type in your full name",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "REFORM CUSTOM ID 1 first name Racheal last name Adeyemi Telephone 08065487942 address 1,iju road CUSTOM ID 2 first name joy last name oku telephone 08055565559 address 10,ajangbadi close Custom ID 3 first name chibuzor last name racheal telephone 07066669899 address 32,fatai alinco way Custom ID 4 first name samad last name malim telephone 08059888889 address victoria island CUSTOM ID 5 first name kate last name peace telephone 09055445668 address 5,magodo estate CUSTOM ID 6 first name halima last name abubakar telephone 08165663228 address 13,obawole street CUSTOM ID 7 first name philip last name peace telephone 08012223221 address 76,Ifako ijaiye CUSTOM ID 8 first name philip last name peace telephone 08012223221 address 76, agbado ijaiye CUSTOM ID 9 first name zainab last name effiong telephone 081444499999 address 23,alimosho CUSTOM ID 10 first name chisom last name emmanuel telephone 07055555595 address 24, ifako agege\nfirst name telephone racheal 08065487942 joy 08055565559 chibuzor 07066666689 samad 08059888889 kate 09055445668 halima 08165663228 philip 080122222321 stephen 081444999999 zainab 070987223333 chisom 070555555559\ncustom id first name last name telephone address 1 racheal adeyemi 08065487942 1, iju road 2 joy oku 08055565559 10, ajangbadi close 3 chiibuzor racheal 07066666689 32,fatai alinco way 4 samad malim 08059888889 victoria island 5 kate peace 09055445668 5, magodo estate 6 halima abubakar 08165663228 13,obawole street 7 philip peace 08012222232 76,agbado ijaye 8 stephen effiong 08144499999 23,alimosho 9 zainab ajayi 07098722333 26, aim saliu 10 chisom emmanuel 07055555555 24, ifako agege",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65397",
+    "passage": ""
   }
 ]
