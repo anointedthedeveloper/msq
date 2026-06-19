@@ -4500,5 +4500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58735",
     "passage": ""
+  },
+  {
+    "id": 58736,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "One advantage of indexed sequential file organization is that",
+    "options": {
+      "A": "index tables are small and can be searched quickly",
+      "B": "it is cost effective",
+      "C": "it is suitable for dynamically changing files",
+      "D": "it requires less storage space"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "It is suitable for dynamically changing files, a key advantage of indexed sequential file organization. This method allows for efficient updates, insertions, and deletions, making it well-suited for frequently changing files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58736",
+    "passage": ""
   }
 ]
