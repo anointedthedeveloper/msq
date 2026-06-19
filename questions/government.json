@@ -5820,5 +5820,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2401",
     "passage": ""
+  },
+  {
+    "id": 2402,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Under colonial administration, what was the status of the inhabitants of the Lagos Crown Colony",
+    "options": {
+      "A": "British servants",
+      "B": "British settlers",
+      "C": "British subjects",
+      "D": "British citizens"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2402",
+    "passage": ""
   }
 ]
