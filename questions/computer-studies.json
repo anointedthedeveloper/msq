@@ -12838,5 +12838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64361",
     "passage": ""
+  },
+  {
+    "id": 64362,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Numerous files are referred to as _____________",
+    "options": {
+      "A": "Files",
+      "B": "Folder",
+      "C": "Memo",
+      "D": "Drafts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Folders are created to help collate similar files before storing them. This helps to find files from folder because of its orderly arrangements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64362",
+    "passage": ""
   }
 ]
