@@ -3358,5 +3358,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7747",
     "passage": ""
+  },
+  {
+    "id": 7748,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Find the range of the value of x satisfying the inequalities 5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7",
+    "options": {
+      "A": "-3 \\(\\leq\\) x \\(\\leq\\) 3",
+      "B": "3 \\(\\leq\\) x \\(\\leq\\) 6",
+      "C": "-6 \\(\\leq\\) x \\(\\leq\\) 3",
+      "D": "-6 \\(\\leq\\) x \\(\\leq\\) -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "5 + x \\(\\leq\\) 8 and 13 + x \\(\\geq\\) 7 5 + x \\(\\leq\\) 8 X \\(\\leq\\) 8 – 5 X \\(\\leq\\) 3 And 13 + x \\(\\geq\\) 7 X \\(\\geq\\) 7 – 13 X \\(\\geq\\) -6 Combining the two -6 \\(\\leq\\) x \\(\\leq\\) 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7748",
+    "passage": ""
   }
 ]
