@@ -10479,5 +10479,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14349",
     "passage": ""
+  },
+  {
+    "id": 14350,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Two balls, X and Y, weighing 5 g and 50 kg respectively, were thrown up vertically at the same time with a velocity of 100 ms\\(^{-1}\\). How will their positions be one second later?",
+    "options": {
+      "A": "X and Y will be 500 m from each other",
+      "B": "Y will be 500 m ahead of X",
+      "C": "X will be 500 m ahead of Y",
+      "D": "X and Y both be 500 m from the point of throw"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V\\(^2\\) = U\\(^2\\) - 2gS 0 = 100\\(^2\\) - 2 x 10 x S = 10000 - 20S S = \\(\\frac{10000}{20}\\) = 500m Which is independent of mass. The two bodies were acted upon by the same retarding force of gravity, which is independent of the mass of the body; therefore, both will be 500 m from the point of throw.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14350",
+    "passage": ""
   }
 ]
