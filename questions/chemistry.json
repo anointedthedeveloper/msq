@@ -8839,5 +8839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3770",
     "passage": ""
+  },
+  {
+    "id": 3772,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Cu\\(^{2+}\\)(aq) + 4NH\\(_3\\)(g) ↔ [Cu(NH\\(_3\\))\\(_4\\)]\\(^{2+}\\)(aq) In the reaction above, what is the effect of precipitating Cu\\(^{2+}\\)(aq) as CuS(s)?",
+    "options": {
+      "A": "NH 3(g) concentration will decrease",
+      "B": "more NH 3(g)",
+      "C": "The equilibrium will shift to the right",
+      "D": "There will be no effect"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The precipitation of Cu\\(^{2+}\\) as CuS decreases the concentration of Cu\\(^{2+}\\) in the solution. According to Le Chatelier's principle, the equilibrium will shift to the left to counteract this decrease.\nPrecipitating Cu\\(^{2+}\\) as CuS shifts the equilibrium to the left, decreasing the concentration of [Cu(NH\\(_3\\))\\(_4\\)]\\(^{2+}\\). Hence more of the reactant will be formed.i.e NH\\(_3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3772",
+    "passage": ""
   }
 ]
