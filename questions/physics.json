@@ -12351,5 +12351,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14523",
     "passage": ""
+  },
+  {
+    "id": 14526,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The correct expression for the potential at a point distance r from a charge q in an electric field is?",
+    "options": {
+      "A": "_q 2 4πε o r 2",
+      "B": "_q 2 4πε o r",
+      "C": "_q 4πε o r 2",
+      "D": "\\(\\frac{q}{4πε_or}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Electric potential is work done in taking a unit mass or charge from infinity to that point\nV = \\(\\frac{\\text{W}}{\\text{Q}}\\) = \\(\\frac{\\text{Fr}}{\\text{Q}}\\) = \\(\\frac{Q_1Q_2}{4πεor^2}\\) x \\(\\frac{\\text{r}}{Q_1}\\)\n= \\(\\frac{- q}{4πεor}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14526",
+    "passage": ""
   }
 ]
