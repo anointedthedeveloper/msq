@@ -1,0 +1,23 @@
+[
+  {
+    "id": 57159,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following persons invented the punch card machine?",
+    "options": {
+      "A": "Blaise Pascal",
+      "B": "Gottfried Leibniz",
+      "C": "J. Prosper Eckert",
+      "D": "Dr. Herman Hollerith"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dr. Herman Hollerith developed the punch card system for data processing in the late 19th century, which was widely used for the 1890 U.S. Census. His system used punched cards to store data, which could be processed using electric machines to count and analyze the information much more efficiently than manual methods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57159",
+    "passage": ""
+  }
+]
