@@ -4808,5 +4808,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1904",
     "passage": ""
+  },
+  {
+    "id": 1905,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Bank overdraft as a short term source of fund is",
+    "options": {
+      "A": "an overdrawn account",
+      "B": "granted to a newly opened account",
+      "C": "repayable after more than a year",
+      "D": "a current liability"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A bank overdraft is considered a short-term source of funds and is classified as a current liability on the company's balance sheet. It represents the amount of money that a company owes to the bank after having withdrawn more than the available balance in its account. Typically, this type of borrowing is repayable within a year.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1905",
+    "passage": ""
   }
 ]
