@@ -6883,5 +6883,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2999",
     "passage": ""
+  },
+  {
+    "id": 3000,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E :\nMusa asked Asmau what she …. Since, he last saw her.",
+    "options": {
+      "A": "has been doing",
+      "B": "had been doing",
+      "C": "has done",
+      "D": "was doing",
+      "E": "might be doing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sentence is an example of reported (indirect) speech in the past tense : \"Musa asked Asmau what she _____ since he last saw her.\"\nThe reporting verb \"asked\" is in the past tense . The action being referred to occurred before the time of asking.The word \"since\" indicates an action that began in the past and continued up to a point . To express a continuous action in the past before another past event , we use the past perfect continuous tense : \"had been doing\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3000",
+    "passage": ""
   }
 ]
