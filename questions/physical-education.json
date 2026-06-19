@@ -3631,5 +3631,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68328",
     "passage": ""
+  },
+  {
+    "id": 70709,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In which city were the 2015 All Africa Games held?",
+    "options": {
+      "A": "Kigali",
+      "B": "Maputo",
+      "C": "Brazzaville",
+      "D": "Freetown"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The 11th African Games (French: 11es Jeux africains), also known as Brazzaville 2015, took place from September 4-19, 2015 in Brazzaville, Republic of the Congo. This edition marked the 50th anniversary of the Games, as well as their retur to Brazzaville, which hosted the first edition in 1965.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70709",
+    "passage": ""
   }
 ]
