@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73264",
     "passage": ""
+  },
+  {
+    "id": 73266,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The amount of fabric needed to make a six year old girl's uniform is determined by",
+    "options": {
+      "A": "Her height",
+      "B": "The school she attends",
+      "C": "Her size",
+      "D": "The width of fabric"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The amount of fabric needed for a six-year-old girl’s uniform depends on her measurements—chest, waist, hip, and height—since garment size determines fabric use. Standard size charts help estimate fabric based on these measurements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73266",
+    "passage": ""
   }
 ]
