@@ -3525,5 +3525,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1727",
     "passage": ""
+  },
+  {
+    "id": 1728,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Catalytic hydrogenation of benzene produces",
+    "options": {
+      "A": "Oil",
+      "B": "Cyclohexene",
+      "C": "Cyclohexane",
+      "D": "Margarine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hydrogenation of benzene involves the addition of 3 molecules of H\\(_2\\) = 6 Hydrogen atoms in all.\nTo do this, the three double bonds present in the Benzene (C\\(_6\\)H\\(_6\\)) will be opened so that the 6 Hydrogen molecules can attach to the Carbon atoms each, resulting into C\\(_6\\)H\\(_{12}\\) (in a cyclic form, hence the name cyclo). Recall, Saturated Hydrocarbon with 6C atoms is called Hexane, hence the name is cyclohexane.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1728",
+    "passage": ""
   }
 ]
