@@ -3791,5 +3791,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6421",
     "passage": ""
+  },
+  {
+    "id": 6422,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which are three main export crops of Uganda?\n1.Bananas 2.Coffee 3.Cotton 4.Groundnuts 5.Sugar 6.Cassava 7.Tobacco",
+    "options": {
+      "A": "1&5&7",
+      "B": "2&3&7",
+      "C": "2&4&5",
+      "D": "1&6&7",
+      "E": "3&4&6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6422",
+    "passage": ""
   }
 ]
