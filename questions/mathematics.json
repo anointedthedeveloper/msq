@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/556",
     "passage": ""
+  },
+  {
+    "id": 562,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Evaluate \\(\\frac{(2.813 \\times 10^{-3} \\times 1.063)}{(5.637 \\times 10^{-2})}\\) reducing each number to two significant figures and leaving your answer in two significant figures.",
+    "options": {
+      "A": "0.056",
+      "B": "0.055",
+      "C": "0.054",
+      "D": "0.54"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{2.813 \\times 10^{-3} \\times 1.063}{5.637 \\times 10^{-2}}\\)\n= \\(\\frac{0.002813 \\times 1.063}{0.05637}\\)\n\\(\\approxeq \\frac{0.0028 \\times 1.1}{0.056}\\)\n= \\(0.055\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/562",
+    "passage": ""
   }
 ]
