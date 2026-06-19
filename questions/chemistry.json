@@ -8818,5 +8818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3768",
     "passage": ""
+  },
+  {
+    "id": 3770,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The tincture of iodine means iodine dissolved in",
+    "options": {
+      "A": "ethanol and water",
+      "B": "bromine chloride",
+      "C": "chlorine water",
+      "D": "water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Tincture of iodine is iodine dissolved in ethanol and water. It's also known as iodine tincture or weak iodine solution. Tincture of iodine is a topical antiseptic solution that contains iodine, alcohol, and water. It's used to treat wounds, prevent infections, and disinfect surfaces.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3770",
+    "passage": ""
   }
 ]
