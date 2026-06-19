@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66146",
     "passage": ""
+  },
+  {
+    "id": 66150,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Economy in the use of office equipment is one of the advantages of",
+    "options": {
+      "A": "panoramic office.",
+      "B": "closed office.",
+      "C": "departmental office.",
+      "D": "open office"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "One of the advantages of an open office is economy. This is because the cost of lighting and heating is reduced and also there is saving on floor space simply because the office is not partitioned.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66150",
+    "passage": ""
   }
 ]
