@@ -2077,5 +2077,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64472",
     "passage": ""
+  },
+  {
+    "id": 68223,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Track events are done on a ___",
+    "options": {
+      "A": "basketball court",
+      "B": "gym",
+      "C": "running track",
+      "D": "open field"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Track events are athletic events that take place on a running track. These events include sprints, middle-distance races, long-distance races, hurdling, and relays. Therefore, the correct answer is 'running track'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68223",
+    "passage": ""
+  },
+  {
+    "id": 68227,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The ability of the body systems to work together efficiently to allow you to be healthy and perform activities of daily living is",
+    "options": {
+      "A": "physical fitness",
+      "B": "stamina",
+      "C": "good posture",
+      "D": "immune system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Physical fitness is the ability of the body systems to work together efficiently to allow you to be healthy and perform activities of daily living.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68227",
+    "passage": ""
   }
 ]
