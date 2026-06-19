@@ -6235,5 +6235,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8895",
     "passage": ""
+  },
+  {
+    "id": 8907,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If the locus of the points which are equidistant from point P and Q meets line PQ at point N, then PN equals",
+    "options": {
+      "A": "NQ",
+      "B": "1 / 4 NQ",
+      "C": "2NQ",
+      "D": "1 / 2 NQ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Locus of point equidistant from points P and Q is a perpendicular bisector of the straight joining P and Q ∴PN = NQ\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8907",
+    "passage": ""
   }
 ]
