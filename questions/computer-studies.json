@@ -13489,5 +13489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64403",
     "passage": ""
+  },
+  {
+    "id": 64405,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a type of computer network?",
+    "options": {
+      "A": "VPN",
+      "B": "CAN",
+      "C": "WLAN",
+      "D": "DAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dan is not a type of computer network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64405",
+    "passage": ""
   }
 ]
