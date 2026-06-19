@@ -15149,5 +15149,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65129",
     "passage": ""
+  },
+  {
+    "id": 65138,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A palindrome is a word which can be written in reversed order and it retains its meaning and spelling,Examples are lawal,ada,abba,etc\nWrite a simple QBASIC instruction that will accept a word from the keyboard and check if it is a palindrome or not. The palindrome must display a message showing if the word is palindrome or not.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "CLS\nINPUT-ENTERANY:\";S$\nFor l =LEN(S$) TO 1STEP-1\nB$=MID$(S$,L,1)\nW$=W$+B$\nNext l\nIF S$=W$ THEN\nPRINT \" it is palindrome\"\nELSE\nPRINT \"It is not palindrome\nEND IF\nEND",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65138",
+    "passage": ""
   }
 ]
