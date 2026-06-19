@@ -1335,5 +1335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66495",
     "passage": ""
+  },
+  {
+    "id": 66497,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Incoming mails should be sorted according to",
+    "options": {
+      "A": "sizes",
+      "B": "weighs",
+      "C": "departments",
+      "D": "contents"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Incoming mail is defined as those mailpieces that are received by any company, and in addition to the postal address, contain company-specific addressee information,such as name,tilte,department,subdivision and other specific details",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66497",
+    "passage": ""
   }
 ]
