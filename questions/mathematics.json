@@ -13844,5 +13844,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22876",
     "passage": ""
+  },
+  {
+    "id": 22877,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "A cylinder of base radius 4cm is open at one end . If the ratio of the area of its base to that of its curved surface is 1:4, calculate the height of the cylinder",
+    "options": {
+      "A": "1cm",
+      "B": "2cm",
+      "C": "4cm",
+      "D": "8cm",
+      "E": "16cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22877",
+    "passage": ""
   }
 ]
