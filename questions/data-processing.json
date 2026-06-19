@@ -9713,5 +9713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77062",
     "passage": ""
+  },
+  {
+    "id": 77063,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following is not a database security tip?",
+    "options": {
+      "A": "Updating of Anti-Malware software",
+      "B": "enforce restrictions on internet access",
+      "C": "regular backup of data on removable media",
+      "D": "fight off hacking attacks with intrusion detection technology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Regular backup of data on removable media is not a database security tip. While it is important to regularly backup data, doing so on removable media can actually pose a security risk if the media is lost or stolen. Instead, data should be backed up in a secure, off-site location or on the cloud. The other options listed are all valid security tips for databases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77063",
+    "passage": ""
   }
 ]
