@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7245",
     "passage": ""
+  },
+  {
+    "id": 7255,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A gas with initial volume of 2 X 10\\(^{-6}m^3\\) is allowed to expand to six times its initial value at constant pressure of 2 x 10\\(^5Nm^{-2}\\). The work done is?",
+    "options": {
+      "A": "2.0J",
+      "B": "4. 0 J",
+      "C": "12.0 J",
+      "D": "2.4 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "W = PΔV =  2 x 10\\(^5\\) * (12 x 10\\(^{-6}\\) -  2 x 10\\(^{-6}\\)) = 2 x 10\\(^5\\)  10 x 10\\(^{-6}\\) = 2.0J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7255",
+    "passage": ""
   }
 ]
