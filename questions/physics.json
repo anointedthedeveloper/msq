@@ -6298,5 +6298,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13748",
     "passage": ""
+  },
+  {
+    "id": 13752,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "I. reproducibility II. Sensibility III. High thermal capacity iv. High accuracy The quantities of a good thermometer include?",
+    "options": {
+      "A": "I, II and IV only",
+      "B": "I, III and IV only",
+      "C": "I, II and III only",
+      "D": "II, III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Reproducibility (I) Consistent readings under the same conditions.\nSensibility (II) Quick response to small temperature changes.\nHigh Accuracy (IV) Measurements close to the true temperature.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13752",
+    "passage": ""
   }
 ]
