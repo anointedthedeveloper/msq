@@ -4344,5 +4344,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2134",
     "passage": ""
+  },
+  {
+    "id": 2135,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The reaction of an alkene with hydrogen in the presence of catalyst is",
+    "options": {
+      "A": "a substitution reaction",
+      "B": "an oxidation reaction",
+      "C": "a nucleophilic reaction",
+      "D": "an addition reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When an alkene reacts with hydrogen in the presence of a catalyst, the reaction is called hydrogenation.\nHydrogenation is an addition reaction that occurs when hydrogen gas is added to an alkene's double bond in the presence of a metal catalyst. The reaction results in the formation of an alkane, which is a saturated compound.\nThe reaction is also known as catalytic hydrogenation because a catalyst is required for it to occur. The catalyst lowers the activation energy of the reactants, which increases the reaction rate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2135",
+    "passage": ""
   }
 ]
