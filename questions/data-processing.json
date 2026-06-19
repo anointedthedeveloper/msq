@@ -2269,5 +2269,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58150",
     "passage": ""
+  },
+  {
+    "id": 58182,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In a worksheet, which of the following actions would select non-contiguous cells?",
+    "options": {
+      "A": "holding down the Shift key",
+      "B": "Holding down the Ctrl key",
+      "C": "holding than the Alt key",
+      "D": "holding down the Ctrl+Shift key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Holding down the Ctrl key would select non-contiguous cells in a worksheet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58182",
+    "passage": ""
   }
 ]
