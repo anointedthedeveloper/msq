@@ -10490,5 +10490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62769",
     "passage": ""
+  },
+  {
+    "id": 62770,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The EBCDIC coding system was developed on?",
+    "options": {
+      "A": "IBM mainframe computers.",
+      "B": "HP mainframe and minicomputers.",
+      "C": "Dell mainframe computer",
+      "D": "Apple mainframe computers."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "EBCDIC stands for Extended Binary Coded Decimal Interchange Code. It’s an encoding system that is used to encode 8 bits, because of 8 bit we can assign numeric values from 0 to 255 to different alphabetic, numeric, punctuation, control, and other special characters that are used in computing, communications, and text. EBCDIC was used in IBM mainframe systems in 1964. This allows machines to store and transmit textual information efficiently using the 8-bit format.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62770",
+    "passage": ""
   }
 ]
