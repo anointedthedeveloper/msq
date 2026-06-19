@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/793",
     "passage": ""
+  },
+  {
+    "id": 794,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In a regular polygon, each interior angle doubles its corresponding exterior angle. Find the number of sides of the polygon.",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2x + x = 180°, => 3x = 180°, and thus x = 60° Each exterior angle = 60° but size of ext. angle = 360°/n Therefore 60° = 360°/n n = 360°/60° = 6 sides\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/794",
+    "passage": ""
   }
 ]
