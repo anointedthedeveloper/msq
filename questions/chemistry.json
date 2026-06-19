@@ -7411,5 +7411,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3217",
     "passage": ""
+  },
+  {
+    "id": 3221,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "What is the valence shell electron configuration of the element with atomic number 17?",
+    "options": {
+      "A": "1s 2 2s 2 2p 6 3s 2 3p 4",
+      "B": "1s 2 2s 2 2p 6 3s 2 3p 5",
+      "C": "2s 2 2p 6",
+      "D": "3s 2 3p 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "It's important to take note of \" valence shell\" used in the presentation of the question.\nElectronic configuration and valence shell electronic configuration are not the same. Electronic configuration describes the arrangement of all electrons in an atom, while valence shell electronic configuration focuses specifically on the electrons in the outermost shell, which are the valence electrons.\nHence; Option D carries the answer as specified in the question.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3221",
+    "passage": ""
   }
 ]
