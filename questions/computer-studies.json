@@ -1950,5 +1950,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61492",
     "passage": ""
+  },
+  {
+    "id": 61494,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Evaluate 10011\\(_2\\) - 1111\\(_2\\)",
+    "options": {
+      "A": "00010\\(_2\\)",
+      "B": "00100\\(_2\\)",
+      "C": "01000\\(_2\\)",
+      "D": "10000\\(_2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61494",
+    "passage": ""
   }
 ]
