@@ -1172,5 +1172,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49689",
     "passage": ""
+  },
+  {
+    "id": 49691,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following farm animals could be used of breeding purposes?",
+    "options": {
+      "A": "Buck",
+      "B": "Bullock",
+      "C": "Hog",
+      "D": "Wether"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A buck is a male deer, antelope, sheep, goat, rabbit, hare, and sometimes the male of other animals such as the ferret and shad.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49691",
+    "passage": ""
   }
 ]
