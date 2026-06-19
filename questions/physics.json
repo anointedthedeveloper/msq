@@ -15361,5 +15361,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24158",
     "passage": ""
+  },
+  {
+    "id": 24160,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following reduce(s) the effect of the back e.m.f. generated in the primary coil of an induction coil? The capacitor in the circuit II. The make and break contact in the circuit III. The ratio of turns in the secondary to that in the primary",
+    "options": {
+      "A": "l only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "II and III only",
+      "E": "I, II and III."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "i) The back e.m.f. generated in the primary coil of an induction coil opposes the flow of current in the coil, causing a decrease in the current. This effect can be reduced by using a capacitor in the circuit, which stores the charge and releases it when the current drops. This maintains the flow of current and reduces the effect of the back e.m.f. ii) The make-and-break contact in the circuit also helps to reduce the effect of the back e.m.f. The contact repeatedly breaks the circuit, causing the current to stop flowing momentarily, which interrupts the magnetic field and reduces the back e.m.f.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24160",
+    "passage": ""
   }
 ]
