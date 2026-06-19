@@ -4848,5 +4848,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70828",
     "passage": ""
+  },
+  {
+    "id": 70829,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which type of exercise is beneficial for improving balance in individuals with neurological disorders?",
+    "options": {
+      "A": "High-intensity interval training",
+      "B": "Balance exercises on a stability ball",
+      "C": "Long-distance running",
+      "D": "Jumping jacks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Balance exercises on a stability ball help improve proprioception and stability, which is beneficial for individuals with neurological disorders.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70829",
+    "passage": ""
   }
 ]
