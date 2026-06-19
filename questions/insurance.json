@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49649",
     "passage": ""
+  },
+  {
+    "id": 49650,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The use of gas burners for cutting and welding is considered in insurance contract as",
+    "options": {
+      "A": "a favourable morale hazard",
+      "B": "a favourable physical hazard",
+      "C": "an unfavourable morale hazard",
+      "D": "an unfavourable physical hazard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A physical hazard is defined as \"A factor within the environment that can harm the body without necessarily touching it. Vibration and noise are examples of physical hazards\".\nPhysical hazards include but aren't limited to electricity, radiation, pressure, noise, heights and vibration amongst many others.\nWelding is a potentially hazardous activity and precautions are required to avoid electrocution, fire and explosion, burns, electric shock, vision damage, inhalation of poisonous gases and fumes, and exposure to intense ultraviolet radiation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49650",
+    "passage": ""
   }
 ]
