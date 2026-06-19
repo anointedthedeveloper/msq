@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75199",
     "passage": ""
+  },
+  {
+    "id": 75200,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Translate: \"Cleanliness is part of faith.\"",
+    "options": {
+      "A": "الإسلام يحب النظافة",
+      "B": "الطهارة واجبة",
+      "C": "الإیمان نظیف",
+      "D": "النظافة من الإيمان"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is a common saying in Islam and its accurate translation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75200",
+    "passage": ""
   }
 ]
