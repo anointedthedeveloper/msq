@@ -9427,5 +9427,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3870",
     "passage": ""
+  },
+  {
+    "id": 3980,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "How many structural isomers of chlorobutane are possible?",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The structural isomers of chlorobutane are: 1-chlorobutane, 2-chlorobutane, 1-chloro-2-methylpropane, and 2-chloro-2-methylpropane; in total, there are four structural isomers of chlorobutane.\nExplanation:\n1-chlorobutane: Chlorine is attached to the first carbon of a straight carbon chain. 2-chlorobutane: Chlorine is attached to the second carbon of a straight carbon chain. 1-chloro-2-methylpropane: A methyl group is attached to the second carbon of a propane chain, with chlorine on the first carbon. 2-chloro-2-methylpropane: Chlorine is attached to a carbon that is also connected to two methyl groups.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3980",
+    "passage": ""
   }
 ]
