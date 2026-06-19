@@ -1510,5 +1510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50380",
     "passage": ""
+  },
+  {
+    "id": 50381,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "What is the probability of obtaining a head and a six when a fair coin and and a die are tossed together?",
+    "options": {
+      "A": "\\(\\frac{1}{12}\\)",
+      "B": "\\(\\frac{1}{3}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{2}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\text{p(a head and a six)} = \\text{p(a head)} \\times \\text{p(a six)}\\)\n= \\(\\frac{1}{2} \\times \\frac{1}{6} = \\frac{1}{12}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50381",
+    "passage": ""
   }
 ]
