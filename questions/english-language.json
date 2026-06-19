@@ -3825,5 +3825,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1964",
     "passage": ""
+  },
+  {
+    "id": 1965,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "complete the sentences with the\ncorrect options\nfrom the list below\n:\nHe told me to go on .... till seven",
+    "options": {
+      "A": "to work",
+      "B": "worked",
+      "C": "works",
+      "D": "working",
+      "E": "work"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1965",
+    "passage": ""
   }
 ]
