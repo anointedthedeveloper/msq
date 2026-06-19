@@ -14217,5 +14217,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23925",
     "passage": ""
+  },
+  {
+    "id": 23926,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "What is the gravitational potential due to a molecule of mass, m and at a distance, r from it? (G = gravitational constant).",
+    "options": {
+      "A": "Gm 2 /r 2",
+      "B": "Gm/r",
+      "C": "Gm 2 /r",
+      "D": "G 2 m 2 /r",
+      "E": "m 2 /Gr 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The gravitational potential (often denoted as V or φ) due to a single point mass m (such as a molecule treated as a point mass) at a distance r from it is given by:\nV = - \\(\\frac{\\text{G m}}{\\text{r}}\\)\nWhere: G is the gravitational constant, m is the mass of the molecule, r is the distance from the center of the molecule to the point where the potential is being evaluated. The negative sign is conventional: gravitational potential is zero at infinity and becomes more negative (lower) as you get closer to the mass.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23926",
+    "passage": ""
   }
 ]
