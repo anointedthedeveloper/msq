@@ -3104,5 +3104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73830",
     "passage": ""
+  },
+  {
+    "id": 73831,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Afọ ọle ka ị gbara ugbu a?",
+    "options": {
+      "A": "Ọ gbara afọ",
+      "B": "Agbara m afọ iri",
+      "C": "Ha gbara afọ isii",
+      "D": "Ị gbara afọ iri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Ha gbara afọ isii. The question \"Afọ ọle ka ị gbara ugbu a?\" means \"How old are you now?\" in Igbo. The correct response is \"Ha gbara afọ isii\", which means \"I am six years old\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73831",
+    "passage": ""
   }
 ]
