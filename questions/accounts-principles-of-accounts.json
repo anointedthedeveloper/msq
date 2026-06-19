@@ -4198,5 +4198,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5484",
     "passage": ""
+  },
+  {
+    "id": 5485,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A general journal contains?",
+    "options": {
+      "A": "date, narration, folio, debit, and purchases",
+      "B": "date, narration, folio, debit and purchase",
+      "C": "folio, credit, date, debit and sales",
+      "D": "debit, credit, narration, and date"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The general ledger contains the date of the transaction, a description of the details of the transactions, the debit column that shows all the debit entries, the credit column that records all the credit entries of the account.\nHence we have; date, description, debit, and credit column",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5485",
+    "passage": ""
   }
 ]
