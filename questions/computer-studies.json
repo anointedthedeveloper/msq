@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60247",
     "passage": ""
+  },
+  {
+    "id": 60248,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In hexadecimal number system, B, D, E represent_________",
+    "options": {
+      "A": "11, 12, 13 respectively",
+      "B": "11, 13, 14 respectively",
+      "C": "13, 14, 15 respectively",
+      "D": "14, 16, 17 respectively"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A = 10 B = 11 C = 12 D = 13 E = 14 F = 15 B = 11, D = 13, E = 14",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60248",
+    "passage": ""
   }
 ]
