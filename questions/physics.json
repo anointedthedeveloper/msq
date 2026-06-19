@@ -3169,5 +3169,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11707",
     "passage": ""
+  },
+  {
+    "id": 11712,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An engineer intends to deviate a light ray from its path by 120\no\nthrough reflection from a plane mirror. Calculate the angle of incidence",
+    "options": {
+      "A": "60 o",
+      "B": "40 o",
+      "C": "30 o",
+      "D": "20 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11712",
+    "passage": ""
   }
 ]
