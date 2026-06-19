@@ -10813,5 +10813,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4299",
     "passage": ""
+  },
+  {
+    "id": 4300,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The type of bonding in \\({Cu(NH_3)_4}^2\\)+ is?",
+    "options": {
+      "A": "coordinate covalent",
+      "B": "electrovalent",
+      "C": "metallic",
+      "D": "covalent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\({Cu(NH_3)_4}^2\\)+: The bonding in this ion consists of coordinate covalent bonds with all bonding electrons supplied by the nitrogen atom.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4300",
+    "passage": ""
   }
 ]
