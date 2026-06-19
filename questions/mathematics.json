@@ -2938,5 +2938,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3390",
     "passage": ""
+  },
+  {
+    "id": 3393,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "How many three-digit numbers can be formed from 32564 without repeating any of the digits?",
+    "options": {
+      "A": "120",
+      "B": "10",
+      "C": "20",
+      "D": "60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To get the answer, we simply do\n\\(\\frac{5!}{(5 - 3)!}\\)\n= \\(\\frac{5 \\times 4 \\times 3 \\times 2 \\times 1}{2 \\times 1}\\)\n= 60",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3393",
+    "passage": ""
   }
 ]
