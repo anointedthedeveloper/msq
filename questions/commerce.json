@@ -15790,5 +15790,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7608",
     "passage": ""
+  },
+  {
+    "id": 7609,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Balance of payment problems arise if a country's?",
+    "options": {
+      "A": "exports is more than imports",
+      "B": "imports is more than exports",
+      "C": "currency devaluation",
+      "D": "invisible exports is more than visible exports"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A country's balance of payment problems  arises when the value of its visible and invisible imports is greater than the value of exports",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7609",
+    "passage": ""
   }
 ]
