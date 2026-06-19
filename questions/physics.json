@@ -12721,5 +12721,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21208",
     "passage": ""
+  },
+  {
+    "id": 21213,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A given mass of gas has a pressure of 80Nm\n-2\nat a temperature of 47\no\nC. If the temperature is reduced to 27\no\nC with the volume remaining constant, the new pressure is",
+    "options": {
+      "A": "46.0 Nm -2",
+      "B": "75.0 Nm -2",
+      "C": "80.0 Nm -2",
+      "D": "85.3 Nm -2",
+      "E": "139.4 Nm -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1\n1\n2\n2\n1\n-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21213",
+    "passage": ""
   }
 ]
