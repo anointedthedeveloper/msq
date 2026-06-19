@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64213",
     "passage": ""
+  },
+  {
+    "id": 64216,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The glide is a skill used in",
+    "options": {
+      "A": "Discus throw",
+      "B": "hammer throw",
+      "C": "high jump",
+      "D": "short put throw"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The glide skill is used in shot put throw. The glide technique tries to get the right foot down around the centre of the circle with the shoulders, left arm held back allowing the right leg to engage before the upper body and arm deliver the shot.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64216",
+    "passage": ""
   }
 ]
