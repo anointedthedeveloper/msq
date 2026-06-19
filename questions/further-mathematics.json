@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50351",
     "passage": ""
+  },
+  {
+    "id": 50361,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the coefficient of \\(x^{3}\\) in the binomial expansion of \\((x - \\frac{3}{x^{2}})^{9}\\).",
+    "options": {
+      "A": "324",
+      "B": "252",
+      "C": "-252",
+      "D": "-324"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(x - \\frac{3}{x^{2}} = x - 3x^{-2}\\)\nLet the power on x be t, so that the power on \\(x^{-2}\\) = 9 - t\n\\((x)^{t}(x^{-2})^{9 - t} = x^{3}  \\implies t - 18 + 2t = 3\\)\n\\(3t = 3 + 18 = 21 \\therefore t = 7\\)\nTo obtain the coefficient of \\(x^{3}\\), we have\n\\(^{9}C_{7}(x)^{7}(3x^{-2))^{2} = \\frac{9!}{(9 - 7)! 7!}(x)^{7}(9x^{-4})\\)\n= \\(\\frac{9 \\times 8 \\times 7!}{7! 2!} \\times 9(x^{3}) = 324x^{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50361",
+    "passage": ""
   }
 ]
