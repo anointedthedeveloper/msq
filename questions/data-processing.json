@@ -838,5 +838,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57450",
     "passage": ""
+  },
+  {
+    "id": 57478,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "a (i) Define an operating system. (ii) State two functions of an operating system (iii) List two differences between an operating system and application system software.\nb Starting from the Save As dialogue box, outline the steps involved in passwording a document in a word processing package.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "1 (a) (i) An operating system is that software that controls or manage both software and hardware resources in computer. OR It is a system that manages the computer hardware and software resources and provides common services for computer programs. All computer programs excluding firmware require an operating system to function.\n(ii) Functions Of an operating system:\n(I) It enhances data management.\n(II) It ensures system security\n(III) It allocates system resources\n(IV) It manages the computer resources as the central processing unit, memory,disk and printing\n(V) Executes and provides services for application software\n(VI) It establishes user interface\n(iii) Differences between an operating system and an application software operating system application software.\nS/N Operating System Application Software 1 It is used by the computer to manage software and hardware resources. It is used by the end users to achieve one or more tasks e,g word processing and spreadsheet (Microsoft word). 2 It is basic to the computer hence it comes first ié it works on it's own without human intervention. It comes in second and third, it's installation will be as the need arises. 3 It is installed by the computer manufacturer It is installed by the computer user. 4 It loads all the programs in the computer It is being load by the user. 5 It allocates space memory and ensures that the various parts are working very well. It requires human intervention before it can function.\n(b) Processes/Steps involved in passwording a document in a word processing package\n(i) Click Save As (ii) Click Options (iii) Type your password(iv) Retype the password (this enables you to ensure the authenticity of  your password) (v) Click OK",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57478",
+    "passage": ""
   }
 ]
