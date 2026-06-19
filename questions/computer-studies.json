@@ -19125,5 +19125,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72591",
     "passage": ""
+  },
+  {
+    "id": 72592,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements is true about data?",
+    "options": {
+      "A": "Information is a product of data while knowledge is a product of information",
+      "B": "Data produces knowledge while knowledge produces information",
+      "C": "Data is a product of information while knowledge is a product of data",
+      "D": "Knowledge produces information while in- formation produces data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A: The correct order is data information knowledge. Data provides the foundation upon which information is built. Then, knowledge emerges from information being applied.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72592",
+    "passage": ""
   }
 ]
