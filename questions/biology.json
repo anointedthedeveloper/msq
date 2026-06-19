@@ -6048,5 +6048,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2585",
     "passage": ""
+  },
+  {
+    "id": 2587,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "The dorsal and anal fins of fish are used for",
+    "options": {
+      "A": "Upward movement",
+      "B": "Controlling rolling",
+      "C": "Downward movement",
+      "D": "Steering",
+      "E": "Buoyancy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2587",
+    "passage": ""
   }
 ]
