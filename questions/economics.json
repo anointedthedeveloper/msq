@@ -1339,5 +1339,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/480",
     "passage": ""
+  },
+  {
+    "id": 481,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Average cost is",
+    "options": {
+      "A": "the total cost of production",
+      "B": "the extra cost of producing one additional unit of output",
+      "C": "cost of producing a unit of output",
+      "D": "variable cost",
+      "E": "overhead cost"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/481",
+    "passage": ""
   }
 ]
