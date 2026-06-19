@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73184",
     "passage": ""
+  },
+  {
+    "id": 73185,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The method of cooking which is fast but expensive to use is:",
+    "options": {
+      "A": "Grilling",
+      "B": "Frying",
+      "C": "Roasting",
+      "D": "Boiling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Frying uses oil or fat to cook food quickly, producing a crispy exterior and tender interior. It is expensive because it requires a large amount of oil and energy to heat it to high temperatures.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73185",
+    "passage": ""
   }
 ]
