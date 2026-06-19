@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48102",
     "passage": ""
+  },
+  {
+    "id": 48103,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Martellato means",
+    "options": {
+      "A": "pinched",
+      "B": "hammered",
+      "C": "blasted",
+      "D": "punched"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48103",
+    "passage": ""
   }
 ]
