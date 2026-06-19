@@ -7033,5 +7033,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13885",
     "passage": ""
+  },
+  {
+    "id": 13887,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The energy associated with the emitted photon when a mercury atom changes from one state to another is 3.3 ev. calculate the frequency of the photon. [e = 1.6 x 10-19c; h = 6.6 x 10-34js]",
+    "options": {
+      "A": "1.3 x 10 -15 Hz",
+      "B": "3.1 x 10 52 Hz",
+      "C": "3.2 x 10 -53 Hz",
+      "D": "8.0 x 10 14 Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "E = hf f = (E)/h ∴ f = (3.3 x 1.6 x 10-19)/6.6 x 10-34 = 0.8 x 1015 = 8.0 x 1014 Hz\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13887",
+    "passage": ""
   }
 ]
