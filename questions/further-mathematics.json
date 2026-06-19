@@ -2223,5 +2223,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50414",
     "passage": ""
+  },
+  {
+    "id": 50415,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the gradient to the normal of the curve \\(y = x^{3} - x^{2}\\) at the point where x = 2.",
+    "options": {
+      "A": "\\(\\frac{-1}{8}\\)",
+      "B": "\\(\\frac{1}{8}\\)",
+      "C": "\\(\\frac{-1}{24}\\)",
+      "D": "\\(1\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given : \\(y = x^{3} - x^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 3x^{2} - 2x\\)\n\\(\\therefore  \\text{The gradient of the tangent at point (x = 2)} = 3(2^{2}) - 2(2) \\)\n= \\(12 - 4 = 8\\)\nRecall, the tangent and the normal are perpendicular to each other and the product of the gradients of perpendicular lines = -1.\n\\(\\implies \\text{the gradient of the normal} = \\frac{-1}{8}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50415",
+    "passage": ""
   }
 ]
