@@ -17691,5 +17691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69850",
     "passage": ""
+  },
+  {
+    "id": 69851,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The process of transferring a file from a server to a computer is called",
+    "options": {
+      "A": "pinging",
+      "B": "browsing.",
+      "C": "downloading.",
+      "D": "uploading."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The process of transferring a file from a server to a computer is called \"downloading.\" Downloading involves retrieving data from a remote server and saving it to your local computer or device. It's a common action when you want to obtain files, documents, software, media, or other content from the internet. This content is copied from the server's storage to your computer's storage, enabling you to access and use it locally. The opposite of downloading is uploading. When you upload a file, you are sending a file from your computer to a server. The server stores the file on its hard drive until it is needed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69851",
+    "passage": ""
   }
 ]
