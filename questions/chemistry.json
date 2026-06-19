@@ -4974,5 +4974,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2253",
     "passage": ""
+  },
+  {
+    "id": 2254,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A consequence of global warming is?",
+    "options": {
+      "A": "air pollution",
+      "B": "water pollution",
+      "C": "increased humudity",
+      "D": "flooding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "As global warming continues to exacerbate sea level rise and extreme weather, our nation's floodplains are expected to grow.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2254",
+    "passage": ""
   }
 ]
