@@ -3710,5 +3710,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58499",
     "passage": ""
+  },
+  {
+    "id": 58517,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A Director gave a manuscript to the secretary for typesetting. The secretary is expected to provide the total number of words, lines of text, number of pages and number of paragraphs contained in the documents. After proofreading the printout, the Director effected certain corrections on the printout and instructed that the corrected version be saved with the filename \"initial\".\n(a) Outline the steps the secretary would take to display the numbers of words, lines of text, number of pages and number of paragraphs contained in the corrected version of the document.\n(b) Highlight the steps the secretary would take to display the original and corrected versions of the screen for the Director to see at the same for comparison.\n(c) List the three steps to secure the document with password in order to prevent unauthorized access to the document.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Steps to display number of words, lines of text, number of pages and number of photographs.\n- Open the corrected version of the document named \"update\"\n- Click on the \"review\"/\"tools\" tab on the menu.\n- Click on the \"word count\" on proofing subgroup.\n(b) Steps to display the original and version of the document and the corrections;\n- Click on file on the menu bar.\n- Open the \"updated\" file OR the \"initial\"file\n- Click on the \"review\" tab\n- Click on the \"compare\"button/drop down menu\n- Select compare in the \"original document\" list box\n- Click on the \"Arrow/Browse\" to select the \"initial\" file.\n- In the \"revised document\" list box\n- Click on the \"arrow/browse\" to select the \"update\" file\n- Click on \"OK\" OR\n- Open the two documents\n- Click on \"window' tab\n- Click on \"compare side-by-side\"\n- View/edit document as required.\n- Click on \"close side-by-side\" when done.\n(c) Steps to secure the document with password;\n- Open the file\n- Click on \"file\" menu and click on \"Save As\"\n- Click on \"Tools\" (in the dialog box) and select \"General Option\"\n- Type in the password, retype the password\n- Click on the \"OK\" button\n- Click on the \"Save\" button OR\n- Open the file\n- Click on windows icon on the ribbon\n- Click on prepare\n- Select encrypt document\n- Enter  password\n- Click on OK OR\n- Open the file\n- Click on \"file\" on the menu bar\n- Click on info\n- Click on \"protect document\"\n- Click on \"encrypt with password\"\n- Type the password\n- Click \"OK\"\n- Click on fine\n-",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58517",
+    "passage": ""
   }
 ]
