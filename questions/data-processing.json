@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57279",
     "passage": ""
+  },
+  {
+    "id": 57282,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following are the basic components of a computer network? I. A minimum of two computers II. Printers III. Network interface card.",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "II and III",
+      "D": "I, II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The key parts required to set up a computer network are called Basic Computer Network. The components of a Computer Network: are a Network Interface Card(NIC), HUB, Switch, Repeater, Router, Modem, Server, Bridge.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57282",
+    "passage": ""
   }
 ]
