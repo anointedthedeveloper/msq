@@ -8156,5 +8156,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62571",
     "passage": ""
+  },
+  {
+    "id": 62572,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Arrange the following spreadsheet window parts in a hierarchical order by size: I. worksheet II. cell III. workbook IV. Range",
+    "options": {
+      "A": "III, I, IV, II",
+      "B": "III, IV, II, I",
+      "C": "II, III, IV, I",
+      "D": "II, IV, I and II"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cell, Range, Worksheet, and Workbook.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62572",
+    "passage": ""
   }
 ]
