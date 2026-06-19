@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/27",
     "passage": ""
+  },
+  {
+    "id": 28,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In ∆MNO, MN = 6 units, MO = 4 units and NO = 12 units. If the bisector of angle M meets NO at P, calculate NP.",
+    "options": {
+      "A": "4.8 units",
+      "B": "7.2 units",
+      "C": "8.0 units",
+      "D": "18.0 units"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "bisector theorem: \\(\\frac{|MN|}{|MO|}\\) = \\(\\frac{|PO|}{|NP|}\\) taking the bisected angle:x and y = |ON|=12 : x+y= 12 x =  12 - y |PO| = 12 - y \\(\\frac{6}{4}\\)= \\(\\frac{12-y}{y}\\) 6y = 4 (12-y) 6y = 48 - 4y = 4.8\nRecall that x+y= 12\n12 - 4.8 =7.2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/28",
+    "passage": ""
   }
 ]
