@@ -10036,5 +10036,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14323",
     "passage": ""
+  },
+  {
+    "id": 14327,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is?",
+    "options": {
+      "A": "2 cm",
+      "B": "3 cm",
+      "C": "4 cm",
+      "D": "5 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "(1)/v + (1)/u = (1)/f (1)/v + (1)/15 = (1)/5 (1)/v = (1)/5 - (1)/15 = (3 - 1)/15 = (2)/15 ∴ v = (15)/2 = 7.5 cm magnification = (v)/u = (image size)/object size (7.5)/15 = (X)/4 ∴ image size. X = (7.5 x 4)/15 = 2 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14327",
+    "passage": ""
   }
 ]
