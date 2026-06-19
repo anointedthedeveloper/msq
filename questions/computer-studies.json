@@ -9124,5 +9124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62700",
     "passage": ""
+  },
+  {
+    "id": 62703,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following is true when data maintained in MS Excel workbook is linked to a word document? The word document",
+    "options": {
+      "A": "cannot be edited.",
+      "B": "must contain a hyperlink.",
+      "C": "contains a copy of the actual data.",
+      "D": "contains a reference to the original source application."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When data from an MS Excel workbook is linked to a Word document, the Word document contains a reference to the source application, not a copy of the actual data. This means that if the data in the Excel workbook is updated, the changes will also be reflected in the Word document. The Word document can still be edited and does not necessarily need to contain a hyperlink.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62703",
+    "passage": ""
   }
 ]
