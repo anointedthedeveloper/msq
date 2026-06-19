@@ -2211,5 +2211,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61732",
     "passage": ""
+  },
+  {
+    "id": 61733,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "(a) List three criteria that are used in classifying file.\n(b) State: (i) two advantages and two disadvantages of computer files; (ii) three methods of file security.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(i) Nature of content in a file (ii) Organisation method (iii) Storage medium.\n(b)(i) Advantages of Computer Files: - Fast to access. - More secured. - Less laborious. Moore reliable - Neatly modified.\nDisadvantages of computer files: Irregular power supply.- Data redundancy. Expensive to set up. - Cannot generate queries.\nCan corrupted or destroyed by virus, Hacker can take advantage of the file.\n(ii) Use of back-ups. Use of anti-virus. Password. Proper label of storage devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61733",
+    "passage": ""
   }
 ]
