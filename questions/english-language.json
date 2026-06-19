@@ -7895,5 +7895,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3581",
     "passage": ""
+  },
+  {
+    "id": 3584,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Choose the word or phrase from options A - E which has the opposite in meaning to the underlined word or words in each sentence: Never in the history of human conflict has so much been owed by so many to so few.",
+    "options": {
+      "A": "Many people owed much money at the end of the war",
+      "B": "A handful of people saved the lives of a nation",
+      "C": "A few people did a lot of things gratis",
+      "D": "This conflict caused the largest ransome ever demanded",
+      "E": "Very little was owed by anyone to anybody"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Never was so much owed by so many to so few\" was a wartime speech made by the British prime minister Winston Churchill on 20 August 1940. The name stems from the specific line in the speech, Never in the field of human conflict was so much owed by so many to so few, referring to the ongoing efforts of the Royal Air Force crews who were at the time fighting the Battle of Britain, the pivotal air battle with the German Luftwaffe with Britain expecting an invasion. Pilots who fought in the battle have been known as The Few ever since; at times being specially commemorated on 15 September, \"Battle of Britain Day\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3584",
+    "passage": ""
   }
 ]
