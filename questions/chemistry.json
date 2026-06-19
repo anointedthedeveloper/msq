@@ -5940,5 +5940,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2637",
     "passage": ""
+  },
+  {
+    "id": 2638,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Chlorine consisting of two isotopes of mass number 35 and 37 in the ratio 3:1 has an atomic mass of 35.5. Calculate the relative abundance of the isotopes of mass number 37",
+    "options": {
+      "A": "20",
+      "B": "25",
+      "C": "60",
+      "D": "75"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Two isotopes of Chlorine  are :  \\(^{35}\\)Cl            and              \\(^{37}\\)Cl\nAtomic mass of Cl :  35.5\nRatio of the isotopes of Chlorine :   3                  :                     1\nLet the relative atomic abundance of \\(^{37}\\)Cl  =  1 x X =  X\nLet the relative atomic abundance of \\(^{35}\\)Cl  = 3 x X = 3X\nN.B : The average atomic mass = sum of products of each isotope mass and its relative abundance.\nA.M.M = (3x of 35)  +  (x of 37)\n35.5 = (3x X 35)  +   (x  X 37)\n35.5 = 105x  +   37x\n35.5 = 142x\nx = \\(\\frac{35.5}{142}\\)\nx =  0.25\nConvert to percentage.\nRecall that relative atomic abundance of \\(^{37}\\)Cl  =  x = 0.25 x  100 = 25%\nand the relative atomic abundance of \\(^{35}\\)Cl  = 3X = 3(0.25) = 0.75 x 100 = 75% We were asked for the Relative abundance of isotope of mass number 37 i.e \\(^{37}\\)Cl  is 25%\nAlternatively,\nRatio of the isotopes of Chlorine :   3     :    1\nSum of ratios = 3 + 1 = 4\nRelative Abundance of Cl isotopes = % ratio of \\(^{35}\\)Cl   and    % ratio of  \\(^{37}\\)Cl\n= \\(\\frac{3}{4}\\)x 100        and        \\(\\frac{1}{4}\\) x 100\n= 75% \\(^{35}\\)Cl  and 25% \\(^{37}\\)Cl\nRelative abundance of \\(^{37}\\)Cl = 25\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2638",
+    "passage": ""
   }
 ]
