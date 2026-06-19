@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/25",
     "passage": ""
+  },
+  {
+    "id": 26,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find a positive value of \\(\\alpha\\) if the coordinate of the centre of a circle x\\(^2\\) + y\\(^2\\) - 2\\(\\alpha\\)x + 4y - \\(\\alpha\\) = 0 is (\\(\\alpha\\), -2) and the radius is 4 units.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(x^{2} + y^{2} - 2\\alpha x + 4y - \\alpha = 0\\)\nr = 4 units; centre (\\(\\alpha\\), -2).\n\\((x - x_{1})^{2} + (y - y_{1})^{2} = r^{2}\\)\n\\((x - \\alpha)^{2} + (y - (-2))^{2} = 4^{2}\\)\n\\(x^{2} - 2\\alpha x + \\alpha^{2} + y^{2} + 4y + 4 = 16\\)\n\\(x^{2} + y^{2} - 2\\alpha x + 4y = 16 - \\alpha^{2} - 4\\)\n\\(\\therefore 12 - \\alpha^{2} = \\alpha \\implies \\alpha^{2} + \\alpha - 12 = 0\\)\n\\(\\alpha^{2} - 3\\alpha + 4\\alpha - 12 = 0\\)\n\\(\\alpha(\\alpha - 3) + 4(\\alpha - 3) = 0\\)\n\\((\\alpha + 4)(\\alpha - 3) = 0 \\implies +\\alpha = 3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/26",
+    "passage": ""
   }
 ]

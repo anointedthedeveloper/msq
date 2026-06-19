@@ -394,5 +394,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/357",
     "passage": ""
+  },
+  {
+    "id": 358,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following towns is NOT a pre-colonial town?",
+    "options": {
+      "A": "Ilorin",
+      "B": "Bida",
+      "C": "Enugu",
+      "D": "Ibadan",
+      "E": "Kano"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/358",
+    "passage": ""
   }
 ]

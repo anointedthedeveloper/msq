@@ -394,5 +394,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/328",
     "passage": ""
+  },
+  {
+    "id": 331,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A potometer with a leafy shoot weighed 18.9g initially and weighed 17.9g after one hour. From this it follow that",
+    "options": {
+      "A": "the shoot absorbed 1g of water per hour",
+      "B": "1g of water per hour evaporates from the potometer",
+      "C": "the shoot lost 1g of water per hour",
+      "D": "the potometer water receded at the rate of 1g per hour",
+      "E": "the shoot was respiring and lost weight at rate of 1g per hour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The amount of water lost is (18.9 - 17.9)g = 1g. Hence, the water lost by the shoot is 1g.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/331",
+    "passage": ""
+  },
+  {
+    "id": 332,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "At fertilization",
+    "options": {
+      "A": "one chromosome from the male joins another from the female",
+      "B": "one gene from the male combines with another from the female",
+      "C": "the male nucleus fuses with the female nucleus",
+      "D": "one set of chromosome combines with another set from the female",
+      "E": "one cell from the male fuses with another from the female"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fertilization is the union of a spermatozoal nucleus, of paternal origin, with an egg nucleus, of maternal origin, to form the primary nucleus of an embryo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/332",
+    "passage": ""
   }
 ]
