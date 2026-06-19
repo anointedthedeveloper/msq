@@ -12567,5 +12567,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16348",
     "passage": ""
+  },
+  {
+    "id": 16349,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A catapult is used to project a stone. Which of the following energy conversions takes place as the stone is released?",
+    "options": {
+      "A": "The kinetic energy of the stone is converted into gravitational potential energy",
+      "B": "The gravitational potential energy of the catapult is converted into kinetic energy of the stone",
+      "C": "The gravitational potential energy is converted into elastic potential energy",
+      "D": "The elastic potential energy of the catapult is converted into gravitational potential energy of the stone",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "As the catapult is drawn back, it stores elastic potential energy. When released, this energy is converted into the stone's kinetic energy, which can then be converted into gravitational potential energy as the stone rises.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16349",
+    "passage": ""
   }
 ]
