@@ -16305,5 +16305,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/16757",
     "passage": ""
+  },
+  {
+    "id": 16763,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Which of the following is not common to both political parties and pressure groups in post-independence Nigeria?",
+    "options": {
+      "A": "constitutional provisions",
+      "B": "threat of proscriptions by the government",
+      "C": "arrest and detention of members",
+      "D": "election/selection of leaders",
+      "E": "harassment by the military government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Political parties engage in the election/selection of leaders of the country , as they contest elections, nominate candidates and form governments. However, pressure groups do not participate in the electoral process in this way. Instead, they focus on influencing policies and lobbying those in power rather than directly selecting or electing leaders.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/16763",
+    "passage": ""
   }
 ]
