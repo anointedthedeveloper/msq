@@ -5478,5 +5478,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2520",
     "passage": ""
+  },
+  {
+    "id": 2521,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The modern process of manufacturing steel for iron is by",
+    "options": {
+      "A": "treatment with acids",
+      "B": "oxidation",
+      "C": "blast reduction",
+      "D": "treatment with alkanal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Modern steelmaking involves two primary steps that transform iron ore into the final product. While the initial stage of extracting iron from its ore in a blast furnace is a reduction process (using carbon monoxide to remove oxygen from the iron oxide), the actual conversion of that iron into steel is an oxidation process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2521",
+    "passage": ""
   }
 ]
