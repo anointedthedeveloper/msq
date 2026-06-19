@@ -9208,5 +9208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62706",
     "passage": ""
+  },
+  {
+    "id": 62707,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the options labeled I to IV give two stages involved in booting?\nI. Power On self test II. Loading of Operating System IIl. Loading of email IV. Power On Safe Mode",
+    "options": {
+      "A": "I and Il only",
+      "B": "I and III only",
+      "C": "Il and IV only",
+      "D": "Ill and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The two stages involved in booting are the Power On Self Test (POST) and the loading of the operating system. Hence I and II are correct\n* Power On Self Test (POST) : This is the initial check of hardware components when the computer is powered on to ensure everything is functioning correctly.\n* Loading of Operating System : After POST, the computer loads the operating system from storage into memory, allowing the user to interact with the system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62707",
+    "passage": ""
   }
 ]
