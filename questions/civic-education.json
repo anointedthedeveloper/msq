@@ -8653,5 +8653,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/60868",
     "passage": ""
+  },
+  {
+    "id": 60870,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use this image to answer this question,\nThe traffic sign in the image is to caution road drivers that",
+    "options": {
+      "A": "pedestrians crossing is in progress therefore, all cars should wait patiently for them",
+      "B": "a designated bus-stop is ahead where school children can be picked and dropped",
+      "C": "pedestrians are to hold hands together so as to support one another when crosssing",
+      "D": "they need to move fast because of the presence of a school zone"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/uSkN0uYqcF6SZBEQAlpvVmdu6yNCT5FhheT6xQHH.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912156/myschool/civic-education/uSkN0uYqcF6SZBEQAlpvVmdu6yNCT5FhheT6xQHH.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/60870",
+    "passage": ""
   }
 ]
