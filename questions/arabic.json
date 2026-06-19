@@ -880,5 +880,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75249",
     "passage": ""
+  },
+  {
+    "id": 75253,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "في الجملة: \"الولدُ الذكيُّ محبوبٌ\"، ما نوع \"الذكيُّ\"؟",
+    "options": {
+      "A": "نعت",
+      "B": "حال",
+      "C": "اسم موصول",
+      "D": "مفعول به"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "It describes \"11,ll\", so it's an adjective (na't).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75253",
+    "passage": ""
   }
 ]
