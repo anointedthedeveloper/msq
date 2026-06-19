@@ -11494,5 +11494,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64125",
     "passage": ""
+  },
+  {
+    "id": 64126,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "System software has which major function?",
+    "options": {
+      "A": "Giving utility",
+      "B": "making navigation easier for user",
+      "C": "controlling the computer system",
+      "D": "maintain the system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The system software controls the computer system. System software controls a computer's internal functioning, chiefly through an operating system, and also controls such peripherals as monitors, printers, and storage devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64126",
+    "passage": ""
   }
 ]
