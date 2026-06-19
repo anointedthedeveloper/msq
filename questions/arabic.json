@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75172",
     "passage": ""
+  },
+  {
+    "id": 75174,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "رحيمٌ\"، ما نوع \"إنَّ\"؟في الجملة: \"إنّ اللهَ غفورٌ",
+    "options": {
+      "A": "حرف نفي",
+      "B": "حرف عطف",
+      "C": "اسم شرط",
+      "D": "حرف توكيد ونصب"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"o!\" emphasizes and governs accusative case on the subject.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75174",
+    "passage": ""
   }
 ]
