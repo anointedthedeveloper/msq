@@ -13586,5 +13586,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/7493",
     "passage": ""
+  },
+  {
+    "id": 7494,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A solid X when heated gives off a brown gas. If X is soluble in excess sodium hydroxide solution but insoluble in excess ammonium hydroxide solution, then X is",
+    "options": {
+      "A": "basic lead carbonate",
+      "B": "lead (II) nitrate",
+      "C": "sodium carbonate",
+      "D": "zinc nitrate",
+      "E": "sodium nitrate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Lead nitrate reacts with ammonium hydroxide solution to form a white precipitate. This white precipitate does not dissolve in excess ammonium hydroxide.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7494",
+    "passage": ""
   }
 ]
