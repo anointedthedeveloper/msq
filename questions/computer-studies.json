@@ -12250,5 +12250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64328",
     "passage": ""
+  },
+  {
+    "id": 64329,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is considered the brain of the computer?",
+    "options": {
+      "A": "Central Processing Unit",
+      "B": "Monitor/Display Screen",
+      "C": "Mouse",
+      "D": "Printer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The CPU is the brain of a computer, containing all the circuitry needed to process input, store data, and output results. The CPU is constantly following instructions of computer programs that tell it which data to process and how to process it. Without a CPU, we could not run programs on a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64329",
+    "passage": ""
   }
 ]
