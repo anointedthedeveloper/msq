@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64159",
     "passage": ""
+  },
+  {
+    "id": 64160,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Where did basketball originate?",
+    "options": {
+      "A": "Britain",
+      "B": "Cuba",
+      "C": "India",
+      "D": "USA"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Basketball originate from the USA",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64160",
+    "passage": ""
   }
 ]
