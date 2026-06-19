@@ -7642,5 +7642,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3268",
     "passage": ""
+  },
+  {
+    "id": 3269,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The ores that can be concentrated by flotation are",
+    "options": {
+      "A": "nitride ores",
+      "B": "sulphide ores",
+      "C": "oxide ores",
+      "D": "non-metals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Flotation, a common ore concentration method, is primarily used for concentrating sulphide ores like those containing copper, lead, and zinc.\nFlotation excels at separating valuable minerals from sulphide ores because the process relies on the selective wetting of sulphide minerals by oil, which allows them to attach to air bubbles and float to the surface. Common examples of sulphide ores concentrated by flotation include galena (PbS), zinc blende (ZnS), and copper pyrites (CuFeS\\(_2\\)).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3269",
+    "passage": ""
   }
 ]
