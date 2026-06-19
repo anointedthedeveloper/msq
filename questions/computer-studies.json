@@ -19524,5 +19524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72620",
     "passage": ""
+  },
+  {
+    "id": 72622,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A The equation x =p + qr +s) can be expressed in Q BASIC programming",
+    "options": {
+      "A": "X = P + Q* = \\(\\frac{R}{S}\\)",
+      "B": "X = P + Q* (R\\S)",
+      "C": "X = P x Q (R\\S)",
+      "D": "X = P + Q = \\(\\frac{R}{S}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "B: x=p+q* (r/s)\nMultiplication symbol is represent- ed by an asterisk (*). Division symbol is represented by a forward stroke (/)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72622",
+    "passage": ""
   }
 ]
