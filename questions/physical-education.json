@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64197",
     "passage": ""
+  },
+  {
+    "id": 64198,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are causes of human trafficking except",
+    "options": {
+      "A": "broken homes",
+      "B": "ignorance",
+      "C": "ill-health",
+      "D": "poverty"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ill-health is not responsible for human trafficking",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64198",
+    "passage": ""
   }
 ]
