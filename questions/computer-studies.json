@@ -3122,5 +3122,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61841",
     "passage": ""
+  },
+  {
+    "id": 61842,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Integrated circuit chips used in micro computer are made of element called?",
+    "options": {
+      "A": "chromium",
+      "B": "copper",
+      "C": "gold",
+      "D": "silicon",
+      "E": "silver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Silicon is the primary material used in the manufacture of semiconductor devices, including integrated circuits.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61842",
+    "passage": ""
   }
 ]
