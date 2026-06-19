@@ -16767,5 +16767,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23235",
     "passage": ""
+  },
+  {
+    "id": 23459,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "Simplify: \\(2\\frac{1}{3} \\div 2\\frac{2}{3} \\times 1\\frac{1}{7}\\)",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3",
+      "E": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(2\\frac{1}{3} \\div 2\\frac{2}{3} \\times 1\\frac{1}{7}\\)\n= \\(\\frac{7}{3} \\div \\frac{8}{3} \\times \\frac{8}{7}\\)\n= \\(\\frac{7}{3} \\times \\frac{3}{8} \\times \\frac{8}{7}\\)\n= 1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23459",
+    "passage": ""
   }
 ]
