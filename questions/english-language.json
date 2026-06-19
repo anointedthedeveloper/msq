@@ -3935,5 +3935,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1969",
     "passage": ""
+  },
+  {
+    "id": 1970,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "complete the sentences with the\ncorrect options\nfrom the list below\n:\nI .... to gain admission to the college for the past three years",
+    "options": {
+      "A": "have been trying",
+      "B": "tried",
+      "C": "am trying",
+      "D": "was trying",
+      "E": "try"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1970",
+    "passage": ""
   }
 ]
