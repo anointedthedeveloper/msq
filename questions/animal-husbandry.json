@@ -1823,5 +1823,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49813",
     "passage": ""
+  },
+  {
+    "id": 49814,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following diseases is caused by a pathogen?",
+    "options": {
+      "A": "Bloat",
+      "B": "Ketosis",
+      "C": "Mastitis",
+      "D": "Ostemalacia"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mastitis in dairy cows is caused by udder infections, usually resulting from bacteria introduced either during the milking process or from environmental contact",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49814",
+    "passage": ""
   }
 ]
