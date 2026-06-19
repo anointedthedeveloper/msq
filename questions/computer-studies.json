@@ -15633,5 +15633,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67780",
     "passage": ""
+  },
+  {
+    "id": 67781,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The type of database in which the data are connected in different files by using common data elements or a key field is ?",
+    "options": {
+      "A": "Relational database",
+      "B": "Network database",
+      "C": "Hierarchical database",
+      "D": "Object-oriented database"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Relational database connects data in different files by using a common data elements or a key field.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67781",
+    "passage": ""
   }
 ]
