@@ -14459,5 +14459,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24087",
     "passage": ""
+  },
+  {
+    "id": 24088,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A force F is applied to a body P as shown in the diagram above. If the body P moves through a distance r, which of the following represents the work done?",
+    "options": {
+      "A": "Fx",
+      "B": "F cosθ / x",
+      "C": "Fx tanθ",
+      "D": "Fx sinθ",
+      "E": "Fx cosθ"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15247168541_wcphy19909.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891783/myschool/physics/15247168541_wcphy19909.jpg",
+    "correct_answer": "E",
+    "explanation": "resolving F into its components\n\\(F_x\\) = Fcosϴ\n\\(F_y\\) = Fsinϴ\nWork done = Force x Distance = Fcosϴ \\(\\times\\) x = Fxcosϴ",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24088",
+    "passage": ""
   }
 ]
