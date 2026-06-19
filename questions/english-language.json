@@ -1559,5 +1559,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/584",
     "passage": ""
+  },
+  {
+    "id": 585,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option which is nearest in meaning to the sentences in each of the following questions: I can walk that distance and have done so many times",
+    "options": {
+      "A": "I am used to walk that distance",
+      "B": "I used to walk that distance",
+      "C": "I used to walking that distance",
+      "D": "I am used to walking that distance",
+      "E": "I will walk that distance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The original sentence indicates that the speaker is capable of walking the distance and has done it frequently. Option D, \"I am used to walking that distance,\" closely matches this meaning by conveying that the speaker is accustomed to walking that distance regularly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/585",
+    "passage": ""
   }
 ]
