@@ -6907,5 +6907,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9230",
     "passage": ""
+  },
+  {
+    "id": 9231,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "W ∝ L\n2\nand W = 6 when L = 4. If L = √17 find W",
+    "options": {
+      "A": "6 7 / 8",
+      "B": "6 5 / 8",
+      "C": "6 3 / 8",
+      "D": "6 1 / 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9231",
+    "passage": ""
   }
 ]
