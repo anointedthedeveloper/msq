@@ -3890,5 +3890,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62252",
     "passage": ""
+  },
+  {
+    "id": 62253,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The hardware of a computer does not consist of?",
+    "options": {
+      "A": "casing",
+      "B": "mouse",
+      "C": "peripherals",
+      "D": "windows"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62253",
+    "passage": ""
   }
 ]
