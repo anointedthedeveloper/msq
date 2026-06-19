@@ -1102,5 +1102,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57707",
     "passage": ""
+  },
+  {
+    "id": 57708,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Data gathering involves the following means except",
+    "options": {
+      "A": "counting process",
+      "B": "voting process",
+      "C": "measuring process",
+      "D": "calculating process"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The voting process is not typically used in data gathering as it involves a different type of information gathering, such as collecting opinions or preferences rather than numerical data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57708",
+    "passage": ""
   }
 ]
