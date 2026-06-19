@@ -10371,5 +10371,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11111",
     "passage": ""
+  },
+  {
+    "id": 21978,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "If the 2nd and 5th terms of a G.P are 6 and 48 respectively, find the sum of the first four for term",
+    "options": {
+      "A": "-45",
+      "B": "-15",
+      "C": "15",
+      "D": "33",
+      "E": "45"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "T\\(_{2}\\) = ar = 6\nT\\(_{5}\\) = ar\\(^{4}\\) = 48\n\\(\\frac{T_5}{T_2}\\) = \\(\\frac{ar^{4}}{ar}\\) = \\(\\frac{48}{6}\\)\n= r\\(^{3}\\) = 8\n⇒ r = 2\nS\\(_{n}\\) = \\(\\frac{a((r^n) - 1)}{r - 1}\\)\nS\\(_{4}\\) = \\(\\frac{a((r^4) - 1)}{r - 1}\\)\nS\\(_{4}\\) = \\(\\frac{3((2^4) - 1)}{2 - 1}\\)\n= 3(16 -1)\n= 45",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/21978",
+    "passage": ""
   }
 ]
