@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75179",
     "passage": ""
+  },
+  {
+    "id": 75182,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "من خصائص الشعر الجاهلي؟",
+    "options": {
+      "A": "استخدام الأوزان والقوافي",
+      "B": "النتر الخالص",
+      "C": "الاعتماد على الحكاية فقط",
+      "D": "خلوه من البلاغة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Pre-Islamic (ahili) poetry used meter (وزن) and rhyme (قافية) strictly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75182",
+    "passage": ""
   }
 ]
