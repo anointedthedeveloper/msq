@@ -7537,5 +7537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9260",
     "passage": ""
+  },
+  {
+    "id": 9261,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "calculate the simple interest on N7,500 for 8 years at 5% per annum.",
+    "options": {
+      "A": "N3,000",
+      "B": "N600",
+      "C": "N300",
+      "D": "N150"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(I = \\frac{P \\times T \\times R}{100}\\) = \\(\\frac{7500 \\times 8 \\times 5}{100}\\) = N3000\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9261",
+    "passage": ""
   }
 ]
