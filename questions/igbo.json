@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73557",
     "passage": ""
+  },
+  {
+    "id": 73558,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. Ụlọ ole ka nna gị nwere?",
+    "options": {
+      "A": "Nna m nwere ụlọ abụọ",
+      "B": "M nwere ụlọ abụọ",
+      "C": "Anyị nwere ya anọ",
+      "D": "Ha nwere ụlọ anọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is Nna m nwere ụlọ abụọ. The question \"Ụlọ ọle ka nna gị nwere?\" means \"How many hous does your father have?\" in Igbo. The correct response is \"Nna m nwere ụlọ abụọ\", which means \"My father has two houses\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73558",
+    "passage": ""
   }
 ]
