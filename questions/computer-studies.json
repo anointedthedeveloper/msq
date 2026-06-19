@@ -5083,5 +5083,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62340",
     "passage": ""
+  },
+  {
+    "id": 62341,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The smallest unit of information representation which is addressable on the computer memory is?",
+    "options": {
+      "A": "1 bit",
+      "B": "2 bits",
+      "C": "4 bits",
+      "D": "8 bits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62341",
+    "passage": ""
   }
 ]
