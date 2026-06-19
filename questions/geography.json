@@ -811,5 +811,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/929",
     "passage": ""
+  },
+  {
+    "id": 930,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The main use of the Abney Level in surveying is to determine the",
+    "options": {
+      "A": "angle of inclination",
+      "B": "relative location",
+      "C": "area coverage",
+      "D": "spot height"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/930",
+    "passage": ""
   }
 ]
