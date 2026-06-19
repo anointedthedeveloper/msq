@@ -6928,5 +6928,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13880",
     "passage": ""
+  },
+  {
+    "id": 13881,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In an experiment to determine terminal velocity, as the pressure increases, the viscosity off a liquid",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "increases then decreases",
+      "D": "remains constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Generally, the viscosity of liquids tends to increase with pressure, as the increased pressure can lead to a greater interaction between molecules\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13881",
+    "passage": ""
   }
 ]
