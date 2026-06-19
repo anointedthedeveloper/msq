@@ -7277,5 +7277,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75967",
     "passage": ""
+  },
+  {
+    "id": 75968,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Ali ya sayi keke.\" Wace irin jimla ce wannan?",
+    "options": {
+      "A": "Jimlar tambaya",
+      "B": "Jimla mai sauki",
+      "C": "Jimla mai tarin bayanai",
+      "D": "Jimla mai rassa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It's a simple sentence with one subject, one verb, and one object.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75968",
+    "passage": ""
   }
 ]
