@@ -11025,5 +11025,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7083",
     "passage": ""
+  },
+  {
+    "id": 7086,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The limit of functions, activities and personnel that a supervisor can effectively manage in a business organization is?",
+    "options": {
+      "A": "span of control",
+      "B": "delegation of authority",
+      "C": "chain of command",
+      "D": "authority and rsesponsibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The span of control refers to the number of employees a supervisor can effectively manage. While the chain of command refers to the hierarchical structure of authority in an organization, it does not specifically address the number of personnel a supervisor can manage effectively. The span of control focuses on that specific aspect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7086",
+    "passage": ""
   }
 ]
