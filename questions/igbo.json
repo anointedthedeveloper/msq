@@ -1803,5 +1803,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73767",
     "passage": ""
+  },
+  {
+    "id": 73768,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kedu nke bụ 888? Narị",
+    "options": {
+      "A": "iri asatọ na asatọ",
+      "B": "asatọ na asatọ na asatọ",
+      "C": "asatọ asatọ asatọ",
+      "D": "asatọ iri asatọ na asatọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct translation of eight hundred and eighty eight in Igbo is narị asatọ iri asatọ na asatọ. Narị asatọ = 800; iri asatọ = 80; asatọ = 8",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73768",
+    "passage": ""
   }
 ]
