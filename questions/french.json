@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48112",
     "passage": ""
+  },
+  {
+    "id": 48113,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Un genre littéraire qui s'érit sous forme de dialogue s'appelle",
+    "options": {
+      "A": "un conte",
+      "B": "un piéce",
+      "C": "un roman",
+      "D": "un poéme"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48113",
+    "passage": ""
   }
 ]
