@@ -5815,5 +5815,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12943",
     "passage": ""
+  },
+  {
+    "id": 12944,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Transverse waves can be distinguished from longitudinal waves using the characteristic of",
+    "options": {
+      "A": "diffraction",
+      "B": "refraction",
+      "C": "polarization",
+      "D": "reflection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Polarization is the only wave property that applies only to transverse waves.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12944",
+    "passage": ""
   }
 ]
