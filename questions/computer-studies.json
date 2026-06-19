@@ -3785,5 +3785,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62247",
     "passage": ""
+  },
+  {
+    "id": 62248,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Abacus is used for?",
+    "options": {
+      "A": "addition",
+      "B": "subtraction",
+      "C": "addition and subtraction",
+      "D": "multiplication and division"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Abacus is a tool that can be used to calculate — Add, Subtract, Multiply & divide, apart from being able to do other arithmetic functions and Brain activation. However, the basic use of Abacus is for addition and subtraction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62248",
+    "passage": ""
   }
 ]
