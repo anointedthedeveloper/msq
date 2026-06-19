@@ -11152,5 +11152,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14443",
     "passage": ""
+  },
+  {
+    "id": 14453,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "When the human eye loses its power of accomodation, the defect is known as",
+    "options": {
+      "A": "short sightedness",
+      "B": "presbyopia",
+      "C": "astigmatism",
+      "D": "long sightedness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "presbyopia is loss of accommodation\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14453",
+    "passage": ""
   }
 ]
