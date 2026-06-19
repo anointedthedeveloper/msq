@@ -13888,5 +13888,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22878",
     "passage": ""
+  },
+  {
+    "id": 22879,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "A car is travelling at an average speed of 80km/hr. Its speed in meters per second (m/s) is",
+    "options": {
+      "A": "13.3m/s",
+      "B": "22.2m/s",
+      "C": "133.3m/s",
+      "D": "222.2m/s",
+      "E": "1333.3m/s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22879",
+    "passage": ""
   }
 ]
