@@ -3881,5 +3881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73978",
     "passage": ""
+  },
+  {
+    "id": 73979,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "What is mkpuruokwu called in English?",
+    "options": {
+      "A": "Word",
+      "B": "Formation",
+      "C": "Alphabet",
+      "D": "Letters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Word. Mkpuruokwu is called a \"word\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73979",
+    "passage": ""
   }
 ]
