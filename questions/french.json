@@ -186,5 +186,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48120",
     "passage": ""
+  },
+  {
+    "id": 48121,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "La fête nationale francaise est célébrée",
+    "options": {
+      "A": "le 14 juillet",
+      "B": "le 4 juillet",
+      "C": "le 2 juillet",
+      "D": "le 20 juillet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48121",
+    "passage": ""
   }
 ]
