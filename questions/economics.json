@@ -592,5 +592,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/440",
     "passage": ""
+  },
+  {
+    "id": 441,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The expression ‘terms of trade’ is used to describe",
+    "options": {
+      "A": "Quality of export",
+      "B": "The direction of foreign trade",
+      "C": "Terms of purchase on deferred payment basis",
+      "D": "The rate at which export exchange for imports",
+      "E": "Import licensing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/441",
+    "passage": ""
   }
 ]
