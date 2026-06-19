@@ -986,5 +986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/248",
     "passage": ""
+  },
+  {
+    "id": 251,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The land use decree of 1978 vested the ownership of land in Nigeria in the",
+    "options": {
+      "A": "local chiefs",
+      "B": "local governments",
+      "C": "state governments",
+      "D": "federal governments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Land Use Decree of 1978 (later revised as the Land Use Act) vested the ownership of land in Nigeria's state governments . According to the decree, all land in urban and rural areas is held in trust by the state governors, who are responsible for managing it on behalf of the citizens. The goal was to ensure better land administration and allocation across the country.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/251",
+    "passage": ""
   }
 ]
