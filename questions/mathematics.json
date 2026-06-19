@@ -3778,5 +3778,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7845",
     "passage": ""
+  },
+  {
+    "id": 7846,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A bag contains 5 blacks balls and 3 red balls. Two balls are picked at random without replacement. What is the probability that a black and red balls are picked?",
+    "options": {
+      "A": "\\(\\frac{15}{28}\\)",
+      "B": "\\(\\frac{13}{28}\\)",
+      "C": "\\(\\frac{5}{14}\\)",
+      "D": "\\(\\frac{3}{14}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Black balls = 5 Red balls = 3 P(B) = \\(\\frac{5}{8}\\), P(R) = \\(\\frac{3}{8}\\) P( a Black and a Red) = black ball and red ball or red ball and black ball i.e BR + RB = (\\(\\frac{5}{8}\\)) * (\\(\\frac{3}{7}\\)) + (\\(\\frac{3}{8}\\)) * (\\(\\frac{5}{7}\\)) = (\\(\\frac{15}{56}\\)) + (\\(\\frac{15}{56}\\)) = \\(\\frac{30}{56}\\) = \\(\\frac{15}{28}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7846",
+    "passage": ""
   }
 ]
