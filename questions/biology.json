@@ -1406,5 +1406,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/400",
     "passage": ""
+  },
+  {
+    "id": 401,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these is not a type of soil?",
+    "options": {
+      "A": "Sand",
+      "B": "Granite",
+      "C": "Loam",
+      "D": "Clay",
+      "E": "Sandy loam"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/401",
+    "passage": ""
   }
 ]
