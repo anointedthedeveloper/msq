@@ -3540,5 +3540,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1879",
     "passage": ""
+  },
+  {
+    "id": 1883,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "One common feature of the fungi, algae, mosses and ferns is that they?",
+    "options": {
+      "A": "are photosynthetic",
+      "B": "show alternation of generation",
+      "C": "reproduce by means of conjugation",
+      "D": "can survive dry conditions",
+      "E": "have no seeds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Most fungi reproduce by forming spores that can survive extreme conditions such as cold and lack of water.\nMany small algae reproduce asexually by ordinary cell division or by fragmentation, whereas larger algae reproduce by spores.\nAlthough mosses and ferns don't resemble each other visually, they have botanical similarities. Both are plants with primitive origins that produce spores instead of seeds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1883",
+    "passage": ""
   }
 ]
