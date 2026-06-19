@@ -11849,5 +11849,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68534",
     "passage": ""
+  },
+  {
+    "id": 68535,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The \"Magna Carta,\" signed in 1215, limited the power of which monarch?",
+    "options": {
+      "A": "King Louis XIV of France",
+      "B": "King Henry VIII of England",
+      "C": "King John of England",
+      "D": "Emperor Charlemagne of the Holy Roman Empire"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Magna Carta was signed by King John of England in 1215. It was a charter of liberties that required the King to proclaim certain liberties, and accept that his will was not arbitrary, effectively limiting his powers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68535",
+    "passage": ""
   }
 ]
