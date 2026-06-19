@@ -2858,5 +2858,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61829",
     "passage": ""
+  },
+  {
+    "id": 61830,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The logical unit of transfer between the backing storage and main memory in file organization is called?",
+    "options": {
+      "A": "block",
+      "B": "bucket",
+      "C": "hash",
+      "D": "hit",
+      "E": "partial"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Bucket: A bucket is the logical unit of transfer between the backing store and the main memory. while A block is the physical unit of transfer between the backing store and the main memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61830",
+    "passage": ""
   }
 ]
