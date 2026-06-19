@@ -13272,5 +13272,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7333",
     "passage": ""
+  },
+  {
+    "id": 7334,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A crossed cheque with the inscription 'not negotiable' must be paid into the?",
+    "options": {
+      "A": "current account of the drawer",
+      "B": "current account of the payee",
+      "C": "savings account of the payee",
+      "D": "fixed account of the payee"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To answer this question we need to understand the three parties to a cheque.\nThe drawer: The drawer is the bank account owner whose signature appears on the cheque.\nThe drawee: The drawee of a check is the banker/bank.\nThe payee: The payee is the person who receives money from the bank. He is the party in favor of whom the cheque is issued.\nA crossed cheque is a cheque that can only be paid into the bank account of the payee, and cannot be cashed directly at the counter of the bank. The effect of crossing a cheque ‘not negotiable’ is to warn the transferee (the payee in this case) that his or her title is subject to all prior defects in the title. Since cheques are only issued to current account holders it's safe to say that the money will have to be paid to the current account of the payee.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7334",
+    "passage": ""
   }
 ]
