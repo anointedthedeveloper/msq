@@ -2349,5 +2349,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50420",
     "passage": ""
+  },
+  {
+    "id": 50421,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A fair coin is tossed 3 times. Find the probability of obtaining exactly 2 heads.",
+    "options": {
+      "A": "\\(\\frac{1}{8}\\)",
+      "B": "\\(\\frac{3}{8}\\)",
+      "C": "\\(\\frac{5}{8}\\)",
+      "D": "\\(\\frac{7}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let the probability of getting a head = p = \\(\\frac{1}{2}\\) and that of tail = q = \\(\\frac{1}{2}\\)\n\\((p + q)^{3} = p^{3} + 3p^{2}q + 3pq^{2} + q^{3}\\)\nIn the equation above, \\(p^{3}\\) and \\(q^{3}\\) are the probabilities of 3 heads and 3 tails respectively\nwhile, \\(p^{2}q\\) and \\(pq^{2}\\) are the probabilities of 2 heads and one tail and 2 tails and one head respectively.\nProbability of exactly 2 heads = \\(3p^{2}q = 3(\\frac{1}{2})^{2}(\\frac{1}{2})\\)\n= \\(\\frac{3}{8}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50421",
+    "passage": ""
   }
 ]
