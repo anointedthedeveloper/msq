@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64188",
     "passage": ""
+  },
+  {
+    "id": 64189,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the width in metre of an athletic lane?",
+    "options": {
+      "A": "1.10",
+      "B": "1.15",
+      "C": "1.22",
+      "D": "1.25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All lanes have a width of 1.22m (C)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64189",
+    "passage": ""
   }
 ]
