@@ -8020,5 +8020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14027",
     "passage": ""
+  },
+  {
+    "id": 14028,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A spring of force constant 500 Nm\\(^{-1}\\) is compressed such that its length shortens by 5cm. The energy stored in the spring is?",
+    "options": {
+      "A": "0.625 J",
+      "B": "6.250 J",
+      "C": "62.500 J",
+      "D": "625.000 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Energy stored in a spring = (1)/2 K e2 = (1)/2 x 500(0.05)2 = 0.625J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14028",
+    "passage": ""
   }
 ]
