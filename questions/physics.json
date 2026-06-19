@@ -3148,5 +3148,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11700",
     "passage": ""
+  },
+  {
+    "id": 11707,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A transverse wave is applied to a string whose mass per unit length is 3 x 10-2kgm-1. If the string is under a tension 12N, the speed of the propagation of the wave is",
+    "options": {
+      "A": "5 ms -1",
+      "B": "20 ms -1",
+      "C": "30 ms -1",
+      "D": "40 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For transverse wave on string velocity V = \\(\\sqrt{\\frac{T}{M}}\\) where T is the tension, and M is the mass per unit length ∴ for T = 12N and M = 3.0 x 10\\(^{-2}\\)kgm\\(^{-1}\\) V =  \\(\\sqrt{\\frac{12}{3.0 \\times10^{-2}}}\\) V  =  \\(\\sqrt{\\frac{1200}{3}}\\) =  \\(\\sqrt{400}\\) ∴ V = 20m/s\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11707",
+    "passage": ""
   }
 ]
