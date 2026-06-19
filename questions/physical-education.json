@@ -3421,5 +3421,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68315",
     "passage": ""
+  },
+  {
+    "id": 68316,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "1. The human ankle has _____ bones",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "4",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ankle is known as tarsus in humans. It contains seven bones called tarsal's. It is arranged in three rows having gliding joints",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68316",
+    "passage": ""
   }
 ]
