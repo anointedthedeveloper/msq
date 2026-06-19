@@ -4529,5 +4529,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16263",
     "passage": ""
+  },
+  {
+    "id": 16264,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Temperature is an important factor which is monitored in fish ponds because",
+    "options": {
+      "A": "it determines the feeding rate in fish",
+      "B": "its fluctuation retards fish reproduction",
+      "C": "it affects the metabolic processes in fish",
+      "D": "it decreases the reaction of fishes to other water organisms",
+      "E": "it reduces the effect of decaying materials in ponds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16264",
+    "passage": ""
   }
 ]
