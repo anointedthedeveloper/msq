@@ -11251,5 +11251,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22182",
     "passage": ""
+  },
+  {
+    "id": 22185,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the regions P, Q, R, S and T satisfies the following 0 < y < 1, y < x + 2, x < 0",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S",
+      "E": "T"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11064432504_wcmath198839.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906976/myschool/mathematics/11064432504_wcmath198839.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22185",
+    "passage": ""
   }
 ]
