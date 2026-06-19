@@ -306,5 +306,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/111",
     "passage": ""
+  },
+  {
+    "id": 114,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence:\nThe traffic situation in Lagos can lead to disastrous consequences; a man lost a very lucrative job because he was held up by it.",
+    "options": {
+      "A": "confused",
+      "B": "delayed",
+      "C": "annoyed",
+      "D": "intrigued",
+      "E": "obstructed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the context of the sentence, the phrase \"held up\" is used to describe the reason behind the man losing his lucrative job. In this context, \"held up\" means that the man's progress or movement was delayed or hindered by the traffic situation in Lagos. Therefore, the option that best conveys the meaning of \"held up\" in this context is \"delayed.\" It suggests that the man was unable to reach his destination in a timely manner, resulting in negative consequences such as losing his job.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/114",
+    "passage": ""
   }
 ]
