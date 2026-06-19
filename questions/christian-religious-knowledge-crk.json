@@ -1471,5 +1471,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/276",
     "passage": ""
+  },
+  {
+    "id": 277,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The Israelites entered the land of Canaan under the leadership of",
+    "options": {
+      "A": "Aaron",
+      "B": "Moses",
+      "C": "Joshua",
+      "D": "Nadab",
+      "E": "Abihu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Moses led the Israelites out of Egypt and through the wilderness, but he was not permitted to enter the Promised Land (Canaan). After Moses' death, Joshua became the leader and successfully led the Israelites into Canaan, as recorded in the Book of Joshua in the Bible.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/277",
+    "passage": ""
   }
 ]
