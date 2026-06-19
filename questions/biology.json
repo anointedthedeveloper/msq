@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/318",
     "passage": ""
+  },
+  {
+    "id": 322,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Nitrifying bacteria keep the soil fertile by",
+    "options": {
+      "A": "converting nitrate to nitrogen",
+      "B": "converting ammonium salt to nitrate",
+      "C": "converting atmospheric nitrogen to plant nitrogen",
+      "D": "converting nitrate to nitrous oxide",
+      "E": "converting atmospheric nitrogen to nitrates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Nitrifying bacteria are microorganisms that help to convert soil ammonium to nitrates, the form in which it is usable by plants. or Nitrifying bacteria is an aerobic bacteria that use inorganic chemicals as an energy source. They are important in the nitrogen cycle as converters of soil ammonia to nitrates by the process of oxidation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/322",
+    "passage": ""
   }
 ]
