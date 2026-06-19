@@ -2518,5 +2518,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75387",
     "passage": ""
+  },
+  {
+    "id": 75389,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the term for colours next to each other on the colour wheel?",
+    "options": {
+      "A": "Split complementary",
+      "B": "Triadic",
+      "C": "Complementary",
+      "D": "Analogous"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Analogous colors are three or more colors next to each other on the color wheel, like blue, blue-green, and green. They share similar tones, creating harmony and a calm feeling often seen in nature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75389",
+    "passage": ""
   }
 ]
