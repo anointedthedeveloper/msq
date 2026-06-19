@@ -2306,5 +2306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49906",
     "passage": ""
+  },
+  {
+    "id": 49908,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A risk classified is uninsurable when the",
+    "options": {
+      "A": "extent of the loss can be calculated",
+      "B": "risk will occur no matter the precaution taken",
+      "C": "risk may not happen",
+      "D": "insurance company cannot pay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Uninsurable risk is a condition that poses unknowable or unacceptable risk of loss or a situation in which the insurance would be against the law. Insurance companies limit their losses by not taking on certain risks that are very likely to result in a loss.\nIn many cases catastrophes, such as earthquakes, have become uninsurable risks . a situation for which an insurance company will not provide insurance, because, for example , it is certain to happen: A person suffering from a terminal illness is considered to be an uninsurable risk .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49908",
+    "passage": ""
   }
 ]
