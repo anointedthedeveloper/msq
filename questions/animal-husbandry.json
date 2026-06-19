@@ -1907,5 +1907,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49821",
     "passage": ""
+  },
+  {
+    "id": 49822,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the followig methods enables a lame bull to reproduce ?",
+    "options": {
+      "A": "Artificial insemination",
+      "B": "Pen mating",
+      "C": "Selection",
+      "D": "Introduction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Artificial insemination is the process of collecting sperm cells from a male animal and manually depositing them into the reproductive tract of a female.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49822",
+    "passage": ""
   }
 ]
