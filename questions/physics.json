@@ -6970,5 +6970,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13882",
     "passage": ""
+  },
+  {
+    "id": 13883,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The component of vector X along the direction of vector Y is zero when",
+    "options": {
+      "A": "X and Y are in opposite directions to each other",
+      "B": "X is at an angle of 45° to Y",
+      "C": "X is perpendicular to Y",
+      "D": "X and Y are parallel to each other"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When two vectors are perpendicular, the angle between them is 90 degrees, resulting in the component of one vector along the direction of the other being zero.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13883",
+    "passage": ""
   }
 ]
