@@ -17471,5 +17471,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25017",
     "passage": ""
+  },
+  {
+    "id": 25018,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The quality of a note produced by a vibrating string is determined by the",
+    "options": {
+      "A": "pitch of the note",
+      "B": "tension of the string",
+      "C": "material of the string",
+      "D": "presence of overtones",
+      "E": "thickness of the string"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25018",
+    "passage": ""
   }
 ]
