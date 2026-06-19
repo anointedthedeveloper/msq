@@ -9132,5 +9132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/4263",
     "passage": ""
+  },
+  {
+    "id": 4266,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "Which of the following terms is exclusive to drama?",
+    "options": {
+      "A": "Dialogue",
+      "B": "Plot",
+      "C": "Protagonist",
+      "D": "Soliloquy."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A soliloquy is a term exclusive to drama. It refers to a literary device where a character speaks their thoughts aloud when alone on stage, allowing the audience to understand their inner feelings and motivations. This technique is unique to dramatic works and is not found in other forms of literature, like prose or poetry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/4266",
+    "passage": ""
   }
 ]
