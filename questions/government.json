@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/97",
     "passage": ""
+  },
+  {
+    "id": 101,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The idea of making the civil service permanent, neutral and anonymous is to",
+    "options": {
+      "A": "enhance efficiency in administration",
+      "B": "ensure loyalty and support",
+      "C": "prevent opposition to government",
+      "D": "make civil servants a functional elite."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The idea of making the civil service permanent, neutral and anonymous is to enhance efficiency in administration. When a civil servant is made to enjoy secured appointment, he must definitely stand good chance to have good measure of expert knowledge and intelligence. When he is not neutral, his political views will definitely interfere with his official work. This will eventually create no conducive atmosphere for efficiency.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/101",
+    "passage": ""
   }
 ]
