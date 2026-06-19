@@ -7285,5 +7285,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2980",
     "passage": ""
+  },
+  {
+    "id": 2981,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Sugar is separated from its impurities by",
+    "options": {
+      "A": "precipitation",
+      "B": "crystallization",
+      "C": "distillation",
+      "D": "evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sugar can be separated from its impurities in a solution primarily through crystallization, a process that allows for the separation of pure solute (sugar) from the solvent (water). Separation by evaporation method can lead to sugar charring.\nCharring of sugar is a chemical change which occurs when sugar is heated, causing it to evaporate, become foggy due to water vapor, and ultimately produce a black, powdery substance called charcoal. This process involves the breakdown of sugar molecules into carbon, water, and other volatile compounds.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2981",
+    "passage": ""
   }
 ]
