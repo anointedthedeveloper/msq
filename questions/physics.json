@@ -9364,5 +9364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14271",
     "passage": ""
+  },
+  {
+    "id": 14272,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The value of F in the figure above when in equilibrium is",
+    "options": {
+      "A": "10N",
+      "B": "12N",
+      "C": "20N",
+      "D": "27N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24543244926_phy200510.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890346/myschool/physics/24543244926_phy200510.jpg",
+    "correct_answer": "C",
+    "explanation": "F = \\(\\frac{17}{sin 60} = \\frac{17}{0.866}\\) = 20N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14272",
+    "passage": ""
   }
 ]
