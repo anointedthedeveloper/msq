@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/649",
     "passage": ""
+  },
+  {
+    "id": 654,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film with some of the particles being considerably deflected. This shows that",
+    "options": {
+      "A": "a gold nucleus contains protons, neutrons and electrons uniformly distributed in a tiny volume",
+      "B": "the gold nucleus is positively charged and is concentrated in a tiny volume",
+      "C": "the gold nucleus emitted alpha particles",
+      "D": "the gold nucleus is concentrated in a tiny volume and contains alpha particles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/654",
+    "passage": ""
   }
 ]
