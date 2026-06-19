@@ -10154,5 +10154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62753",
     "passage": ""
+  },
+  {
+    "id": 62754,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "If a computer user wants to access the national database from a remote location, the user will require a?",
+    "options": {
+      "A": "modem, telephone line and decoder.",
+      "B": "teleprinter, telephone line and facsimile.",
+      "C": "communication software, telephone line and decoder.",
+      "D": "modem, communication software and telephone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62754",
+    "passage": ""
   }
 ]
