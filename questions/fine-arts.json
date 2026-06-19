@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75245",
     "passage": ""
+  },
+  {
+    "id": 75247,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which Nigerian ethnic group is associated with Uli body painting?",
+    "options": {
+      "A": "Hausa",
+      "B": "Tiv",
+      "C": "Igbo",
+      "D": "Ibibio"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Igbo use Uli for traditional body and wall decoration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75247",
+    "passage": ""
   }
 ]
