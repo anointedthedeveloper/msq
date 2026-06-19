@@ -3924,5 +3924,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50598",
     "passage": ""
+  },
+  {
+    "id": 50599,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The deviations from the mean of a set of numbers are \\((k+3)^{2}, (k+7), -2, \\text{k and (} k+2)^{2}\\), where k is a constant. Find the value of k.",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "-2",
+      "D": "-3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sum of deviations from the mean of a set of numbers equals 0.\n\\((k+3)^{2} + (k+7) + (-2) + k + (k+2)^{2} = 0\\)\n\\((k^2 + 6k + 9) + (k+7) - 2 + k + (k^2 + 4k + 4) = 0\\)\n\\(2k^{2} + 12k + 18 = 0\\)\n\\(2k^{2} + 6k + 6k + 18 = 2k(k + 3) + 6(k + 3) = 0\\)\n\\(k = -3 (twice)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50599",
+    "passage": ""
   }
 ]
