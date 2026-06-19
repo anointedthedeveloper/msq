@@ -11977,5 +11977,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22362",
     "passage": ""
+  },
+  {
+    "id": 22363,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "What angle represents grown up girls ? Correct to one decimal place",
+    "options": {
+      "A": "37.5 o",
+      "B": "26.7 o",
+      "C": "25.7 o",
+      "D": "20 o",
+      "E": "3.75 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17981377479_wcmath198925.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907387/myschool/mathematics/17981377479_wcmath198925.jpg",
+    "correct_answer": "B",
+    "explanation": "Total population = 1400 + 550 + 200 + 150 + 400 = 2700 grown up girls = 200 = \\(\\frac {200}{2700}\\) x \\(\\frac {360}{1}\\) =80/3 = 26.7°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22363",
+    "passage": ""
   }
 ]
