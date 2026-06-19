@@ -8713,5 +8713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14142",
     "passage": ""
+  },
+  {
+    "id": 14143,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An object of mass 80 kg is pulled on a horizontal rough ground by a force of 500 N. Find the coefficient of static friction. [g = 10 ms\\(^{-2}\\)]",
+    "options": {
+      "A": "0.8",
+      "B": "0.4",
+      "C": "1.0",
+      "D": "0.6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "coefficient of friction\n= \\(\\frac{F}{R}\\)\n=\\(\\frac{F}{mg}\\)\n= \\(\\frac{500}{80 \\times 10}\\) = 0.625\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14143",
+    "passage": ""
   }
 ]
