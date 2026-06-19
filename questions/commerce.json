@@ -14154,5 +14154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7394",
     "passage": ""
+  },
+  {
+    "id": 7396,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The transmission of telephone services from one country to another is facilitated by?",
+    "options": {
+      "A": "communication satelite",
+      "B": "international facility",
+      "C": "interconnectivity",
+      "D": "internet services"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Communication satellite is the use of artificial satellites to provide communication links between various points on Earth. It is designed to relay several, or more usually many signals simultaneously.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7396",
+    "passage": ""
   }
 ]
