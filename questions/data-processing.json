@@ -1870,5 +1870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58069",
     "passage": ""
+  },
+  {
+    "id": 58074,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "One of the characteristic feature of the second generation computer is the presence of",
+    "options": {
+      "A": "vacuum tube",
+      "B": "transistors",
+      "C": "micro-chips",
+      "D": "integrated circuit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A transistor computer, now often called a second generation computer, is a computer which uses discrete transistors instead of vacuum tubes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58074",
+    "passage": ""
   }
 ]
