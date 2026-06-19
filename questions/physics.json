@@ -12985,5 +12985,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21240",
     "passage": ""
+  },
+  {
+    "id": 21242,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "An object is placed 36cm from a converging lens of focal length 24cm.If a real image which is 4cm high is formed, Calculate the height of the object.",
+    "options": {
+      "A": "2.0cm",
+      "B": "4.0cm",
+      "C": "6.0cm",
+      "D": "8.0cm",
+      "E": "10.0cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "F = 24cm , U = -36cm(behind lense)\nApplying Lense formula = \\(\\frac {1}{f} = \\frac{1}{v} - \\frac{1}{u}\\)\n\\(\\frac{1}{v} = \\frac{1}{24} - \\frac{1}{36} = \\frac{1}{72}\\)\nv = 72cm\nbut Magnification = \\(\\frac{V}{U} = \\frac{h^i}{h_o}\\)\n\\(\\frac{72}{-36} = \\frac{-4}{h_o}\\)                         \\( h_1\\) = -4( real image is negative)\nby cross multiplying   \\(h_1\\) = 2cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21242",
+    "passage": ""
   }
 ]
