@@ -3659,5 +3659,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6412",
     "passage": ""
+  },
+  {
+    "id": 6413,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following rocks is composed of the skeletons of microscopic sea plants and animals?",
+    "options": {
+      "A": "Sandstone",
+      "B": "Slate",
+      "C": "Chalk",
+      "D": "Clay",
+      "E": "Granite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6413",
+    "passage": ""
   }
 ]
