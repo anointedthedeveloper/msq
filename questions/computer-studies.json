@@ -6795,5 +6795,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62503",
     "passage": ""
+  },
+  {
+    "id": 62504,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following function keys can be used to run slide show in a PowerPoint presentation?",
+    "options": {
+      "A": "F2",
+      "B": "F5",
+      "C": "F7",
+      "D": "F12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The F\\(_5\\) function key is used to start a slide show in MS PowerPoint. Function F5 Start a slide presentation from the beginning with the push of a button.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62504",
+    "passage": ""
   }
 ]
