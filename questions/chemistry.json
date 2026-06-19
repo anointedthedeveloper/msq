@@ -3063,5 +3063,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1662",
     "passage": ""
+  },
+  {
+    "id": 1665,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Pure solvents are obtained by",
+    "options": {
+      "A": "Distillation",
+      "B": "Condensation",
+      "C": "Extraction",
+      "D": "Evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Distillation can remove impurities and contaminants from solvents to ensure they meet purity standards for applications like chemical synthesis and manufacturing. it separates solvents from impurities and contaminants, and it can also separate different components of a solvent mixture.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1665",
+    "passage": ""
   }
 ]
