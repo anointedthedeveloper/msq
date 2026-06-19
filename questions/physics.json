@@ -9637,5 +9637,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14285",
     "passage": ""
+  },
+  {
+    "id": 14288,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A car moves with an initial velocity of 25 ms\\(^{-1}\\) and reaches a velocity of 45 ms\\(^{-1}\\) in 10s. What is the acceleration of the car?",
+    "options": {
+      "A": "2 ms -2",
+      "B": "5 ms -2",
+      "C": "20 ms -2",
+      "D": "25 ms -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Acceleration = (increase in velocity)/time taken = (45 - 25)/10 = (20)/10 = 2ms-2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14288",
+    "passage": ""
   }
 ]
