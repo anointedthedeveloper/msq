@@ -5146,5 +5146,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2391",
     "passage": ""
+  },
+  {
+    "id": 2392,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "28 g soil sample was heated to a constant weight of 24 g. When further heated to red hot and cooled, it weighed 18 g. What is the percentage of humus in the soil?",
+    "options": {
+      "A": "22.2",
+      "B": "55.6",
+      "C": "75.0",
+      "D": "25.0",
+      "E": "35.7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Humus soil, a dark, organic material, is primarily composed of decayed plant and animal matter, and it contains essential nutrients like carbon, nitrogen, phosphorus, and sulphur.\nTo find the percentage of humus in the soil, we need to calculate the weight loss due to the burning of humus.\nInitial weight loss (water removal): 28g - 24g = 4g\nWeight loss due to burning of humus: 24g - 18g = 6g\nPercentage of humus: \\(\\frac{Weight loss due to humus}{Initial weight}\\times 100\\)\n= \\(\\frac{6}{28}\\times 100\\)\n= 21.43% ≈ 22.2% (rounded to one decimal place)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2392",
+    "passage": ""
   }
 ]
