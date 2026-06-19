@@ -15274,5 +15274,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23166",
     "passage": ""
+  },
+  {
+    "id": 23167,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Sin 60° has the same value as I. Sin 120° II. cos 240° III. -sin 150° IV. cos 210° V. sin 240°",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "IV only",
+      "D": "III only",
+      "E": "IV and V only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the second quadrant, \\(\\sin 120 = \\sin (180 - 120)\\)\n= \\(\\sin 60\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23167",
+    "passage": ""
   }
 ]
