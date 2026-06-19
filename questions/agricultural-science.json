@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15807",
     "passage": ""
+  },
+  {
+    "id": 15808,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The earthworm is important to the farmer because it",
+    "options": {
+      "A": "improves soil structure",
+      "B": "improves soil texture",
+      "C": "destroys soil pathogens",
+      "D": "adds nutrients to the soil",
+      "E": "prevents soil erosion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15808",
+    "passage": ""
   }
 ]
