@@ -13784,5 +13784,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12779",
     "passage": ""
+  },
+  {
+    "id": 12782,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A sample of an oxide of mercury weighed 1.00g. When this was heated, oxygen was given off, and 1.00g of mercury metal only was left. What is the formula of the oxide?",
+    "options": {
+      "A": "Hg 2 O",
+      "B": "HgO 2",
+      "C": "HgO 2",
+      "D": "HgO",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Various oxides of mercury: Mercury(I) oxide (mercurous oxide), Hg\\(_2\\)O . Mercury(II) oxide (mercuric oxide), HgO .\nNo specific oxide of mercury is refered in the question.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12782",
+    "passage": ""
   }
 ]
