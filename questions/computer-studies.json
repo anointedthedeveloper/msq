@@ -8599,5 +8599,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62675",
     "passage": ""
+  },
+  {
+    "id": 62676,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A company known as CIBITO has the following modules in four of its computers as shown in Table 1. Use the information in Table 1 to answer this question.\nidentify the memory module with the largest physical Size?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "DIMM stands for Dual In-line Memory Module and is the standard form factor used in desktop computers and servers. It is larger and has more pins compared to SODIMM. SODIMM, on the other hand, stands for Small Outline Dual In-line Memory Module and is used in laptops, small form factor computers, and other compact devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62676",
+    "passage": ""
   }
 ]
