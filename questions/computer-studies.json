@@ -19230,5 +19230,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72596",
     "passage": ""
+  },
+  {
+    "id": 72597,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following logic devices is considered as equivalent gate?",
+    "options": {
+      "A": "AND",
+      "B": "EX-NOR",
+      "C": "EXOR",
+      "D": "NOR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "B: (Ex-NOR) An equivalent gate or EX-NOR gate is a digital logic gate that outputs true (1) when an even number of true (1) inputs are present.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72597",
+    "passage": ""
   }
 ]
