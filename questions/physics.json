@@ -14415,5 +14415,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24085",
     "passage": ""
+  },
+  {
+    "id": 24086,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A girl whose mass is 55kg stands on a spring - weighing machine inside a lift. When the lift starts to ascend, its acceleration is 2ms1. What will be the reading on the machine? (Take g = ms\n-2\n)",
+    "options": {
+      "A": "66 kg",
+      "B": "55 kg",
+      "C": "44 kg",
+      "D": "22 kg",
+      "E": "11 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24086",
+    "passage": ""
   }
 ]
