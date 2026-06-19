@@ -4344,5 +4344,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70742",
     "passage": ""
+  },
+  {
+    "id": 70743,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Why is leisure important for mental health?",
+    "options": {
+      "A": "Leisure provides a break from routine and promotes relaxation.",
+      "B": "Leisure has no impact on mental health.",
+      "C": "Leisure increases stress levels.",
+      "D": "Leisure is only beneficial for physically demanding jobs."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Engaging in leisure activities can reduce stress, improve mood, and enhance overall mental well-being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70743",
+    "passage": ""
   }
 ]
