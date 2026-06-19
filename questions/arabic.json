@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75212",
     "passage": ""
+  },
+  {
+    "id": 75213,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما الوزن الصرفي لكلمة \"مكتبة\"؟",
+    "options": {
+      "A": "مَفْعلَة",
+      "B": "فَعلة",
+      "C": "مفْعل",
+      "D": "فاعل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": ". indicating a place \"مفْلة\" and has the pattern \"كتب\" comes from the root \"مكتبة\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75213",
+    "passage": ""
   }
 ]
