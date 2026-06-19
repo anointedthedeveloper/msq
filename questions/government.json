@@ -1595,5 +1595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/992",
     "passage": ""
+  },
+  {
+    "id": 994,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In pre-colonial Igbo society, decisions on public issues were reached mainly through",
+    "options": {
+      "A": "the oracles",
+      "B": "consensus",
+      "C": "imposition",
+      "D": "majority votes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/994",
+    "passage": ""
   }
 ]
