@@ -4163,5 +4163,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62265",
     "passage": ""
+  },
+  {
+    "id": 62266,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The use of satellite to transmit signal information to the earth is enabled with the use of?",
+    "options": {
+      "A": "GSM.",
+      "B": "GPS.",
+      "C": "POS.",
+      "D": "WAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "GPS (Global Positioning System) is a satellite-based radio navigation system owned by the United States government and operated by the United States Space Force. It is one of the global navigation satellite systems (GNSS) that provides geolocation and time information to a GPS receiver anywhere on or near the Earth where there is an unobstructed line of sight to four or more GPS satellites.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62266",
+    "passage": ""
   }
 ]
