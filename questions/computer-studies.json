@@ -18138,5 +18138,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70792",
     "passage": ""
+  },
+  {
+    "id": 70793,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What was the primary advancement of the EDVAC over the ENIAC?",
+    "options": {
+      "A": "Use of Vacuum tubes",
+      "B": "Smaller size",
+      "C": "Stored-Program architecture",
+      "D": "Faster computation speeds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The key difference between ENIAC and EDVAC lies in how they stored and executed instructions. ENIAC had a fixed program design, meaning the instructions were wired into the machine and could not be changed easily. EDVAC, on the other hand, introduced the concept of a stored-program architecture. Instructions were stored in memory alongside allowing for greater flexibility and easier modification of programs.\nThis innovation paved the way for modern computers with stored programs on hard drives or other storage devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70793",
+    "passage": ""
   }
 ]
