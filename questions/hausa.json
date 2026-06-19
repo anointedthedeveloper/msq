@@ -7214,5 +7214,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75964",
     "passage": ""
+  },
+  {
+    "id": 75965,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Haruffan murya (vowel sounds) a harshen Hausa nawa ne?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Hausa has nine vowel phonemes, which include both short and long vowel sounds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75965",
+    "passage": ""
   }
 ]
