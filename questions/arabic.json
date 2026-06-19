@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75170",
     "passage": ""
+  },
+  {
+    "id": 75172,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أي الجمل التالية تحتوي على فعل مضارع؟",
+    "options": {
+      "A": "ذهب أحمدُ إلى المدرسةِ",
+      "B": "يكتبُ الولدُ الدرس",
+      "C": "قرأ محمدٌّ كتابًا",
+      "D": "أكلتُ التفاحةٌ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"ćKy\" (yaktubu) is a present tense verb in Arabic. It means \"he writes\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75172",
+    "passage": ""
   }
 ]
