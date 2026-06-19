@@ -3106,5 +3106,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5905",
     "passage": ""
+  },
+  {
+    "id": 5906,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Simplify 1 - (7/3 x 5/4) + 3/5",
+    "options": {
+      "A": "-16/15",
+      "B": "-79/60",
+      "C": "-37/15",
+      "D": "-151/60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(1 - (\\frac{7}{3} \\times \\frac{5}{4}) + \\frac{3}{5}\\)\n= \\(1 - \\frac{35}{12} + \\frac{3}{5}\\)\n= \\(\\frac{60 - 175 + 36}{60}\\)\n= \\(\\frac{-79}{60}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5906",
+    "passage": ""
   }
 ]
