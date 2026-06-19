@@ -12164,5 +12164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68549",
     "passage": ""
+  },
+  {
+    "id": 68550,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The Treaty of Nanjing, signed after the First Opium War, resulted in the cession of which territory to Great Britain?",
+    "options": {
+      "A": "Macau",
+      "B": "Hong Kong",
+      "C": "Taiwan",
+      "D": "Shanghai"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Treaty of Nanjing, signed in 1842, ended the First Opium War between the United Kingdom and China. As a result of the treaty, China ceded the territory of Hong Kong to the British Empire.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68550",
+    "passage": ""
   }
 ]
