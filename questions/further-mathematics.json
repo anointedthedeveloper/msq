@@ -1573,5 +1573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50383",
     "passage": ""
+  },
+  {
+    "id": 50384,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the angle between forces of magnitude 7N and 4N if their resultant has a magnitude of 9N.",
+    "options": {
+      "A": "39.45°",
+      "B": "73.40°",
+      "C": "75.34°",
+      "D": "106.60°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(F_{1} = 7i + 0j\\)\n\\(F_{2} = (4\\cos\\theta)i + (4\\sin\\theta)j\\)\n\\(9 = \\sqrt{(7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2}}\\)\n\\(9^{2} = (7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2} \\implies 81 = 49 + 56\\cos\\theta + 16\\cos^{2}\\theta + 16\\sin^{2}\\theta\\)\n\\(81 = 49 + 56\\cos\\theta + 16(\\cos^{2}\\theta + \\sin^{2}\\theta)\\)\nRecall, \\(\\cos^{2}\\theta + \\sin^{2}\\theta = 1\\)\n\\(81 = 49 + 56\\cos\\theta + 16 \\implies 81 - 49 -16 = 56\\cos\\theta\\)\n\\(16 = 56\\cos\\theta \\implies \\cos\\theta = \\frac{16}{56} = 0.2857\\)\n\\(\\theta = \\cos^{-1} 0.2857  = 73.40°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50384",
+    "passage": ""
   }
 ]
