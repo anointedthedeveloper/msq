@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60223",
     "passage": ""
+  },
+  {
+    "id": 60224,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Fig.2 is a system development cycle. Use it to answer the question below\nThe path labelled II is the __________?",
+    "options": {
+      "A": "System design",
+      "B": "System implementation",
+      "C": "Study review",
+      "D": "Feasibility study"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/wbiJpMuiOvQBERxyFvTIYpKRu2a0fh5nWH3nXgsA.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900451/myschool/computer-studies/wbiJpMuiOvQBERxyFvTIYpKRu2a0fh5nWH3nXgsA.png",
+    "correct_answer": "A",
+    "explanation": "The part labeled II is the system design.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60224",
+    "passage": ""
   }
 ]
