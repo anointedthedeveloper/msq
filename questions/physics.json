@@ -8860,5 +8860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14170",
     "passage": ""
+  },
+  {
+    "id": 14180,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An electric heater rated 220V, 1000 W is immersed into a bucket full of water. Calculate the mass of water if the temperature changes from 30°c to 100°c and the current flows for 300seconds. [specific heat capacity of water = 4200 jkg-1 K-1]",
+    "options": {
+      "A": "4.28 kg",
+      "B": "42.86 kg",
+      "C": "1.02 kg",
+      "D": "7.14 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The energy supplied by the heater = heater gained by the water pt = Mc\\(\\Delta\\)θ 1000 x 300 = m x 4200(100 - 30) m = \\(\\frac{(1000 \\times 300)}{4200 \\times 70}\\) = 1.02 kg\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14180",
+    "passage": ""
   }
 ]
