@@ -2439,5 +2439,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1332",
     "passage": ""
+  },
+  {
+    "id": 1333,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words : The clerk refused to answer for the mistake made by the manager and his assistants",
+    "options": {
+      "A": "to reply to",
+      "B": "to give an answer",
+      "C": "to explain",
+      "D": "to accept responsibility",
+      "E": "to account for"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The underlined expression “answer for” means to take responsibility or be held responsible for something, especially a mistake or wrongdoing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1333",
+    "passage": ""
   }
 ]
