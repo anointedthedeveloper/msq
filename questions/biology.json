@@ -1758,5 +1758,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/416",
     "passage": ""
+  },
+  {
+    "id": 417,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Grasses → Grasshoppers → Lizards  → Snakes →  Hawks\nWhich of these is not true? Grass in the above food chain",
+    "options": {
+      "A": "trap all the sunlight",
+      "B": "trap a small percent of the sun energy",
+      "C": "are primary producers",
+      "D": "are eaten by primary consumers",
+      "E": "contains chlorophyll"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Grasses typically trap around 1% of the sunlight that falls on their leaves. This energy is then converted into food energy through photosynthesis. The actual percentage can vary based on factors like light intensity, temperature, and atmospheric conditions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/417",
+    "passage": ""
   }
 ]
