@@ -11464,5 +11464,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4347",
     "passage": ""
+  },
+  {
+    "id": 4348,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following molecules has two other positional isomers?",
+    "options": {
+      "A": "CH 3 CH 2 Br",
+      "B": "CH 3 CHBrCH 3",
+      "C": "CBr 2 F 2",
+      "D": "CH 2 CHBrCH 2 Br"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Positional isomers, also known as position isomers, are molecules with the same molecular formula and the same functional groups, but where the functional groups are in different positions on the carbon chain. This type of structural isomerism results in molecules with distinct properties despite having the same overall chemical composition.\nIn Option D, the compound  CH\\(_2\\)CHBrCH\\(_2\\)Br (1,2- dibromopropane) has two other isomers with itself as 1,1-dibromopropane and 2,2-dibromopropane. Hence, it is the correct answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4348",
+    "passage": ""
   }
 ]
