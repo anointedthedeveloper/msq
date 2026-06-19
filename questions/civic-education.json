@@ -2852,5 +2852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50216",
     "passage": ""
+  },
+  {
+    "id": 50217,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not a way of improving the public service",
+    "options": {
+      "A": "politicization",
+      "B": "freshers course",
+      "C": "the use of code of conduct bureau",
+      "D": "reformation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Politicization is the action of causing an activity or event to become political in character. The public service is meant to be unbias and free from political and partisan influence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50217",
+    "passage": ""
   }
 ]
