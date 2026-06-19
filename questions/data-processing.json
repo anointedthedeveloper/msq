@@ -9944,5 +9944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77100",
     "passage": ""
+  },
+  {
+    "id": 77101,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Ctrl + B is?",
+    "options": {
+      "A": "paste the selected text\r\n\r\nbold the selected text",
+      "B": "bold the selected text",
+      "C": "open the specified file",
+      "D": "search the selected text"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A shortcut that is commonly used in various programs to bold the selected text. It does not search, paste, or open files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77101",
+    "passage": ""
   }
 ]
