@@ -2242,5 +2242,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/1409",
     "passage": "From the novel; As You Like It"
+  },
+  {
+    "id": 1411,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "One of the differences between tragedy and comedy is",
+    "options": {
+      "A": "there is humour in comedy but not in tragedy",
+      "B": "there is suffering in tragedy but not in comedy",
+      "C": "there is feasting in comedy but not in tragedy",
+      "D": "there is a happy ending in comedy but not in tragedy",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "One of the main differences between tragedy and comedy lies in their endings and tone : Tragedy ends sadly or disastrously , with the downfall or death of the protagonist due to a fatal flaw or unavoidable fate. Comedy , on the other hand, usually ends happily , with reunions, marriages or resolutions of conflict.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/1411",
+    "passage": ""
   }
 ]
