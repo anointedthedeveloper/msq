@@ -3232,5 +3232,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61846",
     "passage": ""
+  },
+  {
+    "id": 61847,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Which of the following circuits is used as memory device in a computer?",
+    "options": {
+      "A": "Attenuator",
+      "B": "Comparator",
+      "C": "Flip-flop",
+      "D": "Modem",
+      "E": "Rectifier"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61847",
+    "passage": ""
   }
 ]
