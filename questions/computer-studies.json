@@ -9355,5 +9355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62713",
     "passage": ""
+  },
+  {
+    "id": 62714,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A computer program that gathers information about a person or organization without their knowledge or consent is known as?",
+    "options": {
+      "A": "Adware.",
+      "B": "Time Bomb.",
+      "C": "Malware.",
+      "D": "Spyware."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Spyware is software that gathers information about a person or organization without their knowledge or consent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62714",
+    "passage": ""
   }
 ]
