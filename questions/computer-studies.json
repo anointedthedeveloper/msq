@@ -10028,5 +10028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62747",
     "passage": ""
+  },
+  {
+    "id": 62748,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The major difference between low level programming language and high level programming language Is that?",
+    "options": {
+      "A": "low level languages need an interpreter while a high level languages need a compiler.",
+      "B": "high level languages will not need a translator but low level languages do.",
+      "C": "low level languages need a compiler while high level languages need an interpreter.",
+      "D": "low level languages do not need translators while high level languages do."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The major difference between low-level programming language and high-level programming language is that High-level languages require the use of a compiler or an interpreter for their translation into the machine code. while Low-level language requires an assembler to directly translate the instructions of the machine language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62748",
+    "passage": ""
   }
 ]
