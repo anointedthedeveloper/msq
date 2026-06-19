@@ -13805,5 +13805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5100",
     "passage": ""
+  },
+  {
+    "id": 5103,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap : I can quickly recite the National Anthem .... now.",
+    "options": {
+      "A": "off head",
+      "B": "off by heart",
+      "C": "at hand",
+      "D": "off hand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It means you have memorized something thoroughly and can recite it from memory without needing to refer to notes or prompts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5103",
+    "passage": ""
   }
 ]
