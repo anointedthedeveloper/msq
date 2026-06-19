@@ -1530,5 +1530,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1461",
     "passage": ""
+  },
+  {
+    "id": 1463,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Chlorine, bromine and iodine resemble one another in that they?",
+    "options": {
+      "A": "dissolve in alkalis",
+      "B": "react violently with hydrogen without heating",
+      "C": "are liquids",
+      "D": "displace one another from solutions of their salts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Chlorine and hydrogen do not react vigorously without heating unless exposed to sunlight or a flame. The reaction is spontaneous and explosive when exposed to these conditions. However, chlorine, bromine, and iodine all dissolve in alkali to form alkali metal halides.\nAlkali metals are electropositive elements that bond ionically with halogens, which are electronegative elements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1463",
+    "passage": ""
   }
 ]
