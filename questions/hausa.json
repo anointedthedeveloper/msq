@@ -6710,5 +6710,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74076",
     "passage": ""
+  },
+  {
+    "id": 75927,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Hausa tana cikin wace rukuni na harsuna?",
+    "options": {
+      "A": "Indo-European",
+      "B": "Afro-Asiatic",
+      "C": "Bantu",
+      "D": "Niger-Congo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hausa belongs to the Chadic branch of the Afro-Asiatic language family.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75927",
+    "passage": ""
   }
 ]
