@@ -5563,5 +5563,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8615",
     "passage": ""
+  },
+  {
+    "id": 8622,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The table above shows the scores of a group of students in a physics test. If the mode is m and the number of students who scored 4 or more is n, what is (n, m)?",
+    "options": {
+      "A": "(33, 4)",
+      "B": "(22, 4)",
+      "C": "(33, 12)",
+      "D": "(12, 4)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4067719956_math20061.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868537/myschool/mathematics/4067719956_math20061.jpg",
+    "correct_answer": "A",
+    "explanation": "The mode (m) = 4.\nNo of students who scored 4 and above = 12 + 10 + 6 + 4 + 1 = 33.\n\\(\\therefore\\) (n, m) = (33, 4)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8622",
+    "passage": ""
   }
 ]
