@@ -3273,5 +3273,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50518",
     "passage": ""
+  },
+  {
+    "id": 50519,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The sum, \\(S_{n}\\),  of a sequence is given by \\(S_{n} = 2n^{2} - 5\\). Find the 6th term.",
+    "options": {
+      "A": "112",
+      "B": "67",
+      "C": "45",
+      "D": "22"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(S_{n} = 2n^{2} - 5\\)\n\\(T_{n} = S_{n} - S_{n - 1}\\)\n\\(T_{6} = S_{6} - S_{5}\\)\n= \\((2(6^{2} - 5) - (2(5^{2} - 5) = 62 - 40 = 22\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50519",
+    "passage": ""
   }
 ]
