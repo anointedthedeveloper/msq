@@ -11999,5 +11999,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22363",
     "passage": ""
+  },
+  {
+    "id": 22397,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "What percentage of the population are married? correct to one decimal place",
+    "options": {
+      "A": "14.8%",
+      "B": "20.4%",
+      "C": "30.5%",
+      "D": "35.2%",
+      "E": "36.5%"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6915915705_wcmath198925.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907393/myschool/mathematics/6915915705_wcmath198925.jpg",
+    "correct_answer": "D",
+    "explanation": "Married = 550 + 400 = 950 Married% = \\(\\frac {950}{2700}\\) x \\(\\frac {100}{1}\\) =35.2%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22397",
+    "passage": ""
   }
 ]
