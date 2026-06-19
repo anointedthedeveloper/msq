@@ -13762,5 +13762,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12777",
     "passage": ""
+  },
+  {
+    "id": 12779,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "10cm3 of CO is mixed and sparked with 100cm3 of air containing 21% O2. If all the volumes measured at S.T.P. the volume of resulting gases would be?",
+    "options": {
+      "A": "90cm 3",
+      "B": "100cm 3",
+      "C": "105cm 3",
+      "D": "110cm 3",
+      "E": "115cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2CO(g) + O2(g) ---> 2CO\\(_2\\)(g) 2vol 1vol 2vol Volume in cm\\(^3\\) Before sparking: 10 // 21 Volume in cm\\(^3\\) On sparking 10 // 5 // 10 Volume in cm\\(^3\\) After sparking: 0// 16 // 10 Total volume of resulting gas = Volume of [excess oxygen + CO\\(_2\\) produced + unreactive components] = 16 + 10 + 79   → 105cm\\(^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12779",
+    "passage": ""
   }
 ]
