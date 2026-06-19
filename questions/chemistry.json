@@ -3483,5 +3483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1725",
     "passage": ""
+  },
+  {
+    "id": 1726,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The main impurity in iron ore during the extraction of iron is",
+    "options": {
+      "A": "Silicon (IV) oxide",
+      "B": "Carbon (IV) oxide",
+      "C": "Calcium trioxosilicate",
+      "D": "Sulphur (II) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Iron ore is typically found with various impurities, with the main impurity being silicon dioxide (SiO\\(_2\\)) . To remove silicon dioxide from iron ore, calcium oxide (CaO) is added to the blast furnace. This is a neutralization reaction because silicon dioxide is acidic and calcium oxide is basic.\nCaO\\(_{(s)}\\)   +   (SiO\\(_2\\))\\(_{(s)}\\)   →   CaSiO\\(_2\\)\\(_{(s)}\\) .\nBase               Acid\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1726",
+    "passage": ""
   }
 ]
