@@ -1208,5 +1208,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/391",
     "passage": ""
+  },
+  {
+    "id": 392,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "When the ciliary muscles of the eye contract, the eye lens",
+    "options": {
+      "A": "Bulge",
+      "B": "Contracts",
+      "C": "Rotates",
+      "D": "Flattens",
+      "E": "Is rounded"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "When the ciliary muscles contract, the eye lens becomes more spherical (rounder) and gains more focusing power, allowing the eye to focus on near objects. This happens because the contraction releases the tension on the suspensory ligaments (also called zonular fibers), which normally pull the lens flatter.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/392",
+    "passage": ""
   }
 ]
