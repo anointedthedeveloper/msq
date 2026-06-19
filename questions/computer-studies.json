@@ -13972,5 +13972,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64434",
     "passage": ""
+  },
+  {
+    "id": 64435,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is not a job of the operating system",
+    "options": {
+      "A": "Stopping unauthorised users accessing files that do not belong to them",
+      "B": "Handling HTTP requests for Web pages",
+      "C": "Allocating memory to programs that are running on the computer",
+      "D": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The operating system doesn't handle HTTP requests for Web pages but a web server does.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64435",
+    "passage": ""
   }
 ]
