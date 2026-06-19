@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75347",
     "passage": ""
+  },
+  {
+    "id": 75348,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "من هو خامس الخلفاء الراشدين؟",
+    "options": {
+      "A": "عمر بن عبد العزيز",
+      "B": "لا يوجد",
+      "C": "أبو عبيدة",
+      "D": "الحسن بن علي"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Though not officially among the four caliphs, Umar ibn Abd al-Aziz is sometimes called the fifth rightly guided caliph.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75348",
+    "passage": ""
   }
 ]
