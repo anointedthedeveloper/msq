@@ -10729,5 +10729,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4293",
     "passage": ""
+  },
+  {
+    "id": 4294,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The basic assumption in the kinetic theory of gases that the collisions of the gaseous molecules are perfectly elastic implies that the?",
+    "options": {
+      "A": "forces of attraction and repulsion are in equilibrium",
+      "B": "gaseous molecules can occupy any available space",
+      "C": "gaseous molecules will continue their motion indefinitely",
+      "D": "gases can be compressed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An elastic collision is an encounter between two bodies in which the total kinetic energy of the two bodies remains the same.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4294",
+    "passage": ""
   }
 ]
