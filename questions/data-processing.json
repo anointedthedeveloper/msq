@@ -6706,5 +6706,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67125",
     "passage": ""
+  },
+  {
+    "id": 67126,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following malware does not replicate itself?",
+    "options": {
+      "A": "Trojan horse",
+      "B": "Memory resident virus",
+      "C": "Boot sector virus",
+      "D": "Worm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A Trojan Horse Virus is a type of malware that downloads onto a computer disguised as a legitimate program, and does not replicate itself.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67126",
+    "passage": ""
   }
 ]
