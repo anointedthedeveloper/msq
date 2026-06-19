@@ -333,5 +333,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72855",
     "passage": ""
+  },
+  {
+    "id": 72857,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A person whom a business owes for the goods or service supplied by him is the",
+    "options": {
+      "A": "payee",
+      "B": "drawee",
+      "C": "creditor",
+      "D": "debtor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If a business owns its suppliers for goods and services supplied,the supplier is a creditor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72857",
+    "passage": ""
   }
 ]
