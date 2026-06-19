@@ -13910,5 +13910,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22879",
     "passage": ""
+  },
+  {
+    "id": 22880,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Mrs. Kofi sold an article for C7.50 instead of C12.75. Calculate her percentage of error, correct to one decimal place.",
+    "options": {
+      "A": "41.2%",
+      "B": "18.3%",
+      "C": "5.3%",
+      "D": "1.7%",
+      "E": "1.4%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22880",
+    "passage": ""
   }
 ]
