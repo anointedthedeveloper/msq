@@ -1098,5 +1098,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/257",
     "passage": ""
+  },
+  {
+    "id": 259,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Moses asked Pharaoh to allow the Hebrews to depart from Egypt to",
+    "options": {
+      "A": "buy more food from the land of Canaan",
+      "B": "fight the Jebusites",
+      "C": "smite the Amorites",
+      "D": "to make a sacrifice to the Lord in the wilderness",
+      "E": "rest in the wilderness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Moses asked Pharaoh to allow the Hebrews to depart from Egypt specifically so that they could make a sacrifice to the Lord in the wilderness. This can be found in Exodus 3:18. Moses requested permission from Pharaoh to let the people go into the wilderness to worship and offer sacrifices to their God.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/259",
+    "passage": ""
   }
 ]
