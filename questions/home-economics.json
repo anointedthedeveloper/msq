@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73231",
     "passage": ""
+  },
+  {
+    "id": 73232,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "In girls, development of breast and onset of menstrual flow are sign of",
+    "options": {
+      "A": "Growth",
+      "B": "Adulthood",
+      "C": "Adolescence",
+      "D": "Toddler"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The development of breasts and the onset of menstrual flow (menarche) are two of the most significant physical changes that occur during puberty in girls. Puberty is the stage of development when a child's body begins to transition into adulthood, typically occurring between ages 10–14 for girls.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73232",
+    "passage": ""
   }
 ]
