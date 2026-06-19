@@ -4756,5 +4756,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7915",
     "passage": ""
+  },
+  {
+    "id": 7916,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Elements of weather and climate include all but ONE of the following:",
+    "options": {
+      "A": "Temperature",
+      "B": "Precipitation",
+      "C": "Wind",
+      "D": "Altitude",
+      "E": "Air pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7916",
+    "passage": ""
   }
 ]
