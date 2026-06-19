@@ -710,5 +710,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49628",
     "passage": ""
+  },
+  {
+    "id": 49629,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following farm animals is a monogastric?",
+    "options": {
+      "A": "Bullock",
+      "B": "Boar",
+      "C": "Heifer",
+      "D": "Wether"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ruminants are animals such as cattle, sheep, goats and deer. In comparison, animals such as pigs , dogs and horses have only a single stomach compartment and are called nonruminants, or monogastric animals .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49629",
+    "passage": ""
   }
 ]
