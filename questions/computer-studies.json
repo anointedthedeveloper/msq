@@ -7610,5 +7610,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62545",
     "passage": ""
+  },
+  {
+    "id": 62546,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The three levels of programming language?",
+    "options": {
+      "A": "assembly language, low level language and high level language,",
+      "B": "java, C language and pascal",
+      "C": "machine language low level language and high level language",
+      "D": "machine language, machine code and assembly language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There are three levels of programming languages: machine language ( this is lowest level of programming language. It handles binary data i.e. 0’s and 1’s . It directly interacts with system. Machine language is difficult for human beings to understand as it comprises combination of 0’s and 1’s.) , assembly language ( this is a low-level language. It consists of a set of instructions in a specific format called commands . It uses symbols to represent field of instructions.) , and high-level language ( this  uses format or language that is most familiar to users. The instructions in this language are called codes or scripts . The computer needs a compiler and interpreter to convert high-level language program to machine level language. Examples include C++, Python, Java, etc).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62546",
+    "passage": ""
   }
 ]
