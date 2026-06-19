@@ -12663,5 +12663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7295",
     "passage": ""
+  },
+  {
+    "id": 7296,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The central bank controls the quantity of money in circulation through?",
+    "options": {
+      "A": "open-market operations",
+      "B": "decreasing the tax rate",
+      "C": "issuing new currencies",
+      "D": "increasing the tax rate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Open-market operations refer to the purchase and sale of securities in the open market by a central bank. It is done to control the flow of money in the economy. When there is excess money in circulation, the central bank buys securities in the open market by raising interest rates so that people will be willing to exchange their monies (for high interest in return) for a particular period of time.\nIn the same way, if it wants to increase the flow of money in the economy, the central bank sells securities to the market by lowering the interest that will be paid on the instruments (debt instruments). With this, people will be willing to buy (borrow money) from the central and pay back with low interest.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7296",
+    "passage": ""
   }
 ]
