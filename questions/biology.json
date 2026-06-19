@@ -306,5 +306,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/322",
     "passage": ""
+  },
+  {
+    "id": 323,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In the life history of schistosoma (Bilharzia), one of the following is intermediate host",
+    "options": {
+      "A": "man",
+      "B": "snail",
+      "C": "mosquito larva",
+      "D": "crayfish",
+      "E": "fish"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Bhilharzia is another name for snail fever, which attacks primarily the snail's urinary tract.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/323",
+    "passage": ""
   }
 ]
