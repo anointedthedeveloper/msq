@@ -15276,5 +15276,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67758",
     "passage": ""
+  },
+  {
+    "id": 67759,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The type of computers that are designed to perform complex calculations extremely rapidly are called ?",
+    "options": {
+      "A": "supercomputer",
+      "B": "micro computers",
+      "C": "laptops",
+      "D": "mainframe computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Supercomputers are designed to perform complex calculations extremely rapidly. They are the fastest and most powerful type of computer, often used for large-scale simulations, such as weather forecasting, climate research, molecular modeling, and physical simulations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67759",
+    "passage": ""
   }
 ]
