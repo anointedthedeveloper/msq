@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57430",
     "passage": ""
+  },
+  {
+    "id": 57433,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A program developed to protect the computer from malicious software is referred to as",
+    "options": {
+      "A": "trojan",
+      "B": "driver",
+      "C": "antivirus",
+      "D": "spyware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Antivirus software, or anti-virus software, also known as anti-malware, is a computer program used to prevent, detect, and remove malware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57433",
+    "passage": ""
   }
 ]
