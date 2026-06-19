@@ -4046,5 +4046,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1922",
     "passage": ""
+  },
+  {
+    "id": 1923,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "A grass hopper respires by the means of its",
+    "options": {
+      "A": "Lung-books",
+      "B": "Gills",
+      "C": "Lungs",
+      "D": "Antennae",
+      "E": "Tracheal tubes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Grasshoppers, like other insects, do not have lungs. They have a simple gas exchange system that uses long tubes called tracheae to deliver oxygen to each cell in the body. Spiracles are holes on the grasshopper's body that connect to the tracheal system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1923",
+    "passage": ""
   }
 ]
