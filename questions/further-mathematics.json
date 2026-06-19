@@ -2475,5 +2475,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50426",
     "passage": ""
+  },
+  {
+    "id": 50427,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A man of mass 80kg stands in a lift. If the lift moves upwards with acceleration 0.5\\(ms^{-2}\\), calculate the reaction from the floor of the lift on the man. \\([g = 10ms^{-2}]\\)",
+    "options": {
+      "A": "760N",
+      "B": "800N",
+      "C": "805N",
+      "D": "840N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\text{Net force = Upward force - weight}\\)\n\\(ma = F - mg  \\implies F = ma + mg \\)\n\\(F = (80 \\times 10) + (80 \\times 0.5) = 800 + 40 = 840N\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50427",
+    "passage": ""
   }
 ]
