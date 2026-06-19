@@ -5597,5 +5597,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59308",
     "passage": ""
+  },
+  {
+    "id": 62582,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The main component of the first generation computer was",
+    "options": {
+      "A": "microchip",
+      "B": "transistor",
+      "C": "integrated circuit",
+      "D": "electronic valve"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Vacuum tubes(also known as electronic valves) were used in the first generations of computers. These computer systems made use of vacuum tubes as storage circuits and electromagnetic drums.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62582",
+    "passage": ""
   }
 ]
