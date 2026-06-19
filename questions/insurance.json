@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49645",
     "passage": ""
+  },
+  {
+    "id": 49647,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The legth of time in which a proposer is expected to effect changes in life insurance contract is?",
+    "options": {
+      "A": "days of grace",
+      "B": "cooling off period",
+      "C": "rectification",
+      "D": "endorsement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "cooling - off period ,is a period during which you can cancel the policy for any reason. If you cancel, you should get a refund of any premiums you've paid, but the insurer is allowed to charge to cover days when the policy was in force, plus an administration fee.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49647",
+    "passage": ""
   }
 ]
