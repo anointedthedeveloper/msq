@@ -4624,5 +4624,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7901",
     "passage": ""
+  },
+  {
+    "id": 7902,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "With which of the following processes are drumlins, boulder clay and terminal moraines associated?",
+    "options": {
+      "A": "Wind deposition",
+      "B": "River deposition",
+      "C": "River erosion",
+      "D": "Glacial depostion",
+      "E": "Glacial erosion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7902",
+    "passage": ""
   }
 ]
