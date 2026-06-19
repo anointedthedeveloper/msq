@@ -4246,5 +4246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75411",
     "passage": ""
+  },
+  {
+    "id": 75412,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Elle prend __café tous les jours.",
+    "options": {
+      "A": "de",
+      "B": "d'un",
+      "C": "du",
+      "D": "d'en"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Du\" is the partitive form for masculine singular nouns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75412",
+    "passage": ""
   }
 ]
