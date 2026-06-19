@@ -1678,5 +1678,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50388",
     "passage": ""
+  },
+  {
+    "id": 50389,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(P = {x : -2 < x < 5}\\) and \\(Q = {x : -5 < x < 2}\\) are subsets of \\(\\mu = {x : -5 \\leq x \\leq 5}\\), where x is a real number, find \\((P \\cup Q)\\).",
+    "options": {
+      "A": "\\({x : -5 < x < 5}\\)",
+      "B": "\\({x : -5 \\leq x \\leq 5}\\)",
+      "C": "\\({x : -5 \\leq x < 5}\\)",
+      "D": "\\({x : -5 < x \\leq 5}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(P = {x : -2 < x < 5}\\) and \\(Q = {x:  -5 < x < 2}\\)\n\\((P \\cup Q) = {x : -5 < x < 5}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50389",
+    "passage": ""
   }
 ]
