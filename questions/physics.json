@@ -15845,5 +15845,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24252",
     "passage": ""
+  },
+  {
+    "id": 24253,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A body of mass 5kg falls from a height of 10m above the ground. What is the kinetic energy of the body just before it strikes the ground? (Neglect energy losses and take gravity as 10ms^2)",
+    "options": {
+      "A": "5J",
+      "B": "25J",
+      "C": "250J",
+      "D": "500J",
+      "E": "625J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "v2 = u2 + 2gh = 0 + 2 x 10 x 10 v2 = 200; K.E = 1/2mv2 = 1/2 x 5 x 200 = 500J",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24253",
+    "passage": ""
   }
 ]
