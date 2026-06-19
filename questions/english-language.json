@@ -1977,5 +1977,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/641",
     "passage": ""
+  },
+  {
+    "id": 642,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "From the options lettered A-E, choose the option that best fills the gap in the following sentence.\nMr. Thomas talked .... about the successes of his institute in the past year.",
+    "options": {
+      "A": "at a great length",
+      "B": "for great length",
+      "C": "at great length",
+      "D": "for a great length",
+      "E": "at great lengths"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"at great length\" is an idiomatic expression that means in great detail or for a long time. The article 'a' or the plural 's' should not be attached.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/642",
+    "passage": ""
   }
 ]
