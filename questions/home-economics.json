@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73172",
     "passage": ""
+  },
+  {
+    "id": 73173,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following statements describes heat transfer by conduction?",
+    "options": {
+      "A": "The movement of heat in boiling water",
+      "B": "he movement of heated gases in a circular motion",
+      "C": "The movement of heated gases",
+      "D": "The movement of heat through solid by contact"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Heat transfer by conduction occurs when two objects are in direct physical contact, and heat energy is transferred from the hotter object to the cooler one through contact. This happens because atoms or molecules collide and transfer energy from one object to another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73173",
+    "passage": ""
   }
 ]
