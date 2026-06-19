@@ -7085,5 +7085,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62518",
     "passage": ""
+  },
+  {
+    "id": 62519,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) Convert 1011011\\(_2\\) to its hexadecimal equivalent\n(b) State one difference a hacker and a scammer (c) identify the parts labeled A, B, C and D on the keyboard shown below",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) First method First converting 1011011, Base ten:\n1011011\\(_2\\) =  1x2\\(^6\\) +Ox2\\(^5\\) + 1x2\\(^4\\) + 1x2\\(^\\3) + Ox2\\(^2\\) + 1x2\\(^1\\) +1x2\\(^0\\)\n= 1x64 + 0x32 + 1x16 + 1x8 + 0x4 + 1x2 + 1x1\n= 64+0+ 16 + 8 + 0+ 2+1 = 91\nThen converting 91, to Hexadecimal → 5B\\(_{16}\\)\n(b)\nA hacker is a person who gains unauthorised account with the aim of stealing or altering data or having other bad intentions.\nA scammer is a person who gains unauthorised access to user's account by sending unwanted or inappropriate electronic mail to multiple recipients with the intention to deceive.\nOR\nHackers are programmers who have backend technical knowledge of any software and uses such to break into computer systems of unsuspecting client.\nA scammer ensures that his victim remotely gain an cess to his computer and then uses the confidence tricks to later defraud the unsuspecting client for technical support OR\nHackers are also called black hats or crackers with malicious intentions, to steal, exploit, and sell data A scammer makes use of Windows tools and System directories as tools for their malicious activities Elderly people, illiterate computer users and free-soft ware patronize are mostly victims of scammers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62519",
+    "passage": ""
   }
 ]
