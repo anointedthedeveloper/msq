@@ -6255,5 +6255,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2652",
     "passage": ""
+  },
+  {
+    "id": 2653,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following hydrogen halides has the highest entropy value?",
+    "options": {
+      "A": "HF",
+      "B": "HCl",
+      "C": "HBr",
+      "D": "HI"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Entropy is a thermodynamic parameter that measures the disorder or randomness of a system. In general, gases with greater molecular weights have greater entropy. Thus, the entropy energies are in the order:\nHF 173.779 ± 0.003 J K-1mol-1 HCl : 186.9 J K-1mol-1 HBr : 198.7 J K-1mol-1 HI : 206.6 J K-1mol-1 . Consequently, HI has the highest entropy value while HF has the least because the greater the molecular weights the greater the entropy value.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2653",
+    "passage": ""
   }
 ]
