@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9",
     "passage": ""
+  },
+  {
+    "id": 10,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the value of X if \\(\\frac{\\sqrt{2}}{x+\\sqrt{2}}=\\frac{1}{x-\\sqrt{2}}\\)",
+    "options": {
+      "A": "3√2+4",
+      "B": "3√2-4",
+      "C": "3-2√2",
+      "D": "4+2√2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Start your solution by cross-multiplying,\n\\(\\frac{\\sqrt{2}}{x+\\sqrt{2}}=\\frac{1}{x-\\sqrt{2}}\\)\n[x - \\(\\sqrt{2}\\)]\\(\\sqrt{2}\\)  = x + \\(\\sqrt{2}\\)\nwhere \\(\\sqrt{2}\\) ×\\(\\sqrt{2}\\) = 2\nx\\(\\sqrt{2}  - \\sqrt{2}  x \\sqrt{2}\\) = x + \\(\\sqrt{2}\\)\nthen collect like terms\nx\\(\\sqrt{2}\\) - x = \\(\\sqrt{2}\\) + 2\nand factorize accordingly to get the unknown.\nx(\\(\\sqrt{2}\\) - 1) = \\(\\sqrt{2}\\) + 2\nx = \\(\\frac{\\sqrt{2}) + 2}{\\sqrt{2} - 1}\\)\nrationalize\nx = \\(\\frac{\\sqrt{2} + 2}{\\sqrt{2} - 1}\\) * \\(\\frac{\\sqrt{2} + 1}{\\sqrt{2} + 1}\\)\nx = \\(\\frac{\\sqrt{4} + \\sqrt{2} + 2\\sqrt{2} + 2}{\\sqrt{4}  + \\sqrt{2} - \\sqrt{2} - 1}\\)\nx = \\(\\frac{2 +  3\\sqrt{2} + 2}{2 - 1}\\)\nx =  \\(\\frac{3\\sqrt{2} + 4}{1}\\)\nx = 3\\(\\sqrt{2}\\) + 4",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10",
+    "passage": ""
   }
 ]
