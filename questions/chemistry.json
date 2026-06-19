@@ -3651,5 +3651,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1733",
     "passage": ""
+  },
+  {
+    "id": 1734,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A burning candle produces water and",
+    "options": {
+      "A": "Carbon (II) oxide",
+      "B": "Carbon (IV) oxide",
+      "C": "Oxygen",
+      "D": "Hydrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A candle is an hydrocarbon. Generally when hydrocarbons undergo combustion (like a burning candle), there are ususally two products yielded, which are water and carbon (iv)oxide . The answer is option B\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1734",
+    "passage": ""
   }
 ]
