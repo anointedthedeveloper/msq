@@ -9973,5 +9973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14316",
     "passage": ""
+  },
+  {
+    "id": 14318,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The sound of an electricity bell dies down slowly when air is slowly pumped out from a bottle because",
+    "options": {
+      "A": "the wavelength of sound becomes greater in the bottle",
+      "B": "sound cannot pass through the bottle",
+      "C": "sound needs a material medium",
+      "D": "sound can pass through a vacuum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sound wave requires a material medium for its propagation. so when air is being pumped out the density of the medium is being reduced and the sound dies down. when all the air has been pumped out of the glass, no sound will be heard, as sound sound cannot travel through vacuum\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14318",
+    "passage": ""
   }
 ]
