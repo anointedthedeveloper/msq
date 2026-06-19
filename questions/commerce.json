@@ -16483,5 +16483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7662",
     "passage": ""
+  },
+  {
+    "id": 7664,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A predominant make-up language for web pages is the?",
+    "options": {
+      "A": "IP",
+      "B": "HTTP",
+      "C": "HTML",
+      "D": "TCP"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "HTTP means HyperText Transfer Protocol. HTTP is the underlying protocol used by the World Wide Web and this protocol defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7664",
+    "passage": ""
   }
 ]
