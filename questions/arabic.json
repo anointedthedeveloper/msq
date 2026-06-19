@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75217",
     "passage": ""
+  },
+  {
+    "id": 75218,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع الكلمة \"في\"؟",
+    "options": {
+      "A": "ظرف زمان",
+      "B": "اسم",
+      "C": "حرف جر",
+      "D": "فعل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"\" is a preposition (harf jarr) meaning \"in\" or \"inside.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75218",
+    "passage": ""
   }
 ]
