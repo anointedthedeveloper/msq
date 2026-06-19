@@ -6674,5 +6674,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76505",
     "passage": ""
+  },
+  {
+    "id": 76506,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which tool in a first aid box is used to remove small foreign objects from wounds?",
+    "options": {
+      "A": "Scissors",
+      "B": "Tweezers",
+      "C": "Adhesive tape",
+      "D": "Thermometer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Tweezers are specifically designed to carefully grasp and remove small foreign objects such as splinters, glass shards, or dirt from wounds, helping to reduce the risk of infection and promote proper healing. Scissors are used for cutting bandages or clothing, a thermometer measures temperature, and adhesive tape is used to secure dressings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76506",
+    "passage": ""
   }
 ]
