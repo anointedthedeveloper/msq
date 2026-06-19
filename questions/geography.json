@@ -636,5 +636,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/368",
     "passage": ""
+  },
+  {
+    "id": 369,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In which of the following countries is commercial grain farming an important occupation?",
+    "options": {
+      "A": "Nigeria",
+      "B": "Kenya",
+      "C": "Spain",
+      "D": "Canada",
+      "E": "Brazil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/369",
+    "passage": ""
   }
 ]
