@@ -12481,5 +12481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64339",
     "passage": ""
+  },
+  {
+    "id": 64340,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Another word for booting is",
+    "options": {
+      "A": "starting",
+      "B": "restarting",
+      "C": "loading",
+      "D": "running"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In computing, booting is the process of starting a computer",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64340",
+    "passage": ""
   }
 ]
