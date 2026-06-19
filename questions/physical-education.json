@@ -5751,5 +5751,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76372",
     "passage": ""
+  },
+  {
+    "id": 76375,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What role do medical check-ups play in controlling communicable diseases?",
+    "options": {
+      "A": "Identifying cases early and initiating timely treatment",
+      "B": "Ignoring symptoms until they worsen",
+      "C": "Limiting access to vaccinations",
+      "D": "Encouraging self-medication without diagnosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Early diagnosis through check-ups reduces disease transmission by isolating cases and providing treatment. It supports vaccination and public health measures to control outbreaks effectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76375",
+    "passage": ""
   }
 ]
