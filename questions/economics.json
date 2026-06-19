@@ -2109,5 +2109,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/688",
     "passage": ""
+  },
+  {
+    "id": 689,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "From an economic point of view, an activity does not have a cost when",
+    "options": {
+      "A": "someone else pays for it",
+      "B": "the returns are greater than the cost",
+      "C": "the choice involves giving up nothing",
+      "D": "the government pays for it",
+      "E": "it is paid for from a gift"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/689",
+    "passage": ""
   }
 ]
