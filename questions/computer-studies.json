@@ -17481,5 +17481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69839",
     "passage": ""
+  },
+  {
+    "id": 69840,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of information?",
+    "options": {
+      "A": "Recorded observation",
+      "B": "Average score of students in a test",
+      "C": "List of items",
+      "D": "Student’s score in a test"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Average score of students in a test is an example of information Information is data that has been processed and organized so that it has meaning. It can be used to make decisions, solve problems, or understand the world around us. The other options are not examples of information. Student's score in a test is data, recorded observation is data, and list of items is data. They do not have meaning until they are processed and organized. For example, the student's score in a test is just a number. It does not have meaning until it is compared to the scores of other students. The average score of students in a test is information because it has meaning. It tells us how well the students did on the test.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69840",
+    "passage": ""
   }
 ]
