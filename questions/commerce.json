@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/822",
     "passage": ""
+  },
+  {
+    "id": 823,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1997",
+    "question": "Which of the following are the components of commerce?\nI    Trading and advertising\nII   Warehousing and transportation\nIII  Packaging and branding\nIV   Insurance and banking",
+    "options": {
+      "A": "I and II",
+      "B": "I and III",
+      "C": "I, II and IV",
+      "D": "II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/823",
+    "passage": ""
   }
 ]
