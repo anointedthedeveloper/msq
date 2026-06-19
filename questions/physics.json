@@ -16680,5 +16680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24290",
     "passage": ""
+  },
+  {
+    "id": 24291,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The diagrams above show lines of force in electric fields. In which of the diagrams would a positive test charge experience the least force as it moves from x to y?",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "II and III only"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15247997798_wcphy199250.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892366/myschool/physics/15247997798_wcphy199250.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24291",
+    "passage": ""
   }
 ]
