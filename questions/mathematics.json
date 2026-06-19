@@ -4114,5 +4114,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8056",
     "passage": ""
+  },
+  {
+    "id": 8189,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Some white balls put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white ball from the baskets is \\(\\frac{3}{7}\\), how many white balls were introduced?",
+    "options": {
+      "A": "12",
+      "B": "21",
+      "C": "28",
+      "D": "32"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Number of white balls = x Number of red balls = 12 Number of black balls = 16 Total number of balls = 28 + x P(white balls) = 3/7 But P(white balls) \\(= \\frac{x}{28+x}\\) = \\(\\frac{3}{7} = \\frac{x}{28+x}\\) 3(28 + x) = 7x 84 + 3x = 7x 7x - 3x = 84 4x = 84 x = 21\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8189",
+    "passage": ""
   }
 ]
