@@ -13384,5 +13384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64397",
     "passage": ""
+  },
+  {
+    "id": 64398,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Microsoft PowerPoint is a ________________ application",
+    "options": {
+      "A": "presentation software",
+      "B": "graphing",
+      "C": "productivity software",
+      "D": "gaming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Microsoft PowerPoint is a powerful slide show presentation program. It is a standard component of the company's Microsoft Office suite software, and is bundled together with Word, Excel, and other office productivity tools. The program uses slides to convey information rich in multimedia.(Basic computer operations)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64398",
+    "passage": ""
   }
 ]
