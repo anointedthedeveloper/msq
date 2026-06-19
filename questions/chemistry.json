@@ -963,5 +963,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/827",
     "passage": ""
+  },
+  {
+    "id": 828,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": ".00cm\n3\nof a gas at S.T.P. weighed 0.11g. What is the vapour density of the gas?\n[Molar volume of a gas at S.T.P = 22.4dm\n3\n]",
+    "options": {
+      "A": "11.00",
+      "B": "22.00",
+      "C": "33.00",
+      "D": "44.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/828",
+    "passage": ""
   }
 ]
