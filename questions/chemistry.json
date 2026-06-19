@@ -6339,5 +6339,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2934",
     "passage": ""
+  },
+  {
+    "id": 2935,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following gases can be collected by the method of downward delivery?",
+    "options": {
+      "A": "Chlorine",
+      "B": "Oxygen",
+      "C": "Ammonia",
+      "D": "Hydrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Upward displacement is the method of collection of gases that are less dense than air, while Downward delivery is the method of collection of gases that are more dense than air.\nAmong the given options, only option A, Chlorine is denser than air, hence it can be collected by downward delivery.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2935",
+    "passage": ""
   }
 ]
