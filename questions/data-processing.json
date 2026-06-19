@@ -3226,5 +3226,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58437",
     "passage": ""
+  },
+  {
+    "id": 58438,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "If cell A20 in MS Excel contains the value 5, then the formula \"A=A20^3\" will return a value equal to",
+    "options": {
+      "A": "15",
+      "B": "25",
+      "C": "65",
+      "D": "125"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "^ in MS excel means exponential so \"A = A20^3\" = 5^3 = 125 ( since A20 = 5)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58438",
+    "passage": ""
   }
 ]
