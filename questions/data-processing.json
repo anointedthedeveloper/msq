@@ -9335,5 +9335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/76957",
     "passage": ""
+  },
+  {
+    "id": 76958,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A motion path is a",
+    "options": {
+      "A": "path to save powerpoint file",
+      "B": "methods of moving items on slide",
+      "C": "methods of advancing slide",
+      "D": "path to follow when starting powerpoint"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A motion path in the context of PowerPoint is a way of moving items on a slide. It's a type of animation that allows you to move an object in a specified path around the slide. This can be used to guide the viewer's attention or to create a dynamic effect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/76958",
+    "passage": ""
   }
 ]
