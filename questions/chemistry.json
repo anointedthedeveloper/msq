@@ -13249,5 +13249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4788",
     "passage": ""
+  },
+  {
+    "id": 4789,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A few drops of concentrated HNO\\(_3\\) is added to an unknown solution and boiled for a while. If this produces a brown solution, the cation present is likely to be",
+    "options": {
+      "A": "Pb 2+",
+      "B": "Cu 2+",
+      "C": "Fe 3+",
+      "D": "Fe 2+"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The brown color indicates the presence of iron (III) (Fe\\(^{3+}\\)).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4789",
+    "passage": ""
   }
 ]
