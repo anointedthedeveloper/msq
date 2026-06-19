@@ -11137,5 +11137,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64108",
     "passage": ""
+  },
+  {
+    "id": 64109,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A tier in which the database resides along with the query processing language is called",
+    "options": {
+      "A": "application tier",
+      "B": "data tier",
+      "C": "presentation tier",
+      "D": "model tier"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Database (Data) Tier − The database resides along with its query processing languages at this tier. We also have the relations that define the data and their constraints at this level.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64109",
+    "passage": ""
   }
 ]
