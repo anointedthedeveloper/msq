@@ -16620,5 +16620,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67852",
     "passage": ""
+  },
+  {
+    "id": 67853,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of graphics software ?",
+    "options": {
+      "A": "Microsoft word",
+      "B": "Adobe Illustrator",
+      "C": "Microsoft powerpoint",
+      "D": "MS Access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. It is an example of graphics software, which is used to create, edit, and manipulate visual images.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67853",
+    "passage": ""
   }
 ]
