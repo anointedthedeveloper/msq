@@ -7443,5 +7443,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62537",
     "passage": ""
+  },
+  {
+    "id": 62538,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following options is not a data type?",
+    "options": {
+      "A": "Alphabetic data",
+      "B": "Alphanumeric data",
+      "C": "Numeric data",
+      "D": "Valid data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Data types include Alphabetic data, Alphanumeric data, and numeric data. Valid data is not a data type it only indicates the accuracy and reliability of data(s).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62538",
+    "passage": ""
   }
 ]
