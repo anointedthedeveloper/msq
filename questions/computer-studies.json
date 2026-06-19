@@ -19650,5 +19650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72627",
     "passage": ""
+  },
+  {
+    "id": 72632,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements is true about star topologies?",
+    "options": {
+      "A": "Computers are connected node-to-node",
+      "B": "Computers are connected to a central device",
+      "C": "The connection is linear in shape",
+      "D": "The connection is a tree-like structure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In star topology, the computers are connected to a central device (hub or switch).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72632",
+    "passage": ""
   }
 ]
