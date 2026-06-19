@@ -3988,5 +3988,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8035",
     "passage": ""
+  },
+  {
+    "id": 8040,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The locus of a point which is 5 cm from the line LM is a",
+    "options": {
+      "A": "line distance 10 cm from LM and parallel to LM",
+      "B": "pair of line on opposite sides of LM and parallel to it, each distance 5 cm from LM",
+      "C": "line parallel to LM and 5 cm from LM",
+      "D": "pair of parallel lines on one side  of LM and parallel to LM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The locus of a point which is 5cm from the line LM is a pair of lines on opposite sides of LM and parallel to it, each distance 5cm from LM.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8040",
+    "passage": ""
   }
 ]
