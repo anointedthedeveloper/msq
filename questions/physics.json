@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/587",
     "passage": ""
+  },
+  {
+    "id": 588,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The inside portion of part of a hollow metal sphere of diameter 20cm is polished. The portion will therefore form a",
+    "options": {
+      "A": "concave mirror of focal length 5cm",
+      "B": "concave mirror of focal length 10cm",
+      "C": "convex mirror of focal length 5cm",
+      "D": "convex mirror of focal length 20cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since diameter of the sphere = 20cm, then, the radius of curvature = 10cm\nFocal length, f = \\(\\frac{R}{2} = \\frac{10}{2}\\) = 5cm\nThe inside of a hollow metal sphere forms a concave mirror .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/588",
+    "passage": ""
   }
 ]
