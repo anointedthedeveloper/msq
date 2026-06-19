@@ -19692,5 +19692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72633",
     "passage": ""
+  },
+  {
+    "id": 72634,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements is true about intranet?",
+    "options": {
+      "A": "Private network that uses internet protocol and is accessible by all visitors to an organization's website",
+      "B": "Private network that uses internet protocol and is accessible by employees of an organization",
+      "C": "Private network which does not use internet protocol and is accessible by employees of an organization",
+      "D": "Public network that uses internet protocol and is accessible by all visitors to an organization's website"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The internet is a private network that uses internet protocol and is accessible by the employees of an organization.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72634",
+    "passage": ""
   }
 ]
