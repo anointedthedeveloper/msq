@@ -1735,5 +1735,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/662",
     "passage": ""
+  },
+  {
+    "id": 663,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following is not a component of national income at factor cost?",
+    "options": {
+      "A": "Wages earned by doctor",
+      "B": "Rent paid to landlords",
+      "C": "Indirect tax",
+      "D": "Undistributed company profits",
+      "E": "Interest on loan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/663",
+    "passage": ""
   }
 ]
