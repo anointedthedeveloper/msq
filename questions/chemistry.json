@@ -4512,5 +4512,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2142",
     "passage": ""
+  },
+  {
+    "id": 2143,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Hydrogen is readily released when dilute hydrochloric acid reacts with",
+    "options": {
+      "A": "Cu",
+      "B": "Na",
+      "C": "Au",
+      "D": "Ag"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When alkali metals react with Hydrochloric acids. hydrogen gas is usually produced. Hence, Sodium belongs to the group of Alkali metals.\nNa  +  HCl  →  NaCl  +  H\\(_2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2143",
+    "passage": ""
   }
 ]
