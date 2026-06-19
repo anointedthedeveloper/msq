@@ -4510,5 +4510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50324",
     "passage": ""
+  },
+  {
+    "id": 50325,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The principle that public servants cannot be held responsible for their official actions denote?",
+    "options": {
+      "A": "impartiality",
+      "B": "accountability",
+      "C": "anonymity",
+      "D": "neutrality"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Civil servants are expected to be anonymous. And it follows from both of the above that civil servants cannot be held accountable for the success or otherwise of government policy, for otherwise their public explanations could contain criticisms of their political masters.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50325",
+    "passage": ""
   }
 ]
