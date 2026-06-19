@@ -2189,5 +2189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71062",
     "passage": ""
+  },
+  {
+    "id": 71063,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "From the lettered A - E, choose the odd one of the options.\nLa cuisine:",
+    "options": {
+      "A": "La marmite",
+      "B": "Le cahier",
+      "C": "Le couteau",
+      "D": "L'assiette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The odd one out is Le cahier, because a notebook is not a kitchen utensil or item. The other options - Le couteau (knife), L'assiette (plate), Li marmite (cooking pot), and Le réchaud (stove) - are all related to cooking or dining.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71063",
+    "passage": ""
   }
 ]
