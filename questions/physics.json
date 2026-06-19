@@ -6949,5 +6949,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13881",
     "passage": ""
+  },
+  {
+    "id": 13882,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If the radius of the Earth is 6.4 x 10\\(^6\\)m, the escape velocity of a satellite from the Earth is? [g = 10 ms\\(^-2\\)]",
+    "options": {
+      "A": "1.13  x 10 4 ms -1",
+      "B": "9.00 x 10 3 ms -1",
+      "C": "8.00 x 10 3 ms -1",
+      "D": "1.27 x 10 4 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "V = √2GM/R.\n=√[2 x 6.67 x 10\\(^{-11}\\) x 6.0 x 10\\(^24\\)] / 6.4 x 10\\(^6\\)\n= √12.506 x 10\\(^7\\)\n= 11,183.13\nOR\nV =√2gR\nV=√[2 * 10 *  6.4 x 10\\(^6\\)]\nV = √128,000,000\n11,313.708\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13882",
+    "passage": ""
   }
 ]
