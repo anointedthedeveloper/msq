@@ -5373,5 +5373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2515",
     "passage": ""
+  },
+  {
+    "id": 2516,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Hydrogen can be displaced from a hot alkaline solution by?",
+    "options": {
+      "A": "Fe",
+      "B": "Cu",
+      "C": "Ca",
+      "D": "Sn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Amphoteric oxide reacts with both acid and alkaline and only amphoteric oxide can displace hydrogen from alkaline solution (Al, Pb, Sn and Zn).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2516",
+    "passage": ""
   }
 ]
