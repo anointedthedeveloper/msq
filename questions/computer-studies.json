@@ -16788,5 +16788,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67860",
     "passage": ""
+  },
+  {
+    "id": 67861,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The closest computer language to human is ?",
+    "options": {
+      "A": "High level language",
+      "B": "Low level language",
+      "C": "Machine language",
+      "D": "Assembly language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "High level languages give formats close to English language and the purpose of developing high level language is to enable people to write programs easily and in their own native language environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67861",
+    "passage": ""
   }
 ]
