@@ -4219,5 +4219,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8193",
     "passage": ""
+  },
+  {
+    "id": 8194,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The mean age of a group of students is 15 years. When the age of a teacher, 45 years old, is added to the age of the students, the mean of their ages becomes 18 years. Find the number of the students in the group",
+    "options": {
+      "A": "9",
+      "B": "7",
+      "C": "42",
+      "D": "15"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let the number of students = x Total age of the students = 15x Total age including age of the teacher = 15x + 45 Mean of their ages; (15x + 45)/(x + 1) = 18 15x + 45 = 18(x + 1) 15x + 45 = 18x + 18 18x - 15x = 45 - 18 3x = 27 x = 9\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8194",
+    "passage": ""
   }
 ]
