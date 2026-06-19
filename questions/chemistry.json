@@ -8251,5 +8251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3297",
     "passage": ""
+  },
+  {
+    "id": 3298,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A particle that contains 11 protons, 12 neutrons and 10 electrons is probably a",
+    "options": {
+      "A": "neutral non-metal",
+      "B": "metallic ion",
+      "C": "non-metallic ion",
+      "D": "neutral metal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given:\nn(P) = 11\nn(N) = 12\nn(e-) = 10\n\\(^{23}_{11}\\) X \\(^+\\)  ⇒ The positive sign shows that it is a metallic ion because all metals are positively charged.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3298",
+    "passage": ""
   }
 ]
