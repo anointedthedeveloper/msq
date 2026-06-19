@@ -17628,5 +17628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69847",
     "passage": ""
+  },
+  {
+    "id": 69848,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "If today's date is 02/02/2008, what will be the result of typing \"=today() - 1\" in a cell of a spreadsheet?",
+    "options": {
+      "A": "02/01/2008",
+      "B": "01/02/2009",
+      "C": "01/02/2008",
+      "D": "02/02/2007"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If today's date is 02/02/2008, the result of typing \"=today() - 1\" in a cell of a spreadsheet will be \"02/01/2008\". The today() function in Excel returns the current date. The - 1 operator subtracts one from the result of the today() function. Therefore, the expression =today() - 1 will return the date that is one day before the current date. In this case, the current date is 02/02/2008. Subtracting one from this date gives us 02/01/2008. NB: By default, Excel uses the mm/dd/yyyy format for dates. This means that the month is represented by the first two digits, the day is represented by the third digit, and the year is represented by the last four digits. The date format in Excel can be customized to suit your needs. However, you can change the date format to something else if you prefer. For example, you could change the date format to dd/mm/yyyy, which would represent the day, month, and year in that order.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69848",
+    "passage": ""
   }
 ]
