@@ -2022,5 +2022,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15999",
     "passage": ""
+  },
+  {
+    "id": 16000,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Thrips cause serious mechanical damages to crops by their",
+    "options": {
+      "A": "feeding activities on flowers, leaves and fruits",
+      "B": "laying eggs on plants",
+      "C": "sucking of the sap of crops",
+      "D": "burrowing activities causing damping off in crops",
+      "E": "activities as vectors of bacterial diseases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16000",
+    "passage": ""
   }
 ]
