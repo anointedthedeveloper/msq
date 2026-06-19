@@ -17712,5 +17712,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25028",
     "passage": ""
+  },
+  {
+    "id": 25029,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In a purely resistive a.c. circuit, the current I = I\no\nsin wt and voltage, V = V\no\nsin wt. Calculate the instantaneous power dissipated in the circuit in time t.",
+    "options": {
+      "A": "I o V o",
+      "B": "2I o V o sin wt",
+      "C": "(I o V o )/2",
+      "D": "I o V o sin 2 wt",
+      "E": "I 2 o V 2 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25029",
+    "passage": ""
   }
 ]
