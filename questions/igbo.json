@@ -2996,5 +2996,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73840",
     "passage": ""
+  },
+  {
+    "id": 73841,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Dịịpụta ọnuọgụgụ a bụ 60 n'Igbo. Iri",
+    "options": {
+      "A": "isii na efu",
+      "B": "isii na ọtụt",
+      "C": "isii",
+      "D": "na isii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The question is asking for the Igbo translation of \"60\". In Igbo language, \"iri\" means \"ten\" and \"isii\" means \"six\". To express \"60\" in Igbo, you multiply \"iri\" (ten) with \"isii\" (six) to get \"iri isii\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73841",
+    "passage": ""
   }
 ]
