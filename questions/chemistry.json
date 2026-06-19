@@ -4239,5 +4239,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2129",
     "passage": ""
+  },
+  {
+    "id": 2130,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Steam changes the colour of anhydrous cobalt (II) chloride from",
+    "options": {
+      "A": "blue to pink",
+      "B": "white to red",
+      "C": "white to green",
+      "D": "blue to white"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Steam changes the color of anhydrous cobalt (II) chloride from blue to pink.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2130",
+    "passage": ""
   }
 ]
