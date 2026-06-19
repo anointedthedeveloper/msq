@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66195",
     "passage": ""
+  },
+  {
+    "id": 66198,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A document from the seller to the buyer showing the date, description and quantity of goods supplies is",
+    "options": {
+      "A": "debit note",
+      "B": "requisition note",
+      "C": "credit note",
+      "D": "delivery note"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Delivery note is a document sent by the seller to the buyer for signature when goods delivered to him and it will serve as evidence that delivery has been made. It shoes description of goods, quantity of goods and date of supply.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66198",
+    "passage": ""
   }
 ]
