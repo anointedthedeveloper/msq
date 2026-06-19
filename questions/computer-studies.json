@@ -6837,5 +6837,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62505",
     "passage": ""
+  },
+  {
+    "id": 62506,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": ".",
+    "options": {
+      "A": "Column A",
+      "B": "Column B",
+      "C": "Column C",
+      "D": "Column D"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4oMyKzRM67OhBYZFETinZbFdyMl1W3OHp5tunJCf.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781902452/myschool/computer-studies/4oMyKzRM67OhBYZFETinZbFdyMl1W3OHp5tunJCf.jpg",
+    "correct_answer": "D",
+    "explanation": "Column D needs to be adjusted to accommodate the cells contents. This is because the contents of the cells in column D are larger than the column width.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62506",
+    "passage": ""
   }
 ]
