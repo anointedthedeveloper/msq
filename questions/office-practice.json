@@ -1398,5 +1398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66499",
     "passage": ""
+  },
+  {
+    "id": 66500,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The implication of issuing a crossed cheque is that it can only be",
+    "options": {
+      "A": "cashed at the counter",
+      "B": "cash after six month of its issue",
+      "C": "lodged into the current account of the payee",
+      "D": "lodged into the fixed deposit account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Crossed cheque is payable over the counter on presentment by the payee to the paying banker, while a crossed cheque is not payable over the counter but shall be collected only through a banker.The amount payable for the crossed cheque is transferred to the bank account of the payee.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66500",
+    "passage": ""
   }
 ]
