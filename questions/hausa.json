@@ -5031,5 +5031,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73929",
     "passage": ""
+  },
+  {
+    "id": 73930,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Newspaper vendors Za a iya fassara wannan da masu",
+    "options": {
+      "A": "buga jarida",
+      "B": "rubuta jaridu",
+      "C": "sayar da jaridu",
+      "D": "neman labarai"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is sayar da jaridu because newspaper vendors are translated as masu sayar da jaridu in Hausa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73930",
+    "passage": ""
   }
 ]
