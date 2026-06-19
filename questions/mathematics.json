@@ -4891,5 +4891,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8225",
     "passage": ""
+  },
+  {
+    "id": 8226,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A polynomial in x whose zeros are -2, -1 and 3 is",
+    "options": {
+      "A": "x 3 - 7x + 6",
+      "B": "x 3 + 7x - 6",
+      "C": "x 3 + 7x + 6",
+      "D": "x 3 - 7x - 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8226",
+    "passage": ""
   }
 ]
