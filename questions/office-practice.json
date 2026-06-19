@@ -2963,5 +2963,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66847",
     "passage": ""
+  },
+  {
+    "id": 66848,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of these items could be found in the reception?",
+    "options": {
+      "A": "Inward and outward registers",
+      "B": "Attendance registers",
+      "C": "Newspaper and Magazine",
+      "D": "Dispatch book"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "They are: - computer - Copier/Fax/Printer - Telephone - Postage Meter - Webcam or Digital Camera - Stationery - Recycling bin - Miscellaneous supplies - Courier supplies",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66848",
+    "passage": ""
   }
 ]
