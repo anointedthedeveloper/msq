@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64445",
     "passage": ""
+  },
+  {
+    "id": 64446,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Excessive body weight due to fat is called",
+    "options": {
+      "A": "Kwaahiokor",
+      "B": "Kyphosis",
+      "C": "Lordosis",
+      "D": "obesity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is known as Obesity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64446",
+    "passage": ""
   }
 ]
