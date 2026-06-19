@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66071",
     "passage": ""
+  },
+  {
+    "id": 66077,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A letter sent by Mrs. Benson to her husband by post through his office address is an example of",
+    "options": {
+      "A": "urgent mail.",
+      "B": "official mail",
+      "C": "personal mail",
+      "D": "confidential mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Personal Mail: These are mails addressed to particular individuals. They are normally open to whom they are addressed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66077",
+    "passage": ""
   }
 ]
