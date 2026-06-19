@@ -14503,5 +14503,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24089",
     "passage": ""
+  },
+  {
+    "id": 24090,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A simple pendulum makes 50 oscillations in one minute. What is its period of oscillation?",
+    "options": {
+      "A": "0.02s",
+      "B": "0.20s",
+      "C": "0.83s",
+      "D": "1.20s",
+      "E": "50.00s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "T = t / no. of oscillation = 1 x 60 / 50 = 1.2s",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24090",
+    "passage": ""
   }
 ]
