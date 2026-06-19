@@ -14526,5 +14526,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23110",
     "passage": ""
+  },
+  {
+    "id": 23112,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In a given regular polygon, the ratio of the exterior angle to the interior angles is 1:3. How many side has the polygon?",
+    "options": {
+      "A": "40",
+      "B": "5",
+      "C": "6",
+      "D": "8",
+      "E": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "o\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23112",
+    "passage": ""
   }
 ]
