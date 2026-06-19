@@ -4303,5 +4303,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12278",
     "passage": ""
+  },
+  {
+    "id": 12279,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "An open pipe closed at one end produces its first fundamental note. If the velocity of sound in air is P and t the length of the pipe, the frequency of the note is",
+    "options": {
+      "A": "2v / t",
+      "B": "v / 5t",
+      "C": "v / 4t",
+      "D": "v / 2t"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "λ\n4\nV\nλ\nV\n4L\nV\n4L",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12279",
+    "passage": ""
   }
 ]
