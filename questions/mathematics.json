@@ -1363,5 +1363,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1083",
     "passage": ""
+  },
+  {
+    "id": 1106,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "12",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Range = Highest - lowest number => 10-4 = 6 Mode is the number with highest occurrence => Mode = 10 Sum = 6 + 10 = 16\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1106",
+    "passage": ""
+  },
+  {
+    "id": 1107,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In how many ways can a delegation of 3 be chosen from among 5 men and 3 women, if at least one man and at least one woman must be included?",
+    "options": {
+      "A": "15",
+      "B": "28",
+      "C": "30",
+      "D": "45"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "No of ways of choosing 1 man, 2 women = 5C1 x 3C2 No of ways of choosing 2 men, 1 woman = 5C2 x 3C1 Summing, => (5C1 x 3C2) + (5C2 x 3C1) = 15 + 30 = 45\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1107",
+    "passage": ""
+  },
+  {
+    "id": 1110,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A function f(x) passes through the origin and its first derivative is 3x + 2. What is f(x)?",
+    "options": {
+      "A": "y =  \\(\\frac{3x^2}{2}\\) + 2x",
+      "B": "y = (3x 2 )/2 + x",
+      "C": "y = 3x 2 + (x/2)",
+      "D": "y = 3x 2 +2x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hints: 1. Integrate the given first derivative of f(x) at the boundaries, (0,0) Then solve accordingly to get f(x) = y = \\(\\frac{3x^2}{2}\\) + 2x\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1110",
+    "passage": ""
   }
 ]
