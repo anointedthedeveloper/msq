@@ -21137,5 +21137,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76909",
     "passage": ""
+  },
+  {
+    "id": 76910,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The transaction file can also be described as",
+    "options": {
+      "A": "master file",
+      "B": "reference file",
+      "C": "historical file",
+      "D": "movement file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A transaction file is a file that is used to update a master file in a batch processing system. It contains records of transactions that occur, such as sales or purchases. This is why it is also referred to as a movement file, as it records the movement of transactions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76910",
+    "passage": ""
   }
 ]
