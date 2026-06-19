@@ -14518,5 +14518,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64854",
     "passage": ""
+  },
+  {
+    "id": 64875,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The part labelled Y in the compiler interface in the diagram represents",
+    "options": {
+      "A": "intermediate code",
+      "B": "binary code",
+      "C": "object code",
+      "D": "pseudocode"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/T5FN3lU2P9aKgYN7cv5BQ7sdj6Kf4hAcgkPMKW77.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903842/myschool/computer-studies/T5FN3lU2P9aKgYN7cv5BQ7sdj6Kf4hAcgkPMKW77.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64875",
+    "passage": ""
   }
 ]
