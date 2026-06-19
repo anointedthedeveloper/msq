@@ -3616,5 +3616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71220",
     "passage": ""
+  },
+  {
+    "id": 71221,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.C'est juste là..... j'aimerai aller.",
+    "options": {
+      "A": "quelles",
+      "B": "Où C.que",
+      "C": "dont",
+      "D": "qui"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The pronoun \"où\" is used to indicate the place of the action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71221",
+    "passage": ""
   }
 ]
