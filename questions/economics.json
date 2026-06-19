@@ -2285,5 +2285,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2309",
     "passage": ""
+  },
+  {
+    "id": 2310,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "By balance of visible trade we mean?",
+    "options": {
+      "A": "import and export of goods",
+      "B": "import and export of service",
+      "C": "balance of current account in the balance of payment",
+      "D": "balance of capital account in the baalance of payment",
+      "E": "all of this"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2310",
+    "passage": ""
   }
 ]
