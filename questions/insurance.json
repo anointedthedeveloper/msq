@@ -1697,5 +1697,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49795",
     "passage": ""
+  },
+  {
+    "id": 49796,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The part of a policy that describes the event that led to  a loss is",
+    "options": {
+      "A": "operative clause",
+      "B": "recital clause",
+      "C": "heading",
+      "D": "schedule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Operative clause in an insurance policy sets outs the circumstances that must be present before an insurance company will pay out any claims to insured parties.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49796",
+    "passage": ""
   }
 ]
