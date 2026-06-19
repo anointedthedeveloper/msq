@@ -3231,5 +3231,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1680",
     "passage": ""
+  },
+  {
+    "id": 1683,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following best explains the increase in the rate of a chemical reaction as the temperature rises?",
+    "options": {
+      "A": "The bonds in the reacting molecules are more readily broken",
+      "B": "The molecular collisions become more violent",
+      "C": "A lower proportion of the molecules has the necessary minimum energy to react",
+      "D": "The collision frequency of the molecules increase"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "As the temperature increases, so does the kinetic energy of the molecules, which means they move faster. And the faster moving molecules collide more often, which increases the number of collisions per second. This means the collision frequency of the molecules increases. Option D\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1683",
+    "passage": ""
   }
 ]
