@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60233",
     "passage": ""
+  },
+  {
+    "id": 60234,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following is employed in the transfer of data between computers and a network?",
+    "options": {
+      "A": "Fiber optics",
+      "B": "Male connector",
+      "C": "Female Connector",
+      "D": "USB Port"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fiber optics is a technology that uses thin strands of glass or plastic to transmit data as light signals over long distances, making it highly effective for data transfer between computers and networks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60234",
+    "passage": ""
   }
 ]
