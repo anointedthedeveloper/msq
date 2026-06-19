@@ -13097,5 +13097,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22665",
     "passage": ""
+  },
+  {
+    "id": 22667,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "If the radius of the parallel of latitude 30°N is equal to the radius of the parallel of latitude θ°S, what is the value of θ?",
+    "options": {
+      "A": "75 o",
+      "B": "60 o",
+      "C": "45 o",
+      "D": "30 o",
+      "E": "0 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\theta_{1} = \\theta_{2} = 30°\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191119_154320%20%282%29.jpg",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22667",
+    "passage": ""
   }
 ]
