@@ -3525,5 +3525,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50535",
     "passage": ""
+  },
+  {
+    "id": 50537,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\((x + 2)\\) and \\((3x - 1)\\) are factors of \\(6x^{3} + x^{2} - 19x + 6\\), find the third factor.",
+    "options": {
+      "A": "\\(2x - 3\\)",
+      "B": "\\(3x + 1\\)",
+      "C": "\\(x - 2\\)",
+      "D": "\\(3x + 2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To get the third factor, take the product of the other 2 factors and then divide the main equation by their product.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50537",
+    "passage": ""
   }
 ]
