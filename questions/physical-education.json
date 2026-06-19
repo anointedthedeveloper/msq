@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64192",
     "passage": ""
+  },
+  {
+    "id": 64193,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are values derived from swimming except",
+    "options": {
+      "A": "entertainment",
+      "B": "recreational",
+      "C": "safety",
+      "D": "social"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "safety",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64193",
+    "passage": ""
   }
 ]
