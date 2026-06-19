@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/796",
     "passage": ""
+  },
+  {
+    "id": 833,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If y = 2xcos2x - sin2x, find \\(\\frac{dy}{dx}\\) when x = \\(\\frac{π}{4}\\)",
+    "options": {
+      "A": "π",
+      "B": "-π",
+      "C": "\\(\\frac{π}{2}\\)",
+      "D": "-\\(\\frac{π}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "y = 2x cos2x - sin2x \\(\\frac{dy}{dx}\\) = 2 cos2x +(-2x. 2sin2x) - 2cos2x = 2 cos2x - 2x sin2x - cos2x = -2x 2sin2x = -4 x (\\(\\frac{π}{4}\\)) sin2 x (\\(\\frac{π}{4}\\)) = -(π) x 1 = - π\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/833",
+    "passage": ""
   }
 ]
