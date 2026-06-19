@@ -5814,5 +5814,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76382",
     "passage": ""
+  },
+  {
+    "id": 76383,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In badminton, what is the consequence if a player touches the net with their racket during a rally?",
+    "options": {
+      "A": "The rally continues as normal.",
+      "B": "The player loses the point.",
+      "C": "The opponent must replay the point.",
+      "D": "The player wins the point."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Touching the net with the racket, body, or clothing during a rally is considered a fault in badminton. The opposing side immediately wins the point. This rule ensures players maintain proper court etiquette and avoid unfair advantages by encroaching on the opponent's space.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76383",
+    "passage": ""
   }
 ]
