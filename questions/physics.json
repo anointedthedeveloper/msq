@@ -5458,5 +5458,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12895",
     "passage": ""
+  },
+  {
+    "id": 12896,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "the diagram above shows forces 4N, 6N, 10N and 8N which act at a point O in the directions indicated. the net horizontal force is",
+    "options": {
+      "A": "13N",
+      "B": "17N",
+      "C": "√3N",
+      "D": "7√3N"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16321706880_phy200429.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781889424/myschool/physics/16321706880_phy200429.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12896",
+    "passage": ""
   }
 ]
