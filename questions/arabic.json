@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75202",
     "passage": ""
+  },
+  {
+    "id": 75203,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "المدرسة الأدبية التي ظهرت في المهجر تُعرف ب؟",
+    "options": {
+      "A": "المدرسة الرومانسية",
+      "B": "الرابطة القلمية",
+      "C": "المدرسة الواقعية",
+      "D": "مدرسة الدیوان"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ". was a literary movement by Arab emigres like Gibran and Rihani in the U.S \"الرابطة القلمية\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75203",
+    "passage": ""
   }
 ]
