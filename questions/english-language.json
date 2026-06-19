@@ -7015,5 +7015,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3005",
     "passage": ""
+  },
+  {
+    "id": 3006,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nBy next June he .... four novels",
+    "options": {
+      "A": "will write",
+      "B": "is writing",
+      "C": "will have written",
+      "D": "had written",
+      "E": "has written"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3006",
+    "passage": ""
   }
 ]
