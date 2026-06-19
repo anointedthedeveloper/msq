@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73563",
     "passage": ""
+  },
+  {
+    "id": 73567,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. What name is scorpion called in Igbo?",
+    "options": {
+      "A": "Ahụhụ",
+      "B": "Agwọ",
+      "C": "Awo",
+      "D": "Akpị"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is Akpị. \"Akpị\" is the Igbo word for \"scorpion\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73567",
+    "passage": ""
   }
 ]
