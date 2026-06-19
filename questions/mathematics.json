@@ -2749,5 +2749,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3378",
     "passage": ""
+  },
+  {
+    "id": 3379,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Find the coordinates of the mid-point of x and y intercepts of the line 2y = 4x - 8",
+    "options": {
+      "A": "(2, 0)",
+      "B": "(1, -2)",
+      "C": "(-1, -2)",
+      "D": "(1, 2)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2y = 4x - 8 \\(\\implies\\) y = 2x - 4.\nWhen x = 0, y = -4.\nWhen y = 0, x = 2.\nThe midpoint between (0, -4) and (2, 0) = \\((\\frac{0 + 2}{2}, \\frac{-4 + 0}{2})\\)\n= \\((1, -2)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3379",
+    "passage": ""
   }
 ]
