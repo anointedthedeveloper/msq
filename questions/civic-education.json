@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50019",
     "passage": ""
+  },
+  {
+    "id": 50020,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "An enlightenment and awareness campaign on HIV/AIDS could?",
+    "options": {
+      "A": "lead to descrimination",
+      "B": "create job opportunities",
+      "C": "cause conflict",
+      "D": "provide people with genuine information"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Increased awareness of safe practices to prevent HIV infection results in people being more careful and ultimately decreases infection rates. HIV / AIDS Awareness programmes help people become aware of the levels of care and treatment, whether they are living with HIV or caring for someone with this disease.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50020",
+    "passage": ""
   }
 ]
