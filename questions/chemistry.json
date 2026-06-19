@@ -6591,5 +6591,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2946",
     "passage": ""
+  },
+  {
+    "id": 2947,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of these reagents can confirm the presence of a triple bond?",
+    "options": {
+      "A": "Bromine water",
+      "B": "Acidified KMnO 4",
+      "C": "Copper (I) chloride",
+      "D": "Bromine gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Copper(I) chloride does not confirm the presence of a triple bond, rather it is ammoniacal cuprous chloride (Cu(NH\\(_3\\))\\(_2\\)ClOH)(CuCl) that can be used to distinguish between double and triple bonds in unsaturated hydrocarbons. The test involves reacting the compound with ammoniacal cuprous chloride to see if a red precipitate forms. If a red precipitate forms, the compound is an alkyne and contains at least one triple bond. If no precipitate forms, the compound is an alkene and contains at least one double bond.\nTo confirm the presence of a triple bond, you can use bromine water (Br₂) or Baeyer's reagent (alkaline potassium permanganate ), both of which react with unsaturated bonds (double or triple) by addition reactions, causing the colour of the reagent to disappear.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2947",
+    "passage": ""
   }
 ]
