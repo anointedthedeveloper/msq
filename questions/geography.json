@@ -2691,5 +2691,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6226",
     "passage": ""
+  },
+  {
+    "id": 6228,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following features is produced by wave deposition?",
+    "options": {
+      "A": "Cliff",
+      "B": "Stack",
+      "C": "Tombolo",
+      "D": "Caves",
+      "E": "Blow holes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6228",
+    "passage": ""
   }
 ]
