@@ -1626,5 +1626,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/410",
     "passage": ""
+  },
+  {
+    "id": 411,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The blood vessel which carries digested food from the small intestine to the liver is the",
+    "options": {
+      "A": "Renal vain",
+      "B": "Renal artery",
+      "C": "Hepatic artery",
+      "D": "Hepatic portal vein",
+      "E": "Coelic artery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/411",
+    "passage": ""
   }
 ]
