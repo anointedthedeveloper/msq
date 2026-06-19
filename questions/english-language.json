@@ -2835,5 +2835,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1350",
     "passage": ""
+  },
+  {
+    "id": 1351,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : Had he known he .... away",
+    "options": {
+      "A": "will go",
+      "B": "will be going",
+      "C": "would have gone",
+      "D": "may be going",
+      "E": "is going"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence is a third conditional structure , which expresses an unreal past situation. The correct form for such sentences is:\nIf + past perfect / Had + subject + past participle Main clause: would have + past participle\nSo:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1351",
+    "passage": ""
   }
 ]
