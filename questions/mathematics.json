@@ -15824,5 +15824,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23191",
     "passage": ""
+  },
+  {
+    "id": 23192,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The nth term of a sequence is given by (-1)\\(^{n-2}\\) x 2\\(^{n-1}\\). Find the sum of the second and third terms.",
+    "options": {
+      "A": "-2",
+      "B": "1",
+      "C": "2",
+      "D": "6",
+      "E": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "when n = 2\n(-1)\\(^{n-2}\\) x 2\\(^{n -1}\\) = 2\nWhen n = 3\n(-1)\\(^{n-2}\\) x 2\\(^{n - 1}\\) = -4\nSum = 2 - 4 = - 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23192",
+    "passage": ""
   }
 ]
