@@ -5814,5 +5814,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2631",
     "passage": ""
+  },
+  {
+    "id": 2632,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "It is difficult to achieve an orderly arrangement of the molecules of a gas because they?",
+    "options": {
+      "A": "have no definite shape",
+      "B": "have little force of attraction between them",
+      "C": "can collide with one another in the container",
+      "D": "are too small in size"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In most cases, there are essentially no attractive forces between particles . This means that a gas has nothing to hold a specific shape or volume.\nIt's difficult to achieve an orderly arrangement of gas molecules due to their high kinetic energy, large distances between particles, and lack of intermolecular forces. These factors cause the molecules to move randomly and freely, making it difficult to constrain them into a structured arrangement.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2632",
+    "passage": ""
   }
 ]
