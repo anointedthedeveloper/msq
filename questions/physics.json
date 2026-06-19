@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/701",
     "passage": ""
+  },
+  {
+    "id": 702,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A quantity of water at 0°C is heated to about 30°C. At each degree rise in temperature, its density will",
+    "options": {
+      "A": "rise steadily",
+      "B": "fall steadily",
+      "C": "fall then rise",
+      "D": "rise then fall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Therefore, The density will rise and fall.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/702",
+    "passage": ""
   }
 ]
