@@ -15654,5 +15654,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67781",
     "passage": ""
+  },
+  {
+    "id": 67782,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Anti-virus software is an example of ?",
+    "options": {
+      "A": "Utility programs",
+      "B": "Operating systems",
+      "C": "Application software",
+      "D": "Translators"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "software utilities is a type of computer system software also referred to as service program, tool, service routine, or utility routine, they help to analyze, configure, optimize or maintain a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67782",
+    "passage": ""
   }
 ]
