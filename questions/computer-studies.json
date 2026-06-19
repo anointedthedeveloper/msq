@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60236",
     "passage": ""
+  },
+  {
+    "id": 60237,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following items is not located on the MS Word menu bar?",
+    "options": {
+      "A": "Home",
+      "B": "Open",
+      "C": "View",
+      "D": "Mailings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Open is not part of MS Word menu bar.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60237",
+    "passage": ""
   }
 ]
