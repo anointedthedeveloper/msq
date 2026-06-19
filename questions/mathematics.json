@@ -2224,5 +2224,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2876",
     "passage": ""
+  },
+  {
+    "id": 2877,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Simplify \\((\\sqrt{0.7} + \\sqrt{70})^{2}\\)",
+    "options": {
+      "A": "84.7",
+      "B": "70.7",
+      "C": "217.7",
+      "D": "168.7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\((\\sqrt{0.7} + \\sqrt{70})^{2}\\)\n= \\((\\sqrt{0.7} + \\sqrt{70})(\\sqrt{0.7} + \\sqrt{70})\\)\n= \\(0.7 + 2\\sqrt{0.7 \\times 70} + 70\\)\n= \\(0.7 + 14 + 70 \\)\n= 84.7",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2877",
+    "passage": ""
   }
 ]
