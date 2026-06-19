@@ -7864,5 +7864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/68765",
     "passage": ""
+  },
+  {
+    "id": 68766,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Use of the following information to answer this question BIK Ltd has developed a new health application for the public. Which of the following illustrations would be used to distribute the application?",
+    "options": {
+      "A": "Producer --------Agent ---------------Retailer -------------->Consumer",
+      "B": "Producer --------------> Retailer --------------------> Consumer",
+      "C": "Producer -------------> Consumer",
+      "D": "Producer ---------------> Wholesaler --------------> Retailer -------------->Consumer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The illustration that would be used to distribute the health application developed by BIK Ltd is \"Producer -------------> Consumer.\" In this scenario, BIK Ltd, as the producer, directly provides the health application to the end consumer. This distribution model bypasses the involvement of intermediaries such as retailers, wholesalers, or agents. BIK Ltd may distribute the application through app stores, its website, or other online platforms where consumers can directly access and download the application to their devices. This direct distribution approach allows BIK Ltd to have more control over the distribution process and ensures that the health application reaches the end consumer efficiently.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/68766",
+    "passage": ""
   }
 ]
