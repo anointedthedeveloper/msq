@@ -3147,5 +3147,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1672",
     "passage": ""
+  },
+  {
+    "id": 1673,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Phosphorus is stored under water to prevent it from",
+    "options": {
+      "A": "Dehydrating",
+      "B": "Becoming inert",
+      "C": "Smelling",
+      "D": "Catching fire"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Phosphorus is a highly reactive nonmetal that can easily ignite when exposed to air. It is stored underwater to prevent it from reacting with oxygen and catching fire.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1673",
+    "passage": ""
   }
 ]
