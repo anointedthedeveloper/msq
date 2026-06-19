@@ -17997,5 +17997,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25056",
     "passage": ""
+  },
+  {
+    "id": 25057,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "The angular speed of an object describing a circle of radius 4m with a linear constant speed of 10 ms-1 is",
+    "options": {
+      "A": "40.00 rad s -1",
+      "B": "14.00 rad s -1",
+      "C": "2.50 rad s -1",
+      "D": "1.58 rad s -1",
+      "E": "0.40 rad s -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To find the angular speed (\\( \\omega \\)) of an object moving in a circle, we use the formula:\n\\(\\omega = \\frac{v}{r}\\)\nGiven: - Linear speed (\\( v \\)) = 10 m/s - Radius (\\( r \\)) = 4 m Substituting the values into the formula:\n\\(\\omega = \\frac{10 \\, \\text{m/s}}{4 \\, \\text{m}} = 2.5 \\, \\text{rad/s}\\) The angular speed is  \\(\\omega = 2.50 \\, \\text{rad/s}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25057",
+    "passage": ""
   }
 ]
