@@ -1,0 +1,212 @@
+[
+  {
+    "id": 6,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A group of market women sell at least one of yam, plantain and maize. 12 of them sell maize, 10 sell yam and 14 sell plantain. 5 sell plantain and maize, 4 sell yam and maize, 2 sell yam and plantain only while 3 sell all the three items. How many women are in the group?",
+    "options": {
+      "A": "25",
+      "B": "19",
+      "C": "18",
+      "D": "17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let the three items be M, Y and P. n{M ∩ Y} only = 4-3 = 1 n{M ∩ P) only = 5-3 = 2 n{ Y ∩ P} only = 2 n{M} only = 12-(1+3+2) = 6 n{Y} only = 10-(1+2+3) = 4 n{P} only = 14-(2+3+2) = 7 n{M∩P∩Y} = 3 Number of women in the group = 6+4+7+(1+2+2+3) as above =25 women.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/6",
+    "passage": ""
+  },
+  {
+    "id": 9,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If log\\(_810\\) = X, evaluate log\\(_85\\) in terms of X.",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)X",
+      "B": "X-\\(\\frac{1}{4}\\)",
+      "C": "X-\\(\\frac{1}{3}\\)",
+      "D": "X-\\(\\frac{1}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(log_810\\) = X = \\(log_8{2 x 5}\\) \\(log_82\\) + \\(log_85\\) = X Base 8 can be written as \\(2^3\\) \\(log_82 = y\\) therefore \\(2 = 8^y\\) \\(y = \\frac{1}{3}\\) \\(\\frac{1}{3} = log_82\\) taking \\(\\frac{1}{3}\\) to the other side of the original equation \\(log_85 = X-\\frac{1}{3}\\) explanation courtesy of Oluteyu and Ifechuks\nOR\nGiven \\(\\log_8 10 = X\\), we can express \\(\\log_8 5\\) as follows:\n\\(\\log_8 5 = \\log_8 \\left( \\frac{10}{2} \\right) = \\log_8 10 - \\log_8 2\\)\nUsing the change of base formula, we find:\n\\(\\log_8 2 = \\frac{\\log 2}{\\log 8} = \\frac{1}{3}\\)\nThus, substituting back, we get: \\(\\log_8 5 = X - \\log_8 2 = X - \\frac{1}{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9",
+    "passage": ""
+  },
+  {
+    "id": 10,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the value of X if \\(\\frac{\\sqrt{2}}{x+\\sqrt{2}}=\\frac{1}{x-\\sqrt{2}}\\)",
+    "options": {
+      "A": "3√2+4",
+      "B": "3√2-4",
+      "C": "3-2√2",
+      "D": "4+2√2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Start your solution by cross-multiplying,\n\\(\\frac{\\sqrt{2}}{x+\\sqrt{2}}=\\frac{1}{x-\\sqrt{2}}\\)\n[x - \\(\\sqrt{2}\\)]\\(\\sqrt{2}\\)  = x + \\(\\sqrt{2}\\)\nwhere \\(\\sqrt{2}\\) ×\\(\\sqrt{2}\\) = 2\nx\\(\\sqrt{2}  - \\sqrt{2}  x \\sqrt{2}\\) = x + \\(\\sqrt{2}\\)\nthen collect like terms\nx\\(\\sqrt{2}\\) - x = \\(\\sqrt{2}\\) + 2\nand factorize accordingly to get the unknown.\nx(\\(\\sqrt{2}\\) - 1) = \\(\\sqrt{2}\\) + 2\nx = \\(\\frac{\\sqrt{2}) + 2}{\\sqrt{2} - 1}\\)\nrationalize\nx = \\(\\frac{\\sqrt{2} + 2}{\\sqrt{2} - 1}\\) * \\(\\frac{\\sqrt{2} + 1}{\\sqrt{2} + 1}\\)\nx = \\(\\frac{\\sqrt{4} + \\sqrt{2} + 2\\sqrt{2} + 2}{\\sqrt{4}  + \\sqrt{2} - \\sqrt{2} - 1}\\)\nx = \\(\\frac{2 +  3\\sqrt{2} + 2}{2 - 1}\\)\nx =  \\(\\frac{3\\sqrt{2} + 4}{1}\\)\nx = 3\\(\\sqrt{2}\\) + 4",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10",
+    "passage": ""
+  },
+  {
+    "id": 11,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the matrix T if ST = I where S = \\(\\begin{pmatrix} -1 & 1 \\\\ 1 & -2 \\end{pmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -2 & -1 \\\\ -1 & 1 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -1 & -1 \\\\ 0 & -1 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -1 & 1 \\\\ 0 & 1 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "S = \\(\\begin{pmatrix} -1 & 1 \\\\ 1 & -2 \\end{pmatrix}\\) and ST = I  (Identity matrix).\nThis means  T  is the inverse of S\nFind the determinant of S \\( \\det(S)\\) = (-1)(-2) - (1)(1) = 2 - 1 = 1\nT = \\(\\frac{1}{\\det(S)} \\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\) Since det = 1, T = \\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\) T = \\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11",
+    "passage": ""
+  },
+  {
+    "id": 12,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If \\(\\frac{({a^2b^{-3}c})^{3/4}}{a^{-1}b^4c^5}\\) = \\(a^p b^q c^r\\); what is the value of p+2q?",
+    "options": {
+      "A": "(5/2)",
+      "B": "-(5/4)",
+      "C": "-(25/4)",
+      "D": "-10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "= \\(\\frac{(a^2)^{3/4}\\times(b^{-3})^{3/4}\\times c^{3/4}}{a^{-1} b^4 c^5}\\) \\(= a^p\\times b^q\\times c^r\\)\n= \\(\\frac{a^{3/2}\\times b^{-9/4} \\times c^{3/4}}{a^{-1}b^4c^5}\\) = \\(a^p b^q c^r\\) =  \\(a^{{3/4}+1} b^{{-9/4}-4} c^{{3/5}-5}\\) = \\(a^pb^q c^r\\)\n= \\(a^{5/2} b^{-25/4} c^{-17/4}\\) = \\(a^pb^qc^r\\)\ntherefore, p=5/2, q=-25/4 and r = -17/4\n2a + q = \\(\\frac{5}{2} - 2\\times\\frac{-25}{4}\\)\n= -20/2 = -10",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/12",
+    "passage": ""
+  },
+  {
+    "id": 13,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A trader bought 100 oranges at 5 for N1.20, 20 oranges got spoilt and the remaining were sold at 4 for N1.50. Find the percentage gain or loss.",
+    "options": {
+      "A": "30% gain",
+      "B": "25% gain",
+      "C": "30% loss",
+      "D": "25% loss"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cost price (cp) = (100/5) x N1.20 =N24.00 Selling price (sp) = 100-20 = 80 (80/4) x N1.50 = N30.00 Gain = SP-CP = N30.00-N24.00 = N6.00 Gain% = (gain/CP) x 100 = 25%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/13",
+    "passage": ""
+  },
+  {
+    "id": 14,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What is the answer when 2434\\(_6\\) is divided by 42\\(_6\\)?",
+    "options": {
+      "A": "23 6",
+      "B": "35 6",
+      "C": "52 6",
+      "D": "55 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Hint: Two methods can be used; 1. Direct division (if you know division in number bases) 2. Convert both sides to base 10, divide and convert your answer back to base 6. Your answer should be 356\n2434\\(_6\\) to base 10\n2 \\(\\times\\) 6\\(^3\\) + 4 \\(\\times\\) 6\\(^2\\) + 3 \\(\\times\\) 6\\(^1\\) + 4 \\(\\times\\) 6\\(^0\\)\n2 \\(\\times\\) 216 + 4 \\(\\times\\) 36 + 3 \\(\\times\\) 6 + 4 \\(\\times\\) 1\n432 + 144 + 18 + 4 = 598\nAnd: 42\\(_6\\) to base 10\n4 \\(\\times\\) 6\\(^1\\) + 2 \\(\\times\\) 6\\(^0\\)\n4 \\(\\times\\) 6 + 2 \\(\\times\\) 1\n24 + 2 = 26\nThen divide 598 by 26\n= 23\nThen convert 23\\(_{10}\\) to base 6\n6 23 6 3 r 5 6 0 r 3\n23\\(_{10}\\)  =  35\\(_6\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/14",
+    "passage": ""
+  },
+  {
+    "id": 15,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If 2\\(_9\\) x (Y3)\\(_9\\) = 3\\(_5\\) x (Y3)\\(_5\\), find the value of Y.",
+    "options": {
+      "A": "4",
+      "B": "3",
+      "C": "2",
+      "D": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(2 x 9 \\(^0\\) ) (Y x 9 \\(^1\\)+ 3 x 9\\(^0\\)) = (3 x 5 \\(^0\\))(Y x 5\\(^1\\) + 3 x 5\\(^0\\)). (2 * 1)(Y *9 + 3) = (3 * 1)(Y * 5 + 3) 18y + 6 = 15y + 9\n18y - 15y = 9 - 6\n3y = 3\ny = 1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/15",
+    "passage": ""
+  },
+  {
+    "id": 16,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Simplify \\(\\sqrt{\\frac{(0.0023 \\times 750)}{(0.00345 \\times 1.25)}}\\)",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "40",
+      "D": "75"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Multiply appropriately to remove decimals on both numerator and denominators.\nSuch that you have \\(\\sqrt{\\frac{(23000 \\times 750)}{(345 \\times 125)}}\\) Dividing, => \\(\\sqrt{400} = 20\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/16",
+    "passage": ""
+  },
+  {
+    "id": 17,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If \\(m*n = (\\frac{m}{n} - \\frac{n}{m}\\)) for m, n belong to R, evaluate -3*4",
+    "options": {
+      "A": "\\(\\frac{-25}{12}\\)",
+      "B": "\\(\\frac{-7}{12}\\)",
+      "C": "\\(\\frac{7}{12}\\)",
+      "D": "\\(\\frac{25}{12}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(m*n = \\frac{m}{n}-\\frac{n}{m} = \\frac{-3}{4} - \\frac{4}{-3} = \\frac{-3}{4} + \\frac{4}{3} = \\frac{(-9+16)}{12} = \\frac{7}{12}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/17",
+    "passage": ""
+  }
+]
