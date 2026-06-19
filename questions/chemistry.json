@@ -8440,5 +8440,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3730",
     "passage": ""
+  },
+  {
+    "id": 3731,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If 30cm\\(^3\\) of gas at 50\\(^0\\)C is warmed to 80\\(^0\\)C at a fixed pressure, the fractional increase in volume is",
+    "options": {
+      "A": "0.009",
+      "B": "0.093",
+      "C": "0.910",
+      "D": "1.090"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given:\nV\\(_1\\) = 30cm\\(^3\\)\nT\\(_1\\) = 50\\(^0\\)C + 273 = 323K\nV\\(_2\\) = ?\nT\\(_2\\) = 80\\(^0\\)C + 273 = 353K\nAccording to Charles' law:  \\(\\frac{V_1}{T_1}\\) = \\(\\frac{V_2}{T_2}\\)\nV\\(_2\\) = \\(\\frac{{353}\\times{30}}{323}\\)\nV\\(_2\\) = 32.79 cm\\(^3\\)\nIncrease in volume =  V\\(_2\\) - V\\(_1\\) = 32.79 - 30 = 2.79 cm\\(^3\\)\nFractional increase in volume =  \\(\\frac{{V_2} - {V_1}}{V_1}\\)\n=  \\(\\frac{{32.79} - {30}}{30}\\)\n= 0.09287\n= 0.093\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3731",
+    "passage": ""
   }
 ]
