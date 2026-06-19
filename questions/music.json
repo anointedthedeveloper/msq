@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76292",
     "passage": ""
+  },
+  {
+    "id": 76293,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The song entitled Can We Chill? Was composed by",
+    "options": {
+      "A": "50 Cents",
+      "B": "Ne-Yo",
+      "C": "Dr Dre",
+      "D": "Usher"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The song \"Can We Chill?\" was composed by Ne-Yo . Ne-Yo is an American singer, songwriter, record producer, actor, and dancer who gained fame for his songwriting abilities when he penned his 2004 hit \"Let Me Love You\" for singer Mario.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76293",
+    "passage": ""
   }
 ]
