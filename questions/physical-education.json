@@ -19,5 +19,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64140",
     "passage": ""
+  },
+  {
+    "id": 64141,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following games is started with a jump ball?",
+    "options": {
+      "A": "Basketball",
+      "B": "Handball",
+      "C": "soccer",
+      "D": "Squash"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A jump ball is a method used to begin or resume play in basketball",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64141",
+    "passage": ""
   }
 ]
