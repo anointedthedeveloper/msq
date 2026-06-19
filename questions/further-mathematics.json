@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50385",
     "passage": ""
+  },
+  {
+    "id": 50386,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A particle starts from rest and moves through a distance \\(S = 12t^{2} - 2t^{3}\\) metres in time t seconds. Find its acceleration in 1 second.",
+    "options": {
+      "A": "24\\(ms^{-2}\\)",
+      "B": "18\\(ms^{-2}\\)",
+      "C": "12\\(ms^{-2}\\)",
+      "D": "10\\(ms^{-2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{\\mathrm d s(t)}{\\mathrm d t} = v(t)\\) and \\(\\frac{\\mathrm d v(t)}{\\mathrm d t} = a(t)\\)\n\\(\\therefore v(t) = \\frac{\\mathrm d (12t^{2} - 2t^{3})}{\\mathrm d t} = 24t - 6t^{2}\\)\n\\(\\frac{\\mathrm d (24t - 6t^{2})}{\\mathrm d t} = 24 - 12t = a(t)\\)\n\\(a(1) = 24 - 12(1) = 24 - 12 = 12ms^{-2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50386",
+    "passage": ""
   }
 ]
