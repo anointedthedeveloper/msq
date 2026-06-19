@@ -3891,5 +3891,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58582",
     "passage": ""
+  },
+  {
+    "id": 58597,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The main components of the central processing unit (CPU) of the computer are",
+    "options": {
+      "A": "register and memory",
+      "B": "control unit and register",
+      "C": "control unit and ALU",
+      "D": "ALU and BUS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58597",
+    "passage": ""
   }
 ]
