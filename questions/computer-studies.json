@@ -2227,5 +2227,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61733",
     "passage": ""
+  },
+  {
+    "id": 61734,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "(a) Define programming language.\n(b) Write the 5 following mathematical expressions in BASIC notation:\n(i) x (w + y)\\(^2\\) (ii) ab/cd  (ii) p = 2 (1+b).\n(c) Write a simple BASIC program to calculate the area (A) of a rectangle with length (l) and breath (b).\n(d) List two levels of programming language.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) A programming language is a formal language for communicating with a computer without the ambiguity Of human language.\nA programming language has to be executed by a computer or design of the language degenerates in a futile intellectual exercise.\n(b) (i) x(w +y)\\(^2\\) = x * (W+ Y)^2\n(ii) ab/cd = A * B/C * D\n(ii) P= 2(l + b) = P =2 * (L + B)\n(C) 10 REM CALCULATE AREA OF A RECTANGLE\n20 INPUT LENGTH\", L\n30 INPUT BREADTH\", B\n40 LET A= L * B\n50 PRINT \"AREA\", A\n60 END\n(d) Low level language e.g machine language and Assembly language. - High level language eg Algebraic formula Type processing and String and list process ing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61734",
+    "passage": ""
   }
 ]
