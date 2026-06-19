@@ -11674,5 +11674,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4463",
     "passage": ""
+  },
+  {
+    "id": 4464,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Calculate the percentage by mass of nitrogen in calcium trioxonitrate (V) [Ca = 40, N = 14, O = 16]",
+    "options": {
+      "A": "8.5%",
+      "B": "13.1%",
+      "C": "17.1%",
+      "D": "27.6%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Calcium trioxonitrate(V) is (CaNO\\(_3\\))\\(_2\\)\nThe molecular mass of CaNO\\(_3\\))\\(_2\\) =  40 + (14 + (16 X 3)) x 2 = 164\nRelative molecular mass of nitrogen(N\\(_2\\)) = 14 x 2 = 28\n% by mass of nitrogen in CaNO\\(_3\\))\\(_2\\) = \\(\\frac{28}{164}\\) x \\(\\frac{100}{1}\\)\n= 17.073 ≈ 17.1%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4464",
+    "passage": ""
   }
 ]
