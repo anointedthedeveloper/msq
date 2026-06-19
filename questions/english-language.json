@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/110",
     "passage": ""
+  },
+  {
+    "id": 111,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The state government appointed a commission of inquiry to go into the community's complaints carefully and without prejudice",
+    "options": {
+      "A": "investigate",
+      "B": "search",
+      "C": "look for",
+      "D": "account for",
+      "E": "ascertain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/111",
+    "passage": ""
   }
 ]
