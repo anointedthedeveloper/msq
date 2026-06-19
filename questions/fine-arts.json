@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75250",
     "passage": ""
+  },
+  {
+    "id": 75252,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The manipulation of clay to form pots and vessels is known as:",
+    "options": {
+      "A": "Modelling",
+      "B": "Throwing",
+      "C": "Casting",
+      "D": "Embossing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Throwing is shaping clay on a wheel into circular forms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75252",
+    "passage": ""
   }
 ]
