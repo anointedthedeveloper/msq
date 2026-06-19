@@ -5733,5 +5733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62432",
     "passage": ""
+  },
+  {
+    "id": 62433,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The decimal number 1024 in hexadecimal equivalent is?",
+    "options": {
+      "A": "24",
+      "B": "400",
+      "C": "3E8",
+      "D": "8BB"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Divide the decimal number 1024 by 16: 1024 ÷ 16 = 64 with a remainder of 0 Divide the quotient (64) by 16: 64 ÷ 16 = 4 with a remainder of 0 Divide the new quotient (4) by 16: 4 ÷ 16 = 0 with a remainder of 4 Write down the remainder in reverse order: 0 0 4\nThus, the hexadecimal equivalent of the decimal number 1024 is 400",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62433",
+    "passage": ""
   }
 ]
