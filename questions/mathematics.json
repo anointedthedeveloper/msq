@@ -4702,5 +4702,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8216",
     "passage": ""
+  },
+  {
+    "id": 8217,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "If 321\\(_4\\) is divided by 23\\(_4\\) and leaves a remainder r, what is the value of r?",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{321_4}{23_4}\\) = \\(\\frac{(3\\times4^{2})+(2\\times4^{1})+(1\\times4^{0})}{(2\\times4^{0})+(3\\times4^{0})}\\)\n= \\(\\frac{3\\times16+2\\times4+1\\times1}{2\\times4+3\\times1}\\) = \\(\\frac{48+8+1}{8+3}\\) =\\(\\frac{57}{11}\\) = 5\\(\\hspace{1mm}remainder\\hspace{1mm}2\\)\n∴ r = 2\\(_{10}\\)   Now\\(\\hspace{1mm}convert\\hspace{1mm}2_{10} \\hspace{1mm}to\\hspace{1mm}base\\hspace{1mm}4\\frac{4}{2}\\) = 2\\(\\frac{4}{0}\\) = 0\\(\\hspace{1mm}or\\hspace{1mm}2\\) ∴ r = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8217",
+    "passage": ""
   }
 ]
