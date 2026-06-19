@@ -4680,5 +4680,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2150",
     "passage": ""
+  },
+  {
+    "id": 2151,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "\\(^{14}\\) \\(_6\\)C → X + β X in the equation above represents",
+    "options": {
+      "A": "12 6 C",
+      "B": "12 5 B",
+      "C": "14 7 N",
+      "D": "13 6 C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "146C → X + β → X + 0-1e → 147X",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2151",
+    "passage": ""
   }
 ]
