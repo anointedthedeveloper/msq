@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60231",
     "passage": ""
+  },
+  {
+    "id": 60232,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The application software which allows information available on the internet to be obtained is called _________",
+    "options": {
+      "A": "Browser",
+      "B": "World Wide Web",
+      "C": "Spreadsheet",
+      "D": "Internet Protocol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60232",
+    "passage": ""
   }
 ]
