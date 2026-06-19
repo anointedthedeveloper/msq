@@ -12325,5 +12325,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4494",
     "passage": ""
+  },
+  {
+    "id": 4495,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "When iron is exposed to moist air, it gradually rusts. This is due to the formation of?",
+    "options": {
+      "A": "hydrate iron (III) oxide",
+      "B": "anhydrous iron (III) oxide",
+      "C": "anhydrous iron (II) oxide",
+      "D": "hydrate iron (II) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Rusting is an oxidation reaction. The iron reacts with water and oxygen to form hydrated iron(III) oxide, which we see as rust.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4495",
+    "passage": ""
   }
 ]
