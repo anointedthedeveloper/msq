@@ -1427,5 +1427,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/977",
     "passage": ""
+  },
+  {
+    "id": 979,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A major way of maintaining confidence in the electoral process is by ensuring that",
+    "options": {
+      "A": "electoral officers are regularly trained",
+      "B": "elections are conducted in a free and fair atmosphere",
+      "C": "unlimited franchise is made available",
+      "D": "elections are conducted as and when due"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/979",
+    "passage": ""
+  },
+  {
+    "id": 980,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The principle of checks and balances reinforces separation of powers in order to",
+    "options": {
+      "A": "protect the powers of the executive",
+      "B": "make the legislature more powerful",
+      "C": "prevent an unconstituional change of government",
+      "D": "prevent the emergence of dictatorship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/980",
+    "passage": ""
   }
 ]
