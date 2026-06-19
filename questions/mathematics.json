@@ -10056,5 +10056,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10927",
     "passage": ""
+  },
+  {
+    "id": 10928,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In the diagram above are two concentric circles of radii r and R respectively with center O. If r =\n2\n/\n3\nR, express the area of the shaded portion in terms of π and R",
+    "options": {
+      "A": "21 / 25 πR 2",
+      "B": "9 / 25 πR 2",
+      "C": "21 / 23 πR 2",
+      "D": "5 / 9 πR 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6791826725_math200232.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868951/myschool/mathematics/6791826725_math200232.jpg",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n5\n9\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10928",
+    "passage": ""
   }
 ]
