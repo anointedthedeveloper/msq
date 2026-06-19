@@ -9175,5 +9175,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3838",
     "passage": ""
+  },
+  {
+    "id": 3841,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which experiment led to the measurement of the charge on an electron?",
+    "options": {
+      "A": "Mass spectrometric experiment",
+      "B": "Oil-drop experiment",
+      "C": "Scattering α - particles",
+      "D": "Discharge-tube experiment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In 1909, Robert Millikan and Harvey Fletcher conducted the oil drop experiment to determine the charge of an electron.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3841",
+    "passage": ""
   }
 ]
