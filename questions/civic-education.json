@@ -4174,5 +4174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50300",
     "passage": ""
+  },
+  {
+    "id": 50303,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The marked pedestrian crossing shown in the diagram is?",
+    "options": {
+      "A": "neon sign crossing",
+      "B": "amber crossing",
+      "C": "cobra crossing",
+      "D": "zebra crossing"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/urLbdlmRKrBZTQHV8FsP0kDp78xAuX3EjGAHUY4l.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911020/myschool/civic-education/urLbdlmRKrBZTQHV8FsP0kDp78xAuX3EjGAHUY4l.jpg",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50303",
+    "passage": ""
   }
 ]
