@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76306",
     "passage": ""
+  },
+  {
+    "id": 76307,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The musical form of the Nigerian National Anthem is",
+    "options": {
+      "A": "ternary",
+      "B": "responsorial",
+      "C": "allegro",
+      "D": "stanzaic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The musical form of the Nigerian National Anthem is stanzaic. A stanzaic form in music refers to a song structure that is divided into sections, each section being a stanza or verse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76307",
+    "passage": ""
   }
 ]
