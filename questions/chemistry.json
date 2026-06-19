@@ -1866,5 +1866,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1481",
     "passage": ""
+  },
+  {
+    "id": 1482,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Sieving is a technique used to separate mixture containing solid particles of",
+    "options": {
+      "A": "small sizes",
+      "B": "large sizes",
+      "C": "different sizes",
+      "D": "the same sizes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sieving is a technique used to separate solid particles of different sizes in a mixture. The separation is based on the relative sizes of the particles and the holes in the sieve. Answer: Option C\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1482",
+    "passage": ""
   }
 ]
