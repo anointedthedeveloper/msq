@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73590",
     "passage": ""
+  },
+  {
+    "id": 73591,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. Kedu ihe nzụ pụtara n'asụsụ bekee?",
+    "options": {
+      "A": "Chalk",
+      "B": "Duster",
+      "C": "Pencil",
+      "D": "Chalkboard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question can be translated as \"What is nzụ in English Language?\". Nzụ means chalk.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73591",
+    "passage": ""
   }
 ]
