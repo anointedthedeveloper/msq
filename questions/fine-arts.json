@@ -2287,5 +2287,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75374",
     "passage": ""
+  },
+  {
+    "id": 75375,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the term for art made from small pieces of glass or tile?",
+    "options": {
+      "A": "Collage",
+      "B": "Fresco",
+      "C": "Relief",
+      "D": "Mosaic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Mosaic is the technique of creating images or patterns by arranging small pieces (tesserae) of colored glass, stone, tile, etc., often used in ancient and decorative art.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75375",
+    "passage": ""
   }
 ]
