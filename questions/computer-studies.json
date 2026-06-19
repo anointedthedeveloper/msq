@@ -10322,5 +10322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62761",
     "passage": ""
+  },
+  {
+    "id": 62762,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In graphics, a subscript text refers to a text that is positioned?",
+    "options": {
+      "A": "a little bit above a normal line of text",
+      "B": "a little bit below a normal line of text.",
+      "C": "at the end of a line of text.",
+      "D": "at the front of a line of text"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A subscript is a text that is positioned a little bit below a normal line of text.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62762",
+    "passage": ""
   }
 ]
