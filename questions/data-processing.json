@@ -8251,5 +8251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69807",
     "passage": ""
+  },
+  {
+    "id": 69808,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following data elements ranks highest in size?",
+    "options": {
+      "A": "Field",
+      "B": "Byte",
+      "C": "Record",
+      "D": "Bit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The hierarchy of data size is as follows: Bit Byte Field Record A bit is the smallest unit of data and can represent a binary value of 0 or 1. A byte consists of 8 bits. A field is a collection of related data elements, and a record is a collection of fields. So, in terms of size, a byte is larger than a bit, and a field and a record are composed of multiple bytes and potentially multiple fields, respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69808",
+    "passage": ""
   }
 ]
