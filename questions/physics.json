@@ -2350,5 +2350,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9562",
     "passage": ""
+  },
+  {
+    "id": 9563,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The hydrostatic blood pressure difference between the head and the feet of a boy standing straight is 1.65 x 104 Nm-2. Find the height of the boy.\n[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2]",
+    "options": {
+      "A": "0.5 m",
+      "B": "0.6 m",
+      "C": "1.5 m",
+      "D": "2.0 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "[ Density of blood = 1.1 x 103 kgm-3, g = 10ms-2] Pressure = pgh, where p = density, h = the height, g = acceleration of free fall due to gravity 1.6.5 x 104 = 1.1 x 103 x 10 x h therefore h = 1.65 x 104/1.1 x 103 x 10 = 1.5m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9563",
+    "passage": ""
   }
 ]
