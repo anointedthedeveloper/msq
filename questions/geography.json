@@ -5636,5 +5636,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7998",
     "passage": ""
+  },
+  {
+    "id": 8001,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The three leading manufacturing countries of the world are?",
+    "options": {
+      "A": "Japan, USA and Italy",
+      "B": "USA, Britain and Hong Kong",
+      "C": "Japan, Western Germany and Britain",
+      "D": "China, Japan and Brazil",
+      "E": "Japan, USA and Western Germany"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8001",
+    "passage": ""
   }
 ]
