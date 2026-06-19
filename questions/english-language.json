@@ -944,5 +944,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/516",
     "passage": ""
+  },
+  {
+    "id": 518,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space\nThe traditional folktales form an .... to the book.",
+    "options": {
+      "A": "index",
+      "B": "insertion",
+      "C": "information",
+      "D": "overview",
+      "E": "appendix"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "An appendix is a section at the end of a book or document that provides additional information or material related to the content, such as extra details, resources or references. In the context of the sentence, it suggests that the traditional folktales are supplementary to the main content of the book, which is typically what an appendix provides.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/518",
+    "passage": ""
   }
 ]
