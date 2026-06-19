@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57305",
     "passage": ""
+  },
+  {
+    "id": 57315,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of these operations would not close MS word application?",
+    "options": {
+      "A": "Pressing the Alt + F4 keys",
+      "B": "clicking the X button on the title bar",
+      "C": "choosing exit from the file menu drop down box",
+      "D": "selecting the close from the file menu drop down dialogue box"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57315",
+    "passage": ""
   }
 ]
