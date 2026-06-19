@@ -10155,5 +10155,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8510",
     "passage": ""
+  },
+  {
+    "id": 8512,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "The most suitable method for depicting the production figures of a given commodity in many countries over a given period of times is the?",
+    "options": {
+      "A": "pie graph",
+      "B": "choropleth",
+      "C": "multiple graph",
+      "D": "bar graph"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8512",
+    "passage": ""
+  },
+  {
+    "id": 8514,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "The best technique for illustrating population density is the?",
+    "options": {
+      "A": "dot map",
+      "B": "pie chart",
+      "C": "bar graph",
+      "D": "choropleth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8514",
+    "passage": ""
   }
 ]
