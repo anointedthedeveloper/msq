@@ -3091,5 +3091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71195",
     "passage": ""
+  },
+  {
+    "id": 71196,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option juste Less.......permettent de voir.",
+    "options": {
+      "A": "yeux",
+      "B": "dents",
+      "C": "oreilles",
+      "D": "lèvres"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Eyes or yeux allow us to see, not teeth (dents), lips (lèvres), ears (oreilles), or toes (orteils). Therefore, the correct answer is yeux (eyes).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71196",
+    "passage": ""
   }
 ]
