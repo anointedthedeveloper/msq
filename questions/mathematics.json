@@ -4933,5 +4933,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8227",
     "passage": ""
+  },
+  {
+    "id": 8292,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The weight W kg of a metal bar varies jointly as its length L meters and the square of its diameter d meters. If w = 140 when d = 42/3 and L = 54, find d in terms of W and L.",
+    "options": {
+      "A": "\\(\\sqrt{\\frac{42W}{5L}}\\)",
+      "B": "\\(\\sqrt{\\frac{6L}{42W}}\\)",
+      "C": "\\(\\frac{42W}{5L}\\)",
+      "D": "\\(\\frac{5L}{42W}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The weight \\( W \\) kg of a metal bar varies jointly as its length \\( L \\) meters and the square of its diameter \\( d \\) meters. This relationship is expressed as:\n\\(W = k \\cdot L \\cdot d^2\\)\nwhere \\( k \\) is the constant of proportionality.\nGiven \\( W = 140 \\), \\( d = 4\\frac{2}{3} = \\frac{14}{3} \\), and \\( L = 54 \\), substitute to find \\( k \\):\n\\(140 = k \\cdot 54 \\cdot \\left( \\frac{14}{3} \\right)^2\\)\nCalculate \\( \\left( \\frac{14}{3} \\right)^2 = \\frac{196}{9} \\):\n\\(140 = k \\cdot 54 \\cdot \\frac{196}{9}\\)\nSimplify: \\( 54 \\div 9 = 6 \\), so: \\(140 = k \\cdot 6 \\cdot 196 = k \\cdot 1176\\)\nThus, \\(k = \\frac{140}{1176} = \\frac{5}{42}\\)\nNow rearrange the original equation to solve for \\( d \\):\n\\(d^2 = \\frac{W}{k \\cdot L}\\)\n\\(d = \\sqrt{ \\frac{W}{k \\cdot L} } = \\sqrt{ \\frac{W}{\\frac{5}{42} \\cdot L} } = \\sqrt{ \\frac{42W}{5L} }\\)\nTherefore, \\( d = \\sqrt{ \\dfrac{42W}{5L} } \\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8292",
+    "passage": ""
   }
 ]
