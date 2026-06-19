@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49699",
     "passage": ""
+  },
+  {
+    "id": 49700,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A loss assessor in a claim settlement process is representing the interest of the?",
+    "options": {
+      "A": "insured",
+      "B": "insurer",
+      "C": "reinsurer",
+      "D": "broker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A Loss Assessor is appointed by the policyholder when they need to submit a substantial or complex claim. All fees are paid by the Policyholder.(insured)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49700",
+    "passage": ""
   }
 ]
