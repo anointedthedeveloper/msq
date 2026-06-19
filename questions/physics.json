@@ -3631,5 +3631,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12032",
     "passage": ""
+  },
+  {
+    "id": 12033,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "When connected to a mains of 250V, the fuse rating in the plug of an electric device of 1 KW is",
+    "options": {
+      "A": "2 A",
+      "B": "3 A",
+      "C": "4 A",
+      "D": "5 A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "1 KW = 1000 watts, power P = IV, thus for a mains of 250 V, the maximum permissible Current I = \\(\\frac{\\text{P}}{\\text{V}}\\) = \\(\\frac{1000}{250}\\) = 4 A Thus, the fuse rating in the plug should be 4 A\nPutting safety into consideration, the appropriate rating of the fuse should be 5A\nThat is = 4 x 1.25 = 5A ( 1.25 = safety factor)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12033",
+    "passage": ""
   }
 ]
