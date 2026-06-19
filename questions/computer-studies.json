@@ -1173,5 +1173,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61385",
     "passage": ""
+  },
+  {
+    "id": 61386,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "What factors will motivate a field engineer into choosing a notebook computer over a desktop computer ?",
+    "options": {
+      "A": "Cost, convenience and battery life",
+      "B": "Cost, size and convenience",
+      "C": "Size, convenience and battery life",
+      "D": "Size, cost and battery life"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61386",
+    "passage": ""
   }
 ]
