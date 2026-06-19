@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73531",
     "passage": ""
+  },
+  {
+    "id": 73532,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Gịnị ka 3/4 pụtara n'Igbo?",
+    "options": {
+      "A": "Atọ e tinyere anọ",
+      "B": "Atọ agbakwụnyere anọ",
+      "C": "Atọ n'ime anọ",
+      "D": "Anọ n'ime atọ."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Atọ n'ime anọ. In Igbo, \"Atọ n'ime anọ\" means \"Three out of four\" or \"Three quarters\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73532",
+    "passage": ""
   }
 ]
