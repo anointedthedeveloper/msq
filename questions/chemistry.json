@@ -4554,5 +4554,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2144",
     "passage": ""
+  },
+  {
+    "id": 2145,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A rock sample was added to cold dilute HNO3. The gas evolved was passed into a solution of acidified K2Cr2O7 and the solution turned green. The sample contains",
+    "options": {
+      "A": "Cl -",
+      "B": "NO 3 -",
+      "C": "SO 3 2-",
+      "D": "SO 4 2-"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sulphur dioxide reacts with potassium dichromate and sulphuric acid to produce potassium sulphqqqqqqqqqqqqqqqate, chromium(III) sulfate and water and the solution turns from orange to green .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2145",
+    "passage": ""
   }
 ]
