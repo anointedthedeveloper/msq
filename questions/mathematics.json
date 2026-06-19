@@ -11009,5 +11009,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22095",
     "passage": ""
+  },
+  {
+    "id": 22096,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "Cos x is negative and sin x is negative.Which of the following is true of x?",
+    "options": {
+      "A": "0 o < x < 90 o",
+      "B": "90 o < x <180 o",
+      "C": "180 o < x < 270 o",
+      "D": "270 o < x <360 o",
+      "E": "-90 o < x <90 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the 3rd quadrant, only the tan of angles are positive.\nThe 3rd quadrant = 180° < x < 270°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22096",
+    "passage": ""
   }
 ]
