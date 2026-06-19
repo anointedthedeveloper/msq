@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75335",
     "passage": ""
+  },
+  {
+    "id": 75337,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "إنَّ الصدقَ منجاةً\" - ما موقع \"الصدق\"؟\"",
+    "options": {
+      "A": "خبر",
+      "B": "مبتدأ",
+      "C": "اسم إن",
+      "D": "اسم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": ".منصوب ismu inna) and thus ) \"إنَّ\" is the noun of \"الصدق\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75337",
+    "passage": ""
   }
 ]
