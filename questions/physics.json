@@ -3463,5 +3463,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11841",
     "passage": ""
+  },
+  {
+    "id": 11868,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The diagram above shows a closed side 0.5m in a uniform electric field E in the direction shown by the arrows. What is the flux Φ for the box?",
+    "options": {
+      "A": "0.5 E",
+      "B": "2.0 E",
+      "C": "0.2 E",
+      "D": "0.0 E"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25820257594_phy200130.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888827/myschool/physics/25820257594_phy200130.jpg",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11868",
+    "passage": ""
   }
 ]
