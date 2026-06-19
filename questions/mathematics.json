@@ -9888,5 +9888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10416",
     "passage": ""
+  },
+  {
+    "id": 10417,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If the standard deviation of the set of numbers 3, 6, x, 7, 5 is 2, find the least possible value of x.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Numbers: 3, 6, x, 7, 5 Mean = \\(\\frac{(21 + x)}{5}\\)\nStandard deviation = 2, so the sum of squared deviations = 20.\nSolving: 2x² - 21x + 27 = 0\nx = 9 or x = 1.5 ≈ 2\nThe **least possible value of x is 1.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10417",
+    "passage": ""
   }
 ]
