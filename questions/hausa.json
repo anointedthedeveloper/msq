@@ -4029,5 +4029,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73881",
     "passage": ""
+  },
+  {
+    "id": 73882,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Wanne ne ba sunan yanka ba?",
+    "options": {
+      "A": "Audu",
+      "B": "Najeriya",
+      "C": "Gambo",
+      "D": "Abuja"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Which of the following names is not a nickname? Answer: Gambo (Gambo is a full name, while the other options – Abuja, Audu, Najeriya, and Takalmi – are all nicknames)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73882",
+    "passage": ""
   }
 ]
