@@ -504,5 +504,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/203",
     "passage": ""
+  },
+  {
+    "id": 437,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Marginal cost is",
+    "options": {
+      "A": "Lowest cost of producing goods",
+      "B": "The cost of production of the most efficient firm in the industry",
+      "C": "Cost of production of the most inefficient firm in the industry",
+      "D": "The cost of production of the last or extra unit of goods produced by a firm",
+      "E": "The cost of production at which the minimum profit is obtained by a firm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/437",
+    "passage": ""
+  },
+  {
+    "id": 438,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following is not a form of business organization",
+    "options": {
+      "A": "A sole proprietorship",
+      "B": "Cartel",
+      "C": "Partnership",
+      "D": "Joint stock",
+      "E": "Cooperative society"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/438",
+    "passage": ""
   }
 ]
