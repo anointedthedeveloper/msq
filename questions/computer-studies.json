@@ -11242,5 +11242,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64113",
     "passage": ""
+  },
+  {
+    "id": 64114,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The set of rules that defines the combination of symbols that are considered to be correctly structured statements or expressions in that language is called _________",
+    "options": {
+      "A": "Syntax",
+      "B": "Instruction",
+      "C": "Program",
+      "D": "Domain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In computer science, the syntax of a computer language is the set of rules that defines the combinations of symbols that are considered to be correctly structured statements or expressions in that language.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64114",
+    "passage": ""
   }
 ]
