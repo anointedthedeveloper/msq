@@ -1551,5 +1551,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49786",
     "passage": ""
+  },
+  {
+    "id": 49787,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Life policies can be used as a collateral for loan when the policy has?",
+    "options": {
+      "A": "ceased to be life",
+      "B": "been temporary suspended",
+      "C": "acquired surrender value",
+      "D": "been made paid-up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A collateral assignment of life insurance is a conditional assignment appointing a lender as the primary beneficiary of a death benefit to use as collateral for a loan . If the borrower is unable to pay, the lender can cash in the life insurance policy and recover what is owed.\n' Surrender Value ': It is the amount the policyholder will get from the life insurance company if he decides to exit the policy before maturity .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49787",
+    "passage": ""
   }
 ]
