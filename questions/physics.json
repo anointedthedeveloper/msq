@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/605",
     "passage": ""
+  },
+  {
+    "id": 615,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A galvanometer has a resistance of 5Ω. By using a shunt wire of resistance 0.05Ω, the galvanometer could be converted to an ammeter capable of reading 2Amp. What is the current through the galvanometer?",
+    "options": {
+      "A": "2mA",
+      "B": "10mA",
+      "C": "20mA",
+      "D": "25mA"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/615",
+    "passage": ""
   }
 ]
