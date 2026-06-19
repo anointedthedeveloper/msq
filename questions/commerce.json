@@ -9975,5 +9975,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/6994",
     "passage": ""
+  },
+  {
+    "id": 6995,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The computer that functions by taking discrete numbers and performing mathematical calculations is called?",
+    "options": {
+      "A": "mainframe",
+      "B": "digital",
+      "C": "hybride",
+      "D": "analogue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A digital computer processes information in discrete form, using digits or symbols—specifically the binary digits 0 and 1—and carries out mathematical and logical operations by manipulating these discrete values.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/6995",
+    "passage": ""
   }
 ]
