@@ -1889,5 +1889,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1029",
     "passage": ""
+  },
+  {
+    "id": 1030,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The group of states that conceived the idea of the United Nations Organization included",
+    "options": {
+      "A": "the USSR,Italy,the UK and China",
+      "B": "Italy,the UK, France and Japan",
+      "C": "the USA,the USSR,the UK and China",
+      "D": "France,the USA,Canada and Japan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1030",
+    "passage": ""
   }
 ]
