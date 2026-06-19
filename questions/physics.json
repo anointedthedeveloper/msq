@@ -15581,5 +15581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24172",
     "passage": ""
+  },
+  {
+    "id": 24173,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "What is the difference between a crystalline and an amorphous solid? A crystalline solid",
+    "options": {
+      "A": "has cubic structure while amorphous solid has hexagonal structure",
+      "B": "has regularly-repeating pattern while an amorphous solid has not",
+      "C": "is white while amorphous solid is yellow",
+      "D": "is always hard while amorphous solid is always soft",
+      "E": "melts on heating while an amorphous solid sublimates on heating."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24173",
+    "passage": ""
   }
 ]
