@@ -12883,5 +12883,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/72606",
     "passage": ""
+  },
+  {
+    "id": 72607,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the  immune system cells does HIV target or attack",
+    "options": {
+      "A": "B-cell",
+      "B": "T-cell",
+      "C": "NK cell",
+      "D": "Red blood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "HIV primarily targets and attacks T-cells, which are a type of white blood cell crucial for the immune system. The destruction of these cells impairs the body's ability to fight infection",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/72607",
+    "passage": ""
   }
 ]
