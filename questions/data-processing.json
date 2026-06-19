@@ -7579,5 +7579,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69774",
     "passage": ""
+  },
+  {
+    "id": 69775,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The volume of data that can be sent from one point to another in a given time period is called",
+    "options": {
+      "A": "broadband",
+      "B": "byte",
+      "C": "baud",
+      "D": "bandwidth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The volume of data that can be sent from one point to another in a given time period is called bandwidth. Bandwidth refers to the capacity of a communication channel to transmit data, typically measured in bits per second (bps) or its multiples like kilobits per second (Kbps), megabits per second (Mbps), and so on. It represents how much data can be transmitted over a network connection within a specific time frame. Baud is a unit of data signaling rate, or the number of times per second that a signal changes state. Byte is a unit of digital information, equal to 8 bits. Broadband is a high-speed data transmission medium that can carry multiple signals simultaneously.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69775",
+    "passage": ""
   }
 ]
