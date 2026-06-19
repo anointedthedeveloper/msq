@@ -15713,5 +15713,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24246",
     "passage": ""
+  },
+  {
+    "id": 24247,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A body accelerates uniformly from rest at the rate of 3 m/s\\(^2\\) for 8 seconds. Calculate the distance covered by the body during the acceleration?",
+    "options": {
+      "A": "12m",
+      "B": "24m",
+      "C": "48m",
+      "D": "72m",
+      "E": "96m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "S = Ut + \\(\\frac{1}{2}\\) at\\(^2\\)\nbut U = 0; from rest\nS =  \\(\\frac{1}{2}\\) at\\(^2\\)\nS = \\(\\frac{3 \\times 8^2}{2}\\) S = 96m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24247",
+    "passage": ""
   }
 ]
