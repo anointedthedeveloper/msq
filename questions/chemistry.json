@@ -2958,5 +2958,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1580",
     "passage": ""
+  },
+  {
+    "id": 1581,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Four elements W , X , Y and Z have atomic number 2,6,16 and 20 respectively. Which of these elements is a metal?",
+    "options": {
+      "A": "X",
+      "B": "W",
+      "C": "Z",
+      "D": "Y"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Element Z has electronic configuration of  2, 8, 8, 2. This implies it's in group 2 (Alkaline earth metals). Actually, the element is most likely to be Calcium with an atomic number of 20. The correct answer is option C\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1581",
+    "passage": ""
   }
 ]
