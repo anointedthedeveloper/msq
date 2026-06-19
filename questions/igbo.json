@@ -3776,5 +3776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73973",
     "passage": ""
+  },
+  {
+    "id": 73974,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Ụdaụme Igbo ọ dị ọle?",
+    "options": {
+      "A": "Abụọ",
+      "B": "Iri abụọ na asatọ",
+      "C": "Itoọlụ",
+      "D": "Asatọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The answer is Asatọ. The question asks, \"Igbo vowels are how many in number?\" and the answer is Asatọ, which means 8. Note: Ụdaụme Igbo means \"Igbo vowels\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73974",
+    "passage": ""
   }
 ]
