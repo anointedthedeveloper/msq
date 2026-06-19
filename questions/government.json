@@ -2225,5 +2225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1197",
     "passage": ""
+  },
+  {
+    "id": 1199,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The independence of the Judiciary can be undermined through the",
+    "options": {
+      "A": "politicization of the appointment of judges",
+      "B": "appointment of the minister of justice as the Attorney-General",
+      "C": "confirmation of the appointment of judges by the legislature",
+      "D": "payment of the salaries of judicial officers by the government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Independence of the judiciary has to do with the idea that courts should be separated from the Executive and Legislative arm of government. This independence is important to aid the judges to remain impartial to serve the constitution, act fairly, reasonably, free of any fear or favor.\nOne way to ensure the independence of the judiciary is by not politicizing the appointments of judges. Judges should be non partisan and their appointments shouldn't be based off political affiliations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1199",
+    "passage": ""
   }
 ]
