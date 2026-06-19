@@ -11805,5 +11805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14493",
     "passage": ""
+  },
+  {
+    "id": 14494,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "\\(^{14}_7\\)N + \\(^4_2\\)He  → \\(^{17}_8\\)O + X\nIn the equation above, the particles X is?",
+    "options": {
+      "A": "a proton",
+      "B": "a neutron",
+      "C": "an α - particle",
+      "D": "a β - particle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "for the conversion of mass 14 + 4 = 17 + x ∴ X = 18 - 17 = 1 for conservation pf charge:7 + 2 = 8 + y y = 9 - 8 = 1 Thus, the element is 11X which is equal to hydrogen nucleus ( proton)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14494",
+    "passage": ""
   }
 ]
