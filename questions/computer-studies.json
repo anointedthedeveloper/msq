@@ -4730,5 +4730,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62292",
     "passage": ""
+  },
+  {
+    "id": 62293,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The number of cells that contain numeric data in the table above is?",
+    "options": {
+      "A": "4",
+      "B": "8.",
+      "C": "9.",
+      "D": "12."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/gtmmLQ7XsEDBjxgh8m4S7JUd9NohW8cvfRkzPZGd.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901947/myschool/computer-studies/gtmmLQ7XsEDBjxgh8m4S7JUd9NohW8cvfRkzPZGd.jpg",
+    "correct_answer": "C",
+    "explanation": "Nine cells contain numeric data only.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62293",
+    "passage": ""
   }
 ]
