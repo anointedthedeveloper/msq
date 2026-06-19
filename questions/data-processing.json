@@ -9050,5 +9050,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72370",
     "passage": ""
+  },
+  {
+    "id": 72371,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The entities in the figure above are named",
+    "options": {
+      "A": "RegNo, Name and Age",
+      "B": "Musa, Uche and Bayo",
+      "C": "Student and Subject",
+      "D": "Maths, Eng and DP"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3hxy9mV5WVR2TZuwWw8E03tRWN1KEkiq2L9DMonS.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912370/myschool/data-processing/3hxy9mV5WVR2TZuwWw8E03tRWN1KEkiq2L9DMonS.jpg",
+    "correct_answer": "C",
+    "explanation": "An entity is a table or collection of data that represents a real-world object or concept. Student and subject are entities.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72371",
+    "passage": ""
   }
 ]
