@@ -12855,5 +12855,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22645",
     "passage": ""
+  },
+  {
+    "id": 22646,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In a class of 80 students, every students had to study economics or geography, or both economics and geography, if 65 students studied economics and 50 studied geography, how many studied both subjects?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "35",
+      "D": "45",
+      "E": "50"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22646",
+    "passage": ""
   }
 ]
