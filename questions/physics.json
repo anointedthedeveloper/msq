@@ -8797,5 +8797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14151",
     "passage": ""
+  },
+  {
+    "id": 14156,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A plastic sphere floats in water with 50% of its volume submerged. if it floats in glycerine with 40% of its volume submerged,the density of the glycerine is?",
+    "options": {
+      "A": "1400 kgm -3",
+      "B": "1250 kgm -3",
+      "C": "500 kgm -3",
+      "D": "1000 kgm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Weight of glycerine displaced = weight of water dispalced Mgh glycerine = Mgh water Pvgh glycerine = Pvgh water 0.4V P glycerine = (0.5v)/v.4v P water = 1.25 (Polycerine)/p water = But density of substance = relative density x density of water = 1. 25 x 1000kgm3 = 1250kgm-3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14156",
+    "passage": ""
   }
 ]
