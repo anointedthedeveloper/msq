@@ -108,5 +108,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/37",
     "passage": ""
+  },
+  {
+    "id": 45,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The children of Israel asked Samuel for a king because",
+    "options": {
+      "A": "It was in their constitution",
+      "B": "Their former kind was killed in battle",
+      "C": "They desired to be like the heathen nations around them",
+      "D": "They were tired of military regime",
+      "E": "Samuel wanted to contest the election"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The request for a king by the children of Israel is found in 1 Samuel 8. In this passage, the people express their desire to have a king like the surrounding nations. They wanted to be led by a visible, earthly king instead of relying solely on the leadership of judges and on God as their ultimate authority. Samuel, the prophet, was displeased with their request, but God instructed him to grant their desire.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/45",
+    "passage": ""
   }
 ]
