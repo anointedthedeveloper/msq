@@ -10427,5 +10427,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62766",
     "passage": ""
+  },
+  {
+    "id": 62767,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Digital signals can be represented by:\nI. Binary Codes\nIl.0 and 1\nIII. High and Low Which of the following options is correct?",
+    "options": {
+      "A": "l and Il only",
+      "B": "I and lIl only",
+      "C": "II and lIl only",
+      "D": "I, Il and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Digital signals can be represented by binary codes (I), the digits 0 and 1 (II), and high and low states (III).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62767",
+    "passage": ""
   }
 ]
