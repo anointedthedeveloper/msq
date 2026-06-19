@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50131",
     "passage": ""
+  },
+  {
+    "id": 50133,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In a democracy, official opposition is allowed to",
+    "options": {
+      "A": "bring down the government",
+      "B": "pave way for military intervention",
+      "C": "make government accountable",
+      "D": "encourage crises in the state"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Opposition represents an alternative government, and is responsible for challenging the policies of the government and producing different policies where appropriate. The Opposition's main role is to question the government of the day and hold them accountable to the public.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50133",
+    "passage": ""
   }
 ]
