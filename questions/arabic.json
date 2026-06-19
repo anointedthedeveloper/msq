@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75284",
     "passage": ""
+  },
+  {
+    "id": 75287,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع الكلمة \"ذلك\"؟",
+    "options": {
+      "A": "اسم استفهام",
+      "B": "اسم موصول",
+      "C": "ظرف مكان",
+      "D": "اسم إشارة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"áls\" means \"that\" and is a demonstrative pronoun.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75287",
+    "passage": ""
   }
 ]
