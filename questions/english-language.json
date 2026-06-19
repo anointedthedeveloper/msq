@@ -8709,5 +8709,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3657",
     "passage": ""
+  },
+  {
+    "id": 3878,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or words which best completes each sentence : I've lived .... this street .... ten years.",
+    "options": {
+      "A": "at, since",
+      "B": "for, during",
+      "C": "on, for",
+      "D": "on ,from",
+      "E": "in, for"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "We use on with streets: on this street on Allen Avenue We use for to show a period or duration of time: for ten years for two weeks",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3878",
+    "passage": ""
   }
 ]
