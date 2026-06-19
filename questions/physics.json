@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/297",
     "passage": ""
+  },
+  {
+    "id": 302,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Particles of mass 10\\(^{-2}\\)kg is fixed to the tip of a fan blade which rotates with angular velocity of 100rad-1. If the radius of the blade is 0.2m, the centripetal force is",
+    "options": {
+      "A": "2 N",
+      "B": "20 N",
+      "C": "200 N",
+      "D": "400 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Centripetal Force (F\\(_c\\)) = \\(\\frac{mv ^2}{r}\\)\n= \\(mω^2r\\)\n(Since V = ωr)\nF = 0.01 x \\(100^2 \\times 0.2 \\) F = 20 N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/302",
+    "passage": ""
   }
 ]
