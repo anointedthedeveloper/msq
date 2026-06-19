@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75296",
     "passage": ""
+  },
+  {
+    "id": 75298,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أي من هذه أدوات شرط؟",
+    "options": {
+      "A": "إذا",
+      "B": "إن",
+      "C": "جميع ما سبق",
+      "D": "متى"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All are conditional particles used in conditional sentences.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75298",
+    "passage": ""
   }
 ]
