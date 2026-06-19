@@ -20864,5 +20864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76888",
     "passage": ""
+  },
+  {
+    "id": 76889,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In word processing, the icon in Fig. 4 is used for",
+    "options": {
+      "A": "numbering",
+      "B": "line spacing",
+      "C": "bulleting",
+      "D": "paging"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ENOIuFPC4y62HjVFx8xqMXBwTT5pWemvTlAKJQU4.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905195/myschool/computer-studies/ENOIuFPC4y62HjVFx8xqMXBwTT5pWemvTlAKJQU4.png",
+    "correct_answer": "A",
+    "explanation": "The icon depicted in Figure 4 is commonly used in word processing applications to insert numbered lists. This feature allows users to automatically assign sequential numbers to items within a list, enhancing readability and organization.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76889",
+    "passage": ""
   }
 ]
