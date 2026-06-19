@@ -5144,5 +5144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1993",
     "passage": ""
+  },
+  {
+    "id": 1995,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A console is a device used in",
+    "options": {
+      "A": "moving an indicator on the screen",
+      "B": "communicating between operator and programmer",
+      "C": "holding magnetic tape reel",
+      "D": "forming characters by heating sensitive ribbon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1995",
+    "passage": ""
   }
 ]
