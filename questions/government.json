@@ -4769,5 +4769,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1857",
     "passage": ""
+  },
+  {
+    "id": 1860,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In a first-past-the-post electoral system, a candidate is declared when he",
+    "options": {
+      "A": "records the highest number of votes cast",
+      "B": "obtains a two-thirds majority of the votes cast",
+      "C": "obtains one-third of the votes cast",
+      "D": "scors the aggregates of the opponent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1860",
+    "passage": ""
   }
 ]
