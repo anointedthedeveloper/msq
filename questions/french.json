@@ -4204,5 +4204,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75409",
     "passage": ""
+  },
+  {
+    "id": 75410,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Lequel de ces noms est une ville française ?",
+    "options": {
+      "A": "Abidjan",
+      "B": "Lyon",
+      "C": "Cotonou",
+      "D": "Lomé"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Lyon is a major city in France known for its history.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75410",
+    "passage": ""
   }
 ]
