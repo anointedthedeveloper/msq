@@ -8734,5 +8734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14143",
     "passage": ""
+  },
+  {
+    "id": 14146,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If a heavy barrel is rolled up a plane inclined at 30° to the horizontal. its velocity ratio will be?",
+    "options": {
+      "A": "3.0",
+      "B": "3.1",
+      "C": "3.2",
+      "D": "2.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V.R = \\(\\frac{1}{sin θ }\\)\n= \\(\\frac{1}{sin 30°}\\)\n= \\(\\frac{1}{0.5}\\)\n= 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14146",
+    "passage": ""
   }
 ]
