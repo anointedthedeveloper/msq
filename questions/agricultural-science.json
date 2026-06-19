@@ -2154,5 +2154,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16005",
     "passage": ""
+  },
+  {
+    "id": 16006,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following breeds of cattle is regarded as the best dairy breed in Nigeria?",
+    "options": {
+      "A": "red bororo",
+      "B": "keteku",
+      "C": "sokoto gudali",
+      "D": "muturu",
+      "E": "white fulani"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16006",
+    "passage": ""
   }
 ]
