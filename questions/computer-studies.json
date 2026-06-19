@@ -17460,5 +17460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69838",
     "passage": ""
+  },
+  {
+    "id": 69839,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The command used to seek for assistance in Microsoft disk operating system is",
+    "options": {
+      "A": "Attrib",
+      "B": "/S",
+      "C": "/?",
+      "D": "Helper."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The command used to seek for assistance in Microsoft Disk Operating System (DOS) is \"/?\". The /? switch is a universal switch that can be used with most MS-DOS commands to get help about the command. To use the /? switch, simply type the command followed by the /? switch and press Enter. For example, to get help about the attrib command, you would type: attrib /? This will display a help screen that describes the attrib command and its options. The other options are incorrect. Helper is not a valid MS-DOS command. Attrib is a command that is used to change the attributes of files. /S is a switch that is used to specify that the command should be applied to all files in a directory and its subdirectories.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69839",
+    "passage": ""
   }
 ]
