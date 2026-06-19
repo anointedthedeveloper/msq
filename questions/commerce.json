@@ -2161,5 +2161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1410",
     "passage": ""
+  },
+  {
+    "id": 1412,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1997",
+    "question": "Bank giro is a system where?",
+    "options": {
+      "A": "commercial banks can give loan to all customers",
+      "B": "a central bank opens account for commercial banks",
+      "C": "a customer uses cheque to pay serveral bills",
+      "D": "a customer closes his account by writting cheque"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1412",
+    "passage": ""
   }
 ]
