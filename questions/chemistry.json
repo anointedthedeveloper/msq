@@ -6465,5 +6465,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2940",
     "passage": ""
+  },
+  {
+    "id": 2941,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Transition metals possess variable oxidation states because they have",
+    "options": {
+      "A": "Electrons in the d orbitals",
+      "B": "Electron in the s orbitals",
+      "C": "A variable number of electrons in the p orbitals",
+      "D": "Partially filled p orbitals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Transition metals have variable oxidation states because their valence electrons are in the d-orbitals with similar energies, allowing them to be used for bond formation in multiple ways. Transition metals have partially filled d-orbitals in their outer electron shell.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2941",
+    "passage": ""
   }
 ]
