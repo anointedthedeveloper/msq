@@ -15874,5 +15874,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7615",
     "passage": ""
+  },
+  {
+    "id": 7616,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The price quoted which includes the cost of insurance, freight and all delivery charges to the importer's warehouse is?",
+    "options": {
+      "A": "Free Alongside Ship",
+      "B": "Franco",
+      "C": "Free On Board",
+      "D": "Free On Rail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Free On Board, in short FOB, is a term frequently used in shipping terms where the seller quotes a price including the cost of delivering goods to the nearest port.  In simple terms, FOB price means the buyer has to bear the shipping costs completely.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7616",
+    "passage": ""
   }
 ]
