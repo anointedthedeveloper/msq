@@ -13755,5 +13755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7367",
     "passage": ""
+  },
+  {
+    "id": 7369,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Which software program can be used to generate financial reports from a company's client list?",
+    "options": {
+      "A": "MS Word",
+      "B": "Database",
+      "C": "MS Excel",
+      "D": "Adobe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "MS Excel uses a collection of cells arranged into rows and columns to organize and manipulate financial or arithmetic data. It is typically used to organize data and perform financial analysis. It is used across all business functions and at companies from small to large.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7369",
+    "passage": ""
   }
 ]
