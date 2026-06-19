@@ -16811,5 +16811,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23460",
     "passage": ""
+  },
+  {
+    "id": 23461,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "Express in \\( \\frac{8.75}{0.025} \\)standard form",
+    "options": {
+      "A": "3.5 x 10 -3",
+      "B": "3.5 x 10 -2",
+      "C": "3.5 x 10 1",
+      "D": "3.5 x 10 2",
+      "E": "3.5 x 10 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{8.75}{0.025}\\)\n= \\(\\frac{8750}{25}\\)\n= \\(350\\)\n= \\(3.5 \\times 10^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23461",
+    "passage": ""
   }
 ]
