@@ -16284,5 +16284,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67836",
     "passage": ""
+  },
+  {
+    "id": 67837,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the shortcut for performing warm booting ?",
+    "options": {
+      "A": "y pressing the Ctrl + Alt keys simultaneously",
+      "B": "y pressing the Ctrl + Alt + F1 keys simultaneously",
+      "C": "y pressing the Ctrl + Del keys simultaneously",
+      "D": "by pressing the Ctrl + Alt + Del keys simultaneously"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Warm booting refers to the process of restarting a computer system which is already on. This can be done by pressing the Ctrl + Alt + Del keys simultaneously. This is a common shortcut for warm booting in many operating systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67837",
+    "passage": ""
   }
 ]
