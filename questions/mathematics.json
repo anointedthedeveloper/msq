@@ -2308,5 +2308,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2880",
     "passage": ""
+  },
+  {
+    "id": 3335,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Find the derivative of \\(y = \\sin^{2} (5x)\\) with respect to x.",
+    "options": {
+      "A": "10 sin 5x cos 5x",
+      "B": "5 sin5x cos 5x",
+      "C": "2 sin 5x cos 5x",
+      "D": "15 sin 5x cos 5x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(y = \\sin^{2} (5x)\\)\nLet u = sin 5x\n\\(\\frac{\\mathrm d u}{\\mathrm d x} = 5 \\cos 5x\\)\n\\(\\therefore y = u^{2}\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d u} = 2u\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2u . 5 \\cos 5x\\)\n= \\(10u \\cos 5x\\)\n= \\(10 \\sin 5x \\cos 5x\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3335",
+    "passage": ""
   }
 ]
