@@ -3394,5 +3394,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58449",
     "passage": ""
+  },
+  {
+    "id": 58450,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One responsible way of using the computer is",
+    "options": {
+      "A": "software piracy",
+      "B": "phishing",
+      "C": "pharming",
+      "D": "ethical hacking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ethical hacking: this practice focuses on identifying and fixing security vulnerabilities in systems while ensuring compliance and safety, making it a responsible use of computer skills.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58450",
+    "passage": ""
   }
 ]
