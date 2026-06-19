@@ -8524,5 +8524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14078",
     "passage": ""
+  },
+  {
+    "id": 14081,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Caesium has a work function of 3 x 10\\(^{-19}\\)J. The maximum energy of liberated electrons when it is illuminated by light of frequency 6.7 x 10\\(^{14}\\) HZ is?  [h = 6.6 x 10\\(^{-34}\\)Js]",
+    "options": {
+      "A": "1.42 x 10 -19 J",
+      "B": "3.00 x 10 -19 J",
+      "C": "4.42 x 1010 -19 J",
+      "D": "7.42 x 10 -19 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Max kinetic energy = Energy of incident electron - work function. EK = hf - w = 6.6 x 10-34 x 6.7 x 1014 - 3 x 10-19 = 4.422 x 10-19 - 3 x 10-19 = 1.422 x 10-19J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14081",
+    "passage": ""
   }
 ]
