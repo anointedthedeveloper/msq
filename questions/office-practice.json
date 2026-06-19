@@ -3446,5 +3446,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75941",
     "passage": ""
+  },
+  {
+    "id": 75942,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A few copies of a written message to all members of staff in a large organization could be posted on",
+    "options": {
+      "A": "billboards",
+      "B": "notice boards",
+      "C": "magic boards",
+      "D": "Signboards"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Notice boards are typically used in large organizations to post written messages for all staff members to see. They are usually placed in common areas where they are easily visible. Billboards are large outdoor boards for displaying advertisements, and magic boards are interactive whiteboards used for presentations. Signboards are used to display information or directions, but they are not typically used to post messages for staff members.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75942",
+    "passage": ""
   }
 ]
