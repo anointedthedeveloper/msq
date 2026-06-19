@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75313",
     "passage": ""
+  },
+  {
+    "id": 75315,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What technique is primarily used in producing bronze sculptures in Benin art?",
+    "options": {
+      "A": "Glazing",
+      "B": "Wood carving",
+      "C": "Stone sculpting",
+      "D": "Lost-wax casting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Benin bronze artists used the lost-wax method to achieve fine details.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75315",
+    "passage": ""
   }
 ]
