@@ -1230,5 +1230,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15899",
     "passage": ""
+  },
+  {
+    "id": 15900,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following is not a source of farm credit?",
+    "options": {
+      "A": "cooperative societies",
+      "B": "government agencies",
+      "C": "commercial banks",
+      "D": "agricultural banks",
+      "E": "mortgage banks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15900",
+    "passage": ""
   }
 ]
