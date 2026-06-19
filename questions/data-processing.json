@@ -7336,5 +7336,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67155",
     "passage": ""
+  },
+  {
+    "id": 67156,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following practices is a safety measure?",
+    "options": {
+      "A": "Maintaining a dust-free environment",
+      "B": "Eating and typing at the same time",
+      "C": "Opening up the computer while still connected to the power supply",
+      "D": "Wearing hand gloves while typing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Maintaining a dust-free environment is the only safety measure practice among the options",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67156",
+    "passage": ""
   }
 ]
