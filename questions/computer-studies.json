@@ -15549,5 +15549,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67776",
     "passage": ""
+  },
+  {
+    "id": 67777,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The process of finding and correcting errors in the program code is called ?",
+    "options": {
+      "A": "testing",
+      "B": "Debugging",
+      "C": "Editing",
+      "D": "coding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Debugging is the process of finding and correcting errors in the program code. It involves identifying, isolating, and fixing the problems or bugs in computer program code. The other options do not accurately describe this process. Editing is the process of making changes to the code, but it does not necessarily involve finding and correcting errors. Coding is the process of writing the code, and testing is the process of checking the code to see if it works as expected.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67777",
+    "passage": ""
   }
 ]
