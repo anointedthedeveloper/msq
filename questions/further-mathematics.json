@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50317",
     "passage": ""
+  },
+  {
+    "id": 50318,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(4x^{2} + 5kx + 10\\) is a perfect square, find the value of k.",
+    "options": {
+      "A": "\\(\\frac{5\\sqrt{10}}{4}\\)",
+      "B": "\\(4\\sqrt{10}\\)",
+      "C": "\\(5\\sqrt{10}\\)",
+      "D": "\\(\\frac{4\\sqrt{10}}{5}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(4x^{2} + 5kx + 10 = (2x + \\sqrt{10})^{2}\\)\nExpanding the right hand side equation, we have\n\\(4x^{2} + 4x\\sqrt{10} + 10\\)\nComparing with the left hand side, we have\n\\(5k = 4\\sqrt{10}  \\implies k = \\frac{4}{5}\\sqrt{10}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50318",
+    "passage": ""
   }
 ]
