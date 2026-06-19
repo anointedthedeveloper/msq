@@ -668,5 +668,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49625",
     "passage": ""
+  },
+  {
+    "id": 49627,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following statements about ovulation in rabbits is correct?",
+    "options": {
+      "A": "Eggs are released every 21 days",
+      "B": "Eggs are released every 26 days",
+      "C": "Eggs are released in the absence of  a buck",
+      "D": "Eggs are released in the presence of a buck"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rabbits are induced ovulators, meaning that ovulation occurs in response to mating. The presence of a buck stimulates the release of eggs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49627",
+    "passage": ""
   }
 ]
