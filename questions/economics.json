@@ -2725,5 +2725,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2357",
     "passage": ""
+  },
+  {
+    "id": 2358,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The value of money depends primarily on?",
+    "options": {
+      "A": "the gold backing of the currency",
+      "B": "the gold backing of both currency and deposit",
+      "C": "the general price level",
+      "D": "government decree that it is legal tender",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2358",
+    "passage": ""
   }
 ]
