@@ -7717,5 +7717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76193",
     "passage": ""
+  },
+  {
+    "id": 76194,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace irin waka ce ke amfani da abubuwan kida da rawa?",
+    "options": {
+      "A": "Wakar Fada",
+      "B": "Wakar Zamani",
+      "C": "Wakar Baka",
+      "D": "Wakar Gargajiya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Wakar gargajiya tana amfani da kida da rawa domin isar da sao.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76194",
+    "passage": ""
   }
 ]
