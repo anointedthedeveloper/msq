@@ -1729,5 +1729,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48194",
     "passage": ""
+  },
+  {
+    "id": 48195,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Quelle est la lecture normale de cette expression?",
+    "options": {
+      "A": "un à/un",
+      "B": "un à un",
+      "C": "un/à un",
+      "D": "un/à/un"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48195",
+    "passage": ""
   }
 ]
