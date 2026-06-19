@@ -14044,5 +14044,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12858",
     "passage": ""
+  },
+  {
+    "id": 12860,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "Fe\\(_2\\)O\\(_{3(s)}\\) + 2Al\\(_{(s)}\\) → Al\\(_2\\)O\\(_3\\) + 2Fe\\(_{(s)}\\). If the heats of formation of Al\\(_2\\)O\\(_3\\) and Fe\\(_2\\)O\\(_3\\) are - 1670 kJmol\\(^{-1}\\) and - 822 kJmol\\(^{-1}\\) respectively, the enthalpy change in kJ for the reaction is ?",
+    "options": {
+      "A": "+2492",
+      "B": "+848",
+      "C": "-848",
+      "D": "-2492"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Heat of formation = Heat of products - Heat of reactants\n= - 1670 - (- 822)\n= - 1670 + 822\n= - 848 kJ",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12860",
+    "passage": ""
   }
 ]
