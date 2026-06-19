@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49710",
     "passage": ""
+  },
+  {
+    "id": 49713,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "car plying the road seeking passengers for payment of fares are classified by insurers as?",
+    "options": {
+      "A": "private motor",
+      "B": "commercial vehicle",
+      "C": "motor trade",
+      "D": "general cartage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A commercial vehicle is any type of motor vehicle used for transporting goods or transporting paying passengers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49713",
+    "passage": ""
   }
 ]
