@@ -1142,5 +1142,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/538",
     "passage": ""
+  },
+  {
+    "id": 541,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nGranted you are my senior by one year, you cannot .... me around as if i were your servant",
+    "options": {
+      "A": "control",
+      "B": "dribble",
+      "C": "order",
+      "D": "ask",
+      "E": "compel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/541",
+    "passage": ""
   }
 ]
