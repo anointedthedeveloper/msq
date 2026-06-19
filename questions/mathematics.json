@@ -16110,5 +16110,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23204",
     "passage": ""
+  },
+  {
+    "id": 23205,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In the diagram, PQR is a tangent to the circle QST at Q. If |QT| = |ST| and ∠SQR = 68°, find ∠PQT.",
+    "options": {
+      "A": "34 o",
+      "B": "48 o",
+      "C": "56 o",
+      "D": "68 o",
+      "E": "73 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/hd6TiJyUH0XRLgFaGJSF9AB3vxHgpNTu8ujMXQvL.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910097/myschool/mathematics/hd6TiJyUH0XRLgFaGJSF9AB3vxHgpNTu8ujMXQvL.png",
+    "correct_answer": "C",
+    "explanation": "< STQ = < SQR = 68° (alternate segment)\n\\(\\therefore\\) < STQ = 68°\n< TQS = \\(\\frac{180° - 68°}{2}\\)\n= \\(\\frac{112}{2} = 56°\\)\n\\(\\therefore\\) < PQT = 180° - (68° + 56°)\n= 180° - 124°\n= 56°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23205",
+    "passage": ""
   }
 ]
