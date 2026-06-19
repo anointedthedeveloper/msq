@@ -10795,5 +10795,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14386",
     "passage": ""
+  },
+  {
+    "id": 14387,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The fundamental frequency of a plucked wire under a tension of 400N is 250Hz. When the frequency is changed to 500 Hz at constant length, the tension is",
+    "options": {
+      "A": "1600N",
+      "B": "400N",
+      "C": "160N",
+      "D": "40N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "=> F = K √T\n∴ F 1 = F 2 => 250 = 500 √T 1 √T 2 √400 √T 2\n∴√T 2 = 500 √400 = 2 x 20 250\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14387",
+    "passage": ""
   }
 ]
