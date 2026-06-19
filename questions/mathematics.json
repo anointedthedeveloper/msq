@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/567",
     "passage": ""
+  },
+  {
+    "id": 573,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Simplify \\(\\frac{3(2^{n+1}) - 4(2^{n-1})}{2^{n+1} - 2^n}\\)",
+    "options": {
+      "A": "2 n+1",
+      "B": "2 n-1",
+      "C": "4",
+      "D": "1/4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Start by expanding \\(\\frac{3(2^{n+1}) - 4(2^{n-1})}{2^{n+1} - 2^n}\\):\n\\(\\frac{3 \\times 2^n \\times 2^1 - 2^2 \\times 2^n \\times 2^{-1}}{2^n \\times 2 - 2^n}\\)\nNUMERATOR : 2\\(^n\\) (  3\\(^1\\) X 2\\(^1\\)  -  2\\(^2\\) X 2\\(^{-1}\\) )\n--> 2\\(^n\\) ( 3 X 2 — 4 X \\(\\frac{1}{2}\\) )\n--> 2\\(^n\\) ( 6 - 2 )\n--> 2\\(^n\\) (4)\nDENOMINATOR : 2\\(^n\\) ( 2\\(^1\\)  -  1 )\n--> 2\\(^n\\) ( 2 - 1)\n--> 2\\(^n\\)\n⇒ \\(\\frac{2^n ( 4)}{2^n}\\)\n= 4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/573",
+    "passage": ""
   }
 ]
