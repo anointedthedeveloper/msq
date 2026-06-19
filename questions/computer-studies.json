@@ -1845,5 +1845,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61419",
     "passage": ""
+  },
+  {
+    "id": 61420,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The screen background where icons and windows are displayed is GUI is called",
+    "options": {
+      "A": "explorer",
+      "B": "desktop",
+      "C": "opening screen",
+      "D": "homepage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A desktop is a computer screen where you can see symbols (icons) showing the programs, etc. that are available for use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61420",
+    "passage": ""
   }
 ]
