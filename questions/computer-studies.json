@@ -12649,5 +12649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64347",
     "passage": ""
+  },
+  {
+    "id": 64348,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computer softwares like ios, Ubuntu, Chrome OS, are classified as ___________",
+    "options": {
+      "A": "Computer utilities",
+      "B": "System software",
+      "C": "Computer application",
+      "D": "Application package"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All applications listed are examples of system software, because they are all operating system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64348",
+    "passage": ""
   }
 ]
