@@ -15223,5 +15223,26 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7542"
+  },
+  {
+    "id": 7565,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A prerequisite for admission into the Second Tier Securities Market is for a company to?",
+    "options": {
+      "A": "make 20% of its equity share available to the public for subscription",
+      "B": "have a minimum of 100 shareholders",
+      "C": "have a maximum of 100 shareholders",
+      "D": "make 10% of its equity share available  to the public for subscription"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Second-Tier Securities Market (SSM); A second market established by The Stock Exchange in Lagos in 1985 to list the securities of smaller companies which are unable to meet the requirements for listing on the more stringent segment (main market) of the Exchange.\nRequirements for trading in a second - tier security market\nThe company must be incorporated as a public limited company. The shareholders must not be less than 100. The company must sign a general undertaking with the stock exchange market.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7565",
+    "passage": ""
   }
 ]
