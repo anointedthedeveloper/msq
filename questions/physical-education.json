@@ -3400,5 +3400,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68314",
     "passage": ""
+  },
+  {
+    "id": 68315,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are key locomotor skills except",
+    "options": {
+      "A": "crawling",
+      "B": "climbing",
+      "C": "singing",
+      "D": "walking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The key locomotor skills are walking, running, jumping, hopping, crawling, marching, climbing, galloping, sliding, leaping, hopping, and skipping. Singing is not a locomotor skill.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68315",
+    "passage": ""
   }
 ]
