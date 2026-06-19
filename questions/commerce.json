@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/172",
     "passage": ""
+  },
+  {
+    "id": 173,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Which of the following groups is paid first when a firm liquidates?",
+    "options": {
+      "A": "Preference shareholders",
+      "B": "Debenture holders",
+      "C": "Ordinary shareholders",
+      "D": "Cumulative preference shareholders"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/173",
+    "passage": ""
   }
 ]
