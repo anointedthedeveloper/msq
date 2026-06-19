@@ -11851,5 +11851,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64309",
     "passage": ""
+  },
+  {
+    "id": 64310,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "________ is the process of dividing the disk into tracks and sectors",
+    "options": {
+      "A": "Tracking",
+      "B": "Formatting",
+      "C": "Crashinng",
+      "D": "Allotting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Formatting. The process of dividing the disk into tracks and sectors is called formatting. In computer disk storage, a sector is a subdivision of a track on a magnetic disk or optical disc. When a disk undergoes a low-level format, it is divided into tracks and sectors.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64310",
+    "passage": ""
   }
 ]
