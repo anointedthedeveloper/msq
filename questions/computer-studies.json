@@ -1509,5 +1509,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61401",
     "passage": ""
+  },
+  {
+    "id": 61404,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use figure 4 to answer question 23\nThe basic problem with the flow chart is that it has",
+    "options": {
+      "A": "no direction",
+      "B": "no algorithm",
+      "C": "END is a process",
+      "D": "improper branch out"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/dRF24QtY3tNUbJStfUaj8g7MWwG5xgsnFOvYePuO.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781894016/myschool/computer-studies/dRF24QtY3tNUbJStfUaj8g7MWwG5xgsnFOvYePuO.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61404",
+    "passage": ""
   }
 ]
