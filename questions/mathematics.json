@@ -5773,5 +5773,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8696",
     "passage": ""
+  },
+  {
+    "id": 8697,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Find the value of x for which the function 3x\\(^3\\) - 9x\\(^2\\) is minimum",
+    "options": {
+      "A": "zero",
+      "B": "2",
+      "C": "3",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "y = 3x\\(^3\\) - 9x\\(^2\\) \\(\\frac{dy}{dx}\\) = 9x\\(^2\\) - 18x As \\(\\frac{dy}{dx}\\) = 0 9x\\(^2\\) - 18x = 0 9x(x-2) = 0 9x = 0 which implies x = 0 x - 2 = 0 implies x = 2 \\(\\frac{d^2y}{dx^2}\\) = 18x - 18 when x = 0 \\(\\frac{d^2y}{dx^2}\\) > 0 ∴ x is minimum when x = 2, \\(\\frac{d^2y}{dx^2}\\) = 18 ∴ the value > 0 x is minimum\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8697",
+    "passage": ""
   }
 ]
