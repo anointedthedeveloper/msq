@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50192",
     "passage": ""
+  },
+  {
+    "id": 50195,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "\\(\\alpha\\) and \\(\\beta\\) are the roots of the equation \\(2x^{2} - 3x + 4 = 0\\). Find \\(\\alpha + \\beta\\).",
+    "options": {
+      "A": "-2",
+      "B": "-\\(\\frac{3}{2}\\)",
+      "C": "\\(\\frac{3}{2}\\)",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\alpha + \\beta = \\frac{-b}{a}\\)\nFrom the equation, a = 2, b = -3 and c = 4\n\\(\\alpha + \\beta = \\frac{-(-3)}{2} = \\frac{3}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50195",
+    "passage": ""
   }
 ]
