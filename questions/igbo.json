@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73491",
     "passage": ""
+  },
+  {
+    "id": 73531,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Họpụta steeti na-esoghị n'ala Igbo ebe a",
+    "options": {
+      "A": "Imo",
+      "B": "Anambra",
+      "C": "Abịa",
+      "D": "Ebonyi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is Anambra. Họpụta steeti na-esoghị n'ala Igbo means \"Which state is the headquarters of th Igbo nation?\" in Igbo language. Anambra State is considered the cultural and political hub of the Igbo people, an it is home to many important Igbo cultural and historical sites.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73531",
+    "passage": ""
   }
 ]
