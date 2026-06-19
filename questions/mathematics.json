@@ -8545,5 +8545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9311",
     "passage": ""
+  },
+  {
+    "id": 9312,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If x = {n\\(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, Y = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5}, find x \\(\\cap\\) y.",
+    "options": {
+      "A": "{5,10}",
+      "B": "{5, 10, 15}",
+      "C": "{2, 5, 10}",
+      "D": "{5, 10, 15, 20}"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "X = {n(^2\\)+1:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5} Implies X = {2, 5, 10, 17, 26} i.e. put n= 1, 2, 3, 4 and 5 Y = {5n:n is a positive integer and 1 \\(\\leq\\) n \\(\\leq\\) 5} Put X = 1, 2, 3, 4, and 5 Y = {5, 10, 15, 20, 25} X \\(\\cap\\) Y = {2, 5, 10, 17, 26} \\(\\cap\\) {5, 10, 15, 20, 25} = {5, 10}\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9312",
+    "passage": ""
   }
 ]
