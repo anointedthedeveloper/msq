@@ -10267,5 +10267,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14338",
     "passage": ""
+  },
+  {
+    "id": 14339,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will?",
+    "options": {
+      "A": "be induced",
+      "B": "converge",
+      "C": "diverge",
+      "D": "remain constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Since the charged rod is not in contact with the electroscope, the leaves divergence will diverge.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14339",
+    "passage": ""
   }
 ]
