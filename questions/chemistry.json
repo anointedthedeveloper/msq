@@ -3504,5 +3504,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1726",
     "passage": ""
+  },
+  {
+    "id": 1727,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "During the vulcanization of rubber, sulphur is added to",
+    "options": {
+      "A": "Break down rubber polymer",
+      "B": "Lengthen the chain of rubber",
+      "C": "Bind rubber molecules together",
+      "D": "Act as a catalyst"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sulphur is added to rubber during vulcanization to create strong chemical bonds that improve the rubber's durability, strength, and elasticity. In other words it binds the molecules of rubber together\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1727",
+    "passage": ""
   }
 ]
