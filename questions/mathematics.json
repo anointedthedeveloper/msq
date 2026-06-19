@@ -2539,5 +2539,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3358",
     "passage": ""
+  },
+  {
+    "id": 3360,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The inverse function f(x) = 3x + 4 is",
+    "options": {
+      "A": "(x-4)/3",
+      "B": "(x-5)/5",
+      "C": "(x+3)/4",
+      "D": "(x+4)/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let y = f(x).\n\\(y = 3x + 4 \\implies x = \\frac{y - 4}{3}\\)\nReplace y with x.\n\\(y = \\frac{x - 4}{3} \\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3360",
+    "passage": ""
   }
 ]
