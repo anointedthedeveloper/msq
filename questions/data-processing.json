@@ -9650,5 +9650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77055",
     "passage": ""
+  },
+  {
+    "id": 77056,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The database design that consists of multiple tables that are linked together through matching data stored in each table is called a:",
+    "options": {
+      "A": "object oriented database",
+      "B": "relational data base",
+      "C": "network database",
+      "D": "hierarchical database"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The relational database model consists of tables with each table having rows and columns. Each row represents a record and data in columns represents fields. The tables are linked together via common fields, thus making it easy to access any data in the database tables (provided access is granted to the data). Any table can be accessed without having to go through a hierarchy. A table can be linked to any number of parent tables and a parent table can have any number of child tables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77056",
+    "passage": ""
   }
 ]
