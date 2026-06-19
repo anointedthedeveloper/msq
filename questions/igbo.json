@@ -1551,5 +1551,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73595",
     "passage": ""
+  },
+  {
+    "id": 73597,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ụdaụme Igbo ọ dị ọle?​​​​​​​",
+    "options": {
+      "A": "Abụọ",
+      "B": "Iri abụọ na asatọ",
+      "C": "Itoọlụ",
+      "D": "Asatọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is The question asks about how many vowels (Ụdaụme there are in Igbo). The Igbo alphabet has 8 vowels.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73597",
+    "passage": ""
   }
 ]
