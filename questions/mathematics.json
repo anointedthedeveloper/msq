@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/720",
     "passage": ""
+  },
+  {
+    "id": 721,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "if (x - 1), (x + 1) and (x - 2) are factors of the polynomial ax\\(^3\\) + bx\\(^2\\) + cx - 1, find a, b, c in that order.",
+    "options": {
+      "A": "-1/2, 1., 1/2",
+      "B": "1/2, 1, 1/2",
+      "C": "1/2, 1, -1/2",
+      "D": "1/2, -1, 1/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "This is a polynomial of the 3rd order, thus x should have three answers. Use the factors given to get values of x as 1, -1 and -2. Form three equations, and carry out elimination and subsequent substitution to get a = -1/2, b = 1, and c = 1/2\nEquate each factor to zero to get the values of x\nx-1 = 0, x = 1\nx +1 = 0, x = -1\nx - 2 = 0, x = 2\nsubstitute these value of x in the given equation\n\\(ax^3 + bx^2\\) + cx - 1\nwhen x = 1\n\\(ax^3 + bx^2\\) + cx - 1 = a + b + c - 1= 0 ------------------------(1)\nwhen x = -1\n\\(ax^3 + bx^2\\) + cx - 1 = -a + b - c - 1 = 0-------------------------(2)\nwhen x = 2\n\\(ax^3 + bx^2\\) + cx - 1 = 8a + 4b + 2c - 1 = 0 ----------------------(3)\nadd equations 1 and 2\na + b + c - 1= 0\n+  -a + b - c - 1 = 0\nb = 1\nput b = 1 into equation (1)\na + b + c - 1= 0 = a + 1 + c -1 = 0\na = - c\nput a = - c into equation(3)\n8a + 4b + 2c - 1 = 0,\n-8c + 4 + 2c - 1 = 0 ( b = 1 remember)\n-6c = -3\nc = \\(\\frac{-3}{-6}\\) = \\(\\frac{1}{2}\\)\nput c = \\(\\frac{1}{2}\\) and b = 1 into equation (1)\na + b + c - 1= 0\na + 1 +  \\(\\frac{1}{2}\\) - 1 = 0\na +  \\(\\frac{1}{2}\\) = 0\nthen a =  \\(\\frac{-1}{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/721",
+    "passage": ""
   }
 ]
