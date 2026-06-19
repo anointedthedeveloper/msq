@@ -7137,5 +7137,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2973",
     "passage": ""
+  },
+  {
+    "id": 2974,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The air around smelting industries is likely to contain",
+    "options": {
+      "A": "H 2 S, CO and N 2",
+      "B": "CO 2 , SO 3 and H 2",
+      "C": "H 2 , SO 2 and CO 2",
+      "D": "SO 2 , N 2 and CO 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Smelting is a process of applying heat and a chemical reducing agents to an ore to extract a desired product.\nThe reducing agent is commonly a fossil-fuel source of carbon, such as carbon monoxide from incomplete combustion of coke. The oxygen in the ore binds to carbon at high temperatures, as the chemical potential energy of the bonds in carbon dioxide (CO\\(_2\\)) is lower than that of the bonds in the ore. The main industrial uses include fossil fuel processing and ammonia production. Emerging uses for hydrogen include the use of fuel cells to generate electricity\nSulphide ores such as those commonly used to obtain copper, zinc or lead, are roasted before smelting in order to convert the sulphides to oxides, which are more readily reduced to the metal. Roasting heats the ore in the presence of oxygen from air, oxidizing the ore and liberating the sulphur as SO\\(_2\\) gas.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2974",
+    "passage": ""
   }
 ]
