@@ -4582,5 +4582,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75572",
     "passage": ""
+  },
+  {
+    "id": 75573,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Quelle est la capitale du Burkina Faso ?",
+    "options": {
+      "A": "Ouagadougou",
+      "B": "Kolkoro",
+      "C": "Abidjan",
+      "D": "Bouaké"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ouagadougou is the correct capital city of Burkina Faso",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75573",
+    "passage": ""
   }
 ]
