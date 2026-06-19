@@ -13361,5 +13361,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22690",
     "passage": ""
+  },
+  {
+    "id": 22691,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Use mathematical table to evaluate (cos40° - sin30°)",
+    "options": {
+      "A": "-0.2660",
+      "B": "-0.0266",
+      "C": "0.0266",
+      "D": "0.2660",
+      "E": "1.5320"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(cos 40° - sin 30°)\n= 0.7660 - 0.5\n= 0.2660",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22691",
+    "passage": ""
   }
 ]
