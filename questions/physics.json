@@ -10627,5 +10627,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14371",
     "passage": ""
+  },
+  {
+    "id": 14379,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A copper wire was subjected to a tensile stress of 7.7 x 10\\(^7\\). Calculate the strain of the wire. [Young modules = 1.1 x 10\\(^11\\) Nm\\(^{-2}\\)]",
+    "options": {
+      "A": "2. 0  x 10 -5",
+      "B": "7.0 x 10 -3",
+      "C": "7.0 x 10 -4",
+      "D": "2.2 x 10 -4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Young modules = \\( \\frac{\\text{Tensile stress}}{\\text{Tensile strain}}\\) = \\( 1.1 \\times 10^11 = \\frac{7.7 \\times 10^7}{\\text{Tensile Strain}} \\) ∴ Tensile strain = \\( \\frac{7.7 \\times 10^7}{1.1 \\times 10^{11}} \\) = \\( 7.0 \\times 10^{7-11} = 7.0 \\times 10^{-4} \\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14379",
+    "passage": ""
   }
 ]
