@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49690",
     "passage": ""
+  },
+  {
+    "id": 49693,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A general question in an insurance proposal form is",
+    "options": {
+      "A": "name of the proposal",
+      "B": "carriage of fare-paying passenger",
+      "C": "description of the proposers' premises",
+      "D": "methods of construction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Proposal (application) forms are questionnaires issued by the insurer to be completed by the proposer or his/her agent, which ask questions about the subject matter of cover. Since the insurer will use the information to assess a premium and set the terms and conditions of the policy, the prospective insured must disclose all the material circumstances, whether or not the proposal form asks for them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49693",
+    "passage": ""
   }
 ]
