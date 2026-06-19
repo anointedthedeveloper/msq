@@ -14922,5 +14922,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23150",
     "passage": ""
+  },
+  {
+    "id": 23151,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Solve the equation \\(\\frac{m}{3} + \\frac{1}{2} = \\frac{3}{4} + \\frac{m}{4}\\)",
+    "options": {
+      "A": "-3",
+      "B": "-2",
+      "C": "2",
+      "D": "3",
+      "E": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{m}{3} + \\frac{1}{2} = \\frac{3}{4} + \\frac{m}{4}\\)\n\\(\\frac{m}{3} - \\frac{m}{4} = \\frac{3}{4} - \\frac{1}{2}\\)\n\\(\\frac{m}{12} = \\frac{1}{4}\\)\n\\(4m = 12 \\implies m = 3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23151",
+    "passage": ""
   }
 ]
