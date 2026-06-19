@@ -7095,5 +7095,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2971",
     "passage": ""
+  },
+  {
+    "id": 2972,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "25cm\\(^3\\) of a mixture of noble gases was obtained from air after the removal of other constituents. What was the original volume of air?",
+    "options": {
+      "A": "2,500 cm 3",
+      "B": "1250 cm 3",
+      "C": "125 cm 3",
+      "D": "80 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Noble gases, primarily argon, make up about 1% of Earth's atmosphere, with argon being the most abundant at 0.934%.\nVolume of noble gases in air mixture = % composition of noble gas X Total volume of air mixture\n25cm\\(^3\\)   =  1% X V\\(_T\\)\n25cm\\(^3\\)   =  \\(\\frac{1}{100}\\times {V_T}\\)\n25cm\\(^3\\)   =  \\(\\frac{V_T}{100}\\)\nV\\(_T\\) = 25 X 100\n∴    V\\(_T\\) = 2,500cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2972",
+    "passage": ""
   }
 ]
