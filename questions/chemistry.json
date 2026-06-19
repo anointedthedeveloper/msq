@@ -6990,5 +6990,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2965",
     "passage": ""
+  },
+  {
+    "id": 2966,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In the purification of impure samples of ethyl ethanoate synthesized by esterification, concentrated sodium trioxocarbonate (IV) solution is used to remove",
+    "options": {
+      "A": "water",
+      "B": "basic impurities",
+      "C": "acidic impurities",
+      "D": "ethoxyethane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the purification of ethyl ethanoate (ethyl acetate), Na₂CO₃ (sodium carbonate) solution is used to neutralize any residual acidic impurities, such as ethanoic acid, that may be present in the crude ester product.\nDuring the esterification reaction (the process of making ethyl ethanoate), some ethanoic acid (acetic acid) might remain unreacted or be formed as a byproduct.\nSodium carbonate is a base, and it reacts with acids. When Na₂CO₃ solution is added to the ethyl ethanoate, it neutralizes the ethanoic acid, forming sodium ethanoate (a salt) and carbon dioxide (CO₂).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2966",
+    "passage": ""
   }
 ]
