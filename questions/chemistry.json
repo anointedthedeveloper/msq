@@ -8314,5 +8314,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3300",
     "passage": ""
+  },
+  {
+    "id": 3301,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Nuclear fission involves the splitting of a heavy element into two nuclei of",
+    "options": {
+      "A": "nearly equal masses with a release of energy and radiation",
+      "B": "equal masses with a release of energy",
+      "C": "equal masses with a release of energy and radiation",
+      "D": "unequal masses without any release of energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Nearly equal masses with a release of energy and radiation.\nHowever, nuclear fusion actually involves the combining of two light nuclei to form a heavier nucleus, not the splitting of a heavy element. This process releases a significant amount of energy and, in some cases, radiation.\nExamples of nuclear fusion include:\n- The sun's core, where hydrogen nuclei (protons) fuse to form helium, releasing vast amounts of energy in the process.\n- Fusion reactions in tokamaks and other experimental devices, where isotopes of hydrogen (such as deuterium and tritium) are fused to form helium and release energy.\nThe correct description of nuclear fission, on the other hand, is:\n- The splitting of a heavy element (such as uranium or plutonium) into two or more lighter nuclei, releasing energy and radiation in the process.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3301",
+    "passage": ""
   }
 ]
