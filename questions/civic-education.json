@@ -2663,5 +2663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50207",
     "passage": ""
+  },
+  {
+    "id": 50208,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Democracy thrives more where there is",
+    "options": {
+      "A": "non partisan judiciary",
+      "B": "freedom of speech and association",
+      "C": "absence of universal suffrage",
+      "D": "one party system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The non-partisan judiciary simply talks about an independent judiciary. it  is the concept that the judiciary should be independent from the other branches of government. That is, courts should not be subject to improper influence from the other branches of government or from private or partisan interests. This will promote democracy as everyone is assured of a fair say when they present their grievances in court.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50208",
+    "passage": ""
   }
 ]
