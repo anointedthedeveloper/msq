@@ -10906,5 +10906,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64097",
     "passage": ""
+  },
+  {
+    "id": 64098,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which doesn't belong to the group?",
+    "options": {
+      "A": "Primary memory",
+      "B": "Main memory",
+      "C": "External memory",
+      "D": "Internal memory"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "External memory doesn't belong to the group because it is a type of memory that can be detached from the computer, unlike the other three options that can't be detached from the computer system because they are inbuilt.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64098",
+    "passage": ""
   }
 ]
