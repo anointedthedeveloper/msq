@@ -9155,5 +9155,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72376",
     "passage": ""
+  },
+  {
+    "id": 72377,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following characteristics is associated with the architecture of parallel database?",
+    "options": {
+      "A": "Communication cost and problems cannot be ignored",
+      "B": "Machines can be far from each other",
+      "C": "Machines are physically close to each other",
+      "D": "It is usually associated with shared-nothing architecture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Shared-nothing architecture is a key characteristic of parallel databases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72377",
+    "passage": ""
   }
 ]
