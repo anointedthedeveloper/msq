@@ -2374,5 +2374,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1170",
     "passage": ""
+  },
+  {
+    "id": 1172,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "During excretion of urea there is also a corresponding re-absorption of water into the blood. This re-absorption takes place in the",
+    "options": {
+      "A": "uriniferous tubules",
+      "B": "Bowman's capsule",
+      "C": "glomerulus",
+      "D": "malpighian capsule",
+      "E": "renal artery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The uriniferous tubules refer to each of the long, fine, convoluted tubules conveying urine from the glomeruli to the renal pelvis in the vertebrate kidney. Water and salts are reabsorbed into the blood along their length.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1172",
+    "passage": ""
   }
 ]
