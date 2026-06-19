@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72433",
     "passage": ""
+  },
+  {
+    "id": 72435,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Do not disturb my students",
+    "options": {
+      "A": "Má jé kí inú àwọn akékoó mi bàjé.",
+      "B": "Má yí irísí àwon akékòó padà.",
+      "C": "Má jé kí àwọn akékòó jinà sí mi.",
+      "D": "Má da àwon akékòó mi láàmú."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72435",
+    "passage": ""
   }
 ]
