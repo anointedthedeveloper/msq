@@ -9448,5 +9448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3980",
     "passage": ""
+  },
+  {
+    "id": 3981,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The conversion of open chain alkanes into cycloalkanes and aromatic compounds is called",
+    "options": {
+      "A": "cracking",
+      "B": "reforming",
+      "C": "isomerization",
+      "D": "polymerization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is B. Reforming.\nReforming is a process in petroleum refining where low-octane, straight-chain alkanes are converted into higher-octane, branched-chain alkanes, cycloalkanes, and aromatic compounds. This process involves the use of catalysts and high temperatures to break and reform the molecular bonds. Reforming is an important process in the production of high-octane gasoline and other petroleum products.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3981",
+    "passage": ""
   }
 ]
