@@ -4597,5 +4597,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12407",
     "passage": ""
+  },
+  {
+    "id": 12408,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A magnetic field is said to exist at a point if a force is",
+    "options": {
+      "A": "exerted on a stationary charge at the point",
+      "B": "exerted on a moving charge at the point",
+      "C": "deflected at the point",
+      "D": "strengthened at the point"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "in motion",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12408",
+    "passage": ""
   }
 ]
