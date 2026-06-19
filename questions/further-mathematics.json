@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50379",
     "passage": ""
+  },
+  {
+    "id": 50380,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Given that \\(a = i - 3j\\) and \\(b = -2i + 5j\\) and \\(c = 3i - j\\), calculate \\(|a - b + c|\\).",
+    "options": {
+      "A": "\\(\\sqrt{13}\\)",
+      "B": "\\(3\\sqrt{13}\\)",
+      "C": "\\(6\\sqrt{13}\\)",
+      "D": "\\(9\\sqrt{13}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given \\(a = i - 3j; b = -2i + 5j; c = 3i - j\\)\n\\(a- b + c = (1 - (-2) + 3)i + (-3 - 5 + (-1))j = 6i - 9j\\)\n\\(|a - b + c| = \\sqrt{6^{2} + (-9)^{2}} = \\sqrt{36 + 81} = \\sqrt{117}\\)\n\\(= \\sqrt{9 \\times 13} = 3\\sqrt{13}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50380",
+    "passage": ""
   }
 ]
