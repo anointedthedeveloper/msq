@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76310",
     "passage": ""
+  },
+  {
+    "id": 76311,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Gulum is an example of",
+    "options": {
+      "A": "a membranophone",
+      "B": "an aerophone",
+      "C": "an idiophone",
+      "D": "a chordophone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Gulum is an example of a chordophone. A chordophone is a musical instrument that makes sound by way of a vibrating string or strings stretched between two points. Gulum, also known as 'gulim' or 'gulun', is a stringed musical instrument used in various cultures worldwide.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76311",
+    "passage": ""
   }
 ]
