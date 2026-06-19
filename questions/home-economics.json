@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73238",
     "passage": ""
+  },
+  {
+    "id": 73239,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The acts of buying foodstuffs needed to prepare meals is known as ............",
+    "options": {
+      "A": "Purchasing",
+      "B": "Preserving",
+      "C": "Budgeting",
+      "D": "Pricing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Purchasing refers to the act of buying or acquiring goods, in this case, foodstuffs, needed to prepare meals. It involves the exchange of money or other forms of payment for the desired products.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73239",
+    "passage": ""
   }
 ]
