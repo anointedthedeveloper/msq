@@ -1671,5 +1671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66520",
     "passage": ""
+  },
+  {
+    "id": 66522,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A system whereby all files and records of an organization are kept and controlled in one room is",
+    "options": {
+      "A": "decentralized filing",
+      "B": "vertical filing",
+      "C": "centralized filing",
+      "D": "horizontal filing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Centralized filing is a system in which the records for several people or units are located in one, central location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66522",
+    "passage": ""
   }
 ]
