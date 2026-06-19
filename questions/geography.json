@@ -350,5 +350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/355",
     "passage": ""
+  },
+  {
+    "id": 356,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following provides the best location for a bakery?",
+    "options": {
+      "A": "Near a regular source of flour",
+      "B": "In an area of cheap labour",
+      "C": "Near a large market for bread",
+      "D": "Near a source of good clean water",
+      "E": "Near a regular source of electricity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/356",
+    "passage": ""
   }
 ]
