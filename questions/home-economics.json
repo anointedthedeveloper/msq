@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73235",
     "passage": ""
+  },
+  {
+    "id": 73236,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The legal union between a man and a woman is referred to as ............",
+    "options": {
+      "A": "Cohabitation",
+      "B": "Marriage",
+      "C": "Dating",
+      "D": "Engagement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Marriage is a legally recognized union between two people, traditionally a man and a woman, that establishes certain rights and obligations between them. It involves a formal commitment and is often marked by a ceremony or ritual.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73236",
+    "passage": ""
   }
 ]
