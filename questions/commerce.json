@@ -15078,5 +15078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7531",
     "passage": ""
+  },
+  {
+    "id": 7533,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Entrepot trade usually occurs in?",
+    "options": {
+      "A": "exchanging goods within a nation",
+      "B": "exchanging goods among countries",
+      "C": "importing goods to be re-exproted",
+      "D": "exproting goods to be re-imported"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Entreport; Trade in which imported goods are re-exported with or without any additional processing or repackaging.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7533",
+    "passage": ""
   }
 ]
