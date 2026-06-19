@@ -8177,5 +8177,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62572",
     "passage": ""
+  },
+  {
+    "id": 62573,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The statement in QBASIC that is used to add data at the end of existing sequential file is?",
+    "options": {
+      "A": "APPPEND",
+      "B": "CLOSE",
+      "C": "INPUT",
+      "D": "OUTPUT"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62573",
+    "passage": ""
   }
 ]
