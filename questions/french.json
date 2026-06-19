@@ -1834,5 +1834,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48199",
     "passage": ""
+  },
+  {
+    "id": 48200,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Quelle est la liason correcte de cette expression?",
+    "options": {
+      "A": "pas/à pas",
+      "B": "pas/à/pas",
+      "C": "pas à/pas",
+      "D": "pas à pas.\\"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48200",
+    "passage": ""
   }
 ]
