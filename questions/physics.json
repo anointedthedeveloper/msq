@@ -5059,5 +5059,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12795",
     "passage": ""
+  },
+  {
+    "id": 12796,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The binding energy of helium \\(^4 _2\\) He is  [atomic mass of proton = 1.00783U, atomic mass of neutron = 1.00867U]",
+    "options": {
+      "A": "4.033U",
+      "B": "2.017U",
+      "C": "0.033U",
+      "D": "0.330U"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The binding energy of a nucleus is the work done or energy needed to separate the nucleons (protons and neutrons) apart. Again, experiment shows that the total mass of all individual nucleons is greater than that of the nucleus in which they are together. This difference in mass is the measure of the binding energy of the particular nucleus.\nFor helium\\(^4_2\\)He\nIt has 4 nucleons, 2 protons and 2 neutrons 2:H = 2 x 1.00783 = 2.01566 2:n = 2 x 1.00867 = 2.01734 ∴ 2:H + 2:n = 4.03300u But the helium nucleus has a mass of 4.00260u ∴ Binding energy = difference between nucleons and nucleus = 4.03300U - 4.00260U = 0.03040U\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12796",
+    "passage": ""
   }
 ]
