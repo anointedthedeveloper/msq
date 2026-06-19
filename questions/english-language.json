@@ -10117,5 +10117,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4199",
     "passage": ""
+  },
+  {
+    "id": 4200,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question bellow choose the expression or word which best completes each sentence : The young lovers first met .... the University of Ibadan Havana Night dance.",
+    "options": {
+      "A": "in",
+      "B": "at",
+      "C": "in course of",
+      "D": "on",
+      "E": "inside"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "We use “at” to refer to specific events or venues (e.g., parties, meetings, ceremonies). Here, “the University of Ibadan Havana Night dance” refers to a specific event , so the correct preposition is: at.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4200",
+    "passage": ""
   }
 ]
