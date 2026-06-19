@@ -10246,5 +10246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14337",
     "passage": ""
+  },
+  {
+    "id": 14338,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Dispersion occurs when white light passes through a glass prism because of the?",
+    "options": {
+      "A": "different hidden colours in the glass",
+      "B": "different speeds of the colour in the glass",
+      "C": "defects in the glass",
+      "D": "high density of the glass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Dispersion is the splitting of white light into its spectral component colors and is caused by different speed of the colors in the prism.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14338",
+    "passage": ""
   }
 ]
