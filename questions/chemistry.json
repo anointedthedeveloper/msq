@@ -4638,5 +4638,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2148",
     "passage": ""
+  },
+  {
+    "id": 2149,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The processes which return carbon (IV) oxide to the atmosphere include",
+    "options": {
+      "A": "respiration, decay and combustion",
+      "B": "photosynthesis, respiration and transpiration",
+      "C": "ozone depletion, combustion and decay",
+      "D": "photosynthesis, decay and respiration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Carbon(IV) oxide is returned to the atmosphere through various processes including combustion( Burning fossil fuels, wood, or gasoline releases carbon dioxide into the atmosphere), respiration (All living organisms, including plants and animals, release carbon dioxide when they breathe. This process is also known as cellular respiration), and decay(when organisms die, the process of decomposition breaks down complex carbon compounds into simpler ones. This process releases CO\\(_2\\) into the atmosphere).\nConversely,Photosynthesis is a process that removes CO\\(_2\\) from the atmosphere and uses it to create carbohydrates and oxygen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2149",
+    "passage": ""
   }
 ]
