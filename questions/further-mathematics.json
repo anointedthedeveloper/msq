@@ -3630,5 +3630,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50553",
     "passage": ""
+  },
+  {
+    "id": 50570,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(T = \\begin{pmatrix} -2 & -5 \\\\ 3 & 8 \\end{pmatrix}\\), find \\(T^{-1}\\), the inverse of T.",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -8 & -5 \\\\ 3 & 2 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -8 & -5 \\\\ 3 & -2 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -8 & -5 \\\\ -3 & 2 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -8 & -5 \\\\ -3 & -2 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let \\(\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = T^{-1}\\)\n\\(T . T^{-1} = I\\)\n\\(\\begin{pmatrix} -2 & -5 \\\\ 3 & 8 \\end{pmatrix}\\begin{pmatrix} a & b \\\\ c & d \\end{pmatrix} = \\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix}\\)\n\\(\\implies -2a - 5c = 1\\)\n\\(-2b - 5d = 0 \\implies b = \\frac{-5d}{2}\\)\n\\(3a + 8c = 0 \\implies a = \\frac{-8c}{3}\\)\n\\(3b + 8d = 1\\)\n\\(-2(\\frac{-8c}{3}) - 5c = \\frac{16c}{3} - 5c = \\frac{c}{3} = 1 \\implies c = 3\\)\n\\(3(\\frac{-5d}{2}) + 8d = \\frac{-15d}{2} + 8d = \\frac{d}{2} = 1 \\implies d = 2\\)\n\\(b = \\frac{-5 \\times 2}{2} = -5\\)\n\\(a = \\frac{-8 \\times 3}{3} = -8\\)\n\\(\\therefore  T^{-1} = \\begin{pmatrix} -8 & -5 \\\\ 3 & 2 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50570",
+    "passage": ""
   }
 ]
