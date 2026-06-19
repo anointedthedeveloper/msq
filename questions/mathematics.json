@@ -6655,5 +6655,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9218",
     "passage": ""
+  },
+  {
+    "id": 9219,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The table above gives the frequency distribution of marks obtained by a group of students in a test. If the total mark scored is 200, calculate the value of y",
+    "options": {
+      "A": "15",
+      "B": "13",
+      "C": "11",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Total mark scored = 200 ∴200 = 15 + 4y - 4 + 5y + 54 + 28 + 8 200 = 9y + 101 200 - 101 = 9y 99 = 9y ∴y = 11\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9219",
+    "passage": ""
   }
 ]
