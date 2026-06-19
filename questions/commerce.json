@@ -5249,5 +5249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/2002",
     "passage": ""
+  },
+  {
+    "id": 2003,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The chart above represent the?",
+    "options": {
+      "A": "product mix relationship",
+      "B": "marketing mix relationship",
+      "C": "promotion mix elationship",
+      "D": "advertising mix relationship"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/21897840405_happy-birthday-my-husband.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909015/myschool/commerce/21897840405_happy-birthday-my-husband.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/2003",
+    "passage": ""
   }
 ]
