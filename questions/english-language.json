@@ -1823,5 +1823,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/619",
     "passage": ""
+  },
+  {
+    "id": 620,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nThe chairman of the company was very sympathetic .... his staff",
+    "options": {
+      "A": "to",
+      "B": "at",
+      "C": "for",
+      "D": "from",
+      "E": "on"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/620",
+    "passage": ""
   }
 ]
