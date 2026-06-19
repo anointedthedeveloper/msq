@@ -4134,5 +4134,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1926",
     "passage": ""
+  },
+  {
+    "id": 1927,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the following pairs are the products of sucrose hydrolysis?",
+    "options": {
+      "A": "Glucose + glucose",
+      "B": "Fructose + fructose",
+      "C": "Glucose + fructose",
+      "D": "Galactose + glucose",
+      "E": "Fructose + galactose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1927",
+    "passage": ""
   }
 ]
