@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48028",
     "passage": ""
+  },
+  {
+    "id": 48029,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Dogo of Mali is renown for its",
+    "options": {
+      "A": "textile",
+      "B": "masks",
+      "C": "engravings",
+      "D": "decorations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48029",
+    "passage": ""
   }
 ]
