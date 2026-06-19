@@ -10414,5 +10414,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4074",
     "passage": ""
+  },
+  {
+    "id": 4075,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If the silver mirror test is positive, it indicates the presence of an",
+    "options": {
+      "A": "alkyne",
+      "B": "alkanol",
+      "C": "alkanone",
+      "D": "alkanal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Alkanals give a positive result for the silver mirror test(Tollen's reagent).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4075",
+    "passage": ""
   }
 ]
