@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60235",
     "passage": ""
+  },
+  {
+    "id": 60236,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In word processing, the icon in Fig.4 is used for __________",
+    "options": {
+      "A": "Paging",
+      "B": "Line Spacing",
+      "C": "Numbering",
+      "D": "Bulleting"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Ic9uODwJTqCkhkixqoGirN65niHFF1deWysqbRG8.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781893771/myschool/computer-studies/Ic9uODwJTqCkhkixqoGirN65niHFF1deWysqbRG8.jpg",
+    "correct_answer": "C",
+    "explanation": "The icon is used for numbering.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60236",
+    "passage": ""
   }
 ]
