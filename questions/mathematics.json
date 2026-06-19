@@ -8062,5 +8062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9285",
     "passage": ""
+  },
+  {
+    "id": 9286,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If sinθ = 3/5. Find Tanθ",
+    "options": {
+      "A": "3 / 4",
+      "B": "3 / 5",
+      "C": "2 / 5",
+      "D": "1 / 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "sinθ = 3/5 x2 = 52 - 32\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9286",
+    "passage": ""
   }
 ]
