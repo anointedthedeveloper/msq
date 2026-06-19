@@ -16286,5 +16286,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23212",
     "passage": ""
+  },
+  {
+    "id": 23214,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A plane tiles 90km on a bearing 030° and then flies 150km due east. How far east of the starting point is the plane?",
+    "options": {
+      "A": "120km",
+      "B": "165km",
+      "C": "195km",
+      "D": "(150 + 45√3)km",
+      "E": "240km"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x\n90\no\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23214",
+    "passage": ""
   }
 ]
