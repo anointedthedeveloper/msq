@@ -8251,5 +8251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14045",
     "passage": ""
+  },
+  {
+    "id": 14046,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The fundamental property of a propagating wave which depends only on the source and not the medium of propagation is the?",
+    "options": {
+      "A": "wavelength",
+      "B": "harmonics",
+      "C": "frequency",
+      "D": "velocity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Timber/ quality depends on the overtones or harmonics, and timber is a characteristic property of source of sound,\nA harmonic is a wave with a frequency that is a positive integer multiple of the fundamental frequency,\nThese rest on the fundamental property of FREQUENCY.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14046",
+    "passage": ""
   }
 ]
