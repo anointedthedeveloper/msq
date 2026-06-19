@@ -1552,5 +1552,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50382",
     "passage": ""
+  },
+  {
+    "id": 50383,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A body of mass 28g, initially at rest is acted upon by a force, F Newtons. If it attains a velocity of \\(5.4ms^{-1}\\) in 18 seconds, find the value of F.",
+    "options": {
+      "A": "0.0082N",
+      "B": "0.0084N",
+      "C": "0.082N",
+      "D": "0.084N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(F = mass \\times acceleration\\) but \\(accl = \\frac{v - u}{t}\\)\n\\(\\therefore F = m(\\frac{v - u}{t})\\)\n\\(Mass = 28g = 0.028kg\\)\n\\(v = 5.4 ms^{-1}; u = 0; t = 18secs\\)\n\\(\\therefore F = 0.028(\\frac{5.4 - 0}{18}) = 0.028 \\times 0.3 = 0.0084N\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50383",
+    "passage": ""
+  },
+  {
+    "id": 50384,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Find the angle between forces of magnitude 7N and 4N if their resultant has a magnitude of 9N.",
+    "options": {
+      "A": "39.45°",
+      "B": "73.40°",
+      "C": "75.34°",
+      "D": "106.60°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(F_{1} = 7i + 0j\\)\n\\(F_{2} = (4\\cos\\theta)i + (4\\sin\\theta)j\\)\n\\(9 = \\sqrt{(7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2}}\\)\n\\(9^{2} = (7 + 4\\cos\\theta)^{2} + (4\\sin\\theta)^{2} \\implies 81 = 49 + 56\\cos\\theta + 16\\cos^{2}\\theta + 16\\sin^{2}\\theta\\)\n\\(81 = 49 + 56\\cos\\theta + 16(\\cos^{2}\\theta + \\sin^{2}\\theta)\\)\nRecall, \\(\\cos^{2}\\theta + \\sin^{2}\\theta = 1\\)\n\\(81 = 49 + 56\\cos\\theta + 16 \\implies 81 - 49 -16 = 56\\cos\\theta\\)\n\\(16 = 56\\cos\\theta \\implies \\cos\\theta = \\frac{16}{56} = 0.2857\\)\n\\(\\theta = \\cos^{-1} 0.2857  = 73.40°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50384",
+    "passage": ""
   }
 ]
