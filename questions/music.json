@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76299",
     "passage": ""
+  },
+  {
+    "id": 76300,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The correct sol-fa notation for the passage is",
+    "options": {
+      "A": "2/4 s : s | m : r | d . r : t | d : - ||",
+      "B": "2/4 s : s | m : -. r | d . r : t₁ | d : - ||",
+      "C": "2/4 s : s | m : -. r | d . r : t | d : - ||",
+      "D": "2/4 s : s | m : -. r | d : t₁ | d : - ||"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/MjuWSz5ImzxjsV5gZ26Eb9HiIWb9rne17gbaavYd.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890486/myschool/music/MjuWSz5ImzxjsV5gZ26Eb9HiIWb9rne17gbaavYd.png",
+    "correct_answer": "B",
+    "explanation": "The melody is in G Major , where the note G is the tonic ( d ). The melody begins on D, which is the fifth degree of the scale, represented as s (so).\nMeasure 1: Two crotchets on D translate to s : s . Measure 2: A dotted crotchet B and a quaver A translate to m : -. r (mi and re). Measure 3: The quaver G and A followed by a crotchet F# translate to d . r : t₁ (do, re, and the leading tone ti below the tonic). * Measure 4: The final crotchet G is the tonic d .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76300",
+    "passage": ""
   }
 ]
