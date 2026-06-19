@@ -14086,5 +14086,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22918",
     "passage": ""
+  },
+  {
+    "id": 22920,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "the graph above is a sketch of",
+    "options": {
+      "A": "y = sin 2x",
+      "B": "y=sinx",
+      "C": "y=cos2x",
+      "D": "y=2sinx",
+      "E": "y = 2cos x"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9685600421_wcmath199125.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909043/myschool/mathematics/9685600421_wcmath199125.jpg",
+    "correct_answer": "B",
+    "explanation": "by using trial and error  Y = sinx since \\(\\pi\\) in radian = 180º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22920",
+    "passage": ""
   }
 ]
