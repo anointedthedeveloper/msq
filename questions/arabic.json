@@ -1,0 +1,23 @@
+[
+  {
+    "id": 75170,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "من هو مؤلف كتاب \"الأغاني\"؟",
+    "options": {
+      "A": "ابن خلدون",
+      "B": "أبو الفرج الأصفهاني",
+      "C": "سيبويه",
+      "D": "الأصمعي"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"ile yl\" is a famous encyclopaedia of Arabic songs and biographies authored by Abu al-Faraj al-Isfahani.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75170",
+    "passage": ""
+  }
+]
