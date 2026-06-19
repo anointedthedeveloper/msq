@@ -4416,5 +4416,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58729",
     "passage": ""
+  },
+  {
+    "id": 58730,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The following are attributes of computer virus except the ability to",
+    "options": {
+      "A": "modify other files",
+      "B": "replicate itself in order to spread to other files and system",
+      "C": "execute without the user's approval",
+      "D": "warn the user before execution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58730",
+    "passage": ""
   }
 ]
