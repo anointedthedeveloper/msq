@@ -1553,5 +1553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/988",
     "passage": ""
+  },
+  {
+    "id": 989,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Under the 1999 Constitution of Nigeria, the power to create local governments is vested in the",
+    "options": {
+      "A": "state assembly",
+      "B": "office of the deputy governor",
+      "C": "presidency",
+      "D": "national assembly"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/989",
+    "passage": ""
   }
 ]
