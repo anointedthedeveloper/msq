@@ -3957,5 +3957,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2504",
     "passage": ""
+  },
+  {
+    "id": 2505,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "To calculate the annual natural growth rate of a country's population, one has to know the country's annual birth rate and",
+    "options": {
+      "A": "the size of that country",
+      "B": "the rate of immigration into that country",
+      "C": "the population census of that country",
+      "D": "the annual death rate",
+      "E": "the gross domestic product annual(GDP)  of that country"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To calculate annual natural growth rate, you will need a summation of the births rate and mortality rate (death rate)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2505",
+    "passage": ""
   }
 ]
