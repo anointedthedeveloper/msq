@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/552",
     "passage": ""
+  },
+  {
+    "id": 554,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the population of a town was 240,000 in January 1998 and it increased by 2% each year, what would be the population of the town in January, 2000?",
+    "options": {
+      "A": "480,000",
+      "B": "249,696",
+      "C": "249,600",
+      "D": "244,800"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "1st year, Population = 240,000 x (\\(\\frac{2}{100}\\)) = 4800. Being the 2nd year population = 240,000 + 4800 = 244800. Increase in Pop. in 2nd year = 244800 x (\\(\\frac{2}{100}\\)) = 4896 Jan 2000, Pop. = 244800 + 4896 = 249,696\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/554",
+    "passage": ""
   }
 ]
