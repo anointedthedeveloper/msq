@@ -2810,5 +2810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49941",
     "passage": ""
+  },
+  {
+    "id": 49942,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Hazard in insurance means?",
+    "options": {
+      "A": "a situation that posses a threat to life or property",
+      "B": "a situation where there is no agreement",
+      "C": "event that cannot legally be insured",
+      "D": "event that has been insured in the past"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hazard is a condition or situation that increases the chance of loss in an insured risk .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49942",
+    "passage": ""
   }
 ]
