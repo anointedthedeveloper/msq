@@ -1215,5 +1215,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61387",
     "passage": ""
+  },
+  {
+    "id": 61388,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The total possible combinations of the input variables for a logic gate containing three input variables is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "8",
+      "D": "12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The total possible combinations of the input variables for a logic gate containing three input variables would have 8 possible input combinations or \\(2^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61388",
+    "passage": ""
   }
 ]
