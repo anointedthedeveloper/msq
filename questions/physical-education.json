@@ -2329,5 +2329,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68259",
     "passage": ""
+  },
+  {
+    "id": 68260,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What do you call a person who performs gymnastics ?",
+    "options": {
+      "A": "performer",
+      "B": "gymnastics athlete",
+      "C": "entertainer",
+      "D": "gymnast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A person who performs gymnastics is called a gymnast. This term is universally accepted and used to refer to individuals who participate in this sport.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68260",
+    "passage": ""
   }
 ]
