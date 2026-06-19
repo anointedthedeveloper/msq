@@ -5460,5 +5460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62419",
     "passage": ""
+  },
+  {
+    "id": 62420,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The default number of sheets of a workbook is?",
+    "options": {
+      "A": "one",
+      "B": "two",
+      "C": "three",
+      "D": "four"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The default number of sheets in a new workbook in Microsoft Excel is typically three. However, it's worth noting that this can be adjusted in the software settings, and different versions may have variations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62420",
+    "passage": ""
   }
 ]
