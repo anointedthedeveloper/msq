@@ -14812,5 +14812,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23145",
     "passage": ""
+  },
+  {
+    "id": 23146,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Evaluate \\(\\log_{10} 25 + \\log_{10} 32 - \\log_{10} 8\\)",
+    "options": {
+      "A": "0.2",
+      "B": "2",
+      "C": "100",
+      "D": "409",
+      "E": "490"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\log_{10} 25 + \\log_{10} 32 - \\log_{10} 8\\)\n= \\(\\log_{10} (\\frac{25 \\times 32}{8})\\)\n= \\(\\log_{10} 100 \\)\n= 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23146",
+    "passage": ""
   }
 ]
