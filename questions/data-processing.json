@@ -9503,5 +9503,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77047",
     "passage": ""
+  },
+  {
+    "id": 77048,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A ______ In a database represents a relationship among a set of values",
+    "options": {
+      "A": "Column",
+      "B": "Entity",
+      "C": "Entry",
+      "D": "key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An entity is any object in the system that we want to model and store information about. Entities are usually recognizable concepts, either concrete or abstract, such as persons, places, things, or events, which have relevance to the database. Some specific examples of entities are Employee, Student, and Lecturer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77048",
+    "passage": ""
   }
 ]
