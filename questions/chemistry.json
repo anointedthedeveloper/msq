@@ -1383,5 +1383,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1396",
     "passage": ""
+  },
+  {
+    "id": 1399,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "N\\(_2\\)O\\(_4\\)(g) ↔ 2NO\\(_2\\)(g). Increase in total pressure of the equilibrium reaction above will",
+    "options": {
+      "A": "produce more of NO 2(g) in the mixture",
+      "B": "convert all of N 2 O 4(g) to NO 2(g)",
+      "C": "have no effect on the concentrations of NO 2(g) and N 2 O 4(g)",
+      "D": "produce more of N 2 O 4(g) in the mixture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An increase in pressure on a system at equilibrium, according to Le Chatelier's principle, shifts the equilibrium towards the side with fewer moles of gas to relieve the stress of increased pressure.\nIn the above reaction, the side with the lesser number of moles of gaseous species is the reactant,N\\(_2\\)O\\(_4\\) with 1 mole as against the product side with 2 moles. Hence, an increase in total pressure will favour the side with the lesser number moles. This implies more N\\(_2\\)O\\(_4\\) will be produced.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1399",
+    "passage": ""
   }
 ]
