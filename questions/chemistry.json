@@ -13207,5 +13207,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4786",
     "passage": ""
+  },
+  {
+    "id": 4787,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The impurities formed during the laboratory preparation of chlorine gas are removed by",
+    "options": {
+      "A": "H 2 O",
+      "B": "NH 3",
+      "C": "H 2 SO 4",
+      "D": "HCl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During the laboratory preparation of chlorine gas (typically by the reaction of concentrated HCl with MnO\\(_2\\) or KMnO\\(_4\\) ), the primary gaseous impurities produced are hydrogen chloride (HCl) gas and water vapour. Water is used to remove HCl gas because hydrogen chloride is extremely soluble in water, whereas chlorine gas is only slightly soluble.\nWhile H\\(_2\\)SO\\(_4\\)  is used later in the process to dry the gas (remove moisture), standard curriculum and examination contexts specifically define the \"removal of impurities\" as the first step of washing the gas with water to eliminate HCl.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4787",
+    "passage": ""
   }
 ]
