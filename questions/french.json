@@ -1435,5 +1435,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48180",
     "passage": ""
+  },
+  {
+    "id": 48181,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Ces animaux-là sont gentils mais ...sont",
+    "options": {
+      "A": "celles-ci",
+      "B": "ceux-ci",
+      "C": "celui-ci",
+      "D": "ceci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48181",
+    "passage": ""
   }
 ]
