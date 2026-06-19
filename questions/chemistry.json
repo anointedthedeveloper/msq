@@ -3105,5 +3105,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1669",
     "passage": ""
+  },
+  {
+    "id": 1670,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Environmental pollution is worsened by the release from automobile exhausts of?",
+    "options": {
+      "A": "Water vapour",
+      "B": "Steam",
+      "C": "Smoke",
+      "D": "Heavy metals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Carbon monoxide (CO), popularly known as the Black smoke, from exhaust fumes of vehicles (cars, trucks and tricycles) and generators is a toxic gas released into the atmosphere.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1670",
+    "passage": ""
   }
 ]
