@@ -1614,5 +1614,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1469",
     "passage": ""
+  },
+  {
+    "id": 1470,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What properties of duralumin make it more useful than its constituent metals?",
+    "options": {
+      "A": "It is heavy with a high melting point",
+      "B": "It is malleable and has high density",
+      "C": "It is strong and light",
+      "D": "It is hard and ductile"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1470",
+    "passage": ""
   }
 ]
