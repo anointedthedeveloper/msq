@@ -5502,5 +5502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62421",
     "passage": ""
+  },
+  {
+    "id": 62422,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "When a worksheet is deleted from a workbook, it is?",
+    "options": {
+      "A": "lost forever",
+      "B": "sent to the recycle bin",
+      "C": "sent to the original folder",
+      "D": "stored permanently in main memory."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62422",
+    "passage": ""
   }
 ]
