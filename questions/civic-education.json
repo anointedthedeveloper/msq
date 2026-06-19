@@ -2684,5 +2684,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50208",
     "passage": ""
+  },
+  {
+    "id": 50209,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Preventive measures of HIV/AIDS do not include",
+    "options": {
+      "A": "abstinence",
+      "B": "screening of blood before transfussion",
+      "C": "use of barriers methods",
+      "D": "stigmatization of victims"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Preventive measure of HIV/AIDS\nPractice Safe Sex. Don’t Share Needles. Take Preventive Medication. Avoid Risky Behaviors.\nHIV and AIDS can be prevented by safe-sex practices, meaning consistent use of condoms, testing pregnant mothers for the virus and treating appropriately to prevent infant infection, and not using \"dirty needles\" for IV drug use. Additionally, blood banks now carefully screen all donor blood for the virus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50209",
+    "passage": ""
   }
 ]
