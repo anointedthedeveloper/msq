@@ -11263,5 +11263,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64114",
     "passage": ""
+  },
+  {
+    "id": 64115,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What controls the way in which the computer system function and provides a means by which users can interact with the computer.",
+    "options": {
+      "A": "Application software",
+      "B": "Internet",
+      "C": "Operating system",
+      "D": "Control unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An Operating System (OS) is a software that acts as an interface between computer hardware components and the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64115",
+    "passage": ""
   }
 ]
