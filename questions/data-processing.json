@@ -10049,5 +10049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77105",
     "passage": ""
+  },
+  {
+    "id": 77108,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The ring technology is a protocol at which layer of the OSI model?",
+    "options": {
+      "A": "network",
+      "B": "presentation",
+      "C": "datalink",
+      "D": "session"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The ring technology is a protocol at the Data Link layer of the OSI model. The OSI model (Open Systems Interconnection model) is a conceptual model that characterizes and standardizes the communication functions of a telecommunication or computing system without regard to its underlying internal structure and technology. The Data Link layer is the second layer in the OSI model and is responsible for data transfer across the physical layer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77108",
+    "passage": ""
   }
 ]
