@@ -16264,5 +16264,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23211",
     "passage": ""
+  },
+  {
+    "id": 23212,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "State the fifth and seventh terms of the sequence \\(-2, -3, -4\\frac{1}{2}, ...\\)",
+    "options": {
+      "A": "\\(-\\frac{81}{8}, -\\frac{729}{32}\\)",
+      "B": "\\(\\frac{8}{81}, \\frac{72}{39}\\)",
+      "C": "\\(\\frac{27}{729}, \\frac{718}{39}\\)",
+      "D": "\\(-\\frac{27}{16}, -\\frac{79}{81}\\)",
+      "E": "\\(-\\frac{21}{8}, \\frac{32}{618}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(-2, -3, -4\\frac{1}{2}, ...\\)\nThis is a G.P with r = 1\\(\\frac{1}{2}\\).\n\\(T_{n} = ar^{n - 1}\\) (terms of a G.P)\n\\(T_{5} = (-2)(\\frac{3}{2})^{5 - 1}\\)\n= \\(-2 \\times \\frac{81}{16}\\)\n= \\(-\\frac{81}{8}\\)\n\\(T_{7} = (-2)(\\frac{3}{2})^{7 - 1}\\)\n= \\(-2 \\times \\frac{729}{64}\\)\n= \\(-\\frac{729}{32}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23212",
+    "passage": ""
   }
 ]
