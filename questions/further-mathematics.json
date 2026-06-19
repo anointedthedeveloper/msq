@@ -3714,5 +3714,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50582",
     "passage": ""
+  },
+  {
+    "id": 50583,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "What is the class mark of the median class?",
+    "options": {
+      "A": "17",
+      "B": "22",
+      "C": "27",
+      "D": "32"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\text{Total frequency} = 50\\)\nMedian occurs at \\(\\frac{50}{2} = \\text{25th position}\\)\n= Class 20 - 24 with classmark \\(\\frac{20 + 24}{2} = 22\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50583",
+    "passage": ""
   }
 ]
