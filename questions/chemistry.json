@@ -854,5 +854,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/766",
     "passage": ""
+  },
+  {
+    "id": 767,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In titration involving sodium hydroxide and dilute hydrochloric acid, where would you place the base?",
+    "options": {
+      "A": "in the beaker",
+      "B": "in the conical flask",
+      "C": "in a burette",
+      "D": "in the standard flask",
+      "E": "in the measuring cylinder"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Add a few drops of indicator and put the conical flask on a white tile. Fill the burette with acid and note the starting volume. Slowly add the acid from the burette to the alkali in the conical flask, swirling to mix.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/767",
+    "passage": ""
   }
 ]
