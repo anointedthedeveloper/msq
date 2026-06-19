@@ -1911,5 +1911,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1009",
     "passage": ""
+  },
+  {
+    "id": 1010,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The statement, my soul magnifies the lord....was made by",
+    "options": {
+      "A": "Elizabeth",
+      "B": "Zechariah",
+      "C": "Mary",
+      "D": "John the Baptism",
+      "E": "Jesus Christ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The statement was made by Mary during her visit to Elizabeth in Judea.\nAnd Mary said, “My soul magnifies the Lord. Luke 1:46",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1010",
+    "passage": ""
   }
 ]
