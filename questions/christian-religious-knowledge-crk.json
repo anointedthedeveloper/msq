@@ -152,5 +152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/46",
     "passage": ""
+  },
+  {
+    "id": 49,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "He was a king remembered for his erecting a mighty temple for the worship of God:",
+    "options": {
+      "A": "Solomon",
+      "B": "Josiah",
+      "C": "Saul",
+      "D": "David",
+      "E": "Absalom"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "King Solomon is remembered for building a magnificent temple for the worship of God, known as Solomon's Temple or the First Temple in Jerusalem. 1 Kings 6:1 (RSV): \"In the four hundred and eightieth year after the people of Israel came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, he began to build the house of the Lord.\" Solomon's temple became the central place of worship for the Israelites until its destruction by the Babylonians in 586 BC .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/49",
+    "passage": ""
   }
 ]
