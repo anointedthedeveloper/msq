@@ -6340,5 +6340,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8086",
     "passage": ""
+  },
+  {
+    "id": 8088,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "If the temperature at sea level at the foot of Cameroon Mountain is 32°C, what is the temperature at the summit which is 4,000m above sea level given an environmental lapse rate of sea level given environmental lapse rate of 0.65°C of 100cm?",
+    "options": {
+      "A": "-2°C",
+      "B": "4°C",
+      "C": "6°C",
+      "D": "8°C",
+      "E": "10°C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8088",
+    "passage": ""
   }
 ]
