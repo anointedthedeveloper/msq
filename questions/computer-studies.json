@@ -9923,5 +9923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62742",
     "passage": ""
+  },
+  {
+    "id": 62743,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Files that contain machine language instructions are called?",
+    "options": {
+      "A": "interpreter files.",
+      "B": "executable files",
+      "C": "batch files",
+      "D": "source files."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62743",
+    "passage": ""
   }
 ]
