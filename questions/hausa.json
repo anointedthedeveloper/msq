@@ -4779,5 +4779,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73917",
     "passage": ""
+  },
+  {
+    "id": 73918,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "The students are hardworking. Daidai yake da; daliban na da",
+    "options": {
+      "A": "hankali",
+      "B": "fushi",
+      "C": "aiki",
+      "D": "kokari"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. kokari. The correct translation of the sentence \"The students are hardworking\" in Hausa is \"Daliban na da kokari\". Here, \"daliban\" means \"students\", \"na da\" is a verb phrase that means \"are\" or \"have\", and \"kokari\" means \"hard work\" or \"hardworking\". So, the correct answer is D. kokari. Note: \"Kokari\" is a noun that means \"hard work\" or \"effort\", and it is often used to describe someone who is hardworking or diligent",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73918",
+    "passage": ""
   }
 ]
