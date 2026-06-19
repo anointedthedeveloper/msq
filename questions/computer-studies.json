@@ -20318,5 +20318,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76752",
     "passage": ""
+  },
+  {
+    "id": 76753,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The computing devices invented by Charles Babbage are",
+    "options": {
+      "A": "Difference Engine and Abacus",
+      "B": "Analytical Engine and Slide Rule",
+      "C": "Abacus and Slide Rule\r\n\r\nA",
+      "D": "Analytical and Difference Engines"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Charles Babbage, an English mechanical engineer and polymath, originated the concept of a digital programmable computer. He Invented two computing devices, which are known as the Analytical Engine and the Difference Engine.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76753",
+    "passage": ""
   }
 ]
