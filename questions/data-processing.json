@@ -2995,5 +2995,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58416",
     "passage": ""
+  },
+  {
+    "id": 58418,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One disadvantage of electronic data processing is",
+    "options": {
+      "A": "handling complex computation",
+      "B": "medium for effective storage",
+      "C": "processing data at a phenomenal speed",
+      "D": "vulnerability to attack"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58418",
+    "passage": ""
   }
 ]
