@@ -7210,5 +7210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67149",
     "passage": ""
+  },
+  {
+    "id": 67150,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The type of network which has a restricted coverage within an enterprise is called",
+    "options": {
+      "A": "Intranet",
+      "B": "Internet",
+      "C": "Ethernet",
+      "D": "Extranet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Intranet is a local or restricted communications network, especially a private network created using World Wide Web software.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67150",
+    "passage": ""
   }
 ]
