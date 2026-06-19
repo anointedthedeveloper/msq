@@ -11571,5 +11571,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7122",
     "passage": ""
+  },
+  {
+    "id": 7123,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A trade association consists of members engaged in the same trade while a chamber of commerce is?",
+    "options": {
+      "A": "highly regulated by a governent agency",
+      "B": "not restricted on a particular industry",
+      "C": "made up of members that are registered",
+      "D": "made up of firms in the banking industry"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A chamber of commerce is an association or network of businesspeople designed to promote and protect the interests of its members. It is not restricted to a certain industry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7123",
+    "passage": ""
   }
 ]
