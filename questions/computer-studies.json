@@ -20465,5 +20465,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76800",
     "passage": ""
+  },
+  {
+    "id": 76803,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In Fig. 1, X, Y, and Z represent",
+    "options": {
+      "A": "output, output and input signals",
+      "B": "output, input and output signals",
+      "C": "input, output and input signals",
+      "D": "input, input and output signals"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2KtyqdYMx5si2NPRSYkIapkgAWrvy2kFyuSpCc7Q.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905108/myschool/computer-studies/2KtyqdYMx5si2NPRSYkIapkgAWrvy2kFyuSpCc7Q.png",
+    "correct_answer": "D",
+    "explanation": "In the diagram labeled Fig. 1, X and Y represent the input variables, while Z represents the output variable. This indicates that the OR gate takes X and Y as inputs and produces Z as the output, based on the logical OR operation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76803",
+    "passage": ""
   }
 ]
