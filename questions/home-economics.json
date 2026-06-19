@@ -166,5 +166,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73175",
     "passage": ""
+  },
+  {
+    "id": 73176,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A sketch is a ____",
+    "options": {
+      "A": "Quick drawing in few lines",
+      "B": "Collection of different lines",
+      "C": "Drawing made with pencil",
+      "D": "Finished detailed drawing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A sketch is a quick and rough drawing made to capture the essence or main features of a subject. It is often done rapidly, with minimal detail, and may be used as a preliminary step in the creative process or as a way to explore ideas. Sketches can be made with various media, including pencils, charcoal, or paint.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73176",
+    "passage": ""
+  },
+  {
+    "id": 73177,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is not a basic home preventive maintenance of furniture?",
+    "options": {
+      "A": "Replacing damaged locks",
+      "B": "Replacing furniture",
+      "C": "Strengthening joints",
+      "D": "Applying new finish"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Replacing furniture is not a maintenance task but rather a replacement or upgrade of the furniture itself. Preventive maintenance tasks help extend the life of furniture, prevent damage, and maintain its functionality and appearance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73177",
+    "passage": ""
   }
 ]
