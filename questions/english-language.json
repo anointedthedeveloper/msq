@@ -680,5 +680,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/497",
     "passage": ""
+  },
+  {
+    "id": 498,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space. Tennyson and Browning lived about the same time and are therefore .... poets",
+    "options": {
+      "A": "contrary",
+      "B": "contractual",
+      "C": "contemporaneous",
+      "D": "contemporary",
+      "E": "contemptible"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sentence says that Tennyson and Browning lived about the same time . Writers or artists who live and work during the same period are described as contemporary .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/498",
+    "passage": ""
+  },
+  {
+    "id": 499,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The green snake which lives in the green grass is using a perfect ....",
+    "options": {
+      "A": "ambush",
+      "B": "under cover",
+      "C": "camouflage",
+      "D": "shelter",
+      "E": "subterfuge"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence describes how the green snake blends into the green grass, making it difficult to be seen. This is a clear example of camouflage , which refers to the ability to blend in with the surroundings to avoid detection.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/499",
+    "passage": ""
+  },
+  {
+    "id": 501,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nIn order to carry out necessary examination the dead body was ....",
+    "options": {
+      "A": "extracted",
+      "B": "extradited",
+      "C": "exiled",
+      "D": "expelled",
+      "E": "exhumed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/501",
+    "passage": ""
   }
 ]
