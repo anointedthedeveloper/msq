@@ -2115,5 +2115,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73797",
     "passage": ""
+  },
+  {
+    "id": 73798,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kedụ maka ahụ gị?",
+    "options": {
+      "A": "Adị m mma",
+      "B": "Anyị dị mma",
+      "C": "Ha dị mma",
+      "D": "Ị dị mma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question \"Kedụ maka ahụ gị?\" means \"How are you?\" in Igbo. The correct response is \"Adị m mma\", which means \"I am fine, thank you\" or \"I'm good\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73798",
+    "passage": ""
   }
 ]
