@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76324",
     "passage": ""
+  },
+  {
+    "id": 76325,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Note B in the key of D major is the",
+    "options": {
+      "A": "subdominant",
+      "B": "mediant",
+      "C": "submediant",
+      "D": "dominant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In any major scale, the submediant is the sixth degree (the 6th note). In the key of D major , the notes are:\nD (Tonic) E (Supertonic) F# (Mediant) G (Subdominant) A (Dominant) B (Submediant) C# (Leading Tone)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76325",
+    "passage": ""
   }
 ]
