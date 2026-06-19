@@ -5439,5 +5439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62418",
     "passage": ""
+  },
+  {
+    "id": 62419,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following can a traveler who finds himself in a new environment rely on for direction to his final destination?",
+    "options": {
+      "A": "DNS",
+      "B": "GPRS",
+      "C": "GPS",
+      "D": "TCP"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Global Positioning System ( GPS ) tells you where you are on Earth. Therefore, a traveler who finds himself in a new environment can rely on GPS for directions to his final destination. GPRS (General Packet Radio Service) is a system within the GSM network (telephone) that makes it possible to send and receive more information faster.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62419",
+    "passage": ""
   }
 ]
