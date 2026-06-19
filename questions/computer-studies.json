@@ -18348,5 +18348,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70966",
     "passage": ""
+  },
+  {
+    "id": 70969,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In graphic design, what does the term DPI stand for?",
+    "options": {
+      "A": "Digital Processing Interface",
+      "B": "Data Process Indicator",
+      "C": "Digital Picture Index",
+      "D": "Dots Per Inch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "DPI stands for Dots Per Inch and is a measure of the resolution of an image, indicating the number of dots of ink or pixels in one inch.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70969",
+    "passage": ""
   }
 ]
