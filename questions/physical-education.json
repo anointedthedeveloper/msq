@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64224",
     "passage": ""
+  },
+  {
+    "id": 64227,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The basic aim of administering first aid treatment is to",
+    "options": {
+      "A": "Assure the victim",
+      "B": "Deliver first aid kits",
+      "C": "Educate the victim",
+      "D": "Save life"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "First aid is the emergency care a sick or injured person gets. The basic aim of first aid is to save life.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64227",
+    "passage": ""
   }
 ]
