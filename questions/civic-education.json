@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50075",
     "passage": ""
+  },
+  {
+    "id": 50076,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The cartoon in figure 1 is an evidence that cultism is",
+    "options": {
+      "A": "violent in nature",
+      "B": "terrorist in nature",
+      "C": "martial in nature",
+      "D": "militant in nature"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/RSNL3bsMKz3yGYUV4YAoM7hZZTCqoPPuFpOpTZfy.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898618/myschool/civic-education/RSNL3bsMKz3yGYUV4YAoM7hZZTCqoPPuFpOpTZfy.jpg",
+    "correct_answer": "A",
+    "explanation": "The cartoon in Figure 1 illustrates a student who is expressing fear about returning to campus without a bulletproof vest, which implies a significant threat of violence associated with cultism. The problem of cultism depicted in the cartoon is that it is violent in nature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50076",
+    "passage": ""
   }
 ]
