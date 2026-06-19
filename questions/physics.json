@@ -3043,5 +3043,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11273",
     "passage": ""
+  },
+  {
+    "id": 11274,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the series a.c circuit shown above, the p.d across the inductor is 8V\nr.m.s\nand that across the resistor is 6V\nr.m.s\n. The effective voltage is",
+    "options": {
+      "A": "2V",
+      "B": "10V",
+      "C": "14V",
+      "D": "48V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6793106905_phy199941.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888652/myschool/physics/6793106905_phy199941.jpg",
+    "correct_answer": "B",
+    "explanation": "The effective V = √ V R 2 + V L 2\n= √ 6 2 + 8 2\n= √ 36 + 64\n= √ 100",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11274",
+    "passage": ""
   }
 ]
