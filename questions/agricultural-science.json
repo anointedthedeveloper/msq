@@ -3385,5 +3385,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16119",
     "passage": ""
+  },
+  {
+    "id": 16120,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following is not a source of minerals in animal nutrition?",
+    "options": {
+      "A": "green pastures",
+      "B": "fish meal",
+      "C": "blood meal",
+      "D": "cereal",
+      "E": "palm oil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16120",
+    "passage": ""
   }
 ]
