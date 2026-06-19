@@ -14623,5 +14623,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64886",
     "passage": ""
+  },
+  {
+    "id": 64888,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "In the URL https://waec.org.ng, the domain name is?",
+    "options": {
+      "A": "waec.org.ng",
+      "B": "http://www.",
+      "C": "//www/.waec.",
+      "D": "org.ng."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64888",
+    "passage": ""
   }
 ]
