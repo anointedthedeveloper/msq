@@ -4365,5 +4365,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70743",
     "passage": ""
+  },
+  {
+    "id": 70744,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which muscle aids in the movement of the hip and thigh and is located in the groin area?",
+    "options": {
+      "A": "Adductor longus",
+      "B": "Tensor fasciae latae",
+      "C": "Iliopsoas",
+      "D": "Gluteus maximus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Iliopsoas muscle is a crucial muscle group that aids in the movement of the hip and thigh. It's composed of two muscles, the iliacus and the psoas major, which work together to flex the hip joint.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70744",
+    "passage": ""
   }
 ]
