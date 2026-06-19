@@ -11542,5 +11542,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69616",
     "passage": ""
+  },
+  {
+    "id": 69617,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "When power is concentrated in one central government, the constitution is said to be",
+    "options": {
+      "A": "republican",
+      "B": "semi-federal",
+      "C": "unitary",
+      "D": "federal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When power is concentrated in one central government, the constitution is said to be unitary. In a unitary system, the central government has total power, as opposed to a federal system where power is divided between central and regional governments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69617",
+    "passage": ""
   }
 ]
