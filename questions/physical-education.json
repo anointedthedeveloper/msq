@@ -5373,5 +5373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76285",
     "passage": ""
+  },
+  {
+    "id": 76291,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the first thing you should do when encountering a person with a severe, open wound?",
+    "options": {
+      "A": "Call for emergency medical help immediately.",
+      "B": "Apply pressure to the wound with a clean cloth or bandage.",
+      "C": "Suture the wound closed to stop the bleeding.",
+      "D": "Wash the wound with water and mild soap."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "faced with a severe, open wound that is bleeding heavily, the priority is to control the bleeding to prevent shock or excessive blood loss. Applying firm, direct pressure with a clean cloth or bandage helps the blood to clot and slows or stops the bleeding. While calling for emergency help is crucial, immediate bleeding control takes precedence to preserve life.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76291",
+    "passage": ""
   }
 ]
