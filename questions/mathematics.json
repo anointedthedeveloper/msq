@@ -4240,5 +4240,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8194",
     "passage": ""
+  },
+  {
+    "id": 8195,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A container has 30 gold medals, 22 silver medals and 18 bronze medals. If one medals is selected at the random from the container, what is the probability that it is not a gold medal?",
+    "options": {
+      "A": "9/35",
+      "B": "11/35",
+      "C": "4/7",
+      "D": "3/7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8195",
+    "passage": ""
   }
 ]
