@@ -3167,5 +3167,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50237",
     "passage": ""
+  },
+  {
+    "id": 50238,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The road signs in the picture above indicate",
+    "options": {
+      "A": "two ways traffic ahead",
+      "B": "dualised carriage ahead",
+      "C": "two junctions ahead",
+      "D": "two exit routes ahead"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/kdMZ06VJqtl40te7MtFHvQyeWH0ALtYCz5pAlLBl.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910761/myschool/civic-education/kdMZ06VJqtl40te7MtFHvQyeWH0ALtYCz5pAlLBl.jpg",
+    "correct_answer": "A",
+    "explanation": "The road sign shown in the image is a warning sign shaped like a triangle with two arrows pointing in opposite directions. It is a two-way traffic ahead sign that warns that a one-way road is ending and vehicles will now move in both directions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50238",
+    "passage": ""
   }
 ]
