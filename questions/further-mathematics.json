@@ -3756,5 +3756,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50585",
     "passage": ""
+  },
+  {
+    "id": 50586,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Find the mean of the distribution.",
+    "options": {
+      "A": "23.4",
+      "B": "23.6",
+      "C": "24.3",
+      "D": "24.6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Age in years Classmark (x) Frequency (f) fx 10 - 14 12 6 72 15 - 19 17 8 136 20 - 24 22 14 308 25 - 29 27 10 270 30 - 34 32 12 384 Total 50 1170\n\\(Mean = \\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{1170}{50} = 23.4\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50586",
+    "passage": ""
   }
 ]
