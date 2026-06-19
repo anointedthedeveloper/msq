@@ -1524,5 +1524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66506",
     "passage": ""
+  },
+  {
+    "id": 66507,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A meeting held by all employees of an organization is",
+    "options": {
+      "A": "a committee meeting",
+      "B": "an emergency meeting",
+      "C": "a staff meeting",
+      "D": "an annual general meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A staff meeting is a meeting attended by the members of staff of an organization, to discuss issues related to the running of the organization.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66507",
+    "passage": ""
   }
 ]
