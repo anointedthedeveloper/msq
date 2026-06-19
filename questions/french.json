@@ -249,5 +249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48123",
     "passage": ""
+  },
+  {
+    "id": 48124,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Au momeut de l' histoire parents de l'auteur",
+    "options": {
+      "A": "étaient trés avares",
+      "B": "étaient triés riches",
+      "C": "avaient beaucoup d' enfants",
+      "D": "avaient un seul enfant"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/fg55CyAKcAqKxdyf91e1wYnYCINwCCYkaLuYavtO.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890471/myschool/french/fg55CyAKcAqKxdyf91e1wYnYCINwCCYkaLuYavtO.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48124",
+    "passage": ""
   }
 ]
