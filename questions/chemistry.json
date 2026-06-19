@@ -8944,5 +8944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3796",
     "passage": ""
+  },
+  {
+    "id": 3797,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The reaction that takes place in Daniell's cell is",
+    "options": {
+      "A": "direct combination",
+      "B": "redox",
+      "C": "double decomposition",
+      "D": "neutralization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A Daniell cell undergoes a redox reaction where zinc is oxidized at the anode, releasing electrons that travel through a circuit to the cathode where copper ions are reduced to solid copper, generating an electric current.\nOxidation half-reaction: Zinc metal (Zn) is oxidized to zinc ions (Zn\\(^{2+}\\)) at the anode , releasing electrons. Zn(s) → Zn\\(^{2+}\\) + 2e\\(^-\\)\nReduction half-reaction: Copper ions Cu\\(^{2+}\\) are reduced to solid copper metal (Cu) at the cathode , accepting electrons. Cu\\(^{2+}\\) + 2e\\(^-\\) → Cu\nOverall reaction: Zn (s) + Cu\\(^{2+}\\) (aq) → Zn\\(^{2+}\\) (aq) + Cu (s).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3797",
+    "passage": ""
   }
 ]
