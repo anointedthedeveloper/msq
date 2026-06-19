@@ -2812,5 +2812,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73307",
     "passage": ""
+  },
+  {
+    "id": 73308,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Yoghurt is produced through a ............ process",
+    "options": {
+      "A": "Canning",
+      "B": "Bottling",
+      "C": "Fermentation",
+      "D": "Dehydration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Yoghurt is produced through the process of fermentation, where milk is heated and then cooled to a temperature suitable for the growth of friendly bacteria such as Lactobacillus bulgaricus and Streptococcus thermophilus. These bacteria convert the lactose (milk sugar) into lactic acid, which causes the milk to curdle and thicken, resulting in yoghurt.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73308",
+    "passage": ""
   }
 ]

@@ -1572,5 +1572,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61406",
     "passage": ""
+  },
+  {
+    "id": 61407,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A computer system on the network that stores pages, takes request from clients as well as send out information is called a",
+    "options": {
+      "A": "client",
+      "B": "web page",
+      "C": "web server",
+      "D": "website"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A web server is a software and hardware that uses HTTP and other protocols to respond to client requests made over the World Wide Web.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61407",
+    "passage": ""
   }
 ]
