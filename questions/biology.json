@@ -4706,5 +4706,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2300",
     "passage": ""
+  },
+  {
+    "id": 2301,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "In an epigeal germination, it is the",
+    "options": {
+      "A": "epicotyl that elongates fast",
+      "B": "hypocotyl that elongates fast",
+      "C": "hypogeal that elongates fast",
+      "D": "plumule that elongates fast",
+      "E": "roots that elongate fast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2301",
+    "passage": ""
   }
 ]
