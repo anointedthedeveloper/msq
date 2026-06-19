@@ -4281,5 +4281,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70739",
     "passage": ""
+  },
+  {
+    "id": 70740,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How does the scope of Physical Education extend beyond physical fitness?",
+    "options": {
+      "A": "It promotes social interaction and communication skills.",
+      "B": "It teaches advanced anatomy and physiology.",
+      "C": "It offers in-depth training for competitive sports.",
+      "D": "It focuses solely on building muscle strength."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Physical Education (PE) extends beyond physical fitness by promoting social interaction and communication skills, along with physical development. It emphasizes holistic development rather than just focusing on physical strength or academic subjects.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70740",
+    "passage": ""
   }
 ]
