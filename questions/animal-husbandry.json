@@ -941,5 +941,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49660",
     "passage": ""
+  },
+  {
+    "id": 49663,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following farm animals are monogastrics? I . Carmel II . Donkey III . Horse",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III",
+      "D": "I, II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Monogastric or Non- ruminant animals do not possess a rumen, reticulum, omasum, or abomasum. Instead, once their food is ingested it will eventually go through a functional caecum. Donkeys and horses are monogastric.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49663",
+    "passage": ""
   }
 ]
