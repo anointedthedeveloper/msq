@@ -12416,5 +12416,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68561",
     "passage": ""
+  },
+  {
+    "id": 68562,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The Magna Carta, signed in 1215, is an important historical document that limited the power of which figure?",
+    "options": {
+      "A": "Kings and Monarchs",
+      "B": "The Pope",
+      "C": "Military Generals",
+      "D": "Wealthy Merchants"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Magna Carta, signed in 1215, is an important historical document that limited the power of Kings and Monarchs. It was a charter of liberties to which the English barons forced King John to give his assent. It is widely viewed as one of the most important legal documents in the development of modern democracy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68562",
+    "passage": ""
   }
 ]
