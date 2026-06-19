@@ -5038,5 +5038,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12793",
     "passage": ""
+  },
+  {
+    "id": 12795,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a tuned radio receiver R, L, C series circuit for resonance, the inductive and capacitive reactance X\nL\nand X\nC\nrespectively are related as",
+    "options": {
+      "A": "X L = X C",
+      "B": "X L = 1 / 2 X C",
+      "C": "X L = 1 / X C",
+      "D": "X L = 2X C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12795",
+    "passage": ""
   }
 ]
