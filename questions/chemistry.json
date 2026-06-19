@@ -11296,5 +11296,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4329",
     "passage": ""
+  },
+  {
+    "id": 4340,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The gas that is most useful in protecting humans against solar radiation is?",
+    "options": {
+      "A": "chlorine",
+      "B": "ozone",
+      "C": "carbon (IV) oxide",
+      "D": "hydrogen sulphide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The ozone layer in the stratosphere absorbs a portion of the radiation from the sun, preventing it from reaching the planet's surface.\nMost importantly, it absorbs the portion of UV light called UVB.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4340",
+    "passage": ""
   }
 ]
