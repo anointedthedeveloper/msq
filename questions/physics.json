@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1450",
     "passage": ""
+  },
+  {
+    "id": 1452,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A 2H inductor has negligible resistance and is connected to a 50/π Hz A.C. Supply. The reactance of the inductor is",
+    "options": {
+      "A": "200 Ω",
+      "B": "50 Ω",
+      "C": "100/π Ω",
+      "D": "25/π Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1452",
+    "passage": ""
   }
 ]
