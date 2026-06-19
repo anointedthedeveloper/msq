@@ -1797,5 +1797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66539",
     "passage": ""
+  },
+  {
+    "id": 66540,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Use the following information to answer questions below:\nAdams has just been employed by a large organization as the first person whom callers and visitors would see when visiting the organization\nTo keep records of callers and clients who come for the organization,Adams office must be provided with____________",
+    "options": {
+      "A": "attendance register",
+      "B": "visitors' book",
+      "C": "mail register",
+      "D": "dispatch book"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Visitors book is a paper or electronic means for visitor to acknowlege a visit to a site, physical or web-based, and leave details such as their name,postal or electronic address and any comments.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66540",
+    "passage": ""
   }
 ]
