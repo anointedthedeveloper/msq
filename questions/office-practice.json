@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66142",
     "passage": ""
+  },
+  {
+    "id": 66146,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A good information should be",
+    "options": {
+      "A": "relevant",
+      "B": "voluminous",
+      "C": "costly",
+      "D": "archived"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A good information should be relevant, clear, accurate, timeliness, target, quality and complete.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66146",
+    "passage": ""
   }
 ]
