@@ -7684,5 +7684,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69779",
     "passage": ""
+  },
+  {
+    "id": 69780,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "When performing computer recovery operations after a system crash, the startup disk is used to",
+    "options": {
+      "A": "restore the system to an earlier time",
+      "B": "update the application packages",
+      "C": "backup deleted users file",
+      "D": "recover the system disk from an image file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When performing computer recovery operations after a system crash, the startup disk is used to recover the system disk from an image file. A startup disk typically contains essential system files and tools that are required to boot the computer and initiate recovery procedures. One common approach to recovery after a system crash is to use an image of the system disk taken at a stable and functional state. This image is often referred to as a \"system image\" or \"backup image.\" By using the startup disk and this image, you can restore the entire system to a previous state, which can include the operating system, applications, and data. This process helps in recovering from crashes and issues that render the system inoperable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69780",
+    "passage": ""
   }
 ]
