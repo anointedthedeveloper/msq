@@ -7612,5 +7612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76188",
     "passage": ""
+  },
+  {
+    "id": 76189,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane nau'i ne kalmar *karatu* take a jumla: *Ina son karatu sosai *?",
+    "options": {
+      "A": "Mai dauke da suna",
+      "B": "Aiki",
+      "C": "Sifa",
+      "D": "Suna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Karatu\" here is a noun because it names an activity or thing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76189",
+    "passage": ""
   }
 ]
