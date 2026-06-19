@@ -2393,5 +2393,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1210",
     "passage": ""
+  },
+  {
+    "id": 1211,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Public opinion becomes politically relevant when it",
+    "options": {
+      "A": "criticises people in power",
+      "B": "influences the decision of government",
+      "C": "aggregates views and interests",
+      "D": "is in support of government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1211",
+    "passage": ""
   }
 ]
