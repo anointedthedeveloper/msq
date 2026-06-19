@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66158",
     "passage": ""
+  },
+  {
+    "id": 66161,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "An example of open office in a school is the",
+    "options": {
+      "A": "principal's office",
+      "B": "staff room",
+      "C": "bursar's office",
+      "D": "security post"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Staff room is an example of open office in a school system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66161",
+    "passage": ""
   }
 ]
