@@ -4092,5 +4092,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73884",
     "passage": ""
+  },
+  {
+    "id": 73885,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Wace jimla ce ke dauke da bayanau?",
+    "options": {
+      "A": "Audu ya ci nama.",
+      "B": "Akuyar Bello ta mutu.",
+      "C": "Jamila ta iya tuwo.",
+      "D": "Keken Gambo kore ne."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Which sentence contains a modifier? Answer: Akuyar Bello ta mutu (The sentence contains the modifier \"Akuyar\", which gives more information about the verb \"mutu\". The other options do not contain modifiers)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73885",
+    "passage": ""
   }
 ]
