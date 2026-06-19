@@ -5016,5 +5016,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70836",
     "passage": ""
+  },
+  {
+    "id": 70837,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which mineral deficiency is associated with muscle weakness and is corrected by increasing intake of which mineral?",
+    "options": {
+      "A": "Magnesium",
+      "B": "Calcium",
+      "C": "Zinc",
+      "D": "Iron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Magnesium is crucial for numerous bodily functions, including muscle and nerve function. A deficiency can manifest as muscle weakness, cramps, and fatigue. Increasing magnesium intake through diet or supplements can help alleviate these symptoms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70837",
+    "passage": ""
   }
 ]
