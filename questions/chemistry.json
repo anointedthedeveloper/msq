@@ -11443,5 +11443,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4346",
     "passage": ""
+  },
+  {
+    "id": 4347,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A cracking process in petroleum refining can be represented by",
+    "options": {
+      "A": "heptane to heptene",
+      "B": "heptane to 3-methylhexane",
+      "C": "heptane to propene and butane",
+      "D": "heptane to 2,3,3-trimethybutane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4347",
+    "passage": ""
   }
 ]
