@@ -4239,5 +4239,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70737",
     "passage": ""
+  },
+  {
+    "id": 70738,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which postural defect involves an abnormal lateral curvature of the spine, usually occurring during growth spurts or adolescence?",
+    "options": {
+      "A": "Scoliosis",
+      "B": "Flatfoot",
+      "C": "Lordosis",
+      "D": "Kyphosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Scoliosis is characterized by an abnormal lateral curvature of the spine, often detected during growth spurts or adolescence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70738",
+    "passage": ""
   }
 ]
