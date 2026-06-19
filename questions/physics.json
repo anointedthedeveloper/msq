@@ -10605,5 +10605,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14359",
     "passage": ""
+  },
+  {
+    "id": 14371,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A metal of volume 40 cm\\(^3\\) is heated from 30 °c to 90 °c, the increase in volume is\n[Linear expansivity of the metal = 2.0 x 10\\(^{-5}\\)K\\(^{-1}\\)]",
+    "options": {
+      "A": "0.12 cm 3",
+      "B": "4.00 cm 3",
+      "C": "1.20 cm 3",
+      "D": "0.40 cm 3",
+      "E": "no correct option"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "increase in volume, \\(\\Delta\\)V = V x 3\\(\\alpha\\) x \\(\\Delta \\theta\\) = 3 x 2.0 X 10\\(^{-5}\\) x 40 x (90 - 30) = 6 x 10\\(^{-5}\\) x 40 x 60 0.144 cm\\(^3\\) ∴ No correct option\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14371",
+    "passage": ""
   }
 ]
