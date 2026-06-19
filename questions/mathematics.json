@@ -11713,5 +11713,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22350",
     "passage": ""
+  },
+  {
+    "id": 22351,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Instead of recording the number 1.23cm of the radius of a tube, a student recorded 1.32cm. Find the percentage of error, correct to one decimal place.",
+    "options": {
+      "A": "6.8%",
+      "B": "7.3%",
+      "C": "9.6%",
+      "D": "14.4%",
+      "E": "15.4%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "% error = error / exact x 100 / 1\n= 0.09 / 1.23 x 100 / 1 = 7.3%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22351",
+    "passage": ""
   }
 ]
