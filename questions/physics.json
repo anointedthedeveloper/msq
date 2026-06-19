@@ -12099,5 +12099,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14507",
     "passage": ""
+  },
+  {
+    "id": 14508,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A bob of weight 0.1 N hangs from a massless string of length 50 cm. A variable horizontal force which increase from zero is applied to pull the bob until the string makes an angle of 60o with the vertical. The work done is?",
+    "options": {
+      "A": "0.500 J",
+      "B": "0.250 J",
+      "C": "0.050 J",
+      "D": "0.025 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Length of the string L = y + x = 0.5m ∴ x = L - y = distance moved in the direction of force (which is the weight) when the body is released But cos 60o = y/0.5 ∴ y = 0.5cos60 = 0.5 x 1/2 = 0.25 ∴ x = l - y = 0.5 - 0.25 = 0.25m Work done = force x distance moved in the direction of force. = 0.1 x 0.25 = 0.025J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14508",
+    "passage": ""
   }
 ]
