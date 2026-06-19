@@ -11053,5 +11053,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22097",
     "passage": ""
+  },
+  {
+    "id": 22098,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1998",
+    "question": "If log\\(_{10}\\) a = 4; what is a?",
+    "options": {
+      "A": "0.4",
+      "B": "40",
+      "C": "400",
+      "D": "1000",
+      "E": "10000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "log\\(_{10}\\) a = 4\na = 10\\(^4\\)\n= 10000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22098",
+    "passage": ""
   }
 ]
