@@ -4218,5 +4218,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1760",
     "passage": ""
+  },
+  {
+    "id": 2129,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The property which makes alcohol soluble in water is the",
+    "options": {
+      "A": "boiling point",
+      "B": "hydrogen bonding",
+      "C": "ionic character",
+      "D": "covalent nature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The property that makes alcohol soluble in water is hydrogen bonding, which occurs between the hydroxyl group in alcohol and water molecules. The hydroxyl group in alcohol is hydrophilic, meaning it's \"water-loving\". This group forms hydrogen bonds with water molecules, which makes alcohol soluble in water.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2129",
+    "passage": ""
   }
 ]
