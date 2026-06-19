@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/183",
     "passage": ""
+  },
+  {
+    "id": 184,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The postal organization which preceded the Nigerian Postal Service is",
+    "options": {
+      "A": "Post and Telecommunication",
+      "B": "Post and Telephone",
+      "C": "Post and Teleprinter",
+      "D": "Post and Telegraph"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/184",
+    "passage": ""
   }
 ]
