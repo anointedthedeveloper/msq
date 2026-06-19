@@ -4387,5 +4387,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8201",
     "passage": ""
+  },
+  {
+    "id": 8202,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If the operation * on the set of integers is defined by P * Q = \\(\\sqrt{PQ}\\), find the value of 4 * ( 8 * 32).",
+    "options": {
+      "A": "8",
+      "B": "3",
+      "C": "16",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(P\\times Q =\\sqrt{PQ}\\)\n4\\(\\times(8\\times32) = 4\\times\\sqrt{8\\times32}\\)\n= 4\\(\\times\\sqrt{256}\\) =4\\(\\times16\\) = \\(\\sqrt{4\\times16}\\)\n=\\(\\sqrt{64}\\) = 8\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8202",
+    "passage": ""
   }
 ]
