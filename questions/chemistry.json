@@ -11380,5 +11380,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4343",
     "passage": ""
+  },
+  {
+    "id": 4344,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The type of iron that is best suited for welding, making nails, chains and iron rods is?",
+    "options": {
+      "A": "pig iron",
+      "B": "wrought iron",
+      "C": "cast iron",
+      "D": "iron pyrites"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "uses of wrought iron\nIt is used to make decor items like table base, candle holder, curtain rods etc. It is used in making pipes. It is used in making fences and gates. It is used in making nuts, bolts, rivets etc. It is used in making chains.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4344",
+    "passage": ""
   }
 ]
