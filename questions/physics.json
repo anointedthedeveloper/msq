@@ -7747,5 +7747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13962",
     "passage": ""
+  },
+  {
+    "id": 13970,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A charge 50 µc has electric field strength of 360 NC-1 at a certain point. The electric field strength due to another charge 120 µc kept at the same distance apart and in the same medium is?",
+    "options": {
+      "A": "864 NC -1",
+      "B": "150 NC -1",
+      "C": "144 NC -1",
+      "D": "18 NC -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In general, electric field strength E = \\(\\frac{(F)}{q}\\)\nE = \\(\\frac{q}{4\\pi\\varepsilon_0d^2}\\)\n⇒ 360 = \\(\\frac{9\\times10^9\\times50\\times10^-6}{d^2}\\)\nsolving, we have \\(d^2\\) = 1250\nputting \\(d^2\\) = 1250 into the second equation,\nE = \\(\\frac{9\\times10^9\\times120\\times10^-6}{1250}\\)\nwe have E = \\(864NC^-1\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13970",
+    "passage": ""
   }
 ]
