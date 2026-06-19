@@ -10477,5 +10477,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4249",
     "passage": ""
+  },
+  {
+    "id": 4255,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A hydrocarbon X with a molar mass of 26 consists of 92.3% carbon. What is its molecular formular?",
+    "options": {
+      "A": "C 2 H 2",
+      "B": "C 3 H 3",
+      "C": "C 4 H 4",
+      "D": "C 5 H 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "% of H2 = 100 - 92.3 = 7.7% mole = Carbon [92.3 / 12] = 7.7\nHydrogen [7.7 / 1] = 7.7\ndivide with the lowest:\nCarbon - 7.1 / 7.1 = 1\nHydrogen  - 7.1 / 7.1 = 1\nempirical formula = CH\n(CH)n = 26 (12 + 1)n = 26 (13)n = 26 n = 26/13 = 2\nmolecular formula = C\\(_2\\)H\\(_2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4255",
+    "passage": ""
   }
 ]
