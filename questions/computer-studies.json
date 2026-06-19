@@ -3848,5 +3848,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62250",
     "passage": ""
+  },
+  {
+    "id": 62251,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If the output signal of any logic gate is fed into an inverter, the results is?    .",
+    "options": {
+      "A": "NOT gate",
+      "B": "Nor gate",
+      "C": "the inverse of the output signal",
+      "D": "the same as the output signal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Logic Inverters are also known as NOT gates. It mainly inverts the bit. If input is logic 1 output will be logic 0 and vice versa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62251",
+    "passage": ""
   }
 ]
