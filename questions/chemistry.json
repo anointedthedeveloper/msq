@@ -5499,5 +5499,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2521",
     "passage": ""
+  },
+  {
+    "id": 2522,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Ethene reacts with hydrogen bromide to give",
+    "options": {
+      "A": "CH 2 Br 2",
+      "B": "CH 3 CH 2 Br",
+      "C": "C 2 H 2 Br 2",
+      "D": "CHBr 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When ethene, C\\(_2\\)H\\(_4\\) reacts with hydrogen bromide (HBr), the product is bromoethane (C\\(_2\\)H\\(_5\\)Br):\nC\\(_2\\)H\\(_4\\)   +   HBr  →  C\\(_2\\)H\\(_5\\)Br\nThis reaction is an addition reaction where HBr adds across the double bond of ethene:\nThe double bond breaks A hydrogen atom attaches to one of the carbons A bromine atom attaches to the other\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2522",
+    "passage": ""
   }
 ]
