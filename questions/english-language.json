@@ -7433,5 +7433,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3024",
     "passage": ""
+  },
+  {
+    "id": 3025,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : In the past 20 years, many patients .... by the doctors in the specialist hospital.",
+    "options": {
+      "A": "are treated",
+      "B": "were loved to treated",
+      "C": "have been treated",
+      "D": "treated",
+      "E": "have treated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The time marker “in the past 20 years” suggests something that started in the past and continues up to the present . That requires the Present Perfect tense (have/has + past participle).\nThe subject is “many patients” , not the doctors. So we need a passive construction : have been + past participle .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3025",
+    "passage": ""
   }
 ]
