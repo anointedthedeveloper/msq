@@ -2623,5 +2623,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75396",
     "passage": ""
+  },
+  {
+    "id": 75397,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In painting, a 'warm' colour palette consists of:",
+    "options": {
+      "A": "White, grey, black",
+      "B": "Yellow, orange, red",
+      "C": "Brown, navy, silver",
+      "D": "Blue, green, violet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Warm colours remind us of heat, sunlight, and fire. They take up half of the color wheel and seem to advance in a painting, making spaces feel cozy or energetic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75397",
+    "passage": ""
   }
 ]
