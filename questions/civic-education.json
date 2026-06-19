@@ -3670,5 +3670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50265",
     "passage": ""
+  },
+  {
+    "id": 50268,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "HIV/AIDS is generally described as terminal in nature because it is",
+    "options": {
+      "A": "preventable",
+      "B": "transmittable",
+      "C": "avertable",
+      "D": "incurable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A terminal illness is a disease that cannot be cured or treated (for an improved prognosis) and is thus likely to cause death within no more than a few years. HIV/AIDS is a terminal illness if one does not have access to care and/or is non compliant with his or her medical therapy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50268",
+    "passage": ""
   }
 ]
