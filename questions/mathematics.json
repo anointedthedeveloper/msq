@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1050",
     "passage": ""
+  },
+  {
+    "id": 1058,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Given that the various faces of a fair dice 1, 2, 3, 4, 5, 6 appeared 30, 43, 54, 40, 41, 32 times respectively in a single toss. Picture the figures as being represented in a simple table with number (X) against frequency (f). If a pie chart is used to depict the data, the angle corresponding to 4 is?",
+    "options": {
+      "A": "10°",
+      "B": "16°",
+      "C": "40°",
+      "D": "60°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Angle corresponding to 4 is 40/240 x 360/1 = 60° Note that total angle in a circle is 360°. Note also that sum of the frequencies given is 240.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1058",
+    "passage": ""
   }
 ]
