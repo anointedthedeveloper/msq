@@ -8452,5 +8452,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62668",
     "passage": ""
+  },
+  {
+    "id": 62669,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The Slide Rule is accurate to?",
+    "options": {
+      "A": "1-2 decimal places.",
+      "B": "3-4 decimal places.",
+      "C": "5 decimal places.",
+      "D": "6 decimal places."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This is because the Slide Rule uses logarithms to perform calculations, and logarithms are accurate to a few decimal places. The accuracy of the Slide Rule also depends on the quality of the Slide Rule and the skill of the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62669",
+    "passage": ""
   }
 ]
