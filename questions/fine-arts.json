@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48034",
     "passage": ""
+  },
+  {
+    "id": 48035,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following is best arranged in order of softness?",
+    "options": {
+      "A": "2B, H and 3B",
+      "B": "3B, 2B, H and HB",
+      "C": "H, HB, 2B and 3B",
+      "D": "3B, HB, H and 2B"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48035",
+    "passage": ""
   }
 ]
