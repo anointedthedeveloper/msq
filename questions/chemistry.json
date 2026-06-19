@@ -8986,5 +8986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3805",
     "passage": ""
+  },
+  {
+    "id": 3808,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "C\\(_2\\)H\\(_4\\)(g) + H\\(_2\\)(g) → C\\(_2\\)H\\(_6\\)(g)  ΔH = -137kJ mol-1 The reaction represented above is",
+    "options": {
+      "A": "exothermic",
+      "B": "spontaneous",
+      "C": "endothermic",
+      "D": "in equilibrium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since ΔH has a negative value, it implies an exothermic reaction, which means a lot of heat is being liberated or evolved from the system to the environment.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3808",
+    "passage": ""
   }
 ]
