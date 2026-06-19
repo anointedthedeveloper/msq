@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/717",
     "passage": ""
+  },
+  {
+    "id": 718,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A gas would serve as an electrical conductor under",
+    "options": {
+      "A": "reduced pressure and high current",
+      "B": "increased magnetic field",
+      "C": "reduced pressure and reduced potential",
+      "D": "exposure to visible light"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/718",
+    "passage": ""
   }
 ]
