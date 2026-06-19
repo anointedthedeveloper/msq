@@ -9347,5 +9347,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3906",
     "passage": ""
+  },
+  {
+    "id": 3907,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below choose the phrase or word which best completes the meaning of each sentence : He was .... he had no time to eat",
+    "options": {
+      "A": "so busy that",
+      "B": "very busy",
+      "C": "very busy that",
+      "D": "too busy that",
+      "E": "busy that"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The phrase \"so busy that\" is the correct construction to show a cause-and-effect relationship in the sentence. This means that his level of busyness caused him to have no time to eat.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3907",
+    "passage": ""
   }
 ]
