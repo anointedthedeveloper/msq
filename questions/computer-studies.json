@@ -10574,5 +10574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62773",
     "passage": ""
+  },
+  {
+    "id": 62774,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Viruses, worms and trojan horses are all?",
+    "options": {
+      "A": "application software",
+      "B": "malicious software.",
+      "C": "robust software.",
+      "D": "system software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62774",
+    "passage": ""
   }
 ]
