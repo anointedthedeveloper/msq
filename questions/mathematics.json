@@ -11537,5 +11537,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22342",
     "passage": ""
+  },
+  {
+    "id": 22343,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above, TPS is a straight line, PQRS is a parallelogram with base QR and height 8cm. |QR| = 6cm and the area of triangle QST is 52cm2. Find the area of ΔQPT",
+    "options": {
+      "A": "39cm 2",
+      "B": "28cm 2",
+      "C": "24cm 2",
+      "D": "21cm 2",
+      "E": "19cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Goj15fiqldeNEkeD0RbIq0wAJMWKd7rhBeKppbdq.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907119/myschool/mathematics/Goj15fiqldeNEkeD0RbIq0wAJMWKd7rhBeKppbdq.png",
+    "correct_answer": "B",
+    "explanation": "Area of \\(\\Delta\\)QST = 52cm\\(^2\\); height = 8cm b=base length; but A = 1/2 b x h =52=1/2 x b x 8cm = 104 =8b b=104/8 = 13cm; ST= 13cm; PS = 6cm TP = 13 - 6 = 7cm; area of \\(\\Delta\\)QST = 1/2 b x h = 1/2 x 7 x 8/1 = 28cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22343",
+    "passage": ""
   }
 ]
