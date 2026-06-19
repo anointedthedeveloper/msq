@@ -2493,5 +2493,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6210",
     "passage": ""
+  },
+  {
+    "id": 6213,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The appropriate geographical term for that narrow feature east of Ela Lagoon along which a footpath runs is",
+    "options": {
+      "A": "lake",
+      "B": "ocean",
+      "C": "bach sand",
+      "D": "isthmus",
+      "E": "sand bar"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24836774852_13020627_1057687810962552_1132757905_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888158/myschool/geography/24836774852_13020627_1057687810962552_1132757905_n.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6213",
+    "passage": ""
+  },
+  {
+    "id": 6214,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "What is the approximate height of Manko above the sea level?",
+    "options": {
+      "A": "46.0m",
+      "B": "35.0m",
+      "C": "30.0m",
+      "D": "21.0m",
+      "E": "12.0m"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24836780853_13020627_1057687810962552_1132757905_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888192/myschool/geography/24836780853_13020627_1057687810962552_1132757905_n.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6214",
+    "passage": ""
   }
 ]
