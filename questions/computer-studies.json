@@ -10301,5 +10301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62760",
     "passage": ""
+  },
+  {
+    "id": 62761,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "To centre worksheet titles across a range of cells MS Excel, the user must?",
+    "options": {
+      "A": "widen the rows to centres the titles across the range of cells.",
+      "B": "widen the columns to centre the titles across range of cell",
+      "C": "select the cells containing the title text and use the fill handle to centre the text across the range of cells.",
+      "D": "select any cell containing the title text and use the fill handle to centre the text across a range of cells."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To center worksheet titles across a range of cells in MS Excel, the user must select the cells containing the title text and use the fill handle to center the text across the range of cells. The fill handle is a small black square that appears in the bottom right corner of a selected cell or range of cells. To use the fill handle to center the text across a range of cells, simply select the cells containing the title text and then drag the fill handle down the range of cells. The text in the selected cells will be centered across the range of cells.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62761",
+    "passage": ""
   }
 ]
