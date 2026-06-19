@@ -21179,5 +21179,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76911",
     "passage": ""
+  },
+  {
+    "id": 76912,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "An advantage of sequential access over serial access is that",
+    "options": {
+      "A": "individual records can be located more quickly",
+      "B": "sequential file does not use key",
+      "C": "sequential file is slow",
+      "D": "sequential file is detailed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sequential access means that records are accessed one after the other in a specific order, usually based on a key field. This can make it quicker to locate individual records compared to serial access, where records are accessed in the order they were entered, without any specific order.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76912",
+    "passage": ""
   }
 ]
