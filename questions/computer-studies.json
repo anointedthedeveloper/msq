@@ -16998,5 +16998,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69816",
     "passage": ""
+  },
+  {
+    "id": 69817,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Machine language instruction codes are expressed in",
+    "options": {
+      "A": "hexadecimal",
+      "B": "EBCDIC",
+      "C": "ASCII",
+      "D": "binary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Machine language instruction codes are expressed in \"binary.\" Machine language is the lowest level of programming language that a computer can understand. It is a series of binary digits (bits) that tell the computer what to do. Each instruction in machine language is a sequence of 8 bits, called a byte. The bits in a machine language instruction code represent different things. For example, some bits might represent the operation that the computer should perform, while others might represent the operands of the operation. Binary is the only language that the computer can understand directly. Therefore, machine language instruction codes are always expressed in binary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69817",
+    "passage": ""
   }
 ]
