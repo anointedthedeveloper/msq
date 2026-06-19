@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75185",
     "passage": ""
+  },
+  {
+    "id": 75187,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Answer question below using the passage below. الوقت كالسيف إن لم تقطعه قطعك\"، هذا المثل يعكس أهمية استغلال الوقت وعدم تضييع اللحظات التمينة في الكسل أو الإهمال. كما أن \"العلم نور والجهل ظلام\" يوضح أن العلم ينير العقول ويوجه الإنسان إلى الصواب، في حين أن الجهل يقوده إلى الضياع. كذلك، \"الصديق وقت الضيق\" مثل يؤكد أن الصديق الحقيقي هو من يبقى إلى جانبك في الأوقات الصعبة، لا من يختفي عند الشدائد. ومن الأقوال المأتورة في الإسلام: \"النظافة من الإيمان\"، فهي تدل على أن النظافة ليست مجرد عادة، بل جزء أساسي من الإيمان والتقوى. وأخيرًا، يقول أحد الشعراء: \"إذا غامرت في شرف مروم فلا تقنع بما .دون النجوم\"، دعوة للتمسك بالطموح العالي وعدم الرضا بالقليل إذا أردنا المجد والكرامة ماذا يُفهم من الجملة: \"الوقت كالسيف إن لم تقطعه قطعك\"؟",
+    "options": {
+      "A": "الوقت تمين ويجب استغلاله",
+      "B": "الوقت بطيء جدًا",
+      "C": "الوقت لا قيمة له",
+      "D": "الوقت سهل السيطرة عليه"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The proverb likens time to a sword-if you don't manage it, it harms you. So, time is valuable and must be used wisely.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75187",
+    "passage": ""
   }
 ]
