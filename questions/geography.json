@@ -1168,5 +1168,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/946",
     "passage": ""
+  },
+  {
+    "id": 950,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The set of trees most suitable for pulp and paper making is",
+    "options": {
+      "A": "spruce, mahogany and obeche",
+      "B": "fir, obeche and ebony",
+      "C": "spruce, fir and pine",
+      "D": "pine, eucalyptus and mahogany"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/950",
+    "passage": ""
   }
 ]
