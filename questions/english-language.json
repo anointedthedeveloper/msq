@@ -1229,5 +1229,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/563",
     "passage": ""
+  },
+  {
+    "id": 565,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; Many lives are lost on Nigerian roads .... lack of consideration for other road users by many crazy drivers",
+    "options": {
+      "A": "in view of",
+      "B": "resulting in",
+      "C": "owing totally to",
+      "D": "through",
+      "E": "by"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence needs an expression that clearly shows cause .\nC. owing totally to means entirely because of. It clearly expresses cause.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/565",
+    "passage": ""
   }
 ]
