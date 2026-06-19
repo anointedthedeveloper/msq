@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75211",
     "passage": ""
+  },
+  {
+    "id": 75212,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما هي اللغة الرسمية للقرآن الكريم؟",
+    "options": {
+      "A": "السريانية",
+      "B": "العبرية",
+      "C": "الفارسية",
+      "D": "العربية"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": ".(بلسان عربي مبين) The",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75212",
+    "passage": ""
   }
 ]
