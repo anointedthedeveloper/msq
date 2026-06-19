@@ -14511,5 +14511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7425",
     "passage": ""
+  },
+  {
+    "id": 7427,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The daily official publications of the Nigeria Stock Exchange give detailed information on the?",
+    "options": {
+      "A": "changes in the official rules set by the market",
+      "B": "method of transactions agreed upon by members",
+      "C": "participation of members in a day",
+      "D": "changes in the price of securities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Nigerian Stock Exchange daily publications are made up of the individual ratings and participation of listed companies in the market. It shows top gainers and losers and their market contribution as well as the value of shares as against the previous day.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7427",
+    "passage": ""
   }
 ]
