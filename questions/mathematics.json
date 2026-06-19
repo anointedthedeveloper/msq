@@ -7243,5 +7243,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9246",
     "passage": ""
+  },
+  {
+    "id": 9247,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the parallelogram PQRS above, find angle SQR",
+    "options": {
+      "A": "100 o",
+      "B": "80 o",
+      "C": "50 o",
+      "D": "30 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13564651310_math200741.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868693/myschool/mathematics/13564651310_math200741.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9247",
+    "passage": ""
   }
 ]
