@@ -196,5 +196,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/144",
     "passage": ""
+  },
+  {
+    "id": 145,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If a company doubles all its inputs and discovers that its output is more than doubles, we can say that the company is experiencing",
+    "options": {
+      "A": "Increasing Marginal utility",
+      "B": "Diseconomies of scale",
+      "C": "Increasing costs",
+      "D": "Constant returns to scale",
+      "E": "Increasing returns to scale"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A company is said to be experiencing increasing returns to scale when the output increases by a larger proportion than the increase in inputs during the production process.\nFor example, if the input is increased by 3 times, but output increases by 3.75 times, then the firm or economy has experienced an increasing returns to scale.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/145",
+    "passage": ""
   }
 ]
