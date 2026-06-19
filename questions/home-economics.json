@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73250",
     "passage": ""
+  },
+  {
+    "id": 73252,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The body outline or figure of a person is called",
+    "options": {
+      "A": "Figure",
+      "B": "Size",
+      "C": "Personality",
+      "D": "Outfit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The figure refers to a person’s body shape or outline, including their proportions, contours, height, weight, and overall appearance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73252",
+    "passage": ""
   }
 ]
