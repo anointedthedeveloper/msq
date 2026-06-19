@@ -14834,5 +14834,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23146",
     "passage": ""
+  },
+  {
+    "id": 23147,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Factorize the expression 2y\\(^2\\) + xy - 3x\\(^2\\)",
+    "options": {
+      "A": "2y (y + x) - 3x 2",
+      "B": "(2y - x)(2y + x)",
+      "C": "(3x - 2y(x - y)",
+      "D": "(2y + 3x)(y - x)",
+      "E": "(x – y)(2y + 3x)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2y\\(^2\\) + xy - 3x\\(^2\\)\n2y\\(^2\\) + 3xy - 2xy - 3x\\(^2\\)\ny(2y + 3x) - x(2y + 3x)\n= (y - x)(2y + 3x)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23147",
+    "passage": ""
   }
 ]
