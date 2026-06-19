@@ -1740,5 +1740,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73684",
     "passage": ""
+  },
+  {
+    "id": 73685,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "'Aliyu yana cin abinci kuma yana surutu'. Kalmar mahadi a nan ce.",
+    "options": {
+      "A": "ci",
+      "B": "Aliyu",
+      "C": "kuma",
+      "D": "abinci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "kuma.\n\"Aliyu is eating food and also drinking.\" The conjunction used in this sentence is kuma. In English, the sentence would be:\n\"Aliyu is eating food and also drinking.\"\nThe word \"kuma\" is a conjunction that means \"and\" or \"also\", used to connect two clauses or phrases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73685",
+    "passage": ""
   }
 ]
