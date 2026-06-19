@@ -8335,5 +8335,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3301",
     "passage": ""
+  },
+  {
+    "id": 3302,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "What is the molar mass of a substance, if 0.4 mole of the substance has a mass of 25.0g?",
+    "options": {
+      "A": "62.5 g",
+      "B": "40.0 g",
+      "C": "6.3 g",
+      "D": "2.5 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given:\nm = 25g\nn = 0.4\nM = ?\nUsing Number of moles, n = \\(\\frac{mass}{Molar mass}\\)\nM = \\(\\frac{m}{n}\\)\nM = \\(\\frac{25}{0.4}\\)\nM = 62.5g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3302",
+    "passage": ""
   }
 ]
