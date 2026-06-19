@@ -8314,5 +8314,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9298",
     "passage": ""
+  },
+  {
+    "id": 9299,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In how many ways can the letters of the word ACCEPTANCE be arranged?",
+    "options": {
+      "A": "\\(\\frac{10!}{(2!2!3!)}\\)",
+      "B": "\\(\\frac{10!}{( 2!3!)}\\)",
+      "C": "\\(\\frac{10!}{(2!2!)}\\)",
+      "D": "10!"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "ACCEPTANCE = 10 Letters A = 2 letters C = 3 letters E = 2 letters It can be arranged in \\(\\frac{10!}{(2!3!2!)}\\) ways\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9299",
+    "passage": ""
   }
 ]
