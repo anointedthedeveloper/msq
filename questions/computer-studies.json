@@ -14938,5 +14938,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64980",
     "passage": ""
+  },
+  {
+    "id": 64981,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Add 127\\(_{16}\\) to  50A\\(_{16}\\)",
+    "options": {
+      "A": "629\\(_{16}\\)",
+      "B": "630\\(_{16}\\)",
+      "C": "631\\(_{16}\\)",
+      "D": "632\\(_{16}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(1 2 7_{16}\\)\n+    \\(5 0 10_{16}\\)\n=    \\(6 3 1_{16}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64981",
+    "passage": ""
   }
 ]
