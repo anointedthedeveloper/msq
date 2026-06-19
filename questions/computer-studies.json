@@ -8267,5 +8267,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62577",
     "passage": ""
+  },
+  {
+    "id": 62578,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a) Define logic gate.\n(b) Give one example each of: (i) standard logic gate; (ii) alternative logic gate.\n(c) Using P and Q as inputs and R as output:\n(i) draw the logic symbol for an XOR logic gate: (ii) construct the truth table for XOR logic gate.\n(d) List two uses of a logic gate.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Logic gate is an elementary building block of a digital circuit with the two binary conditions, i.e.; low (0) or high (1) which is a representation of different voltage levels.\nOR\nLogic gate is a logical circuit in digital devices with one or more inputs but only one output channel.\n(b)(i) AND logic gate, OR logic gate and NOT logic gate.\n(ii) NAND logic gate, XNOR logic gate, NOR logic gate and XOR logic gate.\n(ci) see the diagram above. XOR Logic gate symbol.\n(ii) Truth Table for XOR logic gate\nINPUT OUTPUT p Q R 0 0 0 0 1 1 1 0 1 1 1 0\n(d) Uses of Logic Gate:\nLogic gates are used as building blocks of digital electronic hardware\nLogic gates are used in the construction of simple comparator.\nLogic gates are used for decision making.\nIt is used in constructing alarms.\nIt is used in push-button lock circuit.\nIt is used in traffic light controller.\nIt is used in light-activated burglar.\nIt is used in safety thermostat, an automatic watering system.\nIt is used in the Arithmetic and Logic Unit (ALU).\nIt is used in error checking in FM transmission.\nIt is used in Micro-controller circuits.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62578",
+    "passage": ""
   }
 ]
