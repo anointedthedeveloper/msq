@@ -4529,5 +4529,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2075",
     "passage": ""
+  },
+  {
+    "id": 2076,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the appropriate option to fill the gap in the following sentences : We couldn't find the official who was to act as our guide ...., he has left before we arrived",
+    "options": {
+      "A": "Moreover",
+      "B": "Actually",
+      "C": "Nevertheless",
+      "D": "However",
+      "E": "Even"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word \"actually\" is used here to:\nIntroduce a surprising or unexpected fact that explains the first part of the sentence. The unexpected reason for not finding the guide is that he left early. Correct or clarify the situation implied in the first clause (they just couldn't find him). The second clause clarifies the true, final reason (he had already departed).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2076",
+    "passage": ""
   }
 ]
