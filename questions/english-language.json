@@ -10711,5 +10711,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4226",
     "passage": ""
+  },
+  {
+    "id": 4227,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most appropriately completes the sentence : I meant ... a pencil but there was no one .... there.",
+    "options": {
+      "A": "buying/selling",
+      "B": "to buy/to sell",
+      "C": "buying/to sell",
+      "D": "buy/to sell",
+      "E": "to buy/selling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The verb 'meant' is in its past form. All the options except option B show the present tense verb form which does not agree with the existing tense. Option B is the correct answer as it completely indicates a to-infinitive verb form that does not change for tense.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4227",
+    "passage": ""
   }
 ]
