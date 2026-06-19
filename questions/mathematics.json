@@ -7936,5 +7936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9279",
     "passage": ""
+  },
+  {
+    "id": 9280,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram above ∠OPQ is?",
+    "options": {
+      "A": "90 o",
+      "B": "53 o",
+      "C": "36 o",
+      "D": "26 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/18992798384_math200827jpg.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868753/myschool/mathematics/18992798384_math200827jpg.jpg",
+    "correct_answer": "B",
+    "explanation": "a = a(base ∠s of Iss Δ) ∴ a+a+74 = 180 2a + 74 = 180 2a = 180-74 2a = 106 a = 53 ∴∠OPQ = 53o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9280",
+    "passage": ""
   }
 ]
