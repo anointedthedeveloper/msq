@@ -18495,5 +18495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70976",
     "passage": ""
+  },
+  {
+    "id": 70977,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How can you add speaker notes to a PowerPoint slide? You can add speaker notes by clicking on \"View\" and then selecting \"Notes Page\" to open the notes pane where you can edit your notes.",
+    "options": {
+      "A": "Click on Slide Sorter view",
+      "B": "Click on Notes Page view",
+      "C": "Click on Presenter view",
+      "D": "Click on Reading view"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70977",
+    "passage": ""
   }
 ]
