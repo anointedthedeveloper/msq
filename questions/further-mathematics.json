@@ -1,0 +1,23 @@
+[
+  {
+    "id": 50117,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\(log_{y}\\frac{1}{8}\\) = 3, find the value of y.",
+    "options": {
+      "A": "-2",
+      "B": "-\\(\\frac{1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(log_{y}\\frac{1}{8} = 3 \\implies y^{3} = \\frac{1}{8}\\) (Laws of logarithm)\n\\(y^{3} = \\frac{1}{2^{3}} = (\\frac{1}{2})^{3}\\)\nEquating both sides, we have\n\\(y = \\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50117",
+    "passage": ""
+  }
+]
