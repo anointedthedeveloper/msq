@@ -3400,5 +3400,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11828",
     "passage": ""
+  },
+  {
+    "id": 11835,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In the diagram above , the current I is",
+    "options": {
+      "A": "3 / 8",
+      "B": "9 / 11",
+      "C": "11 / 9",
+      "D": "8 / 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12230540334_phy200122.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888810/myschool/physics/12230540334_phy200122.jpg",
+    "correct_answer": "B",
+    "explanation": "I = \\(\\frac{E}{R + r}\\)\nFor parallel of 5Ω and 10Ω \\(\\frac{1}{R}\\) = \\(\\frac{1}{10}\\) + \\(\\frac{1}{5}\\) = \\(\\frac{1+2}{10}\\) = \\(\\frac{3}{10}\\) ∴R = \\(\\frac{10}{3}\\) Total R = 3\\(\\frac{1}{3}\\) + 3 x 1 = 7\\(\\frac{1}{3}\\) ∴I = 6\\(\\div\\) 7\\(\\frac{1}{3}\\) = \\(\\frac{6}{1}\\) x \\(\\frac{3}{22}\\) = \\(\\frac{18}{22}\\) = \\(\\frac{9}{11}\\) ∴I = \\(\\frac{9}{11}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11835",
+    "passage": ""
   }
 ]
