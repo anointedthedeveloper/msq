@@ -4429,5 +4429,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12284",
     "passage": ""
+  },
+  {
+    "id": 12285,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A 2000W electric heater is used to heat a metal object of mass 5kg initially at 10oC. If a temperature rise of 30oC is obtained after 10min, the heat capacity of the material is",
+    "options": {
+      "A": "6.0 x 10 4 J o C -1",
+      "B": "4.0 x 10 4 J o C -1",
+      "C": "1.2 x 10 4 J o C -1",
+      "D": "8.0 x 10 3 J o C -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "mcΔT = Pt → 5 x c x 30 = 2000 x 10 x 60\nc = \\(\\frac{1200000}{150}\\)\nc = 8000 = 8.0 x \\(10^3J/kgºC^{-1}\\)\nBut, Heat capacity C = mass x specific heat capacity\nC = 5 x 8000 = 40000 = 4 x (10^4JºC^{-1}\\)\n(OR) C = \\(\\frac{2000* 10* 60*}{30}\\) = 40,000JºC\\(^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12285",
+    "passage": ""
   }
 ]
