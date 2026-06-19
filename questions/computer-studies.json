@@ -12103,5 +12103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64321",
     "passage": ""
+  },
+  {
+    "id": 64322,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Destruction of files for malicious reasons such as access by fraudulent people is classified as being",
+    "options": {
+      "A": "modified",
+      "B": "accessed",
+      "C": "destroyed",
+      "D": "unauthorized access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Access to an information system or network that violates the owner or operator's stated security policy is considered unauthorized access.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64322",
+    "passage": ""
   }
 ]
