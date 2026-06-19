@@ -18222,5 +18222,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70803",
     "passage": ""
+  },
+  {
+    "id": 70804,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What type of printer uses toner to print documents?",
+    "options": {
+      "A": "Inkjet printer",
+      "B": "Laser jet printer",
+      "C": "Thermal Printer",
+      "D": "Dot Matrix Printer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Laser printers use toner to produce high-quality text and graphics.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70804",
+    "passage": ""
   }
 ]
