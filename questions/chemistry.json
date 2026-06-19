@@ -5604,5 +5604,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2526",
     "passage": ""
+  },
+  {
+    "id": 2527,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Ethanol reacts with excess acidified K\\(_2\\)Cr\\(_2\\)O\\(_7\\) to produce",
+    "options": {
+      "A": "ethanedioic acid",
+      "B": "ethanal",
+      "C": "ethylethanoate",
+      "D": "ethanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When ethanol reacts with excess acidified potassium dichromate, it produces ethanoic. This reaction occurs in two steps:\nEthanol to ethanal : Ethanol is oxidized to ethanal. Ethanal to ethanoic acid : Ethanal is oxidized to ethanoic acid.Potassium dichromate is a strong oxidizing agent. During the reaction, the color changes from orange to green.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2527",
+    "passage": ""
   }
 ]
