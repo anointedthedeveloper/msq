@@ -1,0 +1,23 @@
+[
+  {
+    "id": 167,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Commerce is defined as the study of how",
+    "options": {
+      "A": "man utilizes the resources in his physical environment",
+      "B": "man produces, distributes and consumes his goods and services",
+      "C": "man buys, sells and distributes goods and services",
+      "D": "raw materials are changed into finished goods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Generally, commerce refers to the exchange of goods, services or something of value, between businesses or entities. It is the activity of buying and selling, especially on a large scale.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/167",
+    "passage": ""
+  }
+]
