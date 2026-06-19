@@ -1354,5 +1354,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57722",
     "passage": ""
+  },
+  {
+    "id": 57723,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The MS Excel worksheet below shows the salary distribution for four staff  of a company. The net salary is paid after deductions have been made.\nWhich of the following for mulas would be used to obtain the value in cell E2?",
+    "options": {
+      "A": "= B2 + C2 - D2",
+      "B": "= B2 + C2 + D2",
+      "C": "= (B2 + C2 + D2)/3",
+      "D": "= C2 - D2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57723",
+    "passage": ""
   }
 ]
