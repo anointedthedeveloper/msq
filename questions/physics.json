@@ -5227,5 +5227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12803",
     "passage": ""
+  },
+  {
+    "id": 12804,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Given three capacitors 0.3μF, 0.5μF and 0.2μF, the joint capacitance when arranged to give minimum capacitance is",
+    "options": {
+      "A": "0.1μF",
+      "B": "0.3μF",
+      "C": "1.0μF",
+      "D": "0.5μF"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12804",
+    "passage": ""
   }
 ]
