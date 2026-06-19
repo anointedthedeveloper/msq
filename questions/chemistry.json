@@ -569,5 +569,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/75",
     "passage": ""
+  },
+  {
+    "id": 735,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The nucleus of an atom contains",
+    "options": {
+      "A": "protons only",
+      "B": "neurons only",
+      "C": "protons and electrons",
+      "D": "neutrons and electrons",
+      "E": "protons and neutrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The nucleus is found at the centre of the atom of an element. Inside of the nucleus, we have two subatomic particles which are protons(positively charged) and neutron (no charge). Outside of the nucleus we have the shells with the electrons revolving round it. Therefore, the nucleus of an atom contains the protons and the neutrons in it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/735",
+    "passage": ""
+  },
+  {
+    "id": 736,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Hypochlorous acid is used as a bleach because",
+    "options": {
+      "A": "it is a strong acid",
+      "B": "it yields chlorine readily in pure water",
+      "C": "it is an oxidising agent",
+      "D": "it is a weak acid",
+      "E": "it is a reducing agent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/736",
+    "passage": ""
+  },
+  {
+    "id": 737,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The normal boiling point of a liquid is defined as?",
+    "options": {
+      "A": "the temperature at which its vapour pressure equals the atmospheric pressure",
+      "B": "the temperature at which bubbles begin to form",
+      "C": "the temperature at which the vapour pressure equals 1 temperature",
+      "D": "the temperature at which the rate of condensation of vapour equals the rate of vaporisation of the liquid",
+      "E": "the temperature at which the space above the liquid is saturated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The boiling point of a substance is the temperature at which the vapor pressure of a liquid equals the pressure surrounding the liquid and the liquid changes into a vapor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/737",
+    "passage": ""
+  },
+  {
+    "id": 741,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following compounds will form a solution if exposed to air?",
+    "options": {
+      "A": "Na 2 CO 3 .10H 2 O",
+      "B": "NaNO 3",
+      "C": "CuSO 4",
+      "D": "CaCl 2",
+      "E": "Na 2 SO 4 .10H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Calcium chloride is a deliquescent substance. It attracts water from the atmosphere and then forms a solution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/741",
+    "passage": ""
   }
 ]
