@@ -14196,5 +14196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7398",
     "passage": ""
+  },
+  {
+    "id": 7399,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A risk that can be estimated and calculated to be compensation is?",
+    "options": {
+      "A": "a delivery risk",
+      "B": "an insurable risk",
+      "C": "a credit risk",
+      "D": "a systematic risk"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Insurable risks are risks that insurance companies will protect you against because it is possible to estimate and calculate the loss.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7399",
+    "passage": ""
   }
 ]
