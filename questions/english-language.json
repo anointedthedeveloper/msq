@@ -1757,5 +1757,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/616",
     "passage": ""
+  },
+  {
+    "id": 617,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentence: The hill behind the town was so steep ....",
+    "options": {
+      "A": "that no man could find a foot-hold on",
+      "B": "that any man could find a foot-hold on it",
+      "C": "for no man to find a foot-hold on",
+      "D": "that no man could find a foot-hold on it",
+      "E": "for any man to find a foot-hold on"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sentence begins with “so… that…” , which requires a result clause .\n✔ Correct structure:\nSo:\n“so steep that no man could find a foot-hold on it ”",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/617",
+    "passage": ""
   }
 ]
