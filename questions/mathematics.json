@@ -14240,5 +14240,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22927",
     "passage": ""
+  },
+  {
+    "id": 22928,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In a class of 80 students, every student had to study Economics or Geography or both Economics and Geography. lf 65 students studied Economics and 50 studied Geography, how many studied both subjects?",
+    "options": {
+      "A": "15",
+      "B": "30",
+      "C": "35",
+      "D": "45",
+      "E": "50"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Applying the formula 80 = 65 - x + x + 50 - x x = 35",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22928",
+    "passage": ""
   }
 ]
