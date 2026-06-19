@@ -4563,5 +4563,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58739",
     "passage": ""
+  },
+  {
+    "id": 58740,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a)(i) What is data model?\n(ii)State three types of data model\n(b)(i) List three approaches to data modeling.\n(ii) Explain any one approach listed in1(b)(i)",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "1(a)(i) Data model is the organization of data elements and standard on how the data elements relate to one another\nOR\nData model is the representation of the data structures that are required by the database.\nOR\nData model is the representation of a real world situation about which data is to be collected.\nOR\nData model is the structure and organization of data in database.\nOR\nData model is the diagram showing inter-relationships between data elements and how they are stored.\n(ii) Types of data model\n- Flat model\n- Hierarchical model\n- Network model\n- Relational model\n- Object-oriented model\n- Entity relationship model\n- Document model\n- Entity relationship model\n- Document model\n- Entity-attribute-value model\n- Star schema\n- Object relational model\n- Inverted file model\n- Multi dimensional model\n- Semi structured model\n- Context model\n- Associative model\n- NoSQL model\n(b)(i) Approaches to data modelling\n- Conceptual data model\n-Enterprise data model\n- Logical data model\n- Physical data model\n(ii) Conceptual data model\n- Identifies objects, concept, entities and relationships between them.\n- Represents the first /initial stage/base in the development of the design of data and data storage.\n- Is the most abstract form/highest level/summary level of data modeling.\nEnterprise data model\n- Creates a graphical model/view of all data used in an organization/company/enterprise.\nLogical data model\n- Describes the data in details as much as possible without regard to hoe they will be physically implemented in the database.\nPhysical database model\n-Is a representation of data/tables (Table Names, Primary key, Foreign keys, Column/Fied Name and Data types) in a DBMS.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58740",
+    "passage": ""
   }
 ]
