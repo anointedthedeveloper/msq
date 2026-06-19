@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75253",
     "passage": ""
+  },
+  {
+    "id": 75255,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما مصدر الفعل \"عاد\"؟",
+    "options": {
+      "A": "عود",
+      "B": "عيادة",
+      "C": "عودة",
+      "D": "عادة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"susc\" is the verbal noun (masdar) of the verb \"alc\" meaning \"return\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75255",
+    "passage": ""
   }
 ]
