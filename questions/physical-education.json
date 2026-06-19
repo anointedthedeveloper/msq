@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64456",
     "passage": ""
+  },
+  {
+    "id": 64457,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is a non-locomotor movement?",
+    "options": {
+      "A": "Bending",
+      "B": "Crawling",
+      "C": "Jumping",
+      "D": "Running"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Bending is a non locomotive movement as it does not involve the movement of the whole body from one place to another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64457",
+    "passage": ""
   }
 ]
