@@ -11515,5 +11515,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22336",
     "passage": ""
+  },
+  {
+    "id": 22342,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "If the second and fourth term of a G.P are 8 and 32 respectively,what is the sum of the first four terms?",
+    "options": {
+      "A": "28",
+      "B": "40",
+      "C": "48",
+      "D": "60",
+      "E": "68"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "ar = 8 .....(1)\nar 3 = 32 .....(2)\nr 2 = 4 r = 2 ∴ a = 4\nS = a(r n - 1) / r - 1\nS = 4(2 4 - 1) / 2 - 1 = 60",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22342",
+    "passage": ""
   }
 ]
