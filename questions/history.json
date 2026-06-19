@@ -10485,5 +10485,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/64000",
     "passage": ""
+  },
+  {
+    "id": 64002,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Freetown was use to facilitate ________ from 1822 to early 20th century.",
+    "options": {
+      "A": "Farm Produce",
+      "B": "Religious activities",
+      "C": "Freed slave settlement",
+      "D": "Social activities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Freetown, was founded as home for repatriated former slaves in 1787, it has a special significance in the history of the trans-Atlantic slave trade as a departure point for thousands of West African captives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/64002",
+    "passage": ""
   }
 ]
