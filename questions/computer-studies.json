@@ -12124,5 +12124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64322",
     "passage": ""
+  },
+  {
+    "id": 64323,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When an input signal 1 is applied to a NOT gate, the output is ..................",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "Either 0 & 1",
+      "D": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a NOT gate, no output (0) is there when an input (1) is there.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64323",
+    "passage": ""
   }
 ]
