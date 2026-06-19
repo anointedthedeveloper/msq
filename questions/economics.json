@@ -1691,5 +1691,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/659",
     "passage": ""
+  },
+  {
+    "id": 661,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Pure monopoly describes market where",
+    "options": {
+      "A": "there are many sellers and a few buyers",
+      "B": "goods are sold at different price",
+      "C": "entry is not blocked, but no one cares to enter",
+      "D": "a few sellers and one buyer exist",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/661",
+    "passage": ""
   }
 ]
