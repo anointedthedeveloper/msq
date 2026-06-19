@@ -4090,5 +4090,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1924",
     "passage": ""
+  },
+  {
+    "id": 1925,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Roots of plants are normally",
+    "options": {
+      "A": "Positively phototropic",
+      "B": "Negatively geotropic",
+      "C": "Negatively hydrotropic",
+      "D": "Positively hydrotropic",
+      "E": "Negatively chemotropic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1925",
+    "passage": ""
   }
 ]
