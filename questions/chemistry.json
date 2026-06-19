@@ -2412,5 +2412,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1554",
     "passage": ""
+  },
+  {
+    "id": 1555,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Powdered marble reacts faster with hydrochloric acid solution than the granular form because the powdered form has",
+    "options": {
+      "A": "more molecules",
+      "B": "more atoms",
+      "C": "larger surface area",
+      "D": "relatively large mass"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A powdered substance typically reacts faster than the granular or solid form of the same substance because of its larger surface area. This is because more particles are exposed to the other reactant, which increases the likelihood of collisions and the rate of reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1555",
+    "passage": ""
   }
 ]
