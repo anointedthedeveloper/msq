@@ -13543,5 +13543,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4804",
     "passage": ""
+  },
+  {
+    "id": 4805,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "with conc H\n2\nSO\n4\nas catalyst\nCH\n3\nCOOH + C\n2\nH\n5\nOH → CH\n3\nCOOC\n2\nH\n5\n+ H\n2\nO",
+    "options": {
+      "A": "esterification",
+      "B": "Condensation",
+      "C": "saponification",
+      "D": "neutralization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4805",
+    "passage": ""
   }
 ]
