@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/788",
     "passage": ""
+  },
+  {
+    "id": 789,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "P is a point on one side of the straight line UV and P moves in the same direction as UV. If the straight line ST is on the locus of P and angle VUS = 50°, find angle UST.",
+    "options": {
+      "A": "310°",
+      "B": "130°",
+      "C": "80°",
+      "D": "50°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "See  Figure above. Since ST is parallel to UV => angle< U = 50°(alternate to Angle UST = 180° - 50° = 130° (angle on a straight line)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/789",
+    "passage": ""
   }
 ]
