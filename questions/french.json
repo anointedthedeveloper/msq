@@ -3490,5 +3490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71214",
     "passage": ""
+  },
+  {
+    "id": 71215,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.C'est la robe de ma sceur C'est.",
+    "options": {
+      "A": "le sien",
+      "B": "la sienne",
+      "C": "la tienne",
+      "D": "le nôtre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This sentence is saying \"It's my sister's dress! It's hers.\" The possessive adjective \"sienne\" agrees with the feminine noun \"robe\" and indicates that it belongs to the sister.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71215",
+    "passage": ""
   }
 ]
