@@ -18516,5 +18516,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70977",
     "passage": ""
+  },
+  {
+    "id": 70978,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is a potential drawback of using high-level programming languages?",
+    "options": {
+      "A": "High-level languages provide a wider range of built-in functionalities.",
+      "B": "High-level languages are often more efficient than low-level languages.",
+      "C": "High-level languages can sometimes have slower execution speeds due to the abstraction layer.",
+      "D": "High-level languages require a deeper understanding of computer architecture."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "High-level programming languages provide abstraction from the hardware, which simplifies development but can introduce overhead. This abstraction layer can lead to slower execution speeds compared to low-level programming languages that interact more directly with the hardware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70978",
+    "passage": ""
   }
 ]
