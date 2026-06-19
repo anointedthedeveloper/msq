@@ -14591,5 +14591,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24093",
     "passage": ""
+  },
+  {
+    "id": 24094,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A cube made of a metal of linear expansivity is warmed through a temperature of t. lf the initial volume of the cube is V what is the increase in volume of the cube?",
+    "options": {
+      "A": "1/3α Vt",
+      "B": "1/2α Vt",
+      "C": "α Vt",
+      "D": "2α Vt",
+      "E": "3α Vt"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Volume expansivity(γ) = \\(\\frac{\\text{ change in volume}}{\\text{original volume  x  temp. change}}\\)\n\\(\\gamma = \\frac{\\Delta v}{V \\times \\Delta t}\\)\nBut γ = 3 α\nΔv = 3  x α x Δ t",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24094",
+    "passage": ""
   }
 ]
