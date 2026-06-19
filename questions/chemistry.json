@@ -13459,5 +13459,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4800",
     "passage": ""
+  },
+  {
+    "id": 4801,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The number of isomers that can be obtained from C\\(_4\\)H\\(_{10}\\) is",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The two structural isomers of C\\(_4\\)H\\(_{10}\\) are butane and 2-methylpropane. Butane, also known as n-butane, has a straight-chain structure, while 2-methylpropane, has a branched structure.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4801",
+    "passage": ""
   }
 ]
