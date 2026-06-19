@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/30",
     "passage": ""
+  },
+  {
+    "id": 533,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the equation of the locus of a point P(x,y) such that PV = PW, where V = (1,1) and W = (3,5)",
+    "options": {
+      "A": "2x + 2y = 9",
+      "B": "2x + 3y = 8",
+      "C": "2x + y = 9",
+      "D": "x + 2y = 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2\n2\n2\n2\n2\n2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/533",
+    "passage": ""
   }
 ]
