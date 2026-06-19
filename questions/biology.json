@@ -3848,5 +3848,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1913",
     "passage": ""
+  },
+  {
+    "id": 1914,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "In human reproduction, the zygote formed as a result of fertilization gets attached to the wall of the uterus. The process is called",
+    "options": {
+      "A": "Sexual reproduction",
+      "B": "Cohesion",
+      "C": "Pregnancy",
+      "D": "Implantation",
+      "E": "Viviparity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Implantation is the process where a fertilized egg, now called a blastocyst, attaches to and burrows into the uterine lining, marking the beginning of pregnancy.\nImplantation is the crucial step where the developing embryo embeds itself into the uterus, allowing it to receive nutrients and continue developing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1914",
+    "passage": ""
   }
 ]
