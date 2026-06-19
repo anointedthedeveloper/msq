@@ -12304,5 +12304,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4493",
     "passage": ""
+  },
+  {
+    "id": 4494,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A constituent common to bronze and solder is?",
+    "options": {
+      "A": "lead",
+      "B": "silver",
+      "C": "copper",
+      "D": "tin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- bronze, alloy traditionally composed of copper and tin.\n- Solder is an alloy, made from the elements, tin and lead.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4494",
+    "passage": ""
   }
 ]
