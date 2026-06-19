@@ -12201,5 +12201,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7261",
     "passage": ""
+  },
+  {
+    "id": 7262,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "An economic activity which deals with natural resources is a form of?",
+    "options": {
+      "A": "extraction",
+      "B": "refining",
+      "C": "construction",
+      "D": "manufacturing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Extraction involves taking raw materials, including oil, coal, gold, iron, copper, and other minerals, from the earth. People engaged in this type of activity are grouped under the extractive industry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7262",
+    "passage": ""
   }
 ]
