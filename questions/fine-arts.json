@@ -2707,5 +2707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75401",
     "passage": ""
+  },
+  {
+    "id": 75403,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which principle ensures a sense of visual stability in artwork?",
+    "options": {
+      "A": "Balance",
+      "B": "Proportion",
+      "C": "Movement",
+      "D": "Contrast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Balance in art is the even distribution of visual weight, like colors, shapes, and textures. A balanced artwork feels stable and pleasing, while imbalance can make it feel awkward or heavy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75403",
+    "passage": ""
   }
 ]
