@@ -4450,5 +4450,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8204",
     "passage": ""
+  },
+  {
+    "id": 8205,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Factorize completely ac - 2bc - a\\(^2\\) + 4b\\(^2\\)",
+    "options": {
+      "A": "(a - 2b)(c - a - 2b)",
+      "B": "(a - 2b)(c + a +2b)",
+      "C": "(a - 2b)(c - a + 2b)",
+      "D": "(a - 2b)(c + a - 2b)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "ac - 2bc - a\\(^2\\) + 4b\\(^2\\) ac - 2bc - (a\\(^2\\) - 4b\\(^2\\)) ac - 2bc - (a\\(^2\\) -(2b)\\(^2\\)) c(a - 2b) - {(a - 2b)(a + 2b)} (a - 2b)(c - (a + 2b)) (a - 2b)(c - a - 2b)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8205",
+    "passage": ""
   }
 ]
