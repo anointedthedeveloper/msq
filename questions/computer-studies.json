@@ -12754,5 +12754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64355",
     "passage": ""
+  },
+  {
+    "id": 64356,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The memory unit receives data and information from which unit?",
+    "options": {
+      "A": "input unit",
+      "B": "output unit",
+      "C": "control unit",
+      "D": "arithmetic and logic unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "From the chart or table of data flow, the data moves from the input unit to the control unit where it is determined if it needs a logical or arithmetic function. From the control unit, it is passed on to the arithmetic and logical unit, where it is then processed before being transferred to the memory unit, to be stored till when needed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64356",
+    "passage": ""
   }
 ]
