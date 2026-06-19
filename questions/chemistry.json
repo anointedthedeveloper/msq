@@ -5079,5 +5079,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2259",
     "passage": ""
+  },
+  {
+    "id": 2261,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Farmlands affected by crude-oil spillage can be decontaminated by",
+    "options": {
+      "A": "Adding acidic solution",
+      "B": "Using aerobic bacteria",
+      "C": "Pouring water on the affected water area",
+      "D": "Burning off the oil from the area"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Biological methods use microorganisms, such as bacteria and fungi, to break down petroleum hydrocarbons. You can till the contaminated soil. This allows for aerobic action that will break down the oil. Wetting the contaminated soil with a bio-friendly detergent will help break down the oil faster. Hydrogen peroxide is also used to aid in breaking down the oil as the oxygen helps the microbes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2261",
+    "passage": ""
   }
 ]
