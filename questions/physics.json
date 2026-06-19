@@ -8083,5 +8083,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14032",
     "passage": ""
+  },
+  {
+    "id": 14037,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An empty density bottle weighs 2 N. if it weighs 5 N when filled with water and 4 N when filled with olive oil, the relative density of olive oil is?",
+    "options": {
+      "A": "(1)/3",
+      "B": "(2)/3",
+      "C": "(1)/5",
+      "D": "(2)/5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "relative density = (weight of substance )/weight of equal volume of water = (4 - 2)/5 - 2 = (2)/3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14037",
+    "passage": ""
   }
 ]
