@@ -11893,5 +11893,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64311",
     "passage": ""
+  },
+  {
+    "id": 64312,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "To determine if a computer has the ability to think, a test was conducted named as",
+    "options": {
+      "A": "Turing test",
+      "B": "Computation test",
+      "C": "Teletype test",
+      "D": "Interrogator test"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Turing test, originally called the imitation game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human. ... If the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64312",
+    "passage": ""
   }
 ]
