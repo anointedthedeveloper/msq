@@ -5891,5 +5891,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62440",
     "passage": ""
+  },
+  {
+    "id": 62441,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) Convert the following numbers to be stated bases:\n(i) 125.625, to binary\n(ii) 111011.10011, to octal\n(b) Given that X = 11011011 and Y= 11101101,\n(i) construct the truth table for X, Y Z;\n(ii) draw the logic gate of X, Y = Z\n(iii) state the value of Z.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)) 125.625, to binary\n2 125 R 2 62 1 2 31 0 2 15 1 2 7 1 2 3 1 2 1 1 2 0 1\nTherefore, 125= 111110\nHence, 125.625 = 1111101.101,\n2nd step: 125 to binary\nFirst method: (0.625) = 625/1000 = 25/40 = 5/8\nHence, 5/8 = (4+1)/ 8 = 4/8 + 1/8 = 1/2 + 1/8\n1 X 2\\(^{-1}\\) + 0 X 2 \\(^{-2}\\) + 1 x 2\\(^{-3}\\) = 0.101\\(_{2}\\)\nTherefore, 0.625 = 0.101\\(_{2}\\),\nSecond method: 0.625*2 = 1.25 Fraction part 1.23 Carry1\n0.25 * 2 =0.5 Fraction part 0.5 Carry 0\n0.5 * 2 = 1.00 Fraction part 1.00 Cary 1\n0.625 = 0.101\\(_{-2}\\),\nTherefore, (i) 111011.10011, to octal\n111\\(_2\\) = 7\\(_8\\)\n011\\(_2\\) = 3\\(_8\\)\n100\\(_2\\) = 4\\(_8\\)\n110\\(_2\\) = 6\\(_8\\)\n111011.10011\\(_2\\) = 73.46\\(_8\\)\nbi    X = 11011011, Y = 11101101\nX Y Z = X.Y 1 1 1 1 1 1 0 1 0 1 0 0 1 1 1 0 1 0 1 0 0 1 1 1\nbii is shown above.\nbiii  Z = 11001001",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62441",
+    "passage": ""
   }
 ]
