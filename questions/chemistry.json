@@ -349,5 +349,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/54",
     "passage": ""
+  },
+  {
+    "id": 58,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "During the electrolysis of copper II sulphate between platinum electrodes, if litmus solution is added to the anode compartment,",
+    "options": {
+      "A": "the litmus turns blue but no gas is evolved",
+      "B": "the litmus turns blue and oxygen is evolved",
+      "C": "the litmus turns blue and hydrogen is evolved",
+      "D": "the litmus turns red and oxygen is evolved",
+      "E": "the litmus turns red and then becomes colourless"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cu\\(^+\\) is  discharged preferentially at the cathode\nOH\\(^-\\)  is  discharged preferentially at the anode\nThe presence of SO\\(_4\\)\\(^2-\\) and H\\(^+\\) makes the medium acidic\nWhich makes the litmus turns red and oxygen is evolved",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/58",
+    "passage": ""
   }
 ]
