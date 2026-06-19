@@ -2644,5 +2644,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3372",
     "passage": ""
+  },
+  {
+    "id": 3374,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A chord of a circle subtends an angle of 120° degrees at the centre of a circle of diameter 4√3 cm. Calculate the area of the major sector.",
+    "options": {
+      "A": "4π cm 2",
+      "B": "32 π cm 2",
+      "C": "16 π cm 2",
+      "D": "8 π cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Diameter = 4\\(\\sqrt{3}\\) cm\nradius = 2\\(\\sqrt{3}\\) cm\nArea of major sector = \\(\\frac{\\theta}{360} \\times \\pi r^{2}\\)\n\\(\\theta = 360 - 120 = 240°\\)\n= \\(\\frac{240}{360} \\times \\pi \\times 12\\)\n= \\(8\\pi cm^{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3374",
+    "passage": ""
   }
 ]
