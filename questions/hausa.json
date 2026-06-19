@@ -7298,5 +7298,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75968",
     "passage": ""
+  },
+  {
+    "id": 75969,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Akasin tsoro shi ne",
+    "options": {
+      "A": "Jarumta",
+      "B": "Duhu",
+      "C": "Karfi",
+      "D": "Fushi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The opposite of fear (tsoro) is courage (jarumta), both representing emotional extremes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75969",
+    "passage": ""
   }
 ]
