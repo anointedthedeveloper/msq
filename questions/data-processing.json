@@ -9356,5 +9356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/76958",
     "passage": ""
+  },
+  {
+    "id": 77032,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following can be used to make a PowerPoint slide in a presentation to have the same look?",
+    "options": {
+      "A": "Change the view to slide show",
+      "B": "Add a little slide option",
+      "C": "Format the slide layout option",
+      "D": "Add a presentation design template"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A PowerPoint template is a pattern or blueprint of a slide or group of slides that you save as a .potx file. Templates can contain layouts, theme colors, theme fonts, theme effects, background styles, and even content. You can create your own custom templates and store them, reuse them, and share them with others",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77032",
+    "passage": ""
   }
 ]
