@@ -3778,5 +3778,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70715",
     "passage": ""
+  },
+  {
+    "id": 70716,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which Founding Father of Physical Education advocated for the role of play in developing character and discipline?",
+    "options": {
+      "A": "John Dewey",
+      "B": "Clark Hetherington",
+      "C": "Thomas Wood",
+      "D": "Dudley Sergent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Clark W. Hetherington advocated for the role of play in developing character and discipline, emphasizing its importance in education and personal development through his work in physical education and recreational programs. His belief that \"play is Nature's method of education\" underscored his philosophy on the significance of play in human development.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70716",
+    "passage": ""
   }
 ]
