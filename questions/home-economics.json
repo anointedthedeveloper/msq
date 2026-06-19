@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73237",
     "passage": ""
+  },
+  {
+    "id": 73238,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not factor to be considered when selecting household linen?",
+    "options": {
+      "A": "Money availability",
+      "B": "Family needs",
+      "C": "Size of the house",
+      "D": "Duration of fabrics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The size of the house (D) is not a direct factor in selecting household linen, as linen is chosen based on personal preferences, family needs, and durability, rather than the physical size of the living space. However, the size of the house may indirectly influence the amount of linen needed, as a larger house may require more linen to furnish and equip it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73238",
+    "passage": ""
   }
 ]
