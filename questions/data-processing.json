@@ -8104,5 +8104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69800",
     "passage": ""
+  },
+  {
+    "id": 69801,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The process of drawing inference from a piece of information is called",
+    "options": {
+      "A": "interpretation",
+      "B": "analysis",
+      "C": "collation",
+      "D": "organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The process of drawing inference from a piece of information is called interpretation. Analysis is the process of breaking down a whole into its parts and examining those parts. Collation is the process of bringing together information from different sources. Organization is the process of arranging information in a logical order. Interpretation is the process of making meaning from information. It involves using our knowledge and experience to make sense of what we see, hear, and read. When we interpret information, we are drawing inferences about what it means. We are making connections between the information and our own knowledge and experience. For example, if we read a news article about a car accident, we might interpret the information to mean that the driver was speeding. We might make this inference because we know that speeding is a common cause of car accidents. We might also make this inference because the article mentions that the driver was not wearing a seatbelt. We know that not wearing a seatbelt is also a common cause of car accidents. Interpretation is an important skill for critical thinking. It allows us to make sense of the world around us and to make informed decisions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69801",
+    "passage": ""
   }
 ]
