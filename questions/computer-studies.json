@@ -19545,5 +19545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72622",
     "passage": ""
+  },
+  {
+    "id": 72623,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements is true about the rules of flowcharting?",
+    "options": {
+      "A": "All boxes of flowcharts are connected with arrows to show the logical connection between them.",
+      "B": "All flowchart process boxes are connected with on page connector to show the flow of operation.",
+      "C": "All flowcharts start with a start box and end with a decision box",
+      "D": "The low of control must always enter an object from bottom to top"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A: All boxes in a flowchart must be connected with arrows to show the logical connection between them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72623",
+    "passage": ""
   }
 ]
