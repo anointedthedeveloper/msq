@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50013",
     "passage": ""
+  },
+  {
+    "id": 50016,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A major consequence of human trafficking is?",
+    "options": {
+      "A": "promotion of rural-urban drift",
+      "B": "decline in literacy rate",
+      "C": "increase rate of youth employment",
+      "D": "increased exploitation of the ignorant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Human trafficking is caused by various factors some of which include;  Poverty, domestic turbulence, political unrest, natural disasters and more . Human trafficking is putting or keeping someone in an exploitative situation for profit. They are not free and they are exploited for profit over and over again. It is a serious crime.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50016",
+    "passage": ""
   }
 ]
