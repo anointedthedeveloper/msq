@@ -8378,5 +8378,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72330",
     "passage": ""
+  },
+  {
+    "id": 72333,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The first stage in computer data processing procedure is",
+    "options": {
+      "A": "collection of data",
+      "B": "communication of information.",
+      "C": "conversion of data",
+      "D": "manipulation of data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The first stage in computer data processing is the collection of data, which will be worked on.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72333",
+    "passage": ""
   }
 ]
