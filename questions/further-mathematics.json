@@ -3840,5 +3840,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50592",
     "passage": ""
+  },
+  {
+    "id": 50593,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Find the angle between \\((5i + 3j)\\) and \\((3i - 5j)\\).",
+    "options": {
+      "A": "180°",
+      "B": "90°",
+      "C": "45°",
+      "D": "0°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(a . b = |a||b|\\cos \\theta\\)\n\\(\\cos \\theta = \\frac{a . b}{|a||b|}\\)\n= \\( \\frac{(5i + 3j).(3i - 5j)}{(\\sqrt{5^2 + 3^2})(\\sqrt{3^{2} + (-5)^{2}})}\\)\n= \\(\\frac{0}{34} = 0\\)\n\\(\\theta = \\cos^{-1} 0 = 90°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50593",
+    "passage": ""
   }
 ]
