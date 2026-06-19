@@ -10738,5 +10738,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64089",
     "passage": ""
+  },
+  {
+    "id": 64090,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The function of an assembler is to _________",
+    "options": {
+      "A": "convert basic language to machine language",
+      "B": "convert high level language to machine language",
+      "C": "convert assembly language to machine language",
+      "D": "convert assembly language into high level language"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Assembler convert assembly language to machine language for the computer to operate with",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64090",
+    "passage": ""
   }
 ]
