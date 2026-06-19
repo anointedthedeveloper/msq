@@ -14811,5 +14811,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24103",
     "passage": ""
+  },
+  {
+    "id": 24104,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following is/are characteristics of sound? I Pitch II. Loudness III. Quality IV Noise",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "I and II only",
+      "D": "l, II and III only",
+      "E": "I, II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24104",
+    "passage": ""
   }
 ]
