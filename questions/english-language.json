@@ -5805,5 +5805,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2731",
     "passage": ""
+  },
+  {
+    "id": 2733,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : It was a blind alley. I could not walk any ....",
+    "options": {
+      "A": "Far",
+      "B": "Farthest",
+      "C": "Furthest",
+      "D": "Farther",
+      "E": "Further"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The structure “not… any + comparative idea” uses “any further/farther”.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2733",
+    "passage": ""
   }
 ]
