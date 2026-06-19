@@ -5321,5 +5321,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2111",
     "passage": ""
+  },
+  {
+    "id": 2112,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options : He bade them .... to his house",
+    "options": {
+      "A": "welcomed",
+      "B": "are welcome",
+      "C": "to be welcome",
+      "D": "to have been welcome",
+      "E": "welcome"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The verb \"bade\" (past tense of bid ) is used in older or more formal English to mean \"invited\" or \"greeted\". It is followed directly by the bare infinitive (the base form of a verb without “to”), or in this case, an adjective acting as a complement.\n\"Welcome\" in this sentence functions as an adjective , not a verb. It describes the state in which they were received. Saying \"He bade them welcome\" is idiomatic and grammatically correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2112",
+    "passage": ""
   }
 ]
