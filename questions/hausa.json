@@ -4360,5 +4360,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73897",
     "passage": ""
+  },
+  {
+    "id": 73898,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "(same passage)\nWahe abu ne mutanen garin Gunu ba su nomawa?",
+    "options": {
+      "A": "Auduga",
+      "B": "Dawa",
+      "C": "Gyada",
+      "D": "Masara"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "What crop do people in Gunu not farm? Answer: A. Auduga (Auduga is the crop that people in Gunu do not farm. The other options – Dawa (beans), Gyada (groundnuts), Masara (maize), and Wake (rice) – are all crops that they farm)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73898",
+    "passage": ""
   }
 ]
