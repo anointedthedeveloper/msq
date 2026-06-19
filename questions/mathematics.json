@@ -3610,5 +3610,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7837",
     "passage": ""
+  },
+  {
+    "id": 7838,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If y = 3 sin(-4x), dy/dx is",
+    "options": {
+      "A": "12x cos (4x)",
+      "B": "-12x cos (-4x)",
+      "C": "-12 cos (-4x)",
+      "D": "12 sin (-4x)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "y = 3 sin(-4x) dy/dx = 3 x - 4 cos (-4x) = -12 cos (-4x)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7838",
+    "passage": ""
   }
 ]
