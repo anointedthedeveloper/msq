@@ -1081,5 +1081,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57705",
     "passage": ""
+  },
+  {
+    "id": 57707,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following are parts of a computer processor?",
+    "options": {
+      "A": "CPU and main memory",
+      "B": "Control unit and ALU",
+      "C": "Operating system and application",
+      "D": "Main memory and storage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57707",
+    "passage": ""
   }
 ]
