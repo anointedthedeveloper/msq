@@ -3756,5 +3756,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1738",
     "passage": ""
+  },
+  {
+    "id": 1739,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "When sodium reacts with water, the resulting solution is",
+    "options": {
+      "A": "Weakly acidic",
+      "B": "Neutral",
+      "C": "Acidic",
+      "D": "Alkaline"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sodium reacts vigorously with water to produce a solution of sodium hydroxide and hydrogen gas. Sodium hydroxide is an alkali.\n2Na + 2H\\(_2\\)O → 2NaOH + H\\(_2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1739",
+    "passage": ""
   }
 ]
