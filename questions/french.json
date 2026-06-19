@@ -4519,5 +4519,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75425",
     "passage": ""
+  },
+  {
+    "id": 75570,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "il reussira_ qu'il reponde a toutes les questions.",
+    "options": {
+      "A": "À condition",
+      "B": "Bien que",
+      "C": "Parce",
+      "D": "Afin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"A condition que\" is a conditional clause used to express a requirement that must be fulfilled for something else to happen. It's commonly followed by the subjunctive mood.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75570",
+    "passage": ""
   }
 ]
