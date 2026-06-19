@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66185",
     "passage": ""
+  },
+  {
+    "id": 66190,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The use of a picture to convey information to receiver is an example of",
+    "options": {
+      "A": "audio communication",
+      "B": "visual communication",
+      "C": "oral communication",
+      "D": "written communication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Visual communications is communication through visual aid. It is the conveyance of ideas and details in form of maps, photography, signs, drawings, graphs, charts, pictures and video.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66190",
+    "passage": ""
   }
 ]
