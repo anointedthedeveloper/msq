@@ -1657,5 +1657,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64449",
     "passage": ""
+  },
+  {
+    "id": 64450,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these is not a function of sports on modern day society?",
+    "options": {
+      "A": "Helps to reduce inflation",
+      "B": "Is used for both economic and political games",
+      "C": "It is used to reduce tension",
+      "D": "It serves as a means of livelihood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sports is not used to reduce inflation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64450",
+    "passage": ""
   }
 ]
