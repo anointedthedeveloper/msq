@@ -14826,5 +14826,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7508",
     "passage": ""
+  },
+  {
+    "id": 7510,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following can be used to differentiate skilled and unskilled labour?",
+    "options": {
+      "A": "Education and training",
+      "B": "Available resources",
+      "C": "Level of commitment",
+      "D": "Salaries and wages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Unskilled labor , when measured by educational attainment, refers to jobs that require a high school diploma only, or could be filled by a high school dropout who masters specific skills. Skilled labor requires additional skills or education.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7510",
+    "passage": ""
   }
 ]
