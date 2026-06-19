@@ -3614,5 +3614,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75971",
     "passage": ""
+  },
+  {
+    "id": 75972,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following reference books contains information about parliamentary proceedings?",
+    "options": {
+      "A": "Atlas",
+      "B": "Post office guide",
+      "C": "Hansards",
+      "D": "Official gazatte"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hansards are the traditional name of the transcripts of Parliamentary Debates in Britain and many Commonwealth countries. It is named after Thomas Curson Hansard, a London printer and publisher, who was the first official printer to the parliament. Therefore, Hansards contain information about parliamentary proceedings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75972",
+    "passage": ""
   }
 ]
