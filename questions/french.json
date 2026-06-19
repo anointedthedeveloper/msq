@@ -2273,5 +2273,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71066",
     "passage": ""
+  },
+  {
+    "id": 71067,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "L'endroit où 'on peut acheter des médicaments est un/u................",
+    "options": {
+      "A": "banque",
+      "B": "hospital",
+      "C": "pharmacie",
+      "D": "école"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is pharmacie. The sentence \"L'endroit où on peut acheter des médicaments est un/une...\" means \"The place where you can buy medicine is a...\". The correct completion is \"pharmacie\", which means \"pharmacy\" in French. The other options do not fit the sentence's meaning.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71067",
+    "passage": ""
   }
 ]
