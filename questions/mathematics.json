@@ -7915,5 +7915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9278",
     "passage": ""
+  },
+  {
+    "id": 9279,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the exterior angle of a 12 sided regular polygon",
+    "options": {
+      "A": "12 o",
+      "B": "24 o",
+      "C": "25 o",
+      "D": "30 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Exterior angle = 360 / n = 360 / 12 = 30o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9279",
+    "passage": ""
   }
 ]
