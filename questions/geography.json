@@ -5746,5 +5746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8008",
     "passage": ""
+  },
+  {
+    "id": 8009,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Tropical cyclones arise in the belts of the?",
+    "options": {
+      "A": "doldrums",
+      "B": "westerlies",
+      "C": "trade winds",
+      "D": "polar winds",
+      "E": "monsoon winds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8009",
+    "passage": ""
   }
 ]
