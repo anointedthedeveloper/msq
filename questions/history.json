@@ -11387,5 +11387,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68512",
     "passage": ""
+  },
+  {
+    "id": 68513,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which Yoruba city-state was the last to fall to British colonial rule in the late 19th century?",
+    "options": {
+      "A": "Abeokuta",
+      "B": "Oyo",
+      "C": "Lagos",
+      "D": "Ibadan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Abeokuta was the last Yoruba city-state to fall to British colonial rule in the late 19th century. The British had already established control over other Yoruba city-states like Lagos, Oyo, and Ibadan. However, Abeokuta resisted British rule for a long time before finally succumbing to it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68513",
+    "passage": ""
   }
 ]
