@@ -3462,5 +3462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1724",
     "passage": ""
+  },
+  {
+    "id": 1725,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The general formula for the alkanals is",
+    "options": {
+      "A": "ROH",
+      "B": "R 2 CO",
+      "C": "RCOOR 1",
+      "D": "RCHO"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "ROH - Alkanols\nR\\(_2\\)CO - Ketones\nRCOOR\\(^1\\) - Esters or alkanoates\nThe general formula for alkanals is C\\(_n\\)H\\(_{2n+1}\\)CHO, where n = 0, 1, 2, 3, and so on.  In other words, it is RCHO\nAlkanals are compounds that are formed when long-chain primary alcohols are oxidized. Primary alkylsulphates biodegrade to produce these alcohols.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1725",
+    "passage": ""
   }
 ]
