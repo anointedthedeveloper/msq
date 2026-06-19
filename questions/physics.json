@@ -6718,5 +6718,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13853",
     "passage": ""
+  },
+  {
+    "id": 13854,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The production and type of charge of a body can only be accounted for by the?",
+    "options": {
+      "A": "deficiency or surplus of electrons",
+      "B": "equibrium in protons and neutrons",
+      "C": "deficiency or surplus of protrons",
+      "D": "deficiency or surplus of neutrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The charge of a body is determined by the imbalance between the number of protons (positively charged) and electrons (negatively charged). A deficiency of electrons results in a positive charge, while a surplus of electrons results in a negative charge.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13854",
+    "passage": ""
   }
 ]
