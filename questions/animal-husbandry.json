@@ -374,5 +374,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49579",
     "passage": ""
+  },
+  {
+    "id": 49582,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "pasture crops are best used in preparing silage when they",
+    "options": {
+      "A": "have produced seeds",
+      "B": "are lignified",
+      "C": "are yet to produce flowers",
+      "D": "are producing flowers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This is because crops in their vegetative state, before flowering, generally have higher moisture content and better nutritional value for silage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49582",
+    "passage": ""
   }
 ]
