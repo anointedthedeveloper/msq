@@ -11662,5 +11662,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64133",
     "passage": ""
+  },
+  {
+    "id": 64134,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The Internet is an example of which computer network?",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "CAN",
+      "D": "WAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Mesh network topologies are typical of the internet, and certain wide area networks (WANs)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64134",
+    "passage": ""
   }
 ]
