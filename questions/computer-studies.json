@@ -6312,5 +6312,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62462",
     "passage": ""
+  },
+  {
+    "id": 62477,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A field chosen to uniquely identify every record in a database is?",
+    "options": {
+      "A": "foreign key",
+      "B": "local key",
+      "C": "primary key",
+      "D": "secondary key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62477",
+    "passage": ""
   }
 ]
