@@ -4666,5 +4666,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75699",
     "passage": ""
+  },
+  {
+    "id": 75801,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "aimez-vous ce film ?",
+    "options": {
+      "A": "Pourquoi",
+      "B": "Où",
+      "C": "Comment",
+      "D": "Quand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The French question word \"pourquoi\" translates as \"why\" in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75801",
+    "passage": ""
   }
 ]
