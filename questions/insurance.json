@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49670",
     "passage": ""
+  },
+  {
+    "id": 49672,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The class of insurance under which a visitor who was bitten by her host dog would be compensated is?",
+    "options": {
+      "A": "personal liability insurance",
+      "B": "public liability insurance",
+      "C": "professional indemnity insurance",
+      "D": "employers liability insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "public liability insurance : Insurance that covers the insured in the case of legal action brought by members of the public. Public Liability insurance is designed to protect the insured against negligence for accidental loss of or damage to third party property, bodily injury etc",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49672",
+    "passage": ""
   }
 ]
