@@ -585,5 +585,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73434",
     "passage": ""
+  },
+  {
+    "id": 73435,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "'Wani saurayi fari yana shara. Aikatau a wannan jimla ita ce",
+    "options": {
+      "A": "fari",
+      "B": "saurayi",
+      "C": "shara",
+      "D": "yana"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "What is the verb in the sentence \"Wani saurayi fari yana shara\"? Answer: yana (Yana is the verb, which means \"is\". Fari is an adjective, saurayi is a noun, shara is a noun, and wani is an adjective)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73435",
+    "passage": ""
   }
 ]
