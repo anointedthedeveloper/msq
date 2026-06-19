@@ -6956,5 +6956,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8130",
     "passage": ""
+  },
+  {
+    "id": 8132,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following is NOT an African waterway?",
+    "options": {
+      "A": "The Orange",
+      "B": "The Nile",
+      "C": "The Mackenzie",
+      "D": "The Volta",
+      "E": "The Zambezi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8132",
+    "passage": ""
   }
 ]
