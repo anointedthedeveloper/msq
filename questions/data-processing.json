@@ -6958,5 +6958,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67137",
     "passage": ""
+  },
+  {
+    "id": 67138,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A desktop computer is switched on and the monitor displays an error message which reads: No input signal. The likely cause of this error is",
+    "options": {
+      "A": "Disconnected VGA",
+      "B": "Power failure",
+      "C": "Low memory",
+      "D": "Defective monitor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "VGA having no signal means that your monitor is powered on but not connected",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67138",
+    "passage": ""
   }
 ]
