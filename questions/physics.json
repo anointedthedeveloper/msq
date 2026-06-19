@@ -6991,5 +6991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13883",
     "passage": ""
+  },
+  {
+    "id": 13884,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The correct unit of energy density is?",
+    "options": {
+      "A": "kg m 3 s -2",
+      "B": "kg m 2 s -2",
+      "C": "kg m -3 s -2",
+      "D": "kg m -1 s -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Energy density = \\(\\frac{\\text{Energy}}{\\text{Volume}}\\)  =  \\(\\frac{\\text{Joule}}{m^3}\\) =  \\(\\frac{kg m^2 s^{-2}}{m^3}\\) = kgm\\(^{-1}\\)s\\(^{-2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13884",
+    "passage": ""
   }
 ]
