@@ -3562,5 +3562,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61861",
     "passage": ""
+  },
+  {
+    "id": 61862,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "(a)(i) List three classes of computer. (ii) Difference between Analog and Digital computers.\n(b) Mention two types of memory.\n(c) Give tw0 examples of secondary storage.\n(d) Convert 1.44MB to bytes.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) (a) Mini computer (b) Main frame computer (c) Analog computer (d) Digital computer (e) Hybrid computer\n(ii) An analog computer is a computing machine that operates on data in form of continuously variable physical quantities.\nIt can perform several mathematical operations simultaneously.\nIt uses continuous variables for mathematical operations and utilizes mechanical or electrical energy.\nIt is used for scientific and engineering purposes.\nIt does not deal directly with numbers.\nIt measures continuous physical magnitudes (e.g. temperature, pressure and voltage) which are analogous to the numbers under consideration.\nlt is very fast in operation as all the calculations are done in ' parallel mode'.It is very easy to get graphical results directly in using analog computer,\nhowever,the accuracy of analog computer is less.\n(ii) Digital computer on the other hand use digital circuit and operate on two states namely bits 0 and 1.\nThey are analogous to state ON and OFF.\nIt is suitable for complex computation.\nIt has higher processing speed and are programmable.\nIt operates with information, numerical or otherwise represented in a digital fom.\nDigital computer processes data such as text,sound, graphic and video into a digital value in Os and 1s.\nDigital computer can give result with more accuracy and at a faster rate.\nAn example of digital computer is the desktop PC.\n(b)(i) Secondary Memory or Auxiliary Storage device Main or Primary Memory e.g. ROM, RAM.\n(c)(i) floppy disk. (ii) Compact disk.\n(d) 1024 bytes = 1kb\n1024 KB  = 1mb\n1.44MB  * 1024 = 1,440,000 bytes",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61862",
+    "passage": ""
   }
 ]
