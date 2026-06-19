@@ -6886,5 +6886,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13868",
     "passage": ""
+  },
+  {
+    "id": 13879,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An ammeter of resistance 5Ω has a full-scale deflection when a current of 50 mA flows in it. The value of the resistor required to adapt it to measure a current of 5 A is?",
+    "options": {
+      "A": "0.25Ω",
+      "B": "5.00Ω",
+      "C": "19.80Ω",
+      "D": "0.05Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "R\\(_s\\) = \\(\\frac{(i_gr_g)}{I-i_g}\\) = \\(\\frac{(50 \\times 10^{-3} \\times 5)}{5 - (50 x 10^{-3})}\\) = \\(\\frac{(0.25)}{4.95}\\) = 0.0505 = 0.05Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13879",
+    "passage": ""
   }
 ]
