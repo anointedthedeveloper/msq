@@ -11800,5 +11800,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4469",
     "passage": ""
+  },
+  {
+    "id": 4470,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The maximum number of electrons in the L shell of an atom is?",
+    "options": {
+      "A": "2",
+      "B": "8",
+      "C": "18",
+      "D": "32"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The maximum number of electrons present in a particular shell is calculated by the formula 2n2 , where “n” represents the shell number. For instance, K shell is the first shell and it can hold up to 2(1)2 = 2 electrons. Similarly, L shell is the second shell and it can hold up to 2(2)2 = 8 electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4470",
+    "passage": ""
   }
 ]
