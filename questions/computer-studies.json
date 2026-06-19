@@ -11473,5 +11473,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64124",
     "passage": ""
+  },
+  {
+    "id": 64125,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The explorer bar is divided into _________ categories.",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The explore bar is divided into three categories.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64125",
+    "passage": ""
   }
 ]
