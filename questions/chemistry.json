@@ -11821,5 +11821,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4470",
     "passage": ""
+  },
+  {
+    "id": 4471,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Elements in the same period in the periodic table have the same?",
+    "options": {
+      "A": "number of shells",
+      "B": "atomic number",
+      "C": "chemical properties",
+      "D": "physical properties"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Elements within the same group have the same number of electrons in their valence (outermost) shells, and they have similar electron configurations. They exhibit similar chemical properties.\nBut elements in the same period can determined by the same number of shells.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4471",
+    "passage": ""
   }
 ]
