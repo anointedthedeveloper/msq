@@ -4575,5 +4575,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2145",
     "passage": ""
+  },
+  {
+    "id": 2146,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following statement is true of a proton?",
+    "options": {
+      "A": "The mass of a proton is 1840 times the mass of electron",
+      "B": "the total mass of the protons in a particular nucleus is always half the nuclear size",
+      "C": "The mass of a proton is one - twelfth the molar mass of carbon",
+      "D": "The mass of a proton is 1.0008g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The mass of a proton is 1.6726×10−24 g , while the mass of a proton = 1.00727 a . m. u. so OPTION A is correct because the mass of an electron is \\(\\frac{1}{1840}\\) of that of a proton, which is the same as say the mass of a proton is 1840 times the mass of an electron.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2146",
+    "passage": ""
   }
 ]
