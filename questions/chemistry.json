@@ -1971,5 +1971,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1486",
     "passage": ""
+  },
+  {
+    "id": 1487,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The partial pressure of oxygen in a sample of air is 452 mm Hg and the total pressure is 780 mm Hg. What is the mole fraction of oxygen?",
+    "options": {
+      "A": "0.203",
+      "B": "0.579",
+      "C": "2.030",
+      "D": "5.790"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Mole fraction = \\(\\frac{\\text{Partial pressure of component}}{\\text{Total pressure of compound}}\\)\n= \\(\\frac{452}{780}\\)\n= 0.579\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1487",
+    "passage": ""
   }
 ]
