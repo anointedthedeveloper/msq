@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66048",
     "passage": ""
+  },
+  {
+    "id": 66050,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The three components of a short report are the",
+    "options": {
+      "A": "introduction, body and findings.",
+      "B": "introduction, body and conclusion.",
+      "C": "terms of reference, body and conclusion.",
+      "D": "terms of reference, body and recommendations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A short report comprises of introduction, body and conclusion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66050",
+    "passage": ""
   }
 ]
