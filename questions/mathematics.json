@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1112",
     "passage": ""
+  },
+  {
+    "id": 1114,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Evaluate 21.05347 - 1.6324 x 0.43 to 3 decimal places",
+    "options": {
+      "A": "20.980",
+      "B": "20.351",
+      "C": "20.981",
+      "D": "20.352"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1114",
+    "passage": ""
   }
 ]
