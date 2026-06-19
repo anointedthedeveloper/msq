@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66063",
     "passage": ""
+  },
+  {
+    "id": 66066,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following statements is true about a quotation? It shows the",
+    "options": {
+      "A": "total of goods supplied.",
+      "B": "quality of goods in the warehouse.",
+      "C": "total cost of goods produced.",
+      "D": "prices of goods enquired about."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Quotation is the supplier's reply to the letter of enquiry which states the price, terms of payment, delivery dates and any discount. It is a statement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66066",
+    "passage": ""
   }
 ]
