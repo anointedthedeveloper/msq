@@ -8235,5 +8235,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62575",
     "passage": ""
+  },
+  {
+    "id": 62576,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a) What is a register?\n(b) List two types of register.\n(c) State three functions of registers.\n(d) Outline three differences between a register and main memory.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) A register is a small holding area on the processor chip that works much like random access memory, register holds program counters, data, instructions, and addresses that the arithmetic logic unit is currently processing.\nOR\nA processor register (CPU register) is one of small set of data holding places that are part of the computer processor\nOR\nOR\nA register may hold an instruction, a storage address or any kind of data (such as a bit sequence or individual characters).\nOR\nRegister is a special high speed storage area within the CPU. AIl data must be represented in the register before it can be processed.\n(b) Types of registers:\nMemory Address Register\nMemory Buffer Register.\nInput/Output Register.\nInput/Output Buffer Register.\nProgram Counter. Instruction\nRegister/Current Instruction Register\nAccumulator Register.\nFlag Register. Data Register.\nMemory data register. Index register.\nStack pointer register (SPR).\nCondition code register.\nInterrupt control register.\nTemporary register.\nPermanent register.\n(c) Functions of registers:\nHolds the address of memory where CPU wants to read or writ data. Hold the contents of data/instruction read from or written in memory.\nUsed to specify the address of a particular I / O device.\nUsed for exchanging data between the l/O module and the processor. Used to store the address of the next instruction to fetch for execution. It stores current instruction being executed or coded. It allows the bits of its content to be moved to left or right (shift register).\nIt holds the memory addresses of data and instruction during execution phase.\nIt is used to store the result produced by the system.\nIt acts as a hardware element which holds a number that can be added to/subtracted from address portion of computer instruction.\nIt is used to temporarily store data being transmitted to/from peripheral devices.\n(d) Differences between Register and Main Memory\nRegister Main Memory Loads/holds the instructions that the CPU needs. Holds the instructions and data that the currently executing program in the CPU requires. Holds the small amounts of data Memory of the computer around 32 bits to 64 bits Memory ranges from gigabytes to terabytes CPU operates on the register at a faster rate Examples are accumulator, program counter, instruction register, etc. CPU operates on the memory at a slower rate e.g Random Access Memory Some registers are located internally to the CPU. There are usually few registers on a processor Located externally to the CPU There are lot more registers in RAM Registers in the CPU hold the data is Currently working on the processor RAM holds program instruction and data that program requires.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62576",
+    "passage": ""
   }
 ]
