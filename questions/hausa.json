@@ -7529,5 +7529,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75996",
     "passage": ""
+  },
+  {
+    "id": 75997,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Menene manufar tatsuniya a al'adar Hausawa?",
+    "options": {
+      "A": "Nishaďi kaɗai",
+      "B": "Koyar da dabi'a",
+      "C": "Karfafa karya",
+      "D": "Koya lalaci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Folktales in Hausa culture are traditionally used to pass moral lessons to younger generations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75997",
+    "passage": ""
   }
 ]
