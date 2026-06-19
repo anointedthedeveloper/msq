@@ -8641,5 +8641,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62677",
     "passage": ""
+  },
+  {
+    "id": 62678,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The set of instructions written by computer experts to solve specific task of the user is called?",
+    "options": {
+      "A": "operating system.",
+      "B": "application software.",
+      "C": "system software.",
+      "D": "utility software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Application software is a type of software that enables users to accomplish particular tasks, such as word processing, spreadsheet calculations, database management, graphic design, and more. Unlike system software, which manages the hardware and allows other software to run, application software directly serves the user's needs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62678",
+    "passage": ""
   }
 ]
