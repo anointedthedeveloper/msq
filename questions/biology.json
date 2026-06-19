@@ -4662,5 +4662,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2298",
     "passage": ""
+  },
+  {
+    "id": 2299,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "In which part of a leguminous plant can you find bacteria like Azotobacter?",
+    "options": {
+      "A": "Spongy mesophyll of leaf",
+      "B": "At the nodes",
+      "C": "At the internodes",
+      "D": "In nodules",
+      "E": "Palisade mesophyll of leaf"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2299",
+    "passage": ""
   }
 ]
