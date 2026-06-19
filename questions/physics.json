@@ -12523,5 +12523,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16341",
     "passage": ""
+  },
+  {
+    "id": 16345,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A ball of mass 0.5kg moving at 10ms\n-1\ncollides with another ball of equal mass at rest. If the two balls move off together after the impact, calculate their common velocity.",
+    "options": {
+      "A": "0.2ms -1",
+      "B": "0.5ms -1",
+      "C": "5.0ms -1",
+      "D": "10.0ms -1",
+      "E": "20.0ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16345",
+    "passage": ""
   }
 ]
