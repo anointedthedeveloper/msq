@@ -11131,5 +11131,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14432",
     "passage": ""
+  },
+  {
+    "id": 14443,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Three similar cells each of e.m.f 2 v and internal resistance 2Ω  are connected in parallel, the total e.m.f and total internal resistance are respectively",
+    "options": {
+      "A": "6 v, 6.0Ω",
+      "B": "2 v, 0.7Ω",
+      "C": "2 v, 6.0Ω",
+      "D": "6 v, 0.7Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14443",
+    "passage": ""
   }
 ]
