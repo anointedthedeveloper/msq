@@ -15948,5 +15948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67796",
     "passage": ""
+  },
+  {
+    "id": 67799,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The Output will be a HIGH for any case when one or more inputs are one for a(an)",
+    "options": {
+      "A": "OR gate",
+      "B": "AND gate",
+      "C": "NOR gate",
+      "D": "NOT gate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An OR gate is a digital logic gate that implements logical disjunction - it behaves according to the truth table to the right. A HIGH output (1) results if one or more of the inputs to the gate is HIGH (1). If neither input is high, a LOW output (0) results. In another sense, the function of OR effectively finds the maximum between two binary digits, just as the complementary AND function finds the minimum.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67799",
+    "passage": ""
   }
 ]
