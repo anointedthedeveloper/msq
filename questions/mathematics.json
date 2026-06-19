@@ -4408,5 +4408,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8202",
     "passage": ""
+  },
+  {
+    "id": 8203,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Find the remainder when 3x\n3\n+ 5x\n2\n- 11x + 4 is divided by x + 3",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "1",
+      "D": "-1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8203",
+    "passage": ""
   }
 ]
