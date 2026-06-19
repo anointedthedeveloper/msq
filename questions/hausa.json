@@ -1278,5 +1278,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73650",
     "passage": ""
+  },
+  {
+    "id": 73651,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Sifa' a nahawu na nufin kalmar da ke karin bayani a kan",
+    "options": {
+      "A": "bayanau",
+      "B": "suna.",
+      "C": "suna",
+      "D": "adadi B. aikatau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is suna. In Hausa grammar, \"sifa\" refers to an adjective, which is a word that gives more information about a noun (suna). Adjectives describe or modify nouns, indicating their qualities, properties, or characteristics. For example, \"karamin\" (small) is an adjective that describes the noun \"yaro\" (boy), giving more information about the boy's size. Therefore, the correct answer is E. suna, as sifa (adjective) gives more information about a noun (suna).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73651",
+    "passage": ""
   }
 ]
