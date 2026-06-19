@@ -3986,5 +3986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73983",
     "passage": ""
+  },
+  {
+    "id": 73984,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Ụzọ adireesi ọle ka leta anamachọọrọ nwere?",
+    "options": {
+      "A": "Abụọ",
+      "B": "Atọ",
+      "C": "Anọ",
+      "D": "Ọtụ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question says how many addresses does a formal letter have? The answer is two (abụọ).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73984",
+    "passage": ""
   }
 ]
