@@ -1384,5 +1384,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/399",
     "passage": ""
+  },
+  {
+    "id": 400,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The dry indehiscent,  winged fruit formed from one one carpel is known as",
+    "options": {
+      "A": "Schizocarp",
+      "B": "Caryopsis",
+      "C": "Samara",
+      "D": "Nut",
+      "E": "Follicle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/400",
+    "passage": ""
   }
 ]
