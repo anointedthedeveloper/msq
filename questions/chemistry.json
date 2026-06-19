@@ -12577,5 +12577,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4682",
     "passage": ""
+  },
+  {
+    "id": 4685,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The haloalkanes used in dry-cleaning industries are?",
+    "options": {
+      "A": "trichloromethane and tetrachloromethane",
+      "B": "chloroethene and dichloroethene",
+      "C": "trichloroethene and tetrachloroethene",
+      "D": "chloroethane and dichloroethene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "- Both  trichloromethane and tetrachloromethane are such important organic solvent.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4685",
+    "passage": ""
   }
 ]
