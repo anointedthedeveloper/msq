@@ -14812,5 +14812,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64934",
     "passage": ""
+  },
+  {
+    "id": 64954,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "If A is in cell A1 and B is in Cell B1 of a worksheet in a spreadsheet application,write a formula to calculate\nx= \\(\\frac{A^2 = B{^1/2}}{100}\\)",
+    "options": {
+      "A": "((A1^2)+(B1^(1/2)))/100",
+      "B": "((A1^2)+(B1^(1/2)))/100",
+      "C": "((A1^2+(B1^(1/2))/100",
+      "D": "((A1^2)+(B1^(1/2)))/100"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64954",
+    "passage": ""
   }
 ]
