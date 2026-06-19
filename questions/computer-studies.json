@@ -19671,5 +19671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72632",
     "passage": ""
+  },
+  {
+    "id": 72633,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "An internet user secures his social  media account by regularly changing passwords. Which of the following passwords produces the best security?",
+    "options": {
+      "A": "wasscesc2024",
+      "B": "WASSCESC2024",
+      "C": "2024wasscesc",
+      "D": "WASSCESchool-Candidates(@2024"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A very secure password is one with large number of characters, complex (uppercase, lowercase and special characters mixed) and unpredictable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72633",
+    "passage": ""
   }
 ]
