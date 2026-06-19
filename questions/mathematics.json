@@ -4660,5 +4660,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8214",
     "passage": ""
+  },
+  {
+    "id": 8215,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A farmer planted 5000 grains of maize and harvested 5000 cobs, each bearing 500 grains. What is the ratio of the number of grains sowed to the number harvested?",
+    "options": {
+      "A": "1 : 250 000",
+      "B": "1 : 25 000",
+      "C": "1 : 500",
+      "D": "1 : 5 000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8215",
+    "passage": ""
   }
 ]
