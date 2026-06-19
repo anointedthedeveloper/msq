@@ -5856,5 +5856,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2633",
     "passage": ""
+  },
+  {
+    "id": 2634,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An electron can be added to a halogen atom to form a halide ion with",
+    "options": {
+      "A": "2 valence electrons",
+      "B": "3 valence electrons",
+      "C": "7 valence electrons",
+      "D": "8 valence electrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When an electron is added to a halogen atom, it will have eight valence electrons. Halogens have seven valence electrons in their outermost shell. When an electron is added to a halogen atom, it fills its outermost shell, resulting in a full valence shell of 8 electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2634",
+    "passage": ""
   }
 ]
