@@ -8930,5 +8930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/3041",
     "passage": ""
+  },
+  {
+    "id": 3042,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The permanent membership of the UN Security Council is",
+    "options": {
+      "A": "ten",
+      "B": "fifteen",
+      "C": "five",
+      "D": "eleven"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/3042",
+    "passage": ""
   }
 ]
