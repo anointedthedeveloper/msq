@@ -3987,5 +3987,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50602",
     "passage": ""
+  },
+  {
+    "id": 50603,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "For what values of m is \\(9y^{2} + my + 4\\) a perfect square?",
+    "options": {
+      "A": "\\(\\pm {2}\\)",
+      "B": "\\(\\pm {3}\\)",
+      "C": "\\(\\pm {6}\\)",
+      "D": "\\(+12\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50603",
+    "passage": ""
   }
 ]
