@@ -7474,5 +7474,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69769",
     "passage": ""
+  },
+  {
+    "id": 69770,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A type of file organization that stores data in the order of their arrival is called",
+    "options": {
+      "A": "indexed-sequential file organization",
+      "B": "hashed file organization",
+      "C": "random file organization",
+      "D": "sequential file organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A type of file organization that stores data in the order of their arrival is called sequential file organization. In sequential file organization, records are stored in the order in which they are added to the file. This means that the first record in the file is the oldest record, and the last record in the file is the newest record. Sequential file organization is a simple and efficient way to store data that is accessed in a sequential order. For example, sequential file organization is often used to store data that is logged in chronological order. However, sequential file organization can be inefficient for accessing data in a random order. For example, if you want to access the 10th record in a sequential file, you have to read the first 9 records before you can access the 10th record.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69770",
+    "passage": ""
   }
 ]
