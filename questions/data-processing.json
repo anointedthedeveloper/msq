@@ -1606,5 +1606,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57736",
     "passage": ""
+  },
+  {
+    "id": 57737,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Computer virus cannot be transmitted by",
+    "options": {
+      "A": "downloading files",
+      "B": "e-mail attachment",
+      "C": "pen drives",
+      "D": "typing of keyboard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57737",
+    "passage": ""
   }
 ]
