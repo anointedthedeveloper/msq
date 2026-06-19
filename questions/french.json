@@ -3049,5 +3049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71193",
     "passage": ""
+  },
+  {
+    "id": 71194,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeUn polsson vit dans.",
+    "options": {
+      "A": "le désert",
+      "B": "le ciel",
+      "C": "la mer",
+      "D": "le champ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fish live in the sea or la mer, not in a field (champ), the sky (ciel), the desert (désert), or a well (puits). Therefore, the correct answer is la mer (sea).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71194",
+    "passage": ""
   }
 ]
