@@ -15648,5 +15648,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23183",
     "passage": ""
+  },
+  {
+    "id": 23184,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Three balls are drawn one after the other with replacement, from a bag containing 5 red, 9white and 4 blue identical balls, What is the probability that they are one red, one white and one blue?",
+    "options": {
+      "A": "5/102",
+      "B": "5/136",
+      "C": "5/162",
+      "D": "5/204",
+      "E": "5/243"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "5\n18\n9\n18\n4\n18\n5\n162",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23184",
+    "passage": ""
   }
 ]
