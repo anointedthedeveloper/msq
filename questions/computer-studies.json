@@ -7568,5 +7568,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62543",
     "passage": ""
+  },
+  {
+    "id": 62544,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The following programs are general-purpose application software except?",
+    "options": {
+      "A": "CorelDraw",
+      "B": "Editor",
+      "C": "Ms Access",
+      "D": "MS Word"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "General-purpose application software is software that can be used for a variety of tasks. In this case, CorelDraw, MS Access, and MS Word are all general-purpose software. An editor, however, is not a general-purpose application software. It is a type of software that is used for editing code or text.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62544",
+    "passage": ""
   }
 ]
