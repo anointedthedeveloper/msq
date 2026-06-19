@@ -2349,5 +2349,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1551",
     "passage": ""
+  },
+  {
+    "id": 1552,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "\\(\\frac{1}{2}\\)Zn\\(^{2+}\\)(aq) + e\\(^-\\) → \\(\\frac{1}{2}\\) Zn(s) In the reaction above, calculate the quantity of electricity required to discharge zinc. [F = 96 500 C mol\\(^{-1}\\)]",
+    "options": {
+      "A": "0.965 x 10 4 C",
+      "B": "4.820 x 10 4 C",
+      "C": "9.650 x 10 4 C",
+      "D": "48.200 x 10 4 C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "1 mol → 96500 x 2 0.5 mol → X X = 0.5 x 96500 x 2 = 9.650 x 10\\(^4\\)C\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1552",
+    "passage": ""
   }
 ]
