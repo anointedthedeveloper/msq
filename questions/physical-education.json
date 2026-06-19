@@ -2476,5 +2476,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68266",
     "passage": ""
+  },
+  {
+    "id": 68267,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The sport injury that results in the break of bone is called ?",
+    "options": {
+      "A": "sprain",
+      "B": "fracture",
+      "C": "strain",
+      "D": "bruise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A fracture is a break, usually in a bone. If the broken bone punctures the skin, it is called an open or compound fracture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68267",
+    "passage": ""
   }
 ]
