@@ -4936,5 +4936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62333",
     "passage": ""
+  },
+  {
+    "id": 62334,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which generation of computers used vaccum tubes in their circuitry?",
+    "options": {
+      "A": "First generation",
+      "B": "Second generation",
+      "C": "Third generation",
+      "D": "Fourth generation."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62334",
+    "passage": ""
   }
 ]
