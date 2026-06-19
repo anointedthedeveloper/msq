@@ -3996,5 +3996,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58675",
     "passage": ""
+  },
+  {
+    "id": 58679,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following devices would not transmit signals from one point to another?",
+    "options": {
+      "A": "telephone line",
+      "B": "modem",
+      "C": "fibre optics",
+      "D": "coaxial cable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58679",
+    "passage": ""
   }
 ]
