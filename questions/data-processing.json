@@ -9524,5 +9524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77048",
     "passage": ""
+  },
+  {
+    "id": 77049,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Strategic data modeling is the",
+    "options": {
+      "A": "implementation of the blueprint in database",
+      "B": "development of logical data models",
+      "C": "capturing and displaying of program data",
+      "D": "creation of an information system procedure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Logical data models are representations of the data that a business needs to collect and manage in order to achieve its goals.\nStrategic data modeling is the process of developing these logical data models to support the long-term needs of the business.\nStrategic data modeling involves understanding the business's goals, identifying the data that is needed to achieve those goals, and designing a logical data model that will support the efficient and effective use of that data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77049",
+    "passage": ""
   }
 ]
