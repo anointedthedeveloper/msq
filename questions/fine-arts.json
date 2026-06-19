@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48062",
     "passage": ""
+  },
+  {
+    "id": 48063,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The design above is composed of",
+    "options": {
+      "A": "elliptical forms",
+      "B": "elliptical shapes",
+      "C": "basic shapes",
+      "D": "basic forms"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/q0kYadIaICKWtn8DXOu9JWTRwyd4b7VBTrL9IR9e.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781897335/myschool/fine-arts/q0kYadIaICKWtn8DXOu9JWTRwyd4b7VBTrL9IR9e.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48063",
+    "passage": ""
   }
 ]
