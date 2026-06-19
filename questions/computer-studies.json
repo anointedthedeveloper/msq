@@ -9672,5 +9672,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62730",
     "passage": ""
+  },
+  {
+    "id": 62731,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Handwritten letters, typeset documents or printout Characters can be read into the computer by?",
+    "options": {
+      "A": "Barcode Reader.",
+      "B": "Magnetic Ink Character Recognition.",
+      "C": "Optical Character Recognition.",
+      "D": "Optical Mark Reader."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62731",
+    "passage": ""
   }
 ]
