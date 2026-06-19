@@ -2643,5 +2643,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1565",
     "passage": ""
+  },
+  {
+    "id": 1566,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Haematite is an ore of",
+    "options": {
+      "A": "zinc",
+      "B": "lead",
+      "C": "iron",
+      "D": "copper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hematite is an iron oxide with the chemical formula Fe2O3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1566",
+    "passage": ""
   }
 ]
