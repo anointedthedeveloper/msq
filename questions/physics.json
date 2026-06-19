@@ -4786,5 +4786,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12759",
     "passage": ""
+  },
+  {
+    "id": 12760,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "When an alternating current given by I = 10sin (120π)t passes through a 12Ω resistor, the power dissipated in the resistor is",
+    "options": {
+      "A": "1200W",
+      "B": "600W",
+      "C": "120W",
+      "D": "30W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To find the power dissipated in a resistor due to an alternating current (AC), we use the formula for average power:\n\\(P = I_{\\text{rms}}^2 R\\)\nwhere: - \\( P \\) is the average power, - \\( I_{\\text{rms}} \\) is the root mean square (RMS) value of the current, - \\( R \\) is the resistance.\nThe current is given by:  \\(I(t) = 10 \\sin(120\\pi t)\\)\nThe peak current is: \\(I_0 = 10 \\, \\text{A}\\)\nThe RMS value of a sinusoidal current is given by:\n\\(I_{\\text{rms}} = \\frac{I_0}{\\sqrt{2}} = \\frac{10}{\\sqrt{2}} = 5\\sqrt{2} \\, \\text{A} \\approx 7.07 \\, \\text{A}\\)\nUsing the resistance \\( R = 12 \\, \\Omega \\):\n\\(P = I_{\\text{rms}}^2 R\\)\nSubstituting the values:\n\\(P = (5\\sqrt{2})^2 \\cdot 12\\)\nCalculating \\( (5\\sqrt{2})^2 \\):\n\\((5\\sqrt{2})^2 = 25 \\cdot 2 = 50\\)\nNow substituting back into the power formula: \\(P = 50 \\cdot 12 = 600 \\, \\text{W}\\)\nThus, the power dissipated in the resistor is: \\(600 \\, \\text{W}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12760",
+    "passage": ""
   }
 ]
