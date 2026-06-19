@@ -2814,5 +2814,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1246",
     "passage": ""
+  },
+  {
+    "id": 1247,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "In animals, cilia, flagella, pseudopodia and chaetae, can be used for",
+    "options": {
+      "A": "reproduction",
+      "B": "fighting",
+      "C": "attachment to plants",
+      "D": "locomotion",
+      "E": "locating sensation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1247",
+    "passage": ""
   }
 ]
