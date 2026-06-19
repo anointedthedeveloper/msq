@@ -766,5 +766,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/756",
     "passage": ""
+  },
+  {
+    "id": 759,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Consider the following equation H2O + 2Fe2+ + Cl2 ↔ 2Fe3+ + 2Cl- + H2O. Which behaves as an oxidizing agent?",
+    "options": {
+      "A": "Fe 2+",
+      "B": "Cl 2",
+      "C": "Fe 3+",
+      "D": "Cl -",
+      "E": "H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "- An oxidizing agent is a substance that causes oxidation by accepting electrons; therefore, it gets reduced. A reducing agent is a substance that causes reduction by losing electrons ; therefore it gets oxidized.\n- Common examples of oxidizing agents include halogens (such as chlorine and fluorine)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/759",
+    "passage": ""
   }
 ]
