@@ -5961,5 +5961,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76409",
     "passage": ""
+  },
+  {
+    "id": 76410,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In the pole vault, what is the 'plant' phase?",
+    "options": {
+      "A": "The moment the athlete plants their hands on the pole before the jump.",
+      "B": "The moment the athlete plants their head on the mat after the jump",
+      "C": "The moment the pole is placed in the 'plant box' on the ground.",
+      "D": "The moment the athlete plants their feet in the takeoff box to stop their forward motion."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The 'plant' phase in pole vaulting refers to the critical moment when the athlete places the pole into the 'plant box'-a metal or fiberglass trough embedded in the runway just before the takeoff point. This action is fundamental because it allows the vaulter to convert the horizontal speed generated during the approach run into vertical lift to clear the bar. The pole acts like a spring, bending as it stores elastic energy during the plant and takeoff. A well-timed and precise plant ensures that the pole bends correctly, enabling the athlete to use the stored energy to propel themselves upwards. The plant requires coordination, strength, and excellent timing. If the pole is not planted correctlyetoo early, too late, or at the wrong angle-it can result in loss of momentum, a failed vault, or even injuryto",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76410",
+    "passage": ""
   }
 ]
