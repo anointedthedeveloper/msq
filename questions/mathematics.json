@@ -3652,5 +3652,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7839",
     "passage": ""
+  },
+  {
+    "id": 7840,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "By how much is the mean of 30, 56, 31, 55, 43 and 44 less than the median?",
+    "options": {
+      "A": "0.75",
+      "B": "0.50",
+      "C": "0.33",
+      "D": "0.17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(Mean = \\frac{30+56+31+55+43+44}{6}\\)\n= \\(\\frac{259}{6}\\) = 43.167\nMedian = 30,31,43,44,55,56  = \\(\\frac{43+44}{2}\\)\n=\\( \\frac{87}{2}\\) = 43.5\nMedian-mean = 43.5 - 43.17 = 0.33\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7840",
+    "passage": ""
   }
 ]
