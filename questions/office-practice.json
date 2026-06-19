@@ -3362,5 +3362,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66866",
     "passage": ""
+  },
+  {
+    "id": 66867,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "In communication process, writing a memo is an example of",
+    "options": {
+      "A": "decoding",
+      "B": "feedback",
+      "C": "encoding",
+      "D": "channel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Encoding means translating information into a message in the form of symbols that represent ideas or concepts. This process translates the ideas or concepts into the coded message that will be communicated.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66867",
+    "passage": ""
   }
 ]
