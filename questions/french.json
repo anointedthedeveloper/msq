@@ -3637,5 +3637,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71221",
     "passage": ""
+  },
+  {
+    "id": 71222,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Est-ce que ce fte maison appartient à ton oncie Non, c'est.......du chef du village",
+    "options": {
+      "A": "elui-là",
+      "B": "celle",
+      "C": "celui",
+      "D": "celles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The pronoun \"celle-là\" is used to replace the noun \"maison\" and indicates that it belongs to the chief of the village.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71222",
+    "passage": ""
+  },
+  {
+    "id": 71223,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.From the options lettere A-E, choose the one that is odd. La classe.",
+    "options": {
+      "A": "Une craie",
+      "B": "Une chaise",
+      "C": "Un canard",
+      "D": "Un livre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The options are all objects typically found in a classroom, such as a book (Un livre), a chair (Une chaise), a blackboard chalk (Une craie), an a table (Une table). However, a duck (Un canard) is not something you would normally find in a classroom, making it the odd one out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71223",
+    "passage": ""
   }
 ]
