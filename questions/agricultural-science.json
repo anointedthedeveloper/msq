@@ -1670,5 +1670,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15983",
     "passage": ""
+  },
+  {
+    "id": 15984,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following sources of farm power cannot be effectively used for processing agricultural products?",
+    "options": {
+      "A": "animals",
+      "B": "electricity",
+      "C": "sun",
+      "D": "machines",
+      "E": "wind"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15984",
+    "passage": ""
   }
 ]
