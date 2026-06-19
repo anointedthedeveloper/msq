@@ -9846,5 +9846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10414",
     "passage": ""
+  },
+  {
+    "id": 10415,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Three boys play a game of luck in which their respective chances of winning are \\(\\frac{1}{2}\\), \\(\\frac{1}{3}\\), and \\(\\frac{1}{4}\\). What is the probability that one and only one of the boys wins the game?",
+    "options": {
+      "A": "\\(\\frac{1}{24}\\)",
+      "B": "\\(\\frac{1}{12}\\)",
+      "C": "\\(\\frac{11}{24}\\)",
+      "D": "\\(\\frac{23}{24}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The probabilities of the three boys winning are independent and are given as:\n- Boy A: \\( \\frac{1}{2} \\), - Boy B: \\( \\frac{1}{3} \\), - Boy C: \\( \\frac{1}{4} \\)\n\"One and only one wins\" means exactly one boy wins (the other two lose).\nThe three possible cases are:\nA wins, B loses, C loses \\( P = \\frac{1}{2} \\times \\left(1 - \\frac{1}{3}\\right) \\times \\left(1 - \\frac{1}{4}\\right) = \\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{3}{4} = \\frac{6}{24} \\)\nB wins, A loses, C loses \\( P = \\left(1 - \\frac{1}{2}\\right) \\times \\frac{1}{3} \\times \\frac{3}{4} = \\frac{1}{2} \\times \\frac{1}{3} \\times \\frac{3}{4} = \\frac{3}{24} \\)\nC wins, A loses, B loses \\( P = \\left(1 - \\frac{1}{2}\\right) \\times \\left(1 - \\frac{1}{3}\\right) \\times \\frac{1}{4} = \\frac{1}{2} \\times \\frac{2}{3} \\times \\frac{1}{4} = \\frac{2}{24} \\)\nAdd them up: \\( \\frac{6}{24} + \\frac{3}{24} + \\frac{2}{24} = \\frac{11}{24} \\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10415",
+    "passage": ""
   }
 ]
