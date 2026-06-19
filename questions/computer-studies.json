@@ -9229,5 +9229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62707",
     "passage": ""
+  },
+  {
+    "id": 62708,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A bit as used in computing in digital communication is?",
+    "options": {
+      "A": "a decimal digit.",
+      "B": "an octal digit.",
+      "C": "a bin digit.",
+      "D": ".a hexadecimal digit."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62708",
+    "passage": ""
   }
 ]
