@@ -7074,5 +7074,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2970",
     "passage": ""
+  },
+  {
+    "id": 2971,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When water boilers are used for long period of time, the solid substances left behind as scale are",
+    "options": {
+      "A": "magnesium trioxosilicate (IV) and rust",
+      "B": "magnesium trioxosilicate (IV) and calcium tetraoxosulphate (VI)",
+      "C": "clay and magnesium troxosulphate (IV)",
+      "D": "clay and rust"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The solid substances left behind as scale when water boilers are used in boiling water for a long period of time will contain Magnesium trioxosilicate(IV) and rust which is an indication that the water is hard water(temporary hardness of water, which upon boiling, Calcium and magnesium trioxocarbonate(IV) are formed on the ring ). The rust can occur because of the presence of oxygen and water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2971",
+    "passage": ""
   }
 ]
