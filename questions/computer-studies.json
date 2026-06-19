@@ -5313,5 +5313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62411",
     "passage": ""
+  },
+  {
+    "id": 62412,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Use the BASIC program below to answer this question 10     LET K = 2 20     LET L = 9 30     LET SUM = 0 40     FOR J = K TO STEP 2 50     SUM = SUM + J2 60     PRINT \"ANSWER =\", SUM 70     NEXT J 80     END The last output that will be displayed by the program is",
+    "options": {
+      "A": "20",
+      "B": "36",
+      "C": "64",
+      "D": "120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "120",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62412",
+    "passage": ""
   }
 ]
