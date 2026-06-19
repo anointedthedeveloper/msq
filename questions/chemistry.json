@@ -239,5 +239,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/41",
     "passage": ""
+  },
+  {
+    "id": 43,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When large hydrocarbon molecules are heated at high temperature in the presence of a catalyst to give smaller molecules, the process is known as",
+    "options": {
+      "A": "disintegration",
+      "B": "polymerization",
+      "C": "cracking",
+      "D": "degradation",
+      "E": "distillation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The process described is called cracking. When large hydrocarbon molecules are heated to high temperatures, often in the presence of a catalyst, they break down into smaller, more useful molecules. This process is crucial in the petrochemical industry for converting heavy fractions of crude oil into lighter, more valuable products like gasoline and fuel oil.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43",
+    "passage": ""
+  },
+  {
+    "id": 47,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The pH of four solutions W, X, Y, Z are 4, 6, 8, 10 respectively, therefore",
+    "options": {
+      "A": "none of these solutions is acidic",
+      "B": "the pH of Y is made more acidic by addition of distilled water",
+      "C": "Z is the most acidic solution",
+      "D": "W is the most acidic solution",
+      "E": "X is neutral"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/47",
+    "passage": ""
+  },
+  {
+    "id": 50,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When each of the nitrates of Potassium, Magnesium and iron is heated,",
+    "options": {
+      "A": "all the nitrates decompose to their oxides",
+      "B": "the nitrate of magnesium gives the nitrite and oxygen",
+      "C": "the nitrates of  magnesium and iron give the oxides",
+      "D": "the nitrate of iron gives the nitrite and oxygen",
+      "E": "the nitrate of the magnesium is not decomposed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When heated, the nitrates of potassium, magnesium, and iron decompose as follows:\n- Potassium nitrate (KNO₃) decomposes to potassium nitrite (KNO₂) and oxygen (O₂).\n- Magnesium nitrate (Mg(NO₃)₂) decomposes to magnesium oxide (MgO) and nitrogen dioxide (NO₂) and oxygen (O₂).\n- Iron(III) nitrate (Fe(NO₃)₃) decomposes to iron(III) oxide (Fe₂O₃) and nitrogen dioxide (NO₂) and oxygen (O₂).\nSo, all three nitrates would not decompose to their respective oxides except Nitrates of Magnesium and Iron.\nThe correct answer is  C.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/50",
+    "passage": ""
   }
 ]
