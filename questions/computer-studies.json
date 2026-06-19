@@ -20549,5 +20549,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76823",
     "passage": ""
+  },
+  {
+    "id": 76824,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following methods is not suitable for securing files?",
+    "options": {
+      "A": "Saving documents without a password",
+      "B": "Use of back up",
+      "C": "Use of antivirus",
+      "D": "Proper labelling of storage devices"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Securing files involves protecting them from unauthorized access, loss, or damage. While using backups, antivirus software, and proper labeling of storage devices can help secure files, saving documents without a password does not provide any security. It allows anyone who can access the storage location to open and potentially modify the document. Therefore, saving documents without a password is not a suitable method for securing files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76824",
+    "passage": ""
   }
 ]
