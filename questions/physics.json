@@ -11910,5 +11910,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14498",
     "passage": ""
+  },
+  {
+    "id": 14499,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The terminal velocity of a ball-bearing falling through a viscous fluid is reached when the?",
+    "options": {
+      "A": "upthrust is equal to the weight of the ball",
+      "B": "ball accelerate uniformly",
+      "C": "upthrust is equal to the velocity of the ball",
+      "D": "velocity is uniform"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "At vt = terminal velocity = zero acceleration = uniform velocity\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14499",
+    "passage": ""
   }
 ]
