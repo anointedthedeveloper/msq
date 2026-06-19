@@ -4408,5 +4408,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12283",
     "passage": ""
+  },
+  {
+    "id": 12284,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If the distance from a point source of sound is doubled, by what factor does the intensity decrease?",
+    "options": {
+      "A": "4.00",
+      "B": "2.00",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1\nr 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12284",
+    "passage": ""
   }
 ]
