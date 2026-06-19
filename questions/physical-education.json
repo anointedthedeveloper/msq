@@ -2854,5 +2854,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68285",
     "passage": ""
+  },
+  {
+    "id": 68286,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "One of these is a component of school health programme.",
+    "options": {
+      "A": "None of the above",
+      "B": "External services",
+      "C": "Health services",
+      "D": "Currable services"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Health care service: Health care is the prevention, treatment and management of illness and prevention of mental and physical wellbeing through the service offered by the medical, nursing, and allied health professions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68286",
+    "passage": ""
   }
 ]
