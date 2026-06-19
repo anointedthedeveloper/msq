@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57362",
     "passage": ""
+  },
+  {
+    "id": 57366,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a computer professional?",
+    "options": {
+      "A": "Network Administrator",
+      "B": "Web Master",
+      "C": "System Analyst",
+      "D": "File Manager"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Computer professionals are individuals employed in the field of information technology, for example, hardware or software engineers, web designers, network or database administrators, computer science instructors, computer repair technicians, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57366",
+    "passage": ""
   }
 ]
