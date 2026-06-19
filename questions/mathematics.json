@@ -13778,5 +13778,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22873",
     "passage": ""
+  },
+  {
+    "id": 22874,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the equation whose roots are -2/3 and -1/4",
+    "options": {
+      "A": "12x 2 + 11x + 2 = 0",
+      "B": "12x 2 - 11x + 2 = 0",
+      "C": "x 2 - 11/12x + 2 = 0",
+      "D": "12x 2 - 11x - 2 = 0",
+      "E": "x 2 - 11/12x - 2 = 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x = \\(-\\frac{2}{3}\\) and \\(-\\frac{1}{4}\\)\n\\(\\implies (x + \\frac{2}{3}) = 0; (x + \\frac{1}{4}) = 0\\)\n\\((x + \\frac{2}{3})(x + \\frac{1}{4}) = 0\\)\n\\(x^{2} + \\frac{1}{4}x + \\frac{2}{3}x + \\frac{1}{6} = 0\\)\n\\(x^2 + \\frac{11}{12}x + \\frac{1}{6} = 0\\)\n\\(12x^2 + 11x + 2 = 0\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22874",
+    "passage": ""
   }
 ]
