@@ -1760,5 +1760,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49801",
     "passage": ""
+  },
+  {
+    "id": 49802,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The policy which covers either death or disability resulting from an injury is",
+    "options": {
+      "A": "personal accident insurance",
+      "B": "fidelity guaranteed",
+      "C": "sickness insurance",
+      "D": "motor insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Personal Accident insurance or PA insurance is an annual policy which provides compensation in the event of injuries, disability or death caused solely by violent, accidental , external and visible events. It is different from life insurance and medical & health insurance .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49802",
+    "passage": ""
   }
 ]
