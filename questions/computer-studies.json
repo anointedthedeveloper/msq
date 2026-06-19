@@ -20486,5 +20486,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76803",
     "passage": ""
+  },
+  {
+    "id": 76804,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following software is best suited for keeping records during the national population census?",
+    "options": {
+      "A": "Graphic",
+      "B": "Database",
+      "C": "Word Processing",
+      "D": "Spreadfast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Database software is best suited for keeping records during a national population census. This is because a database is designed to store, retrieve, define, and manage large amounts of data, making it an ideal tool for tasks that involve storing and manipulating large amounts of information, like a national population census.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76804",
+    "passage": ""
   }
 ]
