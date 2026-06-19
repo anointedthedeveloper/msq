@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/722",
     "passage": ""
+  },
+  {
+    "id": 723,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Solve the inequality 2 - x > x\\(^2\\).",
+    "options": {
+      "A": "x < -2 or x > 1",
+      "B": "x > 2 or x< -1",
+      "C": "-1 < x < 2",
+      "D": "-2 < x < 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2 - x > x\\(^2\\)\n2 - x - x\\(^2\\) > 0\n(x+2)(x-1) < 0\nEither (x + 2) > 0 and (x - 1) < 0.\nx + 2 > 0 \\(\\implies\\) x > -2.\n-2 < x < 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/723",
+    "passage": ""
   }
 ]
