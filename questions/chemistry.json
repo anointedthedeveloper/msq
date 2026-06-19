@@ -1,0 +1,23 @@
+[
+  {
+    "id": 2,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Which of the following statements is NOT correct?",
+    "options": {
+      "A": "The average kinetic energy of a gas is directly proportional to its temperature",
+      "B": "At constant temperature, the volume of a gas increases as the pressure increases",
+      "C": "The pressure of a gas is directly proportional to the density.",
+      "D": "The temperature of a gas is directly proportional to its volume"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Boyle's law is a gas law, stating that the pressure and volume of a gas have an inverse relationship. If volume increases, then pressure decreases.\nOption A,C and D are correct except option B which is incorrect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2",
+    "passage": ""
+  }
+]
