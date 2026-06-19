@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73197",
     "passage": ""
+  },
+  {
+    "id": 73198,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The most common method of preserving poultry food in Ghana is",
+    "options": {
+      "A": "Drying",
+      "B": "Salting",
+      "C": "Freezing",
+      "D": "Smoking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Smoking is an old preservation method that involves exposing food to smoke to prevent spoilage and to add flavor. The smoke acts as a natural preservative by dehydrating the meat and preventing bacteria from growing. Smoking also adds a smoky flavor to the meat, which is a popular taste in Ghana.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73198",
+    "passage": ""
   }
 ]
