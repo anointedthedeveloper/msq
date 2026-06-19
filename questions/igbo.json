@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73547",
     "passage": ""
+  },
+  {
+    "id": 73550,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Gịnị ka \"80\" pụtara n'Igbo?",
+    "options": {
+      "A": "Asatọ",
+      "B": "Iri na asatọ",
+      "C": "Asatọ na efu",
+      "D": "Iri asatọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is Iri asatọ. In Igbo, \"Iri asatọ\" means \"eighty\" which equals 80 (since 10 x 8 = 80 in Igbo numerals).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73550",
+    "passage": ""
   }
 ]
