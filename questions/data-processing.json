@@ -9839,5 +9839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77073",
     "passage": ""
+  },
+  {
+    "id": 77074,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Multitasking allows the _____  to access several programs at the same time",
+    "options": {
+      "A": "cpu",
+      "B": "computer",
+      "C": "ram",
+      "D": "user"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Multitasking allows the user to access several programs at the same time. This is a feature of modern operating systems that allows multiple applications to run concurrently. While technically it's the computer's CPU that switches between tasks, from the user's perspective, it appears as if several programs are running at the same time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77074",
+    "passage": ""
   }
 ]
