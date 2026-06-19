@@ -5723,5 +5723,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62589",
     "passage": ""
+  },
+  {
+    "id": 62591,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Fourth generation computer application can execute the following operations except",
+    "options": {
+      "A": "digging of drainages",
+      "B": "drainage channel design",
+      "C": "management of recreational facilities",
+      "D": "payroll management"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fourth-generation computer applications cannot execute the operation of \" digging of drainages \". This is because fourth-generation computers are software-based and designed for specific applications that focus on data manipulation, report generation, and analysis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62591",
+    "passage": ""
   }
 ]
