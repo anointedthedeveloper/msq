@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73552",
     "passage": ""
+  },
+  {
+    "id": 73553,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ụlọakụ na-aza.",
+    "options": {
+      "A": "ofe",
+      "B": "akwụkwọ",
+      "C": "nri",
+      "D": "ụlọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is akwụkwọ.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73553",
+    "passage": ""
   }
 ]
