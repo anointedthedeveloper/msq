@@ -1530,5 +1530,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73593",
     "passage": ""
+  },
+  {
+    "id": 73595,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Nnamdi_______ ụlọ ọma ahụ.",
+    "options": {
+      "A": "rụrụ",
+      "B": "gbụrụ",
+      "C": "kụrụ",
+      "D": "nyara"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is rụrụ. \"Nnamdi rụrụ ụlọ ọma ahụ\" is a complete sentence in Igbo, which means \"Nnamd built a good house\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73595",
+    "passage": ""
   }
 ]
