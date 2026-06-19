@@ -14306,5 +14306,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22930",
     "passage": ""
+  },
+  {
+    "id": 22931,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the mean of the distribution",
+    "options": {
+      "A": "3.5",
+      "B": "4.0",
+      "C": "4.4",
+      "D": "5.0",
+      "E": "5"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xxHy8SMmzjJUDYs4qPoPLNOhQiTztj2dCkJqEnBr.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909203/myschool/mathematics/xxHy8SMmzjJUDYs4qPoPLNOhQiTztj2dCkJqEnBr.jpg",
+    "correct_answer": "C",
+    "explanation": "\\(\\bar{x}\\) = \\(\\frac{2 + 14 + 15 + 16 + 45 + 42 + 42}{40}\\) = \\(\\frac{176}{40}\\) = 4.4",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22931",
+    "passage": ""
   }
 ]
