@@ -13930,5 +13930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64432",
     "passage": ""
+  },
+  {
+    "id": 64433,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What does ICT stand for?",
+    "options": {
+      "A": "information and community technology",
+      "B": "Internet and communication technology",
+      "C": "information and communication technology",
+      "D": "Internet access communication technologies"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "ICT means Information and Communications Technology",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64433",
+    "passage": ""
   }
 ]
