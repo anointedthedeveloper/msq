@@ -10997,5 +10997,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4409",
     "passage": ""
+  },
+  {
+    "id": 4410,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most appropriately completes the sentence : Had he known that it would rain, he .... his umbrella with him.",
+    "options": {
+      "A": "would have taking",
+      "B": "was going to take",
+      "C": "would be taking",
+      "D": "would have taken",
+      "E": "would take"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This sentence is a third conditional sentence, which is used to talk about unreal situations in the past —things that did not happen.\nStructure of the third conditional:\nIf + past perfect , would have + past participle\nIn this case:\n\"Had he known\" = inverted form of \"If he had known\" (past perfect) The main clause should be: \"he would have taken his umbrella\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4410",
+    "passage": ""
   }
 ]
