@@ -1120,5 +1120,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/387",
     "passage": ""
+  },
+  {
+    "id": 388,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these is not an enzyme?",
+    "options": {
+      "A": "Pepsin",
+      "B": "Gastrin",
+      "C": "Amylase",
+      "D": "Chymotrypsin",
+      "E": "Trypsin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Gastrin is a hormone that is produced by 'G' cells in the lining of the stomach and upper small intestine, and released into the blood circulation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/388",
+    "passage": ""
   }
 ]
