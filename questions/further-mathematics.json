@@ -2433,5 +2433,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50424",
     "passage": ""
+  },
+  {
+    "id": 50425,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A body of mass 10kg moving with a velocity of 5\\(ms^{-1}\\) collides with another body of mass 15kg moving in the same direction as the first with a velocity of 2\\(ms^{-1}\\). After collision, the two bodies move together with a common velocity v\\(ms^{-1}\\).",
+    "options": {
+      "A": "3.2",
+      "B": "5.3",
+      "C": "7.0",
+      "D": "8.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Momentum of bodies with common velocity = \\(m_{1}v_{1} + m_{2}v_{2} = (m_{1} + m_{2})v\\)\n\\((10 \\times 5) + (15 \\times 2)  = (10 + 15)v\\)\n\\(50 + 30 = 25v \\implies v = \\frac{80}{25} = 3.2ms^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50425",
+    "passage": ""
   }
 ]
