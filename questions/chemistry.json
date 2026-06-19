@@ -2055,5 +2055,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1490",
     "passage": ""
+  },
+  {
+    "id": 1491,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Which of the following types of bonding does not involve the formation of new substance?",
+    "options": {
+      "A": "Metallic",
+      "B": "covalent",
+      "C": "Co-ordinate",
+      "D": "Electrovalent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Apart from the fact that there are delocalised ions around the metals, the metallic atoms remain the same, hence no new substance is formed. However, covalent, co-ordinate and electrovalent bonding involves formation of new substances. Option A is the answer\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1491",
+    "passage": ""
   }
 ]
