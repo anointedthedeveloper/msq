@@ -3274,5 +3274,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68308",
     "passage": ""
+  },
+  {
+    "id": 68309,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The type of family in which one spouse(man or woman) has several other spouses is called?",
+    "options": {
+      "A": "polygamous family",
+      "B": "extended family",
+      "C": "monogamous family",
+      "D": "polygynous family"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Polygamous family is the type of family in which one spouse(man or woman) has several other spouses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68309",
+    "passage": ""
   }
 ]
