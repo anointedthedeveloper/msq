@@ -3190,5 +3190,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5909",
     "passage": ""
+  },
+  {
+    "id": 5911,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The sum of four numbers is 1214\\(_5\\). What is the average expressed in base five?",
+    "options": {
+      "A": "114",
+      "B": "141",
+      "C": "401",
+      "D": "411"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Convert to base 10, divide, and then re-convert to base 5.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/5911",
+    "passage": ""
   }
 ]
