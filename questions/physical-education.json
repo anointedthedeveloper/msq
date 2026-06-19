@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64193",
     "passage": ""
+  },
+  {
+    "id": 64195,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When an athlete beats the gun twice in a track event, he is",
+    "options": {
+      "A": "allowed one more trial",
+      "B": "disqualified",
+      "C": "placed on the last lane",
+      "D": "suspended"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This is known as a false start. Athletes are usually disqualified for this offence whether deliberate or not.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64195",
+    "passage": ""
   }
 ]
