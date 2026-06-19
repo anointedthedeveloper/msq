@@ -10535,5 +10535,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4218",
     "passage": ""
+  },
+  {
+    "id": 4219,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most appropriately completes the sentence : Do you mind if i wait for the reply? I'd rather you ..... again tomorrow",
+    "options": {
+      "A": "called",
+      "B": "will call",
+      "C": "can call",
+      "D": "call",
+      "E": "were calling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The expression \"I'd rather you...\" (short for I would rather you... ) is followed by a past simple verb when referring to the present or future. This is a subjunctive construction , used to express preference about another person's actions. It does not imply past time. \"I'd rather you called\" = I would prefer that you call (in the future), but we use the past simple called to express this preference.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4219",
+    "passage": ""
   }
 ]
