@@ -2894,5 +2894,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49945",
     "passage": ""
+  },
+  {
+    "id": 49947,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The policy taken to cover loss of income that a business suffers when its facilities are closed due to a disaster is",
+    "options": {
+      "A": "group insurance",
+      "B": "business support",
+      "C": "fire insurance",
+      "D": "business interruption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Business interruption insurance (also known as business income insurance) is a type of insurance that covers the loss of income that a business suffers after a disaster.The income loss covered may be due to disaster-related closing of the business facility or due to the rebuilding process after a disaster",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49947",
+    "passage": ""
   }
 ]
