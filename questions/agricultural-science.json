@@ -7388,5 +7388,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/17000",
     "passage": ""
+  },
+  {
+    "id": 17002,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "land use is influenced by the following except",
+    "options": {
+      "A": "population density",
+      "B": "population growth",
+      "C": "climatic conditions",
+      "D": "topography",
+      "E": "fallowing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/17002",
+    "passage": ""
   }
 ]
