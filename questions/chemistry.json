@@ -10204,5 +10204,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4059",
     "passage": ""
+  },
+  {
+    "id": 4063,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Which of the following reaction is endothermic?",
+    "options": {
+      "A": "C (s) + O 2(g) → CO 2(g)",
+      "B": "CaO (s) + H 2 O (l) → Ca(OH) 2(s)",
+      "C": "C (s) + H 2 O (g) → CO (g) + H 2(g)",
+      "D": "HCl (aq) + NaOH (aq) → NaCl (aq) + H 2 O (l)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Water Gas is a mixture of carbon monoxide and hydrogen produced from synthesis gas.\\(H_2O + C --> H_2 + CO\\) (H=+131KJ/mol) An Endothermic process is any process which requires or absorbs thermal energy from its surroundings, usually in the form of heat.in Endothermic reaction ∆H is positive. Therefore it is Endothermic\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4063",
+    "passage": ""
   }
 ]
