@@ -10401,5 +10401,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63988",
     "passage": ""
+  },
+  {
+    "id": 63990,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Before 1963 __________ was the highest court in Nigeria",
+    "options": {
+      "A": "Supreme court",
+      "B": "Appeal court",
+      "C": "Privy council",
+      "D": "Magistrate court"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Supreme court become the highest court in 1963, but before then, the Privy council in London sees to dispute settlement and matters adjudication.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63990",
+    "passage": ""
   }
 ]
