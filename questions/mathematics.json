@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/834",
     "passage": ""
+  },
+  {
+    "id": 835,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the volume of a hemisphere is increasing at a steady rate of 18π m\\(^{3}\\) s\\(^{-1}\\), at what rate is its radius changing when its is 6m?",
+    "options": {
+      "A": "2.50m/s",
+      "B": "2.00 m/s",
+      "C": "0.25 m/s",
+      "D": "0.20 m/s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(V = \\frac{2}{3} \\pi r^{3}\\)\nGiven: \\(\\frac{\\mathrm d V}{\\mathrm d t} = 18\\pi m^{3} s^{-1}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d t} = \\frac{\\mathrm d V}{\\mathrm d r} \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d V}{\\mathrm d r} = 2\\pi r^{2}\\)\n\\(18\\pi = 2\\pi r^{2} \\times \\frac{\\mathrm d r}{\\mathrm d t}\\)\n\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{18\\pi}{2\\pi r^{2}} = \\frac{9}{r^{2}}\\)\nThe rate of change of the radius when r = 6m,\n\\(\\frac{\\mathrm d r}{\\mathrm d t} = \\frac{9}{6^{2}} = \\frac{1}{4}\\)\n= \\(0.25 ms^{-1}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/835",
+    "passage": ""
   }
 ]
