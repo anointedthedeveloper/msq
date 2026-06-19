@@ -102,5 +102,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48116",
     "passage": ""
+  },
+  {
+    "id": 48117,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "La monnaie unique de la zone francophone de l'Afrique de l'ouest c'est",
+    "options": {
+      "A": "la livre",
+      "B": "le cedi",
+      "C": "le FF",
+      "D": "le CFA"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48117",
+    "passage": ""
   }
 ]
