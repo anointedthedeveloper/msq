@@ -4419,5 +4419,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2065",
     "passage": ""
+  },
+  {
+    "id": 2071,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the appropriate option to fill the gap in the following sentences : If Remi perform poorly in her forthcoming examination, then either her mother or I.... to blame",
+    "options": {
+      "A": "must",
+      "B": "has",
+      "C": "will be",
+      "D": "are",
+      "E": "am"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence is a conditional statement. If the \"If-clause\" is in the present tense, a future tense should be used in the main clause. So the correct verb phrase should express future result, which is “will be.”",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2071",
+    "passage": ""
   }
 ]
