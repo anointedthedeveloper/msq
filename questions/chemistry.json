@@ -525,5 +525,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/73",
     "passage": ""
+  },
+  {
+    "id": 74,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
+    "options": {
+      "A": "ionic bond",
+      "B": "electrovalent bond",
+      "C": "covalent bond",
+      "D": "co-ordinate bond",
+      "E": "hydrogen bond"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When one atom supplies both electrons in forming a two-electron bond, it is known as a dative covalent or coordinate bond. If two atoms contribute one electron each, it is known as a simple covalent bond. when ammonia and hydrogen ions bond together to form ammonium ion, the type of bond formed is a dative/coordinate covalent bond, because ammonia supplied both electrons with hydrogen contributing nothing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/74",
+    "passage": ""
   }
 ]
