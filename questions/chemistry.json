@@ -3021,5 +3021,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1656",
     "passage": ""
+  },
+  {
+    "id": 1660,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The pollution from petroleum spillage in rivers and lakes can best be dispersed by",
+    "options": {
+      "A": "Pouring detergents",
+      "B": "Passing of ships through the area",
+      "C": "Pouring organic solvents",
+      "D": "Evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The movement of ships helps break up the oil slick, increasing its surface area and promoting natural dispersion by wave action and microbial degradation.\nThe other options are incorrect. The is the reason:\nA. Pouring detergents – While detergents can break oil into smaller droplets, they can also introduce harmful chemicals into the water, affecting aquatic life.\nC. Pouring organic solvents – This is harmful as it can introduce toxic chemicals into the water, worsening pollution.\nD. Evaporation – While some lighter fractions of oil can evaporate, this is a slow process and does not effectively disperse the pollution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1660",
+    "passage": ""
   }
 ]
