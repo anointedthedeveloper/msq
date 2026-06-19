@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/314",
     "passage": "From the novel; Kossoh Town Boy"
+  },
+  {
+    "id": 316,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "You cannot know And should not bother; Tide and market come and go And so shall your mother. In this verse the poet uses",
+    "options": {
+      "A": "alternate rhymes",
+      "B": "monorhyme",
+      "C": "couplets",
+      "D": "triplets",
+      "E": "blank verses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The rhyme scheme in the verse is:\nYou cannot know (A) And should not bother; (B) Tide and market come and go (A) And so shall your mother. (B)\nThis follows an ABAB pattern, which is known as alternate rhyme .\nA monorhyme means all lines end with the same rhyme (AAAA). Couplets consist of rhyming pairs (AABB, etc.). A triplet consists of three lines that rhyme together (AAA, BBB). A blank verse consists of unrhymed lines, usually in iambic pentameter.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/316",
+    "passage": ""
   }
 ]
