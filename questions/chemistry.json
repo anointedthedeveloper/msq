@@ -3609,5 +3609,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1731",
     "passage": ""
+  },
+  {
+    "id": 1732,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A characteristic reaction of the compounds with the general formula C\\(_n\\)H\\(_{2n}\\) is",
+    "options": {
+      "A": "Esterification",
+      "B": "Polymerization",
+      "C": "Decarboxylation",
+      "D": "Substitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Polymerization of alkenes is a chemical reaction that combines small molecules called monomers into large molecules called polymers. This process occurs when the double bonds of alkene molecules break, and new single bonds form between the carbon atoms of adjacent monomer.\nDecarboxylation is a chemical reaction that removes a carboxyl group and releases carbon dioxide (CO\\(_2\\)). It usually refers to the removal of a carbon atom from a carbon chain in carboxylic acids.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1732",
+    "passage": ""
   }
 ]
