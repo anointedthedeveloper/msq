@@ -1,0 +1,24 @@
+[
+  {
+    "id": 113,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Suppose that the equilibrium price of an article is N5.00 but the government fixes the price by law at N4.00, the supply will be",
+    "options": {
+      "A": "The same as equilibrium supply",
+      "B": "Greater than equilibrium supply",
+      "C": "Less than the equilibrium supply",
+      "D": "Determined later by government",
+      "E": "None of these"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If the market price is below the equilibrium price, quantity supplied is less than quantity demanded, creating a shortage. The market is not clear. It is in shortage. Market price will rise because of this shortage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/113",
+    "passage": ""
+  }
+]
