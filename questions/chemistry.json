@@ -6003,5 +6003,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2640",
     "passage": ""
+  },
+  {
+    "id": 2641,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Pollution of underground water by metal ions is very likely in the soil that has high",
+    "options": {
+      "A": "acidity",
+      "B": "alkalinity",
+      "C": "chloride content",
+      "D": "nitrate content"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Acidic conditions can increase the solubility of metal ions in soil, thereby allowing them to leach into groundwater.\nAlso, trioxonitrate(v) salts are generally the only soluble salts of some metals. All trioxonitrate(v) salts are soluble in water. However, nitrates can also contribute to water pollution, but they're more commonly associated with eutrophication and health issues rather than directly mobilizing metal ions.\nConsequently, acidity plays a significant role in mobilizing metal ions, making them more likely to contaminate groundwater.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2641",
+    "passage": ""
   }
 ]
