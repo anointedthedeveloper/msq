@@ -4076,5 +4076,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76004",
     "passage": ""
+  },
+  {
+    "id": 76005,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A letter from Mr Jack to convince XYZ company to employ Miss Zizi is",
+    "options": {
+      "A": "a recommendation letter",
+      "B": "a letter of request",
+      "C": "an order letter",
+      "D": "a letter of appointment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A letter from Mr Jack to convince XYZ company to employ Miss Zizi is a recommendation letter. A recommendation letter is a document in which the writer assesses the qualities, characteristics, and capabilities of the person being recommended in terms of that individual's ability to perform a particular task or function. In this case, Mr Jack is recommending Miss Zizi for employment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76005",
+    "passage": ""
   }
 ]
