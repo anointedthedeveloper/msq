@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10",
     "passage": ""
+  },
+  {
+    "id": 11,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the matrix T if ST = I where S = \\(\\begin{pmatrix} -1 & 1 \\\\ 1 & -2 \\end{pmatrix}\\)",
+    "options": {
+      "A": "\\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\)",
+      "B": "\\(\\begin{pmatrix} -2 & -1 \\\\ -1 & 1 \\end{pmatrix}\\)",
+      "C": "\\(\\begin{pmatrix} -1 & -1 \\\\ 0 & -1 \\end{pmatrix}\\)",
+      "D": "\\(\\begin{pmatrix} -1 & 1 \\\\ 0 & 1 \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "S = \\(\\begin{pmatrix} -1 & 1 \\\\ 1 & -2 \\end{pmatrix}\\) and ST = I  (Identity matrix).\nThis means  T  is the inverse of S\nFind the determinant of S \\( \\det(S)\\) = (-1)(-2) - (1)(1) = 2 - 1 = 1\nT = \\(\\frac{1}{\\det(S)} \\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\) Since det = 1, T = \\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\) T = \\(\\begin{pmatrix} -2 & -1 \\\\ -1 & -1 \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11",
+    "passage": ""
   }
 ]
