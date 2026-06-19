@@ -4015,5 +4015,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75272",
     "passage": ""
+  },
+  {
+    "id": 75277,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Combien de saisons y a-t-il en Afrique ?",
+    "options": {
+      "A": "quatre",
+      "B": "dix",
+      "C": "deux",
+      "D": "cinq"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Many African regions, including Nigeria, have two main seasons: rainy and dry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75277",
+    "passage": ""
   }
 ]
