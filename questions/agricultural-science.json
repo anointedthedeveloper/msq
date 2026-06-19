@@ -3473,5 +3473,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16144",
     "passage": ""
+  },
+  {
+    "id": 16145,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following is not a quality for selecting livestock?",
+    "options": {
+      "A": "feed consumption",
+      "B": "egg production",
+      "C": "mortality rate",
+      "D": "body weight",
+      "E": "litter size"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16145",
+    "passage": ""
   }
 ]
