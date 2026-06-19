@@ -7327,5 +7327,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2982",
     "passage": ""
+  },
+  {
+    "id": 3088,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "An element will readily form an electrovalent compound if its electron configuration is",
+    "options": {
+      "A": "2, 8, 1",
+      "B": "2, 8, 4",
+      "C": "2, 8, 8",
+      "D": "2, 8, 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Alkali metals readily form electrovalent bonds because they have a single valence electron that they easily lose, becoming positively charged ions, and readily react with nonmetals to form ionic compounds.\nOnly option A has the electronic configuration that fits the description of alkali metals; 2, 8, 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3088",
+    "passage": ""
   }
 ]
