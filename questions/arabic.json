@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75215",
     "passage": ""
+  },
+  {
+    "id": 75216,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "الجمع السالم من \"معلم\" هو؟",
+    "options": {
+      "A": "معلمون",
+      "B": "أعلام",
+      "C": "مُعلِّمین",
+      "D": "معلمون"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "It's a sound masculine plural (jam' mudhakkar sālim).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75216",
+    "passage": ""
   }
 ]
