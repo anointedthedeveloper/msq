@@ -2307,5 +2307,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50418",
     "passage": ""
+  },
+  {
+    "id": 50419,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Given that \\(n = 10\\) and \\(\\sum d^{2} = 20\\), calculate the Spearman's rank correlation coefficient.",
+    "options": {
+      "A": "0.121",
+      "B": "0.733",
+      "C": "0.879",
+      "D": "0.979"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Spearman's correlation coefficient \\(\\rho\\) is given as:\n\\(\\rho = 1 - \\frac{6\\sum d^{2}}{n(n^{2} - 1)}\\)\n= \\(\\rho = 1 - \\frac{6 \\times 20}{10(10^{2} - 1)}\\)\n= \\(1 - \\frac{120}{990} = \\frac{870}{990}\\)\n= \\(0.879\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50419",
+    "passage": ""
   }
 ]
