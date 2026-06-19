@@ -6067,5 +6067,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8832",
     "passage": ""
+  },
+  {
+    "id": 8833,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram above, QR is the diameter of the semicircle QR. Find the area of the figure to the nearest whole number. [\\(\\pi = \\frac{22}{7}\\)]",
+    "options": {
+      "A": "89 cm 2",
+      "B": "70 cm 2",
+      "C": "90 cm 2",
+      "D": "80 cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/23051191803_math200627.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868582/myschool/mathematics/23051191803_math200627.jpg",
+    "correct_answer": "A",
+    "explanation": "Area of rectangle PQRS = \\(10 \\times 7 = 70cm^2\\)\nArea of semi-circle: \\(\\frac{\\pi r^{2}}{2}\\)\nr = \\(\\frac{7}{2} cm\\)\nArea of semi-circle = \\(\\frac{1}{2} \\times \\frac{22}{7} \\times \\frac{7}{2} \\times \\frac{7}{2}\\)\n= \\(\\frac{77}{4} = 19.25 cm^{2}\\)\nArea of figure = \\((70 + 19.25) cm^{2}\\)\n= 89.25 cm\\(^{2} \\approxeq\\) 89 cm\\(^{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8833",
+    "passage": ""
   }
 ]
