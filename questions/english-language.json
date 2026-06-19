@@ -108,5 +108,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/95",
     "passage": ""
+  },
+  {
+    "id": 98,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; His jail terms were to run concurrently",
+    "options": {
+      "A": "simultaneously",
+      "B": "uniformly",
+      "C": "laboriously",
+      "D": "consecutively",
+      "E": "judiciously"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The word \"concurrently\" means happening at the same time. In this context, it means that the sentences are served at the same time rather than one after the other.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/98",
+    "passage": ""
   }
 ]
