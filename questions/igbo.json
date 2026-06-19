@@ -3797,5 +3797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73974",
     "passage": ""
+  },
+  {
+    "id": 73975,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Mgbọchiume mkpị ọle ka e nwere n'Igbo?",
+    "options": {
+      "A": "Iri na itoọlụ",
+      "B": "Asatọ",
+      "C": "Itoọlụ",
+      "D": "Iri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "How many double consonants are there in Igbo? Answer: B. Itoọlụ. There are 9 double consonants in Igbo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73975",
+    "passage": ""
   }
 ]
