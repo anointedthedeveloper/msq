@@ -9461,5 +9461,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77036",
     "passage": ""
+  },
+  {
+    "id": 77037,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following is an advantage of electronic data processing?",
+    "options": {
+      "A": "automated backup",
+      "B": "automatic operation",
+      "C": "mass storage",
+      "D": "resource sharing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "From a financial perspective alone, there are impressive benefits from implementing EDI. Exchanging documents electronically improves transaction speed and visibility while decreasing the amount of money you spend on manual processes. But cost savings is far from the only benefit of using EDI.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77037",
+    "passage": ""
   }
 ]
