@@ -1249,5 +1249,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57715",
     "passage": ""
+  },
+  {
+    "id": 57716,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The feature in a browser which enables users to open the latest copy of a webpage is",
+    "options": {
+      "A": "Refresh",
+      "B": "Forward",
+      "C": "Backward",
+      "D": "Redirect"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57716",
+    "passage": ""
   }
 ]
