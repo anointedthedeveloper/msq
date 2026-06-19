@@ -614,5 +614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/441",
     "passage": ""
+  },
+  {
+    "id": 442,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If the demand of a product with perfectly elastic supply increases, there will be",
+    "options": {
+      "A": "An increase in price and quantity offered",
+      "B": "An increase in quantity offered but price will remain the same",
+      "C": "A reduction in price and quantity offered",
+      "D": "An increase in price but a reduction in quantity offered for sale",
+      "E": "An increase in quantity offered but a reduction in price"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/442",
+    "passage": ""
   }
 ]
