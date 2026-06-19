@@ -7147,5 +7147,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67146",
     "passage": ""
+  },
+  {
+    "id": 67147,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The subdivision of tracks in a hard disk is called",
+    "options": {
+      "A": "Record",
+      "B": "Row",
+      "C": "Sector",
+      "D": "Cluster"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In computer disk storage, a sector is a subdivision of a track on a magnetic disk or optical disc. Each sector stores a fixed amount of user-accessible data, traditionally 512 bytes for hard disk drives (HDDs) and 2048 bytes for CD-ROMs and DVD-ROMs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67147",
+    "passage": ""
   }
 ]
