@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50271",
     "passage": ""
+  },
+  {
+    "id": 50272,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given the table above as the result of tossing a fair die 150 times, find the mode.",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The mode is the occurrence with the highest frequency which, from the table, is 45 (the occurrence of obtaining a 6).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50272",
+    "passage": ""
   }
 ]
