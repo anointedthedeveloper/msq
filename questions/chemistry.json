@@ -239,5 +239,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/41",
     "passage": ""
+  },
+  {
+    "id": 43,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When large hydrocarbon molecules are heated at high temperature in the presence of a catalyst to give smaller molecules, the process is known as",
+    "options": {
+      "A": "disintegration",
+      "B": "polymerization",
+      "C": "cracking",
+      "D": "degradation",
+      "E": "distillation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The process described is called cracking. When large hydrocarbon molecules are heated to high temperatures, often in the presence of a catalyst, they break down into smaller, more useful molecules. This process is crucial in the petrochemical industry for converting heavy fractions of crude oil into lighter, more valuable products like gasoline and fuel oil.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43",
+    "passage": ""
   }
 ]
