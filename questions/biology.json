@@ -108,5 +108,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/296",
     "passage": ""
+  },
+  {
+    "id": 298,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The cilia in paramecium are use for",
+    "options": {
+      "A": "respirating",
+      "B": "locomotion",
+      "C": "protection",
+      "D": "regulating food intake",
+      "E": "excretion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cilia have important functions in the life of Paramecium, such as locomotion through the surrounding water and ingestion of food into the cytostome.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/298",
+    "passage": ""
   }
 ]
