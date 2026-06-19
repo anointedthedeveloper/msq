@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/32823",
     "passage": ""
+  },
+  {
+    "id": 32825,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following political parties\nformed an alliance in the Second\nRepublic?",
+    "options": {
+      "A": "UPN and NPN.",
+      "B": "PRP and NPP.",
+      "C": "NPN and NPP.",
+      "D": "PRP and UPN."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/32825",
+    "passage": ""
   }
 ]
