@@ -1677,5 +1677,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61411",
     "passage": ""
+  },
+  {
+    "id": 61412,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The type of network represented in Figure 7 is called",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "PAN",
+      "D": "WAN"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/GWZZL6ydyckjUrJvbqFAUARmeIwXn9cIuKnmO7AN.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900992/myschool/computer-studies/GWZZL6ydyckjUrJvbqFAUARmeIwXn9cIuKnmO7AN.jpg",
+    "correct_answer": "A",
+    "explanation": "LAN means Local Area Network and is a computer that interconnects computers within a limited area such as residence, school, laboratory, university campus or office building.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61412",
+    "passage": ""
   }
 ]
