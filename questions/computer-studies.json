@@ -15885,5 +15885,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67792",
     "passage": ""
+  },
+  {
+    "id": 67793,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What part of the central processing unit coordinates other units and manages the computer resources ?",
+    "options": {
+      "A": "coordinating unit",
+      "B": "Memory unit",
+      "C": "Arithmetic Logic unit",
+      "D": "Control unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Control Unit of the Central Processing Unit (CPU) coordinates other units and manages the computer resources. It directs the operation of the processor, and interacts with the other hardware components in the system to carry out the instructions of a program. It is responsible for fetching, decoding, and executing instructions from the memory unit and performing arithmetic and logical operations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67793",
+    "passage": ""
   }
 ]
