@@ -5303,5 +5303,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73953",
     "passage": ""
+  },
+  {
+    "id": 74001,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "\"Wata akuya baka ta haifi tagwaye\". Kalmar aikatau a wannan jimla ita ce",
+    "options": {
+      "A": "baka",
+      "B": "tagwaye",
+      "C": "haifi",
+      "D": "akuya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is haifi. The question is asking which word is the verb (aikatau) in the sentence. In the sentence \"Wata akuya baka ta haifi tagwaye\", \"haifi\" is the verb meaning \"gave birth\" or \"had\", while the other options - akuya (goat), baka (your), tagwaye (twins), and wata (a/she) - are all nouns or pronouns. Therefore, the correct answer is haifi, as it is the verb describing the action in the sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74001",
+    "passage": ""
   }
 ]
