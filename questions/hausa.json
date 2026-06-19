@@ -6311,5 +6311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74057",
     "passage": ""
+  },
+  {
+    "id": 74058,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "Duk wadannan kalmomin bayanau ne in ban da",
+    "options": {
+      "A": "gida",
+      "B": "gobe",
+      "C": "dama",
+      "D": "gefe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is gida. The question is asking which of the options is not an adverb (bayanau). Gida is a noun meaning \"house\" or \"home\", while the other option - dama (right), gefe (side), gobe (tomorrow), and sama (up/above) - are all adverbs in Hausa. Therefore, the correct answer is gida, as it is the only noun among the options.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74058",
+    "passage": ""
   }
 ]
