@@ -4227,5 +4227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58705",
     "passage": ""
+  },
+  {
+    "id": 58720,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A reference to another page or resource on a website is done by",
+    "options": {
+      "A": "FTP",
+      "B": "Hyperlinks",
+      "C": "SMTP",
+      "D": "Web page"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58720",
+    "passage": ""
   }
 ]
