@@ -3000,5 +3000,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1582",
     "passage": ""
+  },
+  {
+    "id": 1656,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following statements is correct about the average kinetic energy of the molecules of a gas?",
+    "options": {
+      "A": "It increase with increase in pressure",
+      "B": "It increase at constant temperature",
+      "C": "It increase with increase in temperature",
+      "D": "It increase with increase in volume"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The average kinetic energy of a gas's molecules increases as the temperature of the gas increases.The kinetic energy of a gas is directly proportional to its temperature. This means that as the temperature of a gas increases, so does the average kinetic energy of its molecules.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1656",
+    "passage": ""
   }
 ]
