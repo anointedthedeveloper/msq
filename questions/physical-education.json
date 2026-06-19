@@ -6485,5 +6485,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76493",
     "passage": ""
+  },
+  {
+    "id": 76495,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is the best way to care for dry skin?",
+    "options": {
+      "A": "Using gentle cleansers and moisturizing regularly",
+      "B": "Exposing skin to direct sunlight for long hours",
+      "C": "Frequent hot water baths and harsh soaps",
+      "D": "Avoid washing the skin at all"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Dry skin care requires gentle cleansing and regular moisturizing to maintain hydration and prevent cracking or irritation. Hot water and harsh soaps remove natural oils, while excessive sun exposure damages the skin.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76495",
+    "passage": ""
   }
 ]
