@@ -1721,5 +1721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1017",
     "passage": ""
+  },
+  {
+    "id": 1018,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The main function of the Code of Conduct Bureau is to",
+    "options": {
+      "A": "ensure accountability in government business",
+      "B": "give the judiciary more powers to discipline erring judges",
+      "C": "protect public officers from the press",
+      "D": "give the police more powers to make arrests"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1018",
+    "passage": ""
   }
 ]
