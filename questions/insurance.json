@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49678",
     "passage": ""
+  },
+  {
+    "id": 49679,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Extension cover under money insurance policy doesnt include?",
+    "options": {
+      "A": "shortage",
+      "B": "hold-up",
+      "C": "personal injury",
+      "D": "damaged to safe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Money insurance policy provides cover for loss of money in transit between the insured's premises, bank and other specified places occasioned by robbery, theft or any other fortuitous cause. It also provides cover for loss of money in the business premises, safe or vault, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49679",
+    "passage": ""
   }
 ]
