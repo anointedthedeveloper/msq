@@ -7495,5 +7495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69770",
     "passage": ""
+  },
+  {
+    "id": 69771,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following computer types represents data as variable and continuous values?",
+    "options": {
+      "A": "Analogue computer",
+      "B": "Mainframe computer",
+      "C": "Microcomputer",
+      "D": "Digital computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Analogue computer represents data as variable and continuous values. Analogue computers use physical quantities, such as voltage, current, or resistance, to represent data. This means that they can represent data that is continuously varying, such as the position of a moving object or the temperature of a substance. Digital computers, on the other hand, represent data as discrete values. This means that they can only represent data that is in a finite number of states, such as the numbers 0 and 1. Mainframe computers and microcomputers are both digital computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69771",
+    "passage": ""
   }
 ]
