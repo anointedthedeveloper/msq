@@ -2571,5 +2571,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2336",
     "passage": ""
+  },
+  {
+    "id": 2339,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The fundamental problem of Economics is?",
+    "options": {
+      "A": "money",
+      "B": "poverty",
+      "C": "unemployment",
+      "D": "the scarcity of resources relative to wants",
+      "E": "inflation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2339",
+    "passage": ""
   }
 ]
