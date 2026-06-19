@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/94",
     "passage": ""
+  },
+  {
+    "id": 97,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The political neutrality of civil servants implies that they",
+    "options": {
+      "A": "are not allowed to join any organisation or group",
+      "B": "have no dealings with politicians",
+      "C": "are not allowed to be involved in partisan politics",
+      "D": "are not allowed to vote."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The political neutrality of civil servants implies that they are not allowed to be involved in partisan politics. Political Neutrality is one of the main characteristics of Civil Service. This means that civil servants are not involved in partisan politics. They are there to serve any government that comes into power .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/97",
+    "passage": ""
   }
 ]
