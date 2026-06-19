@@ -2242,5 +2242,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16009",
     "passage": ""
+  },
+  {
+    "id": 16010,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following is not a factor of improvement in breeding cattle?",
+    "options": {
+      "A": "fertility",
+      "B": "butter-fat percentage",
+      "C": "weaning weight",
+      "D": "feed efficiency",
+      "E": "back-fat thickness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16010",
+    "passage": ""
   }
 ]
