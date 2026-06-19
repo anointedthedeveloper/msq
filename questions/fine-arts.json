@@ -2476,5 +2476,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75384",
     "passage": ""
+  },
+  {
+    "id": 75385,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the art term for a preliminary sketch or plan?",
+    "options": {
+      "A": "Thumbnail",
+      "B": "Prototype",
+      "C": "Composition",
+      "D": "Draft"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A thumbnail sketch is a small, quick drawing that helps an artist explore ideas and layouts before starting a detailed artwork. It’s a fast way to plan and solve visual problems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75385",
+    "passage": ""
   }
 ]
