@@ -4076,5 +4076,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1703",
     "passage": ""
+  },
+  {
+    "id": 1706,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Government-owned companies operating in the economic sector are referred to as",
+    "options": {
+      "A": "public investments",
+      "B": "public services",
+      "C": "public enterprise",
+      "D": "public utilities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1706",
+    "passage": ""
   }
 ]
