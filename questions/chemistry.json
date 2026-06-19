@@ -7894,5 +7894,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3280",
     "passage": ""
+  },
+  {
+    "id": 3281,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Which of the following pairs of substance will react further with oxygen to form a higher oxide?",
+    "options": {
+      "A": "CO 2 and H 2 O",
+      "B": "NO and H 2 O",
+      "C": "CO and CO 2",
+      "D": "SO 2 and NO"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "SO\\(_2\\)(Sulphur dioxide) can react further with oxygen to form SO\\(_3\\) (Sulphur trioxide) a higher oxide.\n2SO\\(_2\\) + O\\(_2\\) → 2SO\\(_3\\)\nNO (Nitric oxide) can also react further with oxygen to form NO\\(_2\\)( Nitrogen dioxide), a higher oxide.\n2NO + O\\(_2\\) → 2NO\\(_2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3281",
+    "passage": ""
   }
 ]
