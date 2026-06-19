@@ -10771,5 +10771,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4296",
     "passage": ""
+  },
+  {
+    "id": 4297,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Cathode rays causes an object placed behind a perforated anode to cast a shadow on the screen. This observation shows that the rays?",
+    "options": {
+      "A": "are positively charged",
+      "B": "are negatively charged",
+      "C": "have mass",
+      "D": "travel in straight lines"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cathode rays travel in a straight line and can cast sharp shadows .\nCathode rays are negatively charged.\nElectric field and magnetic field deflect cathode rays.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4297",
+    "passage": ""
   }
 ]
