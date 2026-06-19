@@ -5583,5 +5583,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2525",
     "passage": ""
+  },
+  {
+    "id": 2526,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The type of reaction that is peculiar to benzene is?",
+    "options": {
+      "A": "addition",
+      "B": "hydrolysis",
+      "C": "polymerization",
+      "D": "substitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Benzene undergoes substitution reaction whereby one or more hydrogen atoms on the benzene ring is/are replaced by other atoms or groups of atoms. E.g CH\\(_3\\), OH, NO\\(_2\\), NH\\(_2\\) etc can be substituted to replace hydrogen atom.\nSubstitution reaction is a reaction where one functional group is exchanged for another. There are several types of substitution reactions, including nucleophilic, electrophilic, and free radical.\nA substitution reaction is more peculiar to benzene compared to an addition reaction; benzene primarily undergoes substitution reactions because addition reactions would disrupt its stable aromatic ring structure, causing it to lose its unique stability due to delocalized electrons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2526",
+    "passage": ""
   }
 ]
