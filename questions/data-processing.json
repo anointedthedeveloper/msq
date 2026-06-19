@@ -6601,5 +6601,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67120",
     "passage": ""
+  },
+  {
+    "id": 67121,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Preventive maintenance measures in computer room do not include",
+    "options": {
+      "A": "The use of tiles",
+      "B": "The use of rugs",
+      "C": "Good ventilation",
+      "D": "Proper illumination"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Use of rugs is not a preventive maintenance measures",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67121",
+    "passage": ""
   }
 ]
