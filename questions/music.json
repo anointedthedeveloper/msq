@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48083",
     "passage": ""
+  },
+  {
+    "id": 48084,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The diatonic interval in the score above is",
+    "options": {
+      "A": "an augmented 6th",
+      "B": "diminished 6th",
+      "C": "a major 6th",
+      "D": "a minor 6th"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Iuhey0GCjXjwlCPaV7wQEkWelw2GdZNRmwIZf3dq.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890234/myschool/music/Iuhey0GCjXjwlCPaV7wQEkWelw2GdZNRmwIZf3dq.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48084",
+    "passage": ""
   }
 ]
