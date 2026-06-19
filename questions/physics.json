@@ -14921,5 +14921,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24108",
     "passage": ""
+  },
+  {
+    "id": 24109,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Where will the image of the object OB shown in the diagram above be located after reflection from the mirror?",
+    "options": {
+      "A": "At F",
+      "B": "Beyond C",
+      "C": "Between O and P",
+      "D": "Between P and F",
+      "E": "Between F and C"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3KX4mkdL2RdK17EgaRLzH9zhw8i5RE5WurX9MVZ4.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891899/myschool/physics/3KX4mkdL2RdK17EgaRLzH9zhw8i5RE5WurX9MVZ4.png",
+    "correct_answer": "D",
+    "explanation": "The image of an object after reflection from a mirror is located at the same distance behind the mirror as the object in front. In this case, the object is located between the mirror and the focal point. Therefore, the image will be located between p and F.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24109",
+    "passage": ""
   }
 ]
