@@ -7191,5 +7191,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3013",
     "passage": ""
+  },
+  {
+    "id": 3014,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nRadium .... Maria Sklodowska Curie.",
+    "options": {
+      "A": "discovered",
+      "B": "is discovering",
+      "C": "has discovered",
+      "D": "was discovered by",
+      "E": "had been discovered by"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3014",
+    "passage": ""
   }
 ]
