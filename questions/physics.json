@@ -9028,5 +9028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14204",
     "passage": ""
+  },
+  {
+    "id": 14210,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "An object is placed 5 cm from the pole of a concave mirror. if the focal length of the mirror is 10 cm. what is the image distance?",
+    "options": {
+      "A": "10 cm in front of the mirror.",
+      "B": "5 cm in front of the mirror",
+      "C": "10 cm behind the mirror",
+      "D": "5 cm behind the mirror"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "u = 5 cm , f = 10 cm, v = ? (1)/v + (1)/u = (1)/f (1)/v + (1)/5 = (1)/10 = (1)/v = (1)/10 - (1)/5\n= (1 - 2)/10 = (1)/10 ∴ v = - 10 cm ∴ The image is 10 cm behind the mirror\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14210",
+    "passage": ""
   }
 ]
