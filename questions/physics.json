@@ -3085,5 +3085,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11275",
     "passage": ""
+  },
+  {
+    "id": 11276,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A simple pendulum has a period of 17.0s. When the length is shorten by 1.5m, its period is 8.5s. Calculate the original length of the pendulum",
+    "options": {
+      "A": "4.0 m",
+      "B": "3.0 m",
+      "C": "2.0 m",
+      "D": "1.5 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11276",
+    "passage": ""
   }
 ]
