@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1156",
     "passage": ""
+  },
+  {
+    "id": 1515,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A straight line makes an angle of 30° with the positive x-axis and cuts the y-axis at y = 5. Find the equation of the straight line.",
+    "options": {
+      "A": "y = (x/10) + 5",
+      "B": "y = x + 5",
+      "C": "√3y = - x + 5√3",
+      "D": "√3y = x + 5√3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cos 30 = \\(\\frac{5}{\\text{x}}\\) x cos 30 = 5, => x = 5\\(\\sqrt{3}\\) Coordinates of P = - 5\\(\\sqrt{3}\\), 0 Coordinates of Q = 0, 5 Gradient of PQ = (y\\(_2\\) - y\\(_1\\)) (X\\(_2\\) - X\\(_1\\)) = \\(\\frac{(5 - 0)}{(0 - 5\\sqrt{3}}\\)) = \\(\\frac{5}{5\\sqrt{3}}\\) = \\(\\frac{1}{\\sqrt{3}}\\) Equation of PQ = y - y\\(_1\\) = m (x -x\\(_1\\)) y - 0 = \\(\\frac{1}{\\sqrt{3}}\\) (x -( -5\\(\\sqrt{3}\\))) Thus: \\(\\sqrt{3}\\)y = x + 5\\(\\sqrt{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1515",
+    "passage": ""
   }
 ]
