@@ -14789,5 +14789,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24102",
     "passage": ""
+  },
+  {
+    "id": 24103,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A tuning fork sounds louder when its stem is pressed against a table top than when held in air because",
+    "options": {
+      "A": "a larger mass of air is set vibrating by the table top",
+      "B": "the whole table vibrates in resonance",
+      "C": "the whole table has acquired a larger frequency",
+      "D": "the fork and table have the same frequency",
+      "E": "the amplitude of the vibrating fork is increased."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24103",
+    "passage": ""
   }
 ]
