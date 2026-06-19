@@ -11723,5 +11723,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68528",
     "passage": ""
+  },
+  {
+    "id": 68529,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "How did the amalgamation affect the traditional political systems in Nigeria?",
+    "options": {
+      "A": "It had no impact on the traditional systems",
+      "B": "It abolished the traditional systems",
+      "C": "It strengthened the traditional systems",
+      "D": "It led to the formation of a new political system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The amalgamation of Nigeria in 1914 by Lord Lugard led to the formation of a new political system. It brought together the Northern and Southern Protectorates and the Colony of Lagos under a single administration, creating a political entity and system that was different from the traditional systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68529",
+    "passage": ""
   }
 ]
