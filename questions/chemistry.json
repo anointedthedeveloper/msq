@@ -12073,5 +12073,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4482",
     "passage": ""
+  },
+  {
+    "id": 4483,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "6\\(AgNO_{4(aq)} + PH_{3(g)} + 3H_2O_{(l)}\\) → 6\\(Ag_{(s)} + H_3PO_{3(g)} + 6HNO_{3(aq)}\\) In the above reaction, the reducing agent is?",
+    "options": {
+      "A": "HNO 3(aq)",
+      "B": "H 2 O (l)",
+      "C": "PH 3(g)",
+      "D": "AgNO 3(aq)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Phosphorus(iii)hydride is a strong reducing agent which reduces solution of silver or copper(ii)salts to the metals or phosphides.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4483",
+    "passage": ""
   }
 ]
