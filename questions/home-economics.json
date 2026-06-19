@@ -2350,5 +2350,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73285",
     "passage": ""
+  },
+  {
+    "id": 73286,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The process of twisting silk fibres to form a strong yarn is called",
+    "options": {
+      "A": "Throwing",
+      "B": "Bailing",
+      "C": "Degumming",
+      "D": "Carding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Throwing, or throwing silk, is the process of twisting silk fibers together to form a strong, continuous yarn by aligning and tightly twisting the fibers in the same direction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73286",
+    "passage": ""
   }
 ]
