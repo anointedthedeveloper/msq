@@ -6045,5 +6045,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76414",
     "passage": ""
+  },
+  {
+    "id": 76415,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why do sprinters lean forward during the start?",
+    "options": {
+      "A": "To look at the finish line",
+      "B": "To balance better",
+      "C": "To reduce air resistance",
+      "D": "To push forcefully forward"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "During the start of a sprint, sprinters adopt a forward-leaning posture primarily to direct the force they generate horizontally into forward motion. When the body leans forward, the athlete's center of gravity is positioned ahead of the base of support, encouraging a powerful drive phase that propels them forward. This forward lean optimizes the angle at which the sprinter applies force against the ground, maximizing horizontal acceleration while minimizing vertical force that would otherwise waste energy lifting the body unnecessarily. If the sprinter were fully upright at the start, the force exerted would not translate as effectively into forward propulsion, resulting in a slower acceleration phase. The forward lean also helps maintain balance during the explosive push off the blocks. While looking at the finish line or reducing air resistance might be beneficial later in the race, the start focuses on maximizing acceleration through forceful horizontal movement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76415",
+    "passage": ""
   }
 ]
