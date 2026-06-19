@@ -13229,5 +13229,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22675",
     "passage": ""
+  },
+  {
+    "id": 22676,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which angle is equal to ∠VWZ?",
+    "options": {
+      "A": "∠VXZ",
+      "B": "∠VYX",
+      "C": "∠XZW",
+      "D": "∠YXZ",
+      "E": "∠VYW"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17983095702_wcmath199033.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908369/myschool/mathematics/17983095702_wcmath199033.jpg",
+    "correct_answer": "A",
+    "explanation": "< VWZ = < VXZ (angles in the same segment)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22676",
+    "passage": ""
   }
 ]
