@@ -7663,5 +7663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3269",
     "passage": ""
+  },
+  {
+    "id": 3270,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The property used in the industrial preparation of nitrogen and oxygen from air is?",
+    "options": {
+      "A": "rate of diffusion",
+      "B": "density",
+      "C": "boiling point",
+      "D": "solubility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fractional distillation of liquefied air, with Nitrogen distilling as a vapor at a lower boiling point of -196°C while O2 is left as a liquid.\nIn the industrial preparation of nitrogen and oxygen from air, the process of fractional distillation is used. This process separates the components of air based on their boiling points.\nThe boiling points of the main components of air are:\n- Nitrogen (N\\(_2\\)): -195.8°C\n- Oxygen (O\\(_2\\)): -182.96°C\nBy cooling air to extremely low temperatures, the components can be separated based on their boiling points, allowing for the production of high-purity nitrogen and oxygen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3270",
+    "passage": ""
   }
 ]
