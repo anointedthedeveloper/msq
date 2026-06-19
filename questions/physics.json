@@ -8818,5 +8818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14156",
     "passage": ""
+  },
+  {
+    "id": 14158,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The thermometer whose reading is indicated by a change in color of its thermometric property is the?",
+    "options": {
+      "A": "bi-metalic strip thermometer",
+      "B": "thermocouple",
+      "C": "platinium resistance thermometer",
+      "D": "optical pyrometer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A pyrometer is instrument for measuring high temperature. The optical pyrometer is one in which the luminous radiation from the hot body is compared with that from a known source.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14158",
+    "passage": ""
   }
 ]
