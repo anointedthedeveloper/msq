@@ -5164,5 +5164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8427",
     "passage": ""
+  },
+  {
+    "id": 8428,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Two lines PQ and ST intersect at 75°. The locus of points equidistant from PQ and ST lies on the",
+    "options": {
+      "A": "perpendicular bisector of PQ",
+      "B": "perpendicular bisector of ST",
+      "C": "bisector of the angles between lines PQ and ST",
+      "D": "bisector of the angles between lines PT and QS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The locus of points equidistant from lines PQ and ST lies on the angle bisector of the angles formed by the intersection of those lines.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8428",
+    "passage": ""
   }
 ]
