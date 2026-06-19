@@ -6227,5 +6227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62616",
     "passage": ""
+  },
+  {
+    "id": 62617,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Security breaches in computing cannot be prevented through the use of",
+    "options": {
+      "A": "antivirus",
+      "B": "encryption",
+      "C": "firewall",
+      "D": "firmware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A. Antivirus : Protects against malware and viruses.\nB. Encryption : Secures data by making it unreadable to unauthorized users.\nC. Firewall : Monitors and controls incoming and outgoing network traffic based on security rules.\nD. Firmware : While it can have security features, it is primarily the software that controls hardware. It does not directly prevent security breaches by itself.\nTherefore, Option D is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62617",
+    "passage": ""
   }
 ]
