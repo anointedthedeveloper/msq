@@ -1951,5 +1951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7292",
     "passage": ""
+  },
+  {
+    "id": 7298,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The cost of running five 60 W lamps and four 100 W lamps for 20 hours if electrical energy cost #10.00 per kwh is",
+    "options": {
+      "A": "280.00",
+      "B": "160.00",
+      "C": "120.00",
+      "D": "140.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Total power in watt = \\(60\\times5 + 4\\times100\\) = 300 + 400 = 700W Total power in kilo watt = 700/1000 = 0.7kW Unit of electricity in kilowatt-hour = 0.7 * 20hrs = 14 okwh i.e If I kwh costs # 10.00 14kwh = \\(10.00 \\times14\\) = #140\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7298",
+    "passage": ""
   }
 ]
