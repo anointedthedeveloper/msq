@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73560",
     "passage": ""
+  },
+  {
+    "id": 73563,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Choose the correct response to each of the following questions. What name is Agwọ called in English?",
+    "options": {
+      "A": "Crocodile",
+      "B": "Snake",
+      "C": "Python",
+      "D": "Lizard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is \"Agwọ\" is the Igbo word for \"snake\". Rat is Oke. Goat is ewu. Elephant is enyị. Rabbit is oọ yibo. Monkey is enwe. Cat is Nwamba, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73563",
+    "passage": ""
   }
 ]
