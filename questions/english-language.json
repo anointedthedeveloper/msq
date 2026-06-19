@@ -3737,5 +3737,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1960",
     "passage": ""
+  },
+  {
+    "id": 1961,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the\nbest option\nto fill the gaps in the following sentences\n:\nYou should make an ..... to improve the situation",
+    "options": {
+      "A": "effect",
+      "B": "efficiency",
+      "C": "effectiveness",
+      "D": "effort",
+      "E": "effectualness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1961",
+    "passage": ""
   }
 ]
