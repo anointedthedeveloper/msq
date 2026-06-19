@@ -4261,5 +4261,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/55234",
     "passage": ""
+  },
+  {
+    "id": 55235,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "The First and Second World Wars were between ... respectively",
+    "options": {
+      "A": "1939-1945, 1914-1918",
+      "B": "1914-1918, 1939-1945",
+      "C": "1914-1919, 1932-1942",
+      "D": "1914-1919, 1939-1945"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The First and Second World War were between 1914-1918 and 1939-1945 respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/55235",
+    "passage": ""
   }
 ]
