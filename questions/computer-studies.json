@@ -6858,5 +6858,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62506",
     "passage": ""
+  },
+  {
+    "id": 62507,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following statements is true for a circuit Switching communication system?",
+    "options": {
+      "A": "It is not ideal for a real-time communication",
+      "B": "Messages must be divided into packets before they are sent",
+      "C": "It does not require any dedicated channel to be established between two parties",
+      "D": "A dedicated channel must be established between two parties through the period of Communication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62507",
+    "passage": ""
   }
 ]
