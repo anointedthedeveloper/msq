@@ -6886,5 +6886,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9229",
     "passage": ""
+  },
+  {
+    "id": 9230,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Solve the inequalities -3(x - 2) < -2(x + 3)",
+    "options": {
+      "A": "x > 12",
+      "B": "x < 12",
+      "C": "x > -12",
+      "D": "x < - 12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9230",
+    "passage": ""
   }
 ]
