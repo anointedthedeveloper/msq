@@ -11735,5 +11735,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22351",
     "passage": ""
+  },
+  {
+    "id": 22352,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above, ∠SPR = P and ∠SQR = 2x. Find x in terms of P",
+    "options": {
+      "A": "x = p + 2",
+      "B": "x = p - 2",
+      "C": "x = p 2",
+      "D": "x = p/2",
+      "E": "x = 2p"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/uGWtEsV2FlzPDooKYbXQO3lC65zRi8XDMIzx1kke.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907239/myschool/mathematics/uGWtEsV2FlzPDooKYbXQO3lC65zRi8XDMIzx1kke.jpg",
+    "correct_answer": "D",
+    "explanation": "P = 2x (angle in the same segment); x = p/2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22352",
+    "passage": ""
   }
 ]
