@@ -4415,5 +4415,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62277",
     "passage": ""
+  },
+  {
+    "id": 62278,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The computer keyboard key(s) that a user presses to move to the beginning of a current line of text is/are the?",
+    "options": {
+      "A": "Enter key.",
+      "B": "Home key.",
+      "C": "Ctrl +B keys.",
+      "D": "Ctrl+ Home keys."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62278",
+    "passage": ""
   }
 ]
