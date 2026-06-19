@@ -4785,5 +4785,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70825",
     "passage": ""
+  },
+  {
+    "id": 70826,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which city-state in ancient Greece was known for its militaristic approach to physical education?",
+    "options": {
+      "A": "Athens",
+      "B": "Sparta",
+      "C": "Rome",
+      "D": "Corinth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sparta was renowned for its militaristic society and placed a strong emphasis on physical education as a means of training its citizens for warfare. While Athens also valued physical fitness, its approach was more balanced, incorporation intellectual and artistic pursuits alongside physical training.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70826",
+    "passage": ""
   }
 ]
