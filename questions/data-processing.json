@@ -6332,5 +6332,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62621",
     "passage": ""
+  },
+  {
+    "id": 62622,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The best arrangement that gives the correct order of magnitude of the database element is",
+    "options": {
+      "A": "character, field, record, table, database, file",
+      "B": "character, field, record, table, file, database",
+      "C": "record, file, field, table, character, database",
+      "D": "table, file, record, field, character, database"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62622",
+    "passage": ""
   }
 ]
