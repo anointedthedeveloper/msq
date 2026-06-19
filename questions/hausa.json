@@ -6752,5 +6752,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75928",
     "passage": ""
+  },
+  {
+    "id": 75930,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Me ake nufi da \"zube\" a cikin adabin Hausa?",
+    "options": {
+      "A": "Bako",
+      "B": "Waka",
+      "C": "Labari rubutacce",
+      "D": "Wasan kwaikwayo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Zube refers to written prose, as opposed to poetry or drama.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75930",
+    "passage": ""
   }
 ]
