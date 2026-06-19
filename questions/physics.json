@@ -14063,5 +14063,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23918",
     "passage": ""
+  },
+  {
+    "id": 23919,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The refractive index of a given transparent medium is 1.4. Which of the following is the minimum internal angle for total internal reflection to take place in the medium?",
+    "options": {
+      "A": "30 o",
+      "B": "36 o",
+      "C": "44 o",
+      "D": "46 o",
+      "E": "54 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Critical angle Sin \\(\\theta\\)\\(_c\\) = \\(\\frac{n_2}{n_1}\\)\nwhere n\\(_1\\) = refractive index of the medium ( 1.4 given )\nn\\(_2\\) = refractive index of the second medium( air ≈ 1.0)\nSin\\(\\theta\\)\\(_c\\) = \\(\\frac{1}{1.4}\\) ≈ 0.7143\n\\(\\theta\\)\\ = Sin\\(^{-1}\\)( 0.7143) ≈ 45.58º ≈ 46º\nThe minimum internal angle for total internal reflection to take place in the medium is approximately = 46º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23919",
+    "passage": ""
   }
 ]
