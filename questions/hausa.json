@@ -8263,5 +8263,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76223",
     "passage": ""
+  },
+  {
+    "id": 76224,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane daga cikin waɗannan bai shafi adabin baka ba?",
+    "options": {
+      "A": "Rubutacciyar waka",
+      "B": "Zambo",
+      "C": "Tatsuniya",
+      "D": "Karin magana"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Rubutacciyar waka adabin zamani ce, ba adabin baka ba.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76224",
+    "passage": ""
   }
 ]
