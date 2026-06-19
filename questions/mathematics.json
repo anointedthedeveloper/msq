@@ -8713,5 +8713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9319",
     "passage": ""
+  },
+  {
+    "id": 9320,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The sum of the first n terms of the arithmetic progression 5, 11, 17, 23, 29, 35, ... is?",
+    "options": {
+      "A": "n(3n - 0.5)",
+      "B": "n(3n + 2)",
+      "C": "n(3n + 2.5)",
+      "D": "n(3n + 5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "a = 5, d = 6, n = n Sn = n/2(2a + (n-1)d) = n/2(2(5) + (n-1)6) = n/2(10 + 6n-6) = n/2(6n+4) = 6n2/2 + 4n/2 = 32 + 2n = n(3n + 2)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9320",
+    "passage": ""
   }
 ]
