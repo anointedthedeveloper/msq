@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48026",
     "passage": ""
+  },
+  {
+    "id": 48027,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "An armature is essential to the artists in executing large works in",
+    "options": {
+      "A": "ceramics",
+      "B": "craft",
+      "C": "sculpture",
+      "D": "carving"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48027",
+    "passage": ""
   }
 ]
