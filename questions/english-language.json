@@ -9039,5 +9039,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3892",
     "passage": ""
+  },
+  {
+    "id": 3893,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Select the wrongly spelt word from the options below :",
+    "options": {
+      "A": "disappointed",
+      "B": "embarassed",
+      "C": "equipped",
+      "D": "rhythm",
+      "E": "restaurant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The wrongly spelled word is: B. embarassed\nThe correct spelling is \"embarrassed.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3893",
+    "passage": ""
   }
 ]
