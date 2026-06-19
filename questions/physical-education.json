@@ -3064,5 +3064,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68296",
     "passage": ""
+  },
+  {
+    "id": 68298,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not an institutional game in Nigeria ?",
+    "options": {
+      "A": "NATCEGA",
+      "B": "NBA",
+      "C": "NUGA",
+      "D": "NIPOGA"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The NBA (Nigeria Bar Association) is not an institutional game in Nigeria. It is a professional organization for lawyers in Nigeria. On the other hand, NUGA (Nigeria University Games Association), NIPOGA (Nigeria Polytechnic Games Association), and NATCEGA (National Colleges of Education Games Association) are all institutional games in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68298",
+    "passage": ""
   }
 ]
