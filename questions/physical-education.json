@@ -2119,5 +2119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68227",
     "passage": ""
+  },
+  {
+    "id": 68229,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "How many points is required to win a badminton game ?",
+    "options": {
+      "A": "31",
+      "B": "12",
+      "C": "7",
+      "D": "21"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In a standard game of badminton, a player or team must score 21 points to win a game. The game is played best of three games. If each side wins a game, then a third game is played as a decider.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68229",
+    "passage": ""
   }
 ]
