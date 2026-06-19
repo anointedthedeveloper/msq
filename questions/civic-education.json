@@ -1762,5 +1762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50134",
     "passage": ""
+  },
+  {
+    "id": 50136,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The beauty of a democratic government is that",
+    "options": {
+      "A": "the president has supreme power",
+      "B": "political power resides in the people",
+      "C": "there is absence of exploitation",
+      "D": "political participation is limited"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Democracy is a form of government in which power ultimately comes from the people who are governed, either through direct voting or through elected representatives. The electorates decides who to confer political powers on.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50136",
+    "passage": ""
   }
 ]
