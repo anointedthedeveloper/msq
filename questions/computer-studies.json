@@ -13447,5 +13447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64400",
     "passage": ""
+  },
+  {
+    "id": 64401,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which type of network is usually contained inside one office building?",
+    "options": {
+      "A": "CAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "WAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A local area network is the most suitable network for an office building because, it gives network to computer at a single site.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64401",
+    "passage": ""
   }
 ]
