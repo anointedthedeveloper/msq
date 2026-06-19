@@ -7254,5 +7254,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62528",
     "passage": ""
+  },
+  {
+    "id": 62529,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "During program execution in the central processing unit, the instruction is interpreted by the?",
+    "options": {
+      "A": "arithmetic logic",
+      "B": "control unit",
+      "C": "memory unit",
+      "D": "registers unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Control Unit : The control unit is the section of the CPU that selects, interprets, and sees the execution of program instructions. It controls the input as well as the output.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62529",
+    "passage": ""
   }
 ]
