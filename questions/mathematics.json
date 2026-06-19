@@ -9763,5 +9763,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10347",
     "passage": ""
+  },
+  {
+    "id": 10410,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Evaluate 5-\\(^{3log_52}\\) x 2\\(^{2log_23}\\)",
+    "options": {
+      "A": "8",
+      "B": "1 1 / 8",
+      "C": "2 / 5",
+      "D": "1 / 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "5-3log52 x 22log23 i Let -3log52 = p => log52-3 = p ∴2-3 = 5p ∴5-3log52 = 5log52-3 = 5p ii 22log23 = q => log532 = q ∴32 = 2q ∴222log23 = 2q = 32 = 9 i x ii = 2-3 x 9 = 1/23 x 9 = 1/8 x 9 = 9/8 = 11/8\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10410",
+    "passage": ""
   }
 ]
