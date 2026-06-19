@@ -724,5 +724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15838",
     "passage": ""
+  },
+  {
+    "id": 15839,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Ginning is the process of",
+    "options": {
+      "A": "extracting cotton seed oil",
+      "B": "separating fibres from the bark of kena",
+      "C": "grinding cotton seeds",
+      "D": "separating cotton fibre from its seed",
+      "E": "converting cotton lint into yarn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15839",
+    "passage": ""
   }
 ]
