@@ -1951,5 +1951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73262",
     "passage": ""
+  },
+  {
+    "id": 73263,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Corduroy is a fabric produced from",
+    "options": {
+      "A": "Woollen fibres",
+      "B": "Linen fibres",
+      "C": "Silk fibres",
+      "D": "Cotton fibres"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Corduroy is a durable fabric made from cotton, wool, or synthetic fibers, featuring vertical ridges called wales formed by interwoven fibers in a thick twill weave.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73263",
+    "passage": ""
   }
 ]
