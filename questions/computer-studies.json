@@ -19083,5 +19083,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72581",
     "passage": ""
+  },
+  {
+    "id": 72582,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following features of information is not important for meaningful decision?",
+    "options": {
+      "A": "Accuracy",
+      "B": "Competitiveness",
+      "C": "Completeness",
+      "D": "Timeliness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "B: (competitiveness) Information must be accurate ie. it must have a degree of correctness and must be free from errors. Completeness: Information must include all necessary and relevant de- tails. Timeliness: Information must be up- to-date and provided at the right moment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72582",
+    "passage": ""
   }
 ]
