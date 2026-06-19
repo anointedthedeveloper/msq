@@ -4288,5 +4288,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75413",
     "passage": ""
+  },
+  {
+    "id": 75414,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "quel est le groupement correct du mot \"professeur\" ?",
+    "options": {
+      "A": "Prof/esseur",
+      "B": "Pro/fes/seur",
+      "C": "Pro/fesseu",
+      "D": "prof/ssseu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The word breaks correctly into three syllables, meaning it is divided into three distinct sound units when pronounced.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75414",
+    "passage": ""
   }
 ]
