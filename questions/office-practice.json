@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66101",
     "passage": ""
+  },
+  {
+    "id": 66103,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The list of items to be discussed in a meeting is",
+    "options": {
+      "A": "amendment",
+      "B": "agenda",
+      "C": "resolution",
+      "D": "motion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agenda is a list of all the items that have to be discussed at a meeting. It is arranged in the order in which they will be discussed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66103",
+    "passage": ""
   }
 ]
