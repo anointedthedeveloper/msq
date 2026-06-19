@@ -7390,5 +7390,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3100",
     "passage": ""
+  },
+  {
+    "id": 3217,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "I. Treatment of cancer II. Detection of leakages in water mains III. Detection of the ages of ancient tools IV. Preparation of drugs Which combination of the above refers to the uses of radioactive isotopes?",
+    "options": {
+      "A": "I and III",
+      "B": "I and II",
+      "C": "I , II and III",
+      "D": "I , II , III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Radioactive isotopes are used in the preparation of drugs, specifically in the form of radiopharmaceuticals, which are drugs containing radioactive isotopes used for both diagnosis and treatment of various medical conditions such as treatment of cancer.\nAlso,  radioactive isotopes, acting as tracers, are used to detect leaks in water mains, with gamma-emitting isotopes added to the water, and their accumulation in the soil around a leak detected by radiation detectors.\nRadioactive isotopes, particularly carbon-14, are used in a method called radiocarbon dating to determine the age of ancient tools and other organic materials, up to approximately 60,000 years old.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3217",
+    "passage": ""
   }
 ]
