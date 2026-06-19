@@ -15339,5 +15339,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24156",
     "passage": ""
+  },
+  {
+    "id": 24158,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "How long will it take to heat 3 kg of water from 28\no\nC to 88\no\nC in an electric taking a current of 6 A from an e.m.f. source of 220V?",
+    "options": {
+      "A": "96s",
+      "B": "1.20s",
+      "C": "570s",
+      "D": "600s",
+      "E": "1200s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "t = mcΔθ / Iv = 3x 4200 x (88 - 28) / 6 x 200",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24158",
+    "passage": ""
   }
 ]
