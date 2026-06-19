@@ -10469,5 +10469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62768",
     "passage": ""
+  },
+  {
+    "id": 62769,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The decimal fraction 0.9375 converts to binary?",
+    "options": {
+      "A": "0.0111.",
+      "B": "0.1011.",
+      "C": "0.1111.",
+      "D": "O.1001."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62769",
+    "passage": ""
   }
 ]
