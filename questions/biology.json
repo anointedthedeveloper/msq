@@ -4156,5 +4156,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1927",
     "passage": ""
+  },
+  {
+    "id": 1928,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the vertebra has a projection called odontoid process?",
+    "options": {
+      "A": "Atlas",
+      "B": "Axis",
+      "C": "Thoracic",
+      "D": "Lumber",
+      "E": "Caudal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The AXIS has a large centrum which projects forward as the odontoid process.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1928",
+    "passage": ""
   }
 ]
