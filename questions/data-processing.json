@@ -3373,5 +3373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58448",
     "passage": ""
+  },
+  {
+    "id": 58449,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One characteristics of a dirty mouse is that the mouse",
+    "options": {
+      "A": "is not recognized by the system",
+      "B": "unmounts itself from the system",
+      "C": "pointer changes appearance",
+      "D": "pointer moves erratically"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58449",
+    "passage": ""
   }
 ]
