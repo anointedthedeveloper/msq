@@ -8398,5 +8398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14057",
     "passage": ""
+  },
+  {
+    "id": 14058,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Short sightedness can be corrected by what type of lens?",
+    "options": {
+      "A": "Concave lens",
+      "B": "Convex lens",
+      "C": "Converging lens",
+      "D": "Mirrors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Shortsightedness is corrected using a concave (curved inwards) lens which is placed in front of a myopic eye\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14058",
+    "passage": ""
   }
 ]
