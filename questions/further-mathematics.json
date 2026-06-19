@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50329",
     "passage": ""
+  },
+  {
+    "id": 50331,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(\\log_{3}a - 2 = 3\\log_{3}b\\), express a in terms of b.",
+    "options": {
+      "A": "\\(a = b^{3} - 3\\)",
+      "B": "\\(a = b^{3} - 9\\)",
+      "C": "\\(a = 9b^{3}\\)",
+      "D": "\\(a = \\frac{b^{3}}{9}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\log_{3}a - 2 = 3\\log_{3}b\\)\nUsing the laws of logarithm, we know that \\( 2 = 2\\log_{3}3 = \\log_{3}3^{2}\\)\n\\(\\therefore \\log_{3}a - \\log_{3}3^{2} = \\log_{3}b^{3}\\)\n= \\(\\log_{3}(\\frac{a}{3^{2}}) = \\log_{3}b^{3}   \\implies  \\frac{a}{9} = b^{3}\\)\n\\(\\implies a = 9b^{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50331",
+    "passage": ""
   }
 ]
