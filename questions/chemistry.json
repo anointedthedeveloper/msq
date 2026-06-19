@@ -13916,5 +13916,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12824",
     "passage": ""
+  },
+  {
+    "id": 12826,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following statements is an exception in the assumptions of the kinetic theory of gases?",
+    "options": {
+      "A": "Gases are composed of many elastic particles",
+      "B": "The particles are of negligible size",
+      "C": "The particles are in constant random motion",
+      "D": "The particles are of negligible mass",
+      "E": "The particles collide with each other"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The kinetic theory of gases assumes that gas particles are negligible in size:\nSmall size : The total volume of the gas particles is negligible compared to the volume of the container. Random motion : The particles are in constant, random motion. No intermolecular forces : There is no force of attraction between the particles at normal temperatures and pressures. Elastic collisions : Collisions between particles are elastic, meaning there is no net loss of energy. Kinetic energy : The kinetic energy of the particles is proportional to temperature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12826",
+    "passage": ""
   }
 ]
