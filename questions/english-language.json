@@ -1625,5 +1625,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/609",
     "passage": ""
+  },
+  {
+    "id": 610,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentence: The bridge connecting the two cities was .... by the enemy",
+    "options": {
+      "A": "blown up",
+      "B": "blown down",
+      "C": "blown off",
+      "D": "blown over",
+      "E": "blown away"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/610",
+    "passage": ""
   }
 ]
