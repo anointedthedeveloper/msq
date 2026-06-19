@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49666",
     "passage": ""
+  },
+  {
+    "id": 49670,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The minimum cover for motorist in nigeria is?",
+    "options": {
+      "A": "''Act'' only",
+      "B": "third party only",
+      "C": "fire and theft",
+      "D": "comprehensive insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The minimum amount of auto insurance in Nigeria that motorists must carry is third party motor insurance . Know the Terminology In the auto insurance world, a third party is defined as everyone involved in an accident except the policyholder.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49670",
+    "passage": ""
   }
 ]
