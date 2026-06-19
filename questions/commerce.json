@@ -18413,5 +18413,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/16229",
     "passage": ""
+  },
+  {
+    "id": 16230,
+    "subject": "commerce",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The last link in the chain of distribution is the?",
+    "options": {
+      "A": "wholesaler",
+      "B": "retailer",
+      "C": "consumer",
+      "D": "factor",
+      "E": "advertiser"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A distribution channel is a chain of businesses or intermediaries through which a good or service passes until it reaches the end consumer. It can include manufacturer ==> wholesalers ==>retailers==> consumers.\nThe chain of distribution always ends at the point where goods and services get to the final consumer and the retailer is that \"last link'' that connects the goods to the consumer.\nThe word \"link\" means connection. Hence, the retailer is the last connection, (not the consumer) because the consumer is the final receiver and not a connector or giver.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/16230",
+    "passage": ""
   }
 ]
