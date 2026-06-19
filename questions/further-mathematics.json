@@ -3441,5 +3441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50528",
     "passage": ""
+  },
+  {
+    "id": 50529,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If \\(f(x) = 3x^{3} + 8x^{2} + 6x + k\\) and \\(f(2) = 1\\), find the value of k.",
+    "options": {
+      "A": "-67",
+      "B": "-61",
+      "C": "61",
+      "D": "67"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(f(x) = 3x^{3} + 8x^{2} + 6x + k\\)\n\\(f(2) = 3(2^{3}) + 8(2^{2}) + 6(2) + k = 1\\)\n\\(\\implies 24 + 32 + 12 + k = 1\\)\n\\(68 + k = 1  \\therefore k = 1 - 68 = -67\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50529",
+    "passage": ""
   }
 ]
