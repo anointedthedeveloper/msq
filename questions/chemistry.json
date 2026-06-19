@@ -679,5 +679,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/742",
     "passage": ""
+  },
+  {
+    "id": 743,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Consider the following exothermic reaction\n2SO\n2(g)\n+ O\n2(g)\n↔ 2SO\n3(g)\nIf the temperature of the reaction is reduced from 800°C to 500°C, an no other change takes place, then",
+    "options": {
+      "A": "the reaction rate increases",
+      "B": "concentration of SO 3 decreases",
+      "C": "concentration of SO 3 increases",
+      "D": "SO 2 gas becomes unreactive",
+      "E": "O 3 gas becomes unreactive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/743",
+    "passage": ""
   }
 ]
