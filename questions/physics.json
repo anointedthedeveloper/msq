@@ -17734,5 +17734,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25029",
     "passage": ""
+  },
+  {
+    "id": 25030,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A point charge of 1.0 x 10\n-7\nC experiences force of 0.01 N in a uniform electric field. Calculate the magnitude of the strength of the field",
+    "options": {
+      "A": "10 6 Vm -1",
+      "B": "10 5 Vm -1",
+      "C": "10 -5 Vm -1",
+      "D": "10 2 Vm -1",
+      "E": "10 9 Vm -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "E = F / q = 0.01 / 1.0 x 10 -7 = 10 5 Vm -1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25030",
+    "passage": ""
   }
 ]
