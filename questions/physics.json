@@ -12501,5 +12501,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16338",
     "passage": ""
+  },
+  {
+    "id": 16341,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "When three coplanar and non-parallel forces are in equilibrium, I. they can be represented in magnitude and direction by the three sides of a triangle taken in order. II. their lines of action meet at a point. III. the magnitude of anyone equals the magnitude of the resultant of the other two. IV. any one force is the equilibrant of the other two. Which of the following statements above are correct?",
+    "options": {
+      "A": "I & II only",
+      "B": "II & III only",
+      "C": "II, III & IV only",
+      "D": "I, II, III & IV",
+      "E": "I, III & IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "I.  Forces can be represented by the sides of a triangle in equilibrium.\nII. The lines of action of the forces meet at a point or are parallel.\nIII. The magnitude of one force equals the resultant of the other two.\nIV. Any one force can act as the equilibrant of the other two.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16341",
+    "passage": ""
   }
 ]
