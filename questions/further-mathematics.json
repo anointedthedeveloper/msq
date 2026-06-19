@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50203",
     "passage": ""
+  },
+  {
+    "id": 50220,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given that \\(\\sin x = \\frac{5}{13}\\) and \\(\\sin y = \\frac{8}{17}\\), where x and y are acute, find \\(\\cos(x+y)\\).",
+    "options": {
+      "A": "\\(\\frac{130}{221}\\)",
+      "B": "\\(\\frac{140}{221}\\)",
+      "C": "\\(\\frac{140}{204}\\)",
+      "D": "\\(\\frac{220}{23}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\cos(x+y) = \\cos x\\cos y - \\sin x\\sin y\\)\nGiven \\(\\sin\\) of an angle implies we have the value of the opposite and hypotenuse of the right-angled triangle. We find the adjacent side using Pythagoras' theorem.\n\\(Adj^{2} = Hyp^{2} - Opp^{2}\\)\nFor triangle with angle x, \\(adj = \\sqrt{13^{2} - 5^{2}} = \\sqrt{144} = 12\\)\nFor triangle with angle y, \\(adj = \\sqrt{17^{2} - 8^{2}} = \\sqrt{225} = 15\\)\n\\(\\therefore \\cos x = \\frac{12}{13}; \\cos y = \\frac{15}{17}\\)\n\\(\\cos(x+y) = (\\frac{12}{13}\\times\\frac{15}{17}) - (\\frac{5}{13}\\times\\frac{8}{17}) = \\frac{180}{221} - \\frac{40}{221}\\)\n= \\(\\frac{140}{221}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50220",
+    "passage": ""
   }
 ]
