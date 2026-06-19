@@ -1500,5 +1500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/60948",
     "passage": ""
+  },
+  {
+    "id": 60950,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of these means of advertising is an electronic medium?",
+    "options": {
+      "A": "Catalogue",
+      "B": "Television",
+      "C": "Magazine",
+      "D": "Newspaper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "B. Television. Television is an electronic medium used for advertising.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/60950",
+    "passage": ""
   }
 ]
