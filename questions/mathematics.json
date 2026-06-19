@@ -6844,5 +6844,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9227",
     "passage": ""
+  },
+  {
+    "id": 9228,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The solution of the quadratic inequality (x\\(^2\\) + x - 12) ≥ 0 is",
+    "options": {
+      "A": "x ≥ -3 or x ≤ 4",
+      "B": "x ≥ 3 or x ≥  -4",
+      "C": "x ≤ 3 or x \\(\\leq\\) -4",
+      "D": "x ≥ 3 or x ≤ -4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(x\\(^2\\) + x - 12) ≥ 0 (x + 4)(x - 3) ≥ 0 Either x + 4 ≥ 0 implies x ≥ - 4 Or x - 3 ≥ 0 implies x ≥ 3 ∴ x ≥ 3 or x \\(\\leq\\) -4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9228",
+    "passage": ""
   }
 ]
