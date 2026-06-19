@@ -7789,5 +7789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3275",
     "passage": ""
+  },
+  {
+    "id": 3276,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The group IA metals are not found free in nature because they",
+    "options": {
+      "A": "are very reactive and unstable",
+      "B": "are malleable and ductile",
+      "C": "have high  melting and boiling point",
+      "D": "conduct heat and electricity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Group 1 elements, also known as alkali metals, are not found free in nature because they are highly reactive and readily lose their single valence electron, making them eager to form chemical bonds with other elements, thus existing in compounds rather than as pure elements.\nThey have Low ionization energy: Due to their electron configuration, group 1 elements have a low ionization energy, meaning they easily lose their outermost electron, making them highly reactive.\nAlso, they have strong tendency to form ionic bonds: When they lose their electron, they form positively charged ions which readily attract negatively charged ions from other elements, forming stable ionic compounds.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3276",
+    "passage": ""
   }
 ]
