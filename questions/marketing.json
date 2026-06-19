@@ -8757,5 +8757,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/72916",
     "passage": ""
+  },
+  {
+    "id": 72917,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "KPKC Ltd bought 60 packs of beverages at # 150 each and sold them at a 20%  mark-up\nUse the information above to answer this question\nThe pricing strategy adopted by  KPKC Ltd is a?",
+    "options": {
+      "A": "demand based pricing",
+      "B": "penetration pricing",
+      "C": "skimming pricing",
+      "D": "cost -plus pricing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "KPKC used a cost-plus pricing strategy because it uses mark-up\nCost = #150×60 = #9000\nMark-up = \\(\\frac{\\text{profit}}{\\text{cost}}\\)\n\\(\\frac{20}{100}\\) = \\(\\frac{\\text{profit}}{9000}\\)\nProfit = #1,800",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/72917",
+    "passage": ""
   }
 ]
