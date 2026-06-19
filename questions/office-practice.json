@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66112",
     "passage": ""
+  },
+  {
+    "id": 66115,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "One of the advantages of a close office layout is that it",
+    "options": {
+      "A": "enhances the prestige of the user.",
+      "B": "ensures free flow of work.",
+      "C": "makes supervision of workers easier.",
+      "D": "enables common use of office equipment."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "One of the advantages of a close office layout is that it enhances the prestige of the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66115",
+    "passage": ""
   }
 ]
