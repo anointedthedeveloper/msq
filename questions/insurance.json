@@ -1886,5 +1886,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49818",
     "passage": ""
+  },
+  {
+    "id": 49824,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Eke bought a new car for N1.5M. The practice in the insurance idustry is to pay 10% of the value of the vehicle as premium for comprehensive cover and 2.5% additional cover for strike, riot and civil commotion. Eke was issued a document and two weeks later, he was issued another document different from the first document issued\nWhat is the premium payable for the comprehensive cover",
+    "options": {
+      "A": "N37,000",
+      "B": "N150,000",
+      "C": "N155,000",
+      "D": "N187,500"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "comprehensive cover = 10% + 2.5% of N1.5M\n150,000 + 37,500 = 187500",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49824",
+    "passage": "Eke bought a new car for N1.5M. The practice in the insurance idustry is to pay 10% of the value of the vehicle as premium for comprehensive cover and 2.5% additional cover for strike, riot and civil commotion. Eke was issued a document and two weeks later, he was issued another document different from the first document issued"
   }
 ]
