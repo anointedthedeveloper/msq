@@ -2779,5 +2779,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6232",
     "passage": ""
+  },
+  {
+    "id": 6233,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Rainfall caused by the movement of air over a mountain is termed",
+    "options": {
+      "A": "orographic rainfall",
+      "B": "cyclonic rainfall",
+      "C": "frontal rainfall",
+      "D": "thunder shower",
+      "E": "convectional rainfall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6233",
+    "passage": ""
   }
 ]
