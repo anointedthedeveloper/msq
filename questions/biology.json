@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/291",
     "passage": ""
+  },
+  {
+    "id": 293,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "One of the function of xylem is",
+    "options": {
+      "A": "strengthening the stem",
+      "B": "manufacturing food",
+      "C": "reducing loss of water",
+      "D": "conducting manufactured food",
+      "E": "storing unused sugar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Xylem plays an essential 'supporting' role providing strength to tissues and organs, to maintain plant architecture and resistance to bending.\nWhile the primary role of Xylem is to transport water and dissolved mineral salts upward from the roots, it serves a dual purpose. Mature xylem vessels and tracheids contain thick cell walls heavily reinforced with lignin TgQPHd|[] . This structural compound provides immense mechanical strength and rigidity, directly supporting and strengthening the plant stem to keep it upright.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/293",
+    "passage": ""
   }
 ]
