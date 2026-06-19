@@ -9029,5 +9029,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72368",
     "passage": ""
+  },
+  {
+    "id": 72370,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A malware that copies and replicates itself using computer network and security flaws is",
+    "options": {
+      "A": "Rootkit virus",
+      "B": "Spyware",
+      "C": "Trojan horse",
+      "D": "Worm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "• A wom is a malware that copies and replicates itself using network and security flaws •A spyware is a malware that secretly monitors and collects information about a user's activities • A trojan horse is a malware that disguises as a legitimate program or file but actually contains malicious code designed to harm your computer or steal your data. •A rootkit virus is a malware that hides itself and other malwares from the system software, allowing them to persist and cause harm without being detected.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72370",
+    "passage": ""
   }
 ]
