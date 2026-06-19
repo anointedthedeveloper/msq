@@ -7306,5 +7306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13900",
     "passage": ""
+  },
+  {
+    "id": 13901,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A person can focus objects when they lie beyond 75 cm from his eyes. The focal length of the lens required to reduce his least distance of distinct vision to 25 cm is?",
+    "options": {
+      "A": "37.50 cm",
+      "B": "75.00 cm",
+      "C": "18.75",
+      "D": "25.00 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The least distance of distinct vision required = 25 cm. ∴ for the person to see an object clearly at 25 cm from the eye, the image must be formed at 75 cm on the same side of lens, at his near point. ∴ U = 25 cm; V = -75 cm (image should be virtual) thus \\(\\frac{1}{f}\\) = \\(\\frac{1}{v}\\) +\\(\\frac{1}{u}\\) = \\(\\frac{1}{75}\\) + \\(\\frac{1}{25}\\) = \\(\\frac{-1 + 3}{75}\\) = \\(\\frac{2}{75}\\) ∴f = \\(\\frac{75}{2}\\) = 37.50cm.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13901",
+    "passage": ""
   }
 ]
