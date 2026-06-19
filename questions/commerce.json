@@ -14007,5 +14007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7385",
     "passage": ""
+  },
+  {
+    "id": 7386,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If a buyer is given 12.5% discount on N50,000 worth of goods, how much will he pay?",
+    "options": {
+      "A": "N56 250",
+      "B": "N43 750",
+      "C": "N43 250",
+      "D": "N6250"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{12.5}{100}\\) x 50,000 = 6250\n50,000 - 6250 = 43,750",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7386",
+    "passage": ""
   }
 ]
