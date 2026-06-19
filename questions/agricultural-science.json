@@ -680,5 +680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15835",
     "passage": ""
+  },
+  {
+    "id": 15836,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Birds are important pests of",
+    "options": {
+      "A": "tree crops",
+      "B": "legumes",
+      "C": "cereal",
+      "D": "vegetable crops",
+      "E": "stored produce"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15836",
+    "passage": ""
   }
 ]
