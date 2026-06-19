@@ -2154,5 +2154,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/606",
     "passage": ""
+  },
+  {
+    "id": 607,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A fresh Kolanut weighing 1g was put into salt solution. After 3 hour, the kolanut weighed 1.2g. This simple experiment demonstration that",
+    "options": {
+      "A": "the salt solution is more concentrated that the cell sap of the kolanut",
+      "B": "the cell sap of the kolanut is more concentrated than the salt solution",
+      "C": "the salt solution has the same concentration as the cell sap of the kolanut",
+      "D": "kolanut cell can multiply in water",
+      "E": "the kolanut lost some water molecules to the salt solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/607",
+    "passage": ""
   }
 ]
