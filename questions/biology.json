@@ -6510,5 +6510,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2623",
     "passage": ""
+  },
+  {
+    "id": 2624,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Normally the flow of blood is NEVER from",
+    "options": {
+      "A": "artery to arterioles",
+      "B": "arterioles to capillaries",
+      "C": "capillaries to venules",
+      "D": "arteerioles to the artery",
+      "E": "venules to the vein"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2624",
+    "passage": ""
   }
 ]
