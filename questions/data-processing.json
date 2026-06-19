@@ -2290,5 +2290,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58182",
     "passage": ""
+  },
+  {
+    "id": 58183,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of these formulas will not be executed in MS Excel?",
+    "options": {
+      "A": "=SUM(examscore)",
+      "B": "=SUM(examscore)-12",
+      "C": "=SUM(exam_score)*8",
+      "D": "=SUM(exam score)/8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D. =SUM(exam score)/8 : This is invalid because spaces are not allowed in named ranges or formulas",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58183",
+    "passage": ""
   }
 ]
