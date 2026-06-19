@@ -8621,5 +8621,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3653",
     "passage": ""
+  },
+  {
+    "id": 3654,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or word which best completes each sentence : The dead body of the armed robber has ... in the street for three days",
+    "options": {
+      "A": "laid",
+      "B": "lain",
+      "C": "layed",
+      "D": "lied",
+      "E": "lay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct verb here is “lie” (to be in a horizontal position) , and its past participle form is “lain.”\nSo the correct sentence is:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3654",
+    "passage": ""
   }
 ]
