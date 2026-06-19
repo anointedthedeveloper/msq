@@ -6760,5 +6760,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13856",
     "passage": ""
+  },
+  {
+    "id": 13857,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An electric heater with a p.d of 240 V connected across its terminals has a total resistance of 960Ω. find the power rating of the heater.",
+    "options": {
+      "A": "0.25 W",
+      "B": "4.00 W",
+      "C": "38.40W",
+      "D": "60.00W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13857",
+    "passage": ""
   }
 ]
