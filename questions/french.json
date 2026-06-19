@@ -521,5 +521,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48136",
     "passage": ""
+  },
+  {
+    "id": 48137,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Le médecin est pressé, mails il doit écouter ... le melade",
+    "options": {
+      "A": "totalement",
+      "B": "rapidement",
+      "C": "patiemment",
+      "D": "gravement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48137",
+    "passage": ""
   }
 ]
