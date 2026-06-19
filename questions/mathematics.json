@@ -2959,5 +2959,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3393",
     "passage": ""
+  },
+  {
+    "id": 3395,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The mean of a set of six numbers is 60. If the mean of the first five is 50, find the sixth number in the set.",
+    "options": {
+      "A": "105",
+      "B": "100",
+      "C": "95",
+      "D": "110"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Let the sum of the first five numbers and the sixth number be x and t respectively.\n\\(\\frac{x + t}{6} = 60 \\implies x + t = 360\\)\n\\(\\frac{x}{5} = 50 \\implies x = 250\\)\n\\(\\therefore t = 360 - 250 = 110\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3395",
+    "passage": ""
   }
 ]
