@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64468",
     "passage": ""
+  },
+  {
+    "id": 64469,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following benefits can be derived from female participation in sports except",
+    "options": {
+      "A": "Development of high sense of utility",
+      "B": "Development of self confidence",
+      "C": "Promotes juvenile delinquency",
+      "D": "Promoting social adjustments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Female participation in sports does not promote gender delinquency.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64469",
+    "passage": ""
   }
 ]
