@@ -9482,5 +9482,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77037",
     "passage": ""
+  },
+  {
+    "id": 77047,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The following are examples of relational operators. Use the image in the explanation to answer these questions.",
+    "options": {
+      "A": "=",
+      "B": "*",
+      "C": ">",
+      "D": "<"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Therefore, \"*\" is not an examples of a relational operator.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77047",
+    "passage": ""
   }
 ]
