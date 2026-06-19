@@ -4247,5 +4247,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62269",
     "passage": ""
+  },
+  {
+    "id": 62270,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The colour palette in CorelDraw allows the user to?",
+    "options": {
+      "A": "arrange colour.",
+      "B": "draw in colour.",
+      "C": "pick colour tool.",
+      "D": "choose different pre-set colour palettes."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62270",
+    "passage": ""
   }
 ]
