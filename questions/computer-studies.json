@@ -9376,5 +9376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62714",
     "passage": ""
+  },
+  {
+    "id": 62715,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Password reset disk should be created?",
+    "options": {
+      "A": "every time the user changes password.",
+      "B": "once only.",
+      "C": "only when the user forgets the password.",
+      "D": "twice only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62715",
+    "passage": ""
   }
 ]
