@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73198",
     "passage": ""
+  },
+  {
+    "id": 73199,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "A drawing of vegetation and buildings is",
+    "options": {
+      "A": "Landscape",
+      "B": "Memory",
+      "C": "Imaginative",
+      "D": "Portraiture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A landscape drawing typically depicts natural scenery, such as vegetation, trees, hills, and buildings, and often captures the relationship between these elements and the surrounding environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73199",
+    "passage": ""
   }
 ]
