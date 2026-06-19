@@ -11261,5 +11261,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68505",
     "passage": ""
+  },
+  {
+    "id": 68506,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which organization played a crucial role in the fight against apartheid in South Africa and was led by Nelson Mandela?",
+    "options": {
+      "A": "Economic Community of West African States (ECOWAS)",
+      "B": "African Union (AU)",
+      "C": "Southern African Development Community (SADC)",
+      "D": "African National Congress (ANC)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The African National Congress (ANC) played a crucial role in the fight against apartheid in South Africa. Nelson Mandela, who later became the first black president of South Africa, was a prominent leader of the ANC.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68506",
+    "passage": ""
   }
 ]
