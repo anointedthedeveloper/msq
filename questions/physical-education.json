@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64149",
     "passage": ""
+  },
+  {
+    "id": 64150,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The elongated start is mostly used by ................... athletes",
+    "options": {
+      "A": "fat",
+      "B": "huge",
+      "C": "short",
+      "D": "tall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Elongated start is usually preferred by the athletes who are very tall and who have powerful legs but slightly weak hands",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64150",
+    "passage": ""
   }
 ]
