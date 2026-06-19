@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50024",
     "passage": ""
+  },
+  {
+    "id": 50026,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Testing of blood before tranfusion will really help to?",
+    "options": {
+      "A": "spread HIV",
+      "B": "control HIV",
+      "C": "eradicate HIV",
+      "D": "prevent HIV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Using screening to prevent transmission of the virus is a cost-effective way of ensuring sufficient supplies of safe blood . In most places in the world the risk of getting HIV from a blood transfusion is very low. All blood products must be tested for viruses such as HIV , and in most countries rigorous testing procedures are put in place.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50026",
+    "passage": ""
   }
 ]
