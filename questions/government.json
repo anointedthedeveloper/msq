@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/121",
     "passage": ""
+  },
+  {
+    "id": 125,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Delegated legislature becomes unavoidable when",
+    "options": {
+      "A": "legislators cannot reach a consensus",
+      "B": "issues under consideration are personal",
+      "C": "issues under consideration are technical",
+      "D": "legislators have to proceed on a recess."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/125",
+    "passage": ""
   }
 ]
