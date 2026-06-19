@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50302",
     "passage": ""
+  },
+  {
+    "id": 50307,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Simplify \\(\\frac{\\sqrt{3}}{\\sqrt{3} -1} + \\frac{\\sqrt{3}}{\\sqrt{3} + 1}\\)",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "3",
+      "C": "\\(2\\sqrt{3}\\)",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\sqrt{3}}{\\sqrt{3} - 1} + \\frac{\\sqrt{3}}{\\sqrt{3} + 1}\\)\n= \\(\\frac{\\sqrt{3}(\\sqrt{3} + 1) + \\sqrt{3}(\\sqrt{3} - 1)}{(\\sqrt{3} - 1)(\\sqrt{3} + 1)}\\)\n= \\(\\frac{3 + \\sqrt{3} + 3 - \\sqrt{3}}{3 + \\sqrt{3} - \\sqrt{3} - 1}\\)\n= \\(\\frac{6}{2} = 3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50307",
+    "passage": ""
   }
 ]
