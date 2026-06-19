@@ -1698,5 +1698,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1473",
     "passage": ""
+  },
+  {
+    "id": 1474,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The hydrocarbon that burns in air with a sooty flames is",
+    "options": {
+      "A": "C 2 H 6",
+      "B": "C 3 H 8",
+      "C": "C 4 H 10",
+      "D": "C 6 H 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1474",
+    "passage": ""
   }
 ]
