@@ -395,5 +395,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49582",
     "passage": ""
+  },
+  {
+    "id": 49586,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following managment systems of poultry production is least expensive?",
+    "options": {
+      "A": "Deep litter",
+      "B": "Battery cage",
+      "C": "Fold units",
+      "D": "Free range"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Free range denotes a method of farming husbandry where theanimals, for at least part of the day, can roam freely outdoors, rather than being confined in an enclosure for 24 hours each day.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49586",
+    "passage": ""
   }
 ]
