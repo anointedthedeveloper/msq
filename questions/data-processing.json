@@ -8777,5 +8777,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72351",
     "passage": ""
+  },
+  {
+    "id": 72352,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The function of the foreign key in a database is to",
+    "options": {
+      "A": "uniquely identify tuples in a table",
+      "B": "provide a link between data in two tables",
+      "C": "uniquely identify an entity occurrence",
+      "D": "uniquely identify each record in a table"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The foreign key exists to provide a link between data in two tables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72352",
+    "passage": ""
   }
 ]
