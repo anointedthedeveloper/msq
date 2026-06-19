@@ -9071,5 +9071,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72371",
     "passage": ""
+  },
+  {
+    "id": 72373,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which one of the following statements is true about database tables?",
+    "options": {
+      "A": "All the tables in a database have a common name",
+      "B": "A table may contain repeating groups",
+      "C": "Entries in a column are from different domains based on datatype",
+      "D": "There are no duplicate rows in a table"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Entries in a column are from different domains based on datatype.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72373",
+    "passage": ""
   }
 ]
