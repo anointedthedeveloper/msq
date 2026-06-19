@@ -2395,5 +2395,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1329",
     "passage": ""
+  },
+  {
+    "id": 1331,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words : He got a standing ovation for his speech",
+    "options": {
+      "A": "He stood up to receive the applause",
+      "B": "The audience stood up and applauded as he finished his speech",
+      "C": "Both he and the audience stood up at the end of his speech",
+      "D": "He stood up to make the speech",
+      "E": "He was applauded for the speech"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A standing ovation refers to a situation where an audience stands up while applauding to show great appreciation for a performance or speech.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1331",
+    "passage": ""
   }
 ]
