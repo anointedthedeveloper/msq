@@ -1647,5 +1647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/284",
     "passage": ""
+  },
+  {
+    "id": 285,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "One of these is not in any list of the twelve Apostles",
+    "options": {
+      "A": "Thaddaeus",
+      "B": "Matthew",
+      "C": "Mark",
+      "D": "Simon the Zealot",
+      "E": "James the son of Alphaeus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mark is not listed as one of the twelve apostles in the traditional lists provided in the New Testament. The twelve apostles typically include names like Peter, James the son of Zebedee, John, Andrew, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus (also called Lebbaeus), Simon the Zealot, and Judas Iscariot (later replaced by Matthias). Mark is known as the author of the Gospel of Mark, but he is not counted among the twelve apostles in the Biblical lists.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/285",
+    "passage": ""
   }
 ]
