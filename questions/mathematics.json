@@ -11405,5 +11405,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22227",
     "passage": ""
+  },
+  {
+    "id": 22228,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The histogram below shows the number of candidates, in thousands, obtaining given ranges of marks in a State examination. Find the total number of candidates that sat for the examination",
+    "options": {
+      "A": "80,000",
+      "B": "120,000",
+      "C": "250,000",
+      "D": "260,000",
+      "E": "270,000"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/EVohSGzgyUsiygAiHObXuS54zanXThyGbjLijlcj.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907075/myschool/mathematics/EVohSGzgyUsiygAiHObXuS54zanXThyGbjLijlcj.png",
+    "correct_answer": "E",
+    "explanation": "No of candidates = { 5 + 10 + 60 + 80 + 50 + 30 + 5 + 5 + 5}thousand = 270 x 1000 = 270000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22228",
+    "passage": ""
   }
 ]
