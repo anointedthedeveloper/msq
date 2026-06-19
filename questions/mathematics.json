@@ -4618,5 +4618,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8212",
     "passage": ""
+  },
+  {
+    "id": 8213,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The shaded region in the Venn diagram above is",
+    "options": {
+      "A": "P c ∪ (Q ∩ R)",
+      "B": "P c ∩ (Q ∪ R)",
+      "C": "P ∩ Q",
+      "D": "P c ∩ (Q ∩ R)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6777947690_math200448.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868448/myschool/mathematics/6777947690_math200448.jpg",
+    "correct_answer": "D",
+    "explanation": "The shaded portion shows the elements in Q and R, but not in P, Q n R n P'\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8213",
+    "passage": ""
   }
 ]
