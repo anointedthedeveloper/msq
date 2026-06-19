@@ -5709,5 +5709,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2531",
     "passage": ""
+  },
+  {
+    "id": 2627,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone",
+    "options": {
+      "A": "evaporation",
+      "B": "distillation",
+      "C": "crystallization",
+      "D": "sublimation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Evaporation is a change of state from a liquid to a gas.\nDistillation is a physical process that involves a phase change from liquid to gas (vapour) and then back to liquid.\nCrystallization is a physical change that occurs when a substance turns from a liquid to a solid crystal.\nSublimation is a change of state from a solid to a gas without passing through a liquid state.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2627",
+    "passage": ""
   }
 ]
