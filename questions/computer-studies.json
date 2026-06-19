@@ -10822,5 +10822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64093",
     "passage": ""
+  },
+  {
+    "id": 64094,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which key deletes text?",
+    "options": {
+      "A": "Arrow keys",
+      "B": "enter key",
+      "C": "backspace key",
+      "D": "esc key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The backspace key is used to delete text, alphabets, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64094",
+    "passage": ""
   }
 ]
