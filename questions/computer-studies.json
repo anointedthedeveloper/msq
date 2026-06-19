@@ -16767,5 +16767,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67859",
     "passage": ""
+  },
+  {
+    "id": 67860,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "If the control unit controls other units of the CPU, which unit stores instructions,data and intermediate results.",
+    "options": {
+      "A": "Memory unit",
+      "B": "Arithmetic section",
+      "C": "Control unit",
+      "D": "Logic section"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The memory unit of the CPU stores instructions, data, and intermediate results. The control unit controls the operation of the CPU and hence the computer. The arithmetic section performs arithmetic operations like addition, subtraction, multiplication, and division. The logic section performs logical operations like comparison of values.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67860",
+    "passage": ""
   }
 ]
