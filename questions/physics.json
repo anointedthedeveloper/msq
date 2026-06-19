@@ -8650,5 +8650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14139",
     "passage": ""
+  },
+  {
+    "id": 14140,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A bullet fired vertically upward from a gun held 2.0 m above the ground reaches its maximum height in 4.0s. calculate its initial velocity. [g = 10ms\\(^-2\\)]",
+    "options": {
+      "A": "10 ms -1",
+      "B": "8 ms -1",
+      "C": "40 ms -1",
+      "D": "20 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "At maximum height, the final velocity, v = 0 thus from v = u - gt 0 = u - gt ∴ U = at = 10 x 4 = 40 mls\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14140",
+    "passage": ""
   }
 ]
