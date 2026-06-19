@@ -4156,5 +4156,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12271",
     "passage": ""
+  },
+  {
+    "id": 12272,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A piece of stone attached to one end of a string is whirled round in a horizontal circle and the string suddenly cuts. The stone will fly off in a direction",
+    "options": {
+      "A": "perpendicular to the circular path",
+      "B": "parallel to the circular path",
+      "C": "tangential to the circular path",
+      "D": "towards the center of the circle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A\nB\nC\nD",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12272",
+    "passage": ""
   }
 ]
