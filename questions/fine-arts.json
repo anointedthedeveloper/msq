@@ -1951,5 +1951,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75357",
     "passage": ""
+  },
+  {
+    "id": 75358,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is an example of ephemeral art?",
+    "options": {
+      "A": "Mosaic",
+      "B": "Mural",
+      "C": "Bronze statue",
+      "D": "Ice sculpture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ephemeral art is temporary and lasts only a short time. An ice sculpture melts and disappears, making it a good example of ephemeral art.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75358",
+    "passage": ""
   }
 ]
