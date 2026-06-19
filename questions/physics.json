@@ -16504,5 +16504,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24282",
     "passage": ""
+  },
+  {
+    "id": 24283,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Calculate the rate at which energy is used up in the circuit illustrated by the diagram",
+    "options": {
+      "A": "0 W",
+      "B": "2 W",
+      "C": "4 W",
+      "D": "8 W",
+      "E": "16 W"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13861773760_wcphy199242.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892314/myschool/physics/13861773760_wcphy199242.jpg",
+    "correct_answer": "C",
+    "explanation": "\\(R = \\frac{R_1 X R_2}{R_1 + R_2}\\)\n= 1\n\\(E = I^2R = 2^2 x 1 =4W\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24283",
+    "passage": ""
   }
 ]
