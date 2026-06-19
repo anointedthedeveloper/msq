@@ -17376,5 +17376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69834",
     "passage": ""
+  },
+  {
+    "id": 69835,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The set of instructions used to solve specific user tasks is called",
+    "options": {
+      "A": "editor",
+      "B": "utility software.",
+      "C": "system software",
+      "D": "application software."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The set of instructions used to solve specific user tasks is called \"application software.\" Application software, also known as applications or apps, is a type of computer software designed to perform specific tasks or applications for end-users. These programs are created to address the needs and requirements of users, allowing them to accomplish various tasks such as word processing, spreadsheet calculations, graphic design, video editing, web browsing, and more. Application software is distinct from system software and utility software, as it is developed to serve the users directly and provide functionality tailored to specific tasks and activities. Examples of application software include Microsoft Word, Adobe Photoshop, Google Chrome, and video gam",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69835",
+    "passage": ""
   }
 ]
