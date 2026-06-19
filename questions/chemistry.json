@@ -481,5 +481,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/69",
     "passage": ""
+  },
+  {
+    "id": 71,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following reactions does not take place in the smelting of iron in a blast furnace?",
+    "options": {
+      "A": "\\(CaCO_{3(s)} → CaO_{(s)} + (CO_{2(g)}\\)",
+      "B": "\\(C_{(s)} + O_{2(g)} → CO_{2(g)}\\)",
+      "C": "3\\(Fe{(s)} + 2O_{2(g)} → FeO_{4(s)}\\)",
+      "D": "\\(SiO_{2(s)} + CaO_{(s)} → CaSiO_{3(s)}\\)",
+      "E": "\\(CO_{2(g)} + C_{(s)} → 2CO_{(g)}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This reaction 3\\(Fe{(s)} + 2O_{2(g)} → FeO_{4(s)}\\) does not take place during  the smelting of iron in a blast furnace",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/71",
+    "passage": ""
   }
 ]
