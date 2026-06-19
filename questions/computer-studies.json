@@ -3496,5 +3496,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61858",
     "passage": ""
+  },
+  {
+    "id": 61859,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Convert 687 in decimal to base 16?",
+    "options": {
+      "A": "2AF\\(_{16}\\)",
+      "B": "3BA\\(_{16}\\)",
+      "C": "4ff\\(_{16}\\)",
+      "D": "BB\\(_{16}\\)",
+      "E": "CBC\\(_{16}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(687_{10}\\)  to hexadecimal =\n687 divided by 16 is 42 with a remainder of 15 (which corresponds to F in base 16) 42 divided by 16 is 2 with a remainder of 10 (which corresponds to A in base 16) 2 divided by 16 is 0 with a remainder of 2\nReading the remainder from bottom to top, we have: 2AF\nTherefore, 687 in base 10 is equal to 2AF in base 16.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61859",
+    "passage": ""
   }
 ]
