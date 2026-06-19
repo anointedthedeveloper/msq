@@ -11450,5 +11450,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68515",
     "passage": ""
+  },
+  {
+    "id": 68516,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which British explorer is credited with the \"discovery\" of the Niger River, sparking further interest in the Nigeria Area?",
+    "options": {
+      "A": "James Cook",
+      "B": "John Cabot",
+      "C": "David Livingstone",
+      "D": "Ferdinand Magellan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The British explorer credited with the 'discovery' of the Niger River is Mungo Park, but since his name is not in the options, none of the options is correct. The Niger River was already known to the local inhabitants, but Park's exploration brought it to the attention of the European world.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68516",
+    "passage": ""
   }
 ]
