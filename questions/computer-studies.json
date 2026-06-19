@@ -17103,5 +17103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69821",
     "passage": ""
+  },
+  {
+    "id": 69822,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The BCD equivalent of 135 is",
+    "options": {
+      "A": "100110101",
+      "B": "001011101",
+      "C": "000100110101",
+      "D": "111101"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The BCD equivalent of 135 is 0001 0011 0101. BCD stands for Binary-Coded Decimal. It is a way of representing decimal numbers in binary form. In BCD, each decimal digit is represented by a 4-bit binary number. The BCD equivalent of 135 is 0001 0011 0101, which is the binary representation of the decimal digits 1, 3, and 5. 1 = 0001 3 = 0011 5 = 0101 ∴ 135 = 000100110101",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69822",
+    "passage": ""
   }
 ]
