@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73214",
     "passage": ""
+  },
+  {
+    "id": 73215,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "When food is handled properly, it __________.",
+    "options": {
+      "A": "Accelerates spoilage",
+      "B": "Increases risk of spoiling",
+      "C": "Safeguards consumers’ health",
+      "D": "Encourages overspending"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Handling food properly involves following safe food handling practices, such as:\nWashing hands and surfaces Storing food at proper temperatures Cooking food to recommended temperatures Preventing cross-contamination\nWhen food is handled properly, it reduces the risk of foodborne illnesses and safeguards consumers’ health.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73215",
+    "passage": ""
   }
 ]
