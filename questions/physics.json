@@ -14833,5 +14833,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24104",
     "passage": ""
+  },
+  {
+    "id": 24105,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The diagram above represents part of a wave motion in air. If the wave travels with a speed of 300ms\n-1\ncalculate the frequency of the wave.",
+    "options": {
+      "A": "360Hz",
+      "B": "300Hz",
+      "C": "250Hz",
+      "D": "150Hz",
+      "E": "100Hz"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4158328800_wcphy199026.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891875/myschool/physics/4158328800_wcphy199026.jpg",
+    "correct_answer": "C",
+    "explanation": "1\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24105",
+    "passage": ""
   }
 ]
