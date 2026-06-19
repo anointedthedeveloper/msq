@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/76",
     "passage": ""
+  },
+  {
+    "id": 78,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "when a bill passed by the legislature is vetoed by the executive, the action underscores the principle",
+    "options": {
+      "A": "probity and accountability",
+      "B": "separation of powers",
+      "C": "collective responsibility",
+      "D": "checks and balances."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When a bill passed by the legislature is vetoed by the executive the action underscores the principle of checks and balances. The doctrine or principle of checks and balances advocates the use of one organ of government to check the activities of the other organs. When the executive vetoes the bill passed by the legislature, and the executive has checked the activities of the legislature, thereby putting the principles of the checks and balances into practice.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/78",
+    "passage": ""
   }
 ]
