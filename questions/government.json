@@ -923,5 +923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/165",
     "passage": ""
+  },
+  {
+    "id": 243,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The president of Nigeria is advised on the sovereignty and territorial integrity of the country by the",
+    "options": {
+      "A": "National Secrurity Council",
+      "B": "National Defense Council",
+      "C": "Council of state",
+      "D": "Federal Executive Council"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The powers of the President with respect to national security, both internal and external, are enormous as he is in complete control of the matter. He is the chairman of both the National Security Council and the National Defense Council and he appoints their members except the ex official members. The totality of the role of the National Defense Council is “to advise the President on matters relating to the defense of the sovereignty and territorial integrity of Nigeria”\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/243",
+    "passage": ""
   }
 ]
