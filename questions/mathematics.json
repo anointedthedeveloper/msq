@@ -5521,5 +5521,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8613",
     "passage": ""
+  },
+  {
+    "id": 8614,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A box contains 5 blue balls, 3 red balls and 2 white balls. Two balls are selected from the box with replacement. Find the probability of obtaining two blue or two red balls",
+    "options": {
+      "A": "\\(\\frac{17}{50}\\)",
+      "B": "\\(\\frac{3}{25}\\)",
+      "C": "\\(\\frac{1}{50}\\)",
+      "D": "\\(\\frac{3}{250}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Blue balls = 5 Red balls = 3 White balls = 2 Total = 10 P(Two blue) = 5/10 * 5/10 = 25/100 P(Two Red) = 3/10 * 3/10 = 9/100 ∴P(Two blue or two red balls) = 25/100 + 9/100 = 34/100 = 17/50\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8614",
+    "passage": ""
   }
 ]
