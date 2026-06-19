@@ -2559,5 +2559,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1561",
     "passage": ""
+  },
+  {
+    "id": 1562,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A form of carbon used for absorbing poisonous gases and purification of noble gases is",
+    "options": {
+      "A": "wood charcoal",
+      "B": "animal charcoal",
+      "C": "carbon fibres",
+      "D": "carbon black"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The form of carbon used for absorbing poisonous gases and purifying noble gases is activated carbon . Activated carbon is a highly porous form of carbon that has a large surface area, allowing it to adsorb (not absorb) various gases, liquids, or impurities. Thus, Elm wood is a good source of activated carbon. Therefore, wood charcoal is the right answer.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1562",
+    "passage": ""
   }
 ]
