@@ -1971,5 +1971,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73775",
     "passage": ""
+  },
+  {
+    "id": 73776,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How many letters are there in Igbo alphabet?",
+    "options": {
+      "A": "Iri abụọ na abụọ",
+      "B": "Asatọ",
+      "C": "Anọ",
+      "D": "Iri atọ na isii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Igbo alphabet consists of 36 letters. In Igbo language, \"iri atọ\" means \"thirty\" and \"na isii\" means \"six\". Therefore, \"iri atọ na isii\" means \"thirty-six\", which is the correct number of letters in the Igbo alphabet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73776",
+    "passage": ""
   }
 ]
