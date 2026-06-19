@@ -13998,5 +13998,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22913",
     "passage": ""
+  },
+  {
+    "id": 22915,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the coordinates of point B",
+    "options": {
+      "A": "(0,1 1 / 2 )",
+      "B": "(O,2)",
+      "C": "(2,0)",
+      "D": "(1 1 / 2 , 2)",
+      "E": "(1 1 / 2 , 0)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2767311462_wcmath199128.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908994/myschool/mathematics/2767311462_wcmath199128.jpg",
+    "correct_answer": "E",
+    "explanation": "B occurs at the point y = 0.\nWhen y = 0, we have\n4x + 3(0) = 6\n4x = 6\nx = 1\\(\\frac{1}{2}\\)\nB = \\((1\\frac{1}{2}, 0)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22915",
+    "passage": ""
   }
 ]
