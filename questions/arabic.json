@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75339",
     "passage": ""
+  },
+  {
+    "id": 75340,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Translate: \"The weather is cold today.\"",
+    "options": {
+      "A": "الجوّ بارد اليوم",
+      "B": "الطقس جميل هذا الصباح",
+      "C": "اليوم مشمس",
+      "D": "الجوّ حار اليوم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": ".\"اليوم\" and \"today\" translates as \"بارد\" Cold\" in Arabic is \"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75340",
+    "passage": ""
   }
 ]
