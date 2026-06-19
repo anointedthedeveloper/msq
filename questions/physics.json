@@ -6655,5 +6655,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13849",
     "passage": ""
+  },
+  {
+    "id": 13850,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "what is likely to happen if the glass of a thermometer expands more upon heating than the liquid inside?",
+    "options": {
+      "A": "the glass will break",
+      "B": "the glass will shrink",
+      "C": "the liquid will rise up in the stem",
+      "D": "the liquid will go down in the stem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "when the glass of a thermometer expands more on heating than the liquid inside, the liquid level would fall compared with the tube wall\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13850",
+    "passage": ""
   }
 ]
