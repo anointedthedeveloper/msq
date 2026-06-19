@@ -12965,5 +12965,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22652",
     "passage": ""
+  },
+  {
+    "id": 22655,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Factorize 2e\\(^2\\) - 3e + 1",
+    "options": {
+      "A": "(2e-1) (e-1)",
+      "B": "(e+1) (2e+1)",
+      "C": "(2e+3) (e+2)",
+      "D": "(2e-3) (e-1)",
+      "E": "(e 2 -3(2e-1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "2e\\(^2\\) - 3e + 1\n2e\\(^2\\) - 2e - e + 1\n2e(e - 1) - 1(e - 1)\n(2e - 1)(e - 1)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22655",
+    "passage": ""
   }
 ]
