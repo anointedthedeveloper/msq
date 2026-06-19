@@ -6193,5 +6193,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8867",
     "passage": ""
+  },
+  {
+    "id": 8876,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "What is the locus of points equidistant from the lines ax + by + c = 0?",
+    "options": {
+      "A": "A line bx - ay +q = 0",
+      "B": "A line ax - by +q = 0",
+      "C": "A line bx + ay +q = 0",
+      "D": "A line ax + by +q = 0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The set of points equidistant from two parallel lines can be determined by the perpendicular distance from a point to each line.\nGiven the lines are of the form ax + by + k\\(_1\\) = 0 and ax + by + k\\(_2\\) = 0, the locus of points equidistant from these lines is another line parallel to them.\nTo find this line, which represents the equation of the locus, we need to find the average  k\\(_1\\) and  k\\(_2\\), which we shall be denoted by q\nThis line will have the same coefficients for x and y as the original lines.\nThus, the equation of the locus is: ax + by + q = 0\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8876",
+    "passage": ""
   }
 ]
