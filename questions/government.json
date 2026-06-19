@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/101",
     "passage": ""
+  },
+  {
+    "id": 104,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The western zone of the Sokoto caliphate was administered from",
+    "options": {
+      "A": "kebbi",
+      "B": "Ilorin",
+      "C": "Bida",
+      "D": "Gwandu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Western zone of the Sokoto caliphate was administered from Gwandu - Othman Dan Fodio divided the Fulani empire into two- the Eastern and Western sections. The Eastern section included Kano, Katsina, Zaria, Bauchi, Gombe and Yola with Sokoto as its capital while Ilorin, Kontagoro and Argungu with Gwandu as its capital were included in the Western section.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/104",
+    "passage": ""
   }
 ]
