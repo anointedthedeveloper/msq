@@ -5605,5 +5605,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8623",
     "passage": ""
+  },
+  {
+    "id": 8639,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If the mean of five consecutive integers is 30, find the largest of the numbers",
+    "options": {
+      "A": "28",
+      "B": "30",
+      "C": "32",
+      "D": "34"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let the consecutive numbers be a, a+1, a+2, a+3, a+4 Mean = \\(\\frac{(a+a+1+a+2+a+3+a+4)}{5}\\) 30 = \\(\\frac{5a+10}{5}\\) 30\\( \\times 5 = 5a + 10\\) 5a = 150 - 10 5a = 140 a = 28 ∴ a + 4 = 28 + 4 = 32\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8639",
+    "passage": ""
   }
 ]
