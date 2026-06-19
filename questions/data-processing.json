@@ -9734,5 +9734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77063",
     "passage": ""
+  },
+  {
+    "id": 77064,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The process of distributing information over a communication network or medium is referred to as",
+    "options": {
+      "A": "interpretation",
+      "B": "organisation",
+      "C": "transmission",
+      "D": "acquisition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Data communications refers to the transmission of this digital data between two or more ... computing devices is established using either cable media or wireless media. ... and servers, and allows the computers to communicate over the network ..",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77064",
+    "passage": ""
   }
 ]
