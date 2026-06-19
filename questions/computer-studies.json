@@ -10175,5 +10175,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62754",
     "passage": ""
+  },
+  {
+    "id": 62755,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which type of network topology is represented in Figure 2 above?",
+    "options": {
+      "A": "Hybrid topology",
+      "B": "Mesh topology",
+      "C": "Ring topology",
+      "D": "Star topology"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4yhRfA2FVzApku1UrGxkdOCtfdZYz0gxJM08ZTJq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903069/myschool/computer-studies/4yhRfA2FVzApku1UrGxkdOCtfdZYz0gxJM08ZTJq.jpg",
+    "correct_answer": "A",
+    "explanation": "A hybrid topology is defined as a network topology that combines two or more different network topologies. A hybrid topology can be a combination of bus topology, ring topology, and mesh topology.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62755",
+    "passage": ""
   }
 ]
