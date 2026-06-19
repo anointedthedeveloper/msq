@@ -1559,5 +1559,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/633",
     "passage": ""
+  },
+  {
+    "id": 635,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "If Mr A earns N2,000 a year while Mr B earns N8,000 but Mr a pays N200 in tax per annum while Mr B pays N400, such a tax is",
+    "options": {
+      "A": "Progressive",
+      "B": "Indirect",
+      "C": "Regressive",
+      "D": "Proportional",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/635",
+    "passage": ""
   }
 ]

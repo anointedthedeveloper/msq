@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1110",
     "passage": ""
+  },
+  {
+    "id": 1112,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The expression ax\\(^2\\) + bx + c equals 5 at x = 1. If its derivative is 2x + 1, what are the values of a, b, and c, respectively?",
+    "options": {
+      "A": "1, 3, 1",
+      "B": "1, 2, 1",
+      "C": "2, 1, 1",
+      "D": "1, 1, 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "At x = 1, substituting x = 1 in the equation: ax2 + bx + c = 5; f(1) => a + b + c = 5 .....(1) Taking the first derivative of f(x) in the original equation gives dy/dx = 2ax + b = 2x + 1 (given)....(2) From (2),=> b = 1, and 2ax = 2x, => a = 1. ( comparing coefficients) substituting into (1) 1 + 1 + c = 5, => c = 5 - 2 = 3 Thus a = 1, b = 1 and c = 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1112",
+    "passage": ""
   }
 ]

@@ -1509,5 +1509,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1460",
     "passage": ""
+  },
+  {
+    "id": 1461,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The gas that will form a white precipitate with acidified silver trioxonitrate (v) is",
+    "options": {
+      "A": "NH 3",
+      "B": "SO 2",
+      "C": "CO 2",
+      "D": "HCL"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1461",
+    "passage": ""
   }
 ]
