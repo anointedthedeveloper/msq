@@ -3269,5 +3269,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73964",
     "passage": ""
+  },
+  {
+    "id": 73965,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Which one is the Igbo staple food?",
+    "options": {
+      "A": "Rice (osikapa})",
+      "B": "Garri (gba)",
+      "C": "Cassava (akpụ)",
+      "D": "Beans (agwa)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cassava, also known as $\\text{akpụ}$ in Igbo, is the staple food of the Igbo people. Cassava is a root crop that is widely cultivated and consumed in Igboland. It is a versatile food that can be prepared in various ways, including boiling, roasting, and processing into flour for making $\\text{fufu}$, a traditional Igbo dish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73965",
+    "passage": ""
   }
 ]
