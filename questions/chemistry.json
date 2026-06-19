@@ -12262,5 +12262,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4491",
     "passage": ""
+  },
+  {
+    "id": 4492,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "To a solution of an unknown compound, a little dilute tetraoxosulphate (VI) acid was added with some freshly prepared iron (II) tetraoxosulphate (VI) solution. The brown ring observed after the addition of a stream of concentrated tetraoxosulphate (VI) acid confirmed the presence of?",
+    "options": {
+      "A": "CO\\(^{2-}_{3}\\)",
+      "B": "Cl -",
+      "C": "SO\\(_{3}^{2-}\\)",
+      "D": "NO\\(^{2-}_{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "NO\\(_{3}^{-}\\) is confirmed, then the brown ring is due to the formation of FESO\\(_4\\).NO\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4492",
+    "passage": ""
   }
 ]
