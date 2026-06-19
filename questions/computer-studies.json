@@ -7799,5 +7799,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62554",
     "passage": ""
+  },
+  {
+    "id": 62555,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The conversion of readable data to unreadable codes in order to prevent unauthorised access is known as?",
+    "options": {
+      "A": "authentication",
+      "B": "encryption",
+      "C": "encoding",
+      "D": "decryption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62555",
+    "passage": ""
   }
 ]
