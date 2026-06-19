@@ -1546,5 +1546,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/972",
     "passage": ""
+  },
+  {
+    "id": 973,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "An example of a horst in Africa is",
+    "options": {
+      "A": "Kilimanjaro",
+      "B": "Ruwenzori",
+      "C": "Cameroon",
+      "D": "Erta Ale"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/973",
+    "passage": ""
   }
 ]
