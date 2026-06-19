@@ -9699,5 +9699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65894",
     "passage": ""
+  },
+  {
+    "id": 65895,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Who among the following is not a foremost Nigerian nationalist?",
+    "options": {
+      "A": "Sir Abubakar Tafawa Balewa",
+      "B": "Dr. Nnamdi Azikwe",
+      "C": "General Yakubu Gowon",
+      "D": "Chief Obafemi Awolowo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All options except General Yakubu Gowon, who was Nigeria's second military head of state, were Nigerian foremost nationalists.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65895",
+    "passage": ""
   }
 ]
