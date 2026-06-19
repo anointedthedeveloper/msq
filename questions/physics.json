@@ -3610,5 +3610,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12008",
     "passage": ""
+  },
+  {
+    "id": 12032,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The energy stored in a capacitor of capacitance 10μF carrying a charge of 100μC",
+    "options": {
+      "A": "5 x 10 4 J",
+      "B": "4 x 10 2 J",
+      "C": "4 x 10 -3 J",
+      "D": "5 x 10 -4 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The energy stored in a given capacitor is given by E = \\(\\frac{1}{2}\\) CV\\(^2\\) = \\(\\frac{1}{2}\\) QV = \\(\\frac{1}{2}\\)\\(\\frac{Q^2}{\\text{C}}\\) Where C = the capacitance of the capacitor Q = charge carried by the capacitor V = p.d across the plates of the capacitor, thus from the data given, C = 10μF = 10 x 10\\(^{-6}\\)F Q = 100μc = 100 x 10\\(^{-6}\\)C ∴ Energy stored = \\(\\frac{1}{2}\\)\\(\\frac{Q^2}{\\text{C}}\\)\n= \\(\\frac{1}{2}\\)\\(\\frac{(100 \\times 10^{-6})^2}{10 \\times 10^{-6}}\\)\n= 0.0005 = 5 x 10\\(^{-4}\\)J",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12032",
+    "passage": ""
   }
 ]
