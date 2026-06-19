@@ -20276,5 +20276,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76693",
     "passage": ""
+  },
+  {
+    "id": 76695,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following devices is not a microcomputer?",
+    "options": {
+      "A": "Notebook",
+      "B": "Laptop",
+      "C": "EDVAC",
+      "D": "Desktop"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "EDVAC (Electronic Discrete Variable Automatic Computer) was one of the earliest electronic computers. It is not a micro computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76695",
+    "passage": ""
   }
 ]
