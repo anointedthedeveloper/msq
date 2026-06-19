@@ -8893,5 +8893,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62689",
     "passage": ""
+  },
+  {
+    "id": 62690,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Data transfer can be initiated through the following media except?",
+    "options": {
+      "A": "coaxial cable.",
+      "B": "fibre cable.",
+      "C": "trunking pipe.",
+      "D": "twisted pair cable."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Coaxial cable, Fiber Optic cable, and Twisted Pair are the three main types of data cable While Trunking pipe refers to an enclosure that protects cables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62690",
+    "passage": ""
   }
 ]
