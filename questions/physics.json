@@ -12633,5 +12633,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16351",
     "passage": ""
+  },
+  {
+    "id": 16352,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The motion of a body is simple harmonic if the",
+    "options": {
+      "A": "Acceleration is always directed towards a fixed point",
+      "B": "path of motion is a striaght line",
+      "C": "Acceleration is directed towards a fixed point and proportional to its distance from the point",
+      "D": "Acceleration is proportional to the square of the distance from a fixed point",
+      "E": "Acceleration is constant and directed towards a fixed point"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16352",
+    "passage": ""
   }
 ]
