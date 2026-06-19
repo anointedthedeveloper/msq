@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64227",
     "passage": ""
+  },
+  {
+    "id": 64231,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The best technique for receiving a service in the game of volleyball is",
+    "options": {
+      "A": "Blocking",
+      "B": "digging",
+      "C": "setting",
+      "D": "spiking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Blocking is the best technique for receiving a service in the game of volley ball.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64231",
+    "passage": ""
   }
 ]
