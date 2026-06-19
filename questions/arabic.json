@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75197",
     "passage": ""
+  },
+  {
+    "id": 75198,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "العبارة \"على قدم وساق\" تعني؟",
+    "options": {
+      "A": "ببطء",
+      "B": "بدون اهتمام",
+      "C": "بسرعة",
+      "D": "بحذر"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The idiom literally means \"with full speed and effort.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75198",
+    "passage": ""
   }
 ]
