@@ -16431,5 +16431,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67843",
     "passage": ""
+  },
+  {
+    "id": 67844,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "In technical feasibility, the priority is ?",
+    "options": {
+      "A": "whether the probolem can be solved in the user's environment",
+      "B": "if the likely benefits outweight the cost of solving the problem",
+      "C": "whether the problem can be solved using existing technology and resources available",
+      "D": "whether the problem can be solved without causing any social issues"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In technical feasibility, the priority is to check whether the problem can be solved using existing technology and resources available.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67844",
+    "passage": ""
   }
 ]
