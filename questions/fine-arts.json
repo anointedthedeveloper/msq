@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75295",
     "passage": ""
+  },
+  {
+    "id": 75299,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which is a craft commonly practised in Northern Nigeria?",
+    "options": {
+      "A": "Glass blowing",
+      "B": "Stone mosaic",
+      "C": "Stained glass",
+      "D": "Leather work"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Kano and Zaria in Northern Nigeria are known for leather artistry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75299",
+    "passage": ""
   }
 ]
