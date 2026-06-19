@@ -5126,5 +5126,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2208",
     "passage": ""
+  },
+  {
+    "id": 2212,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Under a parliamentary system of government,the cabinet holds office at the pleasure of the",
+    "options": {
+      "A": "opposition",
+      "B": "electorate",
+      "C": "head of state",
+      "D": "legislature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2212",
+    "passage": ""
   }
 ]
