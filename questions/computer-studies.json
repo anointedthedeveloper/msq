@@ -17124,5 +17124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69822",
     "passage": ""
+  },
+  {
+    "id": 69823,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A good algorithm must be",
+    "options": {
+      "A": "detailed and verbose.",
+      "B": "sequential and lengthy.",
+      "C": "consistent and continuous.",
+      "D": "concise and finite."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A good algorithm must be \"concise and finite.\" Here's the breakdown of each term: Concise: An algorithm should be clear and easy to understand without unnecessary complexity. A concise algorithm focuses on the essential steps needed to achieve the desired outcome. Finite: An algorithm must have a well-defined endpoint. It should eventually stop executing and provide a result after a finite number of steps. This is important to ensure that the algorithm doesn't run indefinitely, which could lead to inefficiency or errors.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69823",
+    "passage": ""
   }
 ]
