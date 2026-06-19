@@ -3268,5 +3268,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58440",
     "passage": ""
+  },
+  {
+    "id": 58442,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The DBSM statement select* from Marksheet in table Marksheet will display all records in the fields;",
+    "options": {
+      "A": "ID and Name only",
+      "B": "ID, Score and Grade only",
+      "C": "Score and Grade only",
+      "D": "ID, Name, Score and Grade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58442",
+    "passage": ""
   }
 ]
