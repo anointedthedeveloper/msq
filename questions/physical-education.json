@@ -397,5 +397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64163",
     "passage": ""
+  },
+  {
+    "id": 64164,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A physically fit individual enjoys the following except",
+    "options": {
+      "A": "carrying out his normal duty satisfactorily",
+      "B": "easily overcoming minor and major illness",
+      "C": "feeling a sense of wellness",
+      "D": "growing very tall and fat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A physically fit person is not necessarily a tall and fat person.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64164",
+    "passage": ""
   }
 ]
