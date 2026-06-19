@@ -10500,5 +10500,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14350",
     "passage": ""
+  },
+  {
+    "id": 14351,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "If it takes an object 3s to fall freely to the ground from a certain height, what is the distance covered by the object?",
+    "options": {
+      "A": "90 m",
+      "B": "30 m",
+      "C": "45 m",
+      "D": "60 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14351",
+    "passage": ""
   }
 ]
