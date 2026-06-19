@@ -6865,5 +6865,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9228",
     "passage": ""
+  },
+  {
+    "id": 9229,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Factorize 2t\n2\n+ t - 15",
+    "options": {
+      "A": "(2t - 3)(t + 5)",
+      "B": "(t + 3)(2t - 5)",
+      "C": "(t + 3)(t - 5)",
+      "D": "(2t + 3)(t - 5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9229",
+    "passage": ""
   }
 ]
