@@ -570,5 +570,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15829",
     "passage": ""
+  },
+  {
+    "id": 15830,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following describes the steps in making hay?",
+    "options": {
+      "A": "cut-sun-bale",
+      "B": "dry-silage-silo",
+      "C": "soilage-ferment-cut",
+      "D": "cut-graze-paddock",
+      "E": "bale-dry-silage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15830",
+    "passage": ""
   }
 ]
