@@ -16504,5 +16504,26 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23223"
+  },
+  {
+    "id": 23224,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The table above shows the scores of a group of 40 students in a physics test.\nIf the mode is m and the median is n, then (m,n) is",
+    "options": {
+      "A": "(5,5)",
+      "B": "(5,6)",
+      "C": "(6,5)",
+      "D": "(9,4)",
+      "E": "(9,5)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/FXXwvqp73fn9BmeATEwMl80I53CKEHkVi2FcNtuU.jpeg",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23224"
   }
 ]
