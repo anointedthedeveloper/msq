@@ -13994,5 +13994,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5118",
     "passage": ""
+  },
+  {
+    "id": 5120,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap : If you want peace, you .... prepared for war",
+    "options": {
+      "A": "had better",
+      "B": "have better",
+      "C": "had better got",
+      "D": "had better get"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The phrase \"had better\" is a modal expression used to give strong advice or warning , and it is always followed by the base form of a verb (without \"to\" or any tense marking).The correct construction is:\nThis means: It is advisable for you to get prepared for war if you want peace.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5120",
+    "passage": ""
   }
 ]
