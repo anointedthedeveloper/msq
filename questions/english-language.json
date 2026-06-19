@@ -4991,5 +4991,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2096",
     "passage": ""
+  },
+  {
+    "id": 2097,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "The exercise must be done .... possible",
+    "options": {
+      "A": "as quick as",
+      "B": "as quicker as",
+      "C": "as quickly as",
+      "D": "as most quick as",
+      "E": "as most quickly as"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The structure \"as...as\" is used for comparisons of equality, and the word that fits into this structure must follow correct grammatical form.\nIn this sentence:\nWe need an adverb to modify the verb \"done\" , and the correct adverb form of \"quick\" is \"quickly\" .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2097",
+    "passage": ""
   }
 ]
