@@ -7252,5 +7252,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67151",
     "passage": ""
+  },
+  {
+    "id": 67152,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Frequent backup of computer files helps to",
+    "options": {
+      "A": "Archive files",
+      "B": "Protect files",
+      "C": "Modify records in files",
+      "D": "Prevent virus attacks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Frequent backup of computer files helps to Protect the files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67152",
+    "passage": ""
   }
 ]
