@@ -3862,5 +3862,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70719",
     "passage": ""
+  },
+  {
+    "id": 70720,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What safety equipment is essential in the hammer throw event?",
+    "options": {
+      "A": "Gloves",
+      "B": "Protective cage",
+      "C": "Knee pads",
+      "D": "Helmet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A protective cage is essential in the hammer throw to ensure the safety of both athletes and spectators.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70720",
+    "passage": ""
   }
 ]
