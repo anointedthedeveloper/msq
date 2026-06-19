@@ -7810,5 +7810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9273",
     "passage": ""
+  },
+  {
+    "id": 9274,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Solve the quadratic inequalities x\\(^2\\) - 5x + 6 ≥ 0",
+    "options": {
+      "A": "x ≤ 2, x ≥ 3",
+      "B": "x ≤ 3, x ≥ 2",
+      "C": "x ≤ -2, x ≥ -3",
+      "D": "x ≤-3, x ≥ 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\) - 5x + 6 = 0 (X-2)(X-3) = 0 X-2 = 0 implies X = 2 X-3 = 0 implies X = 3 ∴ x ≤ 2, x ≥ 3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9274",
+    "passage": ""
   }
 ]
