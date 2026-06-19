@@ -1540,5 +1540,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48185",
     "passage": ""
+  },
+  {
+    "id": 48186,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Ma maison se trove ...du port",
+    "options": {
+      "A": "sous",
+      "B": "sur",
+      "C": "à côté",
+      "D": "à moins"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48186",
+    "passage": ""
   }
 ]
