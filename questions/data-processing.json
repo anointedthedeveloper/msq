@@ -2911,5 +2911,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58403",
     "passage": ""
+  },
+  {
+    "id": 58405,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Magnetic Ink Charcter Recognition is applied on",
+    "options": {
+      "A": "voice recognition devices",
+      "B": "mobile devices",
+      "C": "large data capturing machines",
+      "D": "bank cheques"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Magnetic ink character recognition (MICR) is a technology used primarily to identify and process checks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58405",
+    "passage": ""
   }
 ]
