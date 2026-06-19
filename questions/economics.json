@@ -394,5 +394,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/198",
     "passage": ""
+  },
+  {
+    "id": 199,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The Lagos clearing house is",
+    "options": {
+      "A": "a commodity market",
+      "B": "an import licensing centre",
+      "C": "another name for the Lagos stock exchange",
+      "D": "an insurance and underwriting centre",
+      "E": "a cheque sorting centre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/199",
+    "passage": ""
   }
 ]
