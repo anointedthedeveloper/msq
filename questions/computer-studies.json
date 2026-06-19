@@ -6711,5 +6711,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62499",
     "passage": ""
+  },
+  {
+    "id": 62500,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "To hibernate windows operating system means?",
+    "options": {
+      "A": "re-start the computer in safe mode",
+      "B": "restart the computer in hibernate mode",
+      "C": "shut down the computer and terminate all the running applications",
+      "D": "shut down the computer without closing all the running applications"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A power-off mode that preserves the last state of the computer. Turning the computer on after hibernating eliminates booting the operating system and reloading all the applications and data. When hibernate is activated, the contents of memory (RAM) are written to storage and the computer is turned off. When turned back on again, the previous memory state is read from storage, and all applications appear exactly as they did the moment hibernate was triggered.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62500",
+    "passage": ""
   }
 ]
