@@ -2077,5 +2077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9065",
     "passage": ""
+  },
+  {
+    "id": 9066,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "I. Low pressure. II. High pressure. III. High p.d. IV. Low p.d. Which combination of the above is true of the conduction of electricity through gases?",
+    "options": {
+      "A": "I and IV only",
+      "B": "I and III only",
+      "C": "II and IV only",
+      "D": "II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Electricity conduction through gases is usually done under low pressure (I) and high voltage (III). Thus OPTION B is correct.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9066",
+    "passage": ""
   }
 ]
