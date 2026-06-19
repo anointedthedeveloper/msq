@@ -2105,5 +2105,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48212",
     "passage": ""
+  },
+  {
+    "id": 71059,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Jevais à Lagos _____ les vacances.",
+    "options": {
+      "A": "pendant",
+      "B": "Par",
+      "C": "'contre",
+      "D": "depuis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is pendant The correct sentence would be: \"Je vais à Lagos pendant les vacances.\" Which translates to \"I am going to Lagos during the holidays.\" \"Pendant\" is a preposition that indicates an action that occurs during a specific period of time, in this case, the holidays. Note: The other options don't fit the context: \"Contre\" would indicate opposition or against \"Depuis\" would indicate a starting point or since \"Par\" would indicate a means or agent \"Sous\" would indicate a location under something.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71059",
+    "passage": ""
   }
 ]
