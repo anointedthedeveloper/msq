@@ -5273,5 +5273,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2318",
     "passage": ""
+  },
+  {
+    "id": 2319,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The chairman of the UN Security Council emerges through",
+    "options": {
+      "A": "consensus",
+      "B": "rotation",
+      "C": "election",
+      "D": "selection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The chairmanship (presidency) of the United Nations Security Council (UNSC) rotates monthly among its 15 member states in alphabetical order based on their English names.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2319",
+    "passage": ""
   }
 ]
