@@ -14416,5 +14416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22935",
     "passage": ""
+  },
+  {
+    "id": 22936,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "A box contains 2 white and 3 blue identical marbles. If two marbles are picked at random, one after the other without replacement, what is the probability of picking two marbles of different colors?",
+    "options": {
+      "A": "2/3",
+      "B": "3/5",
+      "C": "2/5",
+      "D": "7/20",
+      "E": "3/10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Total number of marbles = 5; 1st pick = 2/5 2nd pick = 3/4; 3rd pick = 3/5; 4th pick = 2/4 ∴ Probability of picking two marbles of different colors = (2/5 x 3/4) + (3/5 + 2/4) = 12/20 = 3/5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22936",
+    "passage": ""
   }
 ]
