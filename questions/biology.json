@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/306",
     "passage": ""
+  },
+  {
+    "id": 308,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "the function of lenticels is",
+    "options": {
+      "A": "to remove excess water in plant",
+      "B": "to absorb water from the atmosphere",
+      "C": "for gaseous exchange",
+      "D": "to absorb light",
+      "E": "to store food"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A lenticel is one of many raised pores in the stem of a woody plant that allows gas exchange between the atmosphere and the internal tissues.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/308",
+    "passage": ""
   }
 ]
