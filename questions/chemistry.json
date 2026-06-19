@@ -13081,5 +13081,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4780",
     "passage": ""
+  },
+  {
+    "id": 4781,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The function of zinc electrode in a galvanic cells is that it",
+    "options": {
+      "A": "undergoes reduction",
+      "B": "serves as the positive electrode",
+      "C": "production of electons",
+      "D": "uses up electrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If an external electrical conductor connects the copper and zinc electrodes, zinc from the zinc electrode dissolves into the solution as Zn2+ ions (oxidation), releasing electrons that enter the external conductor.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4781",
+    "passage": ""
   }
 ]
