@@ -20297,5 +20297,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76695",
     "passage": ""
+  },
+  {
+    "id": 76752,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following computing devices did not exist in the pre-computing age to the 19th century?",
+    "options": {
+      "A": "Napiers bone",
+      "B": "Abacus",
+      "C": "ENIAC",
+      "D": "Slide Rule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "ENIAC (Electronic Numerical Integrator and Computer) is considered to be the first operational digital computer in USA, developed by Army ordinance to compute World War II ballistic firing tables.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76752",
+    "passage": ""
   }
 ]
