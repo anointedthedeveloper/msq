@@ -4891,5 +4891,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12786",
     "passage": ""
+  },
+  {
+    "id": 12787,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A radioisotope has a decay constant of 10\\(^{-7}\\)s\\(^{-1}\\). The average life of the radioisotope is",
+    "options": {
+      "A": "1.00 x 10 7 s",
+      "B": "6.93 x 10 6 s",
+      "C": "1.00 x 10 -7 s",
+      "D": "6.93 x 10 7 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Average life = \\(\\frac{1}{\\text{decay constant}}\\)\nAverage life = \\(\\frac{1}{1.0 \\times 10^{-7}}\\) = 1. 0 x 10\\(^{-7}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12787",
+    "passage": ""
   }
 ]
