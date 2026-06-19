@@ -6268,5 +6268,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2600",
     "passage": ""
+  },
+  {
+    "id": 2602,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following types of vertebrae occur in equal numbers in the rabbit, rat and man?",
+    "options": {
+      "A": "Caudal",
+      "B": "Thoracic",
+      "C": "Lumber",
+      "D": "Cervical",
+      "E": "Sacral"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2602",
+    "passage": ""
   }
 ]
