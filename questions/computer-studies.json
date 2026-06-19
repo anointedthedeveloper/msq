@@ -16704,5 +16704,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67856",
     "passage": ""
+  },
+  {
+    "id": 67857,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The computer that combines the functions of both analog and digital computers is called ?",
+    "options": {
+      "A": "Digital computer",
+      "B": "Analog computer",
+      "C": "Hybrid computer",
+      "D": "multipurpose computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A hybrid computer is a type of computer that combines the characteristics of both digital and analog computers. It is designed to offer the speed of analog equipment and the accuracy and memory of digital equipment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67857",
+    "passage": ""
   }
 ]
