@@ -2602,5 +2602,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75394",
     "passage": ""
+  },
+  {
+    "id": 75396,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What are the three primary colours?",
+    "options": {
+      "A": "Red, Yellow, Blue",
+      "B": "Red, White, Black",
+      "C": "Orange, Green, Violet",
+      "D": "Red, Green, Blue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the RYB color model , used in traditional art, Red, Yellow, and Blue are the primary colors. They can’t be made by mixing other colors, but can be combined to create all other colors on the wheel.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75396",
+    "passage": ""
   }
 ]
