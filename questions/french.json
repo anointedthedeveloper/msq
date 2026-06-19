@@ -4225,5 +4225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75410",
     "passage": ""
+  },
+  {
+    "id": 75411,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Quelle est la lecture normale de cette expression ? \"Un à un\"",
+    "options": {
+      "A": "Un/á/lun",
+      "B": "Un/a un",
+      "C": "Un à l'un",
+      "D": "Un ã un"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Un à un\" uses liaison making it sound like \"un à l'un\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75411",
+    "passage": ""
   }
 ]
