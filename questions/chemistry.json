@@ -13806,5 +13806,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12782",
     "passage": ""
+  },
+  {
+    "id": 12794,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "On heating, under suitable conditions, 1 litres of monoatomic gas,X, combines with 1½ litres of an oxide, What is the formula of the oxide?",
+    "options": {
+      "A": "XO 3",
+      "B": "X 2 O 3",
+      "C": "X 3 O 2",
+      "D": "XO 2",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To determine the formula of the oxide, let's analyze the given information:\nStoichiometrically, 2 X   +  3/2 O\\(_2\\)  →  Oxide\nGiven :\n1. 1 litre of monoatomic gas X combines with 1.5 litres of an oxide.\n2. The reaction is a combination reaction, where X reacts with oxygen to form an oxide.\nIf the atom of the elements are                 X                     and                O\\(_2\\)\nReacted volumes were given as             1dm\\(^3\\)                              1.5dm\\(^3\\)\nStoichiometrically, moles of molecules   2 moles                                3 moles\nX(monoatomic) and oxygen(diatomic)    2 x 1                                 3 x 2 = 6 (3 moles of O\\(_2\\) = 6 oxygen atoms)\nDivide ratios by 2                                    \\(\\frac{2}{2}\\)                           \\(\\frac{6}{2}\\)\nThe formula ratio :                                     1                       :                   3\nTherefore, the formula of the oxide is XO\\(_3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12794",
+    "passage": ""
   }
 ]
