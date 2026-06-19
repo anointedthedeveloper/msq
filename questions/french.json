@@ -4036,5 +4036,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75277",
     "passage": ""
+  },
+  {
+    "id": 75281,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Je regrette _ mon action.",
+    "options": {
+      "A": "brûlante",
+      "B": "curieusement",
+      "C": "vivement",
+      "D": "dure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Vivement\" is the most appropriate adverb in the this sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75281",
+    "passage": ""
   }
 ]
