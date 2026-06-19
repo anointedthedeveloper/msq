@@ -3084,5 +3084,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50480",
     "passage": ""
+  },
+  {
+    "id": 50484,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Find the coordinates of the point which divides the line joining P(-2, 3) and Q(4, 6) internally in the ratio 2 : 3.",
+    "options": {
+      "A": "\\((5\\frac{2}{5}, \\frac{2}{5})\\)",
+      "B": "\\((\\frac{2}{5}, 5\\frac{2}{5})\\)",
+      "C": "\\((\\frac{-2}{5}, 5\\frac{2}{5})\\)",
+      "D": "\\((\\frac{2}{5}, 4\\frac{1}{5})\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50484",
+    "passage": ""
   }
 ]
