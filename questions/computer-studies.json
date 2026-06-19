@@ -20801,5 +20801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76874",
     "passage": ""
+  },
+  {
+    "id": 76876,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A modem and a telephone connection are provided. Other things needed to be able to connect a computer to the internet are",
+    "options": {
+      "A": "ISP account and utility software",
+      "B": "browser and printer",
+      "C": "browser and ISP account",
+      "D": "ISP account and network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To connect a computer to the internet, you need an Internet Service Provider (ISP) account, which provides you with access to the internet, and a browser, which is a software application used to locate, retrieve and display content on the World Wide Web, including Web pages, images, video and other files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76876",
+    "passage": ""
   }
 ]
