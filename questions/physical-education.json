@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64195",
     "passage": ""
+  },
+  {
+    "id": 64197,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The end product of fat digestion is",
+    "options": {
+      "A": "amino acid",
+      "B": "fatty acid",
+      "C": "glucose",
+      "D": "glycogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The end product of fat digestion is fatty acid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64197",
+    "passage": ""
   }
 ]
