@@ -16599,5 +16599,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67851",
     "passage": ""
+  },
+  {
+    "id": 67852,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "___ is the type of computer that is designed to operate on two states, 0 and 1.",
+    "options": {
+      "A": "Analog computer",
+      "B": "Hybrid computer",
+      "C": "Digital computer",
+      "D": "micro computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A digital computer is a type of computer that operates on digital data, which is represented in binary form (0 and 1). These computers perform calculations using binary digits and can process both numerical and non-numerical data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67852",
+    "passage": ""
   }
 ]
