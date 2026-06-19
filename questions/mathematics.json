@@ -6613,5 +6613,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9150",
     "passage": ""
+  },
+  {
+    "id": 9152,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The table above shows the number of pupils in each age group in a class. What is the probability that a pupil chosen at random is at least 11 years old?",
+    "options": {
+      "A": "27 / 40",
+      "B": "17 / 20",
+      "C": "3 / 30",
+      "D": "33 / 40"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9492635943_math20076.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868638/myschool/mathematics/9492635943_math20076.jpg",
+    "correct_answer": "B",
+    "explanation": "P(At least 11 yrs) = P(11yrs) + P(12yrs) = \\(\\frac{27}{40}\\) + \\(\\frac{7}{40}\\) = \\(\\frac{34}{40}\\) = \\(\\frac{17}{20}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9152",
+    "passage": ""
   }
 ]
