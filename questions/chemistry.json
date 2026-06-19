@@ -10330,5 +10330,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4068",
     "passage": ""
+  },
+  {
+    "id": 4069,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Leads is used for making bullets and lead shots because of its",
+    "options": {
+      "A": "resistance to corrosion",
+      "B": "low melting point",
+      "C": "high density",
+      "D": "flexibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Lead is used for making bullets and lead shots because of its high density.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4069",
+    "passage": ""
   }
 ]
