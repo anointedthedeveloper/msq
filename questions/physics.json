@@ -15207,5 +15207,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24121",
     "passage": ""
+  },
+  {
+    "id": 24148,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A charge of 1.0 x 10\n-5\nCoulombs experience force of 40N at a certain point in space. What is the electric field intensity?",
+    "options": {
+      "A": "8.00 x 10 6 NC -1",
+      "B": "4.00 x 10 6 NC -1",
+      "C": "4.00 x 10 -4 NC -1",
+      "D": "2.00 x 10 -4 NC -1",
+      "E": "2.50 x 10 -1 NC -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "-5\n6",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24148",
+    "passage": ""
   }
 ]
