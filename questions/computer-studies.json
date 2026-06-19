@@ -15507,5 +15507,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67774",
     "passage": ""
+  },
+  {
+    "id": 67775,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The first step in a CPU instruction cycle is",
+    "options": {
+      "A": "Decode",
+      "B": "Get",
+      "C": "Fetch",
+      "D": "Execute"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fetch is the first step of CPU instruction cycle also called fetch-and-execute cycle, fetch-decode-execute cycle, or FDX.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67775",
+    "passage": ""
   }
 ]
