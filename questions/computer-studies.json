@@ -7317,5 +7317,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62531",
     "passage": ""
+  },
+  {
+    "id": 62532,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "An icon, a graphic or a text in a document or a webpage that connects to another file or object is called a?",
+    "options": {
+      "A": "hyperlink",
+      "B": "domain name",
+      "C": "web browser",
+      "D": "web server"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62532",
+    "passage": ""
   }
 ]
