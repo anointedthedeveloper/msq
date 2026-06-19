@@ -10352,5 +10352,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14342",
     "passage": ""
+  },
+  {
+    "id": 14343,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In alternating current circuit at resonance, the angle of lead or lag is?",
+    "options": {
+      "A": "π°",
+      "B": "(π)/2°",
+      "C": "(π)/3°",
+      "D": "0°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Resonance occurs whenever the phase angle of the circuit is zero , The only way that f = 0 is if XL = XC\nNote that tanϕ = \\(\\frac{ X }{ R}\\) where X = reactance and ϕ = angle of lead or lag.\ntherefore, tan ϕ = \\(\\frac{ X_L - X_C}{ R}\\) but at resonance  \\(X_L = X_C\\)\ntan ϕ = \\(\\frac{0}{R}\\) = 0 and ϕ = \\(tan^{-1}\\) = 0º\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14343",
+    "passage": ""
   }
 ]
