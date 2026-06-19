@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49684",
     "passage": ""
+  },
+  {
+    "id": 49686,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The winding up of an insurance is legally required to be based on a petition written from not less than",
+    "options": {
+      "A": "30 policy holders",
+      "B": "40 policy holders",
+      "C": "50 policy holder",
+      "D": "60policy holders"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Insurance Act 2003 provides for the liquidation of insurers on the petition of either 50 policyholders or the National Insurance Commission. Section 33 of the act prohibits the voluntary winding up of insurance businesses, except for the purpose of effecting an amalgamation, transfer or acquisition.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49686",
+    "passage": ""
   }
 ]
