@@ -1909,5 +1909,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7280",
     "passage": ""
+  },
+  {
+    "id": 7286,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A student is at a height 4m above the ground during a thunderstorm. Given that the potential difference between the thundercloud and the ground is 10\\(^7\\)V, the electric field created by the storm is",
+    "options": {
+      "A": "2.0 x 10\\(^6\\) NC\\(^{-1}\\)",
+      "B": "2.5 x 10\\(^6\\) NC\\(^{-1}\\)",
+      "C": "1.0 x 10\\(^7\\) NC\\(^{-1}\\)",
+      "D": "4.0 x 10\\(^7\\) NC\\(^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "E = \\(\\frac{V}{d}\\)\nE is the electric field (in volts per meter, V/m), V is the potential difference (in volts, V), d is the distance between the two points (in meters, m) Given:  Potential difference V = 10\\(^7\\) Height d = 4m\nThat is,   E = \\(\\frac{10^7}{4} = 2.5\\times 10^6 NC^{-1}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7286",
+    "passage": ""
   }
 ]
