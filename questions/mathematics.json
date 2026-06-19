@@ -5269,5 +5269,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8478",
     "passage": ""
+  },
+  {
+    "id": 8483,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the derivative of y = sin(2x\\(^3\\) + 3x - 4)",
+    "options": {
+      "A": "cos (2x 3 + 3x - 4)",
+      "B": "-cos (2x 3 + 3x - 4)",
+      "C": "(6x 2 + 3) cos (2x 3 + 3x - 4)",
+      "D": "-(6x 2 + 3) cos (2x 3 + 3x - 4)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "y = sin (2x\\(^3\\) + 3x - 4) let u = 2x\\(^3\\) + 3x - 4 ∴du/dx = 6x\\(^2\\) y = sin u dy/du = cos u dy/dx = du/dx * dy/du ∴dy/dx = (6x\\(^2\\) + 3) cos u = (6x\\(^2\\) + 3)cos(2x\\(^3\\) + 3x - 4)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8483",
+    "passage": ""
   }
 ]
