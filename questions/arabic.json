@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75255",
     "passage": ""
+  },
+  {
+    "id": 75258,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما الكلمة التي تُعدّ ظرف زمان؟",
+    "options": {
+      "A": "تحت",
+      "B": "اليوم",
+      "C": "أمام",
+      "D": "کتاب"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ". indicates time, so it is a temporal adverb \"اليوم\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75258",
+    "passage": ""
   }
 ]
