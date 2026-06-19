@@ -2055,5 +2055,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73699",
     "passage": ""
+  },
+  {
+    "id": 73700,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Human Rights Watch\nFassarar wannnan ita ce ________ 'Dan' Adam.",
+    "options": {
+      "A": "lokacin",
+      "B": "tarbiyyar",
+      "C": "hakkin",
+      "D": "tanhin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is hakkin because Human Rights Watch is translated as Kungiyar kula da hakkin 'Dan' Adam in Hausa.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73700",
+    "passage": ""
   }
 ]
