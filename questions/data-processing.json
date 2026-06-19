@@ -9881,5 +9881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77097",
     "passage": ""
+  },
+  {
+    "id": 77098,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The execution of an instruction by a processor is in three distinct phases. They are",
+    "options": {
+      "A": "fetch, decode, execute",
+      "B": "input, output, process",
+      "C": "start, stop, process",
+      "D": "call, respond, store"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There are six fundamental phases of the instruction cycle: fetch instruction (aka pre-fetch) decode instruction. Evaluate address (address generation)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77098",
+    "passage": ""
   }
 ]
