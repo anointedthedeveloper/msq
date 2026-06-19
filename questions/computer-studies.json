@@ -18180,5 +18180,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70801",
     "passage": ""
+  },
+  {
+    "id": 70802,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Why is it important to be stable, steady, and patient during program development?",
+    "options": {
+      "A": "To avoid using debugging tools",
+      "B": "To reduce the likelihood of making errors",
+      "C": "To ensure the program is written quickly",
+      "D": "To make the program more complex"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Being stable, steady, and patient helps in reducing errors and ensuring the quality of the program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70802",
+    "passage": ""
   }
 ]
