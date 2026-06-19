@@ -6920,5 +6920,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75940",
     "passage": ""
+  },
+  {
+    "id": 75949,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "A jimla \"Mu tafi gida\", wace kalma ce take nuna mai aiwatar da aiki?",
+    "options": {
+      "A": "Tafi",
+      "B": "Ba wata",
+      "C": "Mu",
+      "D": "Gida"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mu is the subject pronoun meaning \"we\" - it shows who is performing the action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75949",
+    "passage": ""
   }
 ]
