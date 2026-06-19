@@ -2572,5 +2572,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1235",
     "passage": ""
+  },
+  {
+    "id": 1236,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "An organism X lives entirely on the waste products in another organism Y. In this association X is a",
+    "options": {
+      "A": "symbiont",
+      "B": "commensal",
+      "C": "saprophyte",
+      "D": "parasite",
+      "E": "epiphyte"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A commensal is an organism that benefits from a relationship with another organism, where the other organism is neither harmed nor benefited. This type of symbiotic relationship is called commensalism. This scenario shows that the organism X is not causing any harm on the other organism although it is benefiting from it, as it's feeding on the waste that is not useful to the other organism. That kind of relationship is commensalism and the organism X is commensal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1236",
+    "passage": ""
   }
 ]
