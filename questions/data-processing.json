@@ -3520,5 +3520,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58455",
     "passage": ""
+  },
+  {
+    "id": 58456,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In the model; Furniture (Table, Chair, Wardrobe) Furniture is...",
+    "options": {
+      "A": "a relation",
+      "B": "a schema",
+      "C": "a tuple",
+      "D": "an attribute"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58456",
+    "passage": ""
   }
 ]
