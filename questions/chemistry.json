@@ -1425,5 +1425,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1402",
     "passage": ""
+  },
+  {
+    "id": 1416,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "X + Y → Z. The rate equation for the chemical reaction above is \\(\\frac{-Δx}{Δt}\\) = K[X]\\(^2\\)[Y]. The overall order of the reaction is?",
+    "options": {
+      "A": "0.0",
+      "B": "1.0",
+      "C": "2.0",
+      "D": "3.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The overall order of a reaction is the sum of the exponents in the rate law.\nThe rate equation is  \\(\\frac{-Δx}{Δt}\\) = K[X]\\(^2\\)[Y].\nThe exponent for [X] = 2\nThe exponent for [Y] = 1\nThe overall order is the sum of the exponents = 2 + 1 = 3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1416",
+    "passage": ""
   }
 ]
