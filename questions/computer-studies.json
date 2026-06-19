@@ -12544,5 +12544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64342",
     "passage": ""
+  },
+  {
+    "id": 64343,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The super computers are mainly used for",
+    "options": {
+      "A": "Data retrieval operations",
+      "B": "Input-output intensive processing",
+      "C": "Manipulation of records",
+      "D": "Mathematical intensive scientific applications"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Supercomputer is a computer with a high level of performance compared to a general-purpose computer. Performance of a supercomputer is measured in floating-point operations per second (FLOPS) instead of million instructions per second (MIPS).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64343",
+    "passage": ""
   }
 ]
