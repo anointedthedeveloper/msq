@@ -3518,5 +3518,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61859",
     "passage": ""
+  },
+  {
+    "id": 61860,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The editing features in Microsoft Word include the following, except?",
+    "options": {
+      "A": "animation",
+      "B": "format painter",
+      "C": "go to",
+      "D": "thesaurus",
+      "E": "word count"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61860",
+    "passage": ""
   }
 ]
