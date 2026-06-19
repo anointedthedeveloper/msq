@@ -18537,5 +18537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70978",
     "passage": ""
+  },
+  {
+    "id": 70989,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What type of ICT is used for immersive gaming solutions?",
+    "options": {
+      "A": "Portable Entertainment Device (PED)",
+      "B": "Virtual Reality (VR) Headset",
+      "C": "360 degree Panoramic Viewer",
+      "D": "Augmented Reality (AR) Visor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Virtual Reality (VR) headsets are specifically designed for immersive gaming and simulations, providing users with a virtual environment that they can interact with in a realistic and engaging manner. Augmented Reality (AR) visors overlay digital information onto the real world, while PEDs and 3600 panoramic viewers typically do not offer the same level of immersive experience as VR headsets.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70989",
+    "passage": ""
   }
 ]
