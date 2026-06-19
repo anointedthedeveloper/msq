@@ -6270,5 +6270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62460",
     "passage": ""
+  },
+  {
+    "id": 62461,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "In a star network, each node must?",
+    "options": {
+      "A": "be connected directly to adjacent node",
+      "B": "be connected directly to a central network hub",
+      "C": "be connected directly to a common backbone cable",
+      "D": "possess a token before it can transmit signal to adjacent node"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a star network, each node (computer, printer, or other device) is connected directly to a central network hub. The central hub manages and controls all functions of the network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62461",
+    "passage": ""
   }
 ]
