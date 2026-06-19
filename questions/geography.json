@@ -1588,5 +1588,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/974",
     "passage": ""
+  },
+  {
+    "id": 975,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The two dams found in the Upper and Lower Nile respectively are",
+    "options": {
+      "A": "Sennar and Jebbel Aulia",
+      "B": "Gezira and Sennar",
+      "C": "Aswan and Jebel Aulia",
+      "D": "Sennar and Aswan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/975",
+    "passage": ""
   }
 ]
