@@ -3147,5 +3147,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50494",
     "passage": ""
+  },
+  {
+    "id": 50495,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(y = 4 - 9x\\) and \\(\\Delta x = 0.1\\), calculate \\(\\Delta y\\).",
+    "options": {
+      "A": "9.0",
+      "B": "0.9",
+      "C": "-0.3",
+      "D": "-0.9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(y = 4 - 9x\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = \\frac{\\Delta y}{\\Delta x} = -9\\)\n\\(\\frac{\\Delta y}{0.1} = -9 \\implies \\Delta y = -9 \\times 0.1 = -0.9\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50495",
+    "passage": ""
   }
 ]
