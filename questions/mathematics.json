@@ -2434,5 +2434,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3345",
     "passage": ""
+  },
+  {
+    "id": 3351,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The time taken to do a piece of work is inversely proportional to the number of men employed. if it takes 45 men to do a piece of work in 5 days, how long will it take 25 men?",
+    "options": {
+      "A": "15 days",
+      "B": "12 days",
+      "C": "5 days",
+      "D": "9 days"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The time (t) to do the work is inversely proportional to the number of workers (n).\n\\(\\implies t \\propto \\frac{1}{n}\\)\n\\(t = \\frac{k}{n}\\)\n\\(5 = \\frac{k}{45} \\implies k = 45 \\times 5 = 225\\)\n\\(\\therefore t = \\frac{225}{n}\\)\nFor 25 men, \\(t = \\frac{225}{25} = 9\\)\n\\(\\therefore\\) 25 men will do the work in 9 days.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3351",
+    "passage": ""
   }
 ]
