@@ -17009,5 +17009,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24996",
     "passage": ""
+  },
+  {
+    "id": 24997,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A body of mass M1 moving with a velocity U collides with a stationary body of mass M2 and both move with a common velocity V lf linear momentum is conserved, which of the following expressions correctly represents V?",
+    "options": {
+      "A": "M 1 U / M 1 + M 2",
+      "B": "M 2 U / M 1 + M 2",
+      "C": "M 1 + M 2 / M 1 U",
+      "D": "M 1 - M 2 / M 1 U",
+      "E": "M 1 U / M 1 - M 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "V = M 1 U / M 1 + M 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24997",
+    "passage": ""
   }
 ]
