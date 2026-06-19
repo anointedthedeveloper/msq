@@ -5395,5 +5395,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8533",
     "passage": ""
+  },
+  {
+    "id": 8535,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The grades of 36 students in a test are shown in the pie chart above. How many students had excellent?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "12"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/xEzCJjORVQj78XHSa7YNV8V9etgHd3M7iXIJFY7p.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868520/myschool/mathematics/xEzCJjORVQj78XHSa7YNV8V9etgHd3M7iXIJFY7p.png",
+    "correct_answer": "A",
+    "explanation": "Angle of Excellence = 360 - (120+80+90) = 360 - 290 = 70o If 360o represents 36 students 1º will represent \\(\\frac{36}{360}\\) 50° will represent \\(\\frac{36}{360}\\) * \\(\\frac{70}{1}\\) = 7\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8535",
+    "passage": ""
   }
 ]
