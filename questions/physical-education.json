@@ -3316,5 +3316,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68310",
     "passage": ""
+  },
+  {
+    "id": 68311,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Herbert Macaulay is considered as the founder of Nigerian Nationalism. He was a Nigerian nationalist, politician, engineer, architect, journalist, and musician and is considered by many Nigerians as the founder of Nigerian nationalism.",
+    "options": {
+      "A": "Aguyi Ironsi",
+      "B": "Ahmadu Bello",
+      "C": "Herbert Macaulay",
+      "D": "Tafawa Balewa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Herbert Macaulay is considered as the founder of Nigerian Nationalism. He was a Nigerian nationalist, politician, engineer, architect, journalist, and musician and is considered by many Nigerians as the founder of Nigerian nationalism.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68311",
+    "passage": ""
   }
 ]
