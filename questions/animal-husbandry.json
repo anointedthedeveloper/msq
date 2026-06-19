@@ -5310,5 +5310,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/61436",
     "passage": ""
+  },
+  {
+    "id": 61437,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The true stomach in ruminants is the",
+    "options": {
+      "A": "rumen",
+      "B": "reticulum",
+      "C": "omasum",
+      "D": "abomasum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The abomasum is considered the true stomach of ruminants, where the digestion of proteins occurs, and it functions similarly to the stomach in non-ruminant animals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/61437",
+    "passage": ""
   }
 ]
