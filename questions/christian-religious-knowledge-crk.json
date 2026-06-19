@@ -2746,5 +2746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1167",
     "passage": ""
+  },
+  {
+    "id": 1168,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the Gospels relates the death of Judas?",
+    "options": {
+      "A": "Mark",
+      "B": "Matthew",
+      "C": "Luke",
+      "D": "Mark and Matthew",
+      "E": "Matthew and Luke"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1168",
+    "passage": ""
   }
 ]
