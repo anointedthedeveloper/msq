@@ -14028,5 +14028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7386",
     "passage": ""
+  },
+  {
+    "id": 7387,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A cheque which a bank draws on its own funds is a?",
+    "options": {
+      "A": "bankdraft",
+      "B": "cashier's cheque",
+      "C": "bank cheque",
+      "D": "crossed cheque"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A cashier's cheque is a cheque written by a financial institution on its own funds, signed by a cashier, teller, or a representative, and paid to a third party.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7387",
+    "passage": ""
   }
 ]
