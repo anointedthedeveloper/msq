@@ -2182,5 +2182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75369",
     "passage": ""
+  },
+  {
+    "id": 75370,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which art principle is applied to make certain parts stand out in a composition?",
+    "options": {
+      "A": "Rhythm",
+      "B": "Emphasis",
+      "C": "Balance",
+      "D": "Unity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Emphasis (also linked to creating a focal point) is the principle used to highlight or make specific areas dominant through contrast, isolation, or other techniques, so they stand out from the rest.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75370",
+    "passage": ""
   }
 ]
