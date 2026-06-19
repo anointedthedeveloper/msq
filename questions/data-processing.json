@@ -5373,5 +5373,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59004",
     "passage": ""
+  },
+  {
+    "id": 59008,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The parts of the object in Figure 7above labeled II are called",
+    "options": {
+      "A": "attribute",
+      "B": "entities",
+      "C": "models",
+      "D": "relations"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/NnABCEGHbcF1SleANfITcYw4UUQoiXV7moXUyaJq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911480/myschool/data-processing/NnABCEGHbcF1SleANfITcYw4UUQoiXV7moXUyaJq.jpg",
+    "correct_answer": "A",
+    "explanation": "The part labeled in the diagram above is called Attribute.\nAttribute: An attribute is a characteristic of an entity type. Some attributes of common entity types include the following:\nSTUDENT = {Student ID, Name, Address, Phone, Email, DOB}\nACCOUNT = {Account Number, Account Type, Date Opened, Balance} etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59008",
+    "passage": ""
   }
 ]
