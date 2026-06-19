@@ -2203,5 +2203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9171",
     "passage": ""
+  },
+  {
+    "id": 9190,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The force on a current carrying conductor in a magnetic field is greatest when the",
+    "options": {
+      "A": "conductor makes an angle of 60° with the field",
+      "B": "force is independent of the angles between the fields and the conductor",
+      "C": "conductor is parallel with the field",
+      "D": "conductor is at right angle with the field"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The force on a current carrying conductor in a magnetic field is greatest when the conductor lies perpendicular in the magnetic field\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9190",
+    "passage": ""
   }
 ]
