@@ -7831,5 +7831,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3277",
     "passage": ""
+  },
+  {
+    "id": 3278,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The efficiency of a solid catalyst to increase reaction rates depends on its",
+    "options": {
+      "A": "surface area",
+      "B": "solubility",
+      "C": "concentration",
+      "D": "quantity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Surface area refers to the total area of the exposed surface of a substance involved in a chemical reaction, essentially the amount of space where reactants can come into contact with each other, which significantly impacts the rate of a reaction; a larger surface area generally leads to a faster reaction rate because more reactant particles can collide and interact with each other.\nThe efficiency of a solid catalyst to increase reaction rates depends on its surface area because a larger surface area provides more active sites for reactants to attach. This increases the rate of chemical reactions by facilitating more frequent collisions between reactant molecules and the catalyst.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3278",
+    "passage": ""
   }
 ]
