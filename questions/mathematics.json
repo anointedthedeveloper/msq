@@ -5101,5 +5101,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8424",
     "passage": ""
+  },
+  {
+    "id": 8425,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In the diagram above, O is the center of the circle, ∠UOT = 70º and ∠RST = 100º. Calculate ∠RUO.",
+    "options": {
+      "A": "20 o",
+      "B": "25 o",
+      "C": "50 o",
+      "D": "80 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6VLbBX6ODfBPusy0PLg73pHvjioI2hkf0ckD4Exl.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868492/myschool/mathematics/6VLbBX6ODfBPusy0PLg73pHvjioI2hkf0ckD4Exl.jpg",
+    "correct_answer": "B",
+    "explanation": "∠OUT = ∠OTU = a (Base ∠s of 180 Δ) ∴ a + a + 70 = 180o (sum of ∠s of a Δ) 2a = 180o - 70o 2a = 110o a = 55o But ∠RUT + ∠RBT = 180o (opposite ∠s of a Cyclic quad) ∴ x + a = 100 = 180 x + 55 + 100 = 180 x = 180 - 155 x = 25 so ∠RUO = x = 25o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8425",
+    "passage": ""
   }
 ]
