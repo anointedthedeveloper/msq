@@ -12229,5 +12229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64327",
     "passage": ""
+  },
+  {
+    "id": 64328,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Hexadecimal numbers are a mixture of",
+    "options": {
+      "A": "Octal and decimal numbers",
+      "B": "Binary and octal numbers",
+      "C": "Letters and decimal digits",
+      "D": "Binary and decimal numbers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The hexadecimal number system is described as a 16 digit number representation of numbers from 0 - 9 (decimal digits) and digits from A - F (letters).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64328",
+    "passage": ""
   }
 ]
