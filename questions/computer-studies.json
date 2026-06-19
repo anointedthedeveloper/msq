@@ -12376,5 +12376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64334",
     "passage": ""
+  },
+  {
+    "id": 64335,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Typically, an ATM is used for",
+    "options": {
+      "A": "record keeping",
+      "B": "budget making",
+      "C": "watching movies",
+      "D": "withdrawing cash"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An Automated Teller Machine, better known as an ATM, is a specialized computer that makes it convenient for bank account holders to manage their money. It allows them to check their account balances, withdraw or deposit money, transfer money from one account to another, print a statement of account transactions, and even purchase stamp",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64335",
+    "passage": ""
   }
 ]
