@@ -20144,5 +20144,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72693",
     "passage": ""
+  },
+  {
+    "id": 72694,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "(a) Explain the following computer terms (i) fle; (ii) record; (ii) field\n(b) In a school registry, computer system is used to store students details. (i) In addition to name and address fields in a student's record, list three other fields that may be included. (i) Outline the steps involved in editing the field of a student's record. (iii) Name two database applications that can be used for creating the record in 3b(i).",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(i) File: This is a collection of related data (records) stored together on a computer. (ii) Record: This is a single entry or row in a file, containing a set of related data. It is the collection of fields that describes a specific entity. (ii) Field: This is a single piece of data within a record representing a specific attribute or characteristic. It is a column in a spreadsheet.\nb(i) Other fields that may be included in student's record are: I. Student ID II. Date of birth II. Gender IV. Email V. Phone number VI. Parent/Guardian Name VII. Class (ii) Steps involved in editing the field of student's record are: I. Search for the student's record using a unique identifier such as the student ID. II. Identify the specific field to be edited and select it. II. Make your adjustments and saved changes made to the record.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72694",
+    "passage": ""
   }
 ]
