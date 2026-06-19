@@ -13468,5 +13468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64401",
     "passage": ""
+  },
+  {
+    "id": 64403,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which type of network can span several building, but is usually less than 30 square miles big?",
+    "options": {
+      "A": "CAN",
+      "B": "LAN",
+      "C": "MAN",
+      "D": "WAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "CAN usually provides network for places which are less than 30 square miles.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64403",
+    "passage": ""
   }
 ]
