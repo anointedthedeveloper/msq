@@ -1615,5 +1615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1507",
     "passage": ""
+  },
+  {
+    "id": 1508,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "I. The earth is not spherical but elliptical in shape II. Variation in latitude and longitude III. Rotation of the earth on its axis IV. Variation in the density of the earth On which combination of the above does the weight of an object vary on the earth's surface?",
+    "options": {
+      "A": "I, II, III and IV",
+      "B": "III and IV only",
+      "C": "I, II and III only",
+      "D": "I and II only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The three main reasons why the weight of an object varies on the earth's surface is - The shape of the earth - Variation in Longitude and latitude -Rotation of the earth\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1508",
+    "passage": ""
   }
 ]
