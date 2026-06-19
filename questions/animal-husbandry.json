@@ -5667,5 +5667,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/61468",
     "passage": ""
+  },
+  {
+    "id": 61471,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "If a calf dies suddenly with blood oozing from the natural openings, the calf must have died of",
+    "options": {
+      "A": "anthrax",
+      "B": "brucellosis",
+      "C": "rinderpest",
+      "D": "tuberculosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Rinderpest is a viral disease that typically causes symptoms like fever, nasal discharge, and diarrhea, leading to illness over time. Sudden death with blood oozing from natural openings is more characteristic of anthrax, which directly affects the blood and circulatory system. Thus, rinderpest does not present the same acute signs as anthrax",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/61471",
+    "passage": ""
   }
 ]
