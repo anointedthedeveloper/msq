@@ -14702,5 +14702,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23140",
     "passage": ""
+  },
+  {
+    "id": 23141,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "If x varies over the set of real numbers, which of the following is illustrated in the diagram above?",
+    "options": {
+      "A": "-3 B. -3≤x<2 C. -3 D. -3≤x≤2 E. x≥2",
+      "B": "-3≤x<2",
+      "C": "-3 D. -3≤x≤2 E. x≥2",
+      "D": "-3≤x≤2",
+      "E": "x≥2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17997637216_wcmath19923.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909418/myschool/mathematics/17997637216_wcmath19923.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23141",
+    "passage": ""
   }
 ]
