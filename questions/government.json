@@ -2540,5 +2540,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1286",
     "passage": ""
+  },
+  {
+    "id": 1287,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The Arthur Richards Constitution was designed to last for",
+    "options": {
+      "A": "nine years",
+      "B": "five years",
+      "C": "twelve years",
+      "D": "six years"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During the creation of Richard's Constitution of 1946, Richards recommended that the constitution should remain in force for 9 years with a limited review after three and a half years. However, Richards left the country and the next governor, Sir John Macpherson (1947-1954), advocated for fresh constitutional reform, which led to the creation of the Macpherson Constitution of 1951.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1287",
+    "passage": ""
   }
 ]
