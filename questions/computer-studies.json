@@ -3298,5 +3298,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61849",
     "passage": ""
+  },
+  {
+    "id": 61850,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "In data base, the minimum number of characters. user can input in the field is known as field?",
+    "options": {
+      "A": "caption",
+      "B": "format",
+      "C": "name",
+      "D": "size",
+      "E": "text"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the context of databases, the minimum number of characters that a user can input in a field is referred to as the field size.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61850",
+    "passage": ""
   }
 ]
