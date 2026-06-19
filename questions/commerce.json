@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/190",
     "passage": ""
+  },
+  {
+    "id": 724,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The business in the stock exchange is characterized essentially by",
+    "options": {
+      "A": "dealing",
+      "B": "brokerage",
+      "C": "speculations",
+      "D": "transactions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/724",
+    "passage": ""
   }
 ]
