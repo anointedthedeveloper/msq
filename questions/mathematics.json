@@ -4681,5 +4681,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8215",
     "passage": ""
+  },
+  {
+    "id": 8216,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Find the value of m if 13\nm\n+ 24\nm\n= 41\nm",
+    "options": {
+      "A": "8",
+      "B": "6",
+      "C": "5",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8216",
+    "passage": ""
   }
 ]
