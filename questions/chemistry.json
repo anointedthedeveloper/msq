@@ -10876,5 +10876,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4303",
     "passage": ""
+  },
+  {
+    "id": 4304,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Water can be obtained as the only product during the?",
+    "options": {
+      "A": "combustion of hydrocarbons",
+      "B": "neutraliization of an acid by base",
+      "C": "combustion of hydrogen",
+      "D": "electrolysis of brine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In flame of pure hydrogen burning in air, the hydrogen (H2) reacts with oxygen (O2) to form water \\(H_2O\\) with the release of energy.\nHydrocarbon combustion refers to the chemical reaction where a hydrocarbon reacts with oxygen to create carbon dioxide, water, and heat.\nThe electrolysis of brine yields chlorine, hydrogen and sodium hydroxide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4304",
+    "passage": ""
   }
 ]
