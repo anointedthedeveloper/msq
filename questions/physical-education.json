@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64443",
     "passage": ""
+  },
+  {
+    "id": 64444,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these exercises is good for strengthening the abdominal muscle?",
+    "options": {
+      "A": "Cartwheel",
+      "B": "Press-up",
+      "C": "Pull-up",
+      "D": "Sit up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sit up is good for strengthening the abdominal muscle",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64444",
+    "passage": ""
   }
 ]
