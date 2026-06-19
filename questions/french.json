@@ -2755,5 +2755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71089",
     "passage": ""
+  },
+  {
+    "id": 71090,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Mettez à la forme du verbe qui convient Qu'est-ce que vous (choisir)?",
+    "options": {
+      "A": "choisissent",
+      "B": "choisissez",
+      "C": "choisissons",
+      "D": "choisis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is choisissez The correct sentence would be: \"Qu'est-ce que vous choisissez?\" Which translates to \"What do you choose?\" or \"What are you choosing? The verb \"choisir\" is in the second person plural form (\"vous\") and the sentence is in the interrogative form, so the correct conjugation is \"choisissez\". Here's a breakdown of the other options: choisis (first person singular, \"I choose\") choisissent (third person plural, \"they choose\") choisissons (first person plural, \"we choose\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71090",
+    "passage": ""
   }
 ]
