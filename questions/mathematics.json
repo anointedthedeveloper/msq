@@ -12065,5 +12065,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22399",
     "passage": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows; 4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2"
+  },
+  {
+    "id": 22400,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows;\n4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2\nWhat is the median score?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "6",
+      "E": "7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If the data is arranged either in ascending or descending order, the 15th and 16th scores are in the middle, which is 5 and 5, respectively\nmedian = \\(\\frac{5 + 5}{2}\\) = 5 since n is even i.e, 30",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22400",
+    "passage": "For a class of 30 students, the scores in a Mathematics test out of 10 marks were as follows; 4,5,7,2,3,6,5,5,8,9,5,4,2,3,7,9,8,7,7,7,3,4,5,5,2,3,6,7,7,2"
   }
 ]
