@@ -14504,5 +14504,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23109",
     "passage": ""
+  },
+  {
+    "id": 23110,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above, ∠PTQ = ∠URP = 25° and XPU = 4URP. Calculate ∠USQ.",
+    "options": {
+      "A": "100 o",
+      "B": "120 o",
+      "C": "125 o",
+      "D": "130 o",
+      "E": "150 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/WKK7kt1bKo2JYrCYWZWd59RUzQ5EkydmVBI8OWry.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909337/myschool/mathematics/WKK7kt1bKo2JYrCYWZWd59RUzQ5EkydmVBI8OWry.jpg",
+    "correct_answer": "D",
+    "explanation": "Since < URP = 25°, then < XPU = 4 x 25° = 100°\n\\(\\therefore\\) < TPQ = 180° - 100° = 80°\n\\(\\therefore\\) < PQT = 180° - (80° + 25°) = 75°\n< SQR = 75° - 25° = 50° (exterior angle = 2 opp interior angles)\n\\(\\therefore\\) < USQ = 180° - 50° = 130°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23110",
+    "passage": ""
   }
 ]
