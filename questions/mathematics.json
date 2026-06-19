@@ -7663,5 +7663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9266",
     "passage": ""
+  },
+  {
+    "id": 9267,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A book seller sells Mathematics and English books. If 30 customers buy Mathematics books, 20 customers buy English books and 10 customers buy the two books. How many customers has he altogether?",
+    "options": {
+      "A": "30",
+      "B": "40",
+      "C": "50",
+      "D": "60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "n(M) only = 30-10 = 20 n(E) only = 20-10 = 10 n(M∩E) = 10 ∴M∪E = 20+10+10 = 40\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9267",
+    "passage": ""
   }
 ]
