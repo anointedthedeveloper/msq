@@ -2246,5 +2246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1199",
     "passage": ""
+  },
+  {
+    "id": 1200,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A common feature of government is",
+    "options": {
+      "A": "the separation of powers",
+      "B": "the making of public policy",
+      "C": "the independence of the judiciary",
+      "D": "a written constitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1200",
+    "passage": ""
   }
 ]
