@@ -9867,5 +9867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10415",
     "passage": ""
+  },
+  {
+    "id": 10416,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Given that Q = \\(\\begin{pmatrix} 6 & 0 \\\\ 4 & 5 \\end{pmatrix}\\) and Q + P = \\(\\begin{pmatrix} 7 & -2 \\\\ 6 & 8 \\end{pmatrix}\\). Evaluate | Q + 2P|.",
+    "options": {
+      "A": "90",
+      "B": "96",
+      "C": "102",
+      "D": "120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Q + 2P = Q + 2(Q + P - Q) = 2(Q + P) - Q\nQ + P = \\(\\begin{pmatrix} 7 & -2 \\\\ 6 & 8 \\end{pmatrix}\\)\n2(Q + P) = \\(\\begin{pmatrix} 14 & -4 \\\\ 12 & 16 \\end{pmatrix}\\)\nQ + 2P = 2(Q + P) - Q = \\(\\begin{pmatrix} 14-6 & -4-0 \\\\ 12-4 & 16-5 \\end{pmatrix} = \\begin{pmatrix} 8 & -4 \\\\ 8 & 11 \\end{pmatrix}\\)\nDeterminant:  |Q + 2P| = 8 \\(\\times\\) 11 - (-4)\\(\\times\\) 8 = 88 + 32 = 120.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10416",
+    "passage": ""
   }
 ]
