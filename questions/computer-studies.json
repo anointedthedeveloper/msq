@@ -9693,5 +9693,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62731",
     "passage": ""
+  },
+  {
+    "id": 62732,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "which of the following logic operations would select a record when at least one condition is satisfied?",
+    "options": {
+      "A": "AND",
+      "B": "NOR",
+      "C": "NOT",
+      "D": "OR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The NOR operation is a combination of OR and NOT operations. It only gives an output of true or 1 when none of the conditions are satisfied. Therefore, the OR operation would select a record when at least one condition is satisfied",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62732",
+    "passage": ""
   }
 ]
