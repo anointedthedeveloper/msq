@@ -6445,5 +6445,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9040",
     "passage": ""
+  },
+  {
+    "id": 9041,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If \\(T = 2\\pi \\sqrt{\\frac{l}{g}}\\), make g the subject of the formula",
+    "options": {
+      "A": "(4π l 2 ) / T",
+      "B": "(4π 2 l) / T 2",
+      "C": "(4π 2 l 2 ) / T 2",
+      "D": "(2π√l) / T"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(T = 2\\pi \\sqrt{\\frac{l}{g}}\\)\n\\(\\frac{T}{2\\pi} = \\sqrt{\\frac{l}{g}}\\)\n\\((\\frac{T}{2\\pi})^{2} = \\frac{l}{g}\\)\n\\(\\therefore g = \\frac{4 \\pi^{2} l}{T^{2}}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9041",
+    "passage": ""
   }
 ]
