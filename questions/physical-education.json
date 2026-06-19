@@ -3001,5 +3001,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68293",
     "passage": ""
+  },
+  {
+    "id": 68294,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "In which form of nationalism has its goals achieved through revolution.",
+    "options": {
+      "A": "civic nationalism",
+      "B": "ideological nationalism",
+      "C": "liberation nationalism",
+      "D": "revolutionary nationalism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In revolutionary nationalism, nationalist political movements achieve their goals through a revolution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68294",
+    "passage": ""
   }
 ]
