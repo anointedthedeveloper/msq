@@ -10657,5 +10657,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22035",
     "passage": ""
+  },
+  {
+    "id": 22040,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The number 186,470 was corrected to 186,000. Which of the following describe the degree of approximation made? I. to the nearest hundred II. to the nearest thousand III. to 3 significant figures IV. to 4 significant figures",
+    "options": {
+      "A": "I & III only",
+      "B": "I & IV only",
+      "C": "II & III only",
+      "D": "II & IV only",
+      "E": "All of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22040",
+    "passage": ""
   }
 ]
