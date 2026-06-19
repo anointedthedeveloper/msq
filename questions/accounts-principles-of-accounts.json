@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/219",
     "passage": ""
+  },
+  {
+    "id": 220,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Antics Electronic Company recently bought six generators. Which of the following is the correct method of recording this transaction?",
+    "options": {
+      "A": "Debit generator account and credit cash account",
+      "B": "Debit purchases account and credit cash account",
+      "C": "Debit cash accounts and credit purchases account",
+      "D": "Debit cash account and credit generator account"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The question says 'an electronic shop bought generators'. Meaning it is for resale and not for office or personal use.\nThis means cash account will be credited because money has gone out of the business for the purchase of generators. Since the question didn't say the goods were paid for by cheque, we are crediting the cash column, if it was paid by cheque, the bank column would be credited instead.\nOn the other hand, the purchase account (stock) will be debited because goods have come into the company as a result of the purchase.\nAlways remember this simple accounting entry; debit all receivables (purchases account receiving), credit all payment (cash account paying out)..",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/220",
+    "passage": ""
   }
 ]
