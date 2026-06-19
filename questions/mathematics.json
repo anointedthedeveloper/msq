@@ -4135,5 +4135,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8189",
     "passage": ""
+  },
+  {
+    "id": 8190,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "find the mean deviation of 1, 2, 3 and 4",
+    "options": {
+      "A": "2.5",
+      "B": "2.0",
+      "C": "1.0",
+      "D": "1.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8190",
+    "passage": ""
   }
 ]
