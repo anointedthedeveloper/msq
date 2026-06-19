@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48111",
     "passage": ""
+  },
+  {
+    "id": 76282,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following wrote compositions using the atonal style?",
+    "options": {
+      "A": "Schubert",
+      "B": "Stravinsky",
+      "C": "Schoenberg",
+      "D": "Smetana"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Arnold Schoenberg is known for his atonal compositions. Atonality in music is a condition of music in which the constructs of the music do not 'live' within the confines of a particular key signature, scale, or mode.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76282",
+    "passage": ""
   }
 ]
