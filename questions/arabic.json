@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75298",
     "passage": ""
+  },
+  {
+    "id": 75302,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما العنصر غير الأساسي في المقال؟",
+    "options": {
+      "A": "المقدمة",
+      "B": "الدعاء",
+      "C": "العنوان",
+      "D": "الخاتمة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"elos\" is not typically a formal part of academic essay writing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75302",
+    "passage": ""
   }
 ]
