@@ -7180,5 +7180,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13893",
     "passage": ""
+  },
+  {
+    "id": 13895,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A certain manufacturer wishes to make an n-type semiconductor. Which materials would he select for doping?",
+    "options": {
+      "A": "boron and antimony",
+      "B": "boron and sodium",
+      "C": "aluminium and indium",
+      "D": "arsenic and antimony"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An n- type semi conductor is usually formed by dopping the semi conductor(a four valent element)with a five valent element.(arsenic and antimony)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13895",
+    "passage": ""
   }
 ]
