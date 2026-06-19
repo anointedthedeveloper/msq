@@ -2139,5 +2139,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1494",
     "passage": ""
+  },
+  {
+    "id": 1495,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The noble gas, argon,is used for",
+    "options": {
+      "A": "electric arc welding",
+      "B": "welding brass",
+      "C": "underwater welding",
+      "D": "steel welding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Argon is an inert gas that's non-flammable, non-toxic, and has low reactivity with metals.Argon produces a stable, quiet, and smooth arc. It's also versatile and can be used on a variety of metals, including mild steel, stainless steel, and aluminum. As a result, it is the most common noble gas used for electric arc welding.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1495",
+    "passage": ""
   }
 ]
