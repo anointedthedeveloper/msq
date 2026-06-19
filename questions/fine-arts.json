@@ -2161,5 +2161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75368",
     "passage": ""
+  },
+  {
+    "id": 75369,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What type of line suggests movement and energy in art?",
+    "options": {
+      "A": "Vertical",
+      "B": "Horizontal",
+      "C": "Diagonal",
+      "D": "Static"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Diagonal lines create a sense of instability, dynamism, action, and forward motion, unlike stable horizontal/vertical lines or static ones.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75369",
+    "passage": ""
   }
 ]
