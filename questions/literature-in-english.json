@@ -460,5 +460,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/423",
     "passage": ""
+  },
+  {
+    "id": 424,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A good poem must",
+    "options": {
+      "A": "be about love",
+      "B": "have a regular rythm",
+      "C": "rhyme",
+      "D": "be difficult to understand",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A good poem doesn't necessarily need to be about love, have a regular rhythm, rhyme or be difficult to understand. Poetry is a versatile art form that can take many shapes and styles. For example, free verse poems often lack rhyme or regular rhythm but can still be powerful and meaningful. Similarly, poems can explore a wide range of themes beyond love, and their beauty often lies in their accessibility and relatability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/424",
+    "passage": ""
+  },
+  {
+    "id": 425,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "One of the following is a narrative technique in a novel",
+    "options": {
+      "A": "character",
+      "B": "interesting story",
+      "C": "flashback",
+      "D": "logical conclusion",
+      "E": "social relevance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A narrative technique refers to the methods and styles an author uses to tell a story. Flashback is a technique where the narrative moves back in time to provide background information about past events. A character refers to the people in the story it is not a narrative technique",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/425",
+    "passage": ""
+  },
+  {
+    "id": 427,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "One of the statements is true of the novel:",
+    "options": {
+      "A": "it is an exact reproduction of historical events",
+      "B": "characters are unimportant in it",
+      "C": "it is always the story of the Author's life",
+      "D": "it deals with human experience",
+      "E": "it does not make use of imagery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is “it deals with human experience.”\nA novel is a long prose narrative that explores human life, experiences, relationships,and emotions. This is its most defining and consistent feature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/427",
+    "passage": ""
   }
 ]
