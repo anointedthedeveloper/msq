@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/712",
     "passage": ""
+  },
+  {
+    "id": 713,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An electron of charge 1.6 x 10\n-19\nC and mass 9.1 x 10\n-31\nkg is accelerated between two metal plates with a velocity of 4 x 10\n7\nms\n-1\n, the potential difference between the plates is",
+    "options": {
+      "A": "4.55 x 10 3 V",
+      "B": "4.55 x 10 2 V",
+      "C": "9.10 x 10 1 V",
+      "D": "4.55 x 10 1 V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/713",
+    "passage": ""
   }
 ]
