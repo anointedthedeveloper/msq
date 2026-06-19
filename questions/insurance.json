@@ -2936,5 +2936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49949",
     "passage": ""
+  },
+  {
+    "id": 49952,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "mr. Thomas assured his life for the sum of N300,000.00 for a period of 20 years. The premium payable being N2,200.00 monthly.due to loss of employment, thomas was not able to pay the premium in the last 3 months .\nwhat is the sum assured for the policy",
+    "options": {
+      "A": "N26,400",
+      "B": "N44,000",
+      "C": "N300,000",
+      "D": "N528,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "2200 * 12 months = 26,400 (yearly premium)\n26,400 * 20years = 528,000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49952",
+    "passage": "mr. Thomas assured his life for the sum of N300,000.00 for a period of 20 years. The premium payable being N2,200.00 monthly.due to loss of employment, thomas was not able to pay the premium in the last 3 months ."
   }
 ]
