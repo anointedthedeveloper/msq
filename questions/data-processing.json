@@ -2311,5 +2311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58183",
     "passage": ""
+  },
+  {
+    "id": 58184,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "MS Access is an example of a",
+    "options": {
+      "A": "relational model",
+      "B": "network model",
+      "C": "hierarchical model",
+      "D": "file model"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58184",
+    "passage": ""
   }
 ]
