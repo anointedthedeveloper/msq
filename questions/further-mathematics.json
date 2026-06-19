@@ -1783,5 +1783,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50393",
     "passage": ""
+  },
+  {
+    "id": 50394,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If \\(y = 4x - 1\\), list the range of the domain \\({-2 \\leq x \\leq 2}\\), where x is an integer.",
+    "options": {
+      "A": "{-9, -1, 2,3, 4}",
+      "B": "{-9, -2, 0, 1, 7}",
+      "C": "{-5, -4, -3, -2}",
+      "D": "{-9, -5, -1, 3, 7}"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The elements of x are {-2, -1, 0, 1, 2}\n\\(y = 4x - 1\\) = 4(-2) - 1 = -9; 4(-1) - 1 = -5; 4(0) - 1 = -1; 4(1) - 1 = 3; 4(2) - 1 = 7.\nThe range of x is {-9, -5, -1, 3 7}.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50394",
+    "passage": ""
   }
 ]
