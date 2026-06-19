@@ -4244,5 +4244,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76012",
     "passage": ""
+  },
+  {
+    "id": 76013,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of these documents would be used to procure an item from the store?",
+    "options": {
+      "A": "Invoice",
+      "B": "Receipt",
+      "C": "Quotation",
+      "D": "Requisition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A requisition is a formal request to procure an item from the store. It is typically used in business settings to request that specific goods be ordered. A quotation is a document that states a price for goods or services, an invoice is a bill for goods or services provided, and a receipt is a document acknowledging that a person has received money or property in payment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76013",
+    "passage": ""
   }
 ]
