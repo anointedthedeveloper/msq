@@ -13405,5 +13405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64398",
     "passage": ""
+  },
+  {
+    "id": 64399,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is an example of output device",
+    "options": {
+      "A": "Keyboard",
+      "B": "Mouse",
+      "C": "speaker",
+      "D": "microphone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A speaker is an output device because, it projects sounds from the system to the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64399",
+    "passage": ""
   }
 ]
