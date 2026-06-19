@@ -16723,5 +16723,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23233",
     "passage": ""
+  },
+  {
+    "id": 23234,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A die is rolled 200 times the outcomes obtained are shown in the table below.\nFind the probability of obtaining 2.",
+    "options": {
+      "A": "0.002",
+      "B": "0.015",
+      "C": "0.15",
+      "D": "16",
+      "E": "0.2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24926174226_wcmath199349.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869664/myschool/mathematics/24926174226_wcmath199349.jpg",
+    "correct_answer": "C",
+    "explanation": "Prob(obtaining a 2) = \\(\\frac{30}{200}\\)\n= \\(0.15\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23234",
+    "passage": ""
   }
 ]
