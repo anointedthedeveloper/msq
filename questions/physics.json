@@ -14305,5 +14305,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24080",
     "passage": ""
+  },
+  {
+    "id": 24081,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A particle of mass 2.5 x 10\n-6\nkg revolving around the earth has a radial acceleration of 4 X 10\n7\nms\n-2\n. What is the centripetal force of the particles?",
+    "options": {
+      "A": "6.25 x 10 -14 N",
+      "B": "1.60 x10 -13 N",
+      "C": "5.00 x 10N",
+      "D": "1.00x10 2 N",
+      "E": "2.00x1O 2 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "-6\n7",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24081",
+    "passage": ""
+  },
+  {
+    "id": 24082,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "An oscillating pendulum has a velocity of 2ms\n-1\nat the equilibrium position O and velocity at same point P. Using the diagram above, calculate the height of P above O. (Take g = 10ms\n2\n)",
+    "options": {
+      "A": "5.0m",
+      "B": "2.0m",
+      "C": "0.4m",
+      "D": "0.2m",
+      "E": "0.1m"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13861046070_wcphy19903.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891726/myschool/physics/13861046070_wcphy19903.jpg",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24082",
+    "passage": ""
   }
 ]
