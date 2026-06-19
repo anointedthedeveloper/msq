@@ -2924,5 +2924,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61832",
     "passage": ""
+  },
+  {
+    "id": 61833,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "What displays the content of the active cell in excel?",
+    "options": {
+      "A": "Formula bar",
+      "B": "Name box",
+      "C": "Range",
+      "D": "Row headings",
+      "E": "Task pane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61833",
+    "passage": ""
   }
 ]
