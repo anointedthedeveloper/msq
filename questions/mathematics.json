@@ -12219,5 +12219,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22406",
     "passage": ""
+  },
+  {
+    "id": 22407,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The table above gives the scores of a group of students in an English Language test",
+    "options": {
+      "A": "3/20",
+      "B": "1/5",
+      "C": "1/4",
+      "D": "3/10",
+      "E": "3/4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9682309105_wcmath198936.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907529/myschool/mathematics/9682309105_wcmath198936.jpg",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22407",
+    "passage": ""
   }
 ]
