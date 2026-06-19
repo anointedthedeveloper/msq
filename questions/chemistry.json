@@ -4407,5 +4407,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2137",
     "passage": ""
+  },
+  {
+    "id": 2138,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Ordinary glass is manufactured from silica, CaCO3 and",
+    "options": {
+      "A": "Na 2 CO 3",
+      "B": "K 2 CO 3",
+      "C": "K 2 SO 4",
+      "D": "NaHCO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ordinary glass is made from sand(silica), limestone(CaCO\\(_3\\) and soda ash, Na\\(_2\\)CO\\(_3\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2138",
+    "passage": ""
   }
 ]
