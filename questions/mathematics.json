@@ -14152,5 +14152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22923",
     "passage": ""
+  },
+  {
+    "id": 22924,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The angle of elevation of the top of a tree 39m\naway from a point on the ground is 30\no\n. Find the height of the tree",
+    "options": {
+      "A": "39√3m",
+      "B": "13√3m",
+      "C": "13/\\(\\sqrt{3}\\)m",
+      "D": "13/3\\(\\sqrt{3}\\)m",
+      "E": "\\(\\sqrt{3}\\)/13m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "x\n25\no\n1\n√3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22924",
+    "passage": ""
   }
 ]
