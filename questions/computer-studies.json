@@ -4268,5 +4268,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62270",
     "passage": ""
+  },
+  {
+    "id": 62271,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In order to get to the symbol dialog box in MS-Word click on the?",
+    "options": {
+      "A": "Home tab.",
+      "B": "Insert tab.",
+      "C": "Page Lay- out tab.",
+      "D": "View tab."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To get to the 'Symbol' dialog box, click on the insert menu and choose 'Symbol' .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62271",
+    "passage": ""
   }
 ]
