@@ -439,5 +439,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/589",
     "passage": ""
+  },
+  {
+    "id": 591,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "An astronomical telescope is said to be in normal adjustment when the",
+    "options": {
+      "A": "eye is accommodated",
+      "B": "focal length of objective lens is longer than that of eye piece",
+      "C": "final image is at the near point of eye",
+      "D": "final image is at infinity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An astronomical telescope is in normal adjustment when the final image is at infinity. This means:\na) Eye is relaxed (no accommodation)\nb) Image from objective is at focal point of eyepiece\nc) Maximum comfortable magnification for distant viewing",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/591",
+    "passage": ""
   }
 ]
