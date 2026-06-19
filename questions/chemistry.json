@@ -9343,5 +9343,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3860",
     "passage": ""
+  },
+  {
+    "id": 3861,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following represents an aromatic compound?",
+    "options": {
+      "A": "C 6 H 5 OH",
+      "B": "C 6 H 12",
+      "C": "C 6 H 9 OH",
+      "D": "C 6 H 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Aromatic compounds are chemical compounds that consist of conjugated planar ring systems accompanied by delocalized pi-electron clouds in place of individual alternating double and single bonds. In a simpler term, aromatic compounds are compounds of Benzene and its derivatives.e.g Benzene, Phenol, Toluene, xylene, anthracene, Naphthalene etc all cyclically conjugated.\nThe compound in option A is called phenol - a benzene ring with an hydroxyl group (OH) attached to C-1.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3861",
+    "passage": ""
   }
 ]
