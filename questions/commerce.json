@@ -13986,5 +13986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7383",
     "passage": ""
+  },
+  {
+    "id": 7385,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The term free on board means that the price includes?",
+    "options": {
+      "A": "costs and insurance only",
+      "B": "costs and freight only",
+      "C": "freight and insurance only",
+      "D": "costs, insurance and freight"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The term Free On Board is a transportation term that indicates when liability and ownership of goods are transferred from a seller to a buyer. It shows when the risk of loss shifts from the seller to the buyer, and who pays the costs of freight and insurance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7385",
+    "passage": ""
   }
 ]
