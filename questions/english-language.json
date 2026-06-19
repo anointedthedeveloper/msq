@@ -328,5 +328,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/114",
     "passage": ""
+  },
+  {
+    "id": 117,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nMrs. Dada has been deserted by her husband because he feels she has a heart of stone",
+    "options": {
+      "A": "she has a heavy heart",
+      "B": "she has little warmth of feeling",
+      "C": "she has a hard heart",
+      "D": "she is hard hearted",
+      "E": "she has a strong heart"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Heart of stone means; someone that is stern, strict or has a cruel nature;To be unkind or cruel .\nOption D is correct.\nTo be ''hard hearted'' means to be incapable of being moved to pity or tenderness; unfeeling.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/117",
+    "passage": ""
   }
 ]
