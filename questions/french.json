@@ -4645,5 +4645,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75693",
     "passage": ""
+  },
+  {
+    "id": 75699,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le contraire de \"grand\" est :",
+    "options": {
+      "A": "petit",
+      "B": "mauvais",
+      "C": "joli",
+      "D": "long"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Petit\" is the French opposite of the word \"grand\" meaning big.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75699",
+    "passage": ""
   }
 ]
