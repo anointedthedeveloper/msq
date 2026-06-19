@@ -2412,5 +2412,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50423",
     "passage": ""
+  },
+  {
+    "id": 50424,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the unit vector in the direction of \\(-2i + 5j\\).",
+    "options": {
+      "A": "\\(\\frac{1}{\\sqrt{29}}(2i + 5j)\\)",
+      "B": "\\(\\frac{1}{\\sqrt{29}}(-2i + 5j)\\)",
+      "C": "\\(\\frac{1}{29}(2i - 5j)\\)",
+      "D": "\\(\\frac{1}{29}(-2i - 5j)\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The unit vector, \\(\\hat{n}\\) is given by \\(\\hat{n} = \\frac{\\overrightarrow{r}}{|\\overrightarrow{r}|}\\)\n= \\(\\frac{(-2i + 5j)}{\\sqrt{(-2)^{2} + 5^{2}}} = \\frac{(-2i + 5j)}{\\sqrt{29}}\\)\n= \\(\\frac{1}{\\sqrt{29}}(-2i + 5j)\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50424",
+    "passage": ""
   }
 ]
