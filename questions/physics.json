@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1504",
     "passage": ""
+  },
+  {
+    "id": 1505,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A stone of mass 1kg is dropped from a height of 10m above the ground and falls freely under gravity. Its kinetic energy 5m above the ground is then equal to",
+    "options": {
+      "A": "its kinetic energy on the ground",
+      "B": "twice its initial potential energy",
+      "C": "its initial potential energy",
+      "D": "half its initial potential energy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1505",
+    "passage": ""
   }
 ]
