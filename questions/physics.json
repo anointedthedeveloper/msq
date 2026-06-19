@@ -2140,5 +2140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9097",
     "passage": ""
+  },
+  {
+    "id": 9126,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Which of the following metals will provide the greatest shield against ionizing radiation",
+    "options": {
+      "A": "Iron",
+      "B": "Manganese",
+      "C": "Alminium",
+      "D": "Lead"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D = Lead:\nLead is highly effective at shielding against ionizing radiation, particularly gamma rays, due to its high density and atomic number.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9126",
+    "passage": ""
   }
 ]
