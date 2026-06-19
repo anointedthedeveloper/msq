@@ -9567,5 +9567,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62725",
     "passage": ""
+  },
+  {
+    "id": 62726,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The equivalent of the decimal number 89 in base 4 is?",
+    "options": {
+      "A": "1021.",
+      "B": "1201.",
+      "C": "1211.",
+      "D": "1121."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62726",
+    "passage": ""
   }
 ]
