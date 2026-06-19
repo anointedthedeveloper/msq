@@ -3336,5 +3336,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50522",
     "passage": ""
+  },
+  {
+    "id": 50523,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Forces of magnitude 8N and 5N act on a body as shown above. Calculate, correct to 2 dp, the angle that the resultant makes with the horizontal.",
+    "options": {
+      "A": "80.76°",
+      "B": "75.00°",
+      "C": "71.99°",
+      "D": "15.00°"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1LBCcyGw8G0HQokrWXZ2dBWC35x2UYiNe6hce3pR.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910136/myschool/further-mathematics/1LBCcyGw8G0HQokrWXZ2dBWC35x2UYiNe6hce3pR.png",
+    "correct_answer": "A",
+    "explanation": "x - component y - component 8N 8sin 45 =5.657 8cos45 =5.657 5N 5cos30 = - 4.330 5sin30 = 2.5 1.327 8.157\nResultant force = \\(\\sqrt{(8.157)^2 + (1.327)^2}\\) = \\(\\sqrt{68.299}\\) = 8.264\nCos\\(\\theta\\) = \\(\\frac{adj}{hyp}\\) = \\(\\frac{1.327}{8.264}\\) = 0.160576\n\\(\\theta\\) = cos\\(^{-1}\\)(0.160576) = 80.76º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50523",
+    "passage": ""
   }
 ]
