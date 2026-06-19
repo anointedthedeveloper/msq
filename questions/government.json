@@ -3633,5 +3633,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1645",
     "passage": ""
+  },
+  {
+    "id": 1647,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The first franchise in the history of the democratic process is",
+    "options": {
+      "A": "property franchise",
+      "B": "universal franchise",
+      "C": "male franchise",
+      "D": "female franchise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The first franchise in the history of democratic processes was the property franchise , which allowed only men who owned property or paid certain taxes the right to vote. This was a common feature in many early democratic systems, including in the United Kingdom, where only landowners or those with significant property were allowed to vote.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1647",
+    "passage": ""
   }
 ]
