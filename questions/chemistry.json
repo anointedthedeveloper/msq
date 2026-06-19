@@ -8692,5 +8692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3742",
     "passage": ""
+  },
+  {
+    "id": 3745,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "An element used in the production of matches is",
+    "options": {
+      "A": "nitrogen",
+      "B": "aluminium",
+      "C": "copper",
+      "D": "sulphur"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Nitrogen prevents food from degrading by creating an unreactive atmosphere.\nAluminium is used in buildings because it's resistant to corrosion and thermally efficient.\nCopper is a versatile metal used in many applications, including electrical wiring, plumbing, construction, and transportation.\nSulphur is commonly used as an ingredient in the head of a match, contributing to its ability to ignite easily when struck against a striking surface; most modern safety matches contain sulfur or charcoal alongside other chemicals like potassium chlorate and antimony sulphide. Sulphur acts as a fuel in the match head, readily combusting when combined with an oxidizer like potassium chlorate.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3745",
+    "passage": ""
   }
 ]
