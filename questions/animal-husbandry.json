@@ -311,5 +311,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49551",
     "passage": ""
+  },
+  {
+    "id": 49568,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If 25kg feed was consumed by 10,000 birds in six hours, determine the quantity of feed required by the same number of birds in one week?",
+    "options": {
+      "A": "20kg",
+      "B": "67kg",
+      "C": "400kg",
+      "D": "700kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There are 168 hours in a week, which is 28 times the 6 hours it took the 10,000 birds to consumed 25kg feed (168hours / 6 hours)\nTo find the amount of feed the same number of birds would consume, mutiply 25kg 28 times. (25 x 28) = 700kg",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49568",
+    "passage": ""
   }
 ]
