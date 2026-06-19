@@ -17229,5 +17229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69827",
     "passage": ""
+  },
+  {
+    "id": 69828,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The radix of hexadecimal number system is",
+    "options": {
+      "A": "10",
+      "B": "2",
+      "C": "16",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The radix of the hexadecimal number system is \"16.\" In a number system, the radix (also known as the base) indicates the number of unique symbols used to represent values in that system. The hexadecimal number system uses 16 distinct symbols (0-9 and A-F) to represent values. Each digit in a hexadecimal number corresponds to a power of 16, similar to how each digit in a decimal number corresponds to a power of 10. The hexadecimal number system is often used in computer science because it is a convenient way to represent binary numbers. A hexadecimal number can be used to represent 4 binary digits (bits) at a time. This makes it easier to read and write binary numbers. For example, the binary number 10100001 can be represented as the hexadecimal number A1. This is because 10100001 in binary is equal to A1 in hexadecimal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69828",
+    "passage": ""
   }
 ]
