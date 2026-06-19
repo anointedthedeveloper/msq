@@ -4551,5 +4551,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16264",
     "passage": ""
+  },
+  {
+    "id": 16265,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Diarrhoea tainted with blood is a symptom of",
+    "options": {
+      "A": "trypanosomiasis",
+      "B": "coccidiosis",
+      "C": "ketosis",
+      "D": "brucellosis",
+      "E": "aspergilliosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Coccidiosis : This parasitic infection affects the intestinal tract of animals (especially livestock) and can cause severe diarrhea, often with blood.\nKetosis : This metabolic disorder primarily occurs in dairy cattle and is characterized by high levels of ketones in the blood, not diarrhea.\nBrucellosis : This bacterial infection affects reproductive organs and can cause fever and weakness, but not typically bloody diarrhea.\nE. Aspergilliosis : A fungal infection that primarily affects the respiratory system, not associated with bloody diarrhea",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16265",
+    "passage": ""
   }
 ]
