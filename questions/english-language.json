@@ -6091,5 +6091,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2845",
     "passage": ""
+  },
+  {
+    "id": 2847,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : Eko bridge, linking Lagos Island to Surulere, has ….",
+    "options": {
+      "A": "Many traffic",
+      "B": "Numerous vehicles",
+      "C": "Uncontrollable traffic",
+      "D": "Plenty  traffic",
+      "E": "A lot of traffic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The phrase \"a lot of traffic\" is the most appropriate option because it conveys a general idea of heavy traffic without being too specific. This is because \"traffic\" is an uncountable noun and so does not require specific measurements as countable nouns do.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2847",
+    "passage": ""
   }
 ]
