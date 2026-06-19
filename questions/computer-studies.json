@@ -7820,5 +7820,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62555",
     "passage": ""
+  },
+  {
+    "id": 62556,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The algebraic equation for the AND gate with input variables A and B is?",
+    "options": {
+      "A": "X = A.B",
+      "B": "X =A/B",
+      "C": "X= A-B",
+      "D": "X = A+B"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62556",
+    "passage": ""
   }
 ]
