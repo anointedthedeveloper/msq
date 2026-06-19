@@ -942,5 +942,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/779",
     "passage": ""
+  },
+  {
+    "id": 827,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "200cm\\(^3\\) each of 0.1M solutions of lead (II) trioxonitrate(V) and hydrochloric acid were mixed. Assuming that lead (II) chloride is completely insoluble, calculate the mass of lead (II) chloride that will be precipitated. [Pb = 207, Cl= 35.5, N = 14, O = 16]",
+    "options": {
+      "A": "2.78g",
+      "B": "5.56g",
+      "C": "8.34g",
+      "D": "11.12g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "First, we need to write the balanced chemical equation for the reaction;\nPb(NO\\(_3\\))\\(_2\\)     +       2HCl   →    PbCl\\(_2\\)   +   2HNO\\(_3\\)\n1mole                      2moles\nRecall that  n = \\(\\frac{CV}{1000}\\)\nn =\\(\\frac{{0.1}\\times{200}}{1000}\\)\nn = 0.02 mole of Pb(NO\\(_3\\))\\(_2\\)\nSimilarly, from the question, both HCl and Pb(NO\\(_3\\))\\(_2\\) have the same concentration as well as volume. This implies the number of moles of HCl will also be the same. i.e 0.02mole of HCl\nHowever, from the balanced chemical equation, if 2moles of HCl reacted with 1mole of Pb(NO\\(_3\\))\\(_2\\)\nthen, from the calculations   0.02 mole HCl will react with 0.01 mole Pb(NO\\(_3\\))\\(_2\\) (Based on the stoichiometry above, i.e half the number of moles of HCl)\nThis implies that HCl will first be used up in the reaction, as the reactant, hence it is called the limiting reagent. Consequently, it will form the basis of our calculation.\nThe reference will now be between HCl and the insoluble salt, which is PbCl\\(_2\\).\nSo, if 2 moles of HCl   →  1 mole of PbCl\\(_2\\)\n0.02moles HCl     →  0.01mole PbCl\\(_2\\)\nn = \\(\\frac{mass}{Molar Mass}\\)\nMolar mass of PbCl\\(_2\\) = 207 + 2(35.5) = 278g/mol\nn = \\(\\frac{mass}{Molar Mass}\\)\nm = n x M\nm = 0.01 x 278 = 2.78g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/827",
+    "passage": ""
   }
 ]
