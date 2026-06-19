@@ -11493,5 +11493,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22231",
     "passage": ""
+  },
+  {
+    "id": 22336,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "If 3loga + 5loga - 6loga = log64, what is a?",
+    "options": {
+      "A": "4",
+      "B": "6",
+      "C": "8",
+      "D": "16",
+      "E": "32"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "log( a 3 * a 5 / a 6 ) = loga 64",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22336",
+    "passage": ""
   }
 ]
