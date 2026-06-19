@@ -2749,5 +2749,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68279",
     "passage": ""
+  },
+  {
+    "id": 68280,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of non-contact games",
+    "options": {
+      "A": "boxing",
+      "B": "wrestling",
+      "C": "swimming",
+      "D": "taewondo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Examples of non-contact games are swimming, darts, gymnastics, snooker, chess, badminton and sprinting",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68280",
+    "passage": ""
   }
 ]
