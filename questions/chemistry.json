@@ -9595,5 +9595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3994",
     "passage": ""
+  },
+  {
+    "id": 3997,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A good drying agent should be",
+    "options": {
+      "A": "deliquescent",
+      "B": "effervescent",
+      "C": "hygroscopic",
+      "D": "efflorescent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A good drying agent should be hygroscopic because this property means it readily absorbs moisture from the surrounding environment, making it effective at drying substances; while efflorescence is the opposite, where a substance releases water, making it unsuitable for drying purposes.                                                                              Examples of hygroscopic drying agents: Silica gel, calcium oxide, concentrated sulphuric acid.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3997",
+    "passage": ""
   }
 ]
