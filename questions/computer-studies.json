@@ -8788,5 +8788,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62684",
     "passage": ""
+  },
+  {
+    "id": 62685,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": ". Translate 2m\\(^2\\) + 3n- 9 as a BASIC arithmetic expression.",
+    "options": {
+      "A": "2 * m * 2 + 3 * n - 9",
+      "B": "2 * m ^2 +3 * n - 9",
+      "C": "2 * 2 * m + 3 * n - 9",
+      "D": "2 * m * m * n + 3 - 9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2m\\(^2\\) + 3n - 9 is translate as basic arithmetic expression as 2 * m ∧2 + 3 * n - 9 * → multiplication ∧→ power, division → \\",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62685",
+    "passage": ""
   }
 ]
