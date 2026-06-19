@@ -460,5 +460,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/423",
     "passage": ""
+  },
+  {
+    "id": 424,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A good poem must",
+    "options": {
+      "A": "be about love",
+      "B": "have a regular rythm",
+      "C": "rhyme",
+      "D": "be difficult to understand",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A good poem doesn't necessarily need to be about love, have a regular rhythm, rhyme or be difficult to understand. Poetry is a versatile art form that can take many shapes and styles. For example, free verse poems often lack rhyme or regular rhythm but can still be powerful and meaningful. Similarly, poems can explore a wide range of themes beyond love, and their beauty often lies in their accessibility and relatability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/424",
+    "passage": ""
   }
 ]
