@@ -9490,5 +9490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9802",
     "passage": ""
+  },
+  {
+    "id": 9803,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If p and q are two non zero numbers and 18(p+q) = (18+p)q, which of the following must be true?",
+    "options": {
+      "A": "q = 18",
+      "B": "p <1",
+      "C": "p = 18",
+      "D": "q < 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "If 18(p + q) = (18 + p)q\nthen 18p + 18q = 18q + pq\n18p = pq \\(\\implies\\) q = 18.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9803",
+    "passage": ""
   }
 ]
