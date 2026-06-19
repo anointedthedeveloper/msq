@@ -6823,5 +6823,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13859",
     "passage": ""
+  },
+  {
+    "id": 13861,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The electrolyte in the Nickei-iron (Nife) accumulator is",
+    "options": {
+      "A": "potassium hydroxide solution",
+      "B": "dilute tetraoxosulphate(VI)acid",
+      "C": "copper tetraoxosulphate(VI)solution",
+      "D": "ammonium chloride solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a nickel-iron (NiFe) accumulator, the electrolyte used is typically a potassium hydroxide solution.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13861",
+    "passage": ""
   }
 ]
