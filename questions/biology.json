@@ -636,5 +636,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/341",
     "passage": ""
+  },
+  {
+    "id": 342,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A potometer was used to compare the rate of loss of the same volume of water from a plant under different environmental conditions as under a fan, at the sea shore, under the sun, in the airy laboratory and in cupboard. What time was likely to have been obtained in a cupboard?",
+    "options": {
+      "A": "15 secs",
+      "B": "30secs",
+      "C": "25secs",
+      "D": "20secs",
+      "E": "28secs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A potometer is a scientific instrument used to measure the rate of water uptake in a leafy shoot, which is closely related to the rate of transpiration (water loss) from the plant. In other words, this is to test for rate of transpiration of the plant. This process of water loss from plants, is influenced by both internal and external factors, including temperature, humidity, light intensity, air movement, leaf structure, and water availability. However, the plant when kept in the cupboard will be deprived of those factors, thereby prolonging the time taken for transpiration to occur.\nConsequently, the longest time which is 30 seconds is the best option.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/342",
+    "passage": ""
   }
 ]
