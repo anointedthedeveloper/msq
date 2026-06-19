@@ -4855,5 +4855,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75864",
     "passage": ""
+  },
+  {
+    "id": 75865,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marché Samedi matin, Claire se rend au marché avec sa mère. Le marché est très animé. Il y a des vendeurs de fruits, de légumes, de viande et de poisson. Claire aime surtout le stand de fruits, car elle adore les mangues, les bananes et les fraises. Sa mère achète des carottes, des tomates et du poisson pour préparer le déjeuner. Après les achats, elles prennent un jus d'orange frais avant de rentrer a la maison. Pourquoi Claire aime-t-elle le stand de fruits ?",
+    "options": {
+      "A": "Parce qu'elle adore les fruits comme les mangues et les fraises.",
+      "B": "Parce qu'elle vend des légumes.",
+      "C": "Parce qu'il est proche de chez elle.",
+      "D": "Parce qu'elle y rencontre ses amis."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "the passage says Claire loves the fruit stand because she loves mangos, bananas, and strawberries, not forlany other\nreason.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75865",
+    "passage": ""
   }
 ]
