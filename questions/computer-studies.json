@@ -13174,5 +13174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64381",
     "passage": ""
+  },
+  {
+    "id": 64382,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which part of a processor contains the hard ware necessary to perform all the operations required by a computer?",
+    "options": {
+      "A": "Data path",
+      "B": "Controller",
+      "C": "Registers",
+      "D": "Cache"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The data path contains all hardware necessary to perform every operation. A controller tells the data path what needs to be done.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64382",
+    "passage": ""
   }
 ]
