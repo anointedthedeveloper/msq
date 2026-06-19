@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72419",
     "passage": ""
+  },
+  {
+    "id": 72420,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Fáwèli àránmúpè, àhánupè iwájú ni",
+    "options": {
+      "A": "i",
+      "B": "an",
+      "C": "in",
+      "D": "u"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72420",
+    "passage": ""
   }
 ]
