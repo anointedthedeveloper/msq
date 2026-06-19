@@ -14910,5 +14910,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7517",
     "passage": ""
+  },
+  {
+    "id": 7518,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The factor of production that is subject to depreciation is?",
+    "options": {
+      "A": "capital",
+      "B": "land",
+      "C": "labour",
+      "D": "entrepreneur"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Capital depreciates because its value is inconsistent",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7518",
+    "passage": ""
   }
 ]
