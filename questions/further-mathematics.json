@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50365",
     "passage": ""
+  },
+  {
+    "id": 50366,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(\\sin\\theta = \\frac{3}{5}, 0° < \\theta < 90°\\), evaluate \\(\\cos(180 - \\theta)\\).",
+    "options": {
+      "A": "\\(\\frac{4}{5}\\)",
+      "B": "\\(\\frac{3}{5}\\)",
+      "C": "\\(\\frac{-3}{5}\\)",
+      "D": "\\(\\frac{-4}{5}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Given \\(\\sin \\theta = \\frac{3}{5}  \\implies opp = 3, hyp = 5\\)\nUsing Pythagoras' Theorem, we have \\( adj = \\sqrt{5^{2} - 3^{2}} = \\sqrt{16}  = 4\\)\n\\(\\therefore \\cos \\theta = \\frac{4}{5}, 0° < \\theta < 90°\\)\nIn the quadrant where \\(180° - \\theta\\) lies is the 2nd quadrant and here, only \\(\\sin \\theta = +ve\\).\n\\(\\therefore \\cos (180 - \\theta) = -ve = \\frac{-4}{5}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50366",
+    "passage": ""
   }
 ]
