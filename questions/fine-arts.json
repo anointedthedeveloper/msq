@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75261",
     "passage": ""
+  },
+  {
+    "id": 75265,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the name of the decorative art using beads in traditional Nigerian culture?",
+    "options": {
+      "A": "Adinkra",
+      "B": "Beadwork",
+      "C": "Quilting",
+      "D": "Embroidery"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Beadwork is a craft using beads for aesthetic, cultural, and ceremonial decoration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75265",
+    "passage": ""
   }
 ]
