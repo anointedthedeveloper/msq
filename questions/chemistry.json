@@ -4428,5 +4428,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2138",
     "passage": ""
+  },
+  {
+    "id": 2139,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+    "options": {
+      "A": "CH 3 CH 2 CH 2 CH 3",
+      "B": "CH 2 = CH - CH 2 CH 3",
+      "C": "HC≡CH",
+      "D": "CH 3 - C = C - CH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When ethyne is passed through an ammoniacal solution of copper (I) chloride , a red-brown precipitate of copper (I) acetylide is produced. Terminal alkynes also react to form a red-brown precipitate",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2139",
+    "passage": ""
   }
 ]
