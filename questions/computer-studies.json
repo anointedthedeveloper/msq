@@ -5523,5 +5523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62422",
     "passage": ""
+  },
+  {
+    "id": 62423,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A block of text that is marked by the tab key when the enter key is pressed can be referred to as?",
+    "options": {
+      "A": "margin",
+      "B": "paragraph",
+      "C": "white space",
+      "D": "word wrap"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A block of text that is marked by the tab key when the enter key is pressed is referred to as a \" paragraph \". In word processing, a paragraph is a unit of text consisting of one or more sentences that are separated from other paragraphs by a blank line or indentation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62423",
+    "passage": ""
   }
 ]
