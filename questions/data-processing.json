@@ -8735,5 +8735,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72349",
     "passage": ""
+  },
+  {
+    "id": 72350,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The Microsoft Excel menu bar icon shown in Figure 2 is used to",
+    "options": {
+      "A": "automatically add tup selected values",
+      "B": "create label that spans multiple columns",
+      "C": "spot trends and patterns in user's data using bars, columns and icons",
+      "D": "organize data for easy analysis"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Oq2sHt0mc8tFMPPotErnygappv86fqF0y6BaA1sO.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912290/myschool/data-processing/Oq2sHt0mc8tFMPPotErnygappv86fqF0y6BaA1sO.jpg",
+    "correct_answer": "D",
+    "explanation": "This icon is the sort and filter icon. It is used to organize data for easy analysis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72350",
+    "passage": ""
   }
 ]
