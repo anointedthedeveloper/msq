@@ -1210,5 +1210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/951",
     "passage": ""
+  },
+  {
+    "id": 952,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Modern satellite towns are commonly characterized by",
+    "options": {
+      "A": "central city location, roomy houses and high building density",
+      "B": "suburban location, planned layout and spacious surroundings",
+      "C": "industrial estate location, low building density and limited open spaces",
+      "D": "rural location, planned layout and high rise apartments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/952",
+    "passage": ""
   }
 ]
