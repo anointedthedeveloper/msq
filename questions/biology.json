@@ -152,5 +152,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/299",
     "passage": ""
+  },
+  {
+    "id": 301,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A trawler on a fishing trip caught a type of animal with hairs on its body. This animal could have been",
+    "options": {
+      "A": "An amphibian",
+      "B": "a reptile",
+      "C": "a shark",
+      "D": "a mammal",
+      "E": "a seagull"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "We have aquatic mammals. These are mammals which depend on water either fully or partly. They have the qualities of mammals",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/301",
+    "passage": ""
   }
 ]
