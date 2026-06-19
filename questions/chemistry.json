@@ -9490,5 +9490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3982",
     "passage": ""
+  },
+  {
+    "id": 3983,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Certain useful waxes are composed mainly of",
+    "options": {
+      "A": "amino acids",
+      "B": "glycerols",
+      "C": "alkanols",
+      "D": "alkanoates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Waxes are esters of higher fatty acids with long chain of monohydric alcohols . It is a simple lipid that is an ester of a long-chain alcohol and a fatty acid. The alcohol may contain around 12-32 carbon atoms. Waxes are found in nature as coatings on leaves and stems. The wax prevents the plant from losing excessive amounts of water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3983",
+    "passage": ""
   }
 ]
