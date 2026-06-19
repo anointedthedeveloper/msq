@@ -3146,5 +3146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73832",
     "passage": ""
+  },
+  {
+    "id": 73833,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Nnamdi ______ ụlọ ọma ahụ.",
+    "options": {
+      "A": "nyara",
+      "B": "rụrụ",
+      "C": "gbụrụ",
+      "D": "kụrụ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The right answer is rụrụ (which means \"built\"). The sentence \"Nnamdi rụrụ ụlọ ọma ahụ\" means \"Nnamdi built a good house\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73833",
+    "passage": ""
   }
 ]
