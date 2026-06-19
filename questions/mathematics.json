@@ -3379,5 +3379,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7748",
     "passage": ""
+  },
+  {
+    "id": 7751,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The graph of the function y = x\\(^2\\) + 4 and a straight line PQ are drawn to solve the equation x\\(^2\\) - 3x + 2 = 0. What is the equation of PQ?",
+    "options": {
+      "A": "y = 3x - 2",
+      "B": "y = 3x + 2",
+      "C": "y = 3x - 4",
+      "D": "y = 3x + 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "x\\(^2\\) + 4 = x\\(^2\\) - 3x + 2 3x + 2 = y\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7751",
+    "passage": ""
   }
 ]
