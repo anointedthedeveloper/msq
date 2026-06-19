@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/789",
     "passage": ""
+  },
+  {
+    "id": 791,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An equilateral triangle of side √3cm is inscribed in a circle. Find the radius of the circle.",
+    "options": {
+      "A": "2/3 cm",
+      "B": "2 cm",
+      "C": "1 cm",
+      "D": "3 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Since the inscribed triangle is equilateral, therefore the angles at all the points = 60°\nUsing the formula for inscribed circle,\n2R = \\(\\frac{a}{\\sin A} = \\frac{b}{\\sin B} = \\frac{c}{\\sin C}\\)\nwhere R = radius of the circle; a, b and c are the sides of the triangle.\n⇒ 2R = \\(\\frac{\\sqrt{3}}{\\sin 60}\\)\n2R = \\(\\frac{\\sqrt{3}}{\\frac{\\sqrt{3}}{2}}\\)\n2R = 2\nR = 1cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/791",
+    "passage": ""
   }
 ]
