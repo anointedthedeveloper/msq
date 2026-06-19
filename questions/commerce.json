@@ -15895,5 +15895,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7616",
     "passage": ""
+  },
+  {
+    "id": 7618,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The purchase of goods under the CWO system of payment implies that?",
+    "options": {
+      "A": "money must be enclosed when ordering",
+      "B": "payment must be made on delivery",
+      "C": "payment must be made within few days",
+      "D": "cash must be paid on the spot"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cash With Order ( CWO ): A payment term whereby the buyer remits the money at the time the order is placed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7618",
+    "passage": ""
   }
 ]
