@@ -11212,5 +11212,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4325",
     "passage": ""
+  },
+  {
+    "id": 4326,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The equilibrium of an endothermic reaction which proceeds with an increase in volume can be shifted in the reverse direction by",
+    "options": {
+      "A": "increasing the temperature and decreasing the pressure",
+      "B": "increasing the pressure and increasing the temperature",
+      "C": "decreasing the temperature and increasing the pressure",
+      "D": "decreasing the pressure and decreasing the temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4326",
+    "passage": ""
   }
 ]
