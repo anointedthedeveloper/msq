@@ -2153,5 +2153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/690",
     "passage": ""
+  },
+  {
+    "id": 691,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Price control indicate the following",
+    "options": {
+      "A": "price is fixed at equilibrium level",
+      "B": "price is fixed above equilibrium level",
+      "C": "price is not fixed but determined by demand and supply",
+      "D": "price is fixed below equilibrium level",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/691",
+    "passage": ""
   }
 ]
