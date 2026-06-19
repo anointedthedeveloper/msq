@@ -3064,5 +3064,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11274",
     "passage": ""
+  },
+  {
+    "id": 11275,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The velocity y of a particle in a time t is given by the equation y = 10 + 2t\\(^2\\) Find the instantaneous acceleration after 5 seconds",
+    "options": {
+      "A": "60 ms -2",
+      "B": "20 ms -2",
+      "C": "15 ms -2",
+      "D": "10 ms -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The velocity V = 10 + 2t\\(^2\\) But acceleration, a = dv/dt thus if V = 10 + 2t\\(^2\\) dv/dt = 4t And t = 5s then a = 4x5 = 20m/s\\(^2\\) ∴ a = 20m/s\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11275",
+    "passage": ""
   }
 ]
