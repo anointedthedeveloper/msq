@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60232",
     "passage": ""
+  },
+  {
+    "id": 60233,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A modern and a telephone connection are provided. Other things needed to be able to connect a computer to the internet are _______",
+    "options": {
+      "A": "ISP account and Utility software",
+      "B": "Browser and ISP account",
+      "C": "ISP account and Network",
+      "D": "Browser and Printer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60233",
+    "passage": ""
   }
 ]
