@@ -5625,5 +5625,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76349",
     "passage": ""
+  },
+  {
+    "id": 76350,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In football, what is the difference between a direct free kick and an indirect free kick?",
+    "options": {
+      "A": "A direct free kick is given to the defending team, and an indirect free kick is given to the attacking team.",
+      "B": "A direct free kick can score a goal directly, while an indirect free kick requires a second player to touch\r\nthe ball before a goal can be scored.",
+      "C": "A direct free kick is awarded for less serious fouls, while an indirect free kick is for more serious fouls.",
+      "D": "A direct free kick is taken from a different part of the field than an indirect free kick."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In football, the key difference between a direct and indirect free kick lies in how a goal can be scored from them. A direct free kick allows the kicker to attempt to score directly without the ball touching another player first. It is awarded for more serious fouls such as handball, tripping, or charging. An indirect free kick, however, means the ball must touch another player-either a teammate or an opponent-before a goal can count. It is typically awarded for less serious or technical offenses, such as dangerous play without contact or offside infractions. The referee signals an indirect free kick by raising an arm above their head until the kick is taken and the ball touches another player or goes out of play. Understanding this difference is crucial for players and officials because it affects how the kick is taken and how/the opposing team sets up their defense.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76350",
+    "passage": ""
   }
 ]
