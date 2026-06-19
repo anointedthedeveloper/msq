@@ -501,5 +501,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72877",
     "passage": ""
+  },
+  {
+    "id": 72881,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The cost of goods available for sale is",
+    "options": {
+      "A": "647,000",
+      "B": "591,000",
+      "C": "570,000",
+      "D": "501,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cost of goods available for sale: 120,000+478,000+21,000-28,000 =591,000.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72881",
+    "passage": ""
   }
 ]
