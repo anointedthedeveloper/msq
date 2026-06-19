@@ -3966,5 +3966,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1748",
     "passage": ""
+  },
+  {
+    "id": 1749,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "When H\\(_2\\)S is passed into a solution of iron (III) chloride, the solution turns",
+    "options": {
+      "A": "Pale green",
+      "B": "Pale red",
+      "C": "Brown",
+      "D": "Colourless"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A reaction between Iron (iii) chloride and Hydrogen sulphide leads to the reaction\n2FeCl\\(_3\\)(aq) + H\\(_2\\)S(g) → 2FeCl\\(_2\\)(aq) + 2HCl(aq) + S(s)\nThe colour change is from REDDISH BROWN to PALE GREEN.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1749",
+    "passage": ""
   }
 ]
