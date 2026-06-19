@@ -8377,5 +8377,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3303",
     "passage": ""
+  },
+  {
+    "id": 3728,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A decrease in atomic size and an increase in nuclear charge across a period lead to",
+    "options": {
+      "A": "an increase in the tendency to lose electron",
+      "B": "an increase in chemical reactivity",
+      "C": "a decrease in electropositivity",
+      "D": "a decrease in covalency in bond formation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is C. A decrease in electropositivity.\nAs you move across a period in the periodic table:\n- Atomic size decreases due to the increase in effective nuclear charge.\n- Nuclear charge increases due to the addition of protons.\nThis results in:\n- A stronger attraction between the nucleus and electrons, making it more difficult for the atom to lose electrons.\n- A decrease in electropositivity (the tendency of an atom to lose electrons and form a positive ion).\nThe other options are incorrect:\nA. The tendency to lose electrons actually decreases across a period.\nB. Chemical reactivity can increase or decrease across a period, depending on the specific elements and their electron configurations.\nD. The decrease in atomic size and increase in nuclear charge can actually lead to an increase in the covalent character of bonds, as the atom becomes more electronegative.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3728",
+    "passage": ""
   }
 ]
