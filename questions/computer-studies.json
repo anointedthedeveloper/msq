@@ -19776,5 +19776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72638",
     "passage": ""
+  },
+  {
+    "id": 72639,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "What happens when a user clicks on the icon in Figure 5 on the Microsoft Excel menu bar?",
+    "options": {
+      "A": "copy of the selection is put on the clipboard so that user can paste somewhere else",
+      "B": "A label that spans multiple columns is created",
+      "C": "Content on the clipboard is added to the document",
+      "D": "Selected range of cells is quickly converted to a table with its own style"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8DULp1X0FmFCB51BA4R83R7L7Ynh7epxz5ItJOHz.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904873/myschool/computer-studies/8DULp1X0FmFCB51BA4R83R7L7Ynh7epxz5ItJOHz.jpg",
+    "correct_answer": "C",
+    "explanation": "This icon is the paste icon. When clicked, the content on the clipboard is added to the document",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72639",
+    "passage": ""
   }
 ]
