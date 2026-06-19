@@ -5271,5 +5271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62409",
     "passage": ""
+  },
+  {
+    "id": 62410,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Use the BASIC program below to answer questions 23 to 25\n10 LET K = 2\n20 LET L = 9\n30 LET SUM = 0\n40 FOR J = K TO STEP 2\n50 SUM = SUM + J\\(^2\\)\n60 PRINT \"ANSWER =\", SUM\n70 NEXT J\n80 END\nHow many times will the statement lines 50 and 60 be repeated?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62410",
+    "passage": ""
   }
 ]
