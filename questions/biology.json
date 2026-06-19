@@ -5938,5 +5938,93 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2571",
     "passage": ""
+  },
+  {
+    "id": 2580,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "The character-producing factors in living organisms are",
+    "options": {
+      "A": "Chromomeres",
+      "B": "Alleles",
+      "C": "Chromatids",
+      "D": "Chromosomes",
+      "E": "Genes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2580",
+    "passage": ""
+  },
+  {
+    "id": 2581,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "A mixture of mercurous and mercuric nitrates is added to a food substance. A white precipitates is formed which on gentle heating turns red. The food substance is",
+    "options": {
+      "A": "Protein",
+      "B": "Oil",
+      "C": "Carbohydrates",
+      "D": "Fat",
+      "E": "Fatty acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2581",
+    "passage": ""
+  },
+  {
+    "id": 2583,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "The mammalian organ through which nourishment and oxygen diffuse into a developing embryo is called",
+    "options": {
+      "A": "Amnion",
+      "B": "Chorion",
+      "C": "Umbilical cord",
+      "D": "Oviduct",
+      "E": "Placenta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2583",
+    "passage": ""
+  },
+  {
+    "id": 2584,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Osmosis can be defined as the movement of",
+    "options": {
+      "A": "Molecules from  solution of higher concentration  to low concentration",
+      "B": "Molecules from solution of low concentration to high concentration",
+      "C": "Water from solution of high concentration to low concentration",
+      "D": "Water across a semi-permeable membrane from solution of low concentration to high concentration",
+      "E": "Water across a semi-permeable membrane from solution of high concentration to low concentration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Osmosis is a special case of diffusion in which only water molecules move from a region of lower to higher water potential through a semi-permeable membrane.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2584",
+    "passage": ""
   }
 ]
