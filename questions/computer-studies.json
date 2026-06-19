@@ -8557,5 +8557,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62673",
     "passage": ""
+  },
+  {
+    "id": 62674,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A company known as CIBITO has the following memory modules in four of its computers as shown in Table 1 Use the information in Table 1 to answer questions 11 to 13.\nMEMORY MODULE\nNUMBER OF PINS\n30\n72\n72\n168\nTable 1\nWhich of the memory modules is appropriate for a notebook computer?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62674",
+    "passage": ""
   }
 ]
