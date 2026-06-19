@@ -15119,5 +15119,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24117",
     "passage": ""
+  },
+  {
+    "id": 24118,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Calculate the current in the 3Ω resistor shown in\nthe diagram above.",
+    "options": {
+      "A": "3.0A",
+      "B": "4.0A",
+      "C": "4.3A",
+      "D": "12.0A",
+      "E": "39.0A"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4158341994_wcphy199037.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891961/myschool/physics/4158341994_wcphy199037.jpg",
+    "correct_answer": "B",
+    "explanation": "1\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24118",
+    "passage": ""
   }
 ]
