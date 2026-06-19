@@ -2770,5 +2770,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3379",
     "passage": ""
+  },
+  {
+    "id": 3380,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A hunter 1.6 m tall, views a bird on top of a tree at an angle of 45°. if the distance between the hunter and the tree is 10.4 m, find the height of the tree.",
+    "options": {
+      "A": "9.0 m",
+      "B": "12. 0 m",
+      "C": "8.8 m",
+      "D": "10.4 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\tan 45 = \\frac{x}{10.4}\\) = 10.4m\n\\(height of the tree is equal to 1.6m + 10.4m=12m\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191029_142103%20%282%29_LI.jpg",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3380",
+    "passage": ""
   }
 ]
