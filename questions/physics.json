@@ -17865,5 +17865,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25050",
     "passage": ""
+  },
+  {
+    "id": 25051,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "When an atom is in the ground state, it is said to be",
+    "options": {
+      "A": "grounded",
+      "B": "excited",
+      "C": "stable",
+      "D": "ionized",
+      "E": "radiating"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25051",
+    "passage": ""
   }
 ]
