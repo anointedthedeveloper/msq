@@ -20160,5 +20160,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72694",
     "passage": ""
+  },
+  {
+    "id": 72695,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "(i)Explain a logic truth table (ii) Name two types of logic gate. (ii) Using the two named logic gates in 4a(ii), complete the truth table in Table 1.\nTable 1\n(b) Explain the term comparator as a logic device.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a(i)Logic truth table is a mathematical table used to evaluate the truth value of logical statements or arguments. It displays logical operations on input signals in table format.\n(ii) Types of logic gate are: I. OR gate II. AND gate III. NOT gate IV. NOR gate V. NAND gate VI. XOR gate XII. EXNOR gate\n(iii)\nX Y Z = X + Y (OR) Z = X - Y (AND) 0 0 0 0 0 1 1 0 1 0 1 0 1 1 1 1\n(b) Explanations of the term comparator as a logic device are:\n* A comparator is a logic device that compares two input values (X and Y) and produces an output based on their relative values. It is basically a digital circuit that determines whether one value is greater than, less than or equal to another. The output is I if the condition is met and O if not. Comparators are commonly used in digital systems for data comparison, error detection, sorting and searching, digital arithmetic circuits, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72695",
+    "passage": ""
   }
 ]
