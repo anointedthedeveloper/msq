@@ -8251,5 +8251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9295",
     "passage": ""
+  },
+  {
+    "id": 9296,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the median of 4, 1, 4, 1, 0, 4, 4, 2 and 0",
+    "options": {
+      "A": "zero",
+      "B": "1",
+      "C": "2",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "4, 4, 1, 0, 4, 4, 2, 0 Arrange in ascending order: 0, 0, 1, 1, 2, 4, 4, 4, 4 Position of median = N+1 / 2 = 9+1 / 2 = 5th Median = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9296",
+    "passage": ""
   }
 ]
