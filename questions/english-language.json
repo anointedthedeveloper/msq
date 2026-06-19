@@ -42,5 +42,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/86",
     "passage": ""
+  },
+  {
+    "id": 89,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nHe spoke with his heart in his mouth",
+    "options": {
+      "A": "courageously",
+      "B": "with such unusual cowardice",
+      "C": "with a lot of confusion in his speech",
+      "D": "without being able to make up his mind",
+      "E": "with fright and agitation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Heart is in his/her mouth; If someone's heart is in their mouth, they are feeling extremely nervous feeling of being anxious and worried.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/89",
+    "passage": ""
   }
 ]

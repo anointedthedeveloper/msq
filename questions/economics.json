@@ -42,5 +42,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/116",
     "passage": ""
+  },
+  {
+    "id": 118,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When elasticity is zero, the demand curve is",
+    "options": {
+      "A": "Perfectly elastic",
+      "B": "Perfectly inelastic",
+      "C": "Concave",
+      "D": "Downward slopping",
+      "E": "Circular"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "If the price elasticity of demand is zero, it means that the demand is totally independent of the price. No matter how the price changes, people buy the same quantity of the product. The demand curve of essential commodities like medicines has a slope which approaches zero. The demand curve will be perfectly inelastic.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/118",
+    "passage": ""
   }
 ]
