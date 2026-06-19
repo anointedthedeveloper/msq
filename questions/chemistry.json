@@ -2727,5 +2727,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1569",
     "passage": ""
+  },
+  {
+    "id": 1570,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The conditions necessary for the extraction of a water molecule from two molecules of ethanol are",
+    "options": {
+      "A": "less acid and lower temperature",
+      "B": "excess acid and a lower temperature",
+      "C": "excess acid and a higher temperature",
+      "D": "less acid and a higher temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The conditions necessary for extracting a water molecule from two ethanol molecules are:\nConcentrated sulfuric acid : The reaction requires concentrated sulfuric acid. Temperature : The reaction requires a temperature of 140°C. Excess ethanol : The reaction requires excess ethanol.    The reaction that extracts a water molecule from two ethanol molecules is called dehydration, and it produces diethyl ether and a water molecule. Two ethanol molecules can also be dehydrated to form diethyl ether and a water molecule. This reaction also requires a high temperature, such as 140°C, and concentrated sulfuric acid. The correct answer then is excess acid and a higher temperature. - Option C\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1570",
+    "passage": ""
   }
 ]
