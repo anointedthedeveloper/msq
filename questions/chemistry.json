@@ -8587,5 +8587,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3737",
     "passage": ""
+  },
+  {
+    "id": 3738,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In which of the following is the oxidation number of sulphur equal to - 2?",
+    "options": {
+      "A": "SO 3",
+      "B": "S 8",
+      "C": "H 2 S",
+      "D": "SO 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "H\\(_2\\)S = 0\nBearing in mind that the oxidation state of H = + 1\nH\\(_2\\) + S = 0\n2(+1) + S = 0\n+ 2 + S = 0\nS = 0 - 2\nS = - 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3738",
+    "passage": ""
   }
 ]
