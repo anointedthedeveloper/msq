@@ -13321,5 +13321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64388",
     "passage": ""
+  },
+  {
+    "id": 64389,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following system software resides in the main memory always?",
+    "options": {
+      "A": "Text editor",
+      "B": "Assembler",
+      "C": "Linker",
+      "D": "Loader"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The loader is always in the main memory because it must not be separated from the computer else, the system will not function.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64389",
+    "passage": ""
   }
 ]
