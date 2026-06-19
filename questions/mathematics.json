@@ -5731,5 +5731,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8692",
     "passage": ""
+  },
+  {
+    "id": 8694,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The gradient of a curve is 2x + 7 and the curve passes through point (2, 0). find the equation of the curve.",
+    "options": {
+      "A": "y = x 2 + 7x + 9",
+      "B": "y = x 2 + 7x - 18",
+      "C": "y = x 2 + 7x + 18",
+      "D": "y = x 2 + 14x + 11"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "dy/dx = 2x + 7 y = ∫2x + 7 y = x2 + 7x + C at (2,0) 0 = 22 + 7(2) + C 0 = 4 + 14 + C 0 = 18 + C C = -18 ∴ The equation is y = x2 + 7x - 18\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8694",
+    "passage": ""
   }
 ]
