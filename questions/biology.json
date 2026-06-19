@@ -1956,5 +1956,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/593",
     "passage": ""
+  },
+  {
+    "id": 595,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The vacuole of a plant cell is",
+    "options": {
+      "A": "a large empty space",
+      "B": "smaller than that of animal cell",
+      "C": "filled with air",
+      "D": "an ordinary vacuum",
+      "E": "surrounded by a membrane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A large central vacuole is usually found in a mature cell in plants. it is lined with a membrane and filled with cell sap. Cell sap acts as a storehouse for many substances including excretory products.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/595",
+    "passage": ""
   }
 ]
