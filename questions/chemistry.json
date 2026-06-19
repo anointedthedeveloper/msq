@@ -8230,5 +8230,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3296",
     "passage": ""
+  },
+  {
+    "id": 3297,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "When a crystal was added to the clear solution of its salt, the crystal did not dissolve and the solution remained unchanged. This showed that the solution was",
+    "options": {
+      "A": "supersaturated",
+      "B": "concentrated",
+      "C": "unsaturated",
+      "D": "saturated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. Saturated.\nWhen a crystal of a salt is added to a saturated solution of the same salt, the crystal does not dissolve, and the solution remains unchanged. This indicates that the solution has reached its maximum capacity to dissolve the salt, and no more salt can be dissolved.\nA saturated solution is a chemical equilibrium state where the rate of dissolution of the solute equals the rate of precipitation. In this case, the solution is already holding as much dissolved salt as it can, so the added crystal doesn't dissolve.\nThe other options are not correct:\nA. Supersaturated solutions are unstable and can't persist indefinitely. If a crystal were added to a supersaturated solution, it would trigger precipitation.\nB. Concentrated solutions have a high amount of solute dissolved in the solvent, but this doesn't necessarily mean the solution is saturated.\nC. Unsaturated solutions have the capacity to dissolve more solute. If a crystal were added to an unsaturated solution, it would dissolve.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3297",
+    "passage": ""
   }
 ]
