@@ -4345,5 +4345,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/55241",
     "passage": ""
+  },
+  {
+    "id": 55499,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "The Colony and Protectorate of Lagos and the Protectorate of Southern Nigeria were merged in ... to form",
+    "options": {
+      "A": "1906, Colony and Protectorate of Southern Nigeria",
+      "B": "1901, Colony and Protectorate of Southern Nigeria",
+      "C": "1906, Lagos Colony and Southern Nigeria Protectorate",
+      "D": "1901, Colony and Protectorate of Nigeria"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1906, the Colony and Protectorate of Southern Nigeria is the correct answer. The amalgation of 1914 produced the Colony and Protectorate of Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/55499",
+    "passage": ""
+  },
+  {
+    "id": 55500,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "The major administrative change made immediately after the 1914 Amalgamation was the?",
+    "options": {
+      "A": "introduction of a direct taxation system",
+      "B": "creation of districts for political convenience",
+      "C": "imposition of warrant chiefs in the Eastern Region",
+      "D": "division of Nigeria into provinces"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Division of Nigeria into provinces is the correct answer. The only administrative change made upon the amalgamation of 1914 was the division of the territory into provinces headed by provincial commissioners.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/55500",
+    "passage": ""
   }
 ]
