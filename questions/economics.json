@@ -108,5 +108,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/123",
     "passage": ""
+  },
+  {
+    "id": 141,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Malthus became famous through his theory which may be stated simply",
+    "options": {
+      "A": "the death rate may become so high that people may not be able to produce",
+      "B": "population may outgrow the means of subsistence",
+      "C": "people will eventually decide not to have children",
+      "D": "migration of people from one place to another may leave some parts of the world barren",
+      "E": "all of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Malthus theory states that population growth will always tend to outrun the food supply and that betterment of humankind is impossible without strict limits on reproduction",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/141",
+    "passage": ""
   }
 ]
