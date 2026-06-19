@@ -6906,5 +6906,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2961",
     "passage": ""
+  },
+  {
+    "id": 2962,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "What will happen if an aluminium spoon is used to stir a solution of iron (II) trioxonitrates (V)?",
+    "options": {
+      "A": "The spoon will be oxidized while the iron (II) ions will be reduced to the metal",
+      "B": "The spoon will increase in size",
+      "C": "The spoon will be reduced while the iron (II) ions will be oxidized",
+      "D": "The spoon will be reduced"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When an aluminum spoon reacts with a solution of iron(II) trioxonitrate(V) (Fe(NO3)2), aluminum, being more reactive than iron, displaces iron from its compound, resulting in the formation of solid iron and aluminum nitrate solution.\nThe chemical reaction can be represented as: 2Al(s) + 3Fe(NO\\(_3\\))\\(_2\\)(aq) → 3Fe(s) + 2Al(NO\\(_3\\))\\(_3\\)(aq)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2962",
+    "passage": ""
   }
 ]
