@@ -1572,5 +1572,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1465",
     "passage": ""
+  },
+  {
+    "id": 1467,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A pair of compounds that can be used to generate a gas which has physiological effect on human beings is",
+    "options": {
+      "A": "sodium trioxonitrate (V) and calcium chloride",
+      "B": "sodium dioxonitrate (III) and ammonium chloride",
+      "C": "sodium trioxonitrate (V) and ammonium chloride",
+      "D": "sodium dioxonitrate (III) and potassium chloride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The reaction between NaNO\\(_3\\) and NH\\(_4\\)Cl gives NaCl and NH\\(_4\\)NO\\(_3\\).\nUpon heating, NH\\(_4\\)NO\\(_3\\) yields 2 moles of H\\(_2\\)O and N\\(_2\\)O.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1467",
+    "passage": ""
   }
 ]
