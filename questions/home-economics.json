@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73189",
     "passage": ""
+  },
+  {
+    "id": 73190,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following factors should be considered the most important in meal planning?",
+    "options": {
+      "A": "Cooking facilities available",
+      "B": "Service of the meal",
+      "C": "Nutritional needs of the family",
+      "D": "Time available for preparation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Meal planning should prioritize the nutritional needs of the family to ensure everyone gets a balanced diet. This includes considering:\nAge and gender of family members Dietary restrictions or allergies Nutrient requirements for optimal health",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73190",
+    "passage": ""
   }
 ]
