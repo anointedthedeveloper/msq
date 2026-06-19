@@ -1120,5 +1120,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15883",
     "passage": ""
+  },
+  {
+    "id": 15893,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The incubation period for turkey is",
+    "options": {
+      "A": "15 days",
+      "B": "21 days",
+      "C": "27 days",
+      "D": "35 days",
+      "E": "42 days"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15893",
+    "passage": ""
   }
 ]
