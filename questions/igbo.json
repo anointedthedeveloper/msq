@@ -2496,5 +2496,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73800",
     "passage": ""
+  },
+  {
+    "id": 73801,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How do you say \"Good night\" in Igbo?",
+    "options": {
+      "A": "Nbọọla chị",
+      "B": "Ehihiẹ ọma",
+      "C": "Ka ọ mesịa",
+      "D": "Ka chị bọọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Good night in Igbo is \"Nbọọla chị\" (not \"Nbọọla chị\"). \"Nbọọla\" means \"night\" and \"chị\" means \"good\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73801",
+    "passage": ""
   }
 ]
