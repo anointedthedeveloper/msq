@@ -2495,5 +2495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49898",
     "passage": ""
+  },
+  {
+    "id": 49899,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following agents usually sells animal products in large quantity",
+    "options": {
+      "A": "consumer",
+      "B": "producer",
+      "C": "retailer",
+      "D": "wholesaler"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A wholesaler is a person or company that sells goods in large quantities at low prices, typically to retailers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49899",
+    "passage": ""
   }
 ]
