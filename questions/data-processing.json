@@ -1585,5 +1585,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57735",
     "passage": ""
+  },
+  {
+    "id": 57736,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Acomputer pofessional who studies an existing system with a view to evolving a computer based system from it is",
+    "options": {
+      "A": "system analyst",
+      "B": "system administrator",
+      "C": "computer programmer",
+      "D": "computer engineer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57736",
+    "passage": ""
   }
 ]
