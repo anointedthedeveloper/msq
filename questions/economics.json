@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/145",
     "passage": ""
+  },
+  {
+    "id": 191,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Price control cannot work in Nigeria because",
+    "options": {
+      "A": "the population is too large",
+      "B": "the policemen hate to arrest people",
+      "C": "while it is fairly easy to control producers and importing firms, smaller distributors are too many to be controlled",
+      "D": "control cannot work under military rule",
+      "E": "too many things are produced in the country"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/191",
+    "passage": ""
   }
 ]
