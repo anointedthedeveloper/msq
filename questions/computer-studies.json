@@ -17355,5 +17355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69833",
     "passage": ""
+  },
+  {
+    "id": 69834,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "During the booting process in Windows, the Master Boot Record is loaded by the",
+    "options": {
+      "A": "BIOS .",
+      "B": "Init.",
+      "C": "Kernel",
+      "D": "GRUB"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During the booting process in Windows, the Master Boot Record (MBR) is loaded by the \"BIOS\" (Basic Input/Output System). The MBR is a small piece of code that is stored at the beginning of a hard drive. It is responsible for loading the operating system into memory. When the computer boots up, the BIOS first checks the MBR to see if it is bootable. If it is, the BIOS will load the operating system into memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69834",
+    "passage": ""
   }
 ]
