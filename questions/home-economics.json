@@ -2665,5 +2665,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73300",
     "passage": ""
+  },
+  {
+    "id": 73301,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Oral rehydration therapy is a first-line treatment for ............",
+    "options": {
+      "A": "Diarrhea",
+      "B": "Convulsion",
+      "C": "Colic",
+      "D": "Constipation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Oral rehydration therapy (ORT) is a first-line treatment for diarrhea, particularly in cases of dehydration or risk of dehydration. It involves administering a solution that replaces lost fluids and electrolytes, such as oral rehydration salts (ORS) or other homemade solutions like sugar and salt water.\nORT is effective in treating diarrhea because it:\nReplaces lost fluids and electrolytes Helps restore hydration and electrolyte balance Reduces the risk of dehydration and its complications",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73301",
+    "passage": ""
   }
 ]
