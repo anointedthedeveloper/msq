@@ -2801,5 +2801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6233",
     "passage": ""
+  },
+  {
+    "id": 6234,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Identify the non-fuel mineral among the following",
+    "options": {
+      "A": "Petroleum",
+      "B": "Cassiterite",
+      "C": "Lignite",
+      "D": "Anthracite",
+      "E": "Peat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6234",
+    "passage": ""
   }
 ]
