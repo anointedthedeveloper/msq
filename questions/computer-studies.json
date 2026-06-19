@@ -18873,5 +18873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71053",
     "passage": ""
+  },
+  {
+    "id": 71054,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does SSD stand for, and what is its primary advantage?",
+    "options": {
+      "A": "Super Speed Disk, larger capacity",
+      "B": "Secure Storage Device, better security",
+      "C": "Simple Storage Disk, ease of use",
+      "D": "Solid State Drive, faster speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Solid State Drive, faster speed.\nSSD stands for Solid-State Drive. The primary advantage of SSDs over traditional hard disk drives (HDDs) is their significantly faster speed. This is due to their lack of moving parts, which eliminates the time it takes for the drive head to seek data on a spinning disk. While SSDs can be more expensive than HDDs, their performance benefits, especially in tasks like booting up, loading applications, and transferring files, make them a popular choice for many users.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71054",
+    "passage": ""
   }
 ]
