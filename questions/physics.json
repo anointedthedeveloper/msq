@@ -15493,5 +15493,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24166",
     "passage": ""
+  },
+  {
+    "id": 24168,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A radioactive substance has a half-life of 20 hours. What fraction of the original radioactive nuclei will remain after 80 hours?",
+    "options": {
+      "A": "1/32",
+      "B": "1/16",
+      "C": "1/8",
+      "D": "1/4",
+      "E": "1/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24168",
+    "passage": ""
   }
 ]
