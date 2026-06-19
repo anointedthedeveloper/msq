@@ -6927,5 +6927,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3001",
     "passage": ""
+  },
+  {
+    "id": 3002,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nWould you mind …. the door, please?",
+    "options": {
+      "A": "To shut",
+      "B": "To be shutting",
+      "C": "Shutting",
+      "D": "To have been shutting",
+      "E": "To have shut"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3002",
+    "passage": ""
   }
 ]
