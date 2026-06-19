@@ -9903,5 +9903,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/marketing/77114",
     "passage": ""
+  },
+  {
+    "id": 77115,
+    "subject": "marketing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Use of the following information to answer this question BIK Ltd has developed a new health application for the public. Which of the following illustrations would be used to distribute the application?",
+    "options": {
+      "A": "Producer------> Consumer",
+      "B": "Producer-- > Retailer-- > Consumer",
+      "C": "Producer-- > Wholesaler --- > Retailer-->Consumer",
+      "D": "Producer--- Agent ---Retailer --->Consumer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question is about the distribution of a digital product, a health application. Digital products are typically distributed directly from the producer to the consumer, without the need for intermediaries such as retailers or wholesalers. This is because digital products can be easily and instantly delivered over the internet. Therefore, the correct illustration of the distribution would be 'Producer ------> Consumer'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/marketing/77115",
+    "passage": ""
   }
 ]
