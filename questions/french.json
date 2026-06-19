@@ -3238,5 +3238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71202",
     "passage": ""
+  },
+  {
+    "id": 71203,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeComment faut-il saluer ton ami quand te donne un cadeau?",
+    "options": {
+      "A": "Bonne journée",
+      "B": "Bonne chance",
+      "C": "Bon appétit",
+      "D": "Merci beaucoup"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks how one should respond when a friend gives them a gift. The correct answer is Merci beaucoup (thank you very much), a it is a polite and appropriate expression of gratitude. The other options - Bon appétit (good appetite), Bonne chance (good luck), Bonne journée (good day), and Félicitations (congratulations) - do not fit the context of receiving a gift.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71203",
+    "passage": ""
   }
 ]
