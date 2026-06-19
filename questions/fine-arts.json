@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48025",
     "passage": ""
+  },
+  {
+    "id": 48026,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "A spatula can be inprovised using",
+    "options": {
+      "A": "feather",
+      "B": "wood",
+      "C": "charcoal",
+      "D": "clay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48026",
+    "passage": ""
   }
 ]
