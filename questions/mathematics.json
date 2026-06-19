@@ -11119,5 +11119,49 @@
     "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906874/myschool/mathematics/IMG_20191129_162257_%282%29.jpg",
     "url": "https://myschool.ng/classroom/mathematics/22100",
     "passage": ""
+  },
+  {
+    "id": 22101,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Find the product xy if, x, 3/2, 6/7, y are in G.P",
+    "options": {
+      "A": "24/49",
+      "B": "4/7",
+      "C": "9/7",
+      "D": "7/4",
+      "E": "21/8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In GP, when you are given three consecutive terms, say f, g, h, then\n\\(f \\times h = g^2\\)\nGiven: \\(x, \\frac{3}{2}, \\frac{6}{7}, y\\), then\n\\(\\frac{6x}{7} = (\\frac{3}{2})^2 \\implies \\frac{6x}{7} = \\frac{9}{4} ... (i)\\)\nAlso, \\(\\frac{3y}{2} = (\\frac{6}{7})^2 \\implies \\frac{3y}{2} = \\frac{36}{49} ... (ii)\\)\nFrom \\(\\frac{6x}{7} = \\frac{9}{4} \\implies x = \\frac{9 \\times 7}{6 \\times 4}\\)\n\\(x = \\frac{21}{8}\\)\nAlso, \\(\\frac{3y}{2} = \\frac{36}{49} \\implies y = \\frac{2 \\times 36}{3 \\times 49}\\)\n= \\(\\frac{24}{49}\\)\n\\(xy = \\frac{21}{8} \\times \\frac{24}{49} = \\frac{9}{7}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22101",
+    "passage": ""
+  },
+  {
+    "id": 22148,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In the diagram above, O is the center of the circle, BOC is a diameter and angle ADC is 37o What is ACB?",
+    "options": {
+      "A": "147 o",
+      "B": "127 o",
+      "C": "65 o",
+      "D": "53 o",
+      "E": "37 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24894893952_wcmath198828.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906916/myschool/mathematics/24894893952_wcmath198828.jpg",
+    "correct_answer": "D",
+    "explanation": "From the figure \\(< ABC = < ADC = 37°\\) (angles on the same segment)\n\\(< BCA = 90°\\) (angle in semi-circle)\n\\(\\therefore\\) In \\(\\Delta ABC\\), \\(< ACB = 180° - (37° + 90°)\\)\n= 53°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22148",
+    "passage": ""
   }
 ]
