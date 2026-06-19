@@ -14464,5 +14464,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12884",
     "passage": ""
+  },
+  {
+    "id": 12907,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "If a gas occupies a container of volume 146 cm3 at 18°C and 0.971 atm, its volume in cm3 at s.t.p is?",
+    "options": {
+      "A": "133",
+      "B": "146",
+      "C": "266",
+      "D": "292"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "V1 = 146cm3 T1 = 273 + 118 = 291 k P1 = 0.971 atmosphere V2 = ? T2 = 273K P2 = 1 atom V2 = (0.971 atom χ 146cm3 χ 273k)/(1atm χ 291k) = 132997 0r = 133cm3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12907",
+    "passage": ""
   }
 ]
