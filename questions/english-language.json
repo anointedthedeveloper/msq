@@ -1449,5 +1449,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/577",
     "passage": ""
+  },
+  {
+    "id": 578,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nIsn't it high time you .... your office?",
+    "options": {
+      "A": "are leaving",
+      "B": "do leave",
+      "C": "leave",
+      "D": "left",
+      "E": "did leave"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Whenever a sentence starts with \"it is high time'' or it's time\", it always followed by the subject+past tense.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/578",
+    "passage": ""
   }
 ]
