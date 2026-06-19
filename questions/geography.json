@@ -4187,5 +4187,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6662",
     "passage": ""
+  },
+  {
+    "id": 6664,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "which of these sets best arranges these settlement types in ascending order in terms of their complexity of function?",
+    "options": {
+      "A": "hamlet,village,town,city,metropolis",
+      "B": "village,hamlet,city,town,metropolis",
+      "C": "metropolis,town,city,village,hamlet",
+      "D": "town,hamlet,village,city,metropolis",
+      "E": "metropolis,city,town,village,hamlet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6664",
+    "passage": ""
   }
 ]
