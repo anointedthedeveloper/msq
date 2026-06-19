@@ -15099,5 +15099,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7533",
     "passage": ""
+  },
+  {
+    "id": 7534,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The document issued to a port authority when goods are deposited is a?",
+    "options": {
+      "A": "dock landing account",
+      "B": "bill of sight",
+      "C": "bill of lading",
+      "D": "dock warrant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A dock warrant is an instrument issued by a ware housekeeper, licensed by the state to traders who deposit goods with them. A dock warrant certifies that the holder is entitled to goods imported and warehoused in the docks. It transfers the absolute right to the goods described in it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7534",
+    "passage": ""
   }
 ]
