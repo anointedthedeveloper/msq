@@ -12409,5 +12409,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4498",
     "passage": ""
+  },
+  {
+    "id": 4499,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The IUPAC nomenclature of the compound above is?",
+    "options": {
+      "A": "4 - ethyloctane",
+      "B": "5 - ethyloctane",
+      "C": "5 - propylheptane",
+      "D": "3 - propylheptane"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16231830192_chem200940.gif",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891067/myschool/chemistry/16231830192_chem200940.gif",
+    "correct_answer": "A",
+    "explanation": "Adhering to the basic naming rules, this compound is identified as  4 - ethyloctane\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4499",
+    "passage": ""
   }
 ]
