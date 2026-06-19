@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57287",
     "passage": ""
+  },
+  {
+    "id": 57292,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "While typing a MS word document, Akin inserted footer in the document in order to",
+    "options": {
+      "A": "enhance the overall appearance of the document.",
+      "B": "make the document more readable",
+      "C": "insert page numbers",
+      "D": "make it appear on the document when printed."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Footers are primarily used to add page numbers to documents, aiding in navigation for both printed and digital formats.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57292",
+    "passage": ""
   }
 ]
