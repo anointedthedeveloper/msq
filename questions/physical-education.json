@@ -6758,5 +6758,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76509",
     "passage": ""
+  },
+  {
+    "id": 76510,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why is dietary fibre an important part of a balanced diet?",
+    "options": {
+      "A": "It provides a high source of calories.",
+      "B": "It is a source of essential amino acids.",
+      "C": "It helps regulate digestion and prevents constipation.",
+      "D": "It helps the body absorb vitamins more quickly."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Dietary fibre is a type of carbohydrate that the body cannot digest. It adds bulk to the stool, which helps food move more easily through the digestive system. This regulation of digestion helps prevent constipation and promotes regular bowel movements. Fibre also supports gut health by feeding beneficial bacteria in the intestines. Unlike other nutrients, fibre does not provide calories or amino acids and does not directly affect vitamin absorption.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76510",
+    "passage": ""
   }
 ]
