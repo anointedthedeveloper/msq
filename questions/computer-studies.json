@@ -754,5 +754,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60239",
     "passage": ""
+  },
+  {
+    "id": 60240,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Use Table 3 to answer the questions below\nWhich cells in table 3 contain numeric data with the least value?",
+    "options": {
+      "A": "A5",
+      "B": "B5",
+      "C": "C5",
+      "D": "D5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60240",
+    "passage": ""
   }
 ]
