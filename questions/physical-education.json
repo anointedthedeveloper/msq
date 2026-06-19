@@ -3295,5 +3295,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68309",
     "passage": ""
+  },
+  {
+    "id": 68310,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The type of hazardous pollution caused by automobile is ______",
+    "options": {
+      "A": "hydrogen",
+      "B": "carbon monoxide",
+      "C": "carbon dioxide",
+      "D": "oxygen."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Carbon monoxide is a colourless, odourless, tasteless gas produced by burning gasoline, wood. It is a poisonous gas that can make you seriously ill if you breathe it in",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68310",
+    "passage": ""
   }
 ]
