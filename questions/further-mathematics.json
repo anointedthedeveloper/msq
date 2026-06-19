@@ -2685,5 +2685,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50439",
     "passage": ""
+  },
+  {
+    "id": 50442,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is a factor of the polynomial \\(6x^{4} + 2x^{3} + 15x + 5\\)?",
+    "options": {
+      "A": "3x + 1",
+      "B": "x + 1",
+      "C": "2x + 1",
+      "D": "x + 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Using the remainder theorem, if (x - a) is a factor of f(x), then f(a) = 0.\nCheck the options and get the answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50442",
+    "passage": ""
   }
 ]
