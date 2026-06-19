@@ -4198,5 +4198,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8192",
     "passage": ""
+  },
+  {
+    "id": 8193,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In how many ways can 2 students be selected from a group of 5 students in a debating competition?",
+    "options": {
+      "A": "25 ways",
+      "B": "10 ways",
+      "C": "15 ways",
+      "D": "20 ways"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The number of ways of selecting the debtors = \\(^5C_2\\) ways\n\\(^5C_2\\) = \\(\\frac{5!}{(5 - 2)!2!}\\)\n= \\(\\frac{5 . 4 . 3!}{(3!)2!}\\) = \\(\\frac{5. 4}{2. 1}\\) = 10ways\n(3!s cancels ou)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8193",
+    "passage": ""
   }
 ]
