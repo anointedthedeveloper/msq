@@ -1537,5 +1537,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/632",
     "passage": ""
+  },
+  {
+    "id": 633,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Net national income is",
+    "options": {
+      "A": "Gross national income minus depreciation",
+      "B": "gross domestic product plus net income from abroad",
+      "C": "nominal national income divided by the price level",
+      "D": "gross national income divided by the total population",
+      "E": "gross national product plus subsidies minus indirect taxes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/633",
+    "passage": ""
   }
 ]
