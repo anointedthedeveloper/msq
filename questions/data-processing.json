@@ -9671,5 +9671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77056",
     "passage": ""
+  },
+  {
+    "id": 77057,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following items is not an advantage of a DBMS?",
+    "options": {
+      "A": "Improved data consistency",
+      "B": "improved ability to enforce standards",
+      "C": "Local control over the data",
+      "D": "Minimal data redundancy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The advantage of a Database Management System (DBMS) is that it provides a centralized view and control over data. Local control over the data is not an advantage of DBMS as it can lead to inconsistencies and data redundancy. In a DBMS, data is stored in a centralized manner and access is controlled by the database administrator.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77057",
+    "passage": ""
   }
 ]
