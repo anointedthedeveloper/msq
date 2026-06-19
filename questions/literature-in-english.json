@@ -856,5 +856,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/500",
     "passage": "From the novel; No Longer at Ease"
+  },
+  {
+    "id": 503,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "'All's over,Sweet',he cried To the wife,thus guise;for the young page was she 'Tis as we hoped and said't would be. He never guessed...we mount and ride To where our love can reign uneyed He's clay,and we are free. From Thomas Hardy's,The Duel) The theme of this poem is",
+    "options": {
+      "A": "bravery",
+      "B": "honour",
+      "C": "betrayal",
+      "D": "death of a fool",
+      "E": "the evil of duelling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The speaker in the poem deceives and betrays his opponent and this leads to the opponent's death (\"He never guessed...we mount and ride / To where our love can reign uneyed\"). The poem revolves around the treachery and deceit involved in the duel and highlights the theme of betrayal.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/503",
+    "passage": ""
   }
 ]
