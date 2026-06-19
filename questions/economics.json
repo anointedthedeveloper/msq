@@ -4309,5 +4309,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2545",
     "passage": ""
+  },
+  {
+    "id": 2546,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "if AC = Average Cost of production , TC = Total Cost of production VC = Variable Cost of production FC = Fixed Cost of production Q = Quantity of goods produced Then,",
+    "options": {
+      "A": "AC     =     TC; \t    TC  =  VC  +  FC",
+      "B": "AC =  \\(\\frac{(TC)}{Q}\\):  TC   =  VC  + FC",
+      "C": "AC =   TC;        TC    = (VC)(FC)                                Q",
+      "D": "AC    =  TC- FC:     VC   =  TC-  AC",
+      "E": "AC    =  TC ;    TC =  VC   +  AC                  Q"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Average Cost (AC) is defined as the total cost divided by the quantity produced:\nAC = \\(\\frac{TC}{Q}\\)\nTotal Cost (TC) is the sum of Variable Cost (VC) and Fixed Cost (FC): TC = VC + FC",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2546",
+    "passage": ""
   }
 ]
