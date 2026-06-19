@@ -4918,5 +4918,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75867",
     "passage": ""
+  },
+  {
+    "id": 75868,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marche Samedi matin, Claire se rend au marche avec sa mere. Le marche est tres animé. Il y a des vendeurs de fruits, de légumes, de viande et de poisson. Claire aime surtout le stand de fruits, car elle adore les mangues, les bananes et les fraises. Sa mere achete des carottes, des tomates et du poisson pour preparer le dejeuner. Apres les achats, elles prennent un jus d'orange frais avant de rentrer à la maison. Qu'est-ce que Claire et sa mère font après leurs achats ?",
+    "options": {
+      "A": "Elles achètent une voiture.",
+      "B": "Elles vont au cinema.",
+      "C": "Elles prennent un jus d'orange.",
+      "D": "Elles visitent leur tante."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The last sentence says they drink fresh orange juice before going home.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75868",
+    "passage": ""
   }
 ]
