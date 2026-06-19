@@ -4787,5 +4787,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1903",
     "passage": ""
+  },
+  {
+    "id": 1904,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "On liquidation of a public limited liability company, the residual owners are the",
+    "options": {
+      "A": "creditors",
+      "B": "ordinary shareholders",
+      "C": "preference shareholders",
+      "D": "debenture holders"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Common stockholders also known as ordinary shareholders, are the residual owners because their claim to dividends and receiving compensation in the case of bankruptcy, are at the bottom of the line. This means that, other classes of shareholders get compensated first, and whatever is left is given to the common stock holders.\nResidual claim: is the rights of shareholders to the remaining assets once the fixed claims on a business have been met.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1904",
+    "passage": ""
   }
 ]
