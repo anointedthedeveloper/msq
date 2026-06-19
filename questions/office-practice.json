@@ -3236,5 +3236,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66860",
     "passage": ""
+  },
+  {
+    "id": 66861,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of these documents would be used to procure an item from the store?",
+    "options": {
+      "A": "quotation",
+      "B": "receipt",
+      "C": "invoice",
+      "D": "requisition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A requisition order is a document used to request the purchasing of goods or services on behalf of a firm, submitted by an authorized employee or department, and approved by the financial department.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66861",
+    "passage": ""
   }
 ]
