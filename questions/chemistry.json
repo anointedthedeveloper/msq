@@ -11758,5 +11758,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4467",
     "passage": ""
+  },
+  {
+    "id": 4468,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "How many unpaired electron(s) are there in the nitrogen sub-levels?",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "1",
+      "D": "none"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Nitrogen has 7 electrons in all. Its electronic configuration is = \\(1s^22s^22p^3\\) So, it has three unpaired electrons in its p-orbitals. Note that the p orbital can accommodate a maximum of 6 electrons\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4468",
+    "passage": ""
   }
 ]
