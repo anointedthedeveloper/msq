@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1132",
     "passage": ""
+  },
+  {
+    "id": 1134,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Divide: \\(a^{3x} - 26a^{2x} + 156a^{x} - 216\\) by \\(a^{2x} - 24a^{x} + 108\\).",
+    "options": {
+      "A": "a x - 2",
+      "B": "a x + 2",
+      "C": "a x - 8",
+      "D": "a x - 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{a^{3x} - 26a^{2x} + 156a^{x} - 216}{a^{2x} - 24a^{x} + 108}\\)\nLet \\(a^{x} = z\\)\n\\(\\therefore = \\frac{z^{3} - 26z^{2} + 156z - 216}{z^{2} - 24y + 108} ... (i)\\)\nDividing (i) above, we get \\(z - 2\\)\n= \\(a^{x} - 2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1134",
+    "passage": ""
   }
 ]
