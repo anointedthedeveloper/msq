@@ -2181,5 +2181,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1496",
     "passage": ""
+  },
+  {
+    "id": 1497,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Water molecule can be ligands especially when they are bonded to",
+    "options": {
+      "A": "alkaline earth metals",
+      "B": "alkali metals",
+      "C": "transition metals",
+      "D": "group VII elements"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ligands are molecules or ions that bond to a central metal atom or ion. Water molecules can act as ligands when bonded to transition metals. When a water molecule acts as a ligand, it's called an aqua ligand.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1497",
+    "passage": ""
   }
 ]
