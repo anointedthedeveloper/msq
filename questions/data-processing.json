@@ -2932,5 +2932,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58405",
     "passage": ""
+  },
+  {
+    "id": 58408,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Internet banking entails",
+    "options": {
+      "A": "applying computer networks in banking operation",
+      "B": "applying computers to automate banking operations",
+      "C": "generating tokens and One-Time-Passwords for online payments",
+      "D": "Using ATM for banking operations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58408",
+    "passage": ""
   }
 ]
