@@ -7757,5 +7757,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62552",
     "passage": ""
+  },
+  {
+    "id": 62553,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The ASCII chart control characters using numeric codes ranging from?",
+    "options": {
+      "A": "0 to 124",
+      "B": "0 to 125",
+      "C": "0 to 127",
+      "D": "0 to 128"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62553",
+    "passage": ""
   }
 ]
