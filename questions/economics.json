@@ -1010,5 +1010,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/459",
     "passage": ""
+  },
+  {
+    "id": 460,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Bondholders are treated more favorably than shareholders because",
+    "options": {
+      "A": "They are not liable for the companies losses",
+      "B": "They greater voice in the electing board of the directors",
+      "C": "They control the management",
+      "D": "They have a prior claim on the companies assets",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "They have a prior claim on the company's assets as bondholders are paid before shareholders in the event of liquidation.\nIn a liquidation scenario, bondholders have a higher priority claim on the company’s assets than shareholders. This means they are paid before any distributions are made to equity holders. If there are insufficient funds from asset sales to cover all debts, bondholders may receive only a fraction of what they are owed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/460",
+    "passage": ""
   }
 ]
