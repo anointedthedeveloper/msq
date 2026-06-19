@@ -7747,5 +7747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3273",
     "passage": ""
+  },
+  {
+    "id": 3274,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The raw materials used for the smelting of iron ore in a furnace is",
+    "options": {
+      "A": "CaSO 4",
+      "B": "CaCO 3",
+      "C": "CuSO 4",
+      "D": "Zn(NO 3 ) 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The main raw materials used in smelting iron are iron ore, limestone, and coke.\nIron ore : A mineral that contains iron oxides, such as magnetite and hematite, mined iron ore is often called \"crude\" and the primary source of iron for the steel and iron industries.\nLimestone : A calcium carbonate compound that acts as a fluxing agent and a heat source, decomposes at high temperatures in the furnace, reacting with impurities to form slag and purifies molten iron by removing impurities.\nCoke: A fossil-fuel source of carbon that acts as a reducing agent . At high temperatures, the carbon in coke combines with the oxygen in the iron ore, forming carbon monoxide or carbon dioxide\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3274",
+    "passage": ""
   }
 ]
