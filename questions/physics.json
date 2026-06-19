@@ -5353,5 +5353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12890",
     "passage": ""
+  },
+  {
+    "id": 12891,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A machine whose efficiency is 60% has a velocity ratio of 5. If a force of 500N is applied to lift a load P, what is the magnitude of P?",
+    "options": {
+      "A": "1500N",
+      "B": "500N",
+      "C": "4166N",
+      "D": "750N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "efficiency = (M.A / V.R) x 100/1 => 60/100 = M.A/5 ∴M.A = (60 X 5) / 100 = 3 But M.A = Load/Effort; => 3 = Load/500 ∴Load = 500 x 3 = 1500N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12891",
+    "passage": ""
   }
 ]
