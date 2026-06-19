@@ -7294,5 +7294,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67153",
     "passage": ""
+  },
+  {
+    "id": 67154,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The following computer files will open on a computer that has only Microsoft office 1997 - 2003 installed except",
+    "options": {
+      "A": "exam.rft.",
+      "B": "exam.doc",
+      "C": "exam.ppt",
+      "D": "exam.docx"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Microsoft Office 1997 - 2003 does not support the .docx file format. The .docx format was introduced in Microsoft Office 2007. Therefore, a .docx file ('exam.docx') will not open on a computer that has only Microsoft Office 1997 - 2003 installed",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67154",
+    "passage": ""
   }
 ]
