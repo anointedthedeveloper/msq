@@ -2584,5 +2584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58252",
     "passage": ""
+  },
+  {
+    "id": 58256,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of these methods would delete a relationship defined between two tables in MS Access?",
+    "options": {
+      "A": "Selecting delete relationship from the edit menu dialog box",
+      "B": "Selecting the relationship line and pressing Delete key",
+      "C": "Selecting Delete from the relationship menu",
+      "D": "Selecting Delete relationship from the file drop menu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Relationships window shows the lines connecting related tables. You can quickly remove a relationship by clicking on the line representing it and pressing the Delete key on your keyboard.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58256",
+    "passage": ""
   }
 ]
