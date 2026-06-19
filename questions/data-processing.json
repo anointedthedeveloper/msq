@@ -8798,5 +8798,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72352",
     "passage": ""
+  },
+  {
+    "id": 72353,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "How many primary keys exist in the figure above?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "12"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Lxg3HGCGdA98PncULTjd0Q42khSsySEaTODlNIxB.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912309/myschool/data-processing/Lxg3HGCGdA98PncULTjd0Q42khSsySEaTODlNIxB.png",
+    "correct_answer": "A",
+    "explanation": "A primary key is a field that uniquely identifies each record. In this scenario, there are 3 primary keys in total: cus- tomerld, oderld, productld.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72353",
+    "passage": ""
   }
 ]
