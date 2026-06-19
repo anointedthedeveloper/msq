@@ -790,5 +790,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/449",
     "passage": ""
+  },
+  {
+    "id": 450,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "By ‘trade by barter’, we mean",
+    "options": {
+      "A": "Trade done by people in the village",
+      "B": "Exchange of goods for money",
+      "C": "International trade",
+      "D": "Exchange of goods for goods",
+      "E": "The trade of the middle ages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/450",
+    "passage": ""
   }
 ]
