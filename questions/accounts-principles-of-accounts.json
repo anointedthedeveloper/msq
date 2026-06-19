@@ -8736,5 +8736,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/6201",
     "passage": ""
+  },
+  {
+    "id": 6204,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Use the information below to answer questions Zazzau Company: Cash in hand................N50 Cash in bank................N1 250 Stock.......................N4 880 Furniture...................N9 60 Building....................N5 500 Debtor......................N1 750 Creditors...................N2 150 Drawings of N125 were made by the shareholders of the company.\nThe capital of the company stands at?",
+    "options": {
+      "A": "N12 240",
+      "B": "N12 115",
+      "C": "N2  510",
+      "D": "N2 150"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Capital means the assets and cash in a business. It may either be cash, machinery, receivable accounts, property, or houses.\n50 + 4880+ 1750 + 1250 + 960+ 5500 = 14390\n14390 - 2150 = 12240",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/6204",
+    "passage": ""
   }
 ]
