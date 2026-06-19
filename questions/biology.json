@@ -5674,5 +5674,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2554",
     "passage": ""
+  },
+  {
+    "id": 2555,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following statements about the dentition of man is INCORRECT ? man has",
+    "options": {
+      "A": "More molars than incisors",
+      "B": "No diastema",
+      "C": "The same number of teeth on upper and lower jaw",
+      "D": "A total of thirty-two teeth",
+      "E": "A total of six molars"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Consider the dentition formula in man : i = \\(\\frac{2}{2}\\); c = \\(\\frac{1}{1}\\); p = \\(\\frac{2}{2}\\); m = \\(\\frac{3}{3}\\) = 16 x 2 = 32\nwhere i = incisors, c = canine,  p = premolars, m = molars\nDiastema refers to a gap or space between the teeth. These spaces can form anywhere in the mouth, but are sometimes noticeable between the two upper front teeth. This condition affects both adults and children. In children, gaps may disappear once their permanent teeth grow in, hence some humans have diastema, although it is not a typical characteristics of human dentition.\nConsequently, the correct answer is option E, since humans have a total number of 12 molars not 6, when calculated in relative to the total number of 32.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2555",
+    "passage": ""
+  },
+  {
+    "id": 2556,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "When spirogyra cell is immersed in a salt solution more concentrated than its cell sap, it",
+    "options": {
+      "A": "Remains unchanged",
+      "B": "Takes up water an burst",
+      "C": "Absorbs a little water",
+      "D": "Loses water and shrivels",
+      "E": "Becomes turgid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2556",
+    "passage": ""
+  },
+  {
+    "id": 2558,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Urea is produced in the",
+    "options": {
+      "A": "Liver",
+      "B": "Bladder",
+      "C": "Spleen",
+      "D": "Kidneys",
+      "E": "Gall bladder"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2558",
+    "passage": ""
   }
 ]
