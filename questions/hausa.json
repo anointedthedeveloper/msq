@@ -4968,5 +4968,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73926",
     "passage": ""
+  },
+  {
+    "id": 73927,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Jimla mai goyo daidai take da",
+    "options": {
+      "A": "hard'ad'iya",
+      "B": "korau",
+      "C": "nufatau",
+      "D": "sassauka"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. sassauka. The question is asking which of the options is related to a sentence with a balanced structure. \"Sassauka\" refers to a balanced or symmetrical sentence, where the two parts of the sentence have a similar structure and balance each other out. This is often achieved through the use of parallelism, where similar grammatical structures are used in both parts of the sentence. Therefore, the correct answer is D. sassauka.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73927",
+    "passage": ""
   }
 ]
