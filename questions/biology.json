@@ -966,5 +966,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/380",
     "passage": ""
+  },
+  {
+    "id": 381,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the substance listed below is a trace element of plants?",
+    "options": {
+      "A": "Potassium",
+      "B": "Sodium",
+      "C": "Copper",
+      "D": "Phosphate",
+      "E": "Nitrate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Copper is considered a trace element for plants because it is needed in small amounts for plant growth and development, acting as a co-factor for various enzymes and playing roles in photosynthesis, respiration, and other vital processes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/381",
+    "passage": ""
   }
 ]
