@@ -2356,5 +2356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73076",
     "passage": ""
+  },
+  {
+    "id": 73077,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ta ni olú èdá itàn?",
+    "options": {
+      "A": "Adüké",
+      "B": "Filişía",
+      "C": "Mojèrè",
+      "D": "Rèbékà"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73077",
+    "passage": ""
   }
 ]
