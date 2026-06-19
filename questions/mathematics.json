@@ -9972,5 +9972,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10420",
     "passage": ""
+  },
+  {
+    "id": 10766,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Triangle SPT is the solution of the linear inequalities",
+    "options": {
+      "A": "2y - x - 2 ≤ 0, y + 2x + 2 ≥ 0, -2 ≤ x ≤ - 1",
+      "B": "-2 ≤ x ≤ 2, y ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0",
+      "C": "2y - x - 2 ≤ 0, y + 2x + 2 ≤ 0, y ≥ 0, x ≤ 0",
+      "D": "2y - x - 2 ≥ 0, y + 2x + 2 ≤ 0, x ≤ 0"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4074867186_math20019.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868942/myschool/mathematics/4074867186_math20019.jpg",
+    "correct_answer": "C",
+    "explanation": "The two major lines have their lower portions involved. Since there are no broken lines here,\\(\\leq\\) will hold for the two major lines\nthat is, 2y - x - 2 = 0 becomes 2y - x - 2 \\(\\leq\\) 0\ny + 2x + 2 = 0 becomes y + 2x + 2 \\(\\leq\\) 0\nTriangle SPT is located at the positive side of the y-axis, so y \\(\\geq\\) 0, and the negative side of the x-axis so, x \\(\\leq\\)\nTherefore, OPTION C is correct.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10766",
+    "passage": ""
   }
 ]
