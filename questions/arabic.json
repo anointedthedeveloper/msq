@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75346",
     "passage": ""
+  },
+  {
+    "id": 75347,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": ":\"مرادف كلمة \"سريع",
+    "options": {
+      "A": "سريح",
+      "B": "نشيط",
+      "C": "عاجل",
+      "D": "بطئ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"y\"\" is the word itself-contextually used as a synonym.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75347",
+    "passage": ""
   }
 ]
