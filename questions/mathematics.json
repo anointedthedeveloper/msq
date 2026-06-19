@@ -16330,5 +16330,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23215",
     "passage": ""
+  },
+  {
+    "id": 23216,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "From a point on the edge of the sea, one ship is 24km away on a bearing S 50\no\nE and another ship is 7km away on a bearing S40\no\nW. How far apart are the ships?",
+    "options": {
+      "A": "20km",
+      "B": "24km",
+      "C": "25km",
+      "D": "31km",
+      "E": "84km"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23216",
+    "passage": ""
   }
 ]
