@@ -14657,5 +14657,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24096",
     "passage": ""
+  },
+  {
+    "id": 24097,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "lf the temperature of a small quantity of water in a closed container is gradually increased from 0o to 40oC then the density of the water within this range",
+    "options": {
+      "A": "increases for a while and then decreases",
+      "B": "decreases for a while and then increases",
+      "C": "increases gradually",
+      "D": "decreases gradually",
+      "E": "remains the same"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Water has a peculiar property. When temperature rises between 0 to 4°C water is not going to expand but it is going to contract. This special property is called anomalous. Therefore at 4°C volume of the water is minimum and the corresponding density is maximum.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24097",
+    "passage": ""
   }
 ]
