@@ -1718,5 +1718,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49796",
     "passage": ""
+  },
+  {
+    "id": 49799,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The type of life insurance policy where the premium goes towards the policy with no interest element is",
+    "options": {
+      "A": "endowment policy",
+      "B": "whole life insurance",
+      "C": "annuity policy",
+      "D": "term insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Endowment life insurance policies do not have investment risk or interest rate risk.  an endowment policy does not earn any interest throughout the term",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49799",
+    "passage": ""
   }
 ]
