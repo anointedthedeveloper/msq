@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64452",
     "passage": ""
+  },
+  {
+    "id": 64453,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Physical education can be defined as education for",
+    "options": {
+      "A": "All round development",
+      "B": "Development of physical skills",
+      "C": "Development of social interaction",
+      "D": "Physical and mental development"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "We can describe physical education as an education for All round development, I.e. physical, mental, psychological, emotional, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64453",
+    "passage": ""
   }
 ]
