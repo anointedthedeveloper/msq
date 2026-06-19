@@ -2309,5 +2309,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1203",
     "passage": ""
+  },
+  {
+    "id": 1205,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Election as a political process is significant because it",
+    "options": {
+      "A": "is associated with campaigns for public office",
+      "B": "facilitates the recall process",
+      "C": "facilitates constitutional change of government",
+      "D": "enables citizens to vote"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1205",
+    "passage": ""
   }
 ]
