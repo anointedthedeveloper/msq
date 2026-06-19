@@ -4265,5 +4265,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2543",
     "passage": ""
+  },
+  {
+    "id": 2544,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The equilibrium market price is determined at a point where?",
+    "options": {
+      "A": "consumers  can buy all they desire",
+      "B": "sellers can dispose of all their wares",
+      "C": "the price is moderate",
+      "D": "quantity consumers  desires equal quantity sellers offer",
+      "E": "sellers and buyers are not quarrelling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The equilibrium market price is reached at a point where, the market price at which the quantity demanded and the quantity supplied of a good are equal to one another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2544",
+    "passage": ""
   }
 ]
