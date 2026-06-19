@@ -3526,5 +3526,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7775",
     "passage": ""
+  },
+  {
+    "id": 7777,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A trapezium has two parallel sides of length 5cm and 9cm. If the area is 21cm\n2\n, find the distance between the parallel sides",
+    "options": {
+      "A": "3 cm",
+      "B": "4 cm",
+      "C": "6 cm",
+      "D": "7 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7777",
+    "passage": ""
   }
 ]
