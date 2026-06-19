@@ -10843,5 +10843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64094",
     "passage": ""
+  },
+  {
+    "id": 64095,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "From where can the name of a user account be changed?",
+    "options": {
+      "A": "Setting",
+      "B": "Computer name",
+      "C": "Code panel",
+      "D": "Control panel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Control panel. It is a component of microsoft Windows that provides the ability to view and change system settings. It consists of a set of applets that include adding or removing hardware and software, controlling user accounts, changing accessibility options and accessing networking settings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64095",
+    "passage": ""
   }
 ]
