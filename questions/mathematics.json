@@ -11163,5 +11163,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22148",
     "passage": ""
+  },
+  {
+    "id": 22160,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Factorize 5y\\(^2\\) + 2ay - 3a\\(^2\\)",
+    "options": {
+      "A": "(5y - a) (y + 3a)",
+      "B": "(5y + a) (y - 3a)",
+      "C": "5y 2 + a (2y - 3a)",
+      "D": "(y - a) (5y + 3a)",
+      "E": "(y + a) (5y - 3a)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "5y 2 + 5ay - 3ay - 3a 2 5y(y + a) - 3a(y + a) (y + a) (5y - 3a)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22160",
+    "passage": ""
   }
 ]
