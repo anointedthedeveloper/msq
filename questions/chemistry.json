@@ -10183,5 +10183,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4057",
     "passage": ""
+  },
+  {
+    "id": 4059,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "\\(NH_{3(g)} + HCl_{(g)} → NH_4Cl_{(s)}\\) The entropy change in the system above is",
+    "options": {
+      "A": "positive",
+      "B": "zero",
+      "C": "negative",
+      "D": "indeterminate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(NH_{3(g)} + HCl_{(g)} → NH_4Cl_{(s)}\\) Reactant = 2 moles of gaseous molecules Product = 1 mole of gaseous molecule Entropy change = 1 - 2 = -1 (negative)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4059",
+    "passage": ""
   }
 ]
