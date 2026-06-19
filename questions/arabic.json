@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75176",
     "passage": ""
+  },
+  {
+    "id": 75177,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما معنى كلمة \"قلم\"؟",
+    "options": {
+      "A": "Pen",
+      "B": "Book",
+      "C": "Paper",
+      "D": "Ink"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"als\" is the Arabic noun used to refer to a writing pen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75177",
+    "passage": ""
   }
 ]
