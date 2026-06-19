@@ -916,5 +916,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/934",
     "passage": ""
+  },
+  {
+    "id": 935,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Lakes formed as a result of landslides, screes or avalanches are known as",
+    "options": {
+      "A": "man-made lakes",
+      "B": "barrier lakes",
+      "C": "caldera lakes",
+      "D": "rock-hollow lakes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/935",
+    "passage": ""
   }
 ]
