@@ -9909,5 +9909,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10417",
     "passage": ""
+  },
+  {
+    "id": 10418,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the value of l in the frustrum above",
+    "options": {
+      "A": "5cm",
+      "B": "6cm",
+      "C": "7cm",
+      "D": "8cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ga6MgdswKrS8yBQDOvT3a9tdcktHinyMvgwlt2KS.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868934/myschool/mathematics/ga6MgdswKrS8yBQDOvT3a9tdcktHinyMvgwlt2KS.jpg",
+    "correct_answer": "A",
+    "explanation": "ΔABE and ΔACD are similar\ntherefore \\(\\frac{ x}{ x + 4} = \\frac{3}{6}\\)\n6x = 3(x+4) 6x = 3x + 12 3x = 12 x = 4 In ΔACD; \\(L^2\\) = \\((4+4)^2 + 6^2\\) = \\(8^2 + 6^2\\) = 64 + 36 = 100 L = \\(\\sqrt{100}\\) = 10cm In ABE, \\((AE)^2 = 4^2 + 3^2\\) = 16 + 9 = 25 AE = 5cm ∴L = 10 - 5 = 5cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10418",
+    "passage": ""
   }
 ]
