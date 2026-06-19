@@ -415,5 +415,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/64",
     "passage": ""
+  },
+  {
+    "id": 65,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If 30cm\\(^3\\) of oxygen diffuses through a porous pot in 7 seconds, how long will it take 60cm\\(^3\\) of chlorine to diffuse through the same pot, if the vapour densities of oxygen and chlorine are 16 and 36 respectively?",
+    "options": {
+      "A": "9.3 sec",
+      "B": "14 sec",
+      "C": "21 sec",
+      "D": "28 sec",
+      "E": "30.3 sec"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "According to Graham's law of diffusion of gases,the rate of diffusion of a gas is proportional to the square root of the density.\nFrom the question, the given parameters are:\nVolume of Oxygen, V\\(_o\\) = 30cm\\(^3\\), Time of diffusion of Oxygen, t\\(_o\\) = 7s, Vapour density of Oxygen, d\\(_o\\) = 16\nVolume of Chlorine, V\\(_c\\) = 60cm\\(^3\\), Time of diffusion of chlorine, t\\(_c\\) = ?,  Vapour density of Chlorine, d\\(_c\\) = 36\n\\(\\frac{t_o}{t_c}\\) = \\(\\sqrt{\\frac{d_o}{d_c}}\\)\n\\(\\frac{7}{t_c}\\) = \\(\\sqrt{\\frac{16}{36}}\\)\n\\(\\frac{7}{t_c}\\) = \\(\\frac{4}{6}\\)\nt\\(_c\\) = \\(\\frac{7}{4}\\times {6}\\)\nt\\(_c\\) = \\(\\frac{21}{2}\\)\nRecall that the volume of Chlorine is twice that of Oxygen. Hence, t\\(_c\\) = 2t\\(_o\\)\nt\\(_c = 2\\times \\frac{21}{2}\\)\nt\\(_c\\) = 21sec - Option C",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/65",
+    "passage": ""
   }
 ]
