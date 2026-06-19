@@ -1236,5 +1236,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73648",
     "passage": ""
+  },
+  {
+    "id": 73649,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Fito da suna gagara-kirga",
+    "options": {
+      "A": "Wando",
+      "B": "Garke",
+      "C": "Yashi",
+      "D": "Ayari"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Yashi. The question is asking which of the options is a common name (suna gagara-kirga) in Hausa culture. Yashi is a common Hausa name, while the other options - Ayari, Garke, Wando, and Zaiki - are not typically used as names in Hausa culture. Therefore, the correct answer is Yashi.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73649",
+    "passage": ""
   }
 ]
