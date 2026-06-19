@@ -1825,5 +1825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7244",
     "passage": ""
+  },
+  {
+    "id": 7245,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A string is fastened tightly between two walls 24cm apart. The wavelength of the second overtone is",
+    "options": {
+      "A": "24cm",
+      "B": "16cm",
+      "C": "12cm",
+      "D": "8cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7245",
+    "passage": ""
   }
 ]
