@@ -3526,5 +3526,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11875",
     "passage": ""
+  },
+  {
+    "id": 11998,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The diagram above show s the force-extension curve of a piece of wire. The energy stored when the wire is stretched from E to F is?",
+    "options": {
+      "A": "7.5 x 10 -3 J",
+      "B": "2.5 x 10 -3 J",
+      "C": "1.5 x 10 -2 J",
+      "D": "7.5 x 10 -1 J"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/UCwQn8bdynXYs9ZGZMP7rdu5jKmZW43fHsDrnss1.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888850/myschool/physics/UCwQn8bdynXYs9ZGZMP7rdu5jKmZW43fHsDrnss1.png",
+    "correct_answer": "A",
+    "explanation": "The energy store is equal to the work done in stretching the wire from E to F given by the \\(\\frac{1}{2}\\)Fe\nwhere e = 0.10 - 0.50 = 0.05m.\nF = 0.2 + 0.1 = 0.3N\n= \\(\\frac{1}{2}\\) x (0.2 + 0.1) x (0.10 - 0.50) = 7.5 x 10\\(^{-3}\\)J",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11998",
+    "passage": ""
   }
 ]
