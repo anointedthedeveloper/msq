@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/325",
     "passage": ""
+  },
+  {
+    "id": 327,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A solid weigh 10 .00 N in air, 6 N when fully immersed in water and 7 . 0 N when fully immersed in a liquid X. Calculate the relative density of the liquid, X.",
+    "options": {
+      "A": "5/3",
+      "B": "4/3",
+      "C": "3/4",
+      "D": "7/10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "R.D = \\(\\frac{\\text{loss in weight in liquid X}}{\\text{ loss in weight in water}}\\) R.D = \\(\\frac{(10 - 7)}{(10 - 6)}\\) = \\(\\frac{3}{4}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/327",
+    "passage": ""
   }
 ]
