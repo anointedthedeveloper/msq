@@ -3631,5 +3631,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7838",
     "passage": ""
+  },
+  {
+    "id": 7839,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Determine the maximum value of y = 3x\n2\n- x\n3",
+    "options": {
+      "A": "zero",
+      "B": "2",
+      "C": "4",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7839",
+    "passage": ""
   }
 ]
