@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75177",
     "passage": ""
+  },
+  {
+    "id": 75178,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "مصدر \"قاتل\" هو؟",
+    "options": {
+      "A": "قتلٌ",
+      "B": "قتال",
+      "C": "مقتل",
+      "D": "قئل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": ".\"قتال\" to fight) gives the verbal noun ) \"قاتل\" The",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75178",
+    "passage": ""
   }
 ]
