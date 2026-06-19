@@ -2608,5 +2608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71082",
     "passage": ""
+  },
+  {
+    "id": 71083,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentencels ont une voiture. c'est voiture.",
+    "options": {
+      "A": "ton",
+      "B": "leur",
+      "C": "tes",
+      "D": "nos"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Leur\" means \"their\" and is used to refer to something belonging to them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71083",
+    "passage": ""
   }
 ]
