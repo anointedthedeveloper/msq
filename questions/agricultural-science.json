@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15804",
     "passage": ""
+  },
+  {
+    "id": 15805,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following types of soil contains particles of diameter between 0.02 mm and 2.o mm?",
+    "options": {
+      "A": "sand",
+      "B": "silt",
+      "C": "gravel",
+      "D": "clay",
+      "E": "stone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15805",
+    "passage": ""
   }
 ]
