@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/794",
     "passage": ""
+  },
+  {
+    "id": 795,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A predator moves in a circle of radius √2 centre (0,0), while a prey moves along the line y = x. If 0 \\(\\leq\\) x \\(\\leq\\) 2, at which point(s) will they meet?",
+    "options": {
+      "A": "(1,1) only",
+      "B": "(1,1) and (1,2)",
+      "C": "(0,0) and (1,1)",
+      "D": "(√2,√2) only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x2 + y2 = (√2)2 x2 + y2 = 2 but y = x Thus; x2 + x2 = 2 2x2 = 2 x2 = + or - 1 But x2 + y2 = 2 12 + y2 = 2 1 + y2 = 2 y2 = 2 - 1 y2 = 1 y = + or - 1 Thus point (x,y) = (1,1) only.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/795",
+    "passage": ""
   }
 ]
