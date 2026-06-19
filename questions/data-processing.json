@@ -733,5 +733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57426",
     "passage": ""
+  },
+  {
+    "id": 57430,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The diagram illustrates the relationship between two tables in a database.\nWhat type of relationship exists between Tables I and II?",
+    "options": {
+      "A": "one to one",
+      "B": "three to four",
+      "C": "four to three",
+      "D": "one to many"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/NLBeGzT2LXVGIex8Q9kzm2tlzHS1eUeOZiRuwAbq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900430/myschool/data-processing/NLBeGzT2LXVGIex8Q9kzm2tlzHS1eUeOZiRuwAbq.jpg",
+    "correct_answer": "D",
+    "explanation": "A one-to-many relationship is the most common kind of relationship. In this kind of relationship, a row in table A can have many matching rows in table B. But a row in table B can have only one matching row in table A.  A one-to-many relationship is created if only one of the related columns is a primary key or has a unique constraint.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57430",
+    "passage": ""
   }
 ]
