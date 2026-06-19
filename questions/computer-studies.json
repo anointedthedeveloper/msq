@@ -12964,5 +12964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64369",
     "passage": ""
+  },
+  {
+    "id": 64370,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is debugging?",
+    "options": {
+      "A": "Preventing bugs from getting to the computer",
+      "B": "inserting errors into the program",
+      "C": "finding and removing errors from a computer",
+      "D": "finding and removing errors from a program"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Debugging is the process of finding and removing errors from a program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64370",
+    "passage": ""
   }
 ]
