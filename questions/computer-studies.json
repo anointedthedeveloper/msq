@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60226",
     "passage": ""
+  },
+  {
+    "id": 60227,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Fig.3 is a flowchart. Use it to answer the question below\nThe part labelled II represents______",
+    "options": {
+      "A": "Decision Symbol",
+      "B": "Read/Write Symbol",
+      "C": "Process Symbol",
+      "D": "Stop/End Symbol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/lvorZUdF7tWsh1JJ1NCzkZGKGmCxRarC2gSq1woq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781893709/myschool/computer-studies/lvorZUdF7tWsh1JJ1NCzkZGKGmCxRarC2gSq1woq.jpg",
+    "correct_answer": "C",
+    "explanation": "II represents the process symbol.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60227",
+    "passage": ""
   }
 ]
