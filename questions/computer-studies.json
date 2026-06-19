@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60217",
     "passage": ""
+  },
+  {
+    "id": 60218,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following software is best suitable for keeping records during national population census?",
+    "options": {
+      "A": "Word Processing",
+      "B": "Spreadsheet",
+      "C": "Graphic",
+      "D": "Database"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60218",
+    "passage": ""
   }
 ]
