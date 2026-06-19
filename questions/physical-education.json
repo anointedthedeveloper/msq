@@ -5982,5 +5982,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76410",
     "passage": ""
+  },
+  {
+    "id": 76412,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which skill in football is used to legally take the ball away from an opponent?",
+    "options": {
+      "A": "Passing",
+      "B": "Tackling",
+      "C": "Heading",
+      "D": "Dribbling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Tackling is the defensive skill where a player attempts to dispossess an opponent of the ball legally. Proper tackling involves timing, positioning, and controlled contact without committing a foul. It is crucial in regaining possession and disrupting the opposing team's attack. Heading involves using the head to control or pass the ball, not taking it away from an opponent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76412",
+    "passage": ""
   }
 ]
