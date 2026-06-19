@@ -14613,5 +14613,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24094",
     "passage": ""
+  },
+  {
+    "id": 24095,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Dry hydrogen is trapped by pellet of mercury in a uniform capillary tube closed at one end. If the length of the column of hydrogen at 27°C is 1.0m, at what temperature will the length be 1.20m?",
+    "options": {
+      "A": "22.5 o C",
+      "B": "32.4 o C",
+      "C": "77.0 o C",
+      "D": "87.0 o C",
+      "E": "360.0 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V 1 / T 1 = V 2 / T 2\n1.0 / (273 + 27) = 120 / T 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24095",
+    "passage": ""
   }
 ]
