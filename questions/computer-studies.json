@@ -11053,5 +11053,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64104",
     "passage": ""
+  },
+  {
+    "id": 64105,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is a computer file.",
+    "options": {
+      "A": "A computer program",
+      "B": "A document like bunch of text",
+      "C": "A place on a computer where information is stored in a package",
+      "D": "A physical paper document that entails how a computer works"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A computer file is a computer resource for recording data in a computer storage device, primarily identified by its file name",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64105",
+    "passage": ""
   }
 ]
