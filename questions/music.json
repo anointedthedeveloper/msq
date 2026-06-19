@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76313",
     "passage": ""
+  },
+  {
+    "id": 76314,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following musicians contributed greatly to the development of reggae music?",
+    "options": {
+      "A": "Kofi Olomide",
+      "B": "Awilo Logomba",
+      "C": "Manu Dibango.",
+      "D": "Lucky Dube"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Lucky Dube was a South African musician who played a major role in the development of reggae music. His music was influenced by the Rastafarian movement and he was known for his politically charged lyrics.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76314",
+    "passage": ""
   }
 ]
