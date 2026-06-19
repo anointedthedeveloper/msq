@@ -4491,5 +4491,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70809",
     "passage": ""
+  },
+  {
+    "id": 70810,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "How does dance influence cognitive development in children?",
+    "options": {
+      "A": "It exerts no measurable influence on cognitive functions",
+      "B": "It primarily affects physical coordination without impacting cognition",
+      "C": "It disrupts cognitive processing by distracting attention",
+      "D": "It enhances memory retention and cognitive flexibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dance has been shown to enhance cognitive development by improving memory retention and cognitive flexibility through the learning and execution of complex movements and routines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70810",
+    "passage": ""
   }
 ]
