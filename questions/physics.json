@@ -14371,5 +14371,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24083",
     "passage": ""
+  },
+  {
+    "id": 24084,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A plane inclined at an angle at 30o to the horizontal has an efficiency of 50%. The force parallel to the plane required to push a load of 120 N uniformly up the plane is",
+    "options": {
+      "A": "40√3N",
+      "B": "60N",
+      "C": "120N",
+      "D": "200N",
+      "E": "240N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "E = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\) ; \\(\\frac{50}{100}\\) = \\(\\frac{\\text{M.A}}{2}\\) M.A = 1; \\(\\frac{\\text{L}}{\\text{E}}\\) = 1 E = L = 120N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24084",
+    "passage": ""
   }
 ]
