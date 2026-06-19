@@ -124,5 +124,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64145",
     "passage": ""
+  },
+  {
+    "id": 64146,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is a style in high jump?",
+    "options": {
+      "A": "Hang",
+      "B": "Hitch-kick",
+      "C": "Sail",
+      "D": "Straddle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The straddle technique was the dominant style in the high jump before the development of the Fosbury Flop. It is a successor of the Western roll, with which it is sometimes confused.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64146",
+    "passage": ""
   }
 ]
