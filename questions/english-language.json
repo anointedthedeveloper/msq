@@ -3913,5 +3913,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1968",
     "passage": ""
+  },
+  {
+    "id": 1969,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "complete the sentences with the\ncorrect options\nfrom the list below\n:\nDon't study on the examination day? What did he tell you? He told me .... on the examination day",
+    "options": {
+      "A": "no studying",
+      "B": "don't study",
+      "C": "not study",
+      "D": "not to study",
+      "E": "to not study"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1969",
+    "passage": ""
   }
 ]
