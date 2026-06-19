@@ -16536,5 +16536,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67848",
     "passage": ""
+  },
+  {
+    "id": 67849,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The process where a programmer converts a program specifications into computer instructions is called ?",
+    "options": {
+      "A": "Debugging",
+      "B": "Coding",
+      "C": "Testing",
+      "D": "System design"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The process where a programmer converts a program specifications into computer instructions is called Coding. Testing is the process of checking the functionality of the program, System design is the process of defining the architecture, components, modules, interfaces, and data for a system to satisfy specified requirements, and Debugging is the process of finding and resolving defects or problems within a computer program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67849",
+    "passage": ""
   }
 ]
