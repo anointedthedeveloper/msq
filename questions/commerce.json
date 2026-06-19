@@ -10101,5 +10101,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7000",
     "passage": ""
+  },
+  {
+    "id": 7001,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The media media used for inter-departmental communication include?",
+    "options": {
+      "A": "circulars, advertisement and notice boards",
+      "B": "memoranda, circulars and the telephone",
+      "C": "memoranda, advertising and face-to-face",
+      "D": "momoranda, advertising and the grapevine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7001",
+    "passage": ""
   }
 ]
