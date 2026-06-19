@@ -10225,5 +10225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4063",
     "passage": ""
+  },
+  {
+    "id": 4064,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A catalyst speeds up the rate of chemical reaction by",
+    "options": {
+      "A": "taking part in the reaction",
+      "B": "increasing the activation energy of the reaction",
+      "C": "lowering the activation energy of the reaction",
+      "D": "increasing the heat content"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Catalyst lowers the activation energy of reaction and hence speeds up the rate of chemical reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4064",
+    "passage": ""
   }
 ]
