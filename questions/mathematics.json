@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/11",
     "passage": ""
+  },
+  {
+    "id": 12,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If \\(\\frac{({a^2b^{-3}c})^{3/4}}{a^{-1}b^4c^5}\\) = \\(a^p b^q c^r\\); what is the value of p+2q?",
+    "options": {
+      "A": "(5/2)",
+      "B": "-(5/4)",
+      "C": "-(25/4)",
+      "D": "-10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "= \\(\\frac{(a^2)^{3/4}\\times(b^{-3})^{3/4}\\times c^{3/4}}{a^{-1} b^4 c^5}\\) \\(= a^p\\times b^q\\times c^r\\)\n= \\(\\frac{a^{3/2}\\times b^{-9/4} \\times c^{3/4}}{a^{-1}b^4c^5}\\) = \\(a^p b^q c^r\\) =  \\(a^{{3/4}+1} b^{{-9/4}-4} c^{{3/5}-5}\\) = \\(a^pb^q c^r\\)\n= \\(a^{5/2} b^{-25/4} c^{-17/4}\\) = \\(a^pb^qc^r\\)\ntherefore, p=5/2, q=-25/4 and r = -17/4\n2a + q = \\(\\frac{5}{2} - 2\\times\\frac{-25}{4}\\)\n= -20/2 = -10",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/12",
+    "passage": ""
   }
 ]
