@@ -12411,5 +12411,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7279",
     "passage": ""
+  },
+  {
+    "id": 7281,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A written agreement for hiring a ship for transporting goods is a?",
+    "options": {
+      "A": "consular invoice",
+      "B": "bill of lading",
+      "C": "charter party",
+      "D": "certificate of origin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A charter party is simply a deed between a shipowner and a trader for the hire of a ship and the delivery of cargo. That is, it is an agreement between the owner of a ship and a trader who intends to use the ship for the transportation of his/her goods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7281",
+    "passage": ""
   }
 ]
