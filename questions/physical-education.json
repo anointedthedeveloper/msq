@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64216",
     "passage": ""
+  },
+  {
+    "id": 64219,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of these bodies is responsible for organizing athletic competitions in Nigeria?",
+    "options": {
+      "A": "AFN",
+      "B": "BFN",
+      "C": "GAN",
+      "D": "HFN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Athletics Federation of Nigeria (AFN) is responsible for the organization of the sport of Athletics in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64219",
+    "passage": ""
   }
 ]
