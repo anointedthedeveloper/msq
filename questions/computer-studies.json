@@ -17292,5 +17292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69830",
     "passage": ""
+  },
+  {
+    "id": 69831,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A BIOS configuration program that allows a windows user to configure attributes such as password, time and date is called",
+    "options": {
+      "A": "GRUB",
+      "B": "Bootstrap",
+      "C": "CMOS setup.",
+      "D": "BIOS drivers."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A BIOS configuration program that allows a Windows user to configure attributes such as password, time, and date is called \"CMOS setup.\" CMOS (Complementary Metal-Oxide-Semiconductor) setup is a utility that lets users access and modify various settings stored in the CMOS chip on the computer's motherboard. These settings include system configuration options such as the system clock, date, passwords, boot order, and hardware settings. CMOS setup provides a way to customize system settings at a low level and is typically accessed during the computer's boot process by pressing a specific key (often Del, F2, or another designated key) as indicated on the screen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69831",
+    "passage": ""
   }
 ]
