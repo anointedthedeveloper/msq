@@ -647,5 +647,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49624",
     "passage": ""
+  },
+  {
+    "id": 49625,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "If the oestrus cycle of a goat is 27 days, how many times will it come on heat in a year?",
+    "options": {
+      "A": "14 times",
+      "B": "28 times",
+      "C": "30 times",
+      "D": "60 times"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The period from one heat cycle to the next is referred to as the oestrus cycle . If the oestrus cycle is 27 day, the number of times heat will occur in a year is derived by dividng the number of days in a year by the oestrus cycle ( 365/27 = 14 days)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49625",
+    "passage": ""
   }
 ]
