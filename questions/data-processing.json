@@ -6769,5 +6769,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67128",
     "passage": ""
+  },
+  {
+    "id": 67129,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Table 1 is a portion of a Microsoft Excel Worksheet which shows the marks obtained by some students in an examination.\nWhich of the following formulas can be used to find the average score for ENEH GRACE?",
+    "options": {
+      "A": "=AVERAGE(B4:F4)",
+      "B": "=AVERAGE(B4:B6)",
+      "C": "=AVERAGE(A4:F4)",
+      "D": "=AVERAGE(B5:F5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "=AVERAGE(B4:F4)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67129",
+    "passage": ""
   }
 ]
