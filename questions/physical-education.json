@@ -1825,5 +1825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64459",
     "passage": ""
+  },
+  {
+    "id": 64460,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The game of football is played in two halves of ....... minutes each.",
+    "options": {
+      "A": "30",
+      "B": "45",
+      "C": "55",
+      "D": "60"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Football is played for 90 minutes. A football game is made up of two halves of which each half lasts for 45 minutes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64460",
+    "passage": ""
   }
 ]
