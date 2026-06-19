@@ -2161,5 +2161,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9126",
     "passage": ""
+  },
+  {
+    "id": 9147,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The process of energy production in the sun is",
+    "options": {
+      "A": "nuclear fission",
+      "B": "nuclear fussion",
+      "C": "electron collision",
+      "D": "radioactive decay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sun produces energy primarily through the nuclear fusion of hydrogen nuclei, a reaction that occurs at extremely high temperatures, around 10\\(^7\\) K. H\\(_1\\) + H\\(_1\\) → \\(_2\\)H\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9147",
+    "passage": ""
   }
 ]
