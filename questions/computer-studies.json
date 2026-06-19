@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/57683",
     "passage": ""
+  },
+  {
+    "id": 59429,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The computer hardware can be classified into",
+    "options": {
+      "A": "ALU and Control Unit",
+      "B": "System Unit and Peripheral",
+      "C": "Central Processing Unit and Control Unit",
+      "D": "Input and Output Units"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The computer hardware is classified into System Units and Peripherals, they are attached to the computer to add or enhance functionality.\nSystem Unit: This includes the main components of a computer, such as the motherboard, CPU, RAM, and storage devices. Peripheral: These are devices that are connected to the system unit but are not part of the core computer architecture, such as printers, scanners, and external drives.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/59429",
+    "passage": ""
   }
 ]
