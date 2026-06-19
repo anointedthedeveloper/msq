@@ -12808,5 +12808,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4701",
     "passage": ""
+  },
+  {
+    "id": 4702,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "From the diagram above, find the amount of solute deposited when 200 cm\\(^3\\) of the solution is cooled from 55°C to 40°C.",
+    "options": {
+      "A": "0.10 mole",
+      "B": "0.20mole",
+      "C": "0.01 mole",
+      "D": "0.02 mole"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5411344312_chem 201011gif.gif",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891176/myschool/chemistry/5411344312_chem%20201011gif.gif",
+    "correct_answer": "B",
+    "explanation": "From the diagram,\n55°C = 7 moles; 40°C = 6 moles.\nAmount of solute deposited = 7 - 6 = 1 mole.\n1000 cm\\(^3\\) = 1 mole\n200 cm\\(^3\\) = x\nx = \\(\\frac{200 \\times 1}{1000}\\)\n= 0.20 mole.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4702",
+    "passage": ""
   }
 ]
