@@ -14130,5 +14130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22921",
     "passage": ""
+  },
+  {
+    "id": 22923,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "From the top of a cliff, the angle of depression of\na boat on the sea is 60\no\n, if the top of the cliff is\n25m above the sea level, calculate the horizontal\ndistance from the bottom of the cliff to the boat.",
+    "options": {
+      "A": "50√3m",
+      "B": "25√3m",
+      "C": "25√3m / 3",
+      "D": "25m / 3",
+      "E": "√3m / 25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x = 25 / √3 = 25√3 / 3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22923",
+    "passage": ""
   }
 ]
