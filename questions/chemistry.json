@@ -12703,5 +12703,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4696",
     "passage": ""
+  },
+  {
+    "id": 4697,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following questions is correct about the periodic table?",
+    "options": {
+      "A": "The non-metallic properties of the elements tend to decrease across  each period",
+      "B": "The valence electrons of the elements increase progressively across the period",
+      "C": "Elements in the same group have the same numbeer of electron shells",
+      "D": "Elements in the same period have the number of valence electrons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4697",
+    "passage": ""
   }
 ]
