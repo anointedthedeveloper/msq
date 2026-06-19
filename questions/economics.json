@@ -438,5 +438,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/200",
     "passage": ""
+  },
+  {
+    "id": 201,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An increase in liquid reserve requirements by the central bank of Nigeria will result in",
+    "options": {
+      "A": "a reduction in commercial banks' excess reserves",
+      "B": "more commercial bank loan to members of the public",
+      "C": "an increase in commercial banks excess reserves",
+      "D": "no change in commercial banks excess reserves",
+      "E": "a reduction in central banks gold reserves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/201",
+    "passage": ""
   }
 ]
