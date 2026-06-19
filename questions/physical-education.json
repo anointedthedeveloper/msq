@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64249",
     "passage": ""
+  },
+  {
+    "id": 64251,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are criteria for selection of warm up exercises except",
+    "options": {
+      "A": "Age",
+      "B": "Interest",
+      "C": "Religion",
+      "D": "Sex"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Religion is not a criterion for the selection of warm up exercises.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64251",
+    "passage": ""
   }
 ]
