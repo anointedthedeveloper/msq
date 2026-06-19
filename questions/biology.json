@@ -1890,5 +1890,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/465",
     "passage": ""
+  },
+  {
+    "id": 590,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "In Mucor or Rhizopus carbohydrate is absorb in the form of",
+    "options": {
+      "A": "starch",
+      "B": "sucrose",
+      "C": "glucose",
+      "D": "glycogen",
+      "E": "arabinose"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/590",
+    "passage": ""
   }
 ]
