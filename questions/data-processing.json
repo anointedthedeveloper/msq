@@ -1732,5 +1732,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57750",
     "passage": ""
+  },
+  {
+    "id": 57751,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The prevention of data from corruption and unauthorized access is a function of data",
+    "options": {
+      "A": "security",
+      "B": "secrecy",
+      "C": "intergrity",
+      "D": "coding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57751",
+    "passage": ""
   }
 ]
