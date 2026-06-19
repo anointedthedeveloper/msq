@@ -1971,5 +1971,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61494",
     "passage": ""
+  },
+  {
+    "id": 61496,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The binary number 0.1101 in decimal is",
+    "options": {
+      "A": "0.8125",
+      "B": "0.8215",
+      "C": "0.8225",
+      "D": "0.8512"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "0.1101 in base two to base 10\n0.1101 = \\(0+ 1 \\times2^{-1} + 1 \\times2^{-2} + 0 \\times 2^{-3} + 1 \\times2^{-4}\\)\n= 0 + \\(\\frac{1}{2} + \\frac{1}{4} + 0 + \\frac{1}{16}\\)\n= 0 + \\(\\frac{13}{16}\\) = \\(0.8125_{10}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61496",
+    "passage": ""
   }
 ]
