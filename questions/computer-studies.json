@@ -9630,5 +9630,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62728",
     "passage": ""
+  },
+  {
+    "id": 62729,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Pascal's calculating machine was useful in?",
+    "options": {
+      "A": "addition and subtraction only.",
+      "B": "division only.",
+      "C": "multiplication and division only.",
+      "D": "multiplication only."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62729",
+    "passage": ""
   }
 ]
