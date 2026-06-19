@@ -2566,5 +2566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71080",
     "passage": ""
+  },
+  {
+    "id": 71081,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentence fille est gentile.",
+    "options": {
+      "A": "Cet",
+      "B": "Cette",
+      "C": "Ces",
+      "D": "Ce"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "La réponse correcte est Cette. La phrase complète serait: \"Cette fille est gentille.\" La forme \"cette\" est utilisée devant un nom féminin singulier pour décrire une fille spécifique comme gentille.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71081",
+    "passage": ""
   }
 ]
