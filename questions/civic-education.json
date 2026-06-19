@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50103",
     "passage": ""
+  },
+  {
+    "id": 50104,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "One of the skills that can be used in resolving inter-communal conflicts is",
+    "options": {
+      "A": "coercion",
+      "B": "mediation",
+      "C": "suppression",
+      "D": "harassment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Mediation is a dynamic, structured, interactive process where a neutral third party assists disputing parties in resolving conflict through the use of specialized communication and negotiation techniques.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50104",
+    "passage": ""
   }
 ]
