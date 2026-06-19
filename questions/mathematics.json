@@ -2455,5 +2455,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3351",
     "passage": ""
+  },
+  {
+    "id": 3352,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Find the range of values of x for which \\(\\frac{(x+2)}{4}\\) -\\(\\frac{2x-3}{3}\\) < 4",
+    "options": {
+      "A": "x > -6",
+      "B": "x > -3",
+      "C": "x < 8",
+      "D": "x < 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{x + 2}{4} - \\frac{2x - 3}{3}\\) < 4\n\\(\\frac{3(x + 2) - 4(2x - 3)}{12}\\) < 4\n3x + 6 - 8x + 12 < 48\n18 - 5x < 48 \\(\\implies\\) - 5x < 48 - 18\n-5x < 30 \\(\\implies \\)x > - 6",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3352",
+    "passage": ""
   }
 ]
