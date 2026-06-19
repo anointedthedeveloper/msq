@@ -12684,5 +12684,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7296",
     "passage": ""
+  },
+  {
+    "id": 7297,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The selling of new shares to existing shareholders is referred to as?",
+    "options": {
+      "A": "public issue",
+      "B": "offer for sale",
+      "C": "rights issue",
+      "D": "bonus issue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A rights issue is an invitation to existing shareholders to purchase additional new shares in the company.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7297",
+    "passage": ""
   }
 ]
