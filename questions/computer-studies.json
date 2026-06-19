@@ -9714,5 +9714,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62732",
     "passage": ""
+  },
+  {
+    "id": 62733,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In Figure 1, the value of Z when X = 1 and Y=0 is?",
+    "options": {
+      "A": "0.",
+      "B": "1.",
+      "C": "10.",
+      "D": "11."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/6z5X3OqXX9iWCYonSE7ZGpvI4KYwa0KooZJFIkLd.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781902983/myschool/computer-studies/6z5X3OqXX9iWCYonSE7ZGpvI4KYwa0KooZJFIkLd.jpg",
+    "correct_answer": "B",
+    "explanation": "The diagram and the table above serve as guards in answering the above question.\nX= 1 , Y= 0 XY = 0 NAND output = 1\nTherefore Z = 1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62733",
+    "passage": ""
   }
 ]
