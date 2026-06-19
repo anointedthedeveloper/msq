@@ -13615,5 +13615,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64413",
     "passage": ""
+  },
+  {
+    "id": 64414,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The number of input combination for a 4 input gate is ______",
+    "options": {
+      "A": "9",
+      "B": "8",
+      "C": "15",
+      "D": "16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "16 possible combinations So, a 4-input AND gate has 16 possible combinations, 5 inputs would be 32 outputs, and so on.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64414",
+    "passage": ""
   }
 ]
