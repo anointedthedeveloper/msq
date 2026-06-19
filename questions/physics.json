@@ -3988,5 +3988,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12263",
     "passage": ""
+  },
+  {
+    "id": 12264,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A bead travelling on a straight line wire is brought to rest at 0.2 by friction. If the mass of the bead is 0.01kg and the coefficient of friction between the bead and the wire is 0.1, determine the work done by the friction [g = 10ms\\(^2\\)]",
+    "options": {
+      "A": "2 x 10\\(^{-4}\\)",
+      "B": "2 x 10\\(^{-3}\\)",
+      "C": "2 x 10\\(^{-1}\\)",
+      "D": "2 x 10\\(^2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Work done by friction = Friction force x displacement from the relation, f = μR where μ = coefficient of friction ; R = normal reaction => F = μ mg (R = mg) = 0.1 x 0.01 x 10 ∴ work done = F x displacement = 0.1 x 0.01 x 10 x 0.2 = 0.002 = 2 x 10\\(^{-3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12264",
+    "passage": ""
   }
 ]
