@@ -2890,5 +2890,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58400",
     "passage": ""
+  },
+  {
+    "id": 58403,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "One advantage of the first generation computers is",
+    "options": {
+      "A": "Processing speed",
+      "B": "Portability",
+      "C": "heating effect",
+      "D": "burglar-proof"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The first generation computer was very fast(Processing speed) to calculate. First-generation computers, while not portable and often bulky, did offer significant advances in processing speed compared to earlier mechanical devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58403",
+    "passage": ""
   }
 ]
