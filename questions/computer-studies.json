@@ -1782,5 +1782,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61416",
     "passage": ""
+  },
+  {
+    "id": 61417,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following formulas will display the current seconds past the minute os the clock in MS Excel?",
+    "options": {
+      "A": "=MINUTES()",
+      "B": "=MINUTES(NOW())",
+      "C": "=MINUTE(YEAR())",
+      "D": "=MINUTES(HOUR(NOW()))"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61417",
+    "passage": ""
   }
 ]
