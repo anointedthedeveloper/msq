@@ -11002,5 +11002,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4312",
     "passage": ""
+  },
+  {
+    "id": 4314,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The salt formed from a reaction between citric acid and sodium hydroxide in solution will be?",
+    "options": {
+      "A": "acidic",
+      "B": "basic",
+      "C": "complex",
+      "D": "neutral"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Citric acid has 3 carboxyl groups, therefore, when reacts with NaOH, there is a simple salification reaction that will produce the trisodium citrate / sodium citrate.\nTrisodium citrate is a tribasic salt of citric acid . It is produced by complete neutralization of citric acid with high purity sodium hydroxide or carbonate and subsequent crystallization and dehydration.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4314",
+    "passage": ""
   }
 ]
