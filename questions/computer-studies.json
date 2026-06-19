@@ -12040,5 +12040,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64318",
     "passage": ""
+  },
+  {
+    "id": 64319,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "An Operating System is a type of?",
+    "options": {
+      "A": "Application Software",
+      "B": "System software",
+      "C": "Utility Program",
+      "D": "None of these"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An operating system (OS) is a system software that manages computer hardware, software resources, and provides common services for computer programs",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64319",
+    "passage": ""
   }
 ]
