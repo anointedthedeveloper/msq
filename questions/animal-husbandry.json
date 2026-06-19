@@ -815,5 +815,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49637",
     "passage": ""
+  },
+  {
+    "id": 49640,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Farm animals producing milk, egg and wool would require",
+    "options": {
+      "A": "maintenance ration",
+      "B": "balance ration",
+      "C": "weaning ration",
+      "D": "production ration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Production ration is the type of ration given to farm animals to enable them to produce. Categories of farm animals that require production ration include;\nHatching animals ; for milk production\nLayers; for production of more eggs\nPregnant animals; for growing foetus\nFeathering animals; for extra addition of meat or flesh",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49640",
+    "passage": ""
   }
 ]
