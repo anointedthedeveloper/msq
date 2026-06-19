@@ -3463,5 +3463,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68317",
     "passage": ""
+  },
+  {
+    "id": 68319,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A deuce in a table tennis game means",
+    "options": {
+      "A": "a loss",
+      "B": "a win",
+      "C": "a foul",
+      "D": "a tie"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In table tennis, a deuce refers to a tie. Specifically, it is when both players or pairs have scored 10 points each. The game then continues until one player or pair scores two points more than the other, which is known as 'win by two' rule.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68319",
+    "passage": ""
   }
 ]
