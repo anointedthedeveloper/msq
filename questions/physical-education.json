@@ -2224,5 +2224,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68236",
     "passage": ""
+  },
+  {
+    "id": 68243,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The amount of force you can put out is dependent on your:",
+    "options": {
+      "A": "muscular strength",
+      "B": "stamina",
+      "C": "agility",
+      "D": "muscular endurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The amount of force one can exert is directly related to their muscular strength. Muscular strength is the ability of a muscle or group of muscles to exert force against resistance. The stronger the muscle, the more force it can exert.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68243",
+    "passage": ""
   }
 ]
