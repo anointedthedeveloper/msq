@@ -2014,5 +2014,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9032",
     "passage": ""
+  },
+  {
+    "id": 9033,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The ratio of electrostatic force F\\(_E\\) to gravitational force F\\(_G\\) between two protons each of charge e and mass m, at a distance d is",
+    "options": {
+      "A": "\\(\\frac{e}{4πε_oGm}\\)",
+      "B": "\\(\\frac{e^2}{Gm^2}\\)",
+      "C": "\\(\\frac{Gm^2}{4πε_oe^2}\\)",
+      "D": "\\(\\frac{e^2}{4πε_oGm^2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Electrostatic force = F\\(_E\\) = \\(\\frac{e^2}{4πε_od^2}\\) Gravitational force = F\\(_G\\) = \\(\\frac{Gm^2}{d^2}\\)\n\\(\\frac{F_E}{F_G}\\) = \\(\\frac{\\frac{e^2}{4πε_od^2}}{\\frac{Gm^2}{d^2}}\\)  =  \\(\\frac{e^2}{4πε_oGm^2}\\)\nNOTE: (d\\(^2\\)s canceled out)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9033",
+    "passage": ""
   }
 ]
