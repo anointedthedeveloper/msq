@@ -2202,5 +2202,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73786",
     "passage": ""
+  },
+  {
+    "id": 73787,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Kedụ maka nne gị?",
+    "options": {
+      "A": "Ọ mara mma",
+      "B": "Ha dị mma",
+      "C": "Anyị dị mma",
+      "D": "Ọ dị mma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dị mma (which means \"She is fine\" or \"It's good\"). The question asks \"How is your mother?\" and the answer is \"She's fine\" or \"It's good\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73787",
+    "passage": ""
   }
 ]
