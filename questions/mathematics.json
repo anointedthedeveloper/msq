@@ -8125,5 +8125,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9289",
     "passage": ""
+  },
+  {
+    "id": 9290,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the minimum value of the function y = x(1+x)",
+    "options": {
+      "A": "- 1 / 4",
+      "B": "- 1 / 2",
+      "C": "1 / 4",
+      "D": "1 / 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "y = x(1+x) = x + x2 dy/dx = 1 + 2x As dy/dy → 0 1 + 2x = 0 2x = -1 X = -1/2 Y = x(1+x) = -1/2(1 - 1/2) at x = -1/2 = -1/2(1/2) = -1/4\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9290",
+    "passage": ""
   }
 ]
