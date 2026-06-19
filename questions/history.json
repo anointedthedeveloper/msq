@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/32901",
     "passage": ""
+  },
+  {
+    "id": 32902,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The first Magherebian state to be detached from the Ottoman Empire by the French was",
+    "options": {
+      "A": "Tunisia",
+      "B": "Libya",
+      "C": "Morocco",
+      "D": "Algeria."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/32902",
+    "passage": ""
   }
 ]
