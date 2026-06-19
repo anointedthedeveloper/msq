@@ -4449,5 +4449,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2139",
     "passage": ""
+  },
+  {
+    "id": 2140,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The boiling of fat and aqueous caustic soda is referred to as",
+    "options": {
+      "A": "hydrolysis",
+      "B": "esterification",
+      "C": "acidification",
+      "D": "saponification"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Saponification is a process that involves the conversion of fat, oil, or lipid, into soap and alcohol by the action of aqueous alkali.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2140",
+    "passage": ""
   }
 ]
