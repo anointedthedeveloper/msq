@@ -3341,5 +3341,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66865",
     "passage": ""
+  },
+  {
+    "id": 66866,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A letter containing valuable documents would be sent by",
+    "options": {
+      "A": "electronic mail",
+      "B": "surface handling",
+      "C": "registered mail",
+      "D": "airmail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Registered mail is a mail service offered by postal service in many countries, which allows the sender proof of mailing via a mailing receipt and upon request, electronic verification that an article was delivered or that a delivery attempt was made.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66866",
+    "passage": ""
   }
 ]
