@@ -2580,5 +2580,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1562",
     "passage": ""
+  },
+  {
+    "id": 1563,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Synthesis gas is a mixture of",
+    "options": {
+      "A": "CH 4 and H 2 O",
+      "B": "CH 4 and H 2",
+      "C": "CO 2 and H 2",
+      "D": "CO and H 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Synthesis gas is a mixture of carbon monoxide (CO) and hydrogen gas (H2).i.e CO + H2. It's also known as water gas because of its use in the synthesis of methanol and other hydrocarbons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1563",
+    "passage": ""
   }
 ]
