@@ -12229,5 +12229,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4616",
     "passage": ""
+  },
+  {
+    "id": 4617,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence : The principal advised that we pursue this case cautiously, otherwise we are bound to be taken .... by Ada's lies",
+    "options": {
+      "A": "away",
+      "B": "out",
+      "C": "in",
+      "D": "off",
+      "E": "on"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"taken in\" means to be deceived or tricked, which fits the context of being cautious to avoid falling for Ada's lies. It's a commonly used idiom in English.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4617",
+    "passage": ""
   }
 ]
