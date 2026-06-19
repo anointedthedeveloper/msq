@@ -10015,5 +10015,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14321",
     "passage": ""
+  },
+  {
+    "id": 14323,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In comparing the camera and the human eye, the film of the camera function as the?",
+    "options": {
+      "A": "retina",
+      "B": "iris",
+      "C": "cornea",
+      "D": "pupil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The retina is light sensitive layer living the inner wall of the eye where image is formed. in the camera, image is formed on a light sensitive film.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14323",
+    "passage": ""
   }
 ]
