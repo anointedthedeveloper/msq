@@ -2153,5 +2153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/651",
     "passage": ""
+  },
+  {
+    "id": 652,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined statement or words: Had she asked me earlier, I might have been able to employ him",
+    "options": {
+      "A": "I employed her",
+      "B": "I did not employ him",
+      "C": "I did not employ her",
+      "D": "I employed him",
+      "E": "I employed neither of the two"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The original sentence implies that the speaker did not employ him because the request came too late. Therefore, the nearest meaning is that \"I did not employ him.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/652",
+    "passage": ""
   }
 ]
