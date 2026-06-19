@@ -8320,5 +8320,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69811",
     "passage": ""
+  },
+  {
+    "id": 69812,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "(a) With reference to database management system, state: one difference between fragmentation and replication.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) In the context of a database management system (DBMS), fragmentation and replication are two strategies used to distribute and manage data across multiple locations or nodes in a distributed database environment. Here are more than one difference between fragmentation and replication: - Definition and Purpose: Fragmentation: Fragmentation involves breaking a database into smaller subsets or fragments that are stored on different nodes. Each fragment may contain a portion of the data or a subset of the database schema. The goal is to divide the data to improve data distribution, access efficiency, and performance. Replication: Replication involves creating and maintaining duplicate copies of the entire database or portions of it on different nodes. The purpose is to enhance data availability, fault tolerance, and read performance by allowing multiple nodes to access the same data. - Data Distribution: Fragmentation: Fragmentation divides the data horizontally (rows) or vertically (columns) among different nodes. Different fragments may contain different rows or columns, reducing the amount of data stored on each node. Replication: Replication involves creating identical copies of the same data on multiple nodes. All replicated copies contain the same data, which can improve data availability and reduce data access latency. - Data Consistency: Fragmentation: Fragmentation may lead to data consistency challenges, especially if updates affect data distributed across multiple fragments. Synchronization mechanisms are needed to ensure consistency. Replication: Replication can enhance data consistency by ensuring that the same data exists on multiple nodes. However, maintaining consistency across replicas requires careful synchronization mechanisms. - Write Operations: Fragmentation: Fragmentation may require coordination among nodes for write operations that affect data distributed across different fragments. This coordination can introduce overhead and affect performance. Replication: Write operations can be performed on any replica, potentially improving write performance by distributing the load. However, maintaining consistency among replicas requires synchronization mechanisms. - Read Operations: Fragmentation: Fragmentation can impact read performance if a query requires data from multiple fragments, as the DBMS needs to gather data from different nodes. Replication: Replication can enhance read performance by allowing queries to be served from multiple replicas, reducing data access latency. - Data Storage: Fragmentation: Fragmented data may be stored on different nodes based on data distribution policies. Nodes may hold different portions of the schema. Replication: Replicated data is stored on multiple nodes, with each node having a complete copy of the data or a subset of it. - Data Access Patterns: Fragmentation: Fragmentation aims to optimize data access patterns for specific use cases, focusing on distributing data efficiently. Replication: Replication focuses on improving data availability and accessibility, ensuring that data can be accessed from multiple nodes. Both fragmentation and replication serve distinct purposes in a distributed database environment, and the choice between these strategies depends on factors such as data access patterns, performance goals, consistency requirements, and fault tolerance needs",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69812",
+    "passage": ""
   }
 ]
