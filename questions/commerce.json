@@ -16441,5 +16441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7658",
     "passage": ""
+  },
+  {
+    "id": 7660,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An example of a computer operating system is?",
+    "options": {
+      "A": "the Pagemaker",
+      "B": "the Word Perfect",
+      "C": "Microsoft Word 2000",
+      "D": "Windows 2000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Examples of Operating Systems Some examples include versions of Microsoft Windows (like Windows 10, Windows 8, Windows 7, Windows Vista, and Windows XP), Apple's macOS (formerly OS X), Chrome OS , BlackBerry Tablet OS , and flavors of Linux, an open source operating system .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7660",
+    "passage": ""
   }
 ]
