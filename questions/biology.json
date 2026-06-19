@@ -1230,5 +1230,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/392",
     "passage": ""
+  },
+  {
+    "id": 393,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these diseases cannot be controlled by killing the vector?",
+    "options": {
+      "A": "River blindness",
+      "B": "Malaria",
+      "C": "Polio",
+      "D": "Cholera",
+      "E": "Bilharzia (shistosoma)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Polio can't be controlled by simply killing the vector because the polio virus primarily spreads through human waste, not through vectors like mosquitoes or other insects. The virus is transmitted directly from person to person via the fecal-oral route, or less commonly through contaminated water or food. Therefore, vector control measures are not effective in preventing polio transmission.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/393",
+    "passage": ""
   }
 ]
