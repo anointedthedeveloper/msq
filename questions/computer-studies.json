@@ -12292,5 +12292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64330",
     "passage": ""
+  },
+  {
+    "id": 64331,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "CPU stands for ________________.",
+    "options": {
+      "A": "Control Processing Unit",
+      "B": "Computer Process Unit",
+      "C": "Central Personal Unit",
+      "D": "Central Processing Unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "CPU stands for Central Processing Unit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64331",
+    "passage": ""
   }
 ]
