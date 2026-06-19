@@ -6569,5 +6569,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76499",
     "passage": ""
+  },
+  {
+    "id": 76500,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of these is NOT a component of physical fitness?",
+    "options": {
+      "A": "Body composition",
+      "B": "Cardiorespiratory endurance",
+      "C": "Academic intelligence",
+      "D": "Flexibility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Physical fitness focuses on the body's physical capabilities such as flexibility, endurance, and body composition, while academic intelligence pertains to cognitive ability, which is not a fitness component.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76500",
+    "passage": ""
   }
 ]
