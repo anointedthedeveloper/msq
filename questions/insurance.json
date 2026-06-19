@@ -2327,5 +2327,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49908",
     "passage": ""
+  },
+  {
+    "id": 49909,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A profefessional charged with the responsibility of assessing loss in insurance",
+    "options": {
+      "A": "underwriter",
+      "B": "adjuster",
+      "C": "actuary",
+      "D": "broker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A loss adjuster is an insurance agent who assesses the amount of compensation that should be paid after a person has claimed on their insurance policy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49909",
+    "passage": ""
   }
 ]
