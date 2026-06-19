@@ -4890,5 +4890,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58887",
     "passage": ""
+  },
+  {
+    "id": 58927,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "What is the role of the part labeled II in Figure 1 above?",
+    "options": {
+      "A": "Interpreter",
+      "B": "Medium",
+      "C": "Receiver",
+      "D": "Source"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/phx8uS5XO4qJpmBwFrOkNwrDr8LGEvrhrnH2EBlo.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911346/myschool/data-processing/phx8uS5XO4qJpmBwFrOkNwrDr8LGEvrhrnH2EBlo.jpg",
+    "correct_answer": "B",
+    "explanation": "The role of the part labeled II in the diagram above is medium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58927",
+    "passage": ""
   }
 ]
