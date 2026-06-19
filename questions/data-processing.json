@@ -7273,5 +7273,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67152",
     "passage": ""
+  },
+  {
+    "id": 67153,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A user working on a computer that is running on Windows 7 issued the command: Ctrl +Alt +Del while typing a document. What interface is expected to be displayed on the screen?",
+    "options": {
+      "A": "Windows hibernate",
+      "B": "Shutdown windows",
+      "C": "Windows task manager",
+      "D": "Restart windows"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In Windows 7, Control+Alt+Delete starts Windows Security or Task Manager.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67153",
+    "passage": ""
   }
 ]
