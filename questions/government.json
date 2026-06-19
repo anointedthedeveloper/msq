@@ -3759,5 +3759,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1655",
     "passage": ""
+  },
+  {
+    "id": 1657,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The highest grade in the civil service is known as the",
+    "options": {
+      "A": "administrative cadre",
+      "B": "executive cadre",
+      "C": "clerical cadre",
+      "D": "technical cadre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1657",
+    "passage": ""
   }
 ]
