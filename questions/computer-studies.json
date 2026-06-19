@@ -6333,5 +6333,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62477",
     "passage": ""
+  },
+  {
+    "id": 62479,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The cell labelled I in the table represents?",
+    "options": {
+      "A": "72",
+      "B": "74",
+      "C": "75",
+      "D": "79"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The cell labeled I in the table represents 79 according to ASCII the conversion code for 79 is 01001111.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62479",
+    "passage": ""
   }
 ]
