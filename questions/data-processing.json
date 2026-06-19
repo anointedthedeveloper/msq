@@ -10091,5 +10091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77109",
     "passage": ""
+  },
+  {
+    "id": 77110,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A program installed on a computer that secretly collects information about the user is called",
+    "options": {
+      "A": "spyware",
+      "B": "malware",
+      "C": "fire wall",
+      "D": "ad ware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Spyware is unwanted software that infiltrates your computing device, stealing your internet usage data and sensitive information. Spyware is classified as a type of malware - malicious software designed to gain access to or damage your computer, often without your knowledge.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77110",
+    "passage": ""
   }
 ]
