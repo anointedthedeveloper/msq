@@ -2287,5 +2287,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61747",
     "passage": ""
+  },
+  {
+    "id": 61749,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The process of .... is difficult without computer in transportation system.",
+    "options": {
+      "A": "accommodation",
+      "B": "loading",
+      "C": "repair",
+      "D": "reservation",
+      "E": "ticketing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Reservation: This allows passengers to plan ahead and ensure they have a seat on the desired date and time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61749",
+    "passage": ""
   }
 ]
