@@ -10309,5 +10309,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14340",
     "passage": ""
+  },
+  {
+    "id": 14341,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A galvanometer with full-scale deflection of 10 mA is to be converted to a voltmeter with full-scale deflection of 5v.  if a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is ?",
+    "options": {
+      "A": "1Ω",
+      "B": "2Ω",
+      "C": "5Ω",
+      "D": "10Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "r = resistance of the galvanometer\nl = current through galvanometer = 1mA or 0.01A\nV1 = p.d across the galvanometer = I X r = 0.01 X r\n: V1 = 0.01r\nV2 =  p.d across the  multiplier = 5 - 0.01r\nR = resistance of the multiplier = 498Ω\nwhere R = \\(\\frac{V}{I}\\) --> 498 = \\(\\frac{5 - 0.01r}{0.01}\\)\nCROSS MULTIPLY --> 498 X 0.01 = 5 - 0.01r\n0.01r = 5 - 4.98\n∴ r = \\(\\frac{0.02}{0.01}\\) = 2Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14341",
+    "passage": ""
   }
 ]
