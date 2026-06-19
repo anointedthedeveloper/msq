@@ -8767,5 +8767,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62683",
     "passage": ""
+  },
+  {
+    "id": 62684,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Three major types of language translators are?",
+    "options": {
+      "A": "assembler, compiler and editor.",
+      "B": "assembler, Compiler and interpreter.",
+      "C": "compiler, debugger and editor.",
+      "D": "debugger, assembler and interpreter."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62684",
+    "passage": ""
   }
 ]
