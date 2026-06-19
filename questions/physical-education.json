@@ -2833,5 +2833,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68284",
     "passage": ""
+  },
+  {
+    "id": 68285,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a swimming stroke ?",
+    "options": {
+      "A": "downstroke",
+      "B": "crawl",
+      "C": "backstroke",
+      "D": "breast stroke"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Downstroke is not a swimming stroke. The main types of swimming strokes are the crawl (or freestyle), backstroke, breaststroke, and butterfly. These strokes are the most common ones used in competitive swimming events.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68285",
+    "passage": ""
   }
 ]
