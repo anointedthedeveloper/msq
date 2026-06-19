@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73544",
     "passage": ""
+  },
+  {
+    "id": 73546,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Nne m siri ofe egusi. Ọlee nke bụ ngwaa na ndị a?",
+    "options": {
+      "A": "M",
+      "B": "Siri",
+      "C": "Nne",
+      "D": "Egusi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"Nne m siri ofe egusi means \"my mother cooked melon soup\". The verb is cooked which is \"siri\". In the sentence \"Nne m siri ofe egusi\", \"ofe\" is the verb, which means \"to cook\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73546",
+    "passage": ""
   }
 ]
