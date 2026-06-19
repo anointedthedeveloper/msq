@@ -17669,5 +17669,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25026",
     "passage": ""
+  },
+  {
+    "id": 25027,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In a series R - C circuit, the resistance of the resistor is 4 Ω and capacitive reactance is 3 Ω. Calculate the impedance of the circuit",
+    "options": {
+      "A": "1Ω",
+      "B": "4Ω",
+      "C": "5Ω",
+      "D": "7Ω",
+      "E": "12Ω"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Z = √ R 2 + x 2\nZ = √ 4 2 + 3 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25027",
+    "passage": ""
   }
 ]
