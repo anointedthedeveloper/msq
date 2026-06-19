@@ -5730,5 +5730,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2627",
     "passage": ""
+  },
+  {
+    "id": 2628,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A chemical reaction is always associated with",
+    "options": {
+      "A": "an increase in the composition of one of the substance",
+      "B": "a change in the volume of the reactants",
+      "C": "a change in the nature of the reactants",
+      "D": "the formation of new substance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Chemical reactions always involve the formation of new substances. This is because chemical reactions change the arrangement of atoms in a substance, which creates new substances with different chemical properties.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2628",
+    "passage": ""
   }
 ]
