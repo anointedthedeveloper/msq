@@ -8104,5 +8104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9288",
     "passage": ""
+  },
+  {
+    "id": 9289,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Differentiate sin x - x cos x",
+    "options": {
+      "A": "x cos x",
+      "B": "x sin x",
+      "C": "-x cos x",
+      "D": "-x sin x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "sin x - x cos x dy/dx = cos x - [1.cos x + x -sin x] = co x - [cos x - x sin x] = cos x - cos x + x sin x = x sin x\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9289",
+    "passage": ""
   }
 ]
