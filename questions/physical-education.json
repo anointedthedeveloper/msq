@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64231",
     "passage": ""
+  },
+  {
+    "id": 64235,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computer game is played for the following reasons except",
+    "options": {
+      "A": "Entertainment",
+      "B": "gain recognition",
+      "C": "recreation",
+      "D": "reduce tension"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Computer games are not played for recognition purpose",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64235",
+    "passage": ""
   }
 ]
