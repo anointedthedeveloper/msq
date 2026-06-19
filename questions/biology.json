@@ -3298,5 +3298,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1271",
     "passage": ""
+  },
+  {
+    "id": 1841,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following statement is NOT true of symbiosis?",
+    "options": {
+      "A": "Symbionts must be living",
+      "B": "It is an association of 'give and take'",
+      "C": "The association may involve two plants",
+      "D": "Association between two similar species",
+      "E": "Symbionts derive mutual benefit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1841",
+    "passage": ""
   }
 ]
