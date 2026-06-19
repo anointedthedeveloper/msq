@@ -839,5 +839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/151",
     "passage": ""
+  },
+  {
+    "id": 154,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the",
+    "options": {
+      "A": "Executive",
+      "B": "federal parliament",
+      "C": "regional legislatures",
+      "D": "judiciary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Under the 1963 constitution, items not listed in the exclusive and concurrent list were within the exclusive competence of the regional legislatures.Sir Oliver Lyttleton constitution of 1954 classified government powers into three: 1. Exclusive powers - matters where only the federal or central government can legislate only. 2. Concurrent powers - matters where both the federal government and regional (state) can legislate and Residual 0powers reserved for the regional legislature only.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/154",
+    "passage": ""
   }
 ]
