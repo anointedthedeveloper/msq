@@ -7558,5 +7558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3234",
     "passage": ""
+  },
+  {
+    "id": 3238,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The most suitable metal that can be used as lightning conductor is?",
+    "options": {
+      "A": "silver",
+      "B": "copper",
+      "C": "iron",
+      "D": "aluminium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In reality, silver actually has an even higher electrical conductivity than copper , but silver is too expensive to use.\nSilver is indeed the best conductor of electricity among common metals, surpassing even copper. Despite silver's superior conductivity, copper is the preferred choice for lightning conductors because it offers a good balance of conductivity and affordability.\nCopper is a highly suitable metal for use in lightning conductors due to its excellent electrical conductivity and resistance to corrosion. It is a very good conductor of electricity, meaning it allows electric charges to flow through it easily. This is crucial for a lightning conductor to safely conduct the electrical energy from a lightning strike to the ground.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3238",
+    "passage": ""
   }
 ]
