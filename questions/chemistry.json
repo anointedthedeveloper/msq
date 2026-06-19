@@ -13674,5 +13674,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/7512",
     "passage": ""
+  },
+  {
+    "id": 7516,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The size (diameter) of five elements are in the order R < T < W < X < Y, Y being the largest. If each atom has an electron situated on its circumference, and neglecting other factors, which of the atoms will lose its electron most reluctantly?",
+    "options": {
+      "A": "R",
+      "B": "T",
+      "C": "W",
+      "D": "X",
+      "E": "Y"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The  larger the circumference of the atom, the farther the distance from the nucleus and the lesser the effect of the positively charged nucleus on the outermost electron, and vice versa hence R is the correct option",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7516",
+    "passage": ""
   }
 ]
