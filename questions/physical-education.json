@@ -6338,5 +6338,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76486",
     "passage": ""
+  },
+  {
+    "id": 76487,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the primary characteristic of cancer?",
+    "options": {
+      "A": "Sudden seizures and loss of consciousness",
+      "B": "Chronic inflammation in the lungs",
+      "C": "Increased blood sugar levels",
+      "D": "The abnormal and uncontrolled growth of cells"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cancer is primarily characterized by the abnormal and uncontrolled division of cells that grow beyond normal limits. These cells can invade nearby tissues and spread (metastasize) to other parts of the body, disrupting normal body functions. This uncontrolled growth distinguishes cancer from other diseases such as diabetes (related to blood sugar), chronic lung inflammation, or neurological disorders like epilepsy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76487",
+    "passage": ""
   }
 ]
