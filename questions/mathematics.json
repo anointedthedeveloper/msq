@@ -3967,5 +3967,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8012",
     "passage": ""
+  },
+  {
+    "id": 8035,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "P, R and S lie on a circle center as shown above while Q lies outside the circle. Find ∠PSO",
+    "options": {
+      "A": "45 o",
+      "B": "55 o",
+      "C": "35 o",
+      "D": "40 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11844711056_0000.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868388/myschool/mathematics/11844711056_0000.png",
+    "correct_answer": "C",
+    "explanation": "xo = 35 + 20 (Exterior angle = sum of two interior opposite angles) x = 55o (∠ at the center twice ∠ at circumference) y = 110o ∠PSO = ∠SPO (base ∠S of 1sc Δ b/c PO = SO) ∴ ∠PSO = (180 - 110)/2 = 35o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8035",
+    "passage": ""
   }
 ]
