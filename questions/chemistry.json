@@ -10036,5 +10036,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4041",
     "passage": ""
+  },
+  {
+    "id": 4042,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The basicity of CH3COOH is",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The basicity of CH3COOH is 1. Which means it has just one ionizable ion.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4042",
+    "passage": ""
   }
 ]
