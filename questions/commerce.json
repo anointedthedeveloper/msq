@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/176",
     "passage": ""
+  },
+  {
+    "id": 177,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Sole enterprise may flourish best in",
+    "options": {
+      "A": "a mining business",
+      "B": "a retailing business",
+      "C": "an oil exploration business",
+      "D": "a car assembly business"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A sole enterprise means a one-man business and such businesses mostly excel in the retail line.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/177",
+    "passage": ""
   }
 ]
