@@ -7600,5 +7600,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9263",
     "passage": ""
+  },
+  {
+    "id": 9264,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If log\\(_{x^{\\frac{1}{2}}}\\)64  = 3, find the value of x",
+    "options": {
+      "A": "4",
+      "B": "16",
+      "C": "32",
+      "D": "64"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "If  log\\(_{x^{\\frac{1}{2}}}\\)64 = 3 (X\\(^{\\frac{1}{2}})^3\\) = 64 (X\\(^{\\frac{1}{2}})^3\\) = 4\\(^3\\) X\\(^{\\frac{1}{2}}\\) = 4 X = 4\\(^2\\) X = 16\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9264",
+    "passage": ""
   }
 ]
