@@ -7999,5 +7999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14024",
     "passage": ""
+  },
+  {
+    "id": 14027,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A motorcycle of mass 100kg moves round in a circle of radius 10m with a velocity of 5 ms\\(^{-1}\\). find the coefficient of friction between the road and the tyres.",
+    "options": {
+      "A": "25.00",
+      "B": "2.50",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "F = \\(\\frac{mv^2}{\\text{r}}\\) = \\(\\frac{100 \\times 5^2}{10}\\) = 250N R = mg = 100 x 10 = 1000N coefficient of friction, µ = \\(\\frac{\\text{F}}{\\text{R}}\\) = \\(\\frac{(250)}{1000}\\) = 0.25.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14027",
+    "passage": ""
   }
 ]
