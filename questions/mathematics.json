@@ -9742,5 +9742,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10323",
     "passage": ""
+  },
+  {
+    "id": 10347,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The table above show the marks obtained in a given test. Find the mean mark",
+    "options": {
+      "A": "3.1",
+      "B": "3.0",
+      "C": "3.2",
+      "D": "3.3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Mark(χ) f fχ 1 2 2 2 2 4 3 8 24 4 4 16 5 4 20 ∑ f = 20 ∑ fχ = 66\n\\(Mean = \\frac{\\sum fx}{\\sum f}\\)\n= \\(\\frac{66}{20}\\)\n= 3.3\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10347",
+    "passage": ""
   }
 ]
