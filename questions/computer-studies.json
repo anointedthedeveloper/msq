@@ -14413,5 +14413,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64840",
     "passage": ""
+  },
+  {
+    "id": 64848,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The following instructions are guidelines for drawing flowcharts except that?",
+    "options": {
+      "A": "flowcharts must have a logical start and finish",
+      "B": "it should follow a direction of left to right or top to bottom",
+      "C": "it should follow a direction of right to left or bottom to top",
+      "D": "it should be clear, neat and easy to follow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "It should follow the direction of right to left or bottom to top.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64848",
+    "passage": ""
   }
 ]
