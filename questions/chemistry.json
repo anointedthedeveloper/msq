@@ -7873,5 +7873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3279",
     "passage": ""
+  },
+  {
+    "id": 3280,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The ion that will give a white precipitate with aqueous NaOH and soluble in excess of the base is",
+    "options": {
+      "A": "Ca 2+",
+      "B": "Mg 2+",
+      "C": "Zn 2+",
+      "D": "Cu 2+"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ca\\(^{2+}\\) (calcium ions) are not soluble in excess NaOH (sodium hydroxide); when mixed, they form a white precipitate of calcium hydroxide (Ca(OH)\\(_2\\)) which does not dissolve further in excess NaOH, making it a key distinguishing factor in identifying calcium ions in solution compared to other cations like aluminum that can dissolve in excess NaOH.\nMg\\(^{2+}\\) is not soluble in excess NaOH; when added to a solution containing Mg\\(^{2+}\\) ions, sodium hydroxide (NaOH) will produce a white precipitate of magnesium hydroxide (Mg(OH)\\(_2\\)) which is insoluble in excess NaOH.\nZn\\(^{2+}\\) is soluble in excess NaOH, meaning that when you add a solution of sodium hydroxide (NaOH) in excess to a zinc ion Zn\\(^{2+}\\) solution, the initially formed white precipitate of zinc hydroxide will dissolve due to the formation of a complex ion,.\nCu\\(^{2+}\\) (copper ion) is not soluble in excess NaOH (sodium hydroxide); when added to a solution containing Cu\\(^{2+}\\), NaOH will produce a blue precipitate of copper hydroxide (Cu(OH)\\(_2\\)) which does not dissolve in excess NaOH unless the NaOH solution is very concentrated.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3280",
+    "passage": ""
   }
 ]
