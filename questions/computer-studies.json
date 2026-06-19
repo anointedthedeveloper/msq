@@ -4037,5 +4037,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62259",
     "passage": ""
+  },
+  {
+    "id": 62260,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a function of the operating system?",
+    "options": {
+      "A": "Analysis of the computer components.",
+      "B": "Ensuring the proper functioning of hardware.                    .",
+      "C": "Maintenance of directories in external storage.",
+      "D": "Opening and closing files."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62260",
+    "passage": ""
   }
 ]
