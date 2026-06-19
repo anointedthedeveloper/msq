@@ -7558,5 +7558,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13930",
     "passage": ""
+  },
+  {
+    "id": 13931,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "I. Mass II. Density III. Temperature IV. Nature of substance which of the above affect diffusion?",
+    "options": {
+      "A": "I and II only",
+      "B": "I,II and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Diffusion rates of a substance generally depend on mass, density, and temperature. and nature of substances I II, III, and IV\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13931",
+    "passage": ""
   }
 ]
