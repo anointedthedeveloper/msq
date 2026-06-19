@@ -3217,5 +3217,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71201",
     "passage": ""
+  },
+  {
+    "id": 71202,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeOn joue au volleyball à l'/au.",
+    "options": {
+      "A": "église",
+      "B": "école",
+      "C": "cinéma",
+      "D": "stade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks where one would play volleyball. The correct answer is stade (stadium), as it is a common venue for sports and games. The other options - cinéma (cinema), école (school), église (church), and restaurant - are not typically associated with playing volleyball.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71202",
+    "passage": ""
   }
 ]
