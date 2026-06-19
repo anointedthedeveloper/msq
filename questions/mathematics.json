@@ -12504,5 +12504,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22419",
     "passage": ""
+  },
+  {
+    "id": 22420,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram, O is the center of the circle, If ∠POQ = 80\no\nand ∠PRQ = 5x, find the value of x.",
+    "options": {
+      "A": "4 o",
+      "B": "8 o",
+      "C": "16 o",
+      "D": "20 o",
+      "E": "32 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8299151832_wcmath198950.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907675/myschool/mathematics/8299151832_wcmath198950.jpg",
+    "correct_answer": "B",
+    "explanation": "o\no\no\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22420",
+    "passage": ""
   }
 ]
