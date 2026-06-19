@@ -12397,5 +12397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64335",
     "passage": ""
+  },
+  {
+    "id": 64336,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the full form of CU?",
+    "options": {
+      "A": "Compound Unit",
+      "B": "Communication Unit",
+      "C": "Computer unit",
+      "D": "Control unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "CU stands for control unit. The control unit (CU) is a component of a computer's central processing unit (CPU) that directs the operation of the processor. A CU typically uses a binary decoder to convert coded instructions into timing and control signals that direct the operation of the other units (memory, arithmetic logic unit and input and output devices, etc.).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64336",
+    "passage": ""
   }
 ]
