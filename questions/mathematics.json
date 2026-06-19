@@ -8587,5 +8587,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9313",
     "passage": ""
+  },
+  {
+    "id": 9314,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If \\(p=\\sqrt{\\frac{rs^3}{t}}\\), express r in terms of p, s and t?",
+    "options": {
+      "A": "\\(\\frac{p^2 t}{s^3}\\)",
+      "B": "\\(\\frac{p^3 t}{s^3}\\)",
+      "C": "\\(\\frac{p^3 t}{s^2}\\)",
+      "D": "\\(\\frac{p^ t}{s^3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(p =\\sqrt{\\frac{rs^3}{t}}\\)\n= p\\(^2 =\\frac{rs^3}{t}\\) tp\\(^2\\) = rs\\(^3\\) r = \\(\\frac{p^2 t}{s^3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9314",
+    "passage": ""
   }
 ]
