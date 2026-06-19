@@ -8545,5 +8545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14081",
     "passage": ""
+  },
+  {
+    "id": 14083,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "zener diode is used for?",
+    "options": {
+      "A": "current amplification",
+      "B": "power amplification",
+      "C": "voltage regulation",
+      "D": "energy conversion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Zener diode is useful in stabilized power supply i.e to keep steady the voltage of a power supply.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14083",
+    "passage": ""
   }
 ]
