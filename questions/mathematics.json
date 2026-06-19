@@ -11823,5 +11823,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22355",
     "passage": ""
+  },
+  {
+    "id": 22356,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "An arc of a circle radius 7cm is 14cm long. What angle does the arc subtend at the center of circle? [Take π = 22/7]",
+    "options": {
+      "A": "25.7 o",
+      "B": "44 o",
+      "C": "51.43 o",
+      "D": "98 o",
+      "E": "114.55 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "L = 14cm, r = 7cm; \\(\\theta\\)= ?\nL = \\(\\frac{\\theta}{360}\\) x 2πr\n14= \\(\\frac{\\theta\\}{360}\\) x 2π(7)\n\\(\\theta = \\frac{360 \\times 14}{44}\\)\n=114.55°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22356",
+    "passage": ""
   }
 ]
