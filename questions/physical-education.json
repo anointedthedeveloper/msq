@@ -5499,5 +5499,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76343",
     "passage": ""
+  },
+  {
+    "id": 76344,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In basketball, which skill is used to quickly change direction while maintaining control of the ball?",
+    "options": {
+      "A": "Jump shot",
+      "B": "Pivoting",
+      "C": "Dribbling",
+      "D": "Rebounding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Pivoting is the technique of rotating the body on one foot (pivot foot) while keeping the other foot stationary, allowing the player to change direction without traveling (illegal movement). It helps maintain possession, create passing angles, and avoid defenders.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76344",
+    "passage": ""
   }
 ]
