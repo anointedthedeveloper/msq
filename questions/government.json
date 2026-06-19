@@ -1910,5 +1910,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1030",
     "passage": ""
+  },
+  {
+    "id": 1032,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The impact of the Commonwealth of Nations is felt most in the area of",
+    "options": {
+      "A": "diplomatic cooperation",
+      "B": "economic cooperation",
+      "C": "cultural cooperation",
+      "D": "military cooperation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1032",
+    "passage": ""
   }
 ]
