@@ -3973,5 +3973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75256",
     "passage": ""
+  },
+  {
+    "id": 75262,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le son /é/ apparaît dans -",
+    "options": {
+      "A": "marcher",
+      "B": "frère",
+      "C": "peu",
+      "D": "mère"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Marcher\" is an infinitive verb and ends with the /e/ sound.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75262",
+    "passage": ""
   }
 ]
