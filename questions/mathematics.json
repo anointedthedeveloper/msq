@@ -3295,5 +3295,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7728",
     "passage": ""
+  },
+  {
+    "id": 7734,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The venn diagram above shows the numbers of students offering music and history in a class of 80 students. If a student is picked at random from the class, what is the probability that he offers Music only?",
+    "options": {
+      "A": "0.38",
+      "B": "0.13",
+      "C": "0.50",
+      "D": "0.25"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17618913975_math200243.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868327/myschool/mathematics/17618913975_math200243.jpg",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7734",
+    "passage": ""
   }
 ]
