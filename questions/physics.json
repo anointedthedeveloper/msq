@@ -9469,5 +9469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14276",
     "passage": ""
+  },
+  {
+    "id": 14277,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "\\( ^{235} _{92}U + ^1 _0n → ^{144} _{56}Ba + ^{90} _{36}Kr +2X \\) In the reaction above, X is",
+    "options": {
+      "A": "electron",
+      "B": "proton",
+      "C": "neutrino",
+      "D": "neutron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\( ^{235} _{92}U + ^1 _0n → ^{144} _{56}Ba + ^{90} _{36}Kr +2^1_0X \\) In the reaction above, balancing the left with the right shows that X is a neutron\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14277",
+    "passage": ""
   }
 ]
