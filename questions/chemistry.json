@@ -7915,5 +7915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3281",
     "passage": ""
+  },
+  {
+    "id": 3282,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The characteristic colour of the flame shown when a copper salt moistened with concentrated hydrochloric acid on a platinum wire is put on bunsen burner is",
+    "options": {
+      "A": "lilac",
+      "B": "green",
+      "C": "yellow",
+      "D": "brick-red"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "when a copper sail moistened with concentrated hydrochloric acid on a platinum wire is put on bunsen burner, the characteristics colour of the flame is green. This is due to the presence of copper ions (Cu\\(^{2+}\\), which emit a green light when heated.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3282",
+    "passage": ""
   }
 ]
