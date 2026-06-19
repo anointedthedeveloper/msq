@@ -12775,5 +12775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64356",
     "passage": ""
+  },
+  {
+    "id": 64358,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computer software can be classified into how many parts?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "2",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer software can be classified into two parts. These are : the system softwares and the application softwares",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64358",
+    "passage": ""
   }
 ]
