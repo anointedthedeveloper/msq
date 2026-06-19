@@ -8278,5 +8278,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/57635",
     "passage": ""
+  },
+  {
+    "id": 57638,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The road sign indicates",
+    "options": {
+      "A": "Move ahead",
+      "B": "stop ahead",
+      "C": "speed limit",
+      "D": "wait a bit"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/41ljtJb2ZV0kZuIRJ5q0kjmMLb2dwJRj4mhDF5Vr.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912065/myschool/civic-education/41ljtJb2ZV0kZuIRJ5q0kjmMLb2dwJRj4mhDF5Vr.jpg",
+    "correct_answer": "B",
+    "explanation": "The road sign is a \"stop ahead\" sign. A \"stop ahead\" road sign alerts the drivers to an impending stop sign and therefore should slow down.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/57638",
+    "passage": ""
   }
 ]
