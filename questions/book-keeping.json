@@ -165,5 +165,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72822",
     "passage": ""
+  },
+  {
+    "id": 72846,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Use the following information to answer questions 10-12\nA motor vehicle bought for #1,600,000 was estimated to have a useful life span of 4 years and a residual value of #200,000. The straight line method of calculating depreciation is used.The motor vehicle is sold at the end of the fourth year for #250,000.\nThe net value book value of the end of the fourth year is",
+    "options": {
+      "A": "#1,200,000",
+      "B": "#1,050,000",
+      "C": "#550,000",
+      "D": "#400,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Depreciation = (Cost - scrap value)/4\n= #1,600,000-#200,000/4 = #350,000\nDepreciation for 3yrs\n= #350,000 × 3 = 1,050,000\nNet book value at the end of the third year\n=1,600,000 - 1,050,000 = #550,000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72846",
+    "passage": ""
   }
 ]
