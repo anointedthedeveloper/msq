@@ -12789,5 +12789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7302",
     "passage": ""
+  },
+  {
+    "id": 7303,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An activity that involves derivation of raw materials from land and sea is?",
+    "options": {
+      "A": "construction",
+      "B": "farming",
+      "C": "agriculture",
+      "D": "extraction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Extractive industries are the businesses that take raw materials, including oil, coal, gold, iron, copper, and other minerals, from the earth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7303",
+    "passage": ""
   }
 ]
