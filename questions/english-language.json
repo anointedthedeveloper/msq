@@ -4705,5 +4705,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2083",
     "passage": ""
+  },
+  {
+    "id": 2084,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the appropriate option to fill the gap in the following sentences : As it holds true that, unless you train your body you cannot be an athlete, so also unless you train your .... you cannot be a ....",
+    "options": {
+      "A": "kicking - footballer",
+      "B": "voice - choirmaster",
+      "C": "mind - scholar",
+      "D": "courage - hero",
+      "E": "arms - swimmer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence presents a logical analogy: just as physical training is necessary to become an athlete, another type of training is required for a different role. Just as an athlete trains the body, a scholar must train the mind. This maintains the logical structure of the analogy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2084",
+    "passage": ""
   }
 ]
