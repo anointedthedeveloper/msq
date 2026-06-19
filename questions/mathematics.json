@@ -9658,5 +9658,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9958",
     "passage": ""
+  },
+  {
+    "id": 9959,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If y = (2x + 1)\\(^3\\) find \\(\\frac{\\text{d}}{\\text{dx}}\\)",
+    "options": {
+      "A": "3(2x+1) 2",
+      "B": "6(2x+1)",
+      "C": "3(2x+1)",
+      "D": "6(2x+1) 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "y = (2x + 1)\\(^3\\) \\(\\frac{dy}{dx}\\) = 3(2x + 1)\\(^{3-1}\\) x 2 = 3(2x + 1)\\(^2\\)x 2 = 6(2x + 1)\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9959",
+    "passage": ""
   }
 ]
