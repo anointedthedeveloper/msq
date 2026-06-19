@@ -13270,5 +13270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4789",
     "passage": ""
+  },
+  {
+    "id": 4790,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The bleaching action of chlorine gas is effective due to the presence of",
+    "options": {
+      "A": "hydrogen chloride",
+      "B": "water",
+      "C": "air",
+      "D": "oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4790",
+    "passage": ""
   }
 ]
