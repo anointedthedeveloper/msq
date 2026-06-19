@@ -6542,5 +6542,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74068",
     "passage": ""
+  },
+  {
+    "id": 74069,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "NAHAWU 'Wani yaro baki ya fadi a rigingine. Bayanau a wannan jimla shi ne",
+    "options": {
+      "A": "a rigingine",
+      "B": "baki",
+      "C": "wani",
+      "D": "ya fad'i"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Bayanau a wannan jimla shi ne ... (The object of the sentence is ... ). Answer: baki (the boy). The sentence \"Wani yaro baki ya fadi a rigingine means \"A certain boy fell off a bicycle\", so the object of the sentence is \"baki\" (the boy)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74069",
+    "passage": ""
   }
 ]
