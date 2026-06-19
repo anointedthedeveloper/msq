@@ -3425,5 +3425,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66869",
     "passage": ""
+  },
+  {
+    "id": 75941,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The secreatary at ABC Company needs to produce a document in large quantity. Which of these office equipment would be used?",
+    "options": {
+      "A": "Tele-printer",
+      "B": "Typewriter",
+      "C": "Risograph",
+      "D": "Duplicator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A duplicator is used to produce a large number of copies of a document. It works by creating a master copy of the document and then using it to print the copies. This is different from a typewriter, which is used for typing individual documents, or a tele-printer, which is used for sending and receiving typed messages. A Risograph is a high-speed digital printing system designed for high-volume copying and printing, but it's not as commonly used as a duplicator in an office setting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75941",
+    "passage": ""
   }
 ]
