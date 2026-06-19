@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60218",
     "passage": ""
+  },
+  {
+    "id": 60219,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A major function of system software is_________?",
+    "options": {
+      "A": "Collection of Files",
+      "B": "Translation of machine language into machine code",
+      "C": "File management",
+      "D": "Arrangement of files in ascending order"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60219",
+    "passage": ""
   }
 ]
