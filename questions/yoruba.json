@@ -3233,5 +3233,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73123",
     "passage": ""
+  },
+  {
+    "id": 73124,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2009",
+    "question": "Èwo ló ni òro-iše ní ipilė?",
+    "options": {
+      "A": "Onisu",
+      "B": "Aasè",
+      "C": "Omokómo",
+      "D": "Odoodủn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73124",
+    "passage": ""
   }
 ]
