@@ -1552,5 +1552,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75340",
     "passage": ""
+  },
+  {
+    "id": 75342,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما الفاعل في الجملة: \"شرح المعلمُ الدرس\"؟",
+    "options": {
+      "A": "لا يوجد فاعل",
+      "B": "شرح",
+      "C": "المعلم",
+      "D": "الدرم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "v\"alall\" means \"the teacher\" and serves as the subject (Jcl) in a sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75342",
+    "passage": ""
   }
 ]
