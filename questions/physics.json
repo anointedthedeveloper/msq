@@ -10162,5 +10162,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14332",
     "passage": ""
+  },
+  {
+    "id": 14333,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An engine of a car of power 80 kW moves on a rough road with a velocity of 32 m\\(s^-1\\). The forces required to bring it to rest is",
+    "options": {
+      "A": "2.56 x 10 6 N",
+      "B": "2.50 x 10 6 N",
+      "C": "2.80 x 10 3 N",
+      "D": "2.50 x 10 3 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Power = force x velocity => 80,000 = F x 32\nF = \\(\\frac{80000}{32}\\)\n= 2500N = 2.50 x \\(10^3\\)N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14333",
+    "passage": ""
   }
 ]
