@@ -2371,5 +2371,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9563",
     "passage": ""
+  },
+  {
+    "id": 9671,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A body weighing 80N stands in an elevator that is about to move. The force exerted by floor on the body as the elevator moves upward with an acceleration of 5 ms-2 is [g = 10ms-2]",
+    "options": {
+      "A": "40 N",
+      "B": "80 N",
+      "C": "120 N",
+      "D": "160 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "W = Mg\nman's weight = 80N then his mass = \\(\\frac{80}{10}\\) = 8kg\nT = Mg + Ma = M( g + a) = 8(10 + 5) = 8 x 15 = 120N.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9671",
+    "passage": ""
   }
 ]
