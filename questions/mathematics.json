@@ -6991,5 +6991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9234",
     "passage": ""
+  },
+  {
+    "id": 9235,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Find y, if \\(\\sqrt{12}-\\sqrt{147}+y\\sqrt{3} = 0\\)",
+    "options": {
+      "A": "5",
+      "B": "1",
+      "C": "7",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\sqrt{12}\\) -\\(\\sqrt{147}\\) + y\\(\\sqrt{3}\\) = 0 \\(\\sqrt{4\\times 3}\\) - \\(\\sqrt{49\\times 3}\\) + y\\(\\sqrt{3}\\) = 0 2\\(\\sqrt{3}\\) - 7\\(\\sqrt{3}\\) + y\\(\\sqrt{3}\\) = 0 y\\(\\sqrt{3}\\) = 7\\(\\sqrt{3}\\) - 2\\(\\sqrt{3}\\) y = \\(\\frac{5\\sqrt{3}}{\\sqrt{3}}\\) y = 5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9235",
+    "passage": ""
   }
 ]
