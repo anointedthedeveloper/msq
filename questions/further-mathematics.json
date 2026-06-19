@@ -3378,5 +3378,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50525",
     "passage": ""
+  },
+  {
+    "id": 50526,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Simplify: \\((1 - \\sin \\theta)(1 + \\sin \\theta)\\).",
+    "options": {
+      "A": "\\(\\sin^{2} \\theta\\)",
+      "B": "\\(\\sec^{2} \\theta\\)",
+      "C": "\\(\\tan^{2} \\theta\\)",
+      "D": "\\(\\cos^{2} \\theta\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\((1 + \\sin \\theta)(1 - \\sin \\theta) = 1 - \\sin \\theta + \\sin \\theta - \\sin^{2} \\theta\\)\n\\(= 1 - \\sin^{2} \\theta\\)\nRecall, \\(\\cos^{2} \\theta + \\sin^{2} \\theta = 1\\)\n\\(\\therefore 1 - \\sin^{2} \\theta = \\cos^{2} \\theta\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50526",
+    "passage": ""
   }
 ]
