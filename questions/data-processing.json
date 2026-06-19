@@ -6059,5 +6059,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62608",
     "passage": ""
+  },
+  {
+    "id": 62609,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The correct order of the steps taken in creating a database from the database template in MS Access 2007 is",
+    "options": {
+      "A": "click on the Office button --> click New --> choose a database of your choice",
+      "B": "click New --> click on Office button --> choose a database of your choice",
+      "C": "click on database of your choice --> click New --> click on Office button",
+      "D": "click New --> choose database of your choice --> click on Office button"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "To Create a database in MS Access 2007\nclick on the Office button If Access is already open, select File > New. Select Blank database, or select a template. Enter a name for the database, select a location, and then select Create.\nTherefore,  the correct order is: Office button --> New --> Choose a database template --> Create",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62609",
+    "passage": ""
   }
 ]
