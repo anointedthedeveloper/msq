@@ -2707,5 +2707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68277",
     "passage": ""
+  },
+  {
+    "id": 68278,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a field event ?",
+    "options": {
+      "A": "Javelin throw",
+      "B": "Hurdles race",
+      "C": "100m race",
+      "D": "relay race"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Field events - Long jump - High jump - Triple jump - Pole vault - Shot put (throw) - Discus (throw) - Hammer throw - Javelin throw",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68278",
+    "passage": ""
   }
 ]
