@@ -5877,5 +5877,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2634",
     "passage": ""
+  },
+  {
+    "id": 2635,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The shape of s-orbitals is",
+    "options": {
+      "A": "spherical",
+      "B": "elliptical",
+      "C": "spiral",
+      "D": "circular"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The shape of an s-orbital is spherical. S-orbitals are spherically symmetric, meaning that the wave function only depends on the distance from the nucleus, not the direction. The s-orbital is spherical due to its lack of angular dependence and zero angular momentum (l=0), meaning the probability of finding an electron is the same in all directions from the nucleus.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2635",
+    "passage": ""
   }
 ]
