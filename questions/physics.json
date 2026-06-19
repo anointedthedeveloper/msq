@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/330",
     "passage": ""
+  },
+  {
+    "id": 548,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A piece of substance of specific head capacity 450JKg-1K-1 falls through a vertical distance of 20m from rest. Calculate the rise in temperature of the substance on hitting the ground when all its energies are converted into heat. [g = 10ms-2]",
+    "options": {
+      "A": "2/9°C",
+      "B": "4/9°C",
+      "C": "9/4°C",
+      "D": "9/2°C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Energy at the height = mgh This energy is converted to heat energy - mcΔt ∴ From the principle of energy conversion, mcΔt = mgh m x 450 x Δt = m x 10 x 20 ∴ Δt = \\(\\frac{m \\times 10 \\times 20}{(m \\times 450)}\\) = \\(\\frac{200}{450}\\) = \\(\\frac{4}{9}\\)°C",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/548",
+    "passage": ""
   }
 ]

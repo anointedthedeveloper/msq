@@ -240,5 +240,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/214",
     "passage": ""
+  },
+  {
+    "id": 215,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following most accurately describe the climate of coast lands which are adjacent to cool ocean currents?",
+    "options": {
+      "A": "summer rain, winter drought",
+      "B": "winter rain, summer drought",
+      "C": "rain all the year round",
+      "D": "monsoon rainfall pattern",
+      "E": "aridity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/215",
+    "passage": ""
   }
 ]
