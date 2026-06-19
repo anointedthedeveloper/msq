@@ -16473,5 +16473,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67845",
     "passage": ""
+  },
+  {
+    "id": 67846,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Large computers are classified as",
+    "options": {
+      "A": "desktops",
+      "B": "micro computers",
+      "C": "mini computers",
+      "D": "mainframe computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "mainframe computers are large and powerful computers that handle the processing for many users simultaneously",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67846",
+    "passage": ""
   }
 ]
