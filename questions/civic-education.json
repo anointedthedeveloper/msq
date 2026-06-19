@@ -1573,5 +1573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50115",
     "passage": ""
+  },
+  {
+    "id": 50116,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following cannot motivate human trafficking",
+    "options": {
+      "A": "poverty",
+      "B": "greed",
+      "C": "low self-esteem",
+      "D": "education"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "“The Root Cause of Human Trafficking is poverty, lack of education, immigration policy, environmental conditions, fractured families, and a lack of good job opportunities''.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50116",
+    "passage": ""
   }
 ]
