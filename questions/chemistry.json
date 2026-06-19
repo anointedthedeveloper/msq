@@ -6024,5 +6024,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2641",
     "passage": ""
+  },
+  {
+    "id": 2642,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A carcinogenic substance is",
+    "options": {
+      "A": "asbestos dust",
+      "B": "sawdust",
+      "C": "nitrogen (II) oxide",
+      "D": "carbon (II) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Carcinogenic substances, also known as carcinogens, are agents that can cause cancer. Examples include tobacco smoke, alcohol, asbestos, and certain chemical compounds like benzene and asbestos.\nAsbestos is generally considered more carcinogenic than sawdust. Asbestos, particularly the amphibole fibers, is a known human carcinogen and has been linked to mesothelioma, lung cancer, and other cancers. While wood dust is also classified as a human carcinogen, primarily associated with nasal cancer, the carcinogenic potential of asbestos is considered higher.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2642",
+    "passage": ""
   }
 ]
