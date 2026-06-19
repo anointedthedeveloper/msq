@@ -2066,5 +2066,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/601",
     "passage": ""
+  },
+  {
+    "id": 602,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following organs produces bile?",
+    "options": {
+      "A": "Gall bladder",
+      "B": "Pancreas",
+      "C": "Spleen",
+      "D": "Liver",
+      "E": "Stomach"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/602",
+    "passage": ""
   }
 ]
