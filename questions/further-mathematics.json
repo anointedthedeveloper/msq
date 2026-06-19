@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50199",
     "passage": ""
+  },
+  {
+    "id": 50203,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\(B = \\begin{pmatrix}  2 & 5  \\\\  1 & 3  \\end{pmatrix}\\), find \\(B^{-1}\\).",
+    "options": {
+      "A": "\\(A = \\begin{pmatrix}  -3 & -5  \\\\  1 & 2  \\end{pmatrix}\\)",
+      "B": "\\(A = \\begin{pmatrix}  3 & -5  \\\\  1 & 2  \\end{pmatrix}\\)",
+      "C": "\\(A = \\begin{pmatrix}  3 & -5  \\\\  -1 & 2  \\end{pmatrix}\\)",
+      "D": "\\(A = \\begin{pmatrix}  -3 & 5  \\\\  1 & -2  \\end{pmatrix}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(B.B^{-1} = 1\\), let \\(B^{-1} = \\begin{pmatrix}  a & b  \\\\  c & d  \\end{pmatrix}\\)\n\\(\\begin{pmatrix}  2 & 5  \\\\  1 & 3  \\end{pmatrix}\\)\\(\\begin{pmatrix}  a & b  \\\\  c & d  \\end{pmatrix}\\) = \\(\\begin{pmatrix}  1 & 0  \\\\  0 & 1  \\end{pmatrix}\\)\nMultiplying \\(B \\times B^{-1}\\), we have the following equations:\n\\(2a+5c = 1......... (1)\\); \\(a+3c = 0 ........(2)\\)\n\\(2b+5d = 0 ..........(3)\\); \\(b+3d = 1..........(4)\\)\nSolving the equations simultaneously, we have\n\\(a = 3; b = -5; c = -1; d = 2 \\implies B^{-1} = \\begin{pmatrix}  3 & -5  \\\\  -1 & 2  \\end{pmatrix}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50203",
+    "passage": ""
   }
 ]
