@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75327",
     "passage": ""
+  },
+  {
+    "id": 75329,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "في الإسلام، متى يبدأ الصوم؟",
+    "options": {
+      "A": "عند غروب الشمس",
+      "B": "بعد العصر",
+      "C": "من الفجر إلى المغرب",
+      "D": "بعد العشاء"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fasting in Islam is from dawn (fajr) to sunset (maghrib).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75329",
+    "passage": ""
   }
 ]
