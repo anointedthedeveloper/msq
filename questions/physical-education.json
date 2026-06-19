@@ -3337,5 +3337,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68311",
     "passage": ""
+  },
+  {
+    "id": 68312,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not an equipment/facility used in badminton games?",
+    "options": {
+      "A": "paddles",
+      "B": "strings",
+      "C": "shuttlecocks",
+      "D": "racquet"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Paddles are not used in badminton games. Badminton is a racquet sport played using racquets to hit a shuttlecock across a net. The equipment used in badminton includes a racquet, shuttlecock, and strings for the racquet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68312",
+    "passage": ""
   }
 ]
