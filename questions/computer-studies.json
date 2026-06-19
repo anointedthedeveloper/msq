@@ -1,0 +1,23 @@
+[
+  {
+    "id": 57672,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The first calculator was built by?",
+    "options": {
+      "A": "Marie Jacquad",
+      "B": "Balise Pascal",
+      "C": "Charles Babbage",
+      "D": "John Napier"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Pascaline, also called Arithmetic Machine, the first calculator or adding machine to be produced in any quantity and actually used. The Pascaline was designed and built by the French mathematician-philosopher Blaise Pascal between 1642 and 1644.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/57672",
+    "passage": ""
+  }
+]
