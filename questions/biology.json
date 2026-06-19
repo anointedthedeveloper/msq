@@ -702,5 +702,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/344",
     "passage": ""
+  },
+  {
+    "id": 345,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A farmer X working in a swamp did not eat any food nor drink any water. Which of this diseases can he not contact",
+    "options": {
+      "A": "Cholera",
+      "B": "Bilharzia",
+      "C": "River blindness",
+      "D": "Malaria",
+      "E": "Sleeping sickness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cholera is a water-borne disease hence, it cannot be contacted by the farmer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/345",
+    "passage": ""
+  },
+  {
+    "id": 346,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A carbohydrate molecule in the blood in the right ventricles of the heart is pumped into the cell of the toe of a man. Which of these structure is it unlikely to pass through en-route",
+    "options": {
+      "A": "pulmonary artery",
+      "B": "lungs",
+      "C": "Heart",
+      "D": "liver",
+      "E": "aorta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Blood circulation holds in the circulatory system, the liver is a part of the digestive system. Hence, the liver can't be a part of the circulation process.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/346",
+    "passage": ""
+  },
+  {
+    "id": 347,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In a photo-tropic experiment, young seedlings in a box were subjected to light from one direction. The seedling continue to grow erect. Which of the following statement is correct",
+    "options": {
+      "A": "Only the tip of the seedling received the light",
+      "B": "The light was not strong enough",
+      "C": "The seedlings were rather too young",
+      "D": "The tip of the seedling may have been covered",
+      "E": "The box containing the seedling should have been placed on a laboratory bench"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is \"the tip of the seedling may have been covered\". If the tip of the seeding is covered, it would prevent the seedling from receiving the light signal, which is necessary for phototropism. As a result the seedling will continue to grow erect, without bending towards the light.\nOn the other hand, if only the tip of the seedling received the light, it would like respond by bending towards the light source.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/347",
+    "passage": ""
   }
 ]
