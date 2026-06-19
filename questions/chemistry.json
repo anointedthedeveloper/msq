@@ -12115,5 +12115,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4484",
     "passage": ""
+  },
+  {
+    "id": 4485,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Iron can be protected from corrosion by coating the surface with?",
+    "options": {
+      "A": "gold",
+      "B": "silver",
+      "C": "copper",
+      "D": "zinc"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4485",
+    "passage": ""
   }
 ]
