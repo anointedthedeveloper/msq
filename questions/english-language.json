@@ -13616,5 +13616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5072",
     "passage": ""
+  },
+  {
+    "id": 5074,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap :\nAfter the accused was found guilty by the court, his counsel .... before sentence was passed.",
+    "options": {
+      "A": "begged for mercy",
+      "B": "made a plea for mitigation",
+      "C": "made anovation",
+      "D": "made a plea for litigation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A Plea in Mitigation is a formal statement that you or your lawyer will read to the court after you have pleaded guilty or admitted the offence. The aim is to explain your personal circumstances and provide an explanation for committing the offence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5074",
+    "passage": ""
   }
 ]
