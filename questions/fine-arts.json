@@ -2497,5 +2497,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75385",
     "passage": ""
+  },
+  {
+    "id": 75387,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which traditional Nigerian craft involves embossing leather for decoration?",
+    "options": {
+      "A": "Batik",
+      "B": "Weaving",
+      "C": "Pottery",
+      "D": "Leather tooling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Leather tooling is a traditional Nigerian craft common in northern areas like Kano and among the Yoruba in Oyo. It uses tools like stamps and hammers to emboss or carve decorative patterns on leather, making items such as cushions, bags, and saddles.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75387",
+    "passage": ""
   }
 ]
