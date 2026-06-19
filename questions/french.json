@@ -3448,5 +3448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71212",
     "passage": ""
+  },
+  {
+    "id": 71213,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Voici mon sac ! Cest le ....",
+    "options": {
+      "A": "sienne",
+      "B": "mien",
+      "C": "mienne",
+      "D": "tienne"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This sentence is saying \"Here's my bag! It's mine.\" The possessive adjective \"mien\" agrees with the masculine noun \"sac\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71213",
+    "passage": ""
   }
 ]
