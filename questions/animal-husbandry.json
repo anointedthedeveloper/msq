@@ -332,5 +332,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49568",
     "passage": ""
+  },
+  {
+    "id": 49577,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "One of the main reasons for providing light for broilers during production is to",
+    "options": {
+      "A": "reduce predators",
+      "B": "increase feed intake",
+      "C": "reduce mortality",
+      "D": "increase exercise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Adequate lighting encourages activity and feeding behavior in broilers, which leads to higher feed intake and improved growth rates. While light can also help reduce stress and mortality, its primary function in production is to enhance feeding.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49577",
+    "passage": ""
   }
 ]
