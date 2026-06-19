@@ -10238,5 +10238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62757",
     "passage": ""
+  },
+  {
+    "id": 62758,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The following are functions of database management system except?",
+    "options": {
+      "A": "backup and replication.",
+      "B": "operation.",
+      "C": "rule enforcement.",
+      "D": "security"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62758",
+    "passage": ""
   }
 ]
