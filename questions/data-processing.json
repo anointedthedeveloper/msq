@@ -2953,5 +2953,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58408",
     "passage": ""
+  },
+  {
+    "id": 58410,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following parts of the computer ensures the smooth operation of its hardware?",
+    "options": {
+      "A": "Main memory",
+      "B": "Control unit",
+      "C": "Auxiliary age",
+      "D": "Arithmetic and Logic Unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The control unit is a component of a computer's central processing unit that directs the operation of the processor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58410",
+    "passage": ""
   }
 ]
