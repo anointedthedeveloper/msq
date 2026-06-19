@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/626",
     "passage": ""
+  },
+  {
+    "id": 628,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The core of an efficient transformer should consist of laminated pieces of metal in order to",
+    "options": {
+      "A": "increase the heat produced by increasing the eddy current",
+      "B": "increase the heat produced by reducing the eddy current",
+      "C": "reduce the  heat produced by increasing the eddy current",
+      "D": "reduce the heat produced by reducing the eddy current"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/628",
+    "passage": ""
   }
 ]
