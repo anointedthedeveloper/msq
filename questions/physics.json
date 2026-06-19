@@ -1783,5 +1783,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/2010",
     "passage": ""
+  },
+  {
+    "id": 2015,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The thermometric substance of an absolute thermometer is",
+    "options": {
+      "A": "alcohol",
+      "B": "mercury",
+      "C": "helium",
+      "D": "platinum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An absolute thermometer, such as a gas thermometer, often uses helium as its thermometric substance because it has favorable properties for measuring temperature accurately over a wide range. Helium behaves nearly ideally at low temperatures and pressures, making it suitable for measuring temperatures close to absolute zero.\nWhile mercury is useful for many traditional thermometers due to its liquid state and thermal properties, it is not suitable for absolute thermometers, which require a substance that can accurately measure extremely low temperatures and behave ideally across a wide range of conditions.\nThus, helium is the correct choice for an absolute thermometer.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/2015",
+    "passage": ""
   }
 ]
