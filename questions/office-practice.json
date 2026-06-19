@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66118",
     "passage": ""
+  },
+  {
+    "id": 66120,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A requirement of a valid meeting is that",
+    "options": {
+      "A": "some proxies should be in attendance.",
+      "B": "there should be a quorum.",
+      "C": "all members should be in attendance.",
+      "D": "items of its agenda should be completed."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A requirement of a valid meeting is that there should be a quorum. A quorum is the minimum number of members of a meeting that must be present before the commencement of a meeting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66120",
+    "passage": ""
   }
 ]
