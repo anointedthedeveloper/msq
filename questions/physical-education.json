@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64160",
     "passage": ""
+  },
+  {
+    "id": 64162,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is mixed double race in racket games?",
+    "options": {
+      "A": "1 male vs 1 female",
+      "B": "2 males vs 2 females",
+      "C": "1 male and 1 female vs 1 male and 1 female",
+      "D": "2 females vs 2 females"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In some sports, such as tennis and badminton, mixed doubles is a match in which a man and a woman play as partners against another man and woman.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64162",
+    "passage": ""
   }
 ]
