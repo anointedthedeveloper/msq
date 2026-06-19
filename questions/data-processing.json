@@ -997,5 +997,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57701",
     "passage": ""
+  },
+  {
+    "id": 57702,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The type of data which consist of text, number, audio, graphic and animation is called",
+    "options": {
+      "A": "data set",
+      "B": "multimedia data",
+      "C": "multi-purpose data",
+      "D": "multi-variable data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57702",
+    "passage": ""
   }
 ]
