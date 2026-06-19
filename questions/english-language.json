@@ -1603,5 +1603,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/586",
     "passage": ""
+  },
+  {
+    "id": 609,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\n....for the team for six years, he decided to join another",
+    "options": {
+      "A": "When he played",
+      "B": "Playing",
+      "C": "Having played",
+      "D": "In playing",
+      "E": "when he was playing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/609",
+    "passage": ""
   }
 ]
