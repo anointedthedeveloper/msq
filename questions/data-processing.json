@@ -1228,5 +1228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57714",
     "passage": ""
+  },
+  {
+    "id": 57715,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A search engine is a?",
+    "options": {
+      "A": "A program that searches engines",
+      "B": "Computer engine that searches a database",
+      "C": "hardware components of a computer",
+      "D": "tool that searches the web"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A search engine is a (usually web-based) computer program that collects and organizes content from all over the internet. Examples are Google,Bing,Yahoo!,Yandex, DuckDuckGo, Ask.com, etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57715",
+    "passage": ""
   }
 ]
