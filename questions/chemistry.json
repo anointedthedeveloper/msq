@@ -6612,5 +6612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2947",
     "passage": ""
+  },
+  {
+    "id": 2948,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Vulcanization involves the removal of",
+    "options": {
+      "A": "a monomer",
+      "B": "the single bond",
+      "C": "the double bond",
+      "D": "a polymer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Vulcanization can cause isomerization of a double bond. This isomerization is a type of stereoisomerism, which is a change in the relative positions of atoms in a molecule. Vulcanization is a process that hardens rubber by forming cross-links between polymer chains.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2948",
+    "passage": ""
   }
 ]
