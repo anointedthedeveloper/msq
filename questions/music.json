@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48105",
     "passage": ""
+  },
+  {
+    "id": 48106,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The time signature for the tune above is",
+    "options": {
+      "A": "\\(\\frac{3}{2}\\)",
+      "B": "\\(\\frac2}{2}\\)",
+      "C": "\\(\\frac{3}{4}\\)",
+      "D": "\\(\\frac{2}{4}\\)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/mCvXaEiI8vAc2orNzSQVWs2ZthkWDljQdBSzBK2k.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890349/myschool/music/mCvXaEiI8vAc2orNzSQVWs2ZthkWDljQdBSzBK2k.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48106",
+    "passage": ""
   }
 ]
