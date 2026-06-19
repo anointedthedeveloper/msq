@@ -12162,5 +12162,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14510",
     "passage": ""
+  },
+  {
+    "id": 14511,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Three capacitors of capacitance 2μF, 4μFand 8μF are connected in parallel and a P.D of 6V is maintained across each capacitor, the total energy stored is?",
+    "options": {
+      "A": "2.52 x 10 -6 J",
+      "B": "6.90 x 10 -6 J",
+      "C": "2.52 x 10 -4 J",
+      "D": "6.90 x 10 -4 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C = C1 + C2 + C3 = 2 + 4 + 8 = 14μF V = 6V Energy = 1/2CV2 1/2 x 14 x 10-6 x 62 = 2.52 x 10-4 J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14511",
+    "passage": ""
   }
 ]
