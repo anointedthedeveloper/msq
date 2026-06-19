@@ -16000,5 +16000,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23199",
     "passage": ""
+  },
+  {
+    "id": 23200,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A sector of a circle of radius 9cm subtends angle 120° at the centre of the circle. Find the area of the sector to the nearest cm\\(^2\\) [Take π = 22/7]",
+    "options": {
+      "A": "75cm 2",
+      "B": "84cm 2",
+      "C": "85cm 2",
+      "D": "86cm 2",
+      "E": "95cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Area of a sector = θ/360 x πr\\(^2\\)\n= 120/360 x 22/7 x 81/1\n= 84.86 cm\\(^2\\)\n\\(\\approxeq\\) 85cm\\(^2\\) (to the nearest cm)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23200",
+    "passage": ""
   }
 ]
