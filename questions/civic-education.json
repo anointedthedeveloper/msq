@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50073",
     "passage": ""
+  },
+  {
+    "id": 50074,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The public service can perform all these function except",
+    "options": {
+      "A": "advice government on policy formulation",
+      "B": "keeping of government records",
+      "C": "provision of social services",
+      "D": "budget approval for implementation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The approval and implementation of the budget is a function of the legislative and executive arm of government",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50074",
+    "passage": ""
   }
 ]
