@@ -13398,5 +13398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7343",
     "passage": ""
+  },
+  {
+    "id": 7344,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Ships used for international transport are?",
+    "options": {
+      "A": "trawelers",
+      "B": "yachets",
+      "C": "ocean liners",
+      "D": "launchers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An ocean liner is a passenger ship primarily used as a form of transportation across seas or oceans of international borderlines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7344",
+    "passage": ""
   }
 ]
