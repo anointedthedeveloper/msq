@@ -649,5 +649,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48047",
     "passage": ""
+  },
+  {
+    "id": 48048,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following supports was used by Roman painters for expression?",
+    "options": {
+      "A": "Walls",
+      "B": "Canvas",
+      "C": "Metal panels",
+      "D": "Wooden panels"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48048",
+    "passage": ""
   }
 ]
