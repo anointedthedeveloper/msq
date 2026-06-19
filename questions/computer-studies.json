@@ -19839,5 +19839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72655",
     "passage": ""
+  },
+  {
+    "id": 72658,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following statements about index is true? It is a data structure",
+    "options": {
+      "A": "that reduces the speed of data retrieval operations on a database table.",
+      "B": "used to quickly locate data without searching every row in a table every time a database table is accessed.",
+      "C": "created using only two rows of a database table to uniquely identify each record.",
+      "D": "that allows relational database to split and store data in different tables, while linking disparate items."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An index data structure can be used to quickly locate data without searching every row in a table every time a database table is accessed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72658",
+    "passage": ""
   }
 ]
