@@ -1581,5 +1581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/635",
     "passage": ""
+  },
+  {
+    "id": 636,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following is not an asset of a commercial bank?",
+    "options": {
+      "A": "cash",
+      "B": "money at call",
+      "C": "treasury bills",
+      "D": "reserve funds",
+      "E": "loans and over-draft"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/636",
+    "passage": ""
   }
 ]
