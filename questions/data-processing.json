@@ -1564,5 +1564,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57734",
     "passage": ""
+  },
+  {
+    "id": 57735,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following operations prevent file loss?",
+    "options": {
+      "A": "File backup",
+      "B": "File conversation",
+      "C": "File maintenance",
+      "D": "File sorting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57735",
+    "passage": ""
   }
 ]
