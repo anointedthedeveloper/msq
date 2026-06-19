@@ -1237,5 +1237,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49768",
     "passage": ""
+  },
+  {
+    "id": 49770,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The price paid for the purchase of insurance policy is?",
+    "options": {
+      "A": "premium",
+      "B": "claim",
+      "C": "renewal",
+      "D": "benefit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An insurance premium is the amount of money an individual or business must pay for an insurance policy. Insurance premiums are paid for policies that cover healthcare, auto, home, life, and others. Insurance premiums may increase after the policy period ends.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49770",
+    "passage": ""
   }
 ]
