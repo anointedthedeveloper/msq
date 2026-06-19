@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/192",
     "passage": ""
+  },
+  {
+    "id": 193,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following financial assets consist the lowest rate of interest in Nigeria?",
+    "options": {
+      "A": "commercial bills",
+      "B": "call money",
+      "C": "treasury bills",
+      "D": "development loan stocks",
+      "E": "deposits with the federal savings bank"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/193",
+    "passage": ""
   }
 ]
