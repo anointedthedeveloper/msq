@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64455",
     "passage": ""
+  },
+  {
+    "id": 64456,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a traditional dance?",
+    "options": {
+      "A": "Atilogwu",
+      "B": "Egungun",
+      "C": "Eyo",
+      "D": "Reggae"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Reggae dance is not a traditional dance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64456",
+    "passage": ""
   }
 ]
