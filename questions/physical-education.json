@@ -2518,5 +2518,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68268",
     "passage": ""
+  },
+  {
+    "id": 68269,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of sprint race ?",
+    "options": {
+      "A": "marathon",
+      "B": "1500m",
+      "C": "400m",
+      "D": "100m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "100m is an example of a sprint race. Sprint races are short distance races in athletics and running. They involve running as fast as possible over a short distance. The other options like marathon and 1,500m are long distance races, and 400m is considered a middle distance race.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68269",
+    "passage": ""
   }
 ]
