@@ -11437,5 +11437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69605",
     "passage": ""
+  },
+  {
+    "id": 69608,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Traffic regulations are mainly meant for all",
+    "options": {
+      "A": "private drivers",
+      "B": "road users",
+      "C": "pedestrians",
+      "D": "truck drivers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Traffic regulations are mainly meant for all road users. This includes pedestrians, cyclists, motorists, and passengers. The purpose of traffic regulations is to ensure safety and smooth movement for all who use the road.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69608",
+    "passage": ""
   }
 ]
