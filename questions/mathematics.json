@@ -12350,5 +12350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22412",
     "passage": ""
+  },
+  {
+    "id": 22413,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Calculate and correct to three significant figures, the length of an arc subtends an angle of 70\no\nat the center of the circle radius 4cm. [Take π = 22/7]",
+    "options": {
+      "A": "2.44cm",
+      "B": "4.89cm",
+      "C": "9.78cm",
+      "D": "25.1cm",
+      "E": "50.3cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "70 o = 25.1 / 360 x 70 = 4.89",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22413",
+    "passage": ""
   }
 ]
