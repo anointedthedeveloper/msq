@@ -6832,5 +6832,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67131",
     "passage": ""
+  },
+  {
+    "id": 67132,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "When choosing a file organization method a system administrator will not consider",
+    "options": {
+      "A": "Frequency of update",
+      "B": "File activity",
+      "C": "File medium",
+      "D": "File access method"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When choosing a file organization method, a system administrator will consider the file access method, file activity, and frequency of updates. These factors are important in determining how the files will be organized for efficient access and update. However, the file medium, which refers to the physical material on which data is stored, is not a primary consideration in file organization. Therefore, the correct answer is 'File medium'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67132",
+    "passage": ""
   }
 ]
