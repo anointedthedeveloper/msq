@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/591",
     "passage": ""
+  },
+  {
+    "id": 594,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following electromagnetic waves is least energetic?",
+    "options": {
+      "A": "Infra-red rays",
+      "B": "X-rays",
+      "C": "Ultra-violet rays",
+      "D": "Gamma rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/594",
+    "passage": ""
   }
 ]
