@@ -12985,5 +12985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64370",
     "passage": ""
+  },
+  {
+    "id": 64371,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What type of errors occurs when the program is asked to implement an impossible task such as dividing a number by zero?",
+    "options": {
+      "A": "Syntax error",
+      "B": "Runtime error",
+      "C": "Logical error",
+      "D": "Arithmetic error"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Runtime error. This type of error occurs when the program is asked to perform an impossible task or a task that has not been included in the program written.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64371",
+    "passage": ""
   }
 ]
