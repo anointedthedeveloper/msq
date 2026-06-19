@@ -6212,5 +6212,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76468",
     "passage": ""
+  },
+  {
+    "id": 76477,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why is dance important in cultural education?",
+    "options": {
+      "A": "It erases cultural differences",
+      "B": "It discourages traditional practices",
+      "C": "It promotes only modern Western styles",
+      "D": "It preserves and shares cultural heritage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Dance is a vital part of cultural education because it helps preserve traditions, stories, and values passed down through generations. It allows communities to express their unique identity and share it with others, fostering respect and understanding across cultures.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76477",
+    "passage": ""
   }
 ]
