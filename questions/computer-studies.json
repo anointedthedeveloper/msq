@@ -18810,5 +18810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71012",
     "passage": ""
+  },
+  {
+    "id": 71013,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What distinguishes open-source software from proprietary software?",
+    "options": {
+      "A": "Open source software is free, while proprietary software requires purchase.",
+      "B": "Open-source software is more secure than proprietary software.",
+      "C": "Open-source software is more secure than proprietary software.",
+      "D": "Open source software allows modification and redistribution, while proprietary software does not."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Open source software allows users to view, modify, and distribute the source code, while proprietary software restricts access to its source code and distribution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71013",
+    "passage": ""
   }
 ]
