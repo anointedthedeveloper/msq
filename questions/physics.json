@@ -12141,5 +12141,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14509",
     "passage": ""
+  },
+  {
+    "id": 14510,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "THe velocity of sound in air at 16oC is 340ms-1. What will it be when the pressure is doubled and its temperature raised to 127ºC?",
+    "options": {
+      "A": "400 ms -1",
+      "B": "4,000 ms -1",
+      "C": "8,000 ms -1",
+      "D": "160,000 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The velocity of sound in air, V∝\\(\\sqrt{T}\\), where T is the absolute temperature Thus V = K\\(\\sqrt{T}\\) or K = \\(\\frac{\\text{V}}{\\sqrt{T}}\\) V is independent of pressure and density at a fixed temperature. ∴ \\(\\frac{V_1}{\\sqrt{T_1}}\\) = \\(\\frac{V_2}{\\sqrt{T_2}}\\) T\\(_1\\) = 16 + 273 = 289K, V\\(_1\\) = 340ms\\(^{-1}\\) T\\(_2\\) = 127 + 273 = 400K, V\\(_2\\) = ?\n\\(\\frac{340}{\\sqrt{289}}\\) = \\(\\frac{V_2}{\\sqrt{400}}\\)\n∴ V\\(_2\\) = \\(\\frac{340 \\sqrt{400}}{\\sqrt{289}}\\) = 400m/s\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14510",
+    "passage": ""
   }
 ]
