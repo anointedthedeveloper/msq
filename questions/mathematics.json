@@ -9993,5 +9993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10766",
     "passage": ""
+  },
+  {
+    "id": 10767,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The identity element with respect to the multiplication shown in the table above is",
+    "options": {
+      "A": "o",
+      "B": "m",
+      "C": "l",
+      "D": "k"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An element e of the binary expression * is said to be the identity if for any a * e = a\nfrom the given table the identity element is m\ni.e K ⨁ m = k\nk ⨁ m = k.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10767",
+    "passage": ""
   }
 ]
