@@ -7170,5 +7170,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63672",
     "passage": ""
+  },
+  {
+    "id": 63673,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "When was the Census crisis in Nigeria?",
+    "options": {
+      "A": "1962/1963",
+      "B": "1964/1965",
+      "C": "1965/1966",
+      "D": "1968/1969"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The 1962 population census put the total population of the country at 45 million, out of which the south had 24 million and the north 21 million. This was the first time the population of the south would exceed that of the north. The population count created a big political problem for the Balewa government, which had to cancel it and order a re-count.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63673",
+    "passage": ""
   }
 ]
