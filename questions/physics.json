@@ -8944,5 +8944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14194",
     "passage": ""
+  },
+  {
+    "id": 14196,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A man standing 2 m from a charcoal fire is warmed mainly by?",
+    "options": {
+      "A": "convection",
+      "B": "radiation",
+      "C": "refraction",
+      "D": "conduction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Radiation is the method of heat transfer with or without a material medium. It can be through space or through a material medium.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14196",
+    "passage": ""
   }
 ]
