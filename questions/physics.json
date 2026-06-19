@@ -9616,5 +9616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14283",
     "passage": ""
+  },
+  {
+    "id": 14285,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A stone and a feather are dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
+    "options": {
+      "A": "the feather will be blown away by the wind while stone will drop steadily",
+      "B": "the stone and the feather will both reach the ground at the same time",
+      "C": "the feather will reach the ground first",
+      "D": "the stone will reach the ground first"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The acceleration of free fall due to gravity is independent of mass of the body. Therefore, ignoring air resistance, which affects feather more than the stone, the stone and the feather will both reach the ground at the same time\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14285",
+    "passage": ""
   }
 ]
