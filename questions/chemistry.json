@@ -5772,5 +5772,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2629",
     "passage": ""
+  },
+  {
+    "id": 2630,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "What volume of gas is evolved at S.t.p if 2g of calcium trioxocarbonate (IV) is added to a solution of hydrochloric acid? [Ca = 40, C = 12, O = 16, Cl = 35.5, H = 1 Molar volume of a gas at s.t.p = 22.4 dm\\(^3\\)",
+    "options": {
+      "A": "112 cm 3",
+      "B": "224 cm 3",
+      "C": "448 cm 3",
+      "D": "2240 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "CaCO\\(_3\\)(s) + 2HCl(aq) → CaCl\\(_2\\) + H\\(_2\\)O(l) + CO\\(_2\\)\nThe relative molecular mass of CaCO\\(_3\\) = 40 + 12 + (16 x 3) = 52 + 48 = 100 ;\nRelative molecular mass of CO\\(_2\\)= 12 + (10 x 2) = 44\nFrom the above equation, 100g of CaCO\\(_3\\) reacts with 44g of CO\\(_2\\) at s.t.p. i.e  22.4 dm\\(^3\\)\n2g of CaCO\\(_3\\) will react with (2 x 22.4)/100 of CO\\(_2\\) = 0.448 dm\\(^3\\)\n0.448 dm\\(^3\\) = 0.448 x 1000 = 448cm\\(^3\\)\nAlternatively,\nCaCO\\(_3\\)(s) + 2HCl(aq) → CaCl\\(_2\\) + H\\(_2\\)O(l) + CO\\(_2\\)\n1       :     2                                                 1\nThe focus is on  CaCO\\(_3\\)   and  CO\\(_2\\) and they are in ratio 1 :  1, hence, we can calculate the number of moles of CaCO\\(_3\\) and substitute the value for the number of moles of CO\\(_2\\), since their number of moles will also be the same.\nMolar mass of CaCO\\(_3\\) = Ca + C + O\\(_3\\) = 40 + 12 + (16 x 3) = 100g/mol\nNumber of moles of CaCO\\(_3\\) = \\(\\frac{mass}{molar mass}\\) =  \\(\\frac{2}{100}\\) =  0.02 mole\nNumber of moles = \\(\\frac{Volume}{molar volume}\\)\n0.02 = \\(\\frac{volume}{22.4}\\)\nVolume = 0.02 x 22.4 = 0.02 x 22400 = 448 cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2630",
+    "passage": ""
   }
 ]
