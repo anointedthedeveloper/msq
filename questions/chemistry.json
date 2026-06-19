@@ -635,5 +635,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/737",
     "passage": ""
+  },
+  {
+    "id": 741,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following compounds will form a solution if exposed to air?",
+    "options": {
+      "A": "Na 2 CO 3 .10H 2 O",
+      "B": "NaNO 3",
+      "C": "CuSO 4",
+      "D": "CaCl 2",
+      "E": "Na 2 SO 4 .10H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Calcium chloride is a deliquescent substance. It attracts water from the atmosphere and then forms a solution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/741",
+    "passage": ""
   }
 ]
