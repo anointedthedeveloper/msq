@@ -4764,5 +4764,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2227",
     "passage": ""
+  },
+  {
+    "id": 2231,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "What is the percentage by mass of oxygen in Al\n2\n(SO\n4\n)\n3\n. 2H\n2\nO?\n[Al = 27, S = 32, H = 1, O = 16]",
+    "options": {
+      "A": "14.29%",
+      "B": "25.39%",
+      "C": "50.79%",
+      "D": "59.25%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2231",
+    "passage": ""
   }
 ]
