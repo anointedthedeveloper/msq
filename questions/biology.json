@@ -3716,5 +3716,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1895",
     "passage": ""
+  },
+  {
+    "id": 1897,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "The correct route for a piece of bread eaten by a mammal is",
+    "options": {
+      "A": "oral cavity  - oesophagus - stomach - ileum - rectum",
+      "B": "oral - cavity - stomach - oesophagus - duodenum - ileum - rectum",
+      "C": "oral cavity - oesophagus - duodenum - rectum",
+      "D": "oral cavity - oesophagus - ileum - stomach -  duodenum - rectum",
+      "E": "oral cavity - oesophagus - stomach - ileum - duodenum - rectum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct route for a piece of bread eaten by a mammal is  ⇒ oral cavity - oesophagus - stomach - ileum - rectum",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1897",
+    "passage": ""
   }
 ]
