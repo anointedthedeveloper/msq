@@ -7243,5 +7243,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13897",
     "passage": ""
+  },
+  {
+    "id": 13898,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A submarine is observed to rise from a real depth of 80 m to 60 m in water. Calculate the change in apparent depth. [Refraction index of water \\(\\frac{4}{3}\\)]",
+    "options": {
+      "A": "45 m",
+      "B": "80 m",
+      "C": "15 m",
+      "D": "60 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Refraction index (n) = \\(\\frac{\\text{Real depth}}{\\text{App. depth}}\\) For 80 m Real depth: \\(\\frac{4}{3}\\) = \\(\\frac{80}{\\text{App.depth}}\\) App. dept = \\(\\frac{80 \\times 3}{4}\\) = 60 m For 60 m real depth; \\(\\frac{4}{3}\\) = \\(\\frac{60}{\\text{App.depth}}\\) App. depth = \\(\\frac{60 \\times 3}{4}\\) = 45 m ∴change in App. depth = 60 - 45 = 15 m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13898",
+    "passage": ""
   }
 ]
