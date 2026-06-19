@@ -16548,5 +16548,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24284",
     "passage": ""
+  },
+  {
+    "id": 24285,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Calculate the length of a constantan wire of cross- sectional area 4 π x 10\n-8\nm\n2\nand resistivity 1.1 x 10\n-6\nΩ m required to construct a standard resistor of resistance 21 Ω. [Take π = 22/7]",
+    "options": {
+      "A": "0.42m",
+      "B": "2.40 m",
+      "C": "6.25 m",
+      "D": "183.75 m",
+      "E": "590.00 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "R = PL/A => L = RA / P = 21 x 4π x 10 8 / 1.1 x 10 -6 = 2.40",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24285",
+    "passage": ""
   }
 ]
