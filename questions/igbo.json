@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73485",
     "passage": ""
+  },
+  {
+    "id": 73486,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Gịnị ka a na-akpọ \"chair\" n'Igbo?",
+    "options": {
+      "A": "Nzụ ọdee",
+      "B": "Akwụkwọ",
+      "C": "Ụgbọọjị",
+      "D": "Oche"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question asks how to say \"chair\" in Igbo, and the answer is \"Oche\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73486",
+    "passage": ""
   }
 ]
