@@ -3923,5 +3923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73980",
     "passage": ""
+  },
+  {
+    "id": 73981,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Gịnị ka 3/4 pụtara n'Igbo?",
+    "options": {
+      "A": "Atọ agbakwụnyere anọ",
+      "B": "Anọ n'ime atọ",
+      "C": "Atọ e tinyere anọ",
+      "D": "Atọ n'ime anọ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "What is 3/4 in Igbo? Atọ n'ime anọ. $3/4$ is written as \"Atọ n'ime anọ\" in Igbo",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73981",
+    "passage": ""
   }
 ]
