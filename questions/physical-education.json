@@ -2602,5 +2602,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68272",
     "passage": ""
+  },
+  {
+    "id": 68273,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The assistant referees in a soccer game are also called ?",
+    "options": {
+      "A": "linesmen",
+      "B": "timekeeper",
+      "C": "match commissioner",
+      "D": "flag holder"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In soccer, an assistant referee (also known as a linesman or lineswoman) is an official empowered with assisting the referee in enforcing the Laws of the Game during a match.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68273",
+    "passage": ""
   }
 ]
