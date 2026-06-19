@@ -5681,5 +5681,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74018",
     "passage": ""
+  },
+  {
+    "id": 74019,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Ware bare daga wadannan",
+    "options": {
+      "A": "Ayari-ayari",
+      "B": "Launi-launi",
+      "C": "Garke-garke",
+      "D": "Kungiya-Rungiya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is Garke-garke. The question is asking which of the options is not a duplicative word. Duplicative words are words that repeat a syllable or a sequence of syllables, often to emphasize or intensify the meaning. Options are all examples of reduplicative words in Hausa, while option \"Garke- garke\", is not a valid word in Hausa. Therefore, the correct answer is Garke-garke.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74019",
+    "passage": ""
   }
 ]
