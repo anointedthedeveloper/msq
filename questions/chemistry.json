@@ -8608,5 +8608,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3738",
     "passage": ""
+  },
+  {
+    "id": 3739,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the electrolysis of CuSO\\(_4\\)(g) using platinum electrodes, the reaction at the anode is",
+    "options": {
+      "A": "4H + + 4e - → 2H 2",
+      "B": "4OH - + 4e - → 2H 2 O + O 2",
+      "C": "2OH - 2e - → 2OH",
+      "D": "2OH - + 2OH - → 2H 2 O + O 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "During the electrolysis of an aqueous copper sulfate (CuSO\\(_4\\)) solution using platinum electrodes, copper ions (Cu\\(^{2+}\\)) are reduced to solid copper (Cu) at the cathode, and water (H\\(_2\\)O) is oxidized to oxygen gas (O\\(_2\\)) and hydrogen ions (H\\(^+\\)) at the anode.\nHere's a more detailed explanation:\nCathode (Reduction): Copper ions (Cu\\(^{2+}\\)) from the solution migrate towards the cathode and gain two electrons (2e-) to form solid copper, which deposits on the electrode. Reaction: Cu\\(^{2+}\\)(aq) + 2e- → Cu(s) Anode (Oxidation): Water molecules (H\\(_2\\)O) are oxidized at the anode, losing electrons and forming oxygen gas (O\\(_2\\)) and hydrogen ions (H+). Reaction: 4OH\\(^-\\) + 4e\\(^-\\)(l) → 2H\\(_2\\)O(g) + O\\(_2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3739",
+    "passage": ""
   }
 ]
