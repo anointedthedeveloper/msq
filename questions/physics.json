@@ -3967,5 +3967,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12262",
     "passage": ""
+  },
+  {
+    "id": 12263,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following statements is true of the properties of a moving coil galvanometer?",
+    "options": {
+      "A": "THe coil has a small area",
+      "B": "There are strong hair springs to gives a large control panlel",
+      "C": "There is a strong permanent magnet to give  high magnetic flux",
+      "D": "it has a small number of turns of coil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The galvanometer possesses a rectangular coil mounted on a soft iron core rotating on a magnetic field induced by a permanent magnet.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12263",
+    "passage": ""
   }
 ]
