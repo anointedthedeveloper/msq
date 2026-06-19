@@ -7096,5 +7096,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13889",
     "passage": ""
+  },
+  {
+    "id": 13890,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "One of the properties of gamma rays is that they are?",
+    "options": {
+      "A": "neutral",
+      "B": "massive",
+      "C": "positively charged",
+      "D": "negatively charged"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Neutral : Gamma rays are a form of electromagnetic radiation and carry no electric charge.\nMassive : Gamma rays are mass less photons.\nPositively/Negatively Charged : They do not have any charge, distinguishing them from particles like protons (positive) or electrons (negative)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13890",
+    "passage": ""
   }
 ]
