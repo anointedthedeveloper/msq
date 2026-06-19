@@ -10280,5 +10280,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62759",
     "passage": ""
+  },
+  {
+    "id": 62760,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In MS Excel, the average of 10 numbers give B1, B2,...,B10 is?",
+    "options": {
+      "A": "= B1 + B2 ... B10)/10",
+      "B": "@SUM(B1:B10).",
+      "C": "#SUM(B1:B10)/10,",
+      "D": "= B1 +B2 +... + B10/10."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62760",
+    "passage": ""
   }
 ]
