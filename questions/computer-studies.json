@@ -14203,5 +14203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64797",
     "passage": ""
+  },
+  {
+    "id": 64798,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "How many binary digits are contained in 10MB of a memory stick?",
+    "options": {
+      "A": "10x 1024",
+      "B": "10x 1024 x8",
+      "C": "10 x 1024 x 1024",
+      "D": "10 x 1024 x 1024 x 8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64798",
+    "passage": ""
   }
 ]
