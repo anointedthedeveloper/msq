@@ -2958,5 +2958,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73742",
     "passage": ""
+  },
+  {
+    "id": 73743,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ware bare dangane da wasika.",
+    "options": {
+      "A": "Kwanan wata",
+      "B": "Kanu",
+      "C": "Adireshi",
+      "D": "Musu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73743",
+    "passage": ""
   }
 ]

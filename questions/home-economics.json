@@ -2749,5 +2749,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73304",
     "passage": ""
+  },
+  {
+    "id": 73305,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "The total amount of money earned by a person from his work is called ............ income",
+    "options": {
+      "A": "Family",
+      "B": "Personal",
+      "C": "Basic",
+      "D": "Gross"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Gross income refers to the total amount of money earned by an individual from their work, before any deductions or taxes are taken out. It includes all forms of income, such as salaries, wages, tips, bonuses, and commissions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73305",
+    "passage": ""
   }
 ]
