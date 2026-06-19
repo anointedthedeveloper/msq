@@ -18957,5 +18957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71374",
     "passage": ""
+  },
+  {
+    "id": 71375,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What are some common criteria used to classify computer files?",
+    "options": {
+      "A": "File type and content.",
+      "B": "Operating system compatibility and hardware requirements.",
+      "C": "File size and creation date only.",
+      "D": "Font style and color used within the document itself."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Common criteria for classifying files include: *File type (document, image, audio, video, etc.) *Content (project name, subject matter, date, etc.) *Project or task association *User (personal, work, client-specific)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71375",
+    "passage": ""
   }
 ]
