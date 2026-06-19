@@ -2119,5 +2119,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50409",
     "passage": ""
+  },
+  {
+    "id": 50410,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Given that \\(\\tan x = \\frac{5}{12}\\), and \\(\\tan y = \\frac{3}{4}\\), Find \\(\\tan (x + y)\\).",
+    "options": {
+      "A": "\\(\\frac{16}{33}\\)",
+      "B": "\\(\\frac{33}{56}\\)",
+      "C": "\\(\\frac{33}{16}\\)",
+      "D": "\\(\\frac{56}{33}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\tan (x + y) = \\frac{\\tan x + \\tan y}{1 - \\tan x\\tan y}\\)\n\\(\\tan x = \\frac{5}{12} ; \\tan y = \\frac{3}{4}\\)\n\\(\\tan (x + y) = \\frac{\\frac{5}{12} + \\frac{3}{4}}{1 - (\\frac{5}{12} \\times \\frac{3}{4}})\\)\n= \\(\\frac{\\frac{14}{12}}{\\frac{33}{48}}\\)\n= \\(\\frac{56}{33}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50410",
+    "passage": ""
   }
 ]
