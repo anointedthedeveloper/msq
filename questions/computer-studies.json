@@ -1593,5 +1593,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61407",
     "passage": ""
+  },
+  {
+    "id": 61408,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The device is Figure 5 uses a transmission method called",
+    "options": {
+      "A": "broadcast",
+      "B": "podcast",
+      "C": "multicast",
+      "D": "unicast"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/qIEavMFkhvjCnZDONaISoxpThGzLVXFWkx9EoKom.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781894043/myschool/computer-studies/qIEavMFkhvjCnZDONaISoxpThGzLVXFWkx9EoKom.jpg",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61408",
+    "passage": ""
   }
 ]
