@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48032",
     "passage": ""
+  },
+  {
+    "id": 48033,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following pigments can be obtained locally from clay?",
+    "options": {
+      "A": "lemon yellow",
+      "B": "yellow ochre",
+      "C": "green",
+      "D": "blue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48033",
+    "passage": ""
   }
 ]
