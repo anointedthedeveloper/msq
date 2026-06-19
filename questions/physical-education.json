@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64201",
     "passage": ""
+  },
+  {
+    "id": 64204,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The ability to perform a specific activity without undue fatigue is called",
+    "options": {
+      "A": "Agility",
+      "B": "Endurance",
+      "C": "power",
+      "D": "speed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Endurance is the ability of an organism to exert itself and remain active for a long period of time, as well as its ability to resist, withstand, recover from, and have immunity to trauma, wounds, or fatigue.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64204",
+    "passage": ""
   }
 ]
