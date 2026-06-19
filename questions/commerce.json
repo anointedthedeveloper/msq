@@ -15120,5 +15120,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7534",
     "passage": ""
+  },
+  {
+    "id": 7536,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The details of the goods require by the the purchaser is outlined in?",
+    "options": {
+      "A": "a consular invoice",
+      "B": "an indent",
+      "C": "an invoice",
+      "D": "a certificateof orign"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An invoice is a document issued by a seller to the buyer that indicates the quantities and costs of the products or services provider by the seller.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7536",
+    "passage": ""
   }
 ]
