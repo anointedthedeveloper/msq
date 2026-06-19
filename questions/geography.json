@@ -570,5 +570,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/365",
     "passage": ""
+  },
+  {
+    "id": 366,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The wearing away of the sides and bottom of a river's channel is called",
+    "options": {
+      "A": "hydraulic action",
+      "B": "corrosion",
+      "C": "attrition",
+      "D": "corrasion",
+      "E": "solution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/366",
+    "passage": ""
+  },
+  {
+    "id": 367,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Temperature is to isotherms as air pressure is to",
+    "options": {
+      "A": "isopleths",
+      "B": "contours",
+      "C": "isobars",
+      "D": "isolines",
+      "E": "isohyets"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/367",
+    "passage": ""
   }
 ]
