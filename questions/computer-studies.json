@@ -11578,5 +11578,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64129",
     "passage": ""
+  },
+  {
+    "id": 64130,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What does a linker program do?",
+    "options": {
+      "A": "it places the program in the memory for execution",
+      "B": "relocates the program to execute from the specific memory area allocated to it",
+      "C": "Links the program with other programs needed for its execution",
+      "D": "interface the program with the entities generating its input data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "from the name linker program, a linker program links a program with other programs needed for its execution. It does this by taking one or more objects files and combining them into a single executable file, library file, or another object file.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64130",
+    "passage": ""
   }
 ]
