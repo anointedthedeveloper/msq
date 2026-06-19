@@ -2728,5 +2728,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9753",
     "passage": ""
+  },
+  {
+    "id": 9755,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "blowing air over a liquid aids evaporation by",
+    "options": {
+      "A": "increasing its surface area",
+      "B": "decreasing its vapour pressure",
+      "C": "increasing its temperature",
+      "D": "decreasing its density"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "if you blow dry air over the glass you blow away this extra water vapor, thereby decreasing the amount of water vapor entering the glass.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9755",
+    "passage": ""
   }
 ]
