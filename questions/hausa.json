@@ -711,5 +711,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73465",
     "passage": ""
+  },
+  {
+    "id": 73466,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Fassara wadannan: Where is the bag?",
+    "options": {
+      "A": "Ina jakar?",
+      "B": "Ina ludayin?",
+      "C": "Ina akushin?",
+      "D": "Ina kwanon?"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ina jakar? (Where is the bag? translates to \"Ina jakar?\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73466",
+    "passage": ""
   }
 ]
