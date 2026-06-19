@@ -15867,5 +15867,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24253",
     "passage": ""
+  },
+  {
+    "id": 24254,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Steel bars, each of length 3.0 m at 28°C, are to be used for constructing a rail line. If the linear expansivity of steel is 1.0 x 10\n-5\n°C, what is the safety gap that must be left between successive bars if the highest temperature expected is 40\no\nC?",
+    "options": {
+      "A": "1.2 x 10 -1 cm",
+      "B": "8.4 x 10 -2 cm",
+      "C": "7.2 x10 -2 cm",
+      "D": "3.6 x 10 -2 cm",
+      "E": "1.8 x 10 -2 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "1\n-5\n-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24254",
+    "passage": ""
   }
 ]
