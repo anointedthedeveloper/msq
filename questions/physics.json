@@ -7600,5 +7600,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13932",
     "passage": ""
+  },
+  {
+    "id": 13935,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "I. They should be identical II. They should originate from the same source. III. They should be coherent. IV. They should be monochromatic. from the statements above, the conditions for two waves to interfere are?",
+    "options": {
+      "A": "I,II and III only",
+      "B": "I, III and IV only",
+      "C": "II, III and IV only",
+      "D": "I, II, III  and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Identical (I): The waves should have the same frequency and wavelength. Coherent (III): The waves must maintain a constant phase relationship. Monochromatic (IV): The waves should have the same frequency (which is closely related to being coherent).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13935",
+    "passage": ""
   }
 ]
