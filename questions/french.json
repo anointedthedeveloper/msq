@@ -3259,5 +3259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71203",
     "passage": ""
+  },
+  {
+    "id": 71204,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeEn République du Bénin, on parle le Comme langue officielle.",
+    "options": {
+      "A": "arabe",
+      "B": "anglais",
+      "C": "français",
+      "D": "allemand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The question asks which language is spoken as the official language in the Republic of Benin. The correct answer is français (French), as it is the official language of Benin. The other options - allemand (German), anglais (English), arabe (Arabic), and espagnol (Spanish) - are not the official languages of Benin.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71204",
+    "passage": ""
   }
 ]
