@@ -1054,5 +1054,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/384",
     "passage": ""
+  },
+  {
+    "id": 385,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "A secchi disc is used in the determination of",
+    "options": {
+      "A": "Rainfall",
+      "B": "Tides",
+      "C": "Waves",
+      "D": "Turbidity",
+      "E": "Current velocity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/385",
+    "passage": ""
   }
 ]
