@@ -6550,5 +6550,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13839",
     "passage": ""
+  },
+  {
+    "id": 13840,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "At low humidity in an environment, the human skin is usually?",
+    "options": {
+      "A": "damp and rough",
+      "B": "damp and smooth",
+      "C": "dry and rough",
+      "D": "dry and smooth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Low humidity causes moisture to evaporate from the skin, leading to dryness and a rough texture.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13840",
+    "passage": ""
   }
 ]
