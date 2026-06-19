@@ -4554,5 +4554,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70812",
     "passage": ""
+  },
+  {
+    "id": 70814,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is a key principle of first aid?",
+    "options": {
+      "A": "Providing medication without prescription",
+      "B": "Acting calmly and confidently",
+      "C": "Treating all injuries as minor",
+      "D": "Ignoring patient consent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Acting calmly and confidently is essential to effectively administer first aid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70814",
+    "passage": ""
   }
 ]
