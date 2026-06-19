@@ -3567,5 +3567,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1729",
     "passage": ""
+  },
+  {
+    "id": 1730,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "When chlorine Is passed into water and the resulting solution exposed to sunlight, the product formed are",
+    "options": {
+      "A": "Chlorine gas and hydrogen",
+      "B": "Oxygen and oxochlorate (I) acid",
+      "C": "Chlorine gas and oxochlorate (I) acid",
+      "D": "Hydrochloric acid and oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When chlorine is passed into water and the resulting solution is exposed to sunlight, the products formed are hydrochloric acid and oxygen gas.\nFirstly, Chlorine reacts with water to form hypochlorous acid.\nCl\\(_2\\)  +  H\\(_2\\)O → HClO\nSecondly, hypochlorous acid breaks down into Hydrochloric acid and Oxygen gas.\n2HClO  → 2HCl + O\\(_2\\)\nUltraviolet light from the sun provides the energy needed to break the chlorine molecule and starts the reaction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1730",
+    "passage": ""
   }
 ]
