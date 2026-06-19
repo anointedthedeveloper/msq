@@ -5443,5 +5443,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75897",
     "passage": ""
+  },
+  {
+    "id": 75898,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "est le président actuel du Cameroun ?",
+    "options": {
+      "A": "Ou'",
+      "B": "Quand",
+      "C": "Qui",
+      "D": "Que"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French word \"qui\" means \"who\" and is used for people.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75898",
+    "passage": ""
   }
 ]
