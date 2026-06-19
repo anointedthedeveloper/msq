@@ -6424,5 +6424,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9039",
     "passage": ""
+  },
+  {
+    "id": 9040,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The sum of the first n positive integers is",
+    "options": {
+      "A": "1 / 2 n(n-1)",
+      "B": "n(n+1)",
+      "C": "n(n-1)",
+      "D": "1 / 2 n(n+1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Let the positive integers be 1, 2, ,3, 4, .....n ∴ a = 1, d = 1 and n = n Sn = n/2(2a + (n-1)d) = n/2 (2 + n – 1) = 1/2n(n + 1)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9040",
+    "passage": ""
   }
 ]
