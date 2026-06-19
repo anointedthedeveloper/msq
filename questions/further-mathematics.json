@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50368",
     "passage": ""
+  },
+  {
+    "id": 50369,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If the determinant of the matrix \\(\\begin{pmatrix} 2 & x \\\\ 3 & 5 \\end{pmatrix} = 13\\), find the value of x.",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\begin{pmatrix} 2 & x \\\\ 3 & 5 \\end{pmatrix} = 13\\)\n\\(\\begin{vmatrix} 2 & x \\\\ 3 & 5 \\end{vmatrix} = (2 \\times 5) - (3 \\times x) = 13\\)\n\\(10 - 3x = 13 \\implies -3x = 3; x = -1\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50369",
+    "passage": ""
   }
 ]
