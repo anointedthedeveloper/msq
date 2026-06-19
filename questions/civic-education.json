@@ -10035,5 +10035,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65910",
     "passage": ""
+  },
+  {
+    "id": 65911,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "In which of the following do citizens have equal rights? Right to",
+    "options": {
+      "A": "freedom of movement",
+      "B": "freedom from discrimination",
+      "C": "free education",
+      "D": "form or join any political party"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Article 2 of the Universal Declaration of Human Rights state that: Everyone should have all of the rights and freedoms in this statement, no matter what race, sex, or color he or she may be. It shouldn't matter where you were born, what language you speak, what religion you are, what political opinions you have, or whether you're rich or poor. Everyone should have all of the rights in this statement.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65911",
+    "passage": ""
   }
 ]
