@@ -4008,5 +4008,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73880",
     "passage": ""
+  },
+  {
+    "id": 73881,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Ware bare dangane da sunayen yanka.",
+    "options": {
+      "A": "Danlami",
+      "B": "Danladi",
+      "C": "Balarabe",
+      "D": "Audu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Which of the following names is not a nickname? Answer: Balarabe (Balarabe is a full name, while the other options – Audu, Danladi, Danlami, and Mutum – are all nicknames)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73881",
+    "passage": ""
   }
 ]
