@@ -5331,5 +5331,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2513",
     "passage": ""
+  },
+  {
+    "id": 2514,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Chlorine gas is prepared in the laboratory by",
+    "options": {
+      "A": "adding concentrated hydrochloric acid to solid manganese (IV) oxide",
+      "B": "aciding concentrated tetraoxosulphate (VI) acid to solid sodium chloride",
+      "C": "dropping concentrated hydrochloric acid onto potassium tetraoxomanganate (VI) crystals",
+      "D": "aciding concentrated tetraoxosulphate (VI) acid to hydrochloric acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Chlorine gas is prepared in the laboratory by adding an oxidizing agent e.g. \\(MnO_2\\), \\(PbO_2\\), or \\(KMnO_4\\) on concentrated hydrochloric acid.\n\\(MnO_{2(s)}\\) + 4\\(HCl_{aq}\\)  → \\(MnO_{2(aq)}\\) + 2\\(H_2O_{(l)}\\) + \\(Cl_{2(g)}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2514",
+    "passage": ""
   }
 ]
