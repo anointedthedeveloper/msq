@@ -18432,5 +18432,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70972",
     "passage": ""
+  },
+  {
+    "id": 70973,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What does the term \"formula\" refer to in a spreadsheet?",
+    "options": {
+      "A": "A graph representation",
+      "B": "A predefined layout",
+      "C": "A predefined calculation",
+      "D": "A text formatting rule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A formula in a spreadsheet refers to a predefined calculation or operation that performs specific calculations based on cell references and operators.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70973",
+    "passage": ""
   }
 ]
