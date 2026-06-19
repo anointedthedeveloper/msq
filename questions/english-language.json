@@ -658,5 +658,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/496",
     "passage": ""
+  },
+  {
+    "id": 497,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; If you travel by air you will be given an allowance to cover ....",
+    "options": {
+      "A": "a luggage",
+      "B": "luggage",
+      "C": "luggages",
+      "D": "a baggage",
+      "E": "baggages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct sentence is:\nLuggage is an uncountable noun. Uncountable nouns do not take “a” and do not take plural –s.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/497",
+    "passage": ""
   }
 ]
