@@ -3826,5 +3826,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75223",
     "passage": ""
+  },
+  {
+    "id": 75225,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"fatigue\" se prononce comme ...",
+    "options": {
+      "A": "Fatiguais",
+      "B": "Fatigait",
+      "C": "Fatigué",
+      "D": "Fatiguée"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Fatigue\" ends with the sound /e/, which is a closed vowel sound commonly found in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75225",
+    "passage": ""
   }
 ]
