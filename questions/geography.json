@@ -680,5 +680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/370",
     "passage": ""
+  },
+  {
+    "id": 371,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The length of a year is 365(1/4)days because that is the time it takes",
+    "options": {
+      "A": "the sun to revolve round its orbit",
+      "B": "the earth to rotate on its axis",
+      "C": "the moon to revolve once round the earth",
+      "D": "the sun to revolve once round the earch",
+      "E": "the earth to revolve once round the sun"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/371",
+    "passage": ""
   }
 ]
