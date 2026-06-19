@@ -9440,5 +9440,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77035",
     "passage": ""
+  },
+  {
+    "id": 77036,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The two major types of computer chips are",
+    "options": {
+      "A": "primary memory chip",
+      "B": "external memory chip",
+      "C": "microprocessor chip",
+      "D": "both b and c"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The two major types of computer chips are primary memory chips and microprocessor chips. Primary memory chips are used for temporary storage of data and instructions that the computer is currently working with (RAM). Microprocessor chips are the 'brain' of the computer where most calculations take place.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77036",
+    "passage": ""
   }
 ]
