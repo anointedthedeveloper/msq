@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75302",
     "passage": ""
+  },
+  {
+    "id": 75305,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع الكلمة \"لم\"؟",
+    "options": {
+      "A": "حرف نفي وجزم",
+      "B": "ظرف",
+      "C": "اسم",
+      "D": "فعل"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"al\" is a negative particle that also makes the verb jussive.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75305",
+    "passage": ""
   }
 ]
