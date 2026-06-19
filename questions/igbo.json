@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73489",
     "passage": ""
+  },
+  {
+    "id": 73490,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ada na ede",
+    "options": {
+      "A": "akwụkwọ",
+      "B": "egwụ",
+      "C": "Ụkwẹ",
+      "D": "nri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The right option is akwa (which means \"cloth\" or \"clothing\"). The sentence \"Ada na ede\" means \"Ada is wearing cloth\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73490",
+    "passage": ""
   }
 ]
