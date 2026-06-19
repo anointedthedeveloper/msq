@@ -15999,5 +15999,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24259",
     "passage": ""
+  },
+  {
+    "id": 24260,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A small circular membrane is 10cm below the surface of a pool of mercury when the barometric height is 76 cm of mercury. If the density of mercury is 13600\\(kgm^{-3}\\), what is the pressure on the membrane in \\(Nm^{-2}\\)? \\((g =10ms^{-2})\\)",
+    "options": {
+      "A": "1.17 x 10 7 Nm -2",
+      "B": "6.80 x 10 5 Nm -2",
+      "C": "1.17x10 5 Nm -2",
+      "D": "1.03 x 10 5 Nm -2",
+      "E": "1.36 x10 4 Nm -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Pressure at a depth for fluid with constant density such as mercury is given as\n\\(p = p_{0} + \\rho hg\\)\nwhere \\(p_{0}\\) = atmospheric pressure.\n\\(p_{0} = \\rho hg =13600 \\times \\frac{76}{100} \\times 10\\)\n= \\(103,360 Nm^{-2}\\)\n\\(p = 103,360 + (13600 \\times \\frac{10}{100} \\times 10)\\)\n\\(p = 103,360 + 13,600\\)\n\\(p = 116,960 Nm^{-2} \\approxeq 1.17 \\times 10^{5} Nm^{-2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24260",
+    "passage": ""
   }
 ]
