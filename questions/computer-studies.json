@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60213",
     "passage": ""
+  },
+  {
+    "id": 60214,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following is not an output device?",
+    "options": {
+      "A": "Plotters",
+      "B": "Speakers",
+      "C": "Projectors",
+      "D": "Webcams"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An output device is any piece of computer hardware that converts information into human-readable form. e.g. monitor, plotters, speaker, etc  A webcam is an input device that captures images (and sometimes video) digitally.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60214",
+    "passage": ""
   }
 ]
