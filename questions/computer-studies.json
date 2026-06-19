@@ -1761,5 +1761,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61415",
     "passage": ""
+  },
+  {
+    "id": 61416,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The part of the MS Access interface labelled X in Figure 9 is called",
+    "options": {
+      "A": "Report view",
+      "B": "Report wizard",
+      "C": "Query design",
+      "D": "Query view"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/t8Ta04M8h8QFRrGcA1g8HopQv9QHkIeox1KWwEAV.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901011/myschool/computer-studies/t8Ta04M8h8QFRrGcA1g8HopQv9QHkIeox1KWwEAV.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61416",
+    "passage": ""
   }
 ]
