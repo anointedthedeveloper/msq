@@ -3386,5 +3386,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1855",
     "passage": ""
+  },
+  {
+    "id": 1858,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Nitrification means",
+    "options": {
+      "A": "conversion of nitrates to nitrogen",
+      "B": "fixing nitrogen into plants",
+      "C": "conversion of nitrates to nitrites",
+      "D": "changing of ammonia to nitrities, then nitrates",
+      "E": "nitrogen cycle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1858",
+    "passage": ""
   }
 ]
