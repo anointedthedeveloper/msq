@@ -8840,5 +8840,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72354",
     "passage": ""
+  },
+  {
+    "id": 72355,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Web design packages include the following, except",
+    "options": {
+      "A": "Macromedia Dreamweaver",
+      "B": "iWeb",
+      "C": "Front page",
+      "D": "Adobe pagemaker"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Macromedia Dreamweaver, iWeb, and FrontPage are all web design or web development tools used for creating and managing websites. Adobe PageMaker, however, is a desktop publishing software used mainly for creating print-based layouts, such as brochures, newsletters, and magazines, rather than for web design.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72355",
+    "passage": ""
   }
 ]
