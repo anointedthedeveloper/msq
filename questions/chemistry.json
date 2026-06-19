@@ -6213,5 +6213,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2650",
     "passage": ""
+  },
+  {
+    "id": 2651,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The mass of silver deposited when a current of 10A is passed through a solution of silver salt for 4830s is [Ag = 108, 1F = 96500 Cmol-1]",
+    "options": {
+      "A": "108.0g",
+      "B": "54.0g",
+      "C": "27.0g",
+      "D": "13.5g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ag\\(^+\\) + e\\(^-\\) → Ag If  96500 C deposited 108g of Ag ∴ 10 x 4830C will deposit Xg of Ag X = \\(\\frac{{108}\\times{4830}\\times{10}}{96500}\\)\nX = 54.06g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2651",
+    "passage": ""
   }
 ]
