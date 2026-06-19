@@ -592,5 +592,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/366",
     "passage": ""
+  },
+  {
+    "id": 367,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Temperature is to isotherms as air pressure is to",
+    "options": {
+      "A": "isopleths",
+      "B": "contours",
+      "C": "isobars",
+      "D": "isolines",
+      "E": "isohyets"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/367",
+    "passage": ""
   }
 ]
