@@ -1819,5 +1819,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1043",
     "passage": ""
+  },
+  {
+    "id": 1044,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A sedimentary rock formed only in seas and oceans in warm tropical and subtropical environments is",
+    "options": {
+      "A": "shale",
+      "B": "limestone",
+      "C": "sandstone",
+      "D": "mudstone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1044",
+    "passage": ""
   }
 ]
