@@ -8009,5 +8009,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62564",
     "passage": ""
+  },
+  {
+    "id": 62565,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The following are the guidelines for drawing flowcharts except that it?",
+    "options": {
+      "A": "must have a logical start and finish",
+      "B": "should be clear, neat and easy to follow",
+      "C": "should follow a direction of right to left or bottom to top",
+      "D": "should follow a direction of left to right or top to bottom"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The usual direction of a flowchart is from top to bottom or from left to right and should not \"follow a direction of right to left or bottom to top\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62565",
+    "passage": ""
   }
 ]
