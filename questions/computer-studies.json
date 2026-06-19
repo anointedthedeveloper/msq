@@ -17166,5 +17166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69824",
     "passage": ""
+  },
+  {
+    "id": 69825,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The technology used for first generation computers was",
+    "options": {
+      "A": "integrated circuit.",
+      "B": "microprocessors",
+      "C": "transistors.",
+      "D": "vacuum tubes."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The technology used for first-generation computers was vacuum tubes. First-generation computers were developed during the late 1940s and 1950s. These computers used vacuum tubes as their primary electronic component for processing and memory. Vacuum tubes were large, fragile, and consumed a lot of power, which made early computers bulky, unreliable, and generated significant amounts of heat. As technology progressed, vacuum tubes were eventually replaced by transistors in the second-generation computers, which were smaller, more reliable, and consumed less power. Integrated circuits and microprocessors came into existence in subsequent generations, leading to more compact and powerful computers",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69825",
+    "passage": ""
   }
 ]
