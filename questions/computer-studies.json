@@ -20969,5 +20969,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76899",
     "passage": ""
+  },
+  {
+    "id": 76900,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In changing the storage location of a file, the command to use is",
+    "options": {
+      "A": "'save as' command",
+      "B": "Alt + f, then save",
+      "C": "ctrl + S keys",
+      "D": "'save' command"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The 'Save as' command is used to change the storage location of a file. This command allows you to specify a new location and name for the file. The 'Ctrl + S ' keys and 'save' command are used to save changes to the current file in its current location. 'Alt + f, then save' is a keyboard shortcut to save a file, not to change its location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76900",
+    "passage": ""
   }
 ]
