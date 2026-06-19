@@ -20,5 +20,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/33",
     "passage": ""
+  },
+  {
+    "id": 34,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Moses led the children of Israel through the",
+    "options": {
+      "A": "Sahara desert",
+      "B": "Lion's Den",
+      "C": "Dead sea",
+      "D": "valley of the shadow of death",
+      "E": "Red sea"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Moses led the children of Israel through the Red Sea. This event is a significant part of the Exodus narrative (Exodus 14), where God miraculously parts the Red Sea and allows the Israelites to escape from the pursuing Egyptian army.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/34",
+    "passage": ""
   }
 ]
