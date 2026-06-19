@@ -11994,5 +11994,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14502",
     "passage": ""
+  },
+  {
+    "id": 14503,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If a light wave has a wavelength of 500nm in air what is the frequency of the wave? [c = 3 x 10\\(^8\\) ms-1]",
+    "options": {
+      "A": "3.0 x 10 14 Hz",
+      "B": "6.0  x 10 14 Hz",
+      "C": "6.0  x 10 12 Hz",
+      "D": "2.5  x 10 14 Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "f = \\(\\frac{\\text{c}}{λ}\\)\nf = \\(\\frac{ 3 \\times 10^8}{500 \\times 10^{-9}}\\)\n= 6.0 x 10\\(^{14}\\) Hz\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14503",
+    "passage": ""
   }
 ]
