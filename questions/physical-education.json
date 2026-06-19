@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64251",
     "passage": ""
+  },
+  {
+    "id": 64254,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are postural defects except",
+    "options": {
+      "A": "Flat foot",
+      "B": "Kwashiorkor",
+      "C": "kyphosis",
+      "D": "Lordosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Kwashiokor is a protein deficiency disease.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64254",
+    "passage": ""
   }
 ]
