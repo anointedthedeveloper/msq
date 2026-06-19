@@ -6417,5 +6417,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62482",
     "passage": ""
+  },
+  {
+    "id": 62483,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The advantages of a computer include that they? I. operate at high speeds; II. think for the user; Ill. are accurate; IV. are credible.",
+    "options": {
+      "A": "I, Il and lll only",
+      "B": "I, III and IV only",
+      "C": "II, l and IV only",
+      "D": "I, II, l and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Computers operate at high speeds, are accurate, and are credible. However, computers do not think for the user. They only execute commands given to them by the user. Therefore, the correct answer is 'I, III and IV only'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62483",
+    "passage": ""
   }
 ]
