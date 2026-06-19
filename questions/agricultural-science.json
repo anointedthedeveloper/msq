@@ -790,5 +790,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15841",
     "passage": ""
+  },
+  {
+    "id": 15842,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The head of the tapeworm is known as the",
+    "options": {
+      "A": "sucker",
+      "B": "rostellum",
+      "C": "scolex",
+      "D": "hook",
+      "E": "segment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15842",
+    "passage": ""
   }
 ]
