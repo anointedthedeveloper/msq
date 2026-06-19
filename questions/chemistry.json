@@ -2454,5 +2454,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1556",
     "passage": ""
+  },
+  {
+    "id": 1557,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "For a reaction in equilibrium, the species involved in the equilibrium constant expression are",
+    "options": {
+      "A": "gaseous and solid species",
+      "B": "liquid and solid species",
+      "C": "solid and dissolved species",
+      "D": "gaseous and dissolved species"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Solid species are not shown in equilibrium constant expressions because their concentrations do not change significantly during a reaction. The activity of pure liquids and solids is 1 and the activity of a solution can be estimated using its concentration. So, pure liquids and solids actually are involved, but since their activities are equal to 1, they don't change the equilibrium constant and so are often left out. The equilibrium constant expression only contains those species whose concentrations could change significantly during the reaction - gaseous and dissolved species. Option D is the correct answer.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1557",
+    "passage": ""
   }
 ]
