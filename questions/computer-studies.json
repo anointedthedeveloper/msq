@@ -16200,5 +16200,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67832",
     "passage": ""
+  },
+  {
+    "id": 67833,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The last cycle of data processing where data and information are preserved for future is called",
+    "options": {
+      "A": "processing",
+      "B": "recording",
+      "C": "storage",
+      "D": "output"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The last cycle of data processing where data and information are preserved for future use is called 'storage'. This is the phase where data or information is saved either temporarily or permanently for future use. The 'output' is the result of data processing but not necessarily preserved for future use. 'Processing' is the action of manipulating data. 'Record' is a piece of stored information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67833",
+    "passage": ""
   }
 ]
