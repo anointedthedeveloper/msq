@@ -9145,5 +9145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62703",
     "passage": ""
+  },
+  {
+    "id": 62704,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Data that is copied from an application is stored in the?",
+    "options": {
+      "A": "clipboard.",
+      "B": "driver.",
+      "C": "prompt.",
+      "D": "terminal."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Data that is copied from an application is stored in the clipboard. The clipboard is a temporary storage area in the computer's memory that holds the copied data until it is pasted into another location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62704",
+    "passage": ""
   }
 ]
