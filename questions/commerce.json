@@ -12306,5 +12306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7267",
     "passage": ""
+  },
+  {
+    "id": 7268,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Digital computer is divided into?",
+    "options": {
+      "A": "analogue, hybrid and mini",
+      "B": "super, maniframe, mini and micro",
+      "C": "mainframe, hybrid and micro",
+      "D": "super, mainframe, micro and analogue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Based on the size and type of the device, digital computers are classified into four categories.\nMicrocomputer\nMinicomputer\nMainframe computer\nSupercomputer",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7268",
+    "passage": ""
   }
 ]
