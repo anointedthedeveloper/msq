@@ -750,5 +750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48147",
     "passage": ""
+  },
+  {
+    "id": 48148,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "D'aprés le texte, généralement, les Francais",
+    "options": {
+      "A": "n'aiment pas la chasse",
+      "B": "sont tous sportifs",
+      "C": "sont tous actifs",
+      "D": "ne font pas de sport"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/XP63mZVUCgWnb6opwdMR7z4Z5Tpt3xTtQmCE67eg.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890615/myschool/french/XP63mZVUCgWnb6opwdMR7z4Z5Tpt3xTtQmCE67eg.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48148",
+    "passage": ""
   }
 ]
