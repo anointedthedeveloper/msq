@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64264",
     "passage": ""
+  },
+  {
+    "id": 64265,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The objectives of physical education include the following except ........... development",
+    "options": {
+      "A": "Emotional",
+      "B": "Mental",
+      "C": "Motor skills",
+      "D": "Philosophical"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "It does not include philosophical development.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64265",
+    "passage": ""
   }
 ]
