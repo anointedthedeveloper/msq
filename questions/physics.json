@@ -8566,5 +8566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14083",
     "passage": ""
+  },
+  {
+    "id": 14085,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "When a pure semiconductor is heated, its resistance?",
+    "options": {
+      "A": "increases",
+      "B": "decreases",
+      "C": "remains the same",
+      "D": "increases and then decreases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Heating a pure semiconductor increases the mobility of electrons and holes and hence the conductivity. thus, the resistance decreases on heating\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14085",
+    "passage": ""
   }
 ]
