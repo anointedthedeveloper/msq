@@ -1697,5 +1697,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49803",
     "passage": ""
+  },
+  {
+    "id": 49805,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Micro-organisms which cause diesease in farm animals are called",
+    "options": {
+      "A": "parasites",
+      "B": "pathogens",
+      "C": "pests",
+      "D": "vectors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A bacterium, virus, or other microorganism that can cause disease.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49805",
+    "passage": ""
   }
 ]
