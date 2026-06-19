@@ -6087,5 +6087,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2644",
     "passage": ""
+  },
+  {
+    "id": 2645,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following compound is a normal salt?",
+    "options": {
+      "A": "NaHS",
+      "B": "NaHSO 4",
+      "C": "NaHCO 3",
+      "D": "Na 2 CO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A normal salt is formed when a metal or a group of elements behaving like a metal completely replaces replaceable hydrogen atoms in an acid molecule.\nNa\\(_2\\)CO\\(_3\\) (sodium carbonate), also known as washing soda or soda ash, is a type of normal salt. It's formed from a strong base (sodium hydroxide) and a weak acid (carbonic acid), making it a basic salt.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2645",
+    "passage": ""
   }
 ]
