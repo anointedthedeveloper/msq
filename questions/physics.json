@@ -2098,5 +2098,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9066",
     "passage": ""
+  },
+  {
+    "id": 9069,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The current through a resistor in an a.c circuit is given as 2 sin wt. Determine the d.c. equivalent of the current",
+    "options": {
+      "A": "\\(\\frac{1A}{\\sqrt{2}}\\)",
+      "B": "\\(\\sqrt{2}\\)A",
+      "C": "2 A",
+      "D": "2\\(\\sqrt{2}\\)A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "If I = 2 Sin wt; but in a.c. circuit current I = I\\(_0\\) Sin wt; thus comparing the two equations, it implies that I\\(_0\\) = 2A; Again, the root means square (I(rms)) of an a.c. current is the value of the d.c. current that will dissipate the same amount of heat in a given resistance as the a.c. and I(rms) = \\(\\frac{I_0}{\\sqrt{2}}\\) = \\(\\frac{2.0A}{\\sqrt{2}}\\) = \\(\\sqrt{2}\\)A (by rationalizing the denominator \\(\\frac{2.0A}{\\sqrt{2}}\\))\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9069",
+    "passage": ""
   }
 ]
