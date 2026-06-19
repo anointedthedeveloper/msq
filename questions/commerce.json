@@ -18260,5 +18260,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/15954",
     "passage": ""
+  },
+  {
+    "id": 16053,
+    "subject": "commerce",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which mode of transport would you suggest as the most suitable for natural gas?",
+    "options": {
+      "A": "Air",
+      "B": "Sea",
+      "C": "Pipeline",
+      "D": "Road"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Pipeline transport is the transportation of liquid or gas products through a system of pipes. Petroleum and gas products are normally transported through this method of transportation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/16053",
+    "passage": ""
   }
 ]
