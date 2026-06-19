@@ -1839,5 +1839,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66542",
     "passage": ""
+  },
+  {
+    "id": 66545,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The first step a mail clerk takes in handling outgoing mail is to",
+    "options": {
+      "A": "collect typed letters from various departments",
+      "B": "attach all enclosure that are to accompany each mail",
+      "C": "date-stamp the envelop in which each letter is inverted",
+      "D": "ensure that each mail envelop is well-sealed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The processes of outgoing mail are as follows: Drafting the mail, collecting the mail, Recording the mail, Stamping the mail, Dispatching the mail",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66545",
+    "passage": ""
   }
 ]
