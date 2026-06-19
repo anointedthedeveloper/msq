@@ -9052,5 +9052,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/60910",
     "passage": ""
+  },
+  {
+    "id": 60914,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use the image to answer the question below.\nWhich type of skill is dominant in the image?",
+    "options": {
+      "A": "Manipulative skill",
+      "B": "Intellectual skill",
+      "C": "negotiation skill",
+      "D": "communicative skill"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Q1EWNzgm7O69OF47Gtw7827UQfzLXG3STqQolLtK.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912241/myschool/civic-education/Q1EWNzgm7O69OF47Gtw7827UQfzLXG3STqQolLtK.jpg",
+    "correct_answer": "A",
+    "explanation": "This is because the individuals in the image are working with their hands on sewing machines, which requires dexterity, precision, and coordination, all of which are characteristics of manipulative skills.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/60914",
+    "passage": ""
   }
 ]
