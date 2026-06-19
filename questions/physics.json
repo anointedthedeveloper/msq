@@ -6907,5 +6907,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13879",
     "passage": ""
+  },
+  {
+    "id": 13880,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The motion of smoke particles from a chimney is typical of?",
+    "options": {
+      "A": "random motion",
+      "B": "circular motion",
+      "C": "rotational motion",
+      "D": "oscillatory motion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Smoke particles move chaotically and unpredictablely due to their collisions with air molecules, which characterizes random motion.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13880",
+    "passage": ""
   }
 ]
