@@ -17187,5 +17187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69825",
     "passage": ""
+  },
+  {
+    "id": 69826,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The LET statement in QBASIC",
+    "options": {
+      "A": "allows users to assign a value to a variable.",
+      "B": "allows the users to enter data into the computer during program execution.",
+      "C": "checks the errors within the code.",
+      "D": "allows the users to enter data into the computer from"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The LET statement in QBASIC allows users to assign a value to a variable. In QBASIC and other programming languages, the LET statement is used to assign a value to a variable. It is an optional keyword, and in most cases, you can simply use the variable name followed by the assignment operator (=) and the value you want to assign to the variable. For example: LET x = 10 This statement assigns the value 10 to the variable x.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69826",
+    "passage": ""
   }
 ]
