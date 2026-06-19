@@ -1,0 +1,23 @@
+[
+  {
+    "id": 73168,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the common nutrient found in liver and beans?",
+    "options": {
+      "A": "Carbohydrates",
+      "B": "Fats",
+      "C": "Protein",
+      "D": "Vitamins"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Liver and beans are both rich in vitamins, particularly:\nVitamin A (liver) Folate (beans) Vitamin B12 (liver) Vitamin K (liver)\nWhile liver and beans do contain other nutrients like proteins, carbohydrates, and fats, they are most notable for their high vitamin content.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73168",
+    "passage": ""
+  }
+]
