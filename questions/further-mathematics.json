@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50396",
     "passage": ""
+  },
+  {
+    "id": 50397,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The remainder when \\(x^{3}  - 2x + m\\) is divided by \\(x - 1\\) is equal to the remainder when \\(2x^{3} + x - m\\) is divided by \\(2x + 1\\). Find the value of m.",
+    "options": {
+      "A": "\\(\\frac{-7}{8}\\)",
+      "B": "\\(\\frac{-3}{8}\\)",
+      "C": "\\(\\frac{1}{8}\\)",
+      "D": "\\(\\frac{5}{8}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The remainder theorem states that if f(x) is divided by (x - a), the remainder is f(a).\n\\(f(x) = x^{3} - 2x + m\\) divided by (x - 1), so that a = 1.\nRemainder = \\(f(1) = 1^3 - 2(1) + m = -1 + m\\)\n\\(f(x) = 2x^{3} + x - m\\) divided by (2x + 1), so that a = \\(\\frac{-1}{2}\\)\n\\(f(\\frac{-1}{2}) = 2(\\frac{-1}{2}^{3}) + (\\frac{-1}{2}) - m = \\frac{-3}{4} - m\\)\n\\(\\implies m - 1 = \\frac{-3}{4} - m\\), collecting like terms,\n\\(2m = \\frac{1}{4} \\therefore m = \\frac{1}{8}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50397",
+    "passage": ""
   }
 ]
