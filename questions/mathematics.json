@@ -11889,5 +11889,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22358",
     "passage": ""
+  },
+  {
+    "id": 22359,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Points X and Y are respectively 20km North and 9km East of a point O. What is the bearing of Y from X? Correct to the nearest degree",
+    "options": {
+      "A": "024 o",
+      "B": "114 o",
+      "C": "156 o",
+      "D": "204 o",
+      "E": "336 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "tan\\(\\theta\\) = 9/20 = 0.45 \\(\\theta\\) = tan\\(^{-1}\\) 0.45 = 24.2° the bearing of y from x = 180 0 - 0 = 180° - 24.2° the bearing = 155.8° \\(\\approxeq\\) 156°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22359",
+    "passage": ""
   }
 ]
