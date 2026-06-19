@@ -1256,5 +1256,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49703",
     "passage": ""
+  },
+  {
+    "id": 49707,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following diseases of sheep is transmitted",
+    "options": {
+      "A": "Blacklets",
+      "B": "Foot and mouth",
+      "C": "Heartwater",
+      "D": "Tuberculosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Heartwater can cause high fever, convulsions and death among sheep , goats and cattle. Heartwater (also called cowdriosis) is a tick-borne disease that can easily kill large numbers of animals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49707",
+    "passage": ""
   }
 ]
