@@ -16956,5 +16956,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69813",
     "passage": ""
+  },
+  {
+    "id": 69815,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The transmission method that allows data transmission to multiple computers on a network without addressing all the computers is called",
+    "options": {
+      "A": "unicast",
+      "B": "broadcast",
+      "C": "multicast",
+      "D": "switch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The transmission method that allows data transmission to multiple computers on a network without addressing all the computers is called \"broadcast.\" In a broadcast transmission, data is sent from one source to all devices within the network, and the devices that are not intended to receive the data will still process it. This approach can be efficient for sending the same data to multiple recipients simultaneously but may lead to unnecessary network traffic and can impact network performance. On the other hand: \"Multicast\" involves sending data to a specific group of devices that have joined a multicast group. It's more efficient than broadcast because it targets only the interested devices. \"Switch\" is a network device that forwards data to specific devices based on their MAC addresses, which is more efficient than using broadcast transmissions. \"Unicast\" refers to the transmission of data from one sender to one receiver, specifically addressing the intended recipient.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69815",
+    "passage": ""
   }
 ]
