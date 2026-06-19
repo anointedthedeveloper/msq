@@ -790,5 +790,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/504",
     "passage": ""
+  },
+  {
+    "id": 505,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nHe had just entered the office .... the telephone rang",
+    "options": {
+      "A": "as",
+      "B": "before",
+      "C": "since",
+      "D": "when",
+      "E": "until"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/505",
+    "passage": ""
+  },
+  {
+    "id": 506,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nThey .... receive visitors on short notice.",
+    "options": {
+      "A": "use to",
+      "B": "are used to",
+      "C": "used to",
+      "D": "are always",
+      "E": "are use to"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "'Use to' and 'Used to' are commonly used as modal verbs to establish a sentence mood. They are both used to explain that an action no longer happens. While 'use to' indicate the present tense, 'used to' indicates the past tense. However, while use to is used where 'did' occurs, as in, I did not use to eat vegetables. 'used to' is used in other sentence construction and can also function as an adjective.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/506",
+    "passage": ""
+  },
+  {
+    "id": 507,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nHis suggestion are completely .... the point and cannot be accepted",
+    "options": {
+      "A": "to",
+      "B": "about",
+      "C": "beside",
+      "D": "on",
+      "E": "under"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/507",
+    "passage": ""
   }
 ]
