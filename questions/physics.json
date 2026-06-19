@@ -11931,5 +11931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14499",
     "passage": ""
+  },
+  {
+    "id": 14500,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The pressure of two moles of an ideal gas at a temperature of 27 °C and volume 10\\(^-2\\)m\\(^3\\) is? [R = 8.313 J mol\\(^{-1}\\)K\\(^{-1}\\)]",
+    "options": {
+      "A": "4.99 x 10 5 Nm -2",
+      "B": "9.80 x 10 3 Nm -2",
+      "C": "4.98 x 10 3 Nm -2",
+      "D": "9.80 x 10 5 Nm -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "PV = nRT\n∴ P = \\(\\frac{\\text{nRT}}{\\text{V}}\\)\nP = \\(\\frac{2 \\times 8.313 \\times 300}{10^{-2}}\\)\n= 4.987 x 10\\(^5\\) Nm\\(^{-2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14500",
+    "passage": ""
   }
 ]
