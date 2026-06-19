@@ -6842,5 +6842,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76513",
     "passage": ""
+  },
+  {
+    "id": 76514,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What corrective exercise principle is essential for improving mobility in stroke survivors?",
+    "options": {
+      "A": "High-intensity interval training only",
+      "B": "Passive stretching only",
+      "C": "Task-specific repetitive training",
+      "D": "Avoidance of all physical activity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Task-specific repetitive training is a fundamental principle in stroke rehabilitation because it focuses on practicing specific movements or tasks that the stroke survivor needs to relearn, such as walking, reaching, or grasping. This type of training helps to retrain the brain and nervous system through neuroplasticity-the brain's ability to reorganize itself-leading to improved motor control and functional recovery. Unlike passive stretching or avoidance of activity, task-specific repetitive exercises actively engage the patient and are proven to enhance mobility and independence after stroke. High-intensity interval training might be beneficial later but is not the primary focus early/in strokes rehab.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76514",
+    "passage": ""
   }
 ]
