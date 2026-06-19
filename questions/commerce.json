@@ -15664,5 +15664,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7601",
     "passage": ""
+  },
+  {
+    "id": 7602,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The creation of goods and services to satisfy human wants is referred to as?",
+    "options": {
+      "A": "manufacturing",
+      "B": "commercialization",
+      "C": "production",
+      "D": "entrepreneurship"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Production is the organised activity of transforming resources into finished products in the form of goods and services",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7602",
+    "passage": ""
   }
 ]
