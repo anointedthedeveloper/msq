@@ -9511,5 +9511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3983",
     "passage": ""
+  },
+  {
+    "id": 3985,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The IUPAC nomenclature of compound CH\\(_3\\)CH\\(_2\\)COOCH\\(_2\\)CH\\(_3\\) is",
+    "options": {
+      "A": "propyl ethanoate",
+      "B": "ethyl butanoate",
+      "C": "ethyl propanoate",
+      "D": "methyl butanoate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "While trying to name the compound CH\\(_3\\)CH\\(_2\\)COOCH\\(_2\\)CH\\(_3\\) , we must realize that this ester or alkanoate was derived from two reactants; alkanol and alkanoic acid. Therefore, we'll try to split the compound into two for easier naming.\nCH\\(_3\\)CH\\(_2\\)COO - CH\\(_2\\)CH\\(_3\\).\nSecondly, start the naming from the right hand side i.e  CH\\(_2\\)CH\\(_3\\), which is ethyl\nThirdly, name the compound from the left hand side i.e CH\\(_3\\)CH\\(_2\\)COO,which is propanoate (because there are 3 carbon atoms and the functional group RCOO-).\nFinally, join the two names together i.e ethyl propanoate.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3985",
+    "passage": ""
   }
 ]
