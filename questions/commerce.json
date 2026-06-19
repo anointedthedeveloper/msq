@@ -10857,5 +10857,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7069",
     "passage": ""
+  },
+  {
+    "id": 7071,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The input, output and central processing units are the basic components of a computer's?",
+    "options": {
+      "A": "memory",
+      "B": "printer",
+      "C": "hardware",
+      "D": "software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer hardware is the physical component that a computer system requires to function. It includes the motherboard, graphics card, CPU (Central Processing Unit), input devices (For raw data input), output devices (to disseminate data and information), storage devices (for data and information retention), etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7071",
+    "passage": ""
   }
 ]
