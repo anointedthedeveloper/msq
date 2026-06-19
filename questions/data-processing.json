@@ -5579,5 +5579,23 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59220",
     "passage": ""
+  },
+  {
+    "id": 59308,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Table 1 shows the list of items and the quantity of the items needed by a student. The table was created on an MS Excel worksheet.\nUse the table to answer questions 6(a)(i)-(iv)\nTable 1\n(a)Outline the steps to; (i) create a bar chart on the worksheet such that the items would be labeled on the chart and the percentage of each item included.\n(ii) add to the table a new; A. column B. row\n(iii) State one function in MS Excel that can be used to determine the item with the highest quantity.\n(b) Outline the steps to add page border to a document using Art Design Tool in MS Word application.\n(c) An MS Word document contains the phrase \"WAEC Exam\". Highlight the steps to link the phrase WAEC website (http://www.waec.org.ng).",
+    "options": {
+      "A": "column B. row\n(iii) State one function in MS Excel that can be used to determine the item with the highest quantity.\n(b) Outline the steps to add page border to a document using Art Design Tool in MS Word application.\n(c) An MS Word document contains the phrase \"WAEC Exam\". Highlight the steps to link the phrase WAEC website (http://www.waec.org.ng)."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "6a (i) Type/create the table with the values needed for the chart.\nHighlight the data. One the menu bar click on insert and select the type of bar chart design you want and click.\n(ii)(a) To add  new row; Pick a cell or row that's not the header row and right click. Point to insert and pick table rows above to insert a new row.\n(ii)(b) To add a new column; Pick any cell in the table and right click. Point to insert table column to the left to insert a new column.\n(iii) Max Formula; Returns the largest value from the number provided.\n(b) How to create a Page Border in Miscrosoft Word; Open Microsoft Word. Click on the page layout tab. In the page layout background group. Click the page border option. In the border and shading window, click on page breaker tab. Select box if you want a squae border around your page which can be solid, dotted or dashed. Click the OK button to apply the border.\n(c) Steps to link the phrase \"WAEC Exam\" to the WAEC Website (http://www.waec.org.ng); Go to webpage to which you want to link in order to find the link for a website specific page, you must go to page first. Select the webpage's address at the top of the web browser. Copy the address. Find a place to post the link. Paste your link. Test your link.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59308",
+    "passage": ""
   }
 ]
