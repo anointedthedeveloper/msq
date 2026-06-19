@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57245",
     "passage": ""
+  },
+  {
+    "id": 57270,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a transmission medium?",
+    "options": {
+      "A": "twisted pair cables",
+      "B": "coaxial cables",
+      "C": "wireless",
+      "D": "modem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A transmission medium is something that can mediate the propagation of signals for the purposes of telecommunication. A modem is a device or program that enables a computer to transmit data and so cannot be regarded as a transmission medium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57270",
+    "passage": ""
   }
 ]
