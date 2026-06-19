@@ -11343,5 +11343,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14464",
     "passage": ""
+  },
+  {
+    "id": 14465,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Two inductors of inductance 4 II and 8 II are arrange in series and a current of 10 A is passed through them. What is the energy stored in them?",
+    "options": {
+      "A": "600 J",
+      "B": "50 J",
+      "C": "133 J",
+      "D": "250 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Inductance (L) in series: 4 + 8 = 12\nTherefore Energy stored =\nW = \\(\\frac{1}{2} LI^2\\)\n= \\(\\frac{1}{2} \\times 12 \\times 10^2\\)\n= 600J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14465",
+    "passage": ""
   }
 ]
