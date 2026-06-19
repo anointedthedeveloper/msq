@@ -4595,5 +4595,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58742",
     "passage": ""
+  },
+  {
+    "id": 58743,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a) Outline the steps involved in printing the first five pages of a word document from the print dialog box on a computer with two printers installed.\n(b) Sadiq complained that a pop-up usually appears on the screen of his personal computer thereby disturbing him while using the computer;\n(i) What is the possible cause of the pop-up?\n(ii) State a possible cause of the element causing the pop-up.\n(iii) What measure would be necessary to stop the pop-up from reoccurring?\n(c) Mr Aneke is billed to address audience in an auditorium.\n(i) What computer application package is suitable to prepare and deliver his speech?\n(ii) State the output device that can be used to transmit Mr Aneke's speech note from his computer to a large screen in the auditorium.\n(d) Give two types of computer network.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "3 (a) Steps involved in printing first five pages of a document.\n- Choose the printer from the list of printers displayed .\n- Choose the page range (1-5 OR 1,2,3,4,5)\n- Click on print/Ok\n(b)(i) Possible cause of the pop-up\n- Virus/Malware\n- Unlicensed software\n- Plugins\n- Pirated/Facked software\n- Need for software update\n(ii) Sources of malware/virus\n- Infected files/media\n- Installed plugins\n- Downloading\n- Cracked/pirated software\n- Email attachment\n- Use of CD/DVD or portable devices\n- Visited unreliable websites\n- Outdated/expired software\n(iii) Measures to prevent pop-up\n- Use of antivirus/anti-malware popup blocker\n- Use of licensed software\n- Disable plugins\n- Regular software update\n(c) (i) Presentation Packages\n- Corel presentation\n- Calligra\n- Magic point\n- OpenLP\n- Slide Dogs\n- Havard Graphics\n- PowerPoint\n- Prezi\n- Camtasia\n- Google Docs\n(ii) Multimedia projector/projector\n(d) Types of computer network\n- Local Area Network (LAN/WLAN)\n- Metropolitan Area Network (MAN)\n- Personal Area Network (PAN)\n- Wide Area Network (WAN)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58743",
+    "passage": ""
   }
 ]
