@@ -3358,5 +3358,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68312",
     "passage": ""
+  },
+  {
+    "id": 68313,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "After digestion protein is converted into",
+    "options": {
+      "A": "Ascorbic acid",
+      "B": "Citric acid",
+      "C": "Amino acid",
+      "D": "Fatty acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "After digestion, proteins are broken down into their constituent amino acids. This is done by various enzymes in the stomach and small intestine. These amino acids are then absorbed into the bloodstream and used by the body to build and repair tissues, among other things.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68313",
+    "passage": ""
   }
 ]
