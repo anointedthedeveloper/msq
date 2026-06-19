@@ -1054,5 +1054,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/525",
     "passage": ""
+  },
+  {
+    "id": 528,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space;\nMy father cannot bear the .... of the concoction that emanates from my mothers soup pot",
+    "options": {
+      "A": "sweet",
+      "B": "savouring",
+      "C": "aroma",
+      "D": "smell",
+      "E": "scent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The expression “cannot bear” shows strong dislike or discomfort. Smell is a neutral noun that can refer to either a pleasant or an unpleasant odour. Because the sentence clearly suggests something offensive or irritating, smell fits naturally without implying pleasantness. It also collocates well with verbs like bear , stand or tolerate .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/528",
+    "passage": ""
   }
 ]
