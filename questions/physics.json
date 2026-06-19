@@ -11259,5 +11259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14460",
     "passage": ""
+  },
+  {
+    "id": 14461,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following is a property of steel?",
+    "options": {
+      "A": "it cannot retain its magnetism longer than iron",
+      "B": "it can be used for making temporary magnets",
+      "C": "it can be used for making permanent magnets",
+      "D": "it can easily be magnetized and demagnetized"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14461",
+    "passage": ""
   }
 ]
