@@ -3078,5 +3078,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61839",
     "passage": ""
+  },
+  {
+    "id": 61840,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The following are examples of synchronous communication, except?",
+    "options": {
+      "A": "blogs",
+      "B": "Google talk",
+      "C": "phone",
+      "D": "video conferencing",
+      "E": "yahoo messenger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Synchronous communication is communication that occurs when the exchange of information or messages between the sender and the receiver happens at the same time. These exchanges may happen physically or virtually. Examples of synchronous communication include Physical meetings, Video conferencing, Phone calls, Live chat support, and Messaging platforms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61840",
+    "passage": ""
   }
 ]
