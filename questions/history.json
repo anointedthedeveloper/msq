@@ -14198,5 +14198,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/75725",
     "passage": ""
+  },
+  {
+    "id": 75726,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following was the key feature of the Igbo political system?",
+    "options": {
+      "A": "Divine kingship",
+      "B": "Oligarchy",
+      "C": "Gerontocracy and democratic village assemblies",
+      "D": "Centralized monarchy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Igbo political system was decentralized, with councils of elders and participatory village assemblies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/75726",
+    "passage": ""
   }
 ]
