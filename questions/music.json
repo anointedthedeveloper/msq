@@ -985,5 +985,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76283",
     "passage": ""
+  },
+  {
+    "id": 76284,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Rock the Party is a hit song by",
+    "options": {
+      "A": "D'banj",
+      "B": "Danny Young",
+      "C": "Dijnee",
+      "D": "Big Bamo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "D'banj, also known as the \"Kokomaster,\" is a prominent Nigerian singer and songwriter who helped bring Afrobeats to a global audience. \"Rock the Party\" was one of the early tracks that helped solidify his reputation for creating high-energy, club-friendly music during the mid-2000s.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76284",
+    "passage": ""
   }
 ]
