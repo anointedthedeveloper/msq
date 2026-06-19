@@ -2638,5 +2638,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1238",
     "passage": ""
+  },
+  {
+    "id": 1239,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "If a baby is a female, her mother's ovum must have been fertilized by a sperm carry the chromosome",
+    "options": {
+      "A": "X",
+      "B": "XY",
+      "C": "XX",
+      "D": "YY",
+      "E": "Y"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1239",
+    "passage": ""
   }
 ]
