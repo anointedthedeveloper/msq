@@ -14728,5 +14728,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64898",
     "passage": ""
+  },
+  {
+    "id": 64899,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The shortcut key for the open dialog box in MS Word is ?",
+    "options": {
+      "A": "Alt + F12",
+      "B": "Ctrl + F12",
+      "C": "F12",
+      "D": "shift + f12"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/P0hB6ETb6dvO6KZ7qWHmeL4W4gYBQbJHa0yuC7bk.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903889/myschool/computer-studies/P0hB6ETb6dvO6KZ7qWHmeL4W4gYBQbJHa0yuC7bk.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64899",
+    "passage": ""
   }
 ]
