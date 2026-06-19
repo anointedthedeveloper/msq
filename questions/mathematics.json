@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/564",
     "passage": ""
+  },
+  {
+    "id": 567,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If 314\\(_{10}\\) - 256\\(_7\\) = 340\\(_x\\), find x.",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "9",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(314_{10} - 256_7 = 340_x\\) Convert 2567 and 340x to base 10, such that: 314 - 139 = 3x\\(^2\\) + 4x => \\(3x^2\\) + 4x - 175 = 0 (quadratic) Factorising, (x - 7) (3x + 25) = 0, either x = 7 or x = -25/3 ( but x cannot be negative) Therefore, x = 7.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/567",
+    "passage": ""
   }
 ]
