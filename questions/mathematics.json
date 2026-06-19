@@ -2014,5 +2014,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2550",
     "passage": ""
+  },
+  {
+    "id": 2559,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the rate of change of the volume, V of a sphere with respect to its radius, r when r = 1.",
+    "options": {
+      "A": "12π",
+      "B": "4π",
+      "C": "24π",
+      "D": "8π"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2559",
+    "passage": ""
   }
 ]
