@@ -13153,5 +13153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64379",
     "passage": ""
+  },
+  {
+    "id": 64381,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Computers are used majorly at offices for ____________",
+    "options": {
+      "A": "Recreational purposes",
+      "B": "Research purposes",
+      "C": "Storage purpose",
+      "D": "Security purposes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In offices, computers are majorly used to store files and other confidential.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64381",
+    "passage": ""
   }
 ]
