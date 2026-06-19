@@ -1933,5 +1933,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58082",
     "passage": ""
+  },
+  {
+    "id": 58086,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is an example of qualitative data?",
+    "options": {
+      "A": "Colour",
+      "B": "Height",
+      "C": "Length",
+      "D": "Show size"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Qualitative data can be observed and recorded. This data type is non-numerical in nature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58086",
+    "passage": ""
   }
 ]
