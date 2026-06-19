@@ -9742,5 +9742,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14296",
     "passage": ""
+  },
+  {
+    "id": 14297,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The accurate measurement of the relative density of a substance in its powdered form is done with a beam balance and?",
+    "options": {
+      "A": "a density bottle",
+      "B": "an eureka can",
+      "C": "a pipette",
+      "D": "a burette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since relative density = mass of substance mass of equal volume of water relative density bottle should be used to determine the mass of the substance, and mass of an equal volume of water by filling the bottle with the powder and water respectively and weighed with the beam balance.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14297",
+    "passage": ""
   }
 ]
