@@ -2432,5 +2432,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49917",
     "passage": ""
+  },
+  {
+    "id": 49918,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "In motor insurance, which of the following covers will take care of all parties that can be involded in an accident",
+    "options": {
+      "A": "comprehensive",
+      "B": "Act only",
+      "C": "third party",
+      "D": "third party, fire and theft"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Comprehensive insurance is a coverage that helps pay to replace or repair your vehicle if it's stolen or damaged in an incident that's not a collision. Comprehensive typically covers damage from fire, vandalism or falling objects (like a tree or hail).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49918",
+    "passage": ""
   }
 ]
