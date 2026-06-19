@@ -3594,5 +3594,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61863",
     "passage": ""
+  },
+  {
+    "id": 61864,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "(a) Draw the AND gate and produce its truth table\n(b) List two examples of an output device.\n(c)(i) What is a computer virus.\n(ii) Give two examples of computer virus.\n(d) Convent 28C in hexadecimal to decimal number",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(i) Computer Display (Monitor) (ii) Printers (iii) Plotters (iv) Speakers.\n(c)(i) A Computer virus is a small software program that spread from one computer to another and interferes with computer operation.\nA Computer virus might corrupt or delete data on a Computer, use an e-mail program to spread the virus to other computers, or even delete everything on the hard disk. (ii) Rootkit, Trojan horse, lavandos, worm, Agiplan, Agen a, A braxas and Sobig b.\n(d) 2BC\\(_16\\)\n(2 x 16\\(^2\\)) + (Bx 16\\(^1\\)) + (C x 16\\(^0\\))\\(_10\\)\n(2 x 25\\(^2\\)) + (11 x 16) + (12 x 1)\\(_10\\)\n(512+ 176 + 12)\\(_10\\)\n700\\(_10\\) =  700 Is an hexadecimal number and it is represented as 0 X 2bc.\nIn decimal mode, 2bc is 700.\nIn Octal mode 2bc is 1274.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61864",
+    "passage": ""
   }
 ]
