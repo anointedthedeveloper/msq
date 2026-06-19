@@ -1404,5 +1404,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1399",
     "passage": ""
+  },
+  {
+    "id": 1402,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "What quantity of electricity will liberate 0.125 mole of oxygen molecules during the electrolysis of dilute sodium chloride solution?\n[ F = 96 5000 C mol\n-1\n]",
+    "options": {
+      "A": "24 125 coulombs",
+      "B": "48 250 coulombs",
+      "C": "72 375 coulombs",
+      "D": "96 500 coulombs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1402",
+    "passage": ""
   }
 ]
