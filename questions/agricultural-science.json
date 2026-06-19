@@ -1868,5 +1868,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15992",
     "passage": ""
+  },
+  {
+    "id": 15993,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following crops is a raw material for production of chocolate?",
+    "options": {
+      "A": "kolanut",
+      "B": "coffee",
+      "C": "banana",
+      "D": "cocoa",
+      "E": "avocado pear"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15993",
+    "passage": ""
   }
 ]
