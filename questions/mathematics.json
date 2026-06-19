@@ -6298,5 +6298,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9008",
     "passage": ""
+  },
+  {
+    "id": 9014,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "A binary operation \\(\\oplus\\) defined on the set of real number is such that x\\(\\oplus\\)y = xy/6 for all x, y ∈ R. Find the inverse of 20 under this operation when the identity element is 6",
+    "options": {
+      "A": "1 / 12",
+      "B": "10 / 3",
+      "C": "1 / 20",
+      "D": "9 / 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "x ⊕ y = xy/6 = xe/6 = x xe = 6x e = 6 x ⊕ y = xx1/6 where x1 = 20 x x 20/6 = 6 x = 36/20 x = 9/5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9014",
+    "passage": ""
   }
 ]
