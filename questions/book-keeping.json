@@ -354,5 +354,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72857",
     "passage": ""
+  },
+  {
+    "id": 72866,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Purchases for #12,960 was recorded in the day book as #12,690. This is an error of",
+    "options": {
+      "A": "Principle",
+      "B": "Compensation",
+      "C": "Complete reversal",
+      "D": "Original entry"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is an error of original entry because it was commited when the entry was made.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72866",
+    "passage": ""
   }
 ]
