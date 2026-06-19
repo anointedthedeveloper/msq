@@ -7000,5 +7000,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67139",
     "passage": ""
+  },
+  {
+    "id": 67140,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "At what stage in data processing does data manipulation take place?",
+    "options": {
+      "A": "Organization",
+      "B": "Collation",
+      "C": "Analysis",
+      "D": "Interpretation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Data are manipulated at Organization stage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67140",
+    "passage": ""
   }
 ]
