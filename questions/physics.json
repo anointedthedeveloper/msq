@@ -15383,5 +15383,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24160",
     "passage": ""
+  },
+  {
+    "id": 24161,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following particles conduct electricity through salty water?",
+    "options": {
+      "A": "Atom",
+      "B": "molecules",
+      "C": "Electrons",
+      "D": "Neutrons",
+      "E": "Ions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24161",
+    "passage": ""
   }
 ]
