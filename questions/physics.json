@@ -5164,5 +5164,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12800",
     "passage": ""
+  },
+  {
+    "id": 12801,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The instrument used for securing a large number of similar charges by induction is called",
+    "options": {
+      "A": "electrophorus",
+      "B": "capacitor",
+      "C": "proof-plane",
+      "D": "electroscope"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "An Electrophorus is a simple manual electrostatic generator used to produce a large number of similar charges through the process of induction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12801",
+    "passage": ""
   }
 ]
