@@ -17733,5 +17733,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69852",
     "passage": ""
+  },
+  {
+    "id": 69853,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Input devices are computer devices that can",
+    "options": {
+      "A": "send data and instructions into the computer memory.",
+      "B": "be used to get data from the computer.",
+      "C": "send results to the memory of the computer.",
+      "D": "receive data and instructions from the computer memory."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Input devices are computer devices that can: send data and instructions into the computer memory. Input devices are used to provide data and instructions to the computer. They allow users to interact with the computer by inputting various types of data, such as text, numbers, images, and commands. Examples of input devices include keyboards, mice, touchscreens, scanners, microphones, and digital cameras. These devices enable users to send data and commands to the computer's memory, where the data is processed and stored for further use",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69853",
+    "passage": ""
   }
 ]
