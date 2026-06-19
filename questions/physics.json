@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/710",
     "passage": ""
+  },
+  {
+    "id": 711,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If a charged ion goes through combined electric and magnetic fields, the resultant emergent velocity of the ion is",
+    "options": {
+      "A": "E/B",
+      "B": "EB",
+      "C": "B/E",
+      "D": "E - B"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The resultant emergent velocity of a charged ion moving through combined electric and magnetic fields can be derived from the condition where the electric force equals the magnetic force. This gives us the formula for the velocity v:\nq E = qvB\nv = \\(\\frac{E}{B}\\) (q will cancel out)\nNOTE:  When both fields are present, for the ion to move without deflection, the electric force must equal the magnetic force.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/711",
+    "passage": ""
   }
 ]
