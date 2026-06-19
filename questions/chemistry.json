@@ -5205,5 +5205,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2269",
     "passage": ""
+  },
+  {
+    "id": 2270,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If y is an oxidizing agent that reacts with a reducing agent, Z, which of the following is correct?",
+    "options": {
+      "A": "Y increases in oxidation number",
+      "B": "Y becomes reduced",
+      "C": "Z loses protons",
+      "D": "Z gains protons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An oxidizing agent is reduced in a chemical reaction, meaning it gains electrons and its oxidation state decreases. An oxidizing agent, also known as an oxidant or oxidizer, is a substance that causes oxidation by accepting electrons from another compound, called the reducing agent. This process is called reduction, and it makes the oxidizing agent more negative.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2270",
+    "passage": ""
   }
 ]
