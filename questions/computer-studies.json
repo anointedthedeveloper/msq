@@ -15255,5 +15255,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67757",
     "passage": ""
+  },
+  {
+    "id": 67758,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "When records are given a new value, it is called",
+    "options": {
+      "A": "updation",
+      "B": "insertion",
+      "C": "deletion",
+      "D": "retrieval"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When records are given a new value, it is called 'updation'. This is a process in database management where an existing record is modified with new data. 'Insertion' is adding a new record, 'deletion' is removing a record, and 'retrieval' is fetching data from the database.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67758",
+    "passage": ""
   }
 ]
