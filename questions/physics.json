@@ -14107,5 +14107,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23920",
     "passage": ""
+  },
+  {
+    "id": 23921,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Which of the following is a stringed instrument?",
+    "options": {
+      "A": "flute",
+      "B": "trumpet",
+      "C": "piano",
+      "D": "drum",
+      "E": "saxophone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The piano is classified as a stringed instrument because it produces sound through vibrating strings, even though it also has a keyboard mechanism.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23921",
+    "passage": ""
   }
 ]
