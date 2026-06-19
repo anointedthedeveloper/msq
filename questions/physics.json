@@ -9595,5 +9595,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14282",
     "passage": ""
+  },
+  {
+    "id": 14283,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Two cars moving in the same direction have speeds of 100 kmh\\(^{-1}\\) and 130 kmh\\(^{-1}\\). What is the velocity of the faster car as measured by an observer in the slower car?",
+    "options": {
+      "A": "30 kmh -1",
+      "B": "130 kmh -1",
+      "C": "200 kmh",
+      "D": "230 kmh -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since the cars are moving in the same direction, the velocity of a body A, Va,relative to another body B, Vb is given by V = Va - Vb ∴ the velocity of faster car is measured by the observer in the slower car is V = 130kmh-1 - 100 kmh-1 = 30 kmh-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14283",
+    "passage": ""
   }
 ]
