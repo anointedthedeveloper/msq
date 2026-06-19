@@ -5740,5 +5740,115 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2558",
     "passage": ""
+  },
+  {
+    "id": 2560,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "What is the genetic ratio of the F2 generation if members of F generation are allowed to self-pollinate?",
+    "options": {
+      "A": "1 tall : 3 short",
+      "B": "3 tall : 1 short",
+      "C": "1 tall : 1 short",
+      "D": "4 short : 0 tall",
+      "E": "4 tall : 0 short"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "If members of the F1 generation are allowed to self-pollinate, the genetic ratio in the F2 generation will be 1:2:1 (homozygous dominant: heterozygous: homozygous recessive) for a monohybrid cross, meaning a single gene trait is being studied.\nExplanation:\nF1 generation: When two homozygous parents with contrasting traits are crossed, the F1 generation will all be heterozygous, exhibiting the dominant phenotype. Self-pollination of F1: When these F1 heterozygotes self-pollinate, the offspring in the F2 generation will segregate the alleles according to Mendel's law of segregation, resulting in a 1:2:1 genotypic ratio. The genetic ratio of the F2 shows that there will be 3 tall and 1 short offspring plants.(See diagram above)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2560",
+    "passage": ""
+  },
+  {
+    "id": 2561,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "The path taken by glucose from the ileum to the heart is",
+    "options": {
+      "A": "Ileum →hepatic portal vein →hepatic artery → vena cava → heart",
+      "B": "Ileum → hepatic portal artery →hepatic artery → vena cava → heart",
+      "C": "Ileum → hepatic portal vein → vena cava → heart",
+      "D": "Ileum → hepatic vein → vena cava → heart",
+      "E": "Ileum → hepatic portal vein → hepatic vein → vena cava → heart"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2561",
+    "passage": ""
+  },
+  {
+    "id": 2562,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "The mouth parts of the housefly are adapted for",
+    "options": {
+      "A": "Lapping and sponging",
+      "B": "Sucking and chewing",
+      "C": "Piercing and sucking",
+      "D": "Chewing and lapping",
+      "E": "Biting and chewing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2562",
+    "passage": ""
+  },
+  {
+    "id": 2563,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "The male toad differs from the female by having",
+    "options": {
+      "A": "Vocal sacs",
+      "B": "Shorter hind limbs",
+      "C": "Longer fore limbs",
+      "D": "Bulging eyes",
+      "E": "Nictating membranes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2563",
+    "passage": ""
+  },
+  {
+    "id": 2564,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Mosses, liverworts and ferns can be grouped together because they",
+    "options": {
+      "A": "Are all aquatic plants",
+      "B": "All grow in deserts",
+      "C": "Are seedless plants",
+      "D": "Have undifferentiated plant bodies",
+      "E": "All produce colourless flowers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2564",
+    "passage": ""
   }
 ]
