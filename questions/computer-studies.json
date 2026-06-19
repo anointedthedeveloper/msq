@@ -5628,5 +5628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62427",
     "passage": ""
+  },
+  {
+    "id": 62428,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The speed of data transfer in the computer can be determined in terms of ?",
+    "options": {
+      "A": "protocol and bus speed",
+      "B": "bus speed and width",
+      "C": "bus speed and storage media",
+      "D": "bus width and storage media."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Bus speed and storage media are two factors that determine the speed of data transfer in a computer. Bus speed refers to the speed at which data is transferred between the various components of a computer system, such as the CPU, RAM, and other devices connected to the motherboard. A higher bus speed generally means faster data transfer and improved performance",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62428",
+    "passage": ""
   }
 ]
