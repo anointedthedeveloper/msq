@@ -4198,5 +4198,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70735",
     "passage": ""
+  },
+  {
+    "id": 70736,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In a relay race, how wide is the designated take-over zone?",
+    "options": {
+      "A": "10 m",
+      "B": "20 m",
+      "C": "No designated zone",
+      "D": "30 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The designated take-over zone in a relay race is 20 meters long. This is the area where the baton must be exchanged between runners.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70736",
+    "passage": ""
   }
 ]
