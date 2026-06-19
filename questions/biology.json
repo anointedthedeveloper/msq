@@ -1604,5 +1604,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/409",
     "passage": ""
+  },
+  {
+    "id": 410,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The hepatic portal vein is characterized by",
+    "options": {
+      "A": "Beginning and ending with capillaries",
+      "B": "Connecting the liver and the kidney",
+      "C": "Carrying deoxygenated blood",
+      "D": "Ending with large capillaries",
+      "E": "Having no capillaries"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/410",
+    "passage": ""
   }
 ]
