@@ -8860,5 +8860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3772",
     "passage": ""
+  },
+  {
+    "id": 3774,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Copper and silver metals are commonly used as coin because they are",
+    "options": {
+      "A": "easily reduced",
+      "B": "not easily reduced",
+      "C": "easily oxidized",
+      "D": "not easily oxidized"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Copper and Silver metals are commonly used as coins because they are not easily oxidized. They are resistant to oxidation, meaning they don't easily react with oxygen in the air to form oxides. This property helps preserve the coin's appearance and structure over time.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3774",
+    "passage": ""
   }
 ]
