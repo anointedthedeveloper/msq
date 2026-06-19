@@ -13075,5 +13075,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22664",
     "passage": ""
+  },
+  {
+    "id": 22665,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "calculate the surface area of a sphere of radius 7cm [Take π = 22/7]",
+    "options": {
+      "A": "86cm 2",
+      "B": "154cm 2",
+      "C": "616cm 2",
+      "D": "1434cm 2",
+      "E": "4312cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Surface area of a sphere = \\(4\\pi r^2\\)\n= \\(4 \\times \\frac{22}{7} \\times 7 \\times 7\\)\n= \\(616 cm^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22665",
+    "passage": ""
+  },
+  {
+    "id": 22667,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "If the radius of the parallel of latitude 30°N is equal to the radius of the parallel of latitude θ°S, what is the value of θ?",
+    "options": {
+      "A": "75 o",
+      "B": "60 o",
+      "C": "45 o",
+      "D": "30 o",
+      "E": "0 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\theta_{1} = \\theta_{2} = 30°\\)",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191119_154320%20%282%29.jpg",
+    "explanation_image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908233/myschool/mathematics/IMG_20191119_154320_%282%29.jpg",
+    "url": "https://myschool.ng/classroom/mathematics/22667",
+    "passage": ""
   }
 ]

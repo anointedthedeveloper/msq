@@ -5709,5 +5709,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2531",
     "passage": ""
+  },
+  {
+    "id": 2627,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "When a solid substance disappears completely as a gas on heating, the substance is said to have undergone",
+    "options": {
+      "A": "evaporation",
+      "B": "distillation",
+      "C": "crystallization",
+      "D": "sublimation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Evaporation is a change of state from a liquid to a gas.\nDistillation is a physical process that involves a phase change from liquid to gas (vapour) and then back to liquid.\nCrystallization is a physical change that occurs when a substance turns from a liquid to a solid crystal.\nSublimation is a change of state from a solid to a gas without passing through a liquid state.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2627",
+    "passage": ""
+  },
+  {
+    "id": 2628,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A chemical reaction is always associated with",
+    "options": {
+      "A": "an increase in the composition of one of the substance",
+      "B": "a change in the volume of the reactants",
+      "C": "a change in the nature of the reactants",
+      "D": "the formation of new substance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Chemical reactions always involve the formation of new substances. This is because chemical reactions change the arrangement of atoms in a substance, which creates new substances with different chemical properties.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2628",
+    "passage": ""
+  },
+  {
+    "id": 2629,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "If a solution contains 4.9g of tetraoxosulphate (VI) acid, calculate the amount of copper (II) oxide that will react with it [Cu = 64, O = 16, S = 32, H = 1]",
+    "options": {
+      "A": "0.8g",
+      "B": "4.0g",
+      "C": "40.0g",
+      "D": "80.0g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Equation of the reaction H\\(_2\\)SO\\(_4\\)(g) + CuO(s) → CuSO\\(_4\\)(aq) + H\\(_2\\)O Relative molecular mass of H\\(_2\\)SO\\(_4\\) = 1 + 2 + 32 + 16 + 4 = 98 Relative molecular mass of CuO = 64 + 16 =80 From the above equation, 98g of H\\(_2\\)SO\\(_4\\) reacts with 80g of CuO. ∴ 4.9g of H\\(_2\\)SO\\(_4\\) will react with Xg of CuO = (4.9 * 80)/98 of CuO = 392/98 = 4.0g\nAlternatively,\nH\\(_2\\)SO\\(_4\\)(g) + CuO(s) → CuSO\\(_4\\)(aq) + H\\(_2\\)O\n1           :        1\nSince the combining ratio of  H\\(_2\\)SO\\(_4\\) and CuO  is in ratio 1:1, the number of moles will also be equal.\nHence, we can first calculate the amount of H\\(_2\\)SO\\(_4\\), since we were given the mass of H\\(_2\\)SO\\(_4\\) that reacted as 4g and the Molecular mass is 98g/mol\nAmount of moles of H\\(_2\\)SO\\(_4\\) = \\(\\frac{mass}{Molecular mass}\\)\n=  \\(\\frac{4.9}{98}\\)  = 0.05 mole\nAmount of moles of CuO =  \\(\\frac{mass}{Molecular mass}\\)\n0.05  =  \\(\\frac{mass}{64 + 16}\\)\nMass = 0.05 x 80 = 4.0g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2629",
+    "passage": ""
   }
 ]
