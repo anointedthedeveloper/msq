@@ -12852,5 +12852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7305",
     "passage": ""
+  },
+  {
+    "id": 7306,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The process of changing the form of a new material is known as?",
+    "options": {
+      "A": "fabrication",
+      "B": "extraction",
+      "C": "conversion",
+      "D": "production"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Production is a process of combining various material inputs and immaterial inputs (plans, know-how) in order to make something for consumption (the output). It is simply the conversion of raw materials into semi-finished goods or goods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7306",
+    "passage": ""
   }
 ]
