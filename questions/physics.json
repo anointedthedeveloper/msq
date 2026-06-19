@@ -6613,5 +6613,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13842",
     "passage": ""
+  },
+  {
+    "id": 13843,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "An immersion heater rated 2.0A, 240V is used to boil water from temperature 52°c to 100°c. If the mass of the water is 2.5kg. determine the time taken to boil the water.\n[specific heat capacity of water = 4.2 x 10\n3\njkg\n-1\nk\n-1\n]",
+    "options": {
+      "A": "1.05 x 10 3 s",
+      "B": "1.05 x 10 5 s",
+      "C": "1.05 x 10 2 s",
+      "D": "1.05 x 10 4 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13843",
+    "passage": ""
   }
 ]
