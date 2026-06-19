@@ -11647,5 +11647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22347",
     "passage": ""
+  },
+  {
+    "id": 22348,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The graph above is that of a quadratic function y = 2x\\(^2\\) - x - 6 The roots of the equation are",
+    "options": {
+      "A": "1.5, 2",
+      "B": "-1.5, 2",
+      "C": "1, -6",
+      "D": "1, 6",
+      "E": "-1, 6"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/LPvp0PAjkyOEg8Irdiocgbj8tdQoFr80cZgQB1cv.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907172/myschool/mathematics/LPvp0PAjkyOEg8Irdiocgbj8tdQoFr80cZgQB1cv.png",
+    "correct_answer": "B",
+    "explanation": "The roots are; x = -1.5 and 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22348",
+    "passage": ""
   }
 ]
