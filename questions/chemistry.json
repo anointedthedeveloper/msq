@@ -10624,5 +10624,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4279",
     "passage": ""
+  },
+  {
+    "id": 4283,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A mixture of sugar and sulphur can be separated by?",
+    "options": {
+      "A": "dissolution in water, evapouration and filtration",
+      "B": "filtration, evaporation and dissolution in water",
+      "C": "dissolution in water, filtration and evaporation",
+      "D": "evaporation, dissolution in water and filtration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Sulfur is insoluble in water but sugar is soluble.\nHence; dissolution of sugar to have sulfur as the only insoluble solid.\nFiltration: The filtrate is the liquid that passes through the filtration filter. Meanwhile, the residue is the solid that remains on the filtration filter.\nEvaporation: water as part of the filtrate changes into a gas to leave sugar as residue.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4283",
+    "passage": ""
   }
 ]
