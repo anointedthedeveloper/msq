@@ -10899,5 +10899,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7073",
     "passage": ""
+  },
+  {
+    "id": 7074,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Payment made to the insured by the insurer outside its legal obligation is?",
+    "options": {
+      "A": "premium paid",
+      "B": "ex gratia payment",
+      "C": "surrender value",
+      "D": "sum assured"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An ex gratia payment is a type of payment made by an insurer to an insured for damages or claims without recognizing any legal obligation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7074",
+    "passage": ""
   }
 ]
