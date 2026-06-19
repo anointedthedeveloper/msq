@@ -7978,5 +7978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3284",
     "passage": ""
+  },
+  {
+    "id": 3285,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Which of the following typically represents a photochemical reaction?",
+    "options": {
+      "A": "Formation of water from hydrogen and oxygen molecules",
+      "B": "Conversion of dinitrogen (IV) oxide to nitrogen (IV) oxide",
+      "C": "Decomposition of calcium hydroxide to its oxide",
+      "D": "Conversion of silver halides to grey metallic silver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. Conversion of silver halides to grey metallic silver.\nThis reaction is a classic example of a photochemical reaction:\n2AgCl (silver chloride) + light energy → 2Ag (silver) + Cl₂ (chlorine)\nIn this reaction, light energy (typically ultraviolet or visible light) initiates the decomposition of silver chloride into silver metal and chlorine gas. This reaction is commonly used in photographic film and paper.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3285",
+    "passage": ""
   }
 ]
