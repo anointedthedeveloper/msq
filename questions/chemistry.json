@@ -6570,5 +6570,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2945",
     "passage": ""
+  },
+  {
+    "id": 2946,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A characteristic of the alkane family is",
+    "options": {
+      "A": "Addition reaction",
+      "B": "Elimination reaction",
+      "C": "Substitution reaction",
+      "D": "Neutralization reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Substitution reactions are a characteristic reaction of alkanes because they are saturated compounds with only single bonds. This means that hydrogen atoms in an alkane can be easily replaced by other atoms or groups.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2946",
+    "passage": ""
   }
 ]
