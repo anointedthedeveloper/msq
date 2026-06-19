@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73199",
     "passage": ""
+  },
+  {
+    "id": 73200,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The process by which two or more pieces of fibre are firmly joined together with stitches is",
+    "options": {
+      "A": "Gathering",
+      "B": "Smoking",
+      "C": "Knitting",
+      "D": "Seaming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Seaming is the process of joining two or more pieces of fabric together using stitches, typically with a needle and thread. This is a fundamental technique in sewing, tailoring, and textile construction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73200",
+    "passage": ""
   }
 ]
