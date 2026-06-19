@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1154",
     "passage": ""
+  },
+  {
+    "id": 1155,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A sector of a circle of radius 7.2cm which subtends an angle of 300° at the centre is used to form a cone. What is the radius of the base of the cone?",
+    "options": {
+      "A": "8cm",
+      "B": "6cm",
+      "C": "9cm",
+      "D": "7cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "(r/L) = (θ/360°) Given θ = 300, and L = 7.2cm, => r = (300 x 7.2)/360 r = 6cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1155",
+    "passage": ""
   }
 ]
