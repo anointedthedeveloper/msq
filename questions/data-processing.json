@@ -6622,5 +6622,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67121",
     "passage": ""
+  },
+  {
+    "id": 67122,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Corrective maintenance of software refers to",
+    "options": {
+      "A": "Enhancement aimed at making the product faster",
+      "B": "Deploying the software to a different hardware platform",
+      "C": "Modifications initiated due to defects in software",
+      "D": "Making the software easier to understand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Corrective maintenance is concerned with fixing errors that are observed when the software is in use",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67122",
+    "passage": ""
   }
 ]
