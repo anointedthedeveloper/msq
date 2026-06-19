@@ -1761,5 +1761,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73765",
     "passage": ""
+  },
+  {
+    "id": 73766,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Họpụta nke bụ narị abụọ na iri abụọ.",
+    "options": {
+      "A": "narị",
+      "B": "ijeri",
+      "C": "puku",
+      "D": "nde"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The question is asking for the Igbo translation of \"100\". In Igbo language, narị means \"hundred\". Therefore, the correct answer is narị.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73766",
+    "passage": ""
   }
 ]
