@@ -4932,5 +4932,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58935",
     "passage": ""
+  },
+  {
+    "id": 58943,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The main function of the device in the part labeled II in Figure 2 above is",
+    "options": {
+      "A": "speeding up the rate of data transfer to the part labeled",
+      "B": "providing services to the other devices in the setup",
+      "C": "forwarding data packets between computers",
+      "D": "controlling the access to the part labeled I"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/UUEBbCSDRrx6ZDSz9QTW4M2w8qiX4EsZJDcTA69K.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911358/myschool/data-processing/UUEBbCSDRrx6ZDSz9QTW4M2w8qiX4EsZJDcTA69K.jpg",
+    "correct_answer": "C",
+    "explanation": "The main function of the part labelled II in the diagram above is to forward data packets between computers",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58943",
+    "passage": ""
   }
 ]
