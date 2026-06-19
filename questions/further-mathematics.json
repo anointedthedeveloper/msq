@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50377",
     "passage": ""
+  },
+  {
+    "id": 50378,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Out of 70 schools, 42 of them can be attended by boys and 35 can be attended by girls. If a pupil is selected at random from these schools, find the probability that he/ she is from a mixed school.",
+    "options": {
+      "A": "\\(\\frac{1}{11}\\)",
+      "B": "\\(\\frac{1}{10}\\)",
+      "C": "\\(\\frac{1}{6}\\)",
+      "D": "\\(\\frac{1}{5}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let the number of mixed schools be S\nThe number of boys only = 42 - S\nThe number of girls only = 35 - S\n(42 - S) + S + (35 - S) = 77 - S = 70\n\\(\\implies\\) S = 7\n\\(Probability = \\frac{7}{70} = \\frac{1}{10}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50378",
+    "passage": ""
   }
 ]
