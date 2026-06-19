@@ -1069,5 +1069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76288",
     "passage": ""
+  },
+  {
+    "id": 76289,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Umoja is a traditional dance group from",
+    "options": {
+      "A": "South Africa",
+      "B": "Uganda",
+      "C": "Ivory coast",
+      "D": "Togo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Umoja is a traditional dance group from South Africa. The group was formed with the aim of integrating South African music and dance to create a new art form. The name 'Umoja' itself means 'unity' in Swahili.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76289",
+    "passage": ""
   }
 ]
