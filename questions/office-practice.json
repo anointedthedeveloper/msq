@@ -565,5 +565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66115",
     "passage": ""
+  },
+  {
+    "id": 66118,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Particulars of letters sent out from an office are entered in the",
+    "options": {
+      "A": "dispatch book.",
+      "B": "postage book.",
+      "C": "remittance book.",
+      "D": "office diary"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Dispatch book is a document that shows where the particulars of letters sent out from an office is documented.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66118",
+    "passage": ""
   }
 ]
