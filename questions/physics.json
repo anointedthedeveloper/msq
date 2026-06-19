@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/302",
     "passage": ""
+  },
+  {
+    "id": 309,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A lead bullet of mass 0.05kg is fired with a velocity of 200ms\\(^{-1}\\) into a lead block of mass 0.95kg. Given that the lead block can move freely, the final kinetic energy after impact is",
+    "options": {
+      "A": "50 J",
+      "B": "100 J",
+      "C": "150 J",
+      "D": "200 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "From principle of conservation of linear momentum, (0.05 x 200) + (0.95 x 0) = (0.05 + 0.95) x V (since collision is inelastic).\n10 + 0 = V\nThus V = 10m/s.\nRecall Kinetic Energy = \\(\\frac{1}{2} mv^2\\)\n\\(\\therefore\\) K.E = 1/2 (0.05 + 0.95) x 10\\(^2\\)\nK.E = 1/2 (1 x 100) = 50 J.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/309",
+    "passage": ""
   }
 ]
