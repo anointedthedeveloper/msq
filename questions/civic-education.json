@@ -2789,5 +2789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50213",
     "passage": ""
+  },
+  {
+    "id": 50214,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is not an example of civil society",
+    "options": {
+      "A": "United Action for Democracy",
+      "B": "United Nation Organisation",
+      "C": "Transition Monitoring Group",
+      "D": "Amnesty International"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The United Nations Organization (UNO) is an intergovernmental organisation, not a civil society group. Civil society organizations (CSOs) are non-governmental organizations that operate independently from the state and focus on representing the interests and concerns of citizens. United Action for Democracy, Transition Monitoring Group, and Amnesty International are all examples of civil society groups, which focus on promoting democracy, human rights and transparency.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50214",
+    "passage": ""
   }
 ]
