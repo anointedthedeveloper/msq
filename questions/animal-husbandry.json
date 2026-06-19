@@ -5982,5 +5982,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/61486",
     "passage": ""
+  },
+  {
+    "id": 61487,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The diagram above illustrates the life of an endoparasite of livestock. Use it to answer the question below\nThe secondary host of the parasite is",
+    "options": {
+      "A": "pig",
+      "B": "human",
+      "C": "water snail",
+      "D": "domestic fowl"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3eeO5O6e3PfSbl3MkrYaGB2bpC3la1OWQvye2arE.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901020/myschool/animal-husbandry/3eeO5O6e3PfSbl3MkrYaGB2bpC3la1OWQvye2arE.png",
+    "correct_answer": "A",
+    "explanation": "Water Snail: This is the first intermediate host, where the parasite develops before moving on to the next host. Pig: Pigs can serve as secondary hosts for some liver flukes, as they can become infected by ingesting metacercariae. Human: Humans can occasionally be hosts but are not typically considered as primary or secondary hosts in the classic life cycle of liver flukes. Domestic Fowl: Generally not involved in the liver fluke life cycle and are not considered hosts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/61487",
+    "passage": ""
   }
 ]
