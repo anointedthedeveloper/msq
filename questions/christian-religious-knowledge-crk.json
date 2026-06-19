@@ -86,5 +86,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/36",
     "passage": ""
+  },
+  {
+    "id": 37,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The ten commandments were delivered to the Israelites through Moses while they were",
+    "options": {
+      "A": "In Egypt",
+      "B": "In the Land of Midian",
+      "C": "At Mount Sinai",
+      "D": "In the promised land",
+      "E": "Near Jericho"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The Ten Commandments were delivered to the Israelites through Moses at Mount Sinai. This can be found in Exodus 19-20. Moses received the Ten Commandments directly from God on Mount Sinai during the Israelites' journey from Egypt to the Promised Land.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/37",
+    "passage": ""
   }
 ]
