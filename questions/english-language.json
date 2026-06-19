@@ -1515,5 +1515,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/581",
     "passage": ""
+  },
+  {
+    "id": 583,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Substitute for the underlined word in the following sentence the word that most closely expresses the opposite meaning : The plaintiff made very cogent submissions to the trial judge",
+    "options": {
+      "A": "bailiff",
+      "B": "prosecutor",
+      "C": "lawyer",
+      "D": "defendant",
+      "E": "accused"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In legal terms, the plaintiff is the party who brings a case against another in a court of law, while the defendant is the party being sued or accused. Therefore, \"defendant\" is the opposite of \"plaintiff.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/583",
+    "passage": ""
   }
 ]
