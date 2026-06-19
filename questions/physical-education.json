@@ -250,5 +250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64154",
     "passage": ""
+  },
+  {
+    "id": 64155,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not an artificial respiration?",
+    "options": {
+      "A": "Breathing through the nose",
+      "B": "Holger nelson Respiration",
+      "C": "Mouth to Mouth Respiration",
+      "D": "Mouth to Nose Respiration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Breathing through the nose is not a method of artificial respiration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64155",
+    "passage": ""
   }
 ]
