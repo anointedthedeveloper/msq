@@ -20948,5 +20948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76892",
     "passage": ""
+  },
+  {
+    "id": 76899,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Use Table 3 to answer this question. Which of the cells in Table 3 contains numeric data with the least value?",
+    "options": {
+      "A": "A5",
+      "B": "C5",
+      "C": "B5",
+      "D": "D5"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4uUXpty2ZDE3763LQZ3Y7Lvgzzn3FUU2afC7E1qv.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905217/myschool/computer-studies/4uUXpty2ZDE3763LQZ3Y7Lvgzzn3FUU2afC7E1qv.png",
+    "correct_answer": "C",
+    "explanation": "The provided table shows that cell B5 contains the numeric data with the lowest value. Comparing the numerical values in all the cells, it is clear that 2456 is the smallest among them, indicating that it is the cell with the least value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76899",
+    "passage": ""
   }
 ]
