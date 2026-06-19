@@ -7422,5 +7422,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62536",
     "passage": ""
+  },
+  {
+    "id": 62537,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Random file organisation is also known as?",
+    "options": {
+      "A": "direct file organisation",
+      "B": "indexed file organisation",
+      "C": "serial file organisation",
+      "D": "sequential file organisation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Random file organization: it is a situation where files are stored at random and unlike the others, a random file can be accessed directly regardless of whether or not the previous records have been accessed therefore a record key is used to make selection easier. It is also called a (direct file or a direct access file)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62537",
+    "passage": ""
   }
 ]
