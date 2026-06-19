@@ -1656,5 +1656,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49792",
     "passage": ""
+  },
+  {
+    "id": 49793,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A policy that covers a trader against the risk of payment default by customer is",
+    "options": {
+      "A": "stock insurance",
+      "B": "trade insurance",
+      "C": "credit insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fidelity Guarantee Insurance provides insurance against direct financial loss to companies arising out of the dishonesty of their employees.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49793",
+    "passage": ""
   }
 ]
