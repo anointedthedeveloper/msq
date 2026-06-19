@@ -7957,5 +7957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3283",
     "passage": ""
+  },
+  {
+    "id": 3284,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The sulphide which is insoluble in dilute hydrochloric acid is",
+    "options": {
+      "A": "FeS",
+      "B": "CuS",
+      "C": "ZnS",
+      "D": "Na 2 S"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sulphide that is generally considered insoluble in dilute hydrochloric acid is copper sulphide (CuS).\nWhile many metal sulphides dissolve in dilute HCl, copper sulphide is one of the few that remains undissolved due to its relatively low solubility product.\nWhen CuS is added to dilute HCl, no visible reaction occurs, indicating its insolubility. In order to dissolve copper sulphide, a stronger acid like nitric acid (HNO3) is typically required.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3284",
+    "passage": ""
   }
 ]
