@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1153",
     "passage": ""
+  },
+  {
+    "id": 1154,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Factorize 4x\n2\n- 9y\n2\n+ 20x + 25",
+    "options": {
+      "A": "(2x -3y + 5)(2x - 3y - 5)",
+      "B": "(2x - 3y)(2x + 3y)",
+      "C": "(2x - 3y +5)(2x + 3y + 5)",
+      "D": "(2x + 5)(2x - 9y +5)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1154",
+    "passage": ""
   }
 ]
