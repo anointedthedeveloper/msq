@@ -13846,5 +13846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64427",
     "passage": ""
+  },
+  {
+    "id": 64428,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "___________ is the combination of already processed _____________",
+    "options": {
+      "A": "information /data",
+      "B": "data /information",
+      "C": "information /instructions",
+      "D": "instructions /Data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Information is the combination of already processed data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64428",
+    "passage": ""
   }
 ]
