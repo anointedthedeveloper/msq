@@ -2331,5 +2331,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61751",
     "passage": ""
+  },
+  {
+    "id": 61754,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The central processing unit is connected to the?",
+    "options": {
+      "A": "expansion boards",
+      "B": "expansion slots",
+      "C": "memory chip",
+      "D": "mother board",
+      "E": "system unit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61754",
+    "passage": ""
   }
 ]
