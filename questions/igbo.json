@@ -3860,5 +3860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73977",
     "passage": ""
+  },
+  {
+    "id": 73978,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Which among these is not a vowel in Igbo?",
+    "options": {
+      "A": "N",
+      "B": "A",
+      "C": "Ọ",
+      "D": "E"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "N is not a vowel in Igbo, it's a consonant",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73978",
+    "passage": ""
   }
 ]
