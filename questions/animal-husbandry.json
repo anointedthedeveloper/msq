@@ -185,5 +185,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49507",
     "passage": ""
+  },
+  {
+    "id": 49514,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following structures is part of the intestine of rabbits.",
+    "options": {
+      "A": "Caecum",
+      "B": "Gullet",
+      "C": "Ileum",
+      "D": "Rectum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Rabbits have a very large caecum, a specialized part of the intestine that ferments plant material and supports digestion. It is especially important because it contains bacteria that help break down fibrous foods like grass.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49514",
+    "passage": ""
   }
 ]
