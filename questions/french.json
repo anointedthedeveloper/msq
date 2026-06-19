@@ -2525,5 +2525,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71078",
     "passage": ""
+  },
+  {
+    "id": 71079,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceC'est non livre! C'est.",
+    "options": {
+      "A": "le miea",
+      "B": "la tinne.",
+      "C": "les tiens",
+      "D": "Je sien"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"C'est non livre! C'est\" translates to \"It's not my book! It's\" in English. However, the phrase is incomplete. It seems like there is a missing word or phrase after \"C'est.\" \"Les tiens\" means \"yours\" and is used to refer to something belonging to the person being addressed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71079",
+    "passage": ""
   }
 ]
