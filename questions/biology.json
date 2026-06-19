@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/331",
     "passage": ""
+  },
+  {
+    "id": 332,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "At fertilization",
+    "options": {
+      "A": "one chromosome from the male joins another from the female",
+      "B": "one gene from the male combines with another from the female",
+      "C": "the male nucleus fuses with the female nucleus",
+      "D": "one set of chromosome combines with another set from the female",
+      "E": "one cell from the male fuses with another from the female"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Fertilization is the union of a spermatozoal nucleus, of paternal origin, with an egg nucleus, of maternal origin, to form the primary nucleus of an embryo.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/332",
+    "passage": ""
   }
 ]
