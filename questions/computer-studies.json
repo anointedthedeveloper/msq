@@ -18075,5 +18075,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70759",
     "passage": ""
+  },
+  {
+    "id": 70760,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which key on a keyboard is used to access special functions like volume control or brightness?",
+    "options": {
+      "A": "Alphabetic key",
+      "B": "Numeric key",
+      "C": "Function key",
+      "D": "Cursor key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Function keys are often marked \"Fl \" to \"F12\" and perform specific actions depending on the software or computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70760",
+    "passage": ""
   }
 ]
