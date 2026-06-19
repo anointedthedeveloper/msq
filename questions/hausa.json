@@ -7130,5 +7130,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75960",
     "passage": ""
+  },
+  {
+    "id": 75961,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wanne salo ne ya fi yawa a cikin wakokin Hausa?",
+    "options": {
+      "A": "Tunanin zuciya",
+      "B": "Aunar magana",
+      "C": "Maimaitawa",
+      "D": "Washe-washe"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Repetition is a dominant stylistic feature in Hausa poetry for emphasis and rhythm.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75961",
+    "passage": ""
   }
 ]
