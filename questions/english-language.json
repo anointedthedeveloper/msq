@@ -3253,5 +3253,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1369",
     "passage": ""
+  },
+  {
+    "id": 1370,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five option : By the end of the next semester he .... his University education",
+    "options": {
+      "A": "would have completed",
+      "B": "will be completing",
+      "C": "shall have completed",
+      "D": "was completing",
+      "E": "must complete"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "'By the time' indicates the time of completion of an action in the future.\nThe auxiliary verb form should be will/shall plus the past participle form of the main verb.\nTraditionally, 'will' is used with the first person pronoun and 'shall' is used with the second and third person pronoun",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1370",
+    "passage": ""
   }
 ]
