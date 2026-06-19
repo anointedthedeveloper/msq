@@ -228,5 +228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72848",
     "passage": ""
+  },
+  {
+    "id": 72849,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The amount earned but is yet to be received at the end of the financial period is",
+    "options": {
+      "A": "prepaid revenue",
+      "B": "prepaid expenses",
+      "C": "accrued income",
+      "D": "accrued expenses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Accrued income is income due but not yet paid",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72849",
+    "passage": ""
   }
 ]
