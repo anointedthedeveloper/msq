@@ -10204,5 +10204,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14334",
     "passage": ""
+  },
+  {
+    "id": 14335,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The frequency of the wave in the diagram above is",
+    "options": {
+      "A": "0.17 Hz",
+      "B": "0.25 Hz",
+      "C": "1.57 Hz",
+      "D": "1.05 Hz"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9qywrChV7McmngFxiTuNxatr4xdl6tCREpIAUDb0.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890572/myschool/physics/9qywrChV7McmngFxiTuNxatr4xdl6tCREpIAUDb0.png",
+    "correct_answer": "B",
+    "explanation": "Generally, period T = 1/f(reciprocal of frequency). => f = 1/T And from the diagram, period T = 4s ∴ frequency, f = 1/T = 1/4 = 0.25 Hz\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14335",
+    "passage": ""
   }
 ]
