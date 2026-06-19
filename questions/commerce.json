@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/169",
     "passage": ""
+  },
+  {
+    "id": 170,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "A demonstration of social responsibility by a business is the payment of",
+    "options": {
+      "A": "taxes to government",
+      "B": "dividends to shareholders",
+      "C": "interests on loans",
+      "D": "premium on insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/170",
+    "passage": ""
   }
 ]
