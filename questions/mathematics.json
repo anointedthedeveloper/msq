@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/787",
     "passage": ""
+  },
+  {
+    "id": 788,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A frustrum of pyramid with square base has its upper and lower sections as squares of sizes 2m and 5m respectively and the distance between them 6m. Find the height of the pyramid from which the frustrum was obtained.",
+    "options": {
+      "A": "8.0 m",
+      "B": "8.4 m",
+      "C": "9.0 m",
+      "D": "10.0 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The lateral view of the frustrum\n\\(\\tan \\theta = \\frac{6}{1.5} = 4\\)\n\\(\\theta = \\tan^{-1} 4 = 75.96°\\)\nExtending to the full height of the pyramid, we have\nThe height of the pyramid which formed the frustrum = (6 + x)m,\n\\(\\tan 75.96 = \\frac{6 + x}{2.5}\\)\n\\(6 + x = 2.5 \\times 4 = 10.0\\)\n\\(\\therefore \\text{The height of the pyramid} = 10.0m\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "/storage/classroom/editor_images/IMG_20191025_111729%20%282%29.jpg",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/788",
+    "passage": ""
   }
 ]
