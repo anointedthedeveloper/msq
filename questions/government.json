@@ -5042,5 +5042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2201",
     "passage": ""
+  },
+  {
+    "id": 2203,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A major flaw in a liberal democracy is",
+    "options": {
+      "A": "the limitation of the freedom of expression",
+      "B": "its emphasis on political rights over economic rights",
+      "C": "that it promotes political instability",
+      "D": "its emphasis on collective ownership"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2203",
+    "passage": ""
   }
 ]
