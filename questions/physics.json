@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7308",
     "passage": ""
+  },
+  {
+    "id": 9032,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "when a piece of rectangular glass block is inserted between two parallel capacitor,at constant plate area and distance of separation, the capacitance of the capacitor will",
+    "options": {
+      "A": "increase",
+      "B": "decrease",
+      "C": "decrease then increase",
+      "D": "remain constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When you insert a dielectric material (like glass) between the plates, the permittivity ε increases because the dielectric constant k of glass is greater than that of air or vacuum. The new capacitance when a dielectric is inserted is given\nC′ = \\(\\frac{\\text{kεoA}}{\\text{d}}\\)\nwhere k is the dielectric constant of the glass, and ε\\(_0\\) is the permittivity of free space.\nSince k >1 for glass, inserting it increases the capacitance:\nC ′ = kC\nThus, with the glass block inserted, the capacitance C′ will be greater than the original capacitance C.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9032",
+    "passage": ""
   }
 ]
