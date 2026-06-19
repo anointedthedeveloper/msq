@@ -3316,5 +3316,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11743",
     "passage": ""
+  },
+  {
+    "id": 11745,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In the a.c circuit above, the current value is",
+    "options": {
+      "A": "0.58 A",
+      "B": "3.00 A",
+      "C": "4.00 A",
+      "D": "6.67 A"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4076704545_phy200049.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888769/myschool/physics/4076704545_phy200049.jpg",
+    "correct_answer": "C",
+    "explanation": "Impedance Z = \\(\\sqrt{R^2 + X^2}\\) = \\(\\sqrt{(30)^2 + (40)^2}\\) ∴ Z = \\(\\sqrt{2500}\\) = 50\\(\\Omega\\) But current I = \\(\\frac{V}{Z}\\) = \\(\\frac{200}{50}\\)  = 4.00 A\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11745",
+    "passage": ""
   }
 ]
