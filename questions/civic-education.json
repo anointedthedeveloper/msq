@@ -10411,5 +10411,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65928",
     "passage": ""
+  },
+  {
+    "id": 65929,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Which of the following is not a function of the judicial arm of government?",
+    "options": {
+      "A": "Interpretation of the law",
+      "B": "Judicial review",
+      "C": "Checking of arbitrariness",
+      "D": "Initiation of bills"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The initiation of bills is typically a function of the legislative arm of government, not the judicial arm. The judicial arm focuses on interpreting the law, conducting judicial review and checking for arbitrariness in the application of laws.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65929",
+    "passage": ""
   }
 ]
