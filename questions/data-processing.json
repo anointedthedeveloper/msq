@@ -3541,5 +3541,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58456",
     "passage": ""
+  },
+  {
+    "id": 58458,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following database operations does not require a Data Manipulation Language?",
+    "options": {
+      "A": "Modification of information",
+      "B": "Insertion of new information",
+      "C": "Deletion of information",
+      "D": "Creating of information"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Data manipulation language(DML) statements or commands are used for managing data within tables. A data manipulation language is a computer programming language used for adding(inserting), deleting, and modifying(updating) data in a database.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58458",
+    "passage": ""
   }
 ]
