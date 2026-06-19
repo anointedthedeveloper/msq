@@ -768,5 +768,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15840",
     "passage": ""
+  },
+  {
+    "id": 15841,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following farm animals possess a pair of caeca?",
+    "options": {
+      "A": "pigs",
+      "B": "cattles",
+      "C": "sheep",
+      "D": "rabbits",
+      "E": "fowls"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15841",
+    "passage": ""
   }
 ]
