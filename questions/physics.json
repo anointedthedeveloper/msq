@@ -9931,5 +9931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14313",
     "passage": ""
+  },
+  {
+    "id": 14314,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following has no effect on radiation?",
+    "options": {
+      "A": "nature of surface",
+      "B": "density",
+      "C": "surface area",
+      "D": "temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Radiation depends on nature of the surface area and temperature. It is independent of density.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14314",
+    "passage": ""
   }
 ]
