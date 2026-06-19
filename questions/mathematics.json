@@ -14482,5 +14482,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23108",
     "passage": ""
+  },
+  {
+    "id": 23109,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The angles of a pentagon are x°, 2x°, (x + 60)°, (x + 10)°, (x -10)°. Find the value of x.",
+    "options": {
+      "A": "40",
+      "B": "60",
+      "C": "75",
+      "D": "80",
+      "E": "90"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Sum of ∠s in a pentagon = (n - 2)180 = 540° x° + 2x° + x° + 60° + x° + 10° + x° - 10° = 540° 6x° + 60° = 540°; x = 80°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23109",
+    "passage": ""
   }
 ]
