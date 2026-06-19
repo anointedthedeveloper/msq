@@ -5168,5 +5168,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2392",
     "passage": ""
+  },
+  {
+    "id": 2393,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following diseases is NOT caused by a virus?",
+    "options": {
+      "A": "Rinderpest",
+      "B": "Maize rust",
+      "C": "Newcastle diseases",
+      "D": "Swine fever",
+      "E": "Cassava mosaic diseases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2393",
+    "passage": ""
   }
 ]
