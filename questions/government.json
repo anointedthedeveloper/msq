@@ -1007,5 +1007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/251",
     "passage": ""
+  },
+  {
+    "id": 253,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The main source of financing local government in Nigeria is",
+    "options": {
+      "A": "internal revenue generation",
+      "B": "statutory revenue allocation",
+      "C": "special state grants",
+      "D": "grants-in-aid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In Nigeria, the main source of financing for local governments is statutory revenue allocation . This refers to the funds allocated to local governments by the federal government, which come from a share of the country's national revenue. These allocations are distributed based on the principles set out in the Nigerian Constitution and the revenue-sharing formula.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/253",
+    "passage": ""
   }
 ]
