@@ -14884,5 +14884,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12975",
     "passage": ""
+  },
+  {
+    "id": 12981,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1991",
+    "question": "An iron ore is known to contain 70.0% Fe\n2\nO\n3\n. The obtain from 80kg of the ore is?\n(Fe = 56, O = 16)",
+    "options": {
+      "A": "35.0 kg",
+      "B": "39.2 kg",
+      "C": "70.0 kg",
+      "D": "78.4 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\n3\n2\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12981",
+    "passage": ""
   }
 ]
