@@ -4058,5 +4058,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62260",
     "passage": ""
+  },
+  {
+    "id": 62261,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "An example of a specific purpose application package is the?",
+    "options": {
+      "A": "payroll program.",
+      "B": "database program.",
+      "C": "spreadsheet program.",
+      "D": "word processing program"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A specific purpose application package is software that is designed to carry out a particular task. A payroll program is an example of this, designed specifically to manage and process payroll. e.g. Justworks, Paycor. etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62261",
+    "passage": ""
   }
 ]
