@@ -7768,5 +7768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69784",
     "passage": ""
+  },
+  {
+    "id": 69785,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 3 is a Microsoft Excel Worksheet. Use it to answer questions 20 and 21 .\nNET SALARY (N)\nFigure 3 What formula will calculate the total number of individuals who earn less than ₦500,000 from the table as shown in Figure 3 ?",
+    "options": {
+      "A": "=COUNT(E2:E5,",
+      "B": "=COUNT(E2:E5)",
+      "C": "=COUNTA(E2:E5)",
+      "D": "=COUNTIF(E2:E5,"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The formula that will calculate the total number of individuals who earn less than ₦500,000 from the table as shown in Figure 3 is COUNTIF(E2:E5, \"< 500,000\"). The COUNTIF function counts the number of cells that contain a specific value in a range. In this case, we want to count the number of cells in the E column that contain a value less than ₦500,000. The E column contains the net salaries of the individuals. Therefore, the COUNTIF function will return the total number of individuals who earn less than ₦500,000.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69785",
+    "passage": ""
   }
 ]
