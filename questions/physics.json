@@ -7873,5 +7873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14015",
     "passage": ""
+  },
+  {
+    "id": 14016,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Which of the following  is NOT a vector quantity?",
+    "options": {
+      "A": "altitude",
+      "B": "acceleration",
+      "C": "displacement",
+      "D": "weight"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14016",
+    "passage": ""
   }
 ]
