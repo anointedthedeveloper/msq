@@ -1867,5 +1867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73258",
     "passage": ""
+  },
+  {
+    "id": 73259,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The process of separating cotton fibres from the seeds is called",
+    "options": {
+      "A": "Carding",
+      "B": "Bailing",
+      "C": "Ginning",
+      "D": "Cleaning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ginning is the process of separating cotton fibers from seeds and debris using a machine called a cotton gin, which cleans the fibers for spinning into yarn.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73259",
+    "passage": ""
   }
 ]
