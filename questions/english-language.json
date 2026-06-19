@@ -1669,5 +1669,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/611",
     "passage": ""
+  },
+  {
+    "id": 612,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which\nbest complete\neach sentence:\nThey went to the market and bought a suitcase and .... bag",
+    "options": {
+      "A": "a big leather brown",
+      "B": "a leather brown big",
+      "C": "a big brown leather",
+      "D": "a brown big leather",
+      "E": "a leather big brown"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/612",
+    "passage": ""
   }
 ]
