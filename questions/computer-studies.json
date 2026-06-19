@@ -4457,5 +4457,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62279",
     "passage": ""
+  },
+  {
+    "id": 62280,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The shortcut command used in restarting a computer is?",
+    "options": {
+      "A": "Ctrl+ S.",
+      "B": "Ctrl+0.",
+      "C": "Del+Alt+S.",
+      "D": "Alt+Ctrl+Del."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62280",
+    "passage": ""
   }
 ]
