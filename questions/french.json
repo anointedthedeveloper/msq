@@ -2063,5 +2063,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48210",
     "passage": ""
+  },
+  {
+    "id": 48211,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Quel était le désir d'Amuku? C'etait ...",
+    "options": {
+      "A": "de fair de longs vovages",
+      "B": "de courur après les femmes",
+      "C": "de décevoir ses parents",
+      "D": "de faire du sport"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/FSxoCKD6V2AvBKrG0XqmnNZsi7k5SOiwmgkUJehN.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898491/myschool/french/FSxoCKD6V2AvBKrG0XqmnNZsi7k5SOiwmgkUJehN.png",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48211",
+    "passage": ""
   }
 ]
