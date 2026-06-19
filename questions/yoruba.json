@@ -2545,5 +2545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73085",
     "passage": ""
+  },
+  {
+    "id": 73086,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Kí ni aşo Ogún?",
+    "options": {
+      "A": "Beerę",
+      "B": "Màriwò",
+      "C": "Gbòdògi",
+      "D": "Ewéeran"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73086",
+    "passage": ""
   }
 ]
