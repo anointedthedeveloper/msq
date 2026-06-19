@@ -5457,5 +5457,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2519",
     "passage": ""
+  },
+  {
+    "id": 2520,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Chlorine gas turns a damp starch-iodide paper",
+    "options": {
+      "A": "pink",
+      "B": "colourless",
+      "C": "red",
+      "D": "dark blue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Chlorine gas turns damp starch-iodide paper blue-black.\nThe chlorine oxidizes the iodide ions on the paper into iodine, which then reacts with the starch to produce a blue-black compound. Chemical reaction : The chemical reaction is:\nCl\\(_2\\)(aq)   + 2I\\(^−\\)(aq) → I\\(_2\\)(aq) + 2Cl\\(^−\\)(aq)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2520",
+    "passage": ""
   }
 ]
