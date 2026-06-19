@@ -2371,5 +2371,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73286",
     "passage": ""
+  },
+  {
+    "id": 73287,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Which of these is not a cosmetic?",
+    "options": {
+      "A": "Lipstick",
+      "B": "Powder",
+      "C": "Perfume",
+      "D": "Soap"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Soap is a personal care product used for cleaning, not for beautification or adornment. Soap is a cleansing product used for washing and cleaning the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73287",
+    "passage": ""
   }
 ]
