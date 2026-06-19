@@ -8902,5 +8902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14181",
     "passage": ""
+  },
+  {
+    "id": 14185,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A heating coil rated 1000 W is used to boil off completely 2 kg of boiling water. The time required to boil the water is? [Special latent heat of Vaporization of water = 2.3 x 10\\(^6\\) Jkg-1]",
+    "options": {
+      "A": "1.15 x 10 4 s",
+      "B": "1.15 x 10 3 s",
+      "C": "4.6 x 10 4 s",
+      "D": "4.6 x 10 3 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Heat supplied = Heat gained pt = ml T = \\(\\frac{ml}{p}\\)\n= \\(\\frac{2 \\times 2.3 \\times 10^6}{1000}\\)\n= 4.6 x 10\\(^3\\) sec\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14185",
+    "passage": ""
   }
 ]
