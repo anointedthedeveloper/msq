@@ -3505,5 +3505,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11871",
     "passage": ""
+  },
+  {
+    "id": 11875,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "In the diagram above, determine the r.m.s current",
+    "options": {
+      "A": "31A",
+      "B": "48A",
+      "C": "60A",
+      "D": "80A"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/20384433705_phy200138.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888845/myschool/physics/20384433705_phy200138.jpg",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11875",
+    "passage": ""
   }
 ]
