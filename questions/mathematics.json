@@ -3253,5 +3253,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7715",
     "passage": ""
+  },
+  {
+    "id": 7718,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the range of \\(\\frac{1}{6}\\), \\(\\frac{1}{3}\\), \\(\\frac{3}{2}\\), \\(\\frac{2}{3}\\), \\(\\frac{8}{9}\\), and \\(\\frac{4}{3}\\)",
+    "options": {
+      "A": "3/4",
+      "B": "5/6",
+      "C": "7/6",
+      "D": "4/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{1}{6}\\), \\(\\frac{1}{3}\\), \\(\\frac{3}{2}\\), \\(\\frac{2}{3}\\), \\(\\frac{8}{9}\\) and \\(\\frac{4}{3}\\). L.C.M of the denominators = 36 The fraction now becomes \\(\\frac{6}{36}\\), \\(\\frac{12}{36}\\), \\(\\frac{54}{36}\\), \\(\\frac{24}{36}\\), \\(\\frac{32}{36}\\), and \\(\\frac{48}{36}\\). Highest fraction = \\(\\frac{54}{36}\\) Lowest fraction = \\(\\frac{6}{36}\\) Range = Highest - Lowest ( \\(\\frac{54}{36}\\)) - ( \\(\\frac{6}{36}\\)) = \\(\\frac{48}{36}\\) = \\(\\frac{4}{3}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7718",
+    "passage": ""
   }
 ]
