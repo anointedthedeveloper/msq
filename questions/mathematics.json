@@ -9301,5 +9301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9425",
     "passage": ""
+  },
+  {
+    "id": 9455,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In how many ways can 9 people be seated if 3 chairs are available?",
+    "options": {
+      "A": "720",
+      "B": "504",
+      "C": "336",
+      "D": "210"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To find the number of ways to seat 9 people in 3 chairs, we use the permutation formula:\n\\(P(n, r) = \\frac{n!}{(n - r)!}\\)\nwhere \\( n \\) is the total number of people and \\( r \\) is the number of chairs. Here, \\( n = 9 \\) and \\( r = 3 \\):\n\\(P(9, 3) = \\frac{9!}{(9 - 3)!} = \\frac{9!}{6!}\\)\nCalculating this, we have:\n\\(P(9, 3) = 9 \\times 8 \\times 7 = 504\\)\nThus, the number of ways to seat 9 people in 3 chairs is 504 ways\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9455",
+    "passage": ""
   }
 ]
