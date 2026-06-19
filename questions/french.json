@@ -2860,5 +2860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71094",
     "passage": ""
+  },
+  {
+    "id": 71095,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Au Nigéria, la plupart des pècheurs (vivre) au bord des fleuves.",
+    "options": {
+      "A": "vivez",
+      "B": "vit",
+      "C": "vis",
+      "D": "vivent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is vivent The correct sentence would be: \"Au Nigéria, la plupart des pêcheurs vivent au bord des fleuves.\" Which translates to \"In Nigeria, most fishermen live along the rivers.\" The subject of the sentence is \"la plupart des pêcheurs\" (most fishermen), which is a third person plural noun phrase, so the verb \"vivre\" must be conjugated in the third person plural form, which is \"vivent\". Here's a breakdown of the other options: vis (first person singular, \"I live\") vit (third person singular, \"he/she/it lives\") vivez (second person plural, \"you live\" - formal or plural form",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71095",
+    "passage": ""
   }
 ]
