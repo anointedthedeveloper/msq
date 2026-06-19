@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/20",
     "passage": ""
+  },
+  {
+    "id": 21,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1988",
+    "question": "Tope bought X oranges at N5.00 each and some mangoes at N4.00 each. if she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of values of X.",
+    "options": {
+      "A": "4≤X≤5",
+      "B": "5≤X≤8",
+      "C": "5≤X≤10",
+      "D": "8≤X≤10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Number of oranges = X; Costing N5X.\nNumber of mangoes = 2X; Costing N8X.\n\\(\\therefore 65 \\leq 5X + 8X \\leq 130\\)\n\\(5 \\leq X \\leq 10\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/21",
+    "passage": ""
   }
 ]
