@@ -7852,5 +7852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3278",
     "passage": ""
+  },
+  {
+    "id": 3279,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Dynamic equilibrium describes a situation where",
+    "options": {
+      "A": "a reaction gives back the reactant",
+      "B": "the concentration of the reactant and products is equal",
+      "C": "both forward and reverse reactions proceed at the same rate",
+      "D": "reactants are converted to products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Dynamic equilibrium is a state of balance between opposing forces or reactions that occurs when the forward and reverse reactions happen at the same rate.\nIn chemistry, dynamic equilibrium occurs when a reversible reaction reaches a state where the forward and backward reactions occur at the same rate. The concentrations of the reactants and products remain constant. Dynamic equilibrium can be achieved in a closed container where none of the reactants or products can escape.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3279",
+    "passage": ""
   }
 ]
