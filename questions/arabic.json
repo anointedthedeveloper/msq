@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75280",
     "passage": ""
+  },
+  {
+    "id": 75283,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "عند وصف رحلة مدرسية، من الأفضل استخدام؟",
+    "options": {
+      "A": "أسلوب السؤال",
+      "B": "الأسلوب القصصي",
+      "C": "الأسلوب الخطابي",
+      "D": "السجع الديني"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Narrative style suits travel or personal experience writing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75283",
+    "passage": ""
   }
 ]
