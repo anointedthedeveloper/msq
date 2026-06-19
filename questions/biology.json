@@ -2594,5 +2594,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1236",
     "passage": ""
+  },
+  {
+    "id": 1237,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The tips of some rice seedlings were cut off while some were left intact. Both were covered with a container which had not only one small hole to allow light through. After twenty-four hours it was observed that",
+    "options": {
+      "A": "the cut tips was bent away from the light",
+      "B": "the cut tips bent towards source of light",
+      "C": "the intact tips bent away from the light",
+      "D": "the intact tips bent towards the light",
+      "E": "both tips bent away from light"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1237",
+    "passage": ""
   }
 ]
