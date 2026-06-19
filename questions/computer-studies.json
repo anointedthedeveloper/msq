@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/59431",
     "passage": ""
+  },
+  {
+    "id": 59436,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following devices is not a micro computer?",
+    "options": {
+      "A": "Note book",
+      "B": "Laptop",
+      "C": "EDVAC",
+      "D": "Desktop"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "- EDVAC (Electronic Discrete Variable Automatic Computer ) was one of the earliest electronic computers\n- The EDVAC was a binary serial computer with automatic addition, subtraction, multiplication, programmed division and automatic checking with an ultrasonic serial memory capacity of 1,000 44-bit words (later 1,024 words, thus giving a memory, in modern terms, of 5.5 kilobytes).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/59436",
+    "passage": ""
   }
 ]
