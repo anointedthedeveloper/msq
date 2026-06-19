@@ -2896,5 +2896,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11171",
     "passage": ""
+  },
+  {
+    "id": 11174,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the J-tube above, Y and X are on the same horizontal level and 30cm3 of air is trapped above Y when the atmospheric pressure is 75cm Hg, calculate the volume of air trapped above Y when 15cm Hg is now poured into the limb above X",
+    "options": {
+      "A": "15 cm 3",
+      "B": "25 cm 3",
+      "C": "35 cm 3",
+      "D": "45 cm 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8151046614_phy199916.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888552/myschool/physics/8151046614_phy199916.jpg",
+    "correct_answer": "B",
+    "explanation": "Since the temperature of the air is to remain constant, => P\\(_1\\)V\\(_1\\) = P\\(_2\\)V\\(_2\\) ∴ 75 x 30 = (75 + 15) x V\\(_2\\) 75 x 30 = 90 x V\\(_2\\)\nV\\(_2\\) = \\(\\frac{75 \\times 30}{90}\\)\n\\(\\frac{2250}{90}\\) = 25cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11174",
+    "passage": ""
   }
 ]
