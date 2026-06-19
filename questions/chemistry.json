@@ -12619,5 +12619,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4687",
     "passage": ""
+  },
+  {
+    "id": 4689,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The compound that is used as an anesthetic is?",
+    "options": {
+      "A": "CCl 4",
+      "B": "CH Cl 3",
+      "C": "CH 2 Cl 2",
+      "D": "CH 3 Cl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "- Chloroform / tricholoromethane ( CHCl\\(_3\\) ) is a potent anaesthetic agent.\n- Though Chloroform is no longer used as an anaesthetic for several reasons, the most important of which is the relatively high risk of complications, including possible heart failure\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4689",
+    "passage": ""
   }
 ]
