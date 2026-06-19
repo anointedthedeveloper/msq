@@ -15486,5 +15486,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67773",
     "passage": ""
+  },
+  {
+    "id": 67774,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are the methods of file security except",
+    "options": {
+      "A": "hacking",
+      "B": "use of password",
+      "C": "Use of back up",
+      "D": "Use of Anti-virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The methods of file security are - Use of back-ups - Use of anti-virus - Password - Proper label of storage devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67774",
+    "passage": ""
   }
 ]
