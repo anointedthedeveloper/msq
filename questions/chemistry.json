@@ -2769,5 +2769,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1571",
     "passage": ""
+  },
+  {
+    "id": 1572,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The reaction of carbide with water gives",
+    "options": {
+      "A": "ethyne",
+      "B": "ethene",
+      "C": "ethane",
+      "D": "ethanal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When calcium carbide reacts with water, it produces acetylene(also known as ethyne) gas and calcium hydroxide\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1572",
+    "passage": ""
   }
 ]
