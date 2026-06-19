@@ -3297,5 +3297,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1371",
     "passage": ""
+  },
+  {
+    "id": 1939,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options The students .... so much noise while the lecturer had to walk out of the class",
+    "options": {
+      "A": "made",
+      "B": "had been making",
+      "C": "were making",
+      "D": "had made",
+      "E": "would have been making"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C. \"were making\" is the most appropriate because it indicates an ongoing action in the past. It suggests that the students were continuously making noise during the lecture, which led to the lecturer walking out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1939",
+    "passage": ""
   }
 ]
