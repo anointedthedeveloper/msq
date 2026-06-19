@@ -313,5 +313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48031",
     "passage": ""
+  },
+  {
+    "id": 48032,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The use of lines to describe an object is known as",
+    "options": {
+      "A": "drawing",
+      "B": "pottery",
+      "C": "painting",
+      "D": "graphics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48032",
+    "passage": ""
   }
 ]
