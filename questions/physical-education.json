@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64263",
     "passage": ""
+  },
+  {
+    "id": 64264,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are components of physical fitness except",
+    "options": {
+      "A": "Agility",
+      "B": "Balance",
+      "C": "Endurance",
+      "D": "Stability"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Stability is not a component of physical fitness.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64264",
+    "passage": ""
   }
 ]
