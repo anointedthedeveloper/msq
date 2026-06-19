@@ -12348,5 +12348,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7270",
     "passage": ""
+  },
+  {
+    "id": 7272,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the permanent storage device, DASD means?",
+    "options": {
+      "A": "Data Access Storage Device",
+      "B": "Data Access Systems Device",
+      "C": "Direct Access Systems Device",
+      "D": "Direct Access Storage Device"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "DASD means direct-access storage device and it is a secondary storage device that stores data in discrete locations with a unique address, such as hard disk drives, optical drives, and most magnetic storage devices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7272",
+    "passage": ""
   }
 ]
