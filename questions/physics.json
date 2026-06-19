@@ -15669,5 +15669,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24206",
     "passage": ""
+  },
+  {
+    "id": 24245,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "What change in velocity would be produced on a body of mass 4kg if a constant force of 16 N acts on it for2 s?",
+    "options": {
+      "A": "0.5 ms -1",
+      "B": "2.0ms -1",
+      "C": "8.0 ms -1",
+      "D": "32.0 ms -1",
+      "E": "128.0 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "F = m(v - u) / t ; (v - u) = Ft / m = 8.0",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24245",
+    "passage": ""
   }
 ]
