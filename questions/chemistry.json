@@ -6864,5 +6864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2959",
     "passage": ""
+  },
+  {
+    "id": 2960,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "When sulphur (IV) oxide is passed into a solution of sodium hydroxide for a long time, it eventually produces a solution of",
+    "options": {
+      "A": "NaHSO 4",
+      "B": "Na 2 SO 3",
+      "C": "NaHSO 3",
+      "D": "Na 2 SO 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When sulphur dioxide (SO₂) reacts with a solution of sodium hydroxide (NaOH), it forms sodium sulphite (Na₂SO₃) and water (H₂O). The balanced chemical equation for this reaction is: SO\\(_2\\)(g) + 2NaOH(aq) → Na\\(_2\\)SO\\(_3\\)(aq) + H\\(_2\\)O(l).\nWhen the gas is passed for a long time, the solution becomes saturated with SO\\(_2\\)(excess). The initially formed sodium sulfite reacts further with the excess SO2 and water to produce sodium hydrogen sulphite, NaHSO\\(_3\\)(Sodium bisulphite)\nNa\\(_2\\)SO\\(_3\\) + H\\(_2\\)O + SO\\(_2\\) →   2NaHSO\\(_3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2960",
+    "passage": ""
   }
 ]
