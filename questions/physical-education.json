@@ -5898,5 +5898,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76392",
     "passage": ""
+  },
+  {
+    "id": 76393,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is one of the key indicators a physical education teacher would look for to identify potential scoliosis in a student?",
+    "options": {
+      "A": "One shoulder or hip appearing higher than the other.",
+      "B": "A rounded, hunchback appearance of the upper back.",
+      "C": "A collapsed arch in the foot.",
+      "D": "An inward curvature of the lower back."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Scoliosis is characterized by an abnormal lateral curvature of the spine. One of the most noticeable signs, especially during physical examination in a school setting, is asymmetry in the shoulders or hips - where one shoulder or hip appears visibly higher or more prominent than the other. This unevenness results from the sideways bending and rotation of the spine.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76393",
+    "passage": ""
   }
 ]
