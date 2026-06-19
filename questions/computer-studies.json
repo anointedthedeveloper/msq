@@ -14707,5 +14707,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64897",
     "passage": ""
+  },
+  {
+    "id": 64898,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One function of operating system is ?",
+    "options": {
+      "A": "power supply allocation",
+      "B": "file corruption and deletion",
+      "C": "flowcharting",
+      "D": "resource allocation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Resource allocation : the operating system ensures the proper use of all the resources available by deciding which resource to be used by whom for how much time. All the decisions are taken by the operating system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64898",
+    "passage": ""
   }
 ]
