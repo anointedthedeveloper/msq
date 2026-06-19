@@ -1825,5 +1825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75319",
     "passage": ""
+  },
+  {
+    "id": 75324,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of these is NOT a type of art?",
+    "options": {
+      "A": "Performing art",
+      "B": "Ethical art",
+      "C": "Culinary art",
+      "D": "Visual art"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ethical art is not a recognized art form, while the others are valid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75324",
+    "passage": ""
   }
 ]
