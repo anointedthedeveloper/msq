@@ -10540,5 +10540,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4272",
     "passage": ""
+  },
+  {
+    "id": 4274,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Reduction of alkanones with LialH4 produces",
+    "options": {
+      "A": "primary alkanols",
+      "B": "secondary alkanols",
+      "C": "tertiary alkanols",
+      "D": "polyhydric alkanols"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Reduction of alkanones with \\(LiAlH_4\\) produces secondary alkanols.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4274",
+    "passage": ""
   }
 ]
