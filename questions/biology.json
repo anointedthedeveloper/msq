@@ -5278,5 +5278,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2397",
     "passage": ""
+  },
+  {
+    "id": 2398,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "One disease NOT caused directly by bacteria is",
+    "options": {
+      "A": "malaria",
+      "B": "tuberculosis",
+      "C": "pneumonia",
+      "D": "tetanus",
+      "E": "cholera"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Malaria is not caused by bacteria; it is caused by a parasite of the genus Plasmodium, which is transmitted to humans through the bites of infected female Anopheles mosquitoes. These parasites invade red blood cells and cause the symptoms of malaria. Malaria is not a bacterial infection, and treating it with antibiotics will not be effective.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2398",
+    "passage": ""
   }
 ]
