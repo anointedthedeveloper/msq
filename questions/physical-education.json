@@ -4323,5 +4323,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70741",
     "passage": ""
+  },
+  {
+    "id": 70742,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the standard height of a badminton net?",
+    "options": {
+      "A": "1.55 meters",
+      "B": "1.75 meters",
+      "C": "1.30 meters",
+      "D": "1.20 meters"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The badminton court has two halves measuring 6.7m (22 feet) each and separated by a badminton net that stands at a height of 1.55m (5 feet 1in) at the ends and dips to 1.52m (5 feet) in the middle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70742",
+    "passage": ""
   }
 ]
