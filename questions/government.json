@@ -15671,5 +15671,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/16633",
     "passage": ""
+  },
+  {
+    "id": 16637,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The mechanism used to limit a parliamentary debate is known as",
+    "options": {
+      "A": "guillotine",
+      "B": "prerogative",
+      "C": "abrogation",
+      "D": "adjournment",
+      "E": "dissolution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In parliamentary procedure, the guillotine is a mechanism used to limit or end a debate on a specific issue or piece of legislation. It is employed to ensure that the legislative body does not spend an excessive amount of time on one particular topic and can move on to other matters. The guillotine sets a time limit on debates or specifies that a particular bill must be voted on after a certain period, preventing endless discussion or filibustering.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/16637",
+    "passage": ""
   }
 ]
