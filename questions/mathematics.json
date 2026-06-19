@@ -15120,5 +15120,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23159",
     "passage": ""
+  },
+  {
+    "id": 23160,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "In the diagram above, O is the center of the circle PQRS and ∠QPS = 36°. Find ∠QOS",
+    "options": {
+      "A": "36 o",
+      "B": "72 o",
+      "C": "108 o",
+      "D": "144 o",
+      "E": "288 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1384446360_wcmath199222.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909676/myschool/mathematics/1384446360_wcmath199222.jpg",
+    "correct_answer": "B",
+    "explanation": "< QOS = 2 < QPS (angle subtended at the centre)\n\\(\\therefore\\) < QOS = 2 x 36° = 72°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23160",
+    "passage": ""
   }
 ]
