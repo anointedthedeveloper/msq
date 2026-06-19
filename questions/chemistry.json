@@ -12136,5 +12136,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4485",
     "passage": ""
+  },
+  {
+    "id": 4486,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "What quantity of aluminum is deposited when a current of 10A is passed through a solution of an aluminum salt for 1930s? [Al = 27, F = 96500 C mol -1]",
+    "options": {
+      "A": "0.2 g",
+      "B": "1.8 g",
+      "C": "5.4 g",
+      "D": "14.2 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Q = It = 10 x 1930 ( given)\n27g → 3F( since aluminum is trivalent)\n27g → 3 x 96500\nx → 19300\nx = \\(\\frac{27 \\times 19300}{3 \\times 96500}\\)\nx = 1.8g\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4486",
+    "passage": ""
   }
 ]
