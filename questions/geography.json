@@ -1735,5 +1735,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1038",
     "passage": ""
+  },
+  {
+    "id": 1039,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A soft, black opaque carbonaceous rock that can be used to make pencils is",
+    "options": {
+      "A": "lignite",
+      "B": "graphite",
+      "C": "lead",
+      "D": "coal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1039",
+    "passage": ""
   }
 ]
