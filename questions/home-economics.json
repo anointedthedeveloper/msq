@@ -1573,5 +1573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73242",
     "passage": ""
+  },
+  {
+    "id": 73243,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "At what month does a child attain a good posture?",
+    "options": {
+      "A": "Six",
+      "B": "One",
+      "C": "Two",
+      "D": "Four"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A child typically develops a good posture around 6 months of age. At this stage, they start to gain control over their neck and back muscles, allowing them to maintain a straighter posture while sitting and standing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73243",
+    "passage": ""
   }
 ]
