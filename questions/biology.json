@@ -4750,5 +4750,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2302",
     "passage": ""
+  },
+  {
+    "id": 2303,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "When a person with blood belonging to group O has lost much blood due to an accident, he can be given blood from persons who have blood belonging to",
+    "options": {
+      "A": "group O only",
+      "B": "group A only",
+      "C": "group AB only",
+      "D": "groups A and O",
+      "E": "groups AB and O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2303",
+    "passage": ""
   }
 ]
