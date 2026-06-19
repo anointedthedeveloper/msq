@@ -5100,5 +5100,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2261",
     "passage": ""
+  },
+  {
+    "id": 2262,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "When 10g of sodium hydroxide is dissolved in 1000cm\\(^3\\) of water, the sodium formed is approximately [Na = 23, H = 1, O = 16]",
+    "options": {
+      "A": "0.01 mol dm -3",
+      "B": "0.10 mol dm -3",
+      "C": "0.25 mol dm -3",
+      "D": "0.50 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Note that   Number of moles =  \\(\\frac{mass}{Molar mass}\\)\nn =  \\(\\frac{10}{40}\\) = 0.25 mol.\n⇒  0.25 mol of Sodium hydroxide is dissolved in 1000cm\\(^3\\) = 1 dm\\(^3\\)\ni.e 0.25mol dm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2262",
+    "passage": ""
   }
 ]
