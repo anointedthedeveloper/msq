@@ -12015,5 +12015,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14503",
     "passage": ""
+  },
+  {
+    "id": 14504,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Calculate the e.m.f of the cell in the above circuit if its internal resistance is negligible",
+    "options": {
+      "A": "12 V",
+      "B": "8 V",
+      "C": "2 V",
+      "D": "36 V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17733488513_phy200940.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891087/myschool/physics/17733488513_phy200940.jpg",
+    "correct_answer": "B",
+    "explanation": "1/R = 1/R1 + 1/R2 = 1/3 + 1/6 = 3/6 ∴ R = 6/3 = 2 E = I(R + r) = 4(2 + 0) = 8v\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14504",
+    "passage": ""
   }
 ]
