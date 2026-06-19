@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66201",
     "passage": ""
+  },
+  {
+    "id": 66205,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The tenure of an ad-hoc committee is",
+    "options": {
+      "A": "six month only",
+      "B": "one year only",
+      "C": "the period of its assignment",
+      "D": "determined by the chairman"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ad-hoc committee is setup to organise a special assignment and their tenure is six month only.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66205",
+    "passage": ""
   }
 ]
