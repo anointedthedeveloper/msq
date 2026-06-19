@@ -14548,5 +14548,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23112",
     "passage": ""
+  },
+  {
+    "id": 23113,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above, O is the center of the circle, |SQ| = |QR| and ∠PQR = 68°. Calculate ∠PRS",
+    "options": {
+      "A": "34 o",
+      "B": "45 o",
+      "C": "56 o",
+      "D": "62 o",
+      "E": "68 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/Q9s0qwFXKqhEibVXpyJcEGtg4bdcgOQl4ORNMpJh.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909365/myschool/mathematics/Q9s0qwFXKqhEibVXpyJcEGtg4bdcgOQl4ORNMpJh.png",
+    "correct_answer": "A",
+    "explanation": "From the figure, < PQR = 68°\n\\(\\therefore\\) < QRS = < QSR = \\(\\frac{180 - 68}{2}\\) (base angles of an isos. triangle)\n= 56°\n\\(\\therefore\\) < PRS = 90° - 56° = 34° (angles in a semi-circle)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23113",
+    "passage": ""
   }
 ]
