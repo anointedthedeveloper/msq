@@ -2462,5 +2462,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1176",
     "passage": ""
+  },
+  {
+    "id": 1177,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following hormones is produced during fright or when agitated?",
+    "options": {
+      "A": "Insulin",
+      "B": "Adrenalin",
+      "C": "Thyroxine",
+      "D": "Pituitrin",
+      "E": "Progesterone"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1177",
+    "passage": ""
   }
 ]
