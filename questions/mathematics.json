@@ -11581,5 +11581,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22344",
     "passage": ""
+  },
+  {
+    "id": 22345,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Evaluate, using logarithm tables \\(\\frac{5.34 \\times 67.4}{2.7}\\)",
+    "options": {
+      "A": "1.332",
+      "B": "13.32",
+      "C": "133.2",
+      "D": "1332",
+      "E": "13.320"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "No Log 5.34 0.7275 + 67.4 1.8287 2.5562 - 2.7 0.4314 Antilog = 133.2 2.1248\n\\(\\therefore \\frac{5.34 \\times 67.4}{2.7} = 133.2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22345",
+    "passage": ""
   }
 ]
