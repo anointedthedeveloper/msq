@@ -9364,5 +9364,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9569",
     "passage": ""
+  },
+  {
+    "id": 9642,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Rationalize \\(\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}}\\)",
+    "options": {
+      "A": "(3 √ 15 +11) / 2",
+      "B": "3 √ 15 -11",
+      "C": "(3 √ 15 -11) / 2",
+      "D": "3 √ 15 +11"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}}\\)\n= \\((\\frac{2\\sqrt{3} + \\sqrt{5}}{\\sqrt{5} - \\sqrt{3}})(\\frac{\\sqrt{5} + \\sqrt{3}}{\\sqrt{5} + \\sqrt{3}})\\)\n= \\(\\frac{2\\sqrt{15} + 6 + 5 + \\sqrt{15}}{5 - 3}\\)\n= \\(\\frac{3\\sqrt{15} + 11}{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9642",
+    "passage": ""
   }
 ]

@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50009",
     "passage": ""
+  },
+  {
+    "id": 50011,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A common repercussion for drug abuse is?",
+    "options": {
+      "A": "medication",
+      "B": "rehabilitation",
+      "C": "brain drain",
+      "D": "memory loss"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Drug abuse can have a serious, life-changing impact on your child: their physical and mental health is at stake. The human brain is the most complex organ in the human body. Although it may weigh less than 3 pounds, it some what mysteriously controls both your thoughts and the physiological processes that keep you alive. Drugs and alcohol change the way you feel by altering the chemicals that keep your brain working smoothly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50011",
+    "passage": ""
   }
 ]
