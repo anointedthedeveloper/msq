@@ -16065,5 +16065,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24262",
     "passage": ""
+  },
+  {
+    "id": 24263,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A ray of light strikes a plane mirror at an angle of incidence i. Determine in terms of i the angle of deviation of the ray after reflection from the mirror.",
+    "options": {
+      "A": "i",
+      "B": "2i",
+      "C": "90 o -i",
+      "D": "90 o + i",
+      "E": "180 o - 2i"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "the angle of deviation = 180 - the angle of incidence - the angle of reflection\nbut angle of incidence = angle of reflection(snell's law)\nthen angle of deviation = 180 - 2i",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24263",
+    "passage": ""
   }
 ]
