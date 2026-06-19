@@ -16176,5 +16176,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23207",
     "passage": ""
+  },
+  {
+    "id": 23208,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In the diagram above, |PQ| = |QR|, |PS| = |RS|, ∠PSR = 30o and ∠PQR = 80o. Find ∠SPQ.",
+    "options": {
+      "A": "15 o",
+      "B": "25 o",
+      "C": "40 o",
+      "D": "50 o",
+      "E": "55 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/qYdavFWIaGTgKBA4jaJHUQ4bWW7zCjhF4Ar5PqZL.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910132/myschool/mathematics/qYdavFWIaGTgKBA4jaJHUQ4bWW7zCjhF4Ar5PqZL.png",
+    "correct_answer": "B",
+    "explanation": "Join PR QRP = QPR = 180 - 80 = \\(\\frac{100}{20}\\) = 50º SRP = SPR = 180 - 30 = \\(\\frac{150}{2}\\) = 75º ∴ SPQ = SPR - QPR = 75 - 50 = 25º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23208",
+    "passage": ""
   }
 ]
