@@ -15515,5 +15515,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24168",
     "passage": ""
+  },
+  {
+    "id": 24169,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A metal is illuminated with a radiation of energy 6.88eV If the kinetic energy of the emitted electrons is 1.5OeV, calculate the work function of the metal.",
+    "options": {
+      "A": "0.22eV",
+      "B": "4.59eV",
+      "C": "5.38eV",
+      "D": "8.38eV",
+      "E": "10.32eV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24169",
+    "passage": ""
   }
 ]
