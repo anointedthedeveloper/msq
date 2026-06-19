@@ -5292,5 +5292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62410",
     "passage": ""
+  },
+  {
+    "id": 62411,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following best represents the sequence of output from the program?",
+    "options": {
+      "A": "2,4",
+      "B": "4, 20, 36",
+      "C": "4, 16, 36, 64",
+      "D": "4, 20, 56, 120"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62411",
+    "passage": ""
   }
 ]
