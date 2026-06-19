@@ -3408,5 +3408,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61854",
     "passage": ""
+  },
+  {
+    "id": 61855,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The maximum length of 10 base T unshielded twisted pair cable in meters is?",
+    "options": {
+      "A": "100",
+      "B": "185",
+      "C": "500",
+      "D": "2000",
+      "E": "3000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61855",
+    "passage": ""
   }
 ]
