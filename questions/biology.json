@@ -922,5 +922,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/378",
     "passage": ""
+  },
+  {
+    "id": 379,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these is the  terminal portion of the alimentary canal of a mammal?",
+    "options": {
+      "A": "Oesophagus",
+      "B": "Stomach",
+      "C": "Rectum",
+      "D": "Colon",
+      "E": "Appendix"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/379",
+    "passage": ""
   }
 ]
