@@ -9784,5 +9784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14298",
     "passage": ""
+  },
+  {
+    "id": 14299,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "One special advantage of alcohol over mercury as a thermometric liquid is its?",
+    "options": {
+      "A": "low density",
+      "B": "low freezing point",
+      "C": "high specific",
+      "D": "low boiling point"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The low freezing point of alcohol, -115°c enable low temperatures to be measured. mercury freezes at 39°c, and cannot be used in countries like Russia where winter temperatures of -40°c are common\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14299",
+    "passage": ""
   }
 ]
