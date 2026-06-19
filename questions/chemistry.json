@@ -10666,5 +10666,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4286",
     "passage": ""
+  },
+  {
+    "id": 4287,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The percentage of water of crystallization in ZnSO\\(_4\\).7H\\(_2\\)O is? [Zn = 65, S = 32, O = 16, H = 1]",
+    "options": {
+      "A": "33%",
+      "B": "44%",
+      "C": "55%",
+      "D": "87%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "molar mass of water [7H\\(_2\\)O] = 7[ 2 * 1 + 16] → 7 * 18 = 126g/mol\nmolar mass of ZnSO\\(_4\\).7H\\(_2\\)O = [65 * 1] + [32 * 1] + [16 * 4] + 7[ 2 * 1 + 16]\n→ 65 + 32 + 64 + 126 = 287g/mol\npercentage of water of crystallization = \\(\\frac{mass of water of crystallization}{mass of hydrated compound} * 100%\\)\n→ \\(\\frac{126}{287} * 100\\) = 43.9\n≈ 44%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4287",
+    "passage": ""
   }
 ]
