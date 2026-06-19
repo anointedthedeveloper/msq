@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73224",
     "passage": ""
+  },
+  {
+    "id": 73225,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "When picking snacks, hand contact can be avoided by using",
+    "options": {
+      "A": "Ladle",
+      "B": "Tongs",
+      "C": "Knives",
+      "D": "Spatula"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Using tongs to pick up snacks allows you to handle them without direct hand contact, which can help prevent the spread of germs and keep your hands clean.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73225",
+    "passage": ""
   }
 ]
