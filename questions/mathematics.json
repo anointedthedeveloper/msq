@@ -16572,5 +16572,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23226",
     "passage": ""
+  },
+  {
+    "id": 23227,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The distribution by state of 840 students in the Faculty of Science of a Nigerian University in a certain session is as follows:\nIn a pie chart drawn to represent this distribution, the angle subtended by Ondo is",
+    "options": {
+      "A": "36 o",
+      "B": "42 o",
+      "C": "45 o",
+      "D": "48 o",
+      "E": "54 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Ondo = \\(\\frac{126}{840} \\times 360°\\)\n= \\(54°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23227",
+    "passage": ""
   }
 ]
