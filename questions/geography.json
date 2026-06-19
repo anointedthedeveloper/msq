@@ -3637,5 +3637,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6411",
     "passage": ""
+  },
+  {
+    "id": 6412,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following is a correct pair?",
+    "options": {
+      "A": "Glacier/Erratic boulder",
+      "B": "Desert/Cavern",
+      "C": "Limestone/Pass",
+      "D": "Mountain/Stalagmite",
+      "E": "River/Cut-off"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6412",
+    "passage": ""
   }
 ]
