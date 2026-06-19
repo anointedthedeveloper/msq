@@ -8230,5 +8230,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9294",
     "passage": ""
+  },
+  {
+    "id": 9295,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "What is the mean of the data t, 2t-1, t-2, 2t -1, 4t and 2t+2?",
+    "options": {
+      "A": "2t",
+      "B": "2t-1",
+      "C": "2 / 3 t+1",
+      "D": "2t- 1 / 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(Mean = \\frac{t+2t-1+t-2+2t-1+4t+2t+2}{6}\\) Mean = \\(\\frac{12t-2}{6}\\) =\\(\\frac{2(6t-1)}{6}\\) =\\(\\frac{6t-1}{3}\\) =\\(\\frac{6t}{3}- \\frac{1}{3}\\) =2t-\\(\\frac{1}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9295",
+    "passage": ""
   }
 ]
