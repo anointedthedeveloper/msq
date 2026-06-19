@@ -20,5 +20,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/84",
     "passage": ""
+  },
+  {
+    "id": 86,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence:\nOnly the small fry gets punished for such social misdemeanours.",
+    "options": {
+      "A": "small boys",
+      "B": "unimportant people",
+      "C": "frightened people",
+      "D": "frivolous people",
+      "E": "inexperienced people"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The expression \"small fry\" in this context is used as a metaphor to refer to unimportant or insignificant people. So, the sentence is saying that only the unimportant or insignificant individuals get punished for such social misdemeanors.\nOption B, \"unimportant people,\" is the best fit because it conveys the idea that those who are not considered significant or influential in the situation are the ones facing punishment. The term \"small fry\" is often used to describe individuals of little importance or influence in a particular context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/86",
+    "passage": ""
   }
 ]
