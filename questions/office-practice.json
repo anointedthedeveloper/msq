@@ -2133,5 +2133,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66576",
     "passage": ""
+  },
+  {
+    "id": 66578,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The office machine used for fastening papers together is a",
+    "options": {
+      "A": "perforator",
+      "B": "stapler",
+      "C": "fokling machine",
+      "D": "sealing machine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Stapler is a mechanical device that joins pages of paper or similar materials by driving a thin metal staple through the sheets and folding the ends.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66578",
+    "passage": ""
   }
 ]
