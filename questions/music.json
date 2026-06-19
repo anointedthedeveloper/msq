@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76302",
     "passage": ""
+  },
+  {
+    "id": 76303,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The time signature for the tune above is",
+    "options": {
+      "A": "3/2",
+      "B": "2/2",
+      "C": "2/4",
+      "D": "3/4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/ErLNjQwPIylGyjPWbyN5Z4KLkee2dtSq3wtGszI1.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890503/myschool/music/ErLNjQwPIylGyjPWbyN5Z4KLkee2dtSq3wtGszI1.png",
+    "correct_answer": "D",
+    "explanation": "The time signature for the tune is ¾. In music theory, the time signature indicates how many beats are in each measure.\nTop Number (3): Indicates there are three beats per measure. Bottom Number (4): Indicates that a crotchet (quarter note) receives one beat.\nLooking at the first complete measure of the score, we can see:\nA minim (half note), which is worth 2 beats . A crotchet (quarter note), which is worth 1 beat . Total: 2 + 1 = 3 beats.\nThe following measures also follow this pattern, using combinations of quavers and crotchets that consistently equal three crotchet beats.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76303",
+    "passage": ""
   }
 ]
