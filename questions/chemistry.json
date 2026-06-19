@@ -14506,5 +14506,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12909",
     "passage": ""
+  },
+  {
+    "id": 12914,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "Equal volumes of CO,SO2, NO2 and H2S were released into a room at the same point and time. Which of the following gives the order of diffusion of the gases to the opposite corner of the room? (S = 32, C = 12, O = 16, N = 14, H = 1)",
+    "options": {
+      "A": "CO, SO 2 ,NO 2 ,H 2 S",
+      "B": "SO 2 ,NO 2 ,H 2 S,CO",
+      "C": "CO,H 2 S,SO 2 ,NO 2",
+      "D": "CO,H 2 S,NO 2 ,SO 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- At a constant temperature and pressure, the rate lof diffusion of a gas is inversely proportional to the rate of its relative molecular mass.\n- The higher the RMM of a gas the Lower the rate of diffusion and vice versa\n- Hence; CO,H2S,NO2,SO2 will be the order of diffusion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12914",
+    "passage": ""
   }
 ]
