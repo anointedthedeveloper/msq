@@ -12817,5 +12817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64360",
     "passage": ""
+  },
+  {
+    "id": 64361,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the function of firewall?",
+    "options": {
+      "A": "Service provider",
+      "B": "Cyber security",
+      "C": "Internet browser",
+      "D": "Storage device"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Fire Wall could be either a software or hardware, but its major function is to help secure a computer system or website from hackers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64361",
+    "passage": ""
   }
 ]
