@@ -1340,5 +1340,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/672",
     "passage": ""
+  },
+  {
+    "id": 673,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The difference between tragedy and comedy is",
+    "options": {
+      "A": "that tragey contains soliloquies,but comedy does not",
+      "B": "that comedy contains disguise but tragedy does not",
+      "C": "that tragedy is imaginative but comedy is not",
+      "D": "that comedy deals with love but tragedy does not",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/673",
+    "passage": ""
   }
 ]
