@@ -4205,5 +4205,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62267",
     "passage": ""
+  },
+  {
+    "id": 62268,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following networks covers the widest range?",
+    "options": {
+      "A": "LAN.",
+      "B": "MAN.",
+      "C": "PAN.",
+      "D": "WAN."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A wide area network (WAN) is a large computer network that connects groups of computers over a large geographical area, such as a country, a continent, or even the entire world. WANs are often used by large businesses to connect their office networks; each office typically has its local area network or LAN, and these LANs connect via a WAN.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62268",
+    "passage": ""
   }
 ]
