@@ -3171,5 +3171,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1597",
     "passage": ""
+  },
+  {
+    "id": 1600,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The permanent members of the Security Council of the United Nations are",
+    "options": {
+      "A": "Germany,France,Poland,Hungary and China",
+      "B": "Britain,Japan,Australia,Germany and the United States",
+      "C": "the United States,Russia,France,Britain and Japan",
+      "D": "the United States,Russia,France,Britain and China"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1600",
+    "passage": ""
   }
 ]
