@@ -1801,5 +1801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/666",
     "passage": ""
+  },
+  {
+    "id": 667,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The foreign exchange rate of a country is",
+    "options": {
+      "A": "the interest rate fixed by the central bank",
+      "B": "the price of one national currency in terms of another",
+      "C": "the rate at which the central bank issues money",
+      "D": "the rate of interest on government bonds",
+      "E": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/667",
+    "passage": ""
   }
 ]
