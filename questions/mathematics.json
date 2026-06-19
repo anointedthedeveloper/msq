@@ -13053,5 +13053,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22661",
     "passage": ""
+  },
+  {
+    "id": 22664,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A sector of a circle of radius 7cm has an area of 44cm\n2\n. Calculate the angle of the sector correct to the nearest degree  [Take π = 22/7]",
+    "options": {
+      "A": "6 o",
+      "B": "26 o",
+      "C": "52 o",
+      "D": "103 o",
+      "E": "206 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "44cm 2 = θ; ∴ θ = 44 / πr 2 x 360 o = 102.9 o = 103 o",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22664",
+    "passage": ""
   }
 ]
