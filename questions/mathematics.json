@@ -9322,5 +9322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9455",
     "passage": ""
+  },
+  {
+    "id": 9491,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The table above shows the distribution of marks of students in a test. Find the probability of passing the test if the pass mark is 5?",
+    "options": {
+      "A": "\\(\\frac{3}{5}\\)",
+      "B": "\\(\\frac{2}{5}\\)",
+      "C": "\\(\\frac{7}{20}\\)",
+      "D": "\\(\\frac{1}{5}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Total number of students = 20\nMarks No. of students 5 0 6 4 7 5 8 2 9 1 12\nPr(passing) = \\(\\frac{12}{20}\\)\n= \\(\\frac{3}{5}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9491",
+    "passage": ""
   }
 ]
