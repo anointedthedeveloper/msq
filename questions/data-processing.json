@@ -1996,5 +1996,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58114",
     "passage": ""
+  },
+  {
+    "id": 58116,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Magnetic Ink Character Recognition (MICR) are used to read codes on",
+    "options": {
+      "A": "postal order",
+      "B": "multiple choice examination answer sheets",
+      "C": "bank teller",
+      "D": "bank cheques"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58116",
+    "passage": ""
   }
 ]
