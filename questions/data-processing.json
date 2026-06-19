@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57212",
     "passage": ""
+  },
+  {
+    "id": 57227,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is true about digital computers.",
+    "options": {
+      "A": "They consist of magnetic core memory.",
+      "B": "they understand data as a continuous measurement of a physical quantity.",
+      "C": "they represent numbers through a string of binary digits.",
+      "D": "they are mainly used for scientific purposes."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57227",
+    "passage": ""
   }
 ]
