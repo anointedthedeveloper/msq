@@ -1992,5 +1992,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61496",
     "passage": ""
+  },
+  {
+    "id": 61497,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "To prevent unforeseen data loss, a user must",
+    "options": {
+      "A": "edit the data",
+      "B": "create the data",
+      "C": "backup the data",
+      "D": "defragment  the data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Data backup is the process of creating a copy of your data in case the original is lost or corrupted.  The main reason for data backup is to save important files if a system crash or hard drive failure occurs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61497",
+    "passage": ""
   }
 ]
