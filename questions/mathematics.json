@@ -4765,5 +4765,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8219",
     "passage": ""
+  },
+  {
+    "id": 8220,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Three boys shared some oranges. The first received\n1\n/\n3\nof the oranges and the second received\n2\n/\n3\nof the remaining. If the third boy received the remaining 12 oranges, how many oranges did they share",
+    "options": {
+      "A": "60",
+      "B": "54",
+      "C": "48",
+      "D": "42"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8220",
+    "passage": ""
   }
 ]
