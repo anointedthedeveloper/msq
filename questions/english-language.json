@@ -5673,5 +5673,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2685",
     "passage": ""
+  },
+  {
+    "id": 2688,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : Although the problem was simple …. Students were able to solve it.",
+    "options": {
+      "A": "Little",
+      "B": "Small",
+      "C": "Few",
+      "D": "A few",
+      "E": "A lot of."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In this sentence, the phrase \"Although the problem was simple\" sets up an expectation that the problem should have been easy for all students to solve. However, the use of \"few students were able to solve it\" indicates that only a small number of students were actually successful in solving the problem.\nThe word \"few\" is used here without \"a,\" which gives it a negative connotation of scarcity or limitation. It suggests that there was a deficiency or inadequacy in the number of students who could solve the problem, considering its simplicity.\nSo, in this context, \"few\" emphasizes the contrast between the expected outcome (that all students should have been able to solve the simple problem) and the actual outcome (only a small number of students could solve it), highlighting the negative aspect of the situation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2688",
+    "passage": ""
   }
 ]
