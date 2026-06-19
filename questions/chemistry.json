@@ -503,5 +503,71 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/71",
     "passage": ""
+  },
+  {
+    "id": 73,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following is not a member of the homologous series of the paraffins (alkanes)?",
+    "options": {
+      "A": "C 3 H 8",
+      "B": "C 5 H 12",
+      "C": "C 7 H 16",
+      "D": "C 15 H 32",
+      "E": "C 24 H 48"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Methane. CH4. Ethane. C2H6 Propane. C3H8 Butane. C4H10 Pentane. C5H12 Hexane. C6H14 Heptane. C7H16 Octane. C8H18 The formula for Alkanes is CnH\\(_{2n+2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/73",
+    "passage": ""
+  },
+  {
+    "id": 74,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When ammonia and hydrogen ion bond together to form ammonium ion, the bond formed is called",
+    "options": {
+      "A": "ionic bond",
+      "B": "electrovalent bond",
+      "C": "covalent bond",
+      "D": "co-ordinate bond",
+      "E": "hydrogen bond"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When one atom supplies both electrons in forming a two-electron bond, it is known as a dative covalent or coordinate bond. If two atoms contribute one electron each, it is known as a simple covalent bond. when ammonia and hydrogen ions bond together to form ammonium ion, the type of bond formed is a dative/coordinate covalent bond, because ammonia supplied both electrons with hydrogen contributing nothing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/74",
+    "passage": ""
+  },
+  {
+    "id": 75,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "An example of an alcohol is",
+    "options": {
+      "A": "CCl 4",
+      "B": "CH 3 COOH",
+      "C": "CHCl 3",
+      "D": "C 2 H 6",
+      "E": "CH 3 OH"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/75",
+    "passage": ""
   }
 ]
