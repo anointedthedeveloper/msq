@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/126",
     "passage": ""
+  },
+  {
+    "id": 127,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nHe stared at her",
+    "options": {
+      "A": "glanced",
+      "B": "peeped",
+      "C": "looked",
+      "D": "gazed",
+      "E": "fixed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The word \"stared\" in the sentence implies a prolonged and intense look. Among the options provided:\n\"Gazed\" (Option D) is the most appropriate choice, as it also signifies a prolonged and intense look.\nThe other options:\n\"Glanced\" suggests a brief or quick look. \"Peeped\" implies a quick and furtive look, often from a hidden or secretive position. \"Looked\" is a general term and may not convey the intensity of staring. \"Fixed\" might imply a steady or unwavering look, but it doesn't capture the sense of intensity conveyed by \"stared.\"\nTherefore, \"gazed\" best conveys the meaning of staring in this context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/127",
+    "passage": ""
   }
 ]
