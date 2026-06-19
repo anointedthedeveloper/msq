@@ -1909,5 +1909,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75355",
     "passage": ""
+  },
+  {
+    "id": 75356,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "An art that depends on time and live action is:",
+    "options": {
+      "A": "Textile art",
+      "B": "Graffiti",
+      "C": "Performance art",
+      "D": "Still life painting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Performance art involves live actions and often unfolds over time, making time and movement essential parts of the artwork.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75356",
+    "passage": ""
   }
 ]
