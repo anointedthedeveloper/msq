@@ -7101,5 +7101,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/3495",
     "passage": ""
+  },
+  {
+    "id": 3500,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following works by Wole Soyinka is a novel?",
+    "options": {
+      "A": "The interpreters",
+      "B": "The Lion and the jewel",
+      "C": "The Trials of Brother Jero",
+      "D": "Kongi's Harvest",
+      "E": "The Strong Breed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Among the listed works, The Interpreters is the only novel written by Wole Soyinka. The other titles are all plays .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/3500",
+    "passage": ""
   }
 ]
