@@ -4639,5 +4639,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12410",
     "passage": ""
+  },
+  {
+    "id": 12414,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Which of the following pairs of light rays show the widest separation in the spectrum of white light",
+    "options": {
+      "A": "Blue and red",
+      "B": "Green and yellow",
+      "C": "Indigo and violet",
+      "D": "Orange and red"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12414",
+    "passage": ""
   }
 ]
