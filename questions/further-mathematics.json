@@ -4029,5 +4029,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50604",
     "passage": ""
+  },
+  {
+    "id": 50605,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In how many ways can 9 people be seated on a bench if only 3 places are available?",
+    "options": {
+      "A": "1200",
+      "B": "504",
+      "C": "320",
+      "D": "204"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50605",
+    "passage": ""
   }
 ]
