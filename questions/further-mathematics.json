@@ -3231,5 +3231,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50506",
     "passage": ""
+  },
+  {
+    "id": 50513,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(2\\sin^{2} \\theta = 1 + \\cos \\theta, 0° \\leq \\theta \\leq 90°\\), find the value of \\(\\theta\\).",
+    "options": {
+      "A": "90°",
+      "B": "60°",
+      "C": "45°",
+      "D": "30°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(2\\sin^{2} \\theta = 1 + \\cos \\theta\\)\n\\(2 ( 1 - \\cos^{2} \\theta) = 1 + \\cos \\theta\\)\n\\(2 - 2\\cos^{2} \\theta = 1 + \\cos \\theta\\)\n\\(0 = 1 - 2 + \\cos \\theta + 2\\cos^{2} \\theta\\)\n\\(2\\cos^{2} \\theta + \\cos \\theta - 1 = 0\\)\nFactorizing, we have\n\\((\\cos \\theta + 1)(2\\cos \\theta - 1) = 0\\)\nNote: In the range, \\(0° \\leq \\theta \\leq 90°\\), all trig functions are positive, so we consider\n\\(2\\cos \\theta = 1 \\implies \\cos \\theta = \\frac{1}{2}\\)\n\\(\\theta = 60°\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50513",
+    "passage": ""
   }
 ]
