@@ -14966,5 +14966,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23152",
     "passage": ""
+  },
+  {
+    "id": 23153,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The curved surface area of a cylindrical tin is 704cm\\(^2\\). Calculate the height when the radius is 8cm. [Take π = 22/7]",
+    "options": {
+      "A": "3.5cm",
+      "B": "7cm",
+      "C": "14cm",
+      "D": "28cm",
+      "E": "32cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Curved surface area of a cylindrical tin = \\(2\\pi rh\\)\n\\(\\therefore 2\\pi rh = 704cm^2\\)\n\\(2 \\times \\frac{22}{7} \\times 8 \\times h = 704\\)\n\\(h = \\frac{704 \\times 7}{2 \\times 22 \\times 8}\\)\n\\(h = 14cm\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23153",
+    "passage": ""
   }
 ]
