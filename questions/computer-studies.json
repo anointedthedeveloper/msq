@@ -14266,5 +14266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64801",
     "passage": ""
+  },
+  {
+    "id": 64802,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The logic equation for the logic gate in the figure above is?",
+    "options": {
+      "A": "Z=A+B",
+      "B": "Z=A.B",
+      "C": "Z= A+B",
+      "D": "Z=A.B.C"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/GNzjpVEywsQhV7XCrhlyfO5Nhg8ZsY8PC8DkUaZZ.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903790/myschool/computer-studies/GNzjpVEywsQhV7XCrhlyfO5Nhg8ZsY8PC8DkUaZZ.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64802",
+    "passage": ""
   }
 ]
