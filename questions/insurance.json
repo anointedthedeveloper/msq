@@ -2495,5 +2495,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49920",
     "passage": ""
+  },
+  {
+    "id": 49921,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An insurance cover that protects experts from bearing the cost of negligence arising from their service?",
+    "options": {
+      "A": "fidelity guarantee insurance",
+      "B": "third party liability insurance",
+      "C": "professional indemnity insurance",
+      "D": "product liability insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "professional indemnity insurance is a form of liability insurance which helps protect professional advice- and service-providing individuals and companies from bearing the full cost of defending against a negligence claim made by a client, and damages awarded in such a civil lawsuit.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49921",
+    "passage": ""
   }
 ]
