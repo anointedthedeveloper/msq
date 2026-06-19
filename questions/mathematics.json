@@ -11801,5 +11801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22354",
     "passage": ""
+  },
+  {
+    "id": 22355,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The venn diagram below shows the number of students who studied Physics, Chemistry, and Mathematics in a certain school. How many students took at least two of the three subjects?",
+    "options": {
+      "A": "165",
+      "B": "160",
+      "C": "155",
+      "D": "135",
+      "E": "85"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/bLJrB4ptm35wvtl49xEaKq8agq4pnR15KqeLpZEv.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907283/myschool/mathematics/bLJrB4ptm35wvtl49xEaKq8agq4pnR15KqeLpZEv.png",
+    "correct_answer": "B",
+    "explanation": "At least 2 subjects = 30 + 45 + 75 + 10 = 160 students",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22355",
+    "passage": ""
   }
 ]
