@@ -4426,5 +4426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50319",
     "passage": ""
+  },
+  {
+    "id": 50321,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A system of government that listens to public opinion  and tolerates opposition is?",
+    "options": {
+      "A": "dictatorial regime",
+      "B": "capitalist regime",
+      "C": "democratic regime",
+      "D": "socialist regime"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In a democratic country , all eligible citizens have the right to participate, either directly or indirectly, in making the decisions that affect them. The government is of the people and for the people. There is room for public opinion and opposition. Nigeria practices a democratic system of government",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50321",
+    "passage": ""
   }
 ]
