@@ -9280,5 +9280,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9407",
     "passage": ""
+  },
+  {
+    "id": 9425,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In how many ways can a delegation of 3 be chosen from 5 men and 3 women. If at least 1 man and 1 woman must be included?",
+    "options": {
+      "A": "15",
+      "B": "28",
+      "C": "30",
+      "D": "45"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "= \\((^{5}C_{2} \\times ^{3}C_{1}) + (^{5}C_{1} \\times ^{3}C_{2})\\)\n= \\((10 \\times 3) + (5 \\times 3)\\)\n= 45.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9425",
+    "passage": ""
   }
 ]
