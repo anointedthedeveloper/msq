@@ -15381,5 +15381,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67768",
     "passage": ""
+  },
+  {
+    "id": 67769,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What category of application package does microsoft excel belong to ?",
+    "options": {
+      "A": "Word processing package",
+      "B": "Graphics packages",
+      "C": "Database management packages",
+      "D": "Spreadsheet packages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Microsoft Excel is a spreadsheet package. It is used for storing, organizing, and manipulating data. It provides tools for data visualization such as charts and graphs. Word processing packages like Microsoft Word are used for creating, editing, and formatting text documents. Database management packages are used for storing, retrieving, and managing data in a database. Graphics packages are used for creating and editing images, drawings, and illustrations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67769",
+    "passage": ""
   }
 ]
