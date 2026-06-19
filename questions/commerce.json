@@ -397,5 +397,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/185",
     "passage": ""
+  },
+  {
+    "id": 186,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "A sole proprietor insured his goods worth N200,000 for half the value. There was a fire accident in which goods valued N80,000 were destroyed. The value of compensation expected from the insurer is",
+    "options": {
+      "A": "N40,000",
+      "B": "N80,000",
+      "C": "N100,000",
+      "D": "N200,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The goods were insured for half their value. Since the total value of the goods is N200,000, the insured value is:\nInsured value = \\(\\frac{200,000}{2}\\) = N100,000\nThe value of the goods destroyed in the fire is N80,000\nSince the insured value (N100,000) is greater than the loss value (N80,000), the compensation will be equal to the loss value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/186",
+    "passage": ""
+  },
+  {
+    "id": 187,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "One of the effects of the devaluation of the Naira is that the",
+    "options": {
+      "A": "goods that can be imported with the naira have become cheaper",
+      "B": "value of other currencies relative to the naira have become cheaper",
+      "C": "goods that can be exported from Nigeria have become costlier",
+      "D": "imports that can be bought with the naira have become costlier"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/187",
+    "passage": ""
   }
 ]
