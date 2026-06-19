@@ -2749,5 +2749,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9755",
     "passage": ""
+  },
+  {
+    "id": 9791,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The phenomenon that makes sound  persist when its source has been removed is known as",
+    "options": {
+      "A": "acoustic vibration",
+      "B": "rarefaction",
+      "C": "echo",
+      "D": "reverberation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9791",
+    "passage": ""
   }
 ]
