@@ -1945,5 +1945,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1061",
     "passage": ""
+  },
+  {
+    "id": 1064,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The live commentary of a football match which started at 4:00pm at a place on longitude 15°E will be received by a listener in a town on longitude 160°W at",
+    "options": {
+      "A": "6:20am same day",
+      "B": "4:20am same day",
+      "C": "1:40am next day",
+      "D": "3:40am next day"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1064",
+    "passage": ""
   }
 ]
