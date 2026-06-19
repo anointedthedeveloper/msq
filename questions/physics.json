@@ -10288,5 +10288,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14339",
     "passage": ""
+  },
+  {
+    "id": 14340,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Power supply is transmitted at a very high voltage and low current in order to?",
+    "options": {
+      "A": "make pass through the trasformers",
+      "B": "increase the power supply",
+      "C": "make it travel fast",
+      "D": "prevent overheating of the coil"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "H eat generated in a wire carrying current, H = 12 Rt. so, when voltage is high and current is low heat generated in the wire will be minimal. Therefore, high voltage and low current prevent overheating of the coil.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14340",
+    "passage": ""
   }
 ]
