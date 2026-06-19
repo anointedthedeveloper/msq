@@ -6522,5 +6522,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62487",
     "passage": ""
+  },
+  {
+    "id": 62488,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The following are features of web browsers except?",
+    "options": {
+      "A": "address bar",
+      "B": "formula bar",
+      "C": "menu bar",
+      "D": "title bar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62488",
+    "passage": ""
   }
 ]
