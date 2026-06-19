@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50074",
     "passage": ""
+  },
+  {
+    "id": 50075,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The highest class in the public service is the?",
+    "options": {
+      "A": "clerical",
+      "B": "manipulative",
+      "C": "technical",
+      "D": "administrative"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The administrative class is the highest hierachy in the public service.  This comprises of the most senior civil servants who organize and coordinate the activities of the service.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50075",
+    "passage": ""
   }
 ]
