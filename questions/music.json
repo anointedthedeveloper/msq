@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48099",
     "passage": ""
+  },
+  {
+    "id": 48100,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The passage, when transposed 3\\(\\frac{1}{2}\\) tones up, will be in the key of",
+    "options": {
+      "A": "C major",
+      "B": "B major",
+      "C": "G major",
+      "D": "F major"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/l5Zn1vRUPHfjjmNPUKT5BlH19iqDOMuvgOna7eN6.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890311/myschool/music/l5Zn1vRUPHfjjmNPUKT5BlH19iqDOMuvgOna7eN6.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48100",
+    "passage": ""
   }
 ]
