@@ -11233,5 +11233,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4326",
     "passage": ""
+  },
+  {
+    "id": 4327,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The oxidation of ammonia in excess air produces?",
+    "options": {
+      "A": "NO",
+      "B": "N 2 O",
+      "C": "NO 2",
+      "D": "N 2 O 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the presence of heated platinum catalyst, ammonia reacts with excess air to produce nitrogen (II) oxide, NO, (instead of nitrogen) and water.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4327",
+    "passage": ""
   }
 ]
