@@ -13069,5 +13069,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64375",
     "passage": ""
+  },
+  {
+    "id": 64376,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is a website main page called?",
+    "options": {
+      "A": "Home page",
+      "B": "Bookmark",
+      "C": "Search page",
+      "D": "Task page"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Homepage is the main Web page of a website.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64376",
+    "passage": ""
   }
 ]
