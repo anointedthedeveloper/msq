@@ -15471,5 +15471,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24165",
     "passage": ""
+  },
+  {
+    "id": 24166,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Water does not drip through an open umbrella of silk material unless the inside of the umbrella is touched. Which of the following phenomena is responsible for this?",
+    "options": {
+      "A": "Surface tension",
+      "B": "Hydrostatic upthrust",
+      "C": "Viscosity",
+      "D": "Diffusion",
+      "E": "Osmosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Surface tension is responsible for keeping the water droplets on the surface of the umbrella until they are disturbed, such as when the inside of the umbrella is touched. This disturbance breaks the surface tension, allowing the water to drip through.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24166",
+    "passage": ""
   }
 ]
