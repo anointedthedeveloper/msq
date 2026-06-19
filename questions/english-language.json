@@ -6025,5 +6025,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2840",
     "passage": ""
+  },
+  {
+    "id": 2841,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "fill in the blank spaces in the following sentences making use of the best of the five options : …. Lawyers enrolled at the Nigerian bar last year …. the year.",
+    "options": {
+      "A": "As much/as",
+      "B": "Very many/than",
+      "C": "More/than",
+      "D": "Some/as",
+      "E": "As many/than"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence compares the number of lawyers enrolled at the Nigerian bar last year with the current year. The structure for comparative sentences uses \"more\" with \"than\" to indicate an increase in quantity.\nThe complete sentence would read: \"More lawyers enrolled at the Nigerian bar last year than the year.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2841",
+    "passage": ""
   }
 ]
