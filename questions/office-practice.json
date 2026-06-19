@@ -4370,5 +4370,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76018",
     "passage": ""
+  },
+  {
+    "id": 76019,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In communication process, writing a memo is an example of",
+    "options": {
+      "A": "decoding",
+      "B": "feedback",
+      "C": "encoding",
+      "D": "channel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the communication process, writing a memo is an example of encoding. Encoding is the process of turning thoughts into communication. The encoder uses a 'medium' to send the message -- a phone call, email, text message, face-to-face meeting, or other communication tool. The level of conscious thought that goes into encoding messages depends on the individual.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76019",
+    "passage": ""
   }
 ]
