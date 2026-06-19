@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64439",
     "passage": ""
+  },
+  {
+    "id": 64440,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are causes of postural defects except",
+    "options": {
+      "A": "Accident",
+      "B": "Diseases",
+      "C": "Emotion",
+      "D": "Illness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Illness is not a cause of postural defects.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64440",
+    "passage": ""
   }
 ]
