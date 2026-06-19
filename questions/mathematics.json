@@ -8692,5 +8692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9318",
     "passage": ""
+  },
+  {
+    "id": 9319,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Find the range of values of x for which 3x - 7 \\(\\leq\\) 0 and x + 5 > 0?",
+    "options": {
+      "A": "-5 < x < \\(\\frac{7}{3}\\)",
+      "B": "-5 \\(\\leq\\) x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+      "C": "-5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)",
+      "D": "-5 \\(\\leq\\) x < \\(\\frac{7}{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "3x - 7 \\(\\leq\\) 0 and x + 5 > 0 3x \\(\\leq\\) 7 and x > -5 x \\(\\leq\\) \\(\\frac{7}{3}\\) ∴ Range -5 < x \\(\\leq\\) \\(\\frac{7}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9319",
+    "passage": ""
   }
 ]
