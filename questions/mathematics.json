@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2128",
     "passage": ""
+  },
+  {
+    "id": 2550,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the area bounded by the curves y = 4 - x2 and y = 2x + 1",
+    "options": {
+      "A": "20(1/3) sq. units",
+      "B": "20(2/3) sq. units",
+      "C": "10(2/3) sq. units",
+      "D": "10(1/3) sq. units"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hint: y = 4 - x\\(^2\\) and y = 2x + 1 => 4 - x2 = 2x + 1 => x2 + 2x - 3 = 0 (x+3)(x-1) = 0 thus x = 1 or x = -3. Integrating x\\(^2\\) + 2x - 3\n= 3x - x\\(^2\\) - \\(\\frac{x^3}{3}\\)\nfrom (1, to -3) : 3 (1) - 1\\(^2\\) - \\(\\frac{1^3}{3}\\)   -    3 (-3)  -  -3\\(^2\\) - \\(\\frac{-3^3}{3}\\)\n= \\(\\frac{5}{3}\\) + 9\nwill give 32/3 = 10 \\(\\frac{2}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2550",
+    "passage": ""
   }
 ]
