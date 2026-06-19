@@ -18327,5 +18327,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70963",
     "passage": ""
+  },
+  {
+    "id": 70966,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is a cloud storage service?",
+    "options": {
+      "A": "Yandex",
+      "B": "Drop Box",
+      "C": "DuckDuckGo",
+      "D": "Adobe XD"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Dropbox is a popular cloud storage service that allows users to store and share files online. OneDrive, Google Drive, and iCloud are other examples of cloud storage services commonly used for this purpose.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70966",
+    "passage": ""
   }
 ]
