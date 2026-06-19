@@ -3385,5 +3385,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71209",
     "passage": ""
+  },
+  {
+    "id": 71210,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.Je parle aux élèves. Je parle.",
+    "options": {
+      "A": "les",
+      "B": "la",
+      "C": "leur",
+      "D": "le"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The verb \"parle\" is in the first person singular (je) form, and it is addressed to the plural object \"élèves\", so the pronoun \"leur\" is used to indicate the indirect object.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71210",
+    "passage": ""
   }
 ]
