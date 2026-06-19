@@ -14980,5 +14980,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64983",
     "passage": ""
+  },
+  {
+    "id": 64984,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Sequential files are?",
+    "options": {
+      "A": "sorted using index",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "stored in any storage media"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A sequential file is a type of data storage file where records are arranged and accessed in a specific order, usually based on the data value.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64984",
+    "passage": ""
   }
 ]
