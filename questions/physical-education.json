@@ -6359,5 +6359,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76487",
     "passage": ""
+  },
+  {
+    "id": 76488,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is a biological factor affecting physical fitness?",
+    "options": {
+      "A": "Social media",
+      "B": "climate",
+      "C": "genetics",
+      "D": "Peer influence"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Biological factors are those inherent to the body's physical and physiological makeup. Genetics is a key biological factor affecting physical fitness because it determines traits such as muscle fiber type, metabolism, body composition, and cardiovascular efficiency. These inherited characteristics influence an individual's potential for strength, endurance, and agility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76488",
+    "passage": ""
   }
 ]
