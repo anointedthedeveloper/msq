@@ -7642,5 +7642,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9265",
     "passage": ""
+  },
+  {
+    "id": 9266,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If X = {n\\(^2\\) + 1:n = 0,2,3} and Y = {n+1:n=2,3,5}, find X∩Y.",
+    "options": {
+      "A": "{1,3}",
+      "B": "{5,10}",
+      "C": "∅",
+      "D": "{4,6}"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "X = {1,5,10} Y = {3,4,6} X∩Y = ∅\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9266",
+    "passage": ""
   }
 ]
