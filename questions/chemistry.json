@@ -85,5 +85,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/5",
     "passage": ""
+  },
+  {
+    "id": 7,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In the reaction between sodium hydroxide and sulphuric acid solutions, what volume of 0.5M sodium hydroxide would exactly neutralise 10cm\\(^3\\) of 1.25M sulphuric acid?",
+    "options": {
+      "A": "5cm 3",
+      "B": "10cm 3",
+      "C": "20cm 3",
+      "D": "25cm 3",
+      "E": "50cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "\\(2NaOH + H_{2}SO_{4} = Na_{2}SO_{4} + 2H_{2}O\\) V x 0.5M = 2(10 x 1.25) 0.5V = 2 x 12.5 0.5V = 25 V = \\(\\frac{25}{0.5}\\) = \\(50cm^{3}\\)\nAlternatively, \\(\\frac{{C_A}{V_A}}{{C_B}{V_B}}\\) = \\(\\frac{N_A}{N_B}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7",
+    "passage": ""
   }
 ]
