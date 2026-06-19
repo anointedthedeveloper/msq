@@ -4142,5 +4142,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62264",
     "passage": ""
+  },
+  {
+    "id": 62265,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "An example of a programming language that uses mnemonic codes is?",
+    "options": {
+      "A": "Assembly program.",
+      "B": "BASIC program.",
+      "C": "COBOL program.",
+      "D": "FORTRAN program."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Assembly language uses mnemonics to represent instructions. Writing in mnemonics is easier for programmers because they are usually brief representations of the commands. They are quicker to write than binary and it is easier to spot mistakes. In COBOL, mnemonics are not used in the traditional sense like in assembly language programming.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62265",
+    "passage": ""
   }
 ]
