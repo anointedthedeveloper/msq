@@ -1216,5 +1216,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76296",
     "passage": ""
+  },
+  {
+    "id": 76297,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "When transposed up a tone, the passage will be in the key of",
+    "options": {
+      "A": "G major",
+      "B": "A major",
+      "C": "F major",
+      "D": "D major"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/mY0UzXWPsAhdE8mgUvZfDc0ceQS4FHeUPa0uVGTe.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890469/myschool/music/mY0UzXWPsAhdE8mgUvZfDc0ceQS4FHeUPa0uVGTe.png",
+    "correct_answer": "D",
+    "explanation": "The passage will be in the key of D major after transposition.\nIdentify the original key: The musical score has no sharps or flats in the key signature and follows a scale pattern that centers on C, identifying the original key as C major . 2. Determine the transposition interval: The question asks to transpose the passage \"up a tone\" (which is the same as a major second). Calculate the new key: Moving up one full tone from C lands on the note D . Therefore, a passage originally in C major becomes D major when transposed up a tone.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76297",
+    "passage": ""
   }
 ]
