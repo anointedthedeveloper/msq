@@ -9082,5 +9082,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62698",
     "passage": ""
+  },
+  {
+    "id": 62699,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "A cell with a red triangle in the top-right comer in a spreadsheet application signifies?",
+    "options": {
+      "A": "an error in the cell.",
+      "B": "a comment associated with the cell.",
+      "C": "that the font colour for the text in the cell is red.",
+      "D": "that a formula cannot be entered into the cell."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62699",
+    "passage": ""
   }
 ]
