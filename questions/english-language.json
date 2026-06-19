@@ -350,5 +350,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/117",
     "passage": ""
+  },
+  {
+    "id": 120,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; Mr. Jack could be a successful businessman if he paid more attention to the more intricate aspects of his account",
+    "options": {
+      "A": "Mr Jack will undoubtedly succeed",
+      "B": "Mr Jack cannot succeed",
+      "C": "Jack will have a very good chance of succeeding",
+      "D": "Mr. Jack will find it difficult to succeed",
+      "E": "Mr Jack will succeed in spite of all odds"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The underlined phrase is: “could be a successful businessman if he paid more attention…” “Could be” implies possibility, not certainty . “If he paid more attention” shows that success depends on his action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/120",
+    "passage": ""
   }
 ]
