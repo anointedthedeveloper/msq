@@ -1713,5 +1713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66524",
     "passage": ""
+  },
+  {
+    "id": 66527,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "An advantage of eletric typewriter over manual typewriter is that",
+    "options": {
+      "A": "they are faster and increase output",
+      "B": "they are less expensive to buy",
+      "C": "the cost of maintenance is lower",
+      "D": "they can be easily moved from place to place"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Electronic typewriter saves energy and it is faster than manual typerwriter. It also has memory,soft bottons and it is portable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66527",
+    "passage": ""
   }
 ]
