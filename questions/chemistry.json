@@ -1803,5 +1803,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1478",
     "passage": ""
+  },
+  {
+    "id": 1479,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "An organic compound that does not undergo a reaction with both hydrogen cyanide and hydroxylamine can be",
+    "options": {
+      "A": "alkene",
+      "B": "alkanal",
+      "C": "alkanone",
+      "D": "alkanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1479",
+    "passage": ""
   }
 ]
