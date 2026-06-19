@@ -2496,5 +2496,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50427",
     "passage": ""
+  },
+  {
+    "id": 50428,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A ball falls from a height of 18m above the ground. Find the speed with which the ball hits the ground. \\([g = 10ms^{-2}]\\)",
+    "options": {
+      "A": "9\\(ms^{-1}\\)",
+      "B": "9.49\\(ms^{-1}\\)",
+      "C": "13.42\\(ms^{-1}\\)",
+      "D": "18.97\\(ms^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Due to conservation of energy, K.E = P.E\n\\(\\frac{1}{2}mv^{2} = mgh\\)\n\\(\\implies m \\times 10 \\times 18 = \\frac{1}{2}mv^{2}\\)\n\\(v^{2} = 2 \\times 10 \\times 18 = 360\\)\n\\(v = \\sqrt{360} = 18.97ms^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50428",
+    "passage": ""
   }
 ]
