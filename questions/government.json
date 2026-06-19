@@ -15978,5 +15978,26 @@
     "explanation_image_url": "",
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/16694"
+  },
+  {
+    "id": 16695,
+    "subject": "government",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In a one-party state",
+    "options": {
+      "A": "only one party is recongnized offically and there is no legal opposition",
+      "B": "only one political party wins elections all the time",
+      "C": "two or more parties join together after a general election",
+      "D": "the government has power to disband other political parties",
+      "E": "only one party meets the required conditions of election"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/16695"
   }
 ]
