@@ -16022,5 +16022,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23200",
     "passage": ""
+  },
+  {
+    "id": 23201,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Calculate the total surface area of a cone of height 12cm and base radius 5cm. [Take π = 22/7]",
+    "options": {
+      "A": "180\\(\\frac{5}{7}\\)cm\\(^2\\)",
+      "B": "240\\(\\frac{2}{7}\\)cm\\(^2\\)",
+      "C": "235\\(\\frac{5}{7}\\)cm\\(^2\\)",
+      "D": "282\\(\\frac{6}{7}\\)cm\\(^2\\)",
+      "E": "361\\(\\frac{3}{7}\\)cm\\(^2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "πrl + πr2 = πr(l + r) \\(\\frac{22}{7}\\) x 5(13 + 5) 282\\(\\frac{6}{7}\\)cm\\(^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23201",
+    "passage": ""
   }
 ]
