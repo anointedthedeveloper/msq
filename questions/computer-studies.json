@@ -8347,5 +8347,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62663",
     "passage": ""
+  },
+  {
+    "id": 62664,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The personnel who deals with the computer and its management is called?",
+    "options": {
+      "A": "software",
+      "B": "liveware",
+      "C": "hardware",
+      "D": "firmware"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The term \"liveware\" is used to represent the human components, such as users, programmers, administrators, etc. of the computer system. In other words, the people who communicate and interact with the computer system to operate it are referred to as liveware.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62664",
+    "passage": ""
   }
 ]
