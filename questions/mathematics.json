@@ -9616,5 +9616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9952",
     "passage": ""
+  },
+  {
+    "id": 9954,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "What is the locus of point that is equidistant from points P(1,3) and Q(3,5)?",
+    "options": {
+      "A": "y = - χ + 6",
+      "B": "y = - χ - 6",
+      "C": "y = χ + 6",
+      "D": "y = χ - 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Locus of a point equidistant from two fixed points is the perpendicular bisector of the straight line joining the points Gradients of PQ = (5-3 / 3-1) = 2/2 = 1 Gradient bisector = -1 Equation of perpendicular bisector y - y1 = m( χ - χ1 y - 4 = - χ + 2 y = -χ + 6\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9954",
+    "passage": ""
   }
 ]
