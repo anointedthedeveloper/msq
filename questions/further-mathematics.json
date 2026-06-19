@@ -2454,5 +2454,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50425",
     "passage": ""
+  },
+  {
+    "id": 50426,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A force 10N acts in the direction 060° and another force 6N acts in the direction 330°. Find the y component of their resultant force.",
+    "options": {
+      "A": "\\((3 + 3\\sqrt{3})N\\)",
+      "B": "\\((-3 + 5\\sqrt{3})N\\)",
+      "C": "\\((5 + 3\\sqrt{3})N\\)",
+      "D": "\\((5 + 5\\sqrt{3})N\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(F = F\\cos \\theta + F\\sin \\theta\\) (Resolving into its components)\n\\(10N = 10 \\cos 60, 10 \\sin 60\\)\n\\(6N = 6 \\cos 330, 6 \\sin 330\\)\n\\(R = F_{1} + F_{2} = (10 \\cos 60, 10 \\sin 60) + (6 \\cos 330, 6 \\sin 330)\\)\nThe y- component : \\(10 \\sin 60 + 6 \\sin 330 = 10 \\times \\frac{\\sqrt{3}}{2} + 6 \\times \\frac{-1}{2}\\)\n= \\((5\\sqrt{3} - 3)N\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50426",
+    "passage": ""
   }
 ]
