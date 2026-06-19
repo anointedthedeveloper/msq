@@ -2035,5 +2035,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64470",
     "passage": ""
+  },
+  {
+    "id": 64471,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which part of javelin lands to make a valid throw?",
+    "options": {
+      "A": "Binding",
+      "B": "Butt",
+      "C": "Handle",
+      "D": "Tip"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "If the javelin lands with its tip, then the throw is considered legal or valid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64471",
+    "passage": ""
   }
 ]
