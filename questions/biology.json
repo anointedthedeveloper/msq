@@ -3694,5 +3694,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1894",
     "passage": ""
+  },
+  {
+    "id": 1895,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "The functional unit of a mammalian kidney is the",
+    "options": {
+      "A": "urethra",
+      "B": "malphigian capsule",
+      "C": "glomerulus",
+      "D": "nephron",
+      "E": "ureter"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1895",
+    "passage": ""
   }
 ]
