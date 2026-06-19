@@ -1341,5 +1341,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1391",
     "passage": ""
+  },
+  {
+    "id": 1393,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The entropy and enthalpy of a system are a measure of",
+    "options": {
+      "A": "degree of disorderlinesss and heat content respectively",
+      "B": "heat content and degree of disorderliness respectively",
+      "C": "heat content of a system only",
+      "D": "degree of disorderliness  only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1393",
+    "passage": ""
   }
 ]
