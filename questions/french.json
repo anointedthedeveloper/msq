@@ -626,5 +626,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48141",
     "passage": ""
+  },
+  {
+    "id": 48142,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "II réussira ...qu'il réponde à toutes les questions",
+    "options": {
+      "A": "bien que",
+      "B": "parce",
+      "C": "afin",
+      "D": "à condition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48142",
+    "passage": ""
   }
 ]
