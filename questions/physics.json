@@ -18085,5 +18085,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25060",
     "passage": ""
+  },
+  {
+    "id": 25061,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "A machine has an efficiency of 60%. If the machine is required to overcome a load of 30 N with a force of 20 N calculate its mechanical advantage?",
+    "options": {
+      "A": "0.7",
+      "B": "0.9",
+      "C": "1.5",
+      "D": "2.5",
+      "E": "10.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mechanical Advantage = \\(\\frac{Load}{Effort}\\)  but Load = 30N and Effort = 20N\nM . A = \\(\\frac{30}{20}\\) = 1.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25061",
+    "passage": ""
   }
 ]
