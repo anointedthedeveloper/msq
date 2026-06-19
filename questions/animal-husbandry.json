@@ -2306,5 +2306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49882",
     "passage": ""
+  },
+  {
+    "id": 49884,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "To control the apread of diseases on a farm, the farmer needs to",
+    "options": {
+      "A": "Isolate sick animals",
+      "B": "vaccinate sick animals",
+      "C": "introduce sick animals",
+      "D": "quarantine sick animals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Sick animals are separated to protect the healthy animals . This is referred to as isolation and it allows sick animals to rest and recover and prevents disease spreading around the pen, group or wider farm.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49884",
+    "passage": ""
   }
 ]
