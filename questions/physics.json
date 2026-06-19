@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/698",
     "passage": ""
+  },
+  {
+    "id": 699,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A rope is being used to pull a mass of 10kg vertically upward. Determine the tension in the rope if, starting from rest, the mass acquires a velocity of 4ms\\(^{-1}\\) in 8s [g = 10ms\\(^{-2}\\)]",
+    "options": {
+      "A": "5N",
+      "B": "50N",
+      "C": "95N",
+      "D": "105N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Tension = Force of gravity + acceleration force\n= mg + ma\n\\(a = \\frac{v - u}{t}\\)\n= \\(\\frac{4 - 0}{8}\\)\n= 0.5 ms\\(^{-2}\\)\nTension = (\\(10 \\times 10) + 10 \\times 0.5\\)\n= 100 + 5\n= 105N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/699",
+    "passage": ""
   }
 ]
