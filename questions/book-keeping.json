@@ -564,5 +564,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72884",
     "passage": ""
+  },
+  {
+    "id": 72885,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Use the diagram above to answer the questions\nThe letter X represents.",
+    "options": {
+      "A": "Nominal accounts",
+      "B": "Personal Accounts",
+      "C": "Assets Accounts",
+      "D": "Expenditure Accounts"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/fRuLJVyAM0r2R8DZFF0CbSnhE5bX3raLXYMrwvOo.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900344/myschool/book-keeping/fRuLJVyAM0r2R8DZFF0CbSnhE5bX3raLXYMrwvOo.jpg",
+    "correct_answer": "A",
+    "explanation": "Impersonal accounts are divided into nominal and real account",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72885",
+    "passage": ""
   }
 ]
