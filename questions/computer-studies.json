@@ -5397,5 +5397,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62415",
     "passage": ""
+  },
+  {
+    "id": 62416,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The first four steps required to open e-mail account include:\nI click on \"Create my account\"\nII go to home page of the service provider\nlll click \"create new account\"\nIV click on \"mail\"",
+    "options": {
+      "A": "I, II, IV and III",
+      "B": "I, II, IV and Il",
+      "C": "II, IV, Ill and I",
+      "D": "IV, II, I, and Ill."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct sequence to open an email account is: II - go to home page of the service provider, IV - click on \"Mail\", III - click create \"New Account\", I - click on \"Create my account\". This sequence ensures that you are on the correct platform (service provider), you are in the correct section (Mail), you are initiating the correct action (creating a new account), and finally confirming the action (Create my account).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62416",
+    "passage": ""
   }
 ]
