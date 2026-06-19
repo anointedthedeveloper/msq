@@ -7585,5 +7585,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/3599",
     "passage": "From the novel; Mission to Kala"
+  },
+  {
+    "id": 3600,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Who persuades Caesar to disregard Calpurnia's appeal?",
+    "options": {
+      "A": "Decius Brutus",
+      "B": "Lucius",
+      "C": "Cassius",
+      "D": "Portia",
+      "E": "Octavius."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/3600",
+    "passage": "From the novel; Julius Ceasar"
   }
 ]
