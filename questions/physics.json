@@ -3358,5 +3358,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11815",
     "passage": ""
+  },
+  {
+    "id": 11818,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The diagram above is a block and tackle pulley system in which an effort of 80N is use to lift a load of 240N. The efficiency of the machine is",
+    "options": {
+      "A": "60%",
+      "B": "50%",
+      "C": "40%",
+      "D": "33%"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/QBOJqqt1h9eJxM3b4zVSX998KYXqVjgMqFJVkCmW.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888786/myschool/physics/QBOJqqt1h9eJxM3b4zVSX998KYXqVjgMqFJVkCmW.png",
+    "correct_answer": "B",
+    "explanation": "Since the number of pulleys present is 6, it implies that the velocity ratio V.R = 6\nEfficiency = \\(\\frac{\\text{M.A}}{\\text{V.R}}\\times \\frac{100}{1}\\)\n= \\(\\frac{Load}{Effort}\\times\\frac{1}{V.R}\\times\\frac{100}{1}\\) = \\(\\frac{240}{80} \\times\\frac{1}{6} \\times\\frac{100}{1}\\) = 50% ∴ Efficiency = 50%\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11818",
+    "passage": ""
   }
 ]
