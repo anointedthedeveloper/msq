@@ -4486,5 +4486,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2290",
     "passage": ""
+  },
+  {
+    "id": 2291,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "When freshly tapped palm wine was kept overnight it was found to be more alcoholic. This effect must have been due to",
+    "options": {
+      "A": "the addition of saccharin",
+      "B": "the addition of sugar",
+      "C": "the addition of whisky or local gin",
+      "D": "some complex hydrolytic reaction",
+      "E": "anaerobic respiration of an organism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2291",
+    "passage": ""
   }
 ]
