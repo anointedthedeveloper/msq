@@ -1010,5 +1010,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/382",
     "passage": ""
+  },
+  {
+    "id": 383,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the structure listed below is peculiar to the axis vertebra?",
+    "options": {
+      "A": "Odontoid process",
+      "B": "Anterior zygapophysis",
+      "C": "Posterior zygapophysis",
+      "D": "Lateral spine",
+      "E": "Centrum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/383",
+    "passage": ""
   }
 ]
