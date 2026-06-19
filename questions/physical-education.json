@@ -3211,5 +3211,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68305",
     "passage": ""
+  },
+  {
+    "id": 68306,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are examples of protein foods except",
+    "options": {
+      "A": "fish",
+      "B": "egg",
+      "C": "beans",
+      "D": "rice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rice is not a protein food. It is a carbohydrate. Proteins are essential nutrients for the human body. They are one of the building blocks of body tissue and can also serve as a fuel source. Examples of protein foods include beans, eggs, and fish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68306",
+    "passage": ""
   }
 ]
