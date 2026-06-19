@@ -11845,5 +11845,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22356",
     "passage": ""
+  },
+  {
+    "id": 22357,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "If twice a certain integer is subtracted from 5 times the integer, the result is 63. Find the integer.",
+    "options": {
+      "A": "21",
+      "B": "9",
+      "C": "7",
+      "D": "4",
+      "E": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Let the integer = y\n\\(\\therefore\\) 5y - 2y = 63\n3y = 63 \\(\\implies\\) y = 21",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22357",
+    "passage": ""
   }
 ]
