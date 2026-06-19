@@ -8125,5 +8125,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69801",
     "passage": ""
+  },
+  {
+    "id": 69802,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A computer system under use was found to be unusually slow, freezes often and very dusty. What is needed to correct this problem?",
+    "options": {
+      "A": "Hit the system unit with a blower",
+      "B": "Delete some files",
+      "C": "Change the location of the computer",
+      "D": "Perform maintenance procedure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "To correct the described problems of a slow, freezing computer system that is also very dusty, the appropriate action is to perform maintenance procedures. Performing maintenance procedures could involve the following steps: Cleaning: Dust accumulation can lead to overheating and hinder proper airflow, causing the system to slow down or freeze. Open the computer's case and carefully clean the components using compressed air or an electronics-friendly blower. Checking for Malware: Slow performance and freezing can be caused by malware infections. Run a thorough malware scan to ensure the system is not compromised. Checking for Software Issues: Excessive background processes or malfunctioning software can also slow down a computer. Review and uninstall unnecessary or problematic applications. Updating Software: Ensure that the operating system, drivers, and applications are up to date. Sometimes, updates can address performance issues. Checking Hardware: Inspect hardware components for any visible damage or loose connections. Reseat RAM, check the hard drive's health, and make sure all components are properly seated. Removing Unnecessary Files: While deleting unnecessary files might help free up storage space, it might not directly address the issues mentioned. Note: Hitting the system unit with a blower is not recommended as it could potentially cause further damage to the hardware components. It's important to handle the hardware gently and follow appropriate cleaning methods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69802",
+    "passage": ""
   }
 ]
