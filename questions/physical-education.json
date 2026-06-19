@@ -6464,5 +6464,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76492",
     "passage": ""
+  },
+  {
+    "id": 76493,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The Bata dance of the Yoruba people is traditionally performed to honour which deity?",
+    "options": {
+      "A": "Obatala, god of creation",
+      "B": "Ogun, god of iron",
+      "C": "Sango, god of thunder",
+      "D": "Yemoja, goddess of the river"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Bata dance is a drumming and dance tradition used in worship of Sango. The dance involves powerful body movements matching the rhythm of the bata drums, symbolizing Sango's fiery energy. While Ogun, Yemoja, and Obatala are also Yoruba deities, Bata is most associated with Sango.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76493",
+    "passage": ""
   }
 ]
