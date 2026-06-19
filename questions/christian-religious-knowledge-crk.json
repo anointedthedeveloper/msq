@@ -1779,5 +1779,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/999",
     "passage": ""
+  },
+  {
+    "id": 1002,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Jesus said,'i will be clean,'to",
+    "options": {
+      "A": "a man with an unclean spirit",
+      "B": "a blind man",
+      "C": "a leper",
+      "D": "a lame man",
+      "E": "a woman with an issue of blood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1002",
+    "passage": ""
   }
 ]
