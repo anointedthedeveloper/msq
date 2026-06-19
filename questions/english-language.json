@@ -6861,5 +6861,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2998",
     "passage": ""
+  },
+  {
+    "id": 2999,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : Chike, who plays in the first eleven, is an expert …. dribbling",
+    "options": {
+      "A": "For",
+      "B": "By",
+      "C": "At",
+      "D": "With",
+      "E": "On"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "'At' as a Preposition is a word that joins a noun, pronoun, or noun phrases and makes each sentence complete. It is used in a sentence to indicate a location, direction, time, describe an activity, or sometimes, to introduce an object.\nIn this sentence, it is used to indicate Chike’s activity (at dribbling). Hence the complete statement would read;\nChike, who plays in the first eleven, is an expert at dribbling",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2999",
+    "passage": ""
   }
 ]
