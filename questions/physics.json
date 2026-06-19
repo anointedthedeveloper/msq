@@ -8314,5 +8314,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14048",
     "passage": ""
+  },
+  {
+    "id": 14049,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An object of heights 5 cm is placed at 20 cm from a concave mirror of focal length 10 cm. the image height is?",
+    "options": {
+      "A": "20 cm",
+      "B": "15 cm",
+      "C": "10 cm",
+      "D": "5 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(1)/V + (1)/U = (1)/f (1)/V + (1)/20 = (1)/10 (1)/V = (1)/10 - (1)/20 = (2 -1)/20 = (1)/20 ∴ V = 20 cm mag = (image height)/object height = (v)/u (X)/5 = (20)/50 X = 5 cm\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14049",
+    "passage": ""
   }
 ]
