@@ -5709,5 +5709,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76362",
     "passage": ""
+  },
+  {
+    "id": 76364,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which of the following is an example of health promotion?",
+    "options": {
+      "A": "Prescription of antibiotics for infections",
+      "B": "Emergency surgery for accident victims",
+      "C": "Rehabilitation after a stroke",
+      "D": "Vaccination campaigns to prevent infectious diseases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Vaccination campaigns are proactive measures aimed at preventing disease before it occurs, which aligns perfectly with health promotion goals. Emergency surgery and rehabilitation are treatments after illness or injury and fall under medical care rather than health promotion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76364",
+    "passage": ""
   }
 ]
