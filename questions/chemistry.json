@@ -9679,5 +9679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4006",
     "passage": ""
+  },
+  {
+    "id": 4007,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In countries where the temperature falls below 273K, salt is always sprinkled on the icy road in order to",
+    "options": {
+      "A": "lower the melting point of the ice",
+      "B": "increase the density of the ice",
+      "C": "make the ice impure",
+      "D": "raise the melting point of the ice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The presence of impurities in a substance lowers the melting point. Salt is added on icy roads to cause the ice to melt on time.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4007",
+    "passage": ""
   }
 ]
