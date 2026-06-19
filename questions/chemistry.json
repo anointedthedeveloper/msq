@@ -9637,5 +9637,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4000",
     "passage": ""
+  },
+  {
+    "id": 4002,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "What weight of NaCl is needed to make 2.0 dm\n3\nof a 1.5M solution?\n[Na = 23, Cl = 35.5]",
+    "options": {
+      "A": "116 g",
+      "B": "175 g",
+      "C": "87 g",
+      "D": "58 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4002",
+    "passage": ""
   }
 ]
