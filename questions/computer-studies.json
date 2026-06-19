@@ -11410,5 +11410,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64121",
     "passage": ""
+  },
+  {
+    "id": 64122,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "__________________ is the conversion of computer data from one format to another.",
+    "options": {
+      "A": "data conversion",
+      "B": "data implementation",
+      "C": "data transmission",
+      "D": "data transfer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Data conversion is the process of translating data from one format to another",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64122",
+    "passage": ""
   }
 ]
