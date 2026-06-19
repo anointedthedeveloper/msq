@@ -9419,5 +9419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77034",
     "passage": ""
+  },
+  {
+    "id": 77035,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following is not a normal form of relational database?",
+    "options": {
+      "A": "4NF",
+      "B": "2NF",
+      "C": "1NF",
+      "D": "3NF"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fourth Normal Form (4NF)\nA table is said to be in the Fourth Normal Form when It is in the Boyce-Codd Normal Form. And, it doesn't have Multi-Valued Dependency",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77035",
+    "passage": ""
   }
 ]
