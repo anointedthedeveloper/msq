@@ -3882,5 +3882,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73874",
     "passage": ""
+  },
+  {
+    "id": 73875,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "(same passage, extended)\nTamkar ya shiga wani kulob ne'. Kalmar da aka ja wa layi na nufin",
+    "options": {
+      "A": "al'ada",
+      "B": "kungiya",
+      "C": "sarauta",
+      "D": "sana'a"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The text uses the phrase \"tamkar ya shiga wani kulob ne\" to mean joining a group or association (kungiya) of people with similar interests or occupations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73875",
+    "passage": ""
   }
 ]
