@@ -2475,5 +2475,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1557",
     "passage": ""
+  },
+  {
+    "id": 1558,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A phenomenon where an element exist in different forms in the same physical state is known as",
+    "options": {
+      "A": "isomerism",
+      "B": "amorphism",
+      "C": "allotropy",
+      "D": "isotopy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Allotropy is the existence of two or more different physical forms of an element. For instance, Carbon exhibit allotropy as it exists in about three different forms, physically such as Diamond, Graphite and amorphous Carbon.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1558",
+    "passage": ""
   }
 ]
