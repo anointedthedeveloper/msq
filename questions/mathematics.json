@@ -14746,5 +14746,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23142",
     "passage": ""
+  },
+  {
+    "id": 23143,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A bricklayer measured the length of a wall and obtained 4.10m. If the actual length of the wall is 4.25m, find his percentage error.",
+    "options": {
+      "A": "3 9/17%",
+      "B": "3 27/41%",
+      "C": "15%",
+      "D": "35 5/17%",
+      "E": "36 24/41%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Error = 4.25 - 4.10 = 0.15\n% error = \\(\\frac{0.15}{4.25} \\times 100%\\)\n= \\(\\frac{15}{\\frac{17}{4}} = \\frac{15 \\times 4}{17}\\)\n= \\(3\\frac{9}{17} %\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23143",
+    "passage": ""
   }
 ]
