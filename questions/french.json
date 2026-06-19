@@ -3742,5 +3742,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71226",
     "passage": ""
+  },
+  {
+    "id": 71227,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.La maison.",
+    "options": {
+      "A": "La classe",
+      "B": "La cuisine",
+      "C": "La salle de bain",
+      "D": "La chamber"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The options are all rooms typically found in a house, such as a bedroom (La chamber), a kitchen (La cuisine), a bathroom (La salle de bain), and a living room (Le Salon). However, a classroom (La classe) is a room typically found in a school, not a house, making it the odd one out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71227",
+    "passage": ""
   }
 ]
