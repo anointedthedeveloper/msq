@@ -943,5 +943,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/699",
     "passage": ""
+  },
+  {
+    "id": 700,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "I. The frictional force is independent of the area of the surfaces in conduct II. The frictional force depends on the nature of the surfaces in contact III. The frictional force depends on the speed of sliding IV. The frictional force is directly proportional to the normal reaction. Which combination of the above is true of sliding friction?",
+    "options": {
+      "A": "I, III and IV",
+      "B": "I, II and IV",
+      "C": "I, II and III",
+      "D": "II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "LAWS OF SOLID FRICTION: Friction opposes the relative motion of two surfaces in contact. It is independent of the area of the surface of contact. It depends on the nature of the surface. It is proportional to normal reaction (R). It is independent of the relative velocity between the surfaces.\nTherefore, the true statements regarding sliding friction are I, II, and IV .\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/700",
+    "passage": ""
   }
 ]
