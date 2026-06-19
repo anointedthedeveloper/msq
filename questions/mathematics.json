@@ -12262,5 +12262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22408",
     "passage": ""
+  },
+  {
+    "id": 22409,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above, O is the center of the circle QRT and PT is a tangent to the circle at T. Calculate the angle x",
+    "options": {
+      "A": "55 o",
+      "B": "40 o",
+      "C": "35 o",
+      "D": "25 o",
+      "E": "20 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15215080265_wcmath198937.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907545/myschool/mathematics/15215080265_wcmath198937.jpg",
+    "correct_answer": "E",
+    "explanation": "< PTQ = <TRQ = 35º\n< QTR = 90º\nSo, < PTR = 35º + 90º = 125º\nTherefore, ∠QPT = xº = 180º - 125º - 35º = 20º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22409",
+    "passage": ""
   }
 ]
