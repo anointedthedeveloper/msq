@@ -123,5 +123,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49497",
     "passage": ""
+  },
+  {
+    "id": 49499,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Rinderpest in cattle is caused by a",
+    "options": {
+      "A": "bacterium",
+      "B": "fungus",
+      "C": "protozoan",
+      "D": "virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Rinderpest is an infectious disease of ruminants, especially cattle, caused by a paramyxovirus. It is characterized by fever, dysentery, and inflammation of the mucous membranes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49499",
+    "passage": ""
   }
 ]
