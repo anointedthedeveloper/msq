@@ -1656,5 +1656,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1471",
     "passage": ""
+  },
+  {
+    "id": 1472,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A metal that can be extracted from cassitertite is",
+    "options": {
+      "A": "cacium",
+      "B": "magnesium",
+      "C": "tin",
+      "D": "copper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1472",
+    "passage": ""
   }
 ]
