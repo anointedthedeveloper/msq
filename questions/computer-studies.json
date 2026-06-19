@@ -12670,5 +12670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64348",
     "passage": ""
+  },
+  {
+    "id": 64349,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which part of a laptop serves the same function as a mouse?",
+    "options": {
+      "A": "Arrow keys",
+      "B": "Navigation bar",
+      "C": "Touchpad",
+      "D": "Keyboard"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Touch pad is the part of a laptop that acts as a mouse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64349",
+    "passage": ""
   }
 ]
