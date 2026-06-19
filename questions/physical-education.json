@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64204",
     "passage": ""
+  },
+  {
+    "id": 64213,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Straddle style is employed in which of the following jumps?",
+    "options": {
+      "A": "Astride vault",
+      "B": "High jump",
+      "C": "Long jump",
+      "D": "pole vault"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The straddle technique was the dominant style in the high jump before the development of the Fosbury Flop.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64213",
+    "passage": ""
   }
 ]
