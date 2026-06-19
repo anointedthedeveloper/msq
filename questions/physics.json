@@ -10416,5 +10416,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14345",
     "passage": ""
+  },
+  {
+    "id": 14346,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Transistors are used for the?",
+    "options": {
+      "A": "rectification of signals",
+      "B": "conversion of a.c to d.c",
+      "C": "amplification of signals",
+      "D": "conversion of d.c to a.c"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "transistor serve the same purpose as triode valve, which is amplification of signals.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14346",
+    "passage": ""
   }
 ]
