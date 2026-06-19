@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64220",
     "passage": ""
+  },
+  {
+    "id": 64223,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "An injury resulting from the forceful twisting of the joint is called",
+    "options": {
+      "A": "Dislocation",
+      "B": "fracture",
+      "C": "sprain",
+      "D": "strain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "when a joint is twisted, it is known as a sprain. (C)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64223",
+    "passage": ""
   }
 ]
