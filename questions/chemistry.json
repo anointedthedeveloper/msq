@@ -217,5 +217,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/40",
     "passage": ""
+  },
+  {
+    "id": 41,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When heat is absorbed during a chemical reaction, the reaction is said to be",
+    "options": {
+      "A": "thermodynamic",
+      "B": "exothermic",
+      "C": "isothermal",
+      "D": "endothermic",
+      "E": "thermostatic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/41",
+    "passage": ""
   }
 ]
