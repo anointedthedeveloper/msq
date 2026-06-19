@@ -2517,5 +2517,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50198",
     "passage": ""
+  },
+  {
+    "id": 50200,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Drug abuse can be prevented by?",
+    "options": {
+      "B": "poverty reduction",
+      "C": "reducing drugs in circulation",
+      "D": "legal sanction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Legal Sanctions , are penalties or other means of enforcement used to provide incentives for obedience with the law , or with rules and regulations. Criminal sanctions can take the form of serious punishment, such as corporal or capital punishment, incarceration, or severe fines.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50200",
+    "passage": ""
   }
 ]
