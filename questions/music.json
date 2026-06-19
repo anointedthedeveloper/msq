@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48094",
     "passage": ""
+  },
+  {
+    "id": 48095,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Umoja is a traditional dance group from",
+    "options": {
+      "A": "South Africa",
+      "B": "Ivory coast",
+      "C": "Togo",
+      "D": "Nigeria"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48095",
+    "passage": ""
   }
 ]
