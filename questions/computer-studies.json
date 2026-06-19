@@ -1194,5 +1194,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61386",
     "passage": ""
+  },
+  {
+    "id": 61387,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A collection of wires through which data are transmitted from one part of the computer to another is known as",
+    "options": {
+      "A": "address",
+      "B": "bus",
+      "C": "driver",
+      "D": "register"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61387",
+    "passage": ""
   }
 ]
