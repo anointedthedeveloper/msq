@@ -1236,5 +1236,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1375",
     "passage": ""
+  },
+  {
+    "id": 1378,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The correct order of increasing oxidation number of the transition metal ions for the compounds K\n2\nCr\n2\nO\n7\n, V\n2\nO\n5\nand KMnO\n4\nis",
+    "options": {
+      "A": "V 2 O 5 < K 2 Cr 2 O 7 < KMnO 4",
+      "B": "K 2 Cr 2 O 7 < KMnO 4 < V 2 O 5",
+      "C": "KMnO 4 < K 2 Cr 2 O 7 < V 2 O 5",
+      "D": "KMnO 4 < V 2 O 5 < K 2 Cr 2 O 7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1378",
+    "passage": ""
   }
 ]
