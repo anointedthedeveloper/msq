@@ -832,5 +832,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/930",
     "passage": ""
+  },
+  {
+    "id": 931,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A typical example of landforms produced by marine erosion is a",
+    "options": {
+      "A": "beach",
+      "B": "spit",
+      "C": "mud-flat",
+      "D": "stack"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/931",
+    "passage": ""
   }
 ]
