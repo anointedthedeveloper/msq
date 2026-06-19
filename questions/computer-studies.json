@@ -18894,5 +18894,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/71054",
     "passage": ""
+  },
+  {
+    "id": 71372,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which statement is used to skip the execution of the current iteration and start the next iteration in a loop?",
+    "options": {
+      "A": "Jump statement",
+      "B": "Skip statement",
+      "C": "Continue statement",
+      "D": "Next statement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The continue statement skips the rest of the current loop iteration and continues with the next iteration. It is often used to skip certain values in a loop based on a specific condition.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71372",
+    "passage": ""
   }
 ]
