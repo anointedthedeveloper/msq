@@ -8405,5 +8405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2804",
     "passage": ""
+  },
+  {
+    "id": 2806,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Public corporations are established to",
+    "options": {
+      "A": "reduce government spending",
+      "B": "boost government revenue",
+      "C": "improve provision of social amenities",
+      "D": "create vacancies for political appointments"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2806",
+    "passage": ""
   }
 ]
