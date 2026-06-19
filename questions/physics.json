@@ -17756,5 +17756,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25030",
     "passage": ""
+  },
+  {
+    "id": 25031,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "The potential difference between two points A and B situated at a distance d apart is V. Which of the following expresses the magnitude of the electric field intensity between the two points assuming the field is uniform?",
+    "options": {
+      "A": "Vd",
+      "B": "dV\n-1",
+      "C": "Vd\n-1",
+      "D": "V\n2\nd",
+      "E": "d\n2\nV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25031"
   }
 ]
