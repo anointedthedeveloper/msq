@@ -6171,5 +6171,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2648",
     "passage": ""
+  },
+  {
+    "id": 2649,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Which of the following acts as both reducing and oxidizing agent?",
+    "options": {
+      "A": "H 2",
+      "B": "SO 2",
+      "C": "H 2 S",
+      "D": "CO 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "SO\\(_2\\) can act as both an oxidizing and reducing agent because it has multiple valencies, with the oxidation state of sulphur ranging from -2 to +6. It can oxidize hydrogen sulphide to sulphur, and carbon monoxide to carbon dioxide. It can lose electrons to other compounds, reducing itself to a lower valency state. For example, SO\\(_2\\) can reduce ferric to ferrous salts, and acidified potassium iodate to iodine. Therefore, sulphur dioxide, SO\\(_2\\) can act as both an oxidizing and reducing agent.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2649",
+    "passage": ""
   }
 ]
