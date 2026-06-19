@@ -9448,5 +9448,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14275",
     "passage": ""
+  },
+  {
+    "id": 14276,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In the circuit diagram of a transistor above, the terminal\nP, Q\nand\nR\nrepresent",
+    "options": {
+      "A": "EMITTER, BASE and COLLECTOR",
+      "B": "COLLECTOR, EMITTER and BASE",
+      "C": "BASE, COLLECTOR and EMITTER",
+      "D": "BASE, ENITTER and COLLECTOR"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24543335448_phy200521.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890377/myschool/physics/24543335448_phy200521.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14276",
+    "passage": ""
   }
 ]
