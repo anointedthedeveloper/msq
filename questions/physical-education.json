@@ -4953,5 +4953,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70833",
     "passage": ""
+  },
+  {
+    "id": 70834,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is a key aspect of ensuring electrical safety at home?",
+    "options": {
+      "A": "Using old, reliable appliances",
+      "B": "Regularly checking for frayed wires",
+      "C": "Overloading outlets with multiple devices",
+      "D": "Dismissing minor electrical issues"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Regularly checking for frayed wires helps prevent electrical fires and accidents, ensuring a safe home environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70834",
+    "passage": ""
   }
 ]
