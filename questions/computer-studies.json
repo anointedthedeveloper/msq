@@ -17607,5 +17607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69846",
     "passage": ""
+  },
+  {
+    "id": 69847,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Headers and footers are used in Microsoft Word documents to",
+    "options": {
+      "A": "enhance the overall appearance of the document.",
+      "B": "allow text to appear at the top and bottom of every page.",
+      "C": "make large document more readable.",
+      "D": "allow test to appear at the top of the first page."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Headers and footers are used in Microsoft Word documents to \"allow text to appear at the top and bottom of every page.\" Headers are sections of the document that appear at the top of each page, and footers appear at the bottom of each page. They provide a way to include consistent information such as page numbers, document titles, author names, dates, and other important details that you want to appear on every page of the document. Headers and footers enhance the professional appearance and consistency of a document, especially for larger documents or reports.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69847",
+    "passage": ""
   }
 ]
