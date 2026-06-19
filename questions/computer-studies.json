@@ -6228,5 +6228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62458",
     "passage": ""
+  },
+  {
+    "id": 62459,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Use the following QBASIC statement to answer questions 14 and 15.\nDIM DEPOSIT (1, 10) 14.\nThe keyword DIM in the statement stands for?",
+    "options": {
+      "A": "diagram",
+      "B": "diameter",
+      "C": "diamond",
+      "D": "dimension"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62459",
+    "passage": ""
   }
 ]
