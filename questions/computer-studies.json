@@ -13363,5 +13363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64396",
     "passage": ""
+  },
+  {
+    "id": 64397,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Word processor, spreadsheets, database, graphics and presentation software are all examples of?",
+    "options": {
+      "A": "application packages",
+      "B": "utility packages",
+      "C": "operating system software",
+      "D": "None of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "All the listed above are examples of application packages.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64397",
+    "passage": ""
   }
 ]
