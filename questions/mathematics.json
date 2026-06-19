@@ -15208,5 +15208,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23163",
     "passage": ""
+  },
+  {
+    "id": 23164,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Find the value of t in the diagram above",
+    "options": {
+      "A": "5.6cm",
+      "B": "6.5cm",
+      "C": "6.6cm",
+      "D": "6.8cm",
+      "E": "7.0cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9691143084_wcmath199226.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909737/myschool/mathematics/9691143084_wcmath199226.jpg",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{\\text{t}}{t + 4}\\) = \\(\\frac{7}{7 + 5}\\)\n\\(\\frac{\\text{t}}{t + 4}\\) = \\(\\frac{7}{12}\\)\n12t = 7t + 28\n12t - 7t = 28\n5t = 28\nt = \\(\\frac{28}{5}\\) = 5.6cm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23164",
+    "passage": ""
   }
 ]
