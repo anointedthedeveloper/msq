@@ -12679,5 +12679,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22604",
     "passage": ""
+  },
+  {
+    "id": 22605,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "If log x = \\(\\bar{2}.3675\\) and log y = 0.9750, what is the value of x + y? Correct to three significant figures",
+    "options": {
+      "A": "1.18",
+      "B": "1.31",
+      "C": "9.03",
+      "D": "9.44",
+      "E": "9.46"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "log x = \\(\\bar{2}.3675\\) ; log y = 0.9750\n\\(x = 10^{\\bar{2}.3675} = 0.02331 \\)\n\\(y = 10^{0.9750} = 9.441 \\)\n\\(x + y = 9.4641 \\approxeq 9.46\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22605",
+    "passage": ""
   }
 ]
