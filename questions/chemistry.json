@@ -8524,5 +8524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3734",
     "passage": ""
+  },
+  {
+    "id": 3735,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "H\\(_2\\)(g) + Br\\(_2\\)(g) → 2HBr(g) The above reaction is carried out at 25\\(^0\\)C. ΔH is -72 kJ mol-1 and ΔS is - 106 J mol-1K-1, the reaction will?",
+    "options": {
+      "A": "not proceed spontaneously at the given",
+      "B": "proceed spontaneously at the given temperature",
+      "C": "proceed in the reverse direction at the given temperature",
+      "D": "proceed spontenously at lower temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For a reaction to be spontaneous, ∆G = - ve; ∆H = - ve; ∆S = + ve\nWhere ∆G = ∆H - T∆S\nGiven data; ∆G = ?\n∆H = - 72KJ/mol,\nT = (25+273)K = 298K\n∆S = -106J/mol or - 0.106KJ/mol/K\n: ∆G = -72 -(298 * -  0.106)\n= - 72 + 31.588\n∆G = - 40.412KJ/mol\nOne of the condition for spontaneity of a reaction is ∆G to be negative.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3735",
+    "passage": ""
   }
 ]
