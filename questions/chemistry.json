@@ -10834,5 +10834,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4300",
     "passage": ""
+  },
+  {
+    "id": 4301,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The mixture of gases used in a photographer's flash tube is?",
+    "options": {
+      "A": "argon and krypton",
+      "B": "krypton and xenon",
+      "C": "helium and argon",
+      "D": "argon and xenon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "krypton and xenon for high-speed pictures in a photographer's flash tube\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4301",
+    "passage": ""
   }
 ]
