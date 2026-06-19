@@ -7477,5 +7477,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3026",
     "passage": ""
+  },
+  {
+    "id": 3027,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A - E\n:\nIt .... so hard that all the cars have stopped moving.",
+    "options": {
+      "A": "rains",
+      "B": "will rain",
+      "C": "is raining",
+      "D": "was raining",
+      "E": "might rain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3027",
+    "passage": ""
   }
 ]
