@@ -14497,5 +14497,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64852",
     "passage": ""
+  },
+  {
+    "id": 64854,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "he QBASIC statement LETX=Y-3 means",
+    "options": {
+      "A": "the variables X and Y both receive the value 3",
+      "B": "the variable X receives the value3.",
+      "C": "the variable X receives the value of Y less 3",
+      "D": "an error message has occured due to type mismatch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64854",
+    "passage": ""
   }
 ]
