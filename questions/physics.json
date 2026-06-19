@@ -859,5 +859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/695",
     "passage": ""
+  },
+  {
+    "id": 696,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the force and the velocity on a system are each reduced simultaneously by half, the power of the system is",
+    "options": {
+      "A": "doubled",
+      "B": "reduced to a quarter",
+      "C": "reduced by half",
+      "D": "constant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Relation between Power , Force and Velocity is given by the relation:\nP = F.V , this power is the product of force and velocity .\nTherefore, The power of the system is reduced to one-quarter of its original value when both the force and the velocity are reduced by half.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/696",
+    "passage": ""
   }
 ]

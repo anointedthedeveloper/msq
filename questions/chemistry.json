@@ -876,5 +876,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/767",
     "passage": ""
+  },
+  {
+    "id": 768,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A gas jar was inverted over burning yellow phosphorus floating over water in a beaker. After burning, the water level was found to rise in the gas jar. The water level rises because",
+    "options": {
+      "A": "pressure inside the gas jar is greater than pressure outside it",
+      "B": "the air in the gas jar had been used up by burning",
+      "C": "oxygen in the gas jar had been used up by burning",
+      "D": "nitrogen in the gas jar had been used up by burning",
+      "E": "the temperature in the jar had risen considerably"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/768",
+    "passage": ""
+  },
+  {
+    "id": 776,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "You are provided with five gas jars containing SO2, CO2, H2, CO and NO respectively. Select a test from A to E which will identify ANY ONE of the gases completely",
+    "options": {
+      "A": "pass each gas into lime water",
+      "B": "pass each gas into water and test with litmus paper",
+      "C": "pass each gas into concentrated sulphuric acid",
+      "D": "expose each gas to atmospheric air",
+      "E": "expose each gas to fumes of hydrogen chloride"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Option D is correct TgQPHd|[] because exposing the gas jars to atmospheric air allows Nitrogen(II) oxide (NO) TgQPHd|[] to be definitively identified. (NO) is a colourless gas that immediately reacts with oxygen in the atmospheric air to form Nitrogen(IV) oxide ((NO\\(_2\\)) TgQPHd|[] , which is a highly visible reddish-brown gas TgQPHd|[] .\nOption A is incorrect TgQPHd|[] because passing the gases into lime water (Ca(OH)\\(_2\\)) cannot completely isolate a single gas. While carbon dioxide (CO\\(_2\\)) turns lime water milky due to the formation of insoluble calcium carbonate (CaCO\\(_3\\)), sulphur dioxide (SO\\(_2\\)) also TgQPHd|[] turns lime water milky by forming an insoluble precipitate of calcium sulfite (CaSO\\(_3\\)). Therefore, it fails to identify just one TgQPHd|[] gas completely.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/776",
+    "passage": ""
   }
 ]

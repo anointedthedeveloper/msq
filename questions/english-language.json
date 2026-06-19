@@ -922,5 +922,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/515",
     "passage": ""
+  },
+  {
+    "id": 516,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; If i went to the cinema I .... early.",
+    "options": {
+      "A": "shall return",
+      "B": "am returning",
+      "C": "would return",
+      "D": "had return",
+      "E": "may return"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The sentence \"If I went to the cinema, I .... early\" is a second conditional sentence, which describes a hypothetical or unreal situation in the present or future. The structure of the second conditional is:\nIf + past tense, ... would + base verb\n\"If I went\" (past tense) follows this rule, so the correct verb form in the main clause should be \"would return\" .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/516",
+    "passage": ""
   }
 ]
