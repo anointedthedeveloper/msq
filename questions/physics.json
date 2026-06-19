@@ -4765,5 +4765,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12757",
     "passage": ""
+  },
+  {
+    "id": 12759,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The maximum kinetic energy of the photoelectron emitted from a metal surface is 0.34eV. If the work function of the metal surface is 1.83eV,find the stopping potential.",
+    "options": {
+      "A": "2.17V",
+      "B": "1.49V",
+      "C": "1.09V",
+      "D": "0.34V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "(max)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12759",
+    "passage": ""
   }
 ]
