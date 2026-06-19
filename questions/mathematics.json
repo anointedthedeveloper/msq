@@ -16308,5 +16308,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23214",
     "passage": ""
+  },
+  {
+    "id": 23215,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "If sin x = cos 50\no\n, then x equals",
+    "options": {
+      "A": "40 o",
+      "B": "45 o",
+      "C": "50 o",
+      "D": "90 o",
+      "E": "130 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23215",
+    "passage": ""
   }
 ]
