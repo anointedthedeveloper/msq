@@ -17991,5 +17991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70755",
     "passage": ""
+  },
+  {
+    "id": 70756,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which access method is least efficient for data retrieval?",
+    "options": {
+      "A": "Direct access",
+      "B": "Sequential access",
+      "C": "Indexed access",
+      "D": "Random Access"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sequential access requires data to be accessed in a sequential order from the beginning of the file until the desired data is found. This method is inefficient when the required data is not near the beginning of the file, as it necessitates reading through all preceding data.\nIn contrast, direct access and indexed enable faster retrieval by allowing immediate access to specific data locations without the need for sequential scanning,Random access also provides efficient access to any data location in the file directly. Therefore, sequential access is the least efficient method for data retrieval among the choice",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70756",
+    "passage": ""
   }
 ]
