@@ -1047,5 +1047,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/831",
     "passage": ""
+  },
+  {
+    "id": 832,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Mg(s) + 2HCl(aq) → MgCl2(aq) + H2(g) From the equation above, the mass of magnesium required to react with 250cm3 of 0.5M HCl is [Mg = 24]",
+    "options": {
+      "A": "0.3g",
+      "B": "1.5g",
+      "C": "2.4g",
+      "D": "3.0g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Molar conc. =no.of moles／Vol in dm3 Vol=250cm3= 0.25dm3 Molar conc=0.5M No of moles=molar conc *Vol in dm3 =0.5*0.25 =0.125mole of HCl 2moles of HCl → １Mole of Mg 0.125 mole →(0.125*1)/2 =0.0625mole of Mg Reacting mass=no of moles* molar mass Mg=24 Mass=0.0625*24 =1.5g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/832",
+    "passage": ""
   }
 ]
