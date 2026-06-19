@@ -5107,5 +5107,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75876",
     "passage": ""
+  },
+  {
+    "id": 75877,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Il fait tres chaud en _.",
+    "options": {
+      "A": "printemps",
+      "B": "automne",
+      "C": "été",
+      "D": "hiver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French word \"ete\" means \"summer,\" a season that is hot.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75877",
+    "passage": ""
   }
 ]
