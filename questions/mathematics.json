@@ -9259,5 +9259,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9390",
     "passage": ""
+  },
+  {
+    "id": 9407,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What is the mean deviation of x, 2x, x+1 and 3x. If their mean is 2?",
+    "options": {
+      "A": "0.5",
+      "B": "1.0",
+      "C": "1.5",
+      "D": "2.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x ∴ x x -\\(\\overline{X}\\) / x -\\(\\overline{X}\\)/ x 1 -1 1 2 x 2 0 0 x +1 2 0 0 3 x 3 1 1 ∑/ x -\\(\\overline{X}\\)/ = 2\nMean(\\(\\overline{X}\\)) = \\(\\frac{ x + 2x + x + 1 + 3x}{4}\\) = 2\n2 = \\(\\frac{7x + 1}{4}\\)\n8 = 7x + 1\n7x = 8 - 1 = 7\nx = \\(\\frac{7}{7}\\) = 1\nMean deviation = \\(\\frac{∑(| x - \\overline{X}|)}{n}\\)\nM.D = \\(\\frac{2}{4}\\) = \\(\\frac{1}{2}\\) = 0.5\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9407",
+    "passage": ""
   }
 ]
