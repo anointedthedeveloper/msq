@@ -7061,5 +7061,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/76041",
     "passage": ""
+  },
+  {
+    "id": 76042,
+    "subject": "yoruba",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Èdá ìbílẹ̀ Yoruba ní a mọ̀ sí ...?",
+    "options": {
+      "A": "Ìbèbè",
+      "B": "Ègún",
+      "C": "Èjẹ̀",
+      "D": "Òrìșà"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Òrìșà jé apá pataki nínú àșà àti ẹ̀sìn ìbílẹ̀ Yorùbá.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/76042",
+    "passage": ""
   }
 ]
