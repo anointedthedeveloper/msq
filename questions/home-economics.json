@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73232",
     "passage": ""
+  },
+  {
+    "id": 73233,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The mixture of sugar, salt and water is used to control ............ in children.",
+    "options": {
+      "A": "Fever",
+      "B": "Diarrhea",
+      "C": "Colic",
+      "D": "Constipation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The mixture of sugar, salt, and water is known as Oral Rehydration Solution (ORS) or oral rehydration therapy (ORT). It is used to treat diarrhea in children and adults, helping to replace lost fluids and electrolytes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73233",
+    "passage": ""
   }
 ]
