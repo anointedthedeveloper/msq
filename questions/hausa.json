@@ -669,5 +669,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73463",
     "passage": ""
+  },
+  {
+    "id": 73464,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Fassara wadannan: They bought a new umbrella. Sun..........................lema.",
+    "options": {
+      "A": "bata",
+      "B": "kawo",
+      "C": "sayo",
+      "D": "yaga"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "sayo (They bought a new umbrella translates to \"Sun sayo sabuwar lema\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73464",
+    "passage": ""
   }
 ]
