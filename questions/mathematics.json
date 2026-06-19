@@ -9112,5 +9112,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9359",
     "passage": ""
+  },
+  {
+    "id": 9360,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If s = (2 + 3t)(5t - 4), find ds/dt when t = \\(\\frac{4}{5}\\) secs",
+    "options": {
+      "A": "0 units per sec",
+      "B": "15 units per sec",
+      "C": "22 unit per sec",
+      "D": "26 units per sec"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "x = (2+3t)(5t-4) Let u = 2+3t ∴ \\(\\frac{\\text{du}}{\\text{dt}}\\) = 3 and v = 5t-4 ∴ \\(\\frac{\\text{dv}}{\\text{dt}}\\) = 5 dx/dt = \\(\\frac{\\text{Vdu}}{\\text{dt}}\\) + \\(\\frac{\\text{Udv}}{\\text{dt}}\\) = (5t-4)3 + (2+3t)5 = 15t - 12 + 10 + 15t = 30t - 2 = 30 x \\(\\frac{4}{5}\\) - 2 = 24 - 2 = 22\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9360",
+    "passage": ""
   }
 ]
