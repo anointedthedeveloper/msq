@@ -7726,5 +7726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69781",
     "passage": ""
+  },
+  {
+    "id": 69782,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following devices is needed by a technician for protection against electrostatic discharge?",
+    "options": {
+      "A": "Magnet",
+      "B": "Wrist strap",
+      "C": "Screw driver",
+      "D": "Surge protector"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A wrist strap is needed by a technician for protection against electrostatic discharge (ESD). ESD is a sudden discharge of electricity that can damage electronic components. It can occur when two objects with different electrical charges come into contact. When working on electronic components, it is important to prevent ESD from damaging them. A wrist strap is a device that helps to prevent ESD by dissipating the electrical charge from the body to the ground. It is worn around the wrist and connected to a grounding point, such as a metal pipe or a ground rod.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69782",
+    "passage": ""
   }
 ]
