@@ -2594,5 +2594,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61817",
     "passage": ""
+  },
+  {
+    "id": 61818,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "What is the other word used to describe browsing?",
+    "options": {
+      "A": "Cyber cafing",
+      "B": "Pinging",
+      "C": "Searching",
+      "D": "Surfing",
+      "E": "Uploading"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61818",
+    "passage": ""
   }
 ]
