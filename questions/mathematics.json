@@ -16855,5 +16855,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23463",
     "passage": ""
+  },
+  {
+    "id": 23466,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "Simplify: 16\\(^{\\frac{5}{4}}\\) x 2\\(^{-3}\\) x 3\\(^0\\)",
+    "options": {
+      "A": "0",
+      "B": "2",
+      "C": "4",
+      "D": "10",
+      "E": "20"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "16\\(^{\\frac{5}{4}}\\) x 2\\(^{-3}\\) x 3\\(^0\\)\n= \\((2^4)^{\\frac{5}{4}} \\times 2^{-3} \\times 1\\)\n= \\(2^5 \\times 2^{-3} \\times 1\\)\n= \\(2^2\\)\n= 4.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23466",
+    "passage": ""
   }
 ]
