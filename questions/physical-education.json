@@ -1,0 +1,23 @@
+[
+  {
+    "id": 64140,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following best describes triple jump?",
+    "options": {
+      "A": "Hop, step and jump",
+      "B": "Hop, step and run",
+      "C": "Jump, hop and step",
+      "D": "Run, hop and jump"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hop, step and jump are associated with triple jump.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64140",
+    "passage": ""
+  }
+]
