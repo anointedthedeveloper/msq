@@ -2266,5 +2266,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68245",
     "passage": ""
+  },
+  {
+    "id": 68246,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The following are the injuries that can be sustained at sport except ____",
+    "options": {
+      "A": "sprain",
+      "B": "bruises",
+      "C": "strain",
+      "D": "stomach ache"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the context of sports, injuries typically refer to physical harm or damage that happens to the body. This can include sprains, strains, and bruises. A stomach ache, while it can be uncomfortable, is not typically classified as a sports injury unless it is caused by a direct blow or trauma during the sport. Therefore, the correct answer is 'stomach ache'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68246",
+    "passage": ""
   }
 ]
