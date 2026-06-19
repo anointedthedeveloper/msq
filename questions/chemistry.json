@@ -8881,5 +8881,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3774",
     "passage": ""
+  },
+  {
+    "id": 3784,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Which of the following sets of metals dissolves in dilute HCl?",
+    "options": {
+      "A": "Fe, Sn and Cu",
+      "B": "Mg, Fe and Cu",
+      "C": "Mg, Sn and Fe",
+      "D": "Cu, Mg and Sn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Mg, Sn and Fe all dissolve in dilute HCl because they are more reactive and have a greater tendency to lose electrons to form ions. In contrast, Cu does not readily dissolve in dilute HCl.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3784",
+    "passage": ""
   }
 ]
