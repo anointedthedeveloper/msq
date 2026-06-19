@@ -9007,5 +9007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9333",
     "passage": ""
+  },
+  {
+    "id": 9334,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "What is the value of p if the gradient of the line joining (-1,p) and (p, 4) is \\(\\frac{2}{3}\\)?",
+    "options": {
+      "A": "-2",
+      "B": "-1",
+      "C": "1",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Gradient = \\(\\frac{y_2 - y_1}{x_2 - x_1}\\)\n\\(\\frac{2}{3}\\) = \\(\\frac{4 - p}{p - (-1)}\\)\n\\(\\frac{2}{3}\\) = \\(\\frac{4 - p}{p + 1}\\)\n3(4-p) = 2(p+1)\n12 - 3p = 2p + 2\n12 – 2 = 2p + 3p\n10 = 5p\np= \\(\\frac{10}{5}\\) = 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9334",
+    "passage": ""
   }
 ]
