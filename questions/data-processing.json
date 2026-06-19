@@ -607,5 +607,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57360",
     "passage": ""
+  },
+  {
+    "id": 57362,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following is not a safety equipment in a computer laboratory?",
+    "options": {
+      "A": "surge protector",
+      "B": "metal detector",
+      "C": "smoke detector",
+      "D": "fore extinguisher"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57362",
+    "passage": ""
   }
 ]
