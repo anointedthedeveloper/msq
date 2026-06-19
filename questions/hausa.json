@@ -7088,5 +7088,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75957",
     "passage": ""
+  },
+  {
+    "id": 75958,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Gidan nan babba ne.\" Mene ne bayanin magana?",
+    "options": {
+      "A": "Gidan nan",
+      "B": "Babbane",
+      "C": "Gidan",
+      "D": "Ne"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It is the predicate - the part that gives information about the subject.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75958",
+    "passage": ""
   }
 ]
