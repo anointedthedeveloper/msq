@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/199",
     "passage": ""
+  },
+  {
+    "id": 200,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The biggest source of government revenue in Nigeria is",
+    "options": {
+      "A": "mining, rents and royalties",
+      "B": "company income tax",
+      "C": "import duties",
+      "D": "export duties",
+      "E": "petroleum profit tax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Nigeria's economy is heavily reliant on oil, and the petroleum sector contributes significantly to government revenue through taxes and royalties, particularly the petroleum profit tax.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/200",
+    "passage": ""
   }
 ]
