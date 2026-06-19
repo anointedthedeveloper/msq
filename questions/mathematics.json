@@ -16594,5 +16594,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23227",
     "passage": ""
+  },
+  {
+    "id": 23228,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "How many student took the examination",
+    "options": {
+      "A": "18",
+      "B": "20",
+      "C": "21",
+      "D": "23",
+      "E": "24"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13847858180_wcmath199343.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910447/myschool/mathematics/13847858180_wcmath199343.jpg",
+    "correct_answer": "E",
+    "explanation": "= 2 + 4 + 3 + 6 + 6 + 2 + 1\n= 24 students",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23228",
+    "passage": ""
   }
 ]
