@@ -1515,5 +1515,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/631",
     "passage": ""
+  },
+  {
+    "id": 632,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these is not usually the function of a wholesaler?",
+    "options": {
+      "A": "Transport",
+      "B": "Storage",
+      "C": "Advertising",
+      "D": "After-sale services",
+      "E": "Branding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/632",
+    "passage": ""
   }
 ]
