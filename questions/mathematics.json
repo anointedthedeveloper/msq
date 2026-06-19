@@ -3232,5 +3232,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7713",
     "passage": ""
+  },
+  {
+    "id": 7715,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the number of ways of selecting 8 subjects from 12 subjects for an examination",
+    "options": {
+      "A": "490",
+      "B": "495",
+      "C": "496",
+      "D": "498"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "To calculate the binomial coefficient \\(^{12}C_{8}\\):\n\\(^{12}C_{8} = \\frac{12!}{8!4!} = \\frac{12 \\times 11 \\times 10 \\times 9}{4!}\\)\nCalculating \\(4!\\):\n\\(4! = 24\\)\nThus, \\(^{12}C_{8} = \\frac{12 \\times 11 \\times 10 \\times 9}{24} = \\frac{11880}{24}\\) = 495\n= \\(^{12}C_{8}\\) = 495\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7715",
+    "passage": ""
   }
 ]
