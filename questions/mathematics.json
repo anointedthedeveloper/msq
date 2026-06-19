@@ -8020,5 +8020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9283",
     "passage": ""
+  },
+  {
+    "id": 9284,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The locus of a point equidistant from two points p(6,2) and R(4,2) is a perpendicular bisector of PR passing through?",
+    "options": {
+      "A": "(2,5)",
+      "B": "(5,2)",
+      "C": "(1,0)",
+      "D": "(0,1)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "X = \\(\\frac{6+4}{2}\\) = \\(\\frac{10}{2}\\) = 5 Y = \\(\\frac{2+2}{2}\\) = \\(\\frac{4}{2}\\) =2 ∴  X, Y = (5,2)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9284",
+    "passage": ""
   }
 ]
