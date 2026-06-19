@@ -3148,5 +3148,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68302",
     "passage": ""
+  },
+  {
+    "id": 68303,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following part of the human body is responsible for movement ?",
+    "options": {
+      "A": "muscles",
+      "B": "muscles",
+      "C": "skin",
+      "D": "tissues"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The muscles in the human body are responsible for movement. They contract and relax to move the body parts. Tissues, bones, and skin are also parts of the human body but they do not directly cause movement. Tissues are groups of cells that have a similar structure and act together to perform a specific function. Bones provide support and structure to the body. Skin is the outer covering of the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68303",
+    "passage": ""
   }
 ]
