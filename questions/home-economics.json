@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73205",
     "passage": ""
+  },
+  {
+    "id": 73206,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The method of cooking in which heat travels directly to the food is:",
+    "options": {
+      "A": "Stewing",
+      "B": "Grilling",
+      "C": "Baking",
+      "D": "Boiling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Grilling is a method of cooking where heat travels directly to the food through direct contact with a heat source, such as a flame or hot coals. This direct heat transfer allows for quick cooking and caramelization of the food’s surface, resulting in a crispy exterior and tender interior.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73206",
+    "passage": ""
   }
 ]
