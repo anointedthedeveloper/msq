@@ -60,5 +60,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73409",
     "passage": ""
+  },
+  {
+    "id": 73410,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Ware bare dangane da jam'i a tambaya ta 32 da ta 33.",
+    "options": {
+      "A": "Katifa",
+      "B": "Takarda",
+      "C": "Korama",
+      "D": "Littafi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Which of the following is a plural noun? Littafi (Littafi is the plural form of Littaf, meaning \"books\". Katifa is a singular noun, Korama is not a correct plural form, Takarda is a singular noun, and Wasika is a singular noun)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73410",
+    "passage": ""
   }
 ]
