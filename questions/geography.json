@@ -2889,5 +2889,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6247",
     "passage": ""
+  },
+  {
+    "id": 6255,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "With which one of the following areas are active volcanoes associated?",
+    "options": {
+      "A": "Glaciated uplands",
+      "B": "Plateau surfaces",
+      "C": "Newly folded mountains",
+      "D": "Coastal regions",
+      "E": "Continental plains"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6255",
+    "passage": ""
   }
 ]
