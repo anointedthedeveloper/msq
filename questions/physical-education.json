@@ -5247,5 +5247,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70847",
     "passage": ""
+  },
+  {
+    "id": 70848,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the primary difference between strength training and power training?",
+    "options": {
+      "A": "Strength training requires no equipment, while power training uses weights",
+      "B": "Strength training aims to increase muscle size, while power training focuses on explosive strength",
+      "C": "Strength training focuses on high reps, while power training focuses on low reps",
+      "D": "Strength training and power training are the same"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "While both strength training and power training involve lifting weights, they have different goals. Strength training emphasizes building muscle mass and endurance, typically using heavier weights with fewer repetitions. Power training, on the other hand, aims to improve the ability to generate force quickly, often using lighter weights with explosive movements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70848",
+    "passage": ""
   }
 ]
