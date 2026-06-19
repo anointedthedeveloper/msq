@@ -284,5 +284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/352",
     "passage": ""
+  },
+  {
+    "id": 353,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following factors must account for the rapid increase in world population during the twentieth century?",
+    "options": {
+      "A": "The slave trade was abolished",
+      "B": "Death rates have decreased rapidly",
+      "C": "Birth rates have increased rapidly",
+      "D": "Increasing world production of food",
+      "E": "Large-scale migration of people"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/353",
+    "passage": ""
   }
 ]
