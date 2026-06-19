@@ -16701,5 +16701,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23232",
     "passage": ""
+  },
+  {
+    "id": 23233,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "What is the probability that a total sum of seven would appear in two tosses of a fair die?",
+    "options": {
+      "A": "5/36",
+      "B": "1/6",
+      "C": "7/36",
+      "D": "5/6",
+      "E": "1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "No of possible outcome = 36\nRequired outcome (R) = {(1, 6), (6, 1), (2, 5), (5, 2), (3, 4), (4, 3)}\nn(R) = \\(\\frac{6}{36}\\)\n= \\(\\frac{1}{6}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23233",
+    "passage": ""
   }
 ]
