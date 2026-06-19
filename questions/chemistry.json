@@ -832,5 +832,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/762",
     "passage": ""
+  },
+  {
+    "id": 766,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "By means of filtration, one component can be obtained pure from an aqueous mixture of sodium chloride and?",
+    "options": {
+      "A": "potassium nitrate",
+      "B": "sand",
+      "C": "lead nitrate",
+      "D": "sugar (glucose)",
+      "E": "starch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Use enough water to completely submerge the sand-salt mixture. Stir or shake the mixture for a few minutes so that the salt dissolves in the water.\nThe sand is insoluble, so it will remain visible.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/766",
+    "passage": ""
   }
 ]
