@@ -11616,5 +11616,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14484",
     "passage": ""
+  },
+  {
+    "id": 14485,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A body of mass 4 kg resting on a smooth horizontal plane is simultaneously acted upon by two perpendicular forces 6N and 8N. Calculate the acceleration of the motion",
+    "options": {
+      "A": "2.5 ms -1",
+      "B": "3.0 ms -1",
+      "C": "4.0 ms -1",
+      "D": "4.5 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Smooth plane has negligible friction ∴ only the resultant of the perpendicular forces is acting on the body, which is given as F = \\(\\sqrt{ 6^2 + 8^2}\\) = \\(\\sqrt{64 + 36}\\) = \\(\\sqrt{100}\\) = 10N But F = Ma ∴ a = F/M = 10/4 = 2.5 ms-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14485",
+    "passage": ""
   }
 ]
