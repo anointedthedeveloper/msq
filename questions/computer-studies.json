@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/59443",
     "passage": ""
+  },
+  {
+    "id": 60213,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following items best describes the term hardcopy?",
+    "options": {
+      "A": "Print out",
+      "B": "Written on a hardboard",
+      "C": "Information stored on a hard disk",
+      "D": "Amount of data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The item that best describes the term \"HARDCOPY\" is PRINTOUT.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60213",
+    "passage": ""
   }
 ]
