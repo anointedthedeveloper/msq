@@ -16702,5 +16702,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24291",
     "passage": ""
+  },
+  {
+    "id": 24292,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "What is the electric potential at a point distance r from a proton of charge q placed in a medium of permittivity εo?",
+    "options": {
+      "A": "q 2 /4πε o r 2",
+      "B": "q/4πε o r 2",
+      "C": "q 2 /4πε o r",
+      "D": "q/4πε o r",
+      "E": "4πε o q 2 r"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The general formula for calculating electrical potential V = \\(\\frac{\\text{W}}{\\text{q}}\\)\nFor a point charge V = \\(\\frac{\\text{kQ}}{\\text{r}}\\) = \\(\\frac{\\text{Q}}{4\\pi \\varepsilon_o r}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24292",
+    "passage": ""
   }
 ]
