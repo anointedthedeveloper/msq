@@ -334,5 +334,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23",
     "passage": ""
+  },
+  {
+    "id": 24,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The first term of a geometric progression is twice its common ratio. Find the sum of the first two terms of the G.P if its sum to infinity is 8.",
+    "options": {
+      "A": "8/5",
+      "B": "8/3",
+      "C": "72/25",
+      "D": "56/9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let the common ratio be r so that the first term is 2r. Sum, s = \\(\\frac{a}{1-r}\\) ie. 8 = \\(\\frac{2r}{1-r}\\) 8(1-r) = 2r,\n8 - 8r = 2r\n8 = 2r + 8r\n8 = 10r\nr = \\(\\frac{4}{5}\\). where common ratio (r) = \\(\\frac{second term(n_2)}{first term(a)}\\),\nr = \\(\\frac{n_2}{2r}\\)\nr = \\(\\frac{4}{5}\\) and a = 2r or \\(\\frac{8}{5}\\)\n\\(\\frac{4}{5}\\) * \\(\\frac{8}{5}\\) = n\\(_2\\)\n\\(\\frac{32}{25}\\) = n\\(_2\\)\nThe sum of the first two terms = a + n\\(_2\\)\n= \\(\\frac{8}{5}\\) + \\(\\frac{32}{25}\\)\n= \\(\\frac{40 + 32}{25}\\)\n= \\(\\frac{72}{25}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/24",
+    "passage": ""
   }
 ]
