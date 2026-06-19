@@ -6905,5 +6905,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3000",
     "passage": ""
+  },
+  {
+    "id": 3001,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E\n:\nThe violent storm that occurred on Easter Monday destroyed many houses and caused …. in Lagos generally.",
+    "options": {
+      "A": "Heavy damages",
+      "B": "Much damage",
+      "C": "Several damages",
+      "D": "Plenty damages",
+      "E": "Many damages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3001",
+    "passage": ""
   }
 ]
