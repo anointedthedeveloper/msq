@@ -4939,5 +4939,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75868",
     "passage": ""
+  },
+  {
+    "id": 75869,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read the passage carefully and answer the questions. La Visite au Marche Samedi matin, Claire se rend au marché avec sa mère. Le marché est très animé. Il y a des vendeurs de fruits, de légumes, de viande et de poisson. Claire aime surtout le stand de fruits, car elle adore les mangues, les bananes et les fraises. Sa mere achete des carottes, des tomates et du poisson pour preparer le dejeuner. Apres les achats, elles prennent un jus d'orange frais avant de rentrer à la maison. Quels produits ne sont pas mentionnés dans le passage ?",
+    "options": {
+      "A": "Les fraises",
+      "B": "Le poisson",
+      "C": "Le fromage",
+      "D": "Les carottes"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cheese (le fromage) is not mentioned in the passage, but the other items are.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75869",
+    "passage": ""
   }
 ]
