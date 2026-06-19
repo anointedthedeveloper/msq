@@ -4155,5 +4155,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73887",
     "passage": ""
+  },
+  {
+    "id": 73888,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Duk wad'annan sunan gagara-kirga ne in ban da.",
+    "options": {
+      "A": "itace",
+      "B": "suna",
+      "C": "ruwa",
+      "D": "toka"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Which of the following is not a liquid noun? Answer: itace (Itace is a solid noun, while the other options are liquid nouns)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73888",
+    "passage": ""
   }
 ]
