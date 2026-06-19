@@ -19860,5 +19860,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72658",
     "passage": ""
+  },
+  {
+    "id": 72659,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A collection of computer wires used to identify memory location in a computer is",
+    "options": {
+      "A": "system bus.",
+      "B": "data bus.",
+      "C": "data cable.",
+      "D": "address bus."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Address bus is a collection of computer wires used to identify memory location in a computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72659",
+    "passage": ""
   }
 ]
