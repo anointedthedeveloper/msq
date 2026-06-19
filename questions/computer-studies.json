@@ -6186,5 +6186,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62455",
     "passage": ""
+  },
+  {
+    "id": 62456,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is found on the taskbar?",
+    "options": {
+      "A": "scrollbars",
+      "B": "wall paper",
+      "C": "screen saver",
+      "D": "quick lunch toolbar"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Quick launch toolbar is a taskbar feature that allows fast access to applications.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62456",
+    "passage": ""
   }
 ]
