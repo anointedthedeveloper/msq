@@ -2791,5 +2791,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3380",
     "passage": ""
+  },
+  {
+    "id": 3381,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A solid hemisphere has a radius of 7 cm. Find the total surface area.",
+    "options": {
+      "A": "400 cm 2",
+      "B": "462 cm 2",
+      "C": "66 cm 2",
+      "D": "308 cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Total surface area of hemisphere = half of TSA of sphere + circumference of circle\n= \\(2\\pi r^{2} + \\pi r^{2} = 3\\pi r^{2}\\)\n= \\( 3 \\times \\frac{22}{7} \\times 7^{2} = 462cm^{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3381",
+    "passage": ""
   }
 ]
