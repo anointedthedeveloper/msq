@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66087",
     "passage": ""
+  },
+  {
+    "id": 66089,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The department that is responsible for replenishing stock in an organization is the",
+    "options": {
+      "A": "purchasing department",
+      "B": "administrative department",
+      "C": "production department",
+      "D": "sales department"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Purchasing department: This is the department that is responsible for buying raw materials, stationery, components, tools, plant & machinery e.t.c in an organisation. It is also responsible for replenishing stock in an organisation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66089",
+    "passage": ""
   }
 ]
