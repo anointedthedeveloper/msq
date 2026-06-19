@@ -592,5 +592,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/148",
     "passage": ""
+  },
+  {
+    "id": 149,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Moses, after killing the Egyptian fled to",
+    "options": {
+      "A": "the land of Canaan",
+      "B": "the land of Midian",
+      "C": "the land of the Phillistines",
+      "D": "the land of the Hittites",
+      "E": "the land of the Amorites"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/149",
+    "passage": ""
   }
 ]
