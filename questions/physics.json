@@ -691,5 +691,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/649",
     "passage": ""
+  },
+  {
+    "id": 654,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "In the Rutherford scattering experiment, a beam of alpha particles was fired at a thin gold film with some of the particles being considerably deflected. This shows that",
+    "options": {
+      "A": "a gold nucleus contains protons, neutrons and electrons uniformly distributed in a tiny volume",
+      "B": "the gold nucleus is positively charged and is concentrated in a tiny volume",
+      "C": "the gold nucleus emitted alpha particles",
+      "D": "the gold nucleus is concentrated in a tiny volume and contains alpha particles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/654",
+    "passage": ""
+  },
+  {
+    "id": 655,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "11\nNa +  Proton →\np\nq\nX + alpha particle\nWhat are the values of p and q respectively in the equation above?",
+    "options": {
+      "A": "10 and 20",
+      "B": "12 and 24",
+      "C": "20 and 10",
+      "D": "24 and 12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "23\n11\np\nq\n23\n11\n1\n1\np\nq\n4\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/655",
+    "passage": ""
+  },
+  {
+    "id": 660,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "A semiconductor diode is used in rectifying alternating current into direct current mainly because it",
+    "options": {
+      "A": "allows current to flow in either direction",
+      "B": "is non-linear",
+      "C": "offers a high input resistance",
+      "D": "allows current to flow only in one direction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/660",
+    "passage": ""
   }
 ]
