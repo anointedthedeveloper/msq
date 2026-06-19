@@ -1194,5 +1194,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73646",
     "passage": ""
+  },
+  {
+    "id": 73647,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Kwatancen kamannin abubuwa ko motsinsu shi ne asalin kalmomi a harshe in ji ra'in'",
+    "options": {
+      "A": "Ding-Dong",
+      "B": "Bow-Wow",
+      "C": "Ajiyar Allah",
+      "D": "Hasumayar Babila"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Hasumayar Babila (The Confusion of Tongues). The quote is referring to the biblical story of the Tower of Babel, where God confused the language of humans so they could no longer understand each other. The phrase \"Kwatancen kamannin abubuwa\" means \"the confusion of tongues\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73647",
+    "passage": ""
   }
 ]
