@@ -11485,5 +11485,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4348",
     "passage": ""
+  },
+  {
+    "id": 4349,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following class of compounds can exist as dipolar ions in solution?",
+    "options": {
+      "A": "Alkanoic acid",
+      "B": "Fatty acids",
+      "C": "Dialkanoic acids",
+      "D": "Amino acids"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4349",
+    "passage": ""
   }
 ]
