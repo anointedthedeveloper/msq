@@ -7390,5 +7390,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13904",
     "passage": ""
+  },
+  {
+    "id": 13909,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Two spheres of masses 5.0 kg and 10.0 kg are 0.3 m apart. Calculate the force of attraction between them? [G = 6.67 X 10-11 Nm2 Kg\\(^{-2}\\)]",
+    "options": {
+      "A": "3.50 x 10 -10 N",
+      "B": "3.71 x 10 -8 N",
+      "C": "3.57 x 10 -2 N",
+      "D": "4.00 x 10 2 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The force of attraction between the two spheres is given by F (GM1 M2)/r2 = (6.67X 10-11 X5X10)/(0.3)2 = 3.71 X 10-8N.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13909",
+    "passage": ""
   }
 ]
