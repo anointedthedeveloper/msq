@@ -2836,5 +2836,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1247",
     "passage": ""
+  },
+  {
+    "id": 1248,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following is NOT true of wind-pollinated flowers?",
+    "options": {
+      "A": "A large amount of pollen produced",
+      "B": "Light smooth pollen grains",
+      "C": "Small inconspicuous flowers",
+      "D": "Scented petals",
+      "E": "Large pendulous anther"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1248",
+    "passage": ""
   }
 ]
