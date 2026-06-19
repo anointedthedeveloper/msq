@@ -4219,5 +4219,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70736",
     "passage": ""
+  },
+  {
+    "id": 70737,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which organ is part of the lymphatic system and helps in the immune response?",
+    "options": {
+      "A": "Spleen",
+      "B": "Liver",
+      "D": "Kidney"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The spleen is part of the lymphatic system and plays a role in immune response and filtering blood.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70737",
+    "passage": ""
   }
 ]
