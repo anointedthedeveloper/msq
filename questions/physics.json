@@ -4261,5 +4261,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12276",
     "passage": ""
+  },
+  {
+    "id": 12277,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "By what factor will the size of an object placed 10cm from a convex lens be increased if the image is seen on a screen placed 25cm from the lens?",
+    "options": {
+      "A": "15.0",
+      "B": "2.5",
+      "C": "1.5",
+      "D": "0.4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Form the lens formula = \\(\\frac{1}{\\text{U}}\\) + \\(\\frac{1}{\\text{V}}\\) = \\(\\frac{1}{\\text{f}}\\) => \\(\\frac{1}{10} + \\frac{1}{25}\\) =  \\(\\frac{1}{\\text{f}}\\) ∴ \\(\\frac{(5 + 2)}{50}\\) =  \\(\\frac{1}{\\text{f}}\\) ∴ f = \\(\\frac{50}{7}\\)cm Since the image is observed on a screen, it is a real image. Thus magnification M =\\(\\frac{\\text{f}}{U - f}\\)\n= \\(\\frac{\\frac{50}{7}}{10 - \\frac{50}{7}}\\)\n∴ M = \\(\\frac{\\frac{50}{7}}{\\frac{20}{7}}\\)\n= \\(\\frac{50}{7}\\) x \\(\\frac{7}{20}\\) = 2.5\nOr\nm = \\(\\frac{\\text{v}}{\\text{u}}\\)\n= \\(\\frac{25}{10}\\)  = 2.5\nSv6Kpe[]",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12277",
+    "passage": ""
   }
 ]
