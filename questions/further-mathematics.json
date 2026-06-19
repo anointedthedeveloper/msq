@@ -4008,5 +4008,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50603",
     "passage": ""
+  },
+  {
+    "id": 50604,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A particle accelerates at 12\\(ms^{-2}\\) and travels a distance of 250m in 6 seconds. Find the initial velocity of the particle.",
+    "options": {
+      "A": "5.7\\(ms^{-1}\\)",
+      "B": "6.0\\(ms^{-1}\\)",
+      "C": "60.0\\(ms^{-1}\\)",
+      "D": "77.5\\(ms^{-1}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(s = ut + \\frac{1}{2}at^{2}\\)\n\\(250 = 6u + \\frac{1}{2}(12)(6^{2})\\)\n\\(250 = 6u + 216 \\implies 6u = 250 - 216 = 34\\)\n\\(u = \\frac{34}{6} \\approxeq 5.7ms^{-1}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50604",
+    "passage": ""
   }
 ]
