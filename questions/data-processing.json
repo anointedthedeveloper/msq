@@ -7042,5 +7042,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67141",
     "passage": ""
+  },
+  {
+    "id": 67142,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A file organization method that has reference which identifies a record in relation to other records is called",
+    "options": {
+      "A": "Sequential file organization",
+      "B": "Serial file organization",
+      "C": "Indexed file organization",
+      "D": "Random file organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An indexed file organization contains reference numbers, like employee numbers, that identify a record in relation to other records. These references are called the primary keys that are unique to a particular record.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67142",
+    "passage": ""
   }
 ]
