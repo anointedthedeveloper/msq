@@ -11757,5 +11757,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22352",
     "passage": ""
+  },
+  {
+    "id": 22353,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "In the diagram above ABDE and FCDE are parallelograms. If |FC| = 12.2cm and the height |PC| = 4.0cm, calculate the area of the parallelogram ABDE.",
+    "options": {
+      "A": "3.05cm 2",
+      "B": "8.20cm 2",
+      "C": "16.20cm 2",
+      "D": "24.40cm 2",
+      "E": "48.8cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17981019732_wcmath198915.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907253/myschool/mathematics/17981019732_wcmath198915.jpg",
+    "correct_answer": "E",
+    "explanation": "Area of ABDE = b x h 12.2 x 4 = 48.8cm 2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22353",
+    "passage": ""
   }
 ]
