@@ -542,5 +542,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48137",
     "passage": ""
+  },
+  {
+    "id": 48138,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Aprés le déluge, aucune maison n'est restée",
+    "options": {
+      "A": "bas",
+      "B": "dessus",
+      "C": "debout",
+      "D": "haut"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48138",
+    "passage": ""
   }
 ]
