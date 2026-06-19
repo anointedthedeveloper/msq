@@ -14284,5 +14284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22929",
     "passage": ""
+  },
+  {
+    "id": 22930,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The mean of 30 observations recorded in an experiment is 5. lf the observed largest value of 34 is deleted, find the mean of the remaining observations",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "3.9",
+      "D": "3.4",
+      "E": "3.0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "x = 5, \\(\\frac{\\sum {fx}}{\\sum {f}}\\) = 5= \\(\\frac{\\sum {fx}}{30}\\) \\(\\sum {fx}\\) = 5 x 30 = 150; 150 - 34 = 116 \\(\\sum {f}\\) = 29 \\(\\sum {fx}\\) = 116 = \\(\\frac{116}{29}\\) = 4",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22930",
+    "passage": ""
   }
 ]
