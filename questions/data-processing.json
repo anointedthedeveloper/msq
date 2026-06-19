@@ -7642,5 +7642,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69777",
     "passage": ""
+  },
+  {
+    "id": 69778,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 2 is an email application interface. Use it to answer questions 15 and 16 . To send an e-mail, the user must click on the part labelled",
+    "options": {
+      "A": "IV",
+      "B": "I",
+      "C": "II",
+      "D": "III"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/eWPJ2do7sZVkr5vEUT7oir9EmAPFUtKQRDy4yRE5.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912046/myschool/data-processing/eWPJ2do7sZVkr5vEUT7oir9EmAPFUtKQRDy4yRE5.jpg",
+    "correct_answer": "B",
+    "explanation": "To send an e-mail, the user typically clicks on the \"New\" part of the email application interface. This option allows the user to compose a new email message and enter the recipient's email address, subject, and content before sending it. The \"New\" button or option is used to initiate the process of creating a new email to be sent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69778",
+    "passage": ""
   }
 ]
