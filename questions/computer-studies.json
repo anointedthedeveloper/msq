@@ -10532,5 +10532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62771",
     "passage": ""
+  },
+  {
+    "id": 62772,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following options best shows the arrangement of file structure?\nI File\nll. Field\nIII. Character\nIV, Record",
+    "options": {
+      "A": "III, II, I and IV",
+      "B": "II, III, I  and IV",
+      "C": "IlI, II, IV and I",
+      "D": "II, III, IV and I"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the hierarchy of a computer file structure, data is organized from the smallest unit to the largest as follows:\nIII. Character : The most basic unit of data (e.g., a single letter, number, or symbol).\nII. Field : A collection of related characters that represent a single data item, such as a name or age.\nIV. Record : A collection of related fields that describes a single entity (e.g., a student's full profile).\nI. File : A collection of related records (e.g., a class list containing all students' profiles).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62772",
+    "passage": ""
   }
 ]
