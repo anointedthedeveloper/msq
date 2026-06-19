@@ -3420,5 +3420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1722",
     "passage": ""
+  },
+  {
+    "id": 1723,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "NH\\(_3\\)\\(_{(g)}\\) + HCl\\(_{(g)}\\) → NH\\(_4\\)Cl\\(_{(s)}\\) The entropy change in the system above is",
+    "options": {
+      "A": "negative",
+      "B": "indeterminate",
+      "C": "positive",
+      "D": "zero"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Deposition is a thermodynamic process that occurs when a substance changes from a gas to a solid without passing through the liquid phase. This happens due to a decrease in temperature.The entropy change for the transition from gas to solid is negative because solids have lower entropy compared to gases, gas particles are more disordered and have a higher rate of motion compared to solids that have closely packed particles.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1723",
+    "passage": ""
   }
 ]
