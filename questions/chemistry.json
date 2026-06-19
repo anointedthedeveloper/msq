@@ -13564,5 +13564,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4805",
     "passage": ""
+  },
+  {
+    "id": 7493,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the five atoms can be described by the following properties: Relative atomic mass is greater than 30 but less than 40, it has odd atomic number and forms a unipositive ion in solution?",
+    "options": {
+      "A": "T",
+      "B": "W",
+      "C": "X",
+      "D": "Y",
+      "E": "Z"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/18973005660_chem197841.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891378/myschool/chemistry/18973005660_chem197841.png",
+    "correct_answer": "D",
+    "explanation": "Y = 19 protons, 19 electrons and 20 neutrons.\nY has electronic configuration 2, 8, 8, 1. Hence, it has one valence electron in the outer shell (Valency of +1).\nMass number = protons + neutrons\n= 19 + 20\n= 39.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/7493",
+    "passage": ""
   }
 ]
