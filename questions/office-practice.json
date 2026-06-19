@@ -1419,5 +1419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66500",
     "passage": ""
+  },
+  {
+    "id": 66501,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The part of a report that suggets solution to the problem investigated is the",
+    "options": {
+      "A": "body of report",
+      "B": "recommendation",
+      "C": "terms of reference",
+      "D": "introduction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The introduction should: - briefly describe the context and background to the research - describe the change,problem or issue to be reported on - define the specific objectives and purpose of the report - indicate the overall answer to the problem explored in the report - outline the report's scope( the extent of the investigation, also known as its terms of reference or belief) - preview the report - comment on the limitations of the report and any assumptions that are made.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66501",
+    "passage": ""
   }
 ]
