@@ -3715,5 +3715,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7842",
     "passage": ""
+  },
+  {
+    "id": 7843,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "On a pie chart, there are four sectors of which three angles are 45°, 90° and 135°. If the smallest sector represents N28.00, how much is the largest sector?",
+    "options": {
+      "A": "N96.00",
+      "B": "N84.00",
+      "C": "N48.00",
+      "D": "N42.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Let the 4th angle be = x ∴ x + 45 + 90 + 135 = 360 x + 270 = 360 x = 360 - 270 x = 90 ∴ smallest angle = 45o 45o = N28.00 1o = 28.00/45 135o = (28.00/45) * (135/1) = N84.00\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7843",
+    "passage": ""
   }
 ]
