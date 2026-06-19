@@ -1651,5 +1651,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/982",
     "passage": ""
+  },
+  {
+    "id": 983,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The most obvious physical feature that distinguishes undisturbed mature soil from an immature soil is the",
+    "options": {
+      "A": "humus content",
+      "B": "layered profile",
+      "C": "nutrient status",
+      "D": "topsoil texture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/983",
+    "passage": ""
+  },
+  {
+    "id": 1025,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The direction of flow of ocean currents is determined mainly by the",
+    "options": {
+      "A": "rotation of the earth and land and sea breezes",
+      "B": "shape of the continents and the temperature of the continental interior",
+      "C": "prevailing winds and the rotation of the earth",
+      "D": "depth of the ocean and the amount of fresh water inflow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1025",
+    "passage": ""
+  },
+  {
+    "id": 1031,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The medium class of layered cloud which brings continuous rain, snow or sleet is the",
+    "options": {
+      "A": "altocumulus",
+      "B": "altostratus",
+      "C": "stratocumulus",
+      "D": "nimbostratus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1031",
+    "passage": ""
   }
 ]
