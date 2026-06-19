@@ -20906,5 +20906,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76890",
     "passage": ""
+  },
+  {
+    "id": 76891,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Use the table above to answer this question. In Table 3, the content of cell 5 is?",
+    "options": {
+      "A": "3450",
+      "B": "4400",
+      "C": "2456",
+      "D": "4009"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/jyJZybFv7w1FB5c9YeJf6BL7ITdipt5p39GSsiTz.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905206/myschool/computer-studies/jyJZybFv7w1FB5c9YeJf6BL7ITdipt5p39GSsiTz.png",
+    "correct_answer": "D",
+    "explanation": "The question asks for the content of cell C5 in the given table. In spreadsheet terminology, cell references are given as a combination of the column letter and the row number. So, cell C5 refers to the cell in the third column (C) and the fifth row (5). Looking at the table, the content of cell C5 is '4009', which matches option 2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76891",
+    "passage": ""
   }
 ]
