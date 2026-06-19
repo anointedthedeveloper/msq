@@ -1972,5 +1972,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64467",
     "passage": ""
+  },
+  {
+    "id": 64468,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The following are skills in table tennis except",
+    "options": {
+      "A": "Backhand drive",
+      "B": "Forehand drive",
+      "C": "Service",
+      "D": "Shooting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Shooting is not a skill in table tennis",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64468",
+    "passage": ""
   }
 ]
