@@ -2418,5 +2418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66619",
     "passage": ""
+  },
+  {
+    "id": 66822,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The secreatary at ABC Company needs to produce a document in large quantity. Which of these office equipment would be used?",
+    "options": {
+      "A": "typewriter",
+      "B": "duplicator",
+      "C": "tele-printer",
+      "D": "risograph"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Duplicating machine is a device for making duplicate copies from a master copy of printed, typed, drawn, or other material and utilizing various reproduction techniques to this end.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66822",
+    "passage": ""
   }
 ]
