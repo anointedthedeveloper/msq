@@ -605,5 +605,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48140",
     "passage": ""
+  },
+  {
+    "id": 48141,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "La réunion aura lieu ...les délégués soient peu nombreux",
+    "options": {
+      "A": "parce que",
+      "B": "pendant que",
+      "C": "quoique",
+      "D": "dés que"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48141",
+    "passage": ""
   }
 ]
