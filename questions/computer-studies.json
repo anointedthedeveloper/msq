@@ -17061,5 +17061,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69819",
     "passage": ""
+  },
+  {
+    "id": 69820,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The commands used for adding comments in QBASIC programming is",
+    "options": {
+      "A": "PRINT",
+      "B": "REM",
+      "C": "CLS.",
+      "D": "INPUT"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The command used for adding comments in QBASIC programming is \"REM.\" In QBASIC, the \"REM\" statement is used to insert comments within your code. Comments are lines of text that are ignored by the computer when the program is executed. They are used to provide explanations, notes, or documentation about the code for the programmer's or reader's understanding. Any text following the \"REM\" keyword on the same line is treated as a comment and is not executed by the program. For example: REM This is a comment explaining the purpose of the following code. PRINT \"Hello, World!\" In the example above, the text following \"REM\" is ignored by the program, and only the \"PRINT\" statement is executed. The other options are incorrect. CLS is a statement that clears the screen. INPUT is a statement that gets input from the user. PRINT is a statement that prints text to the screen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69820",
+    "passage": ""
   }
 ]
