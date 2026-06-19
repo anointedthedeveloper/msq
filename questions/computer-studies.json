@@ -3974,5 +3974,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62256",
     "passage": ""
+  },
+  {
+    "id": 62257,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "X, Y and Z respectively, represents?",
+    "options": {
+      "A": "input, output and input signals.",
+      "B": "output, output and input signals",
+      "C": "output, input and output signals.",
+      "D": "input, input and output signals."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/z2wrHrcCx2aM0UdCdDOi4eBgQ7Rs6eX5zMlmTPoU.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901746/myschool/computer-studies/z2wrHrcCx2aM0UdCdDOi4eBgQ7Rs6eX5zMlmTPoU.jpg",
+    "correct_answer": "D",
+    "explanation": "X, Y, and Z represent input, input, and output respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62257",
+    "passage": ""
   }
 ]
