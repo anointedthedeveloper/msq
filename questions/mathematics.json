@@ -12175,5 +12175,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22404",
     "passage": ""
+  },
+  {
+    "id": 22405,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "With reference to the graph above, which of the following solution sets is represented by ΔOPQ?",
+    "options": {
+      "A": "y ≥ x, y ≤ 0, y + x ≥ 7",
+      "B": "y ≤ x, y ≥ 0, y + x ≤ 7",
+      "C": "y ≥ x, y ≥ 0, y + x ≤ 7",
+      "D": "y ≤ x, y ≤ 0, y + x ≤ 7",
+      "E": "y ≤  x, y ≥ 0, y + x ≥ 7"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/g9mZezYU2h8urePrgMt271ozJE7z2aSUUZRX5lDf.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907512/myschool/mathematics/g9mZezYU2h8urePrgMt271ozJE7z2aSUUZRX5lDf.png",
+    "correct_answer": "B",
+    "explanation": "from the graph, the solution sets represented by OPQ is the shaded region where y ≤ x,  y ≥ 0, and y + x ≤ 7",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22405",
+    "passage": ""
   }
 ]
