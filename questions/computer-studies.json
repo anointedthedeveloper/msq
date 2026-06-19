@@ -9413,5 +9413,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62716",
     "passage": ""
+  },
+  {
+    "id": 62717,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "(a) A musician intends to record music on a storage medium. List four ways that the music file can organized in the storage medium.\n(b) State two basic operations on computer file. (c) Explain the following computer terms: (i) file (ii) re cord",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Ways Music File can be organized in the Storage Medium: (i) Random/Direct accessing (ii) Sequential accessing or in sequence. (iii) Serial accessing/in series. (iv) Indexed. - Sequential accessing (v) Indexed.\n(b) Basic Operations in Computer File:\n-file naming: - file creation; file deletion: -file retrieval; - fie copying:- file renaming:- search; overwriting a file; - updating a file; - opening a file; - closing a Tile,\n-view file property; - view earlier version of file, view content of file; - insert; - move; - export, - load, read,-so append; - truncate; - locate; write;-replace; share.\n(c)(i) Computer File: It is a collection or group of digital /electronics records stored in a computer/storage device.\nFor example, excel file, Corel Draw file, database file, image file, video file, audio Tile, graphics file text file and Power Point file.\nOR\nComputer file is a smallest meaningful unit of data representation within a computer. For example, excel file, Corel Draw file, database file, image file, video file, audio file, graphics file, text file and Power Point file.\n(ii) Record: A record is a collection/group of logically related fields/attributes/data items which together can be treated as a unit that describes an entity in a computer.\nFor example, student's record, staff/personnel records, health record, birth record and death record.\nOR\nA record describes an entity and it runs from left to right in a database table.\nFor example, student's record, staff/personnel record, health record, birth record and death record.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62717",
+    "passage": ""
   }
 ]
