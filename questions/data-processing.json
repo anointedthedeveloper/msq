@@ -7810,5 +7810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69786",
     "passage": ""
+  },
+  {
+    "id": 69787,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Figure 4 is an entity relationship diagram in MS Access . Use it to answer questions 22 and 23 . What kind of relationship exists between users and products as shown in Figure 4 ?",
+    "options": {
+      "A": "One-to-many",
+      "B": "Many-to-many",
+      "C": "One-to-one",
+      "D": "Many-to-one"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/zt02DsOND1ZsxBdBQVtB29VSgoghpcnOBaTKQVAP.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912086/myschool/data-processing/zt02DsOND1ZsxBdBQVtB29VSgoghpcnOBaTKQVAP.jpg",
+    "correct_answer": "A",
+    "explanation": "Looking at the arrow (relation) that connects Products table to the Users table. The infinity sign beside the products table represents the \"Many\" part of the relationship which is not present at the Users table (i.e it is \"One\" part of the relationship) . This means that a user can buy \"any\" number of products but a product can only be bought by \"a\" user. Therefore, the relationship between the \"users\" and \"products\" is one-to-many. NB: Users are assumed to be buying products for illustration purposes. Many-to-one relationship is if it's between the \"Products\" and the \"Users\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69787",
+    "passage": ""
   }
 ]
