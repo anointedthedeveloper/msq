@@ -1489,5 +1489,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50110",
     "passage": ""
+  },
+  {
+    "id": 50111,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Use of hard drugs can best be curtailed through?",
+    "options": {
+      "A": "compensation",
+      "B": "rehabilitation",
+      "C": "enlightenment",
+      "D": "compromise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Enlightenment, which involves educating people about the dangers and consequences of using hard drugs, is one of the most effective ways to prevent drug abuse. It raises awareness and can help individuals make informed decisions, reducing the likelihood of drug misuse.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50111",
+    "passage": ""
   }
 ]
