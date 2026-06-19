@@ -8225,5 +8225,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3622",
     "passage": ""
+  },
+  {
+    "id": 3623,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or word which best completes each sentence : The farmer has bought the insecticide because he was bent on .... the insects in his farm.",
+    "options": {
+      "A": "exterminating",
+      "B": "estimating",
+      "C": "extenuating",
+      "D": "extinguishing",
+      "E": "exemplifying"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The sentence implies that the farmer bought insecticide with the intention of killing or completely getting rid of insects on his farm.\nExterminating means destroying or killing completely , especially pests such as insects. This fits the context perfectly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3623",
+    "passage": ""
   }
 ]
