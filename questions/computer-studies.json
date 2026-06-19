@@ -4478,5 +4478,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62280",
     "passage": ""
+  },
+  {
+    "id": 62281,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The term bus' width in data transfer refers to the?",
+    "options": {
+      "A": "number of wires in the bus.",
+      "B": "size of the data movement.",
+      "C": "number of bits of information the RAM can send to the CPU at the same time.",
+      "D": "number of wires in the bus that carry information to the processor at a time"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The term 'bus width' in data transfer refers to the number of bits of information that can be sent to the CPU from the RAM simultaneously. This is because the bus is the main communication system that transfers data between computer components, such as the CPU and the RAM. The width of the bus determines how much data can be transferred at a time. The wider the bus, the more bits can be transferred simultaneously.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62281",
+    "passage": ""
   }
 ]
