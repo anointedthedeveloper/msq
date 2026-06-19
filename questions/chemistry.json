@@ -3294,5 +3294,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1693",
     "passage": ""
+  },
+  {
+    "id": 1702,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "C(s) + 2S(g) → CS\\(_2\\)(g) ΔH = +89 kJ mol-1 The chemical equation above implies that",
+    "options": {
+      "A": "each of carbon and sulphur has 89 kJ of energy",
+      "B": "both carbon and sulphur contribute 89 kJ of energy",
+      "C": "89 kJ of energy is released",
+      "D": "89 kJ of energy is absorbed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "ΔH = + 89kJ means it is an endothermic reaction. However, endothermic reaction is one in which heat is absorbed into the system from the surrounding.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1702",
+    "passage": ""
   }
 ]
