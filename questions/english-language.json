@@ -4023,5 +4023,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2021",
     "passage": ""
+  },
+  {
+    "id": 2023,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Complete the sentences with the correct options from the list below : Will they sign any contracts at the Fair?\nThey will not only sign the contracts but a lot of goods .... as well",
+    "options": {
+      "A": "will buy",
+      "B": "to buy",
+      "C": "they buy",
+      "D": "they bought",
+      "E": "will be bought"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "This uses the correlative conjunction “not only … but (also) …”, which requires parallel structure. The first clause: “They will … sign” (active voice). The second clause focuses on “a lot of goods”, which receive the action (they are bought, not doing the buying). Therefore, the correct form is the future passive: “a lot of goods will be bought”",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2023",
+    "passage": ""
   }
 ]
