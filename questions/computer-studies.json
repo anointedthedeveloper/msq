@@ -12523,5 +12523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64341",
     "passage": ""
+  },
+  {
+    "id": 64342,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Total types of data that can be read by document reader are",
+    "options": {
+      "A": "marks",
+      "B": "handwritten and printed characters",
+      "C": "printed lines",
+      "D": "all of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "All of the above listed data types can be read by a document reader",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64342",
+    "passage": ""
   }
 ]
