@@ -13931,5 +13931,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23912",
     "passage": ""
+  },
+  {
+    "id": 23913,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A block of ice at its melting point is left on a table in the atmosphere and observed to melt gradually. Which of the following statements is true about the melting process?",
+    "options": {
+      "A": "the reaction force of the table on the ice breaks the ice into water molecules",
+      "B": "heat extracted from the ice block makes the ice block cold",
+      "C": "the ice block absorbs heat from the atmosphere and its temperature rises",
+      "D": "the atmosphere absorbs  heat from the ice block and its temperature falls",
+      "E": "the ice block absorbs heat from the atmosphere and its temperature remains constant as it melts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The heat of fusion is the quantity of heat necessary to change of a solid to a liquid with no temperature change",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23913",
+    "passage": ""
   }
 ]
