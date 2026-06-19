@@ -1098,5 +1098,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/531",
     "passage": ""
+  },
+  {
+    "id": 535,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nThe managing director did not pay his staff last month ....?",
+    "options": {
+      "A": "didn't he",
+      "B": "had he not",
+      "C": "is not it",
+      "D": "did he",
+      "E": "has he"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/535",
+    "passage": ""
   }
 ]
