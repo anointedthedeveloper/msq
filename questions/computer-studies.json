@@ -8283,5 +8283,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62578",
     "passage": ""
+  },
+  {
+    "id": 62579,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "(a)i) What is booting?\n(i) State two differences between the types of booting.\n(b) What is peripheral?\n(c) Give one example each of (i) input device; (ii) output device; (iii) storage devices (iv) a component found inside the system unit.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Booting is startup sequence that starts the operating system of a computer when it is turned/ switched on using the start button.\nOR\nBooting is the initial set of operations that computer perform when it is switched/turned on using the start button.\n(i) Differences between the types of booting:\nCOLD BOOTING WARM BOOTING CPU stops running CPU continues running Power supply and motherboard resources stop walking Power supply and mother board resources do not shut down Memory and BIOS are reset Memory and BIOS are not reset Computer shuts down completely Computer does not shut down completely The computer system may not necessarily have program error before It is necessary when a program encounters an error from which it is not recover Use of power switch is involved this done when the system It involves shortcut keys, e.g. (CTRL + ALT+ DEL) It is done when the system is already off. It is done when the system is already on.\n(b) A peripheral is an external/physical/hardware/device that provides input or output for the computer. It can be felt, touched or seen.\n(c) Examples of given devices\nDevices Examples Input Device Card reader Finger print scanner/Reader Trackball Magnetic-stripe reader Video capture hardware Bar code reader Touch pads Electronics whiteboard Optical Mark Recognition (OMR) Optical Character Recognition (OCR) Touch screen, Remote control, Digítaliser Magnetic Ink Character Reader (MICR) Magnetic tape drive . Punch card Reader Game pad Output Device Monitor Speaker Printer Projector/Multimedia projector Plotter Storage Device Hard Disk/Hard Drive Compact Disc Digital Versatile Disc Flash Memory/Memory card Floppy Disk External hard disk/drive Flash drive/disk/Pen drive Drobo Punched tape or perforated Magnetic tape RAM Magnetic strip Tape cassette Zip diskette. SIM card A component found inside the system unit Power Supply Unit, Cooling fan Expansion slots ROM",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62579",
+    "passage": ""
   }
 ]
