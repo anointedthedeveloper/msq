@@ -3511,5 +3511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71215",
     "passage": ""
+  },
+  {
+    "id": 71216,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Ne parlons pas de......travail Parlons de vôtre.",
+    "options": {
+      "A": "A mes",
+      "B": "tes",
+      "C": "sa,",
+      "D": "son"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This sentence is saying \"Let's not talk about his/her work. Let's talk about yours.\" The possessive adjective \"votre\" agrees with the plura noun \"vous\" (implied in the sentence), indicating that the speaker is addressing someone and asking to discuss their work instead. In this sentence, the correct answer is \"votre\" because it is the possessive adjective that agrees with the second-person plural pronoun \"vous\" (implied in the sentence). The other options do not agree with the context and grammar of the sentence. By choosing \"votre\" the sentence maintains the correct grammar and possessive agreement, indicating that the speaker is addressing someone and asking to discuss their work instead.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71216",
+    "passage": ""
   }
 ]
