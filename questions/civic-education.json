@@ -9010,5 +9010,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/60905",
     "passage": ""
+  },
+  {
+    "id": 60907,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use this image to answer the question below\nThe people depicted in the image are engaged in",
+    "options": {
+      "A": "community service",
+      "B": "personal development",
+      "C": "empowerment scheme",
+      "D": "fashion design"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/gCESvIt8zeeliIQGkrUKozJyuDMP0FG1GsrQplsj.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781912231/myschool/civic-education/gCESvIt8zeeliIQGkrUKozJyuDMP0FG1GsrQplsj.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/60907",
+    "passage": ""
   }
 ]
