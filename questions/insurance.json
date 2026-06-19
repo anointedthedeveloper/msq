@@ -2747,5 +2747,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49936",
     "passage": ""
+  },
+  {
+    "id": 49937,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A document used to alter the information contained in the schedule of a policy is?",
+    "options": {
+      "A": "slip",
+      "B": "endorsement",
+      "C": "cover note",
+      "D": "policy form"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "An insurance endorsement is an amendment or addition to an existing insurance contract which changes the terms or scope of the original policy. Endorsements may also be referred to as riders. An insurance endorsement may be used to add, delete, exclude or otherwise alter coverage .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49937",
+    "passage": ""
   }
 ]
