@@ -18390,5 +18390,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70970",
     "passage": ""
+  },
+  {
+    "id": 70971,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which characteristic of a computer refers to its ability to minimize energy, consumption and resource usage?",
+    "options": {
+      "A": "Versatility",
+      "B": "Speed",
+      "C": "Efficiency",
+      "D": "Reliability"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Efficiency in computing pertains to the optimal use of resources such as energy, processing power, and memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70971",
+    "passage": ""
   }
 ]
