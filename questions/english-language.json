@@ -2505,5 +2505,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1335",
     "passage": ""
+  },
+  {
+    "id": 1336,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words : In spite of the loud music, John soon managed to fall asleep",
+    "options": {
+      "A": "the loud music soon helped John to fall asleep",
+      "B": "John soon fell asleep as a result of the loud music",
+      "C": "the loud music made John despise sleep",
+      "D": "the loud music made John unable to fall asleep",
+      "E": "John soon fell asleep even though the music was loud"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Let’s focus on the key phrase:\nThe expression “in spite of” means despite or even though something could have made it difficult . In this context, it means that John soon fell asleep even though the music was loud.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1336",
+    "passage": ""
   }
 ]
