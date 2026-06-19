@@ -13041,5 +13041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7318",
     "passage": ""
+  },
+  {
+    "id": 7320,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In order to prevent Liquidity in commercial banks, the central banks uses?",
+    "options": {
+      "A": "moral suasion",
+      "B": "fiscal policy",
+      "C": "reserve ratio",
+      "D": "taxation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The reserve ratio is a compulsory portion of reservable liabilities that commercial banks must hold onto, rather than lend out or invest. Simply put, it is the minimum amount of money that banks are expected to keep in their accounts, with no option of lending it or investing it.\nThis is done to cater to unforeseen circumstances and to ensure that banks can always meet up with their daily monetary obligations to customers without running out of money.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7320",
+    "passage": ""
   }
 ]
