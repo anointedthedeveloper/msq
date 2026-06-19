@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50363",
     "passage": ""
+  },
+  {
+    "id": 50364,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "How many numbers greater than 150 can be formed from the digits 1, 2, 3, 4, 5 without repetition?",
+    "options": {
+      "A": "91",
+      "B": "191",
+      "C": "291",
+      "D": "391"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Note that every 4- digit and 5- digit numbers formed is greater than 150. Therefore, \\(^{5}P_{5} + ^{5}P_{4} = \\frac{5!}{(5 - 5)!} + \\frac{5!}{(5 - 4)!} = 120 + 120 = 240\\) numbers are greater than 150 already.\nAmong the 3- digit numbers, the numbers 123, 124, 125, 132, 134, 135, 142, 143 and 145 are removed from the ones that meet the criterion so we have:\n\\(^{5}P_{3} - 9 = \\frac{5!}{(5 - 3)!} = 60 - 9 = 51 \\implies 240 + 51 = 291\\) numbers are greater than 150.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50364",
+    "passage": ""
   }
 ]
