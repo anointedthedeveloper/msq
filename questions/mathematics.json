@@ -14042,5 +14042,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22916",
     "passage": ""
+  },
+  {
+    "id": 22917,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The common ratio of a G.P. is 2. If the 5th term is greater than the 1st term by 45, find the 5th term,",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "45",
+      "D": "48",
+      "E": "90"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "a = 1st term ; ar\\(^4\\) = 5th term ∴ ar\\(^4\\) = a(2)\\(^4\\) = 16a; 16a = 45 + a, a = 3; 3(2)\\(^4\\) = 48",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22917",
+    "passage": ""
   }
 ]
