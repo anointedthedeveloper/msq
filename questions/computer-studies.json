@@ -15022,5 +15022,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64986",
     "passage": ""
+  },
+  {
+    "id": 64990,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Serial files are",
+    "options": {
+      "A": "stored using a key",
+      "B": "sorted in a particular order",
+      "C": "stored as they come",
+      "D": "stored in any storage media"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64990",
+    "passage": ""
   }
 ]
