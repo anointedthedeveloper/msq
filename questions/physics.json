@@ -4870,5 +4870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12763",
     "passage": ""
+  },
+  {
+    "id": 12786,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A generator manufacturing company was contracted to produce an a.c dynamo but inadvertently produced a d.c dynamo. To correct this error, the",
+    "options": {
+      "A": "armature coil should be made of silver",
+      "B": "commutator should be replaced with slip ring",
+      "C": "commutator should be replaced with split rings",
+      "D": "armature coil should be made of aluminium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The company built a DC dynamo (with a commutator) instead of the required AC one (which needs slip rings). The simplest and most direct way to correct this—without rewinding the coil or major redesign—is to replace the commutator with slip rings.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12786",
+    "passage": ""
   }
 ]
