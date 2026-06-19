@@ -1462,5 +1462,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/966",
     "passage": ""
+  },
+  {
+    "id": 968,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following groups of people is not found in West Africa?",
+    "options": {
+      "A": "Wolof",
+      "B": "Mandingo",
+      "C": "Mossi",
+      "D": "Shona"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/968",
+    "passage": ""
   }
 ]
