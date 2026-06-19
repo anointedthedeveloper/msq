@@ -3946,5 +3946,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12261",
     "passage": ""
+  },
+  {
+    "id": 12262,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A current of 0.5 A flowing 3h Deposits 2g of metal during electrolysis. The quantity of the same metal that would be deposited by the currents of 1.5A flowing in 1h is",
+    "options": {
+      "A": "2g",
+      "B": "6g",
+      "C": "10g",
+      "D": "18g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "From Faraday's Law, mass deposited during electrolysis is given by \\(M_1 = I_1t_1Z\\) => Z = \\(\\frac{M_1}{(I_1t_1)}\\)\n⇒ Z =\\(\\frac{2}{0.5 \\times3}\\) = 1.333Kg/C For a current of 1.5A flowing for 1h, the mass M, deposited is given by \\(M_2 = ZI_2T_2\\) = 1.333 x 1 x 1.5 = 2.0g \\(M_2\\) = 2.0g\nnote: converting time to seconds here is not necessary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12262",
+    "passage": ""
   }
 ]
