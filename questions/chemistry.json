@@ -12640,5 +12640,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4689",
     "passage": ""
+  },
+  {
+    "id": 4692,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "What is the concentration of a solution containing 2g of NaOH in 100cm\n3\nof solution?\n[Na = 23, O = 16, H = 1]",
+    "options": {
+      "A": "0.40 mol dm -3",
+      "B": "0.50 mol dm -3",
+      "C": "0.05 mol dm -3",
+      "D": "0.30 mol dm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4692",
+    "passage": ""
   }
 ]
