@@ -6801,5 +6801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2956",
     "passage": ""
+  },
+  {
+    "id": 2957,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In which of the following reactions can the oxidation number of the nitrogen be said to have increased?",
+    "options": {
+      "A": "2NO (g) + O 2(g) → 2NO 2(g)",
+      "B": "2NO (g) + Cl 2(g) → 2NOCl (l)",
+      "C": "FeSO 4(aq) + NO (g) → Fe(NO)SO 4(s)",
+      "D": "NO (g) + Br 2(l) → 2NOBr (l)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In option A, the oxidation number of Nitrogen increased from +2 to +4.\nIn Option B, the oxidation number of Nitrogen decreased from +2 to +1 (Bearing in mind that the O.N of chlorine in hypochlorate, OCl\\(^-\\) is +1)\nIn Option C, the oxidation number of Nitrogen decreased from +2 to +1\nIn Option D, the oxidation number of Nitrogen decreased from +2 to +1 (Bearing in mind that the O.N of bromine in hypobromate OBr\\(^-\\) is +1)\nTherefore, the answer is option A\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2957",
+    "passage": ""
   }
 ]
