@@ -1194,5 +1194,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/841",
     "passage": ""
+  },
+  {
+    "id": 842,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Given that electronegativity increases across a period and decreases down a group in the periodic table, in which of the following compounds will the molecules be held together by the strongest hydrogen bond?",
+    "options": {
+      "A": "HF (g)",
+      "B": "NH 3(g)",
+      "C": "CH 4(g)",
+      "D": "HCl (g)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Among HF, NH\\(_3\\), CH\\(_4\\), and HCl, HF has the strongest hydrogen bond. The reason is because the strength of a hydrogen bond depends on the electronegativity of the atom bonded to hydrogen and the size of the atom. HF's combination of the most electronegative atom and a relatively small size makes it the strongest hydrogen bond among the given molecules. Fluorine (F) is the most electronegative element, creating a large dipole moment in HF, which results in a strong hydrogen bond.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/842",
+    "passage": ""
   }
 ]
