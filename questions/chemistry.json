@@ -5793,5 +5793,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2630",
     "passage": ""
+  },
+  {
+    "id": 2631,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "According to charles' law, the volume of a gas becomes zero at",
+    "options": {
+      "A": "0 o C",
+      "B": "-100 o C",
+      "C": "-273 o C",
+      "D": "-373 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "According to Charles's Law, the volume of a gas would be zero at absolute zero, which is - 273°C or 0 Kelvin. The Volume is of gas is zero at absolute zero of temperature . On the Celsius scale, zero is the temperature at which water freezes.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2631",
+    "passage": ""
   }
 ]
