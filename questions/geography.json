@@ -1861,5 +1861,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1046",
     "passage": ""
+  },
+  {
+    "id": 1049,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "An area of the world that is likely to have 24-hour sunshine on July 15 of any year is the",
+    "options": {
+      "A": "Horse latitudes",
+      "B": "Southern polar area",
+      "C": "Equatorial area",
+      "D": "Northern polar area"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1049",
+    "passage": ""
   }
 ]
