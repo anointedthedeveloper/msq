@@ -6443,5 +6443,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76491",
     "passage": ""
+  },
+  {
+    "id": 76492,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is an effective prevention strategy that can be taught in a physical education class?",
+    "options": {
+      "A": "The importance of developing positive coping mechanisms for stress and pressure.",
+      "B": "The importance of not telling anyone about your drug use.",
+      "C": "The importance of only using drugs in a safe environment.",
+      "D": "The importance of ignoring a person who offers you drugs."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Teaching students positive coping mechanisms in physical education helps them manage stress and peer pressure healthily, reducing the likelihood of drug misuse. This strategy promotes mental resilience and encourages seeking support rather than turning to harmful substances.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76492",
+    "passage": ""
   }
 ]
