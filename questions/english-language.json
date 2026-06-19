@@ -10601,5 +10601,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4221",
     "passage": ""
+  },
+  {
+    "id": 4222,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternatives provided in the question below select the one which most appropriately completes the sentence : Give me a minute to think i can't remember the answer ....",
+    "options": {
+      "A": "out of hand",
+      "B": "ahead",
+      "C": "off hand",
+      "D": "to  hand",
+      "E": "off head"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"offhand\" means without preparation or immediate recall . In the given sentence, the speaker is saying they need a moment to think because they cannot remember the answer immediately.\nSo, the correct sentence would be: \"Give me a minute to think, I can't remember the answer offhand.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4222",
+    "passage": ""
   }
 ]
