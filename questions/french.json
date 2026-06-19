@@ -4141,5 +4141,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75406",
     "passage": ""
+  },
+  {
+    "id": 75407,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Parmi ces options, /k/ est prononcé dans :",
+    "options": {
+      "A": "chef",
+      "B": "ceux",
+      "C": "coup",
+      "D": "ciel"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Coup\" is pronounced /ku/, with a clear /k/ sound.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75407",
+    "passage": ""
   }
 ]
