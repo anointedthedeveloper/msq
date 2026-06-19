@@ -10385,5 +10385,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62764",
     "passage": ""
+  },
+  {
+    "id": 62765,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A feature on the computer desktop that indicates the current active applications is called?",
+    "options": {
+      "A": "icon.",
+      "B": "menu bar.",
+      "C": "ribbon.",
+      "D": "task bar."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62765",
+    "passage": ""
   }
 ]
