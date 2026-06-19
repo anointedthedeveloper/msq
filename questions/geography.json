@@ -768,5 +768,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/374",
     "passage": ""
+  },
+  {
+    "id": 375,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Mixed farming implies",
+    "options": {
+      "A": "growing crops and rearing animals on a given land area",
+      "B": "keeping poultry and rearing pigs on one and the same farm",
+      "C": "growing grains and root crops on the same piece of land",
+      "D": "mixed cultivation of wheat, barley, and oats",
+      "E": "intercropping of yam, cassava and maize"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/375",
+    "passage": ""
   }
 ]
