@@ -4156,5 +4156,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8190",
     "passage": ""
+  },
+  {
+    "id": 8191,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "An unbiased die is rolled 100 times and the outcome is tabulated above.\nWhat is the probability of obtaining a 5?",
+    "options": {
+      "A": "1/5",
+      "B": "1/2",
+      "C": "1/6",
+      "D": "1/4"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/8133353412_math200420.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868405/myschool/mathematics/8133353412_math200420.jpg",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8191",
+    "passage": ""
   }
 ]
