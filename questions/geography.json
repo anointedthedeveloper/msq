@@ -3285,5 +3285,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6315",
     "passage": ""
+  },
+  {
+    "id": 6316,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The most important coffee producer in West Africa is",
+    "options": {
+      "A": "Ivory Coast",
+      "B": "Nigeria",
+      "C": "Ghana",
+      "D": "Gambia",
+      "E": "Mali"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6316",
+    "passage": ""
   }
 ]
