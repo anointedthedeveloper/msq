@@ -2456,5 +2456,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1214",
     "passage": ""
+  },
+  {
+    "id": 1215,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A meeting of the legislature is usually brought to an end with",
+    "options": {
+      "A": "a dissolution",
+      "B": "an adjournment",
+      "C": "suspension",
+      "D": "a prorogation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A meeting of the legislature is usually brought to an end with an adjournment , which means a temporary suspension of proceedings until the next scheduled meeting or session. An adjournment is a break in legislative proceedings, either for a short time (e.g., for the day) or until a later date. A d issolution is the official termination of the entire legislature, often before an election. The formal ending of a legislative session by the executive authority without dissolving the legislature. A prorogation is a temporary termination of legislative sessions by executive authority.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1215",
+    "passage": ""
   }
 ]
