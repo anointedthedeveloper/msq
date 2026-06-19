@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73210",
     "passage": ""
+  },
+  {
+    "id": 73211,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a factor to be considered when buying food?",
+    "options": {
+      "A": "Dialect of food seller",
+      "B": "Food items in season",
+      "C": "Quality of foodstuff",
+      "D": "Size of the family"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When buying food, the dialect of the food seller is not a relevant factor to consider. What matters is the quality, freshness, and safety of the food, as well as your personal preferences and dietary needs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73211",
+    "passage": ""
   }
 ]
