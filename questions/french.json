@@ -4687,5 +4687,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75801",
     "passage": ""
+  },
+  {
+    "id": 75805,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le singe est un animal:",
+    "options": {
+      "A": "aquatique",
+      "B": "volant",
+      "C": "sauvage",
+      "D": "domestique"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"Singes\" are animals that live freely in the wild nature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75805",
+    "passage": ""
   }
 ]
