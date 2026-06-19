@@ -15097,5 +15097,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24116",
     "passage": ""
+  },
+  {
+    "id": 24117,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Given that the gravitational constant is 7 X 10\n-11\nNm2kg\n-2\n, what is the force of attraction between 10\n6\nkg mass of lead hanging one metre away from a 10\n3\nkg mass of iron?",
+    "options": {
+      "A": "7 x10 -20 N",
+      "B": "7 x 10 -5 N",
+      "C": "7x10 -2 N",
+      "D": "7x10 3 N",
+      "E": "7x10 0 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "F = Gm 1 m 2 / r 2 = 7 x 10 -11 x 10 6 x 10 3 / 1m = 7 x 10 -2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24117",
+    "passage": ""
   }
 ]
