@@ -4832,5 +4832,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1863",
     "passage": ""
+  },
+  {
+    "id": 1865,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Citizenship acquired through marriage is referred to as",
+    "options": {
+      "A": "honorary",
+      "B": "naturalization",
+      "C": "nationalization",
+      "D": "registration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1865",
+    "passage": ""
   }
 ]
