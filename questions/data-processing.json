@@ -3646,5 +3646,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58463",
     "passage": ""
+  },
+  {
+    "id": 58464,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "(a) What is a function in MS Excel?\n(b) List two categories of functions in MS Excel.\n(c) What is the cell referencing in MS Excel.\n(d)(i) State two types of cell referencing in MS Excel.\n(ii) Give one example of each type in 1(d)(i)",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Meaning of Function\nA function is a predefined formula that performs calculations using specific values in a particulr order.\n(b) Categories of functions in MS Excel\n(i) Autosum (ii) Look up and Reference (ii) Maths and Trigonometry (iv) Date abd Time (v) Database (vi) Financial (vii) Statistical (viii) Compatibility (ix) Web (x) Information\n(c) Cell referencing is the use of alphanumeric value to identify a specific cell in a spreadsheet application.\n(d)(i) Types of cell referencing in MS Excel\n- Absolute referencing\n- Relative referencing\n- Mixed reference\n(ii) Examples of each cell referencing\n$A3$1 (Absolute - with the $ sign)\nA3*C3 (relative - withoute the $ sign)\n$A3*B$2 (Mixed)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58464",
+    "passage": ""
   }
 ]
