@@ -2986,5 +2986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71190",
     "passage": ""
+  },
+  {
+    "id": 71191,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeQuand deux personnes se marient, il y a un/une.",
+    "options": {
+      "A": "baptême",
+      "B": "mariage",
+      "C": "accident",
+      "D": "mort"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When two people get married, it is a marriage, not an accident, baptism, death, or birth. Therefore, the correct answer is mariage (marriage)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71191",
+    "passage": ""
   }
 ]
