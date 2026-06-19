@@ -10120,5 +10120,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14330",
     "passage": ""
+  },
+  {
+    "id": 14331,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In a gas experiment, if the volume  of the gas is plotted against the reciprocal of the pressure, the unit of the slope of the resulting curve is",
+    "options": {
+      "A": "force",
+      "B": "temperature",
+      "C": "power",
+      "D": "work"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "P = Force Area\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14331",
+    "passage": ""
   }
 ]
