@@ -13163,5 +13163,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22670",
     "passage": ""
+  },
+  {
+    "id": 22672,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, |PQ| = |PR| = |RS| and ∠RPS = 32°. Find the value of ∠QPR",
+    "options": {
+      "A": "72 o",
+      "B": "64 o",
+      "C": "52 o",
+      "D": "32 o",
+      "E": "26 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9683201675_wcmath199030.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869289/myschool/mathematics/9683201675_wcmath199030.jpg",
+    "correct_answer": "C",
+    "explanation": "From the figure, < PSR = 32° (base angles of an isos. triangle)\n\\(\\therefore\\) < PRS = 180° - (32° + 32°) = 116° (sum of angles in a triangle)\n< QRP = 180° - 116° = 64° (angle on a straight line)\n< PQR = 64° (base angles of an isos. triangle)\n< QPR = 180° - (64° + 64°) = 52°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22672",
+    "passage": ""
   }
 ]
