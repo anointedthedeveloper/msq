@@ -8420,5 +8420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72334",
     "passage": ""
+  },
+  {
+    "id": 72335,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The type of computer that has the ability of counting in discrete form is referred to as",
+    "options": {
+      "A": "analogue computer",
+      "B": "digital computer",
+      "C": "hybrid computer",
+      "D": "versatile computer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Digital computer counts in discrete form. Analog computer counts in continuous form. Hybrid computer is a combination of both.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72335",
+    "passage": ""
   }
 ]
