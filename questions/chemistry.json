@@ -11716,5 +11716,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4465",
     "passage": ""
+  },
+  {
+    "id": 4466,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The volume of a given gas is V cm\\(^3\\) at a pressure P mm Hg. what is the new volume of the gas if the pressure is reduced to half at constant temperature?",
+    "options": {
+      "A": "4 V cm 3",
+      "B": "2 V cm 3",
+      "C": "V /2 cm 3",
+      "D": "V cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Given:\nV\\(_1\\) = V cm\\(^3\\)   P\\(_1\\) = P mmHg    V\\(_2\\) = ?     P\\(_2\\) =  \\(\\frac{P}{2}\\)   At constant temperature ⇒ Boyle's Law\nP\\(_1\\)V\\(_1\\) = P\\(_2\\)V\\(_2\\)\nV\\(_2\\) = \\(\\frac{{P_1}{V_1}}{P_2}\\)\n= \\(\\frac{{P}\\times{V}\\times {2}}{P}\\)\nV\\(_2\\) = 2V\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4466",
+    "passage": ""
   }
 ]
