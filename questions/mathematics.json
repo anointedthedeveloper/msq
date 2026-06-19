@@ -3421,5 +3421,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7760",
     "passage": ""
+  },
+  {
+    "id": 7761,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Find the value of x and y respectively if 3x - 5y + 5 = 0 and 4x - 7y + 8 = 0",
+    "options": {
+      "A": "-5, -4",
+      "B": "-4,. -5",
+      "C": "4, 5",
+      "D": "5, 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7761",
+    "passage": ""
   }
 ]
