@@ -3801,5 +3801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1658",
     "passage": ""
+  },
+  {
+    "id": 1661,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a unitary system of government,power is concentrated at the center",
+    "options": {
+      "A": "with devolution",
+      "B": "without residual functions",
+      "C": "without devolution",
+      "D": "with residual functions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A unitary system of government is one in which all sovereign power is concentrated in the central government. Any powers exercised by regional or local authorities exist only because the central government allows them and can withdraw them at any time. Therefore, power is concentrated at the centre without devolution of constitutional authority.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1661",
+    "passage": ""
   }
 ]
