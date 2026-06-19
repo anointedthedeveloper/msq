@@ -13009,5 +13009,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22657",
     "passage": ""
+  },
+  {
+    "id": 22660,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Find the value of m which makes x\\(^2\\) + 8 + m a perfect square",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "8",
+      "D": "12",
+      "E": "16"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "x\\(^2\\) + 8 + m\nTo make it a perfect square, we add \\((\\frac{b}{2})^2\\)\n= \\((\\frac{8}{2})^2\\)\n= 16",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22660",
+    "passage": ""
   }
 ]
