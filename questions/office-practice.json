@@ -3866,5 +3866,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75987",
     "passage": ""
+  },
+  {
+    "id": 75989,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The section of an office in Rammy Ltd where mails are handled is",
+    "options": {
+      "A": "reception",
+      "B": "executive office",
+      "C": "boardroom",
+      "D": "registry"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The registry is the section of an office where mails are handled. It is responsible for the receipt, recording, distribution, storage, and disposal of mail in an organization. Therefore, in Rammy Ltd, mails would be handled in the registry.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75989",
+    "passage": ""
   }
 ]
