@@ -14225,5 +14225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5140",
     "passage": ""
+  },
+  {
+    "id": 5143,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap : I forgot to bring a pen with me. Would you, please ... me yours",
+    "options": {
+      "A": "borrow",
+      "B": "loan",
+      "C": "provide",
+      "D": "lend"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This word means to give something to someone temporarily, with the expectation that it will be returned. In the sentence, the person is asking someone else to temporarily give them their pen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5143",
+    "passage": ""
   }
 ]
