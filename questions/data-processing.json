@@ -5121,5 +5121,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58982",
     "passage": ""
+  },
+  {
+    "id": 58989,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Which of the following sets are available when creating a table in \"Design view\" in Microsoft Access?",
+    "options": {
+      "A": "Data type, Description and Field Name",
+      "B": "Description, Criteria and Field Property",
+      "C": "Field Name, Data Type and Field Property",
+      "D": "Criteria, Field Name and Description"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "field name, data type, and description are available when creating a table in \"Design view\" in Microsoft Access",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58989",
+    "passage": ""
   }
 ]
