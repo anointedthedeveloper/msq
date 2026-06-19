@@ -3583,5 +3583,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/1797",
     "passage": ""
+  },
+  {
+    "id": 1799,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following statements best describes comedy",
+    "options": {
+      "A": "A play in which no body dies",
+      "B": "A play which makes us laugh",
+      "C": "play in which  the hero is a clown",
+      "D": "a play which end happily",
+      "E": "a play which is not boring."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Comedy in drama is traditionally defined as a genre that has a happy ending, often involving themes of love, reconciliation, and the resolution of conflicts in a light-hearted or humorous manner.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/1799",
+    "passage": ""
   }
 ]
