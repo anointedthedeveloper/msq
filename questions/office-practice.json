@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66050",
     "passage": ""
+  },
+  {
+    "id": 66058,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The communication channel in the diagram above is",
+    "options": {
+      "A": "vertical",
+      "B": "diagonal",
+      "C": "lateral",
+      "D": "horizontal"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/E7Pul3oPtrjrusoG25FZwK06oXcah7NKmRc8GMQq.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781894025/myschool/office-practice/E7Pul3oPtrjrusoG25FZwK06oXcah7NKmRc8GMQq.jpg",
+    "correct_answer": "C",
+    "explanation": "The communication channel in the diagram below is lateral communication channel General manager ↓             ↓ Personal manager   marketing manager",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66058",
+    "passage": ""
   }
 ]
