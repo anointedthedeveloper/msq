@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/59440",
     "passage": ""
+  },
+  {
+    "id": 59441,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "In a computer, the sets of instruction that direct it in performing a particular task is called?",
+    "options": {
+      "A": "information",
+      "B": "program",
+      "C": "data",
+      "D": "file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/59441",
+    "passage": ""
   }
 ]
