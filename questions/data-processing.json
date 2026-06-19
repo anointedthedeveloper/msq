@@ -5870,5 +5870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62598",
     "passage": ""
+  },
+  {
+    "id": 62600,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Mr Francis has an office complex with 20 rooms. What type of network is suitable for connecting all the computers in their various rooms into a single network?",
+    "options": {
+      "A": "LAN",
+      "B": "MAN",
+      "C": "PAN",
+      "D": "WAN"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A LAN( local area network) would be suitable for connecting all the computers in these rooms into a single network.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62600",
+    "passage": ""
   }
 ]
