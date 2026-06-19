@@ -1929,5 +1929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1484",
     "passage": ""
+  },
+  {
+    "id": 1485,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "How many moles of HCl will be required to react with potassium heptaoxodichromate (VI) to produce 3 moles of chlorine?",
+    "options": {
+      "A": "14",
+      "B": "12",
+      "C": "11",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "K\\(_{2}\\)Cr\\(_{2}\\)O\\(_{7}\\) + HCl  → Cl\\(_{2}\\) + KCl + CrCl\\(_{3}\\) + H\\(_{2}\\)O\nBalancing the equation, we have\nK\\(_{2}\\)Cr\\(_{2}\\)O\\(_{7}\\) + 14HCl → 3Cl\\(_{2}\\) + 2KCl + 2CrCl\\(_{3}\\) + 7H\\(_{2}\\)O\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1485",
+    "passage": ""
   }
 ]
