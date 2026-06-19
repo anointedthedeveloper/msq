@@ -1991,5 +1991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49832",
     "passage": ""
+  },
+  {
+    "id": 49834,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the followng practices inhibits the productivity of pastures?",
+    "options": {
+      "A": "irrigation",
+      "B": "Overgrazing",
+      "C": "Regular weeding",
+      "D": "fertiliser application"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Overgrazing occurs when plants are exposed to intensive grazing for extended periods of time, or without sufficient recovery periods. It can be caused by either livestock in poorly managed agricultural applications and effects the productivity of plants.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49834",
+    "passage": ""
   }
 ]
