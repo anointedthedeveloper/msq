@@ -3525,5 +3525,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73857",
     "passage": ""
+  },
+  {
+    "id": 73858,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Wace jimla ce ba ta d'auke da sifa?",
+    "options": {
+      "A": "Rigar da ta kone baka ce.",
+      "B": "A.Huhu-huhu yake sayar da goronsa.",
+      "C": "Koriyar mota ta fi.",
+      "D": "Nan-nan ya kasa kai damin dawa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Which sentence does not contain an adjective? Answer: Nan-nan ya kasa kai damin dawa (This sentence does not contain an adjective, while the other options do)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73858",
+    "passage": ""
   }
 ]
