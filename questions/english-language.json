@@ -4793,5 +4793,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2087",
     "passage": ""
+  },
+  {
+    "id": 2088,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the correct word to fill the space in the following sentences : There is a filling station .... the corner, to your right.",
+    "options": {
+      "A": "about",
+      "B": "by",
+      "C": "from",
+      "D": "around",
+      "E": "to"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The natural expression is “around the corner” , which means very near, just at the next turn .\nSo the sentence becomes:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2088",
+    "passage": ""
   }
 ]
