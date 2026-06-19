@@ -19440,5 +19440,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72614",
     "passage": ""
+  },
+  {
+    "id": 72616,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Debugging in program development is the process of",
+    "options": {
+      "A": "fixing errors.",
+      "B": "introducing bugs.",
+      "C": "removing virus.",
+      "D": "writing error messages."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A: Debugging in program development is the process of identifying, isolating and fixing errors, bugs or glitches in your program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72616",
+    "passage": ""
   }
 ]
