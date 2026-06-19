@@ -12361,5 +12361,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4622",
     "passage": ""
+  },
+  {
+    "id": 4623,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence :\nAfter the team had conceded two goals, their enthusiasm ....",
+    "options": {
+      "A": "was beginning to wane",
+      "B": "was waning",
+      "C": "began to wane",
+      "D": "had begun to wane",
+      "E": "had ben waning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "''They began to wane''  means to become weaker in strength or influence. This correctly fills in the gap",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4623",
+    "passage": ""
   }
 ]
