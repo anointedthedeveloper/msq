@@ -3882,5 +3882,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1744",
     "passage": ""
+  },
+  {
+    "id": 1745,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In the reaction E+F ↔ G+H, the backward reaction is favoured if the concentration of",
+    "options": {
+      "A": "F is increased",
+      "B": "E is increased",
+      "C": "E is reduced",
+      "D": "G is reduced"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Le Chatelier's principle states that if a dynamic equilibrium is disturbed by changing the conditions, the position of equilibrium shifts to counteract the change to reestablish an equilibrium.\nFor the backward reaction to be favoured(LHS) , the concentration of one of the reactants must be reduced. i.e either E or F must be reduced. However, from the option, option C happens to be the one that fits in, as E is the only reactant reduced.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1745",
+    "passage": ""
   }
 ]
