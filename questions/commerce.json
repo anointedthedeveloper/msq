@@ -2897,5 +2897,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1533",
     "passage": ""
+  },
+  {
+    "id": 1537,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1998",
+    "question": "If a firm's turnover is N15,000 and the cost of goods sold is N 10,000 What is the percentage of gross profit on sales?",
+    "options": {
+      "A": "23.3%",
+      "B": "33.3%",
+      "C": "50.0%",
+      "D": "66.6%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Gross Profit =Turnover − Cost of Goods Sold\nTurnover = N15,000, Cost of Goods Sold = N10,000\nGross Profit = Turnover − Cost of Goods Sold = N(15,000 - 10,000) = N5000\nPercentage of Gross Profit = \\(\\frac{\\text{Gross profit}}{\\text{Turnover}}\\) x 100\n= \\(\\frac{5000}{15000}\\) x 100 = 33.33%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1537",
+    "passage": ""
   }
 ]
