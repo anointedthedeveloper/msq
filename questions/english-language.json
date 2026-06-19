@@ -13889,5 +13889,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5108",
     "passage": ""
+  },
+  {
+    "id": 5109,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the word(s) or phrase which best fills the gap : The officer was compelled to .... the suspects's car.",
+    "options": {
+      "A": "seize",
+      "B": "cease",
+      "C": "sieze",
+      "D": "sease"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The word \"seize\" means to take hold of something by force or authority. To 'cease' means to stop doing something. \"Sieze\" and \"sease\" are misspellings of \"seize\" and \"cease\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5109",
+    "passage": ""
   }
 ]
