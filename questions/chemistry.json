@@ -5982,5 +5982,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2639",
     "passage": ""
+  },
+  {
+    "id": 2640,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Hardness of water is caused by the presence of ions of",
+    "options": {
+      "A": "magnesium and silver",
+      "B": "calcium and magnesium",
+      "C": "sodium and potassium",
+      "D": "calcium and sodium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Water hardness is caused by the presence of positively charged metallic ions, most commonly calcium and magnesium.\nWater becomes hard when it comes into contact with limestone and other rocks that contain calcium compounds. For example, rainwater that flows over rocks on its way to a reservoir can pick up calcium and magnesium ions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2640",
+    "passage": ""
   }
 ]
