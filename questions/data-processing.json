@@ -7189,5 +7189,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67148",
     "passage": ""
+  },
+  {
+    "id": 67149,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Any meaningful fact and knowledge item that can be expressed in words and numbers is called",
+    "options": {
+      "A": "Knowledge base",
+      "B": "Information",
+      "C": "Database",
+      "D": "Data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Information is organized or classified data, which has some meaningful values for the receiver.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67149",
+    "passage": ""
   }
 ]
