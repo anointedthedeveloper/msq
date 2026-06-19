@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73240",
     "passage": ""
+  },
+  {
+    "id": 73241,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following fibre turns grey or yellow with age?",
+    "options": {
+      "A": "Viscose",
+      "B": "Cotton",
+      "C": "Nylon",
+      "D": "Polyester"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cotton is a natural fiber that can turn yellow or gray with age due to exposure to light, air, and moisture. This is because cotton contains lignin, a natural pigment that can break down over time, causing the fiber to discolor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73241",
+    "passage": ""
   }
 ]
