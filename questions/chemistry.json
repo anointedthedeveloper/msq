@@ -7222,5 +7222,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2977",
     "passage": ""
+  },
+  {
+    "id": 2978,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "How many moles of limestone will be required to produce 5.6g of CaO? [Ca = 40, C = 12, O= 16]",
+    "options": {
+      "A": "0.20 mol",
+      "B": "0.10 mol",
+      "C": "1.12 mol",
+      "D": "0.56 mol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "CaCO\\(_3\\) → CaO + CO\\(_2\\) CaCO\\(_3\\) = 40 + 12 + (16 x 3) = 100,\nCaO = 40 + 16 = 56 56g of CaO was produced by 100g of CaCO\\(_3\\) ∴ 5.6g of CaO will be produced by (5.6 x 100)/56 = 10g of CaCO\\(_3\\)\nRecall that Number of moles = \\(\\frac{mass}{molar mass}\\)\n= \\(\\frac{10}{100}\\)\n= 0.10mole\nAlternatively,\nCaCO\\(_3\\)    →   CaO   +   CO\\(_2\\)\nn = \\(\\frac{m}{M}\\)\nn = \\(\\frac{5.6}{56}\\)\nn = 0.10 mole\nSince the ratio of the reactant to product is 1 : 1, and the number of mole of CaO is 0.10mole, therefore, the number of mole of CaCO\\(_3\\) will also be 0.10 mole, according to Avogadro's law.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2978",
+    "passage": ""
   }
 ]
