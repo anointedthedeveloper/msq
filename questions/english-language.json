@@ -724,5 +724,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/499",
     "passage": ""
+  },
+  {
+    "id": 501,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nIn order to carry out necessary examination the dead body was ....",
+    "options": {
+      "A": "extracted",
+      "B": "extradited",
+      "C": "exiled",
+      "D": "expelled",
+      "E": "exhumed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/501",
+    "passage": ""
   }
 ]
