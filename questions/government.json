@@ -3381,5 +3381,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1620",
     "passage": ""
+  },
+  {
+    "id": 1621,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The responsibility for admitting new members to the OPEC rests with the",
+    "options": {
+      "A": "Summit",
+      "B": "Secretariate",
+      "C": "Conference",
+      "D": "Board of Governors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1621",
+    "passage": ""
   }
 ]
