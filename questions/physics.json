@@ -2686,5 +2686,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9740",
     "passage": ""
+  },
+  {
+    "id": 9752,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "water is a poor thermometric liquid because it",
+    "options": {
+      "A": "is opaque",
+      "B": "is a poor conductor",
+      "C": "wets glass",
+      "D": "has low vapour pressure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Wet glass : Water's ability to adhere to the glass can cause inaccuracies in readings due to meniscus formation and inconsistent surface tension.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9752",
+    "passage": ""
   }
 ]
