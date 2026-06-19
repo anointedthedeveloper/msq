@@ -1396,5 +1396,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57724",
     "passage": ""
+  },
+  {
+    "id": 57725,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A data element that uniquely identifies one record from the other in a table is the",
+    "options": {
+      "A": "Attribute key",
+      "B": "determinant",
+      "C": "entity key",
+      "D": "primary key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In DBMS, The primary key is the chosen key that uniquely identifies records in a table. It’s the one that’s used as the main identifier for each record.. There can be only one primary Key in a table. Also, the primary Key cannot have the same values repeating for any row.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57725",
+    "passage": ""
   }
 ]
