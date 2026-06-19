@@ -9965,5 +9965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77101",
     "passage": ""
+  },
+  {
+    "id": 77102,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The following are the benefits of parallel databases, except",
+    "options": {
+      "A": "high performance",
+      "B": "availability",
+      "C": "reliability",
+      "D": "complexity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Parallel databases are designed to ensure high performance, availability, reliability, and usability. Managing a parallel database can be more complex than managing a non-parallel database because data must be distributed across multiple servers and queries must be executed in parallel.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77102",
+    "passage": ""
   }
 ]
