@@ -3605,5 +3605,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1954",
     "passage": ""
+  },
+  {
+    "id": 1955,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the\nbest option\nto fill the gaps in the following sentences\n:\nOxygen is necessary to life. Nothing can live without it. It was .... a century ago",
+    "options": {
+      "A": "invented",
+      "B": "found out",
+      "C": "discovered",
+      "D": "learnt",
+      "E": "extracted"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1955",
+    "passage": ""
   }
 ]
