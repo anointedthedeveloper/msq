@@ -13185,5 +13185,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22672",
     "passage": ""
+  },
+  {
+    "id": 22674,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "In the diagram above, WXYZ is a rhombus and ∠WYX = 20°. What is the value of ∠XZY",
+    "options": {
+      "A": "20 o",
+      "B": "30 o",
+      "C": "45 o",
+      "D": "60 o",
+      "E": "70 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/13833147380_wcmath199031.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781869292/myschool/mathematics/13833147380_wcmath199031.jpg",
+    "correct_answer": "E",
+    "explanation": "Diagonals bisect at 90°;  < YXZ = 90° - 20° = 70°\nBut ZY = XY (sides of a rhombus)\n\\(\\therefore\\) < XYZ = 70° (base angle of an isos. triangle)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22674",
+    "passage": ""
   }
 ]
