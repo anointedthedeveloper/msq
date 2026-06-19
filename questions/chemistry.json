@@ -10498,5 +10498,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4255",
     "passage": ""
+  },
+  {
+    "id": 4270,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "A red precipitate of copper (I) carbide is formed when ammonium solution of copper (I) chloride is introduced into",
+    "options": {
+      "A": "CH 2 = CH - CH 2 - CH 3",
+      "B": "CH 3 CH 2 - C ≡ CH",
+      "C": "CH 3 CH 2 CH 2 CH 3",
+      "D": "CH 3 - C  C - CH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Terminal alkynes react with ammoniacal copper(I)chloride to produce a red precipitate.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4270",
+    "passage": ""
   }
 ]
