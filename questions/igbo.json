@@ -2157,5 +2157,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73799",
     "passage": ""
+  },
+  {
+    "id": 73800,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In Igbo, how do you invite somebody to come and join you in eating?",
+    "options": {
+      "A": "Gaa rie nri",
+      "B": "Ị ga-eri nri",
+      "C": "Bịa rie nri",
+      "D": "Nọdụ rie nri"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Bịa rie nri\" is the correct invitation in Igbo to ask someone to come and join you in eating. \"Bịa\" means \"come\", \"rie\" means \"to eat\", and \"nri\" means \"food\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73800",
+    "passage": ""
   }
 ]
