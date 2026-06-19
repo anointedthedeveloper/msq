@@ -6675,5 +6675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2950",
     "passage": ""
+  },
+  {
+    "id": 2951,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Alkanol + Alkanoic acid  ⇌  Ester + Water The reverse reaction above is known as",
+    "options": {
+      "A": "Hydrolysis",
+      "B": "Saponification",
+      "C": "Hydration",
+      "D": "Fermentation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The reverse reaction of esterification is hydrolysis.\nEsterification : A reaction that produces an ester and water when an alcohol and an alkanoic cid react.\nHydrolysis : A reaction that produces an alcohol and a carboxylic acid when an ester reacts with water and a strong acid.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2951",
+    "passage": ""
   }
 ]
