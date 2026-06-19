@@ -5212,5 +5212,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75886",
     "passage": ""
+  },
+  {
+    "id": 75887,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Elle mange _ pomme chaque matin.",
+    "options": {
+      "A": "la",
+      "B": "du",
+      "C": "des",
+      "D": "une"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pomme\" is feminine singular; the correct article is \"une\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75887",
+    "passage": ""
   }
 ]
