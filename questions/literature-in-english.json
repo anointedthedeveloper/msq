@@ -1362,5 +1362,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/673",
     "passage": ""
+  },
+  {
+    "id": 674,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "A play is drama because",
+    "options": {
+      "A": "it contains characters",
+      "B": "it does not contain any story",
+      "C": "it cannot be read silently",
+      "D": "it can be acted on the stage",
+      "E": "it is written in verse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/674",
+    "passage": ""
   }
 ]
