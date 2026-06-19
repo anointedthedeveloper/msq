@@ -4071,5 +4071,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1753",
     "passage": ""
+  },
+  {
+    "id": 1754,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The solubility of a salt of molar mass 101g at 20\no\nC is 0.34 mol dm\n-3\n. If 3.40g of the salt is dissolved completely in 250cm\n3\nof water in a beaker, the resulting solution is",
+    "options": {
+      "A": "A suspension",
+      "B": "Saturated",
+      "C": "Unsaturated",
+      "D": "Supersaturated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "o\n3\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1754",
+    "passage": ""
   }
 ]
