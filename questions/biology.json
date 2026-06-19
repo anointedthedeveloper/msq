@@ -1868,5 +1868,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/464",
     "passage": ""
+  },
+  {
+    "id": 465,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "One significant difference between roots and stem is that",
+    "options": {
+      "A": "Branch roots originate in the pericycle while stem do not",
+      "B": "Stems are always  bove the ground while root are always below the ground",
+      "C": "Stems are positively geotropic while roots are negatively geotropic",
+      "D": "Stem are sometime used for storage while roots are never used",
+      "E": "Stems grow in both length and circumference while root grow only in length"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/465",
+    "passage": ""
   }
 ]
