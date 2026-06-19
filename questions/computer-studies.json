@@ -20360,5 +20360,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76755",
     "passage": ""
+  },
+  {
+    "id": 76763,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The property of a disk that determines the amount of data it may contain is",
+    "options": {
+      "A": "size",
+      "B": "volume",
+      "C": "storage capacity",
+      "D": "storage power"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The property of a disk that determines the amount of data it may contain is its storage capacity. This is usually measured in bytes and its multiples (KB, MB, GB, TB, etc.). The size and volume of a disk do not necessarily determine its storage capacity, and 'storage power' is not a recognized term in this context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76763",
+    "passage": ""
   }
 ]
