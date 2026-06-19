@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75294",
     "passage": ""
+  },
+  {
+    "id": 75296,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "لن يفسل المجتهد\" - ما أتر \"لن\" على الفعل؟\"",
+    "options": {
+      "A": "تنصبه",
+      "B": "ترفعه",
+      "C": "تجزمه",
+      "D": "تحذفه"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": ".(نصب) causes the verb to be in the accusative \"لن\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75296",
+    "passage": ""
   }
 ]
