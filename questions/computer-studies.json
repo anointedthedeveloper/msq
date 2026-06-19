@@ -17817,5 +17817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69856",
     "passage": ""
+  },
+  {
+    "id": 69857,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Datatypes in QBASIC programming language include the following except",
+    "options": {
+      "A": "double",
+      "B": "short",
+      "C": "float.",
+      "D": "long."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Datatypes in QBASIC programming language include the following except \"short.\" In QBASIC, the datatypes that are commonly used include \"double,\" \"float,\" and \"long.\" However, \"short\" is not a standard datatype in QBASIC. Here's a brief explanation of the other datatypes: INTEGER: A 16-bit signed integer variable. LONG: A 32-bit signed integer variable. SINGLE: A single-precision 32-bit floating-point variable. DOUBLE: A double-precision 64-bit floating-point variable. STRING * n%: A fixed-length string variable n% bytes long. STRING: A variable-length string variable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69857",
+    "passage": ""
   }
 ]
