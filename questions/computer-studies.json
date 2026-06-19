@@ -16578,5 +16578,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67850",
     "passage": ""
+  },
+  {
+    "id": 67851,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The term used to describe when new information replaces old information or data is",
+    "options": {
+      "A": "file loss",
+      "B": "delete",
+      "C": "re-write",
+      "D": "overwrite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In computing, when new information replaces old information or data, it is referred to as 'overwrite'. This is because the new data is written over the old data, effectively replacing it. Therefore, the correct answer is 'overwrite'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67851",
+    "passage": ""
   }
 ]
