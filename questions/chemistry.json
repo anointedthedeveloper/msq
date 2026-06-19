@@ -2622,5 +2622,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1564",
     "passage": ""
+  },
+  {
+    "id": 1565,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A common characteristics of copper and silver in their usage as coinage metals is that they",
+    "options": {
+      "A": "have high metallic lustre",
+      "B": "are not easily oxidized",
+      "C": "are easily oxidized",
+      "D": "are not easily reduced"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Apart from the fact that Copper is a transition metal while Silver is not, both of them reducing agents, thus they are not easily oxidized. The correct answer is option B.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1565",
+    "passage": ""
   }
 ]
