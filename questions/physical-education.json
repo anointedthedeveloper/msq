@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64261",
     "passage": ""
+  },
+  {
+    "id": 64262,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a postural defect?",
+    "options": {
+      "A": "Endomorph",
+      "B": "Flatfoot",
+      "C": "Kyphosis",
+      "D": "Lordosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Endomorph is not a postural defect. It is a body type.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64262",
+    "passage": ""
   }
 ]
