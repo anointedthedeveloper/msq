@@ -16977,5 +16977,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69815",
     "passage": ""
+  },
+  {
+    "id": 69816,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The main distinguishing feature of fifth generation computers is",
+    "options": {
+      "A": "artificial intelligence.",
+      "B": "versatility.",
+      "C": "extremely low cost.",
+      "D": "liberal use of microprocessors."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The main distinguishing feature of fifth generation computers is artificial intelligence. Fifth generation computers are still in the development stage, but they are expected to be able to understand and respond to human language, learn from experience, and reason like humans. They are also expected to be able to work in parallel, which will make them much faster than previous generations of computers. The other options are not as distinguishing features of fifth generation computers. Liberal use of microprocessors is a feature of fourth generation computers, extremely low cost is not a feature of any generation of computers, and versatility is a feature of all generations of computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69816",
+    "passage": ""
   }
 ]
