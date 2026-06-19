@@ -8305,5 +8305,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76225",
     "passage": ""
+  },
+  {
+    "id": 76226,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace kalma ce ke nuna lokaci a jumlar nan: *Zan tafi gobe *?",
+    "options": {
+      "A": "gobe",
+      "B": "Zan",
+      "C": "tafi",
+      "D": "Ina"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Gobe\" indicates time; it refers to the day after today.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76226",
+    "passage": ""
   }
 ]
