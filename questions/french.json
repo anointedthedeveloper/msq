@@ -396,5 +396,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48130",
     "passage": ""
+  },
+  {
+    "id": 48131,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Notre école vient d'acheter des tables modernes ... bois",
+    "options": {
+      "A": "le",
+      "B": "en",
+      "C": "au",
+      "D": "de"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48131",
+    "passage": ""
   }
 ]
