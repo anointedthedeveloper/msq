@@ -3272,5 +3272,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50244",
     "passage": ""
+  },
+  {
+    "id": 50245,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "National Agency for the Prohibition of traffic in persons (NAPTIP) is an initiative of",
+    "options": {
+      "A": "federal government of Nigeria",
+      "B": "United states agency for international development",
+      "C": "women trafficking and child labour eradication foundation",
+      "D": "United nations office on drugs and crime."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The National Agency for the Prohibition of Trafficking in Persons is a law enforcement agency of the Federal Government of Nigeria, founded in 2003 in order to combat human trafficking and other similar human rights violations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50245",
+    "passage": ""
   }
 ]
