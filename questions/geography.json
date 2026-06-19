@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/358",
     "passage": ""
+  },
+  {
+    "id": 359,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following has the highest mean annual rainfall?",
+    "options": {
+      "A": "Freetown",
+      "B": "Accra",
+      "C": "Lome",
+      "D": "Lagos",
+      "E": "Enugu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/359",
+    "passage": ""
   }
 ]
