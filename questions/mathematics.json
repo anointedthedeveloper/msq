@@ -15428,5 +15428,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23173",
     "passage": ""
+  },
+  {
+    "id": 23174,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Points X and Y are respectively 12m North and 5m east of point Z. Calculate XY",
+    "options": {
+      "A": "7m",
+      "B": "12m",
+      "C": "13m",
+      "D": "17m",
+      "E": "18m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Using pythagora's theorem:\nhyp\\(^2\\) = opp\\(^2\\) + adj\\(^2\\)\nhyp\\(^2\\) = 12\\(^2\\) + 5\\(^2\\) → 144 + 25\nhyp\\(^2\\) = 169\nhyp = √169\nhyp = 13",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23174",
+    "passage": ""
   }
 ]
