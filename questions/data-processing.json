@@ -1774,5 +1774,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57754",
     "passage": ""
+  },
+  {
+    "id": 57822,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) Describe data handling.\n(b) Explain two ways of handling data.\n(c) State four factors to consider when handling data electronically.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "1 (a) Data handling is the process/way of ensuring that data is obtained, stored archived or disposed in a manner that retains its integrity  in a second manner. OR Data handling is basically the process/way of inputting and storing data in a computer. The Data is then processed into information.\n(b) There sre two ways of handling data which are;\n(i) Electronic method; This is the use of electronic system such as computers, storage media like video tape, CD,DVD, Memory cards and other electronic devices to obtain, store, archive, share or dispose data.\n(ii) Non-electronic/Manual method: This involves the use of paper files, journals, laboratory notebooks, human effects and other non-electronic means to store or share data.\n(c) Factors to be considered when handling data electronically; Data intergrity, Regular update of data, Validation of data, Security of data/Encryption, Type of Data, Type of storage to be used, Data volume/size, Access control, Regular Anti-virus update, Limit physical  access to storage media, Regular Backups/Ensure data recoverbility, Record Date and Time, Power supply.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57822",
+    "passage": ""
   }
 ]
