@@ -3427,5 +3427,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71211",
     "passage": ""
+  },
+  {
+    "id": 71212,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Vous avez des enfants? Oui. J'/je...... ai deux.",
+    "options": {
+      "A": "les",
+      "B": "en",
+      "C": "le",
+      "D": "la"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This sentence is asking \"Do you have children?\" and the response is \"Yes, I have two.\" The pronoun \"en\" is used to replace the noun \"d'enfants\" in the sentence.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71212",
+    "passage": ""
   }
 ]
