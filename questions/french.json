@@ -834,5 +834,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48151",
     "passage": ""
+  },
+  {
+    "id": 48152,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Combien de pays participent au Tournoi de Rugby?",
+    "options": {
+      "A": "Dix",
+      "B": "Quinze",
+      "C": "Cinq",
+      "D": "Quatre"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/OieISdDbDCcKdJ8BhGFNWz91ryTquTMiI5XQcrOU.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898026/myschool/french/OieISdDbDCcKdJ8BhGFNWz91ryTquTMiI5XQcrOU.png",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48152",
+    "passage": ""
   }
 ]
