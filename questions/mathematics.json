@@ -7201,5 +7201,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9244",
     "passage": ""
+  },
+  {
+    "id": 9245,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Calculate the length of an arc of a circle diameter 14 cm, which substends an angle of 90o at the center of the circle",
+    "options": {
+      "A": "\\(\\frac{7π}{2}\\) cm",
+      "B": "7π  cm",
+      "C": "14π  cm",
+      "D": "\\(\\frac{7π}{4}\\) cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Length of an arc = \\(\\frac{θ}{360}\\) x 2πr \\(\\frac{90}{360}\\) x 2 x π x 7 = \\(\\frac{7π}{2}\\)cm\\(^2\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9245",
+    "passage": ""
   }
 ]
