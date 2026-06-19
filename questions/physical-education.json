@@ -2644,5 +2644,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68274",
     "passage": ""
+  },
+  {
+    "id": 68275,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "How many trials are allowed in shot put?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Only 3 trials are allowed in shot put.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68275",
+    "passage": ""
   }
 ]
