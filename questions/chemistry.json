@@ -8797,5 +8797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3755",
     "passage": ""
+  },
+  {
+    "id": 3768,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "Na\\(_2\\)S\\(_2\\)O\\(_3\\)(aq) + 2HCl(aq) → 2NaCl(aq) + H\\(_2\\)O(l) Which of the following would introduce the greatest increase in the rate of the chemical reaction above?",
+    "options": {
+      "A": "An increase in temperature and decrease in the concentration of the reactant",
+      "B": "A decrease in the volume and increase in the pressure of the reactant",
+      "C": "A decrease in the temperature and an incease in the concentration of the reactant",
+      "D": "An increase in temperature and an increase in the concentration of the reactant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Generally speaking, all neutralization reactions are considered exothermic, meaning they release heat during the reaction; this is because the formation of water molecules from the hydrogen ions of an acid and hydroxide ions of a base is a highly stable bond formation, releasing energy in the process.\nIn every exothermic reaction, a decrease  in temperature will favour the forward reaction,likewise increasing the concentration of the reactant. Option C\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3768",
+    "passage": ""
   }
 ]
