@@ -13894,5 +13894,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12823",
     "passage": ""
+  },
+  {
+    "id": 12824,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "How many grams of hydrogen gas will be liberated when 6g of magnesium ribbon dissolves in 500cm\n3\nof 6M HCl?\n(Mg=24, H=1, Cl=35.5)",
+    "options": {
+      "A": "1.2 g",
+      "B": "0.7 g",
+      "C": "0.5 g",
+      "D": "0.3 g",
+      "E": "0.12 g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12824",
+    "passage": ""
   }
 ]
