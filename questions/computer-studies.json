@@ -11872,5 +11872,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64310",
     "passage": ""
+  },
+  {
+    "id": 64311,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The process of feeding instructions into the computer system is called",
+    "options": {
+      "A": "Processing",
+      "B": "Accessing",
+      "C": "Inputting",
+      "D": "Outputting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In computer science, the general meaning of input is to provide or give something to the computer, in other words, when a computer or device is receiving a command or signal from outer sources, the event is referred to as input to the device",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64311",
+    "passage": ""
   }
 ]
