@@ -5418,5 +5418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62416",
     "passage": ""
+  },
+  {
+    "id": 62418,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The two main components of a radio communication system are?",
+    "options": {
+      "A": "transmitter and terminal",
+      "B": "receiver and determinator",
+      "C": "transmitter and receiver",
+      "D": "transmitter and terminator."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62418",
+    "passage": ""
   }
 ]
