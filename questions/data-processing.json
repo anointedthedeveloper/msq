@@ -5457,5 +5457,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59011",
     "passage": ""
+  },
+  {
+    "id": 59013,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Ensuring the correctness and consistency of data is referred to as data",
+    "options": {
+      "A": "security",
+      "B": "reliability",
+      "C": "productivity",
+      "D": "integrity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Data integrity refers to the accuracy, consistency, and completeness of data throughout its lifecycle. By following the process, organizations not only ensure the integrity of the data but also guarantee they have accurate and correct data in their database. The importance of data integrity increases as data volumes continue to increase exponentially.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59013",
+    "passage": ""
   }
 ]
