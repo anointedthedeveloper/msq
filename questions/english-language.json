@@ -9633,5 +9633,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3919",
     "passage": ""
+  },
+  {
+    "id": 3920,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question below choose the option nearest in meaning to the underlined : Can you give a good explanation for your behaviour?",
+    "options": {
+      "A": "account for",
+      "B": "call for",
+      "C": "clear up",
+      "D": "make up",
+      "E": "give up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The phrase \"account for\" means to explain or justify something, which is closest in meaning to \"give a good explanation for\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3920",
+    "passage": ""
   }
 ]
