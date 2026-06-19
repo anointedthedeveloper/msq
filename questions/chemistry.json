@@ -3903,5 +3903,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1745",
     "passage": ""
+  },
+  {
+    "id": 1746,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "What amount of mercury would be liberated if the same quantity of electricity that liberates 0.65g of zinc is applied?",
+    "options": {
+      "A": "2.01g",
+      "B": "1.00g",
+      "C": "4.02g",
+      "D": "8.04g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Zn\\(^{2+}\\) + 2e\\(^-\\) → Zn 2F will be liberated 65g of Zn, if 0.65gm of Zn is liberated, the quantity of electricity used X = (0.65/65) X 2 = 0.02F ∴ Hg\\(^{2+}\\) + 2e\\(^-\\) → Hg i.e 2F → 201gm of Hg ∴ 0.02 will liberated Y = \\(\\frac{0.02}{2}\\) X 201 = 2.01g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1746",
+    "passage": ""
   }
 ]
