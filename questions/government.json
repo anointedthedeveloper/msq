@@ -2771,5 +2771,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1519",
     "passage": ""
+  },
+  {
+    "id": 1520,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The military Head of State during the Third Republic was",
+    "options": {
+      "A": "General Olusegun Obasanjo",
+      "B": "General Ibrahim Babangida",
+      "C": "General Murtala Muhammed",
+      "D": "General Sani Abacha"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1520",
+    "passage": ""
   }
 ]
