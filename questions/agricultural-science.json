@@ -4507,5 +4507,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16261",
     "passage": ""
+  },
+  {
+    "id": 16263,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Management practices of established pasture include the following except",
+    "options": {
+      "A": "fencing",
+      "B": "transplanting",
+      "C": "replanting",
+      "D": "manuring",
+      "E": "re-seedings"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Transplanting is not typically associated with the management practices of established pastures. It usually refers to moving plants from one location to another, which is not a common practice for maintaining pastures.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16263",
+    "passage": ""
   }
 ]
