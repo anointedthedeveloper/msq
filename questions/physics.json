@@ -6340,5 +6340,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13755",
     "passage": ""
+  },
+  {
+    "id": 13764,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "I. Melting II. Boiling III. Refraction IV. Conduction Which combination of the above is evident of the molecular nature of matter?",
+    "options": {
+      "A": "II , III and IV only",
+      "B": "I ,II and IV only",
+      "C": "I , III and IV only",
+      "D": "I , II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Melting (I) : This process involves the breaking of intermolecular forces as a solid turns into a liquid, reflecting the molecular structure of matter.\nBoiling (II) : Similar to melting, boiling involves the transition from liquid to gas, indicating how molecules gain energy and move apart\nConduction (IV) : This is the process of heat transfer through collisions between molecules, demonstrating how molecular interactions lead to energy transfer.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13764",
+    "passage": ""
   }
 ]
