@@ -11128,5 +11128,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4321",
     "passage": ""
+  },
+  {
+    "id": 4322,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Two equal bulbs, one containing ammonia and the other nitrogen are opened mouth - to - mouth to each other at room temperature. The entropy in the mixture of gases is likely to?",
+    "options": {
+      "A": "remain unchange",
+      "B": "increase",
+      "C": "decrease",
+      "D": "change"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When two or more gases are mixed together at constant volume, there is an increase in entropy.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4322",
+    "passage": ""
   }
 ]
