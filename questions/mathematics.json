@@ -15340,5 +15340,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23169",
     "passage": ""
+  },
+  {
+    "id": 23170,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The value of sin 210° is",
+    "options": {
+      "A": "\\(-\\frac{1}{2}\\)",
+      "B": "\\(-\\frac{\\sqrt{3}}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}\\)",
+      "E": "\\(\\frac{\\sqrt{3}}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "sin 210 = - sin (210 - 180) = - sin 30\n= \\(-\\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23170",
+    "passage": ""
   }
 ]
