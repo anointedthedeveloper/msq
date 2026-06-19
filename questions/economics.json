@@ -2483,5 +2483,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2320",
     "passage": ""
+  },
+  {
+    "id": 2325,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Mr.A earns N300 and pays N15 in tax. Mr. B earns N100 and pays N6 in tax. This tax system can be described as?",
+    "options": {
+      "A": "proportional tax",
+      "B": "progressive tax",
+      "C": "competitive tax",
+      "D": "excise tax",
+      "E": "regressive tax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2325",
+    "passage": ""
   }
 ]
