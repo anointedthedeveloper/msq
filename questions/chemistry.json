@@ -7768,5 +7768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3274",
     "passage": ""
+  },
+  {
+    "id": 3275,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "On heating, which of the following compounds will decompose to the free metal, nitrogen (IV) oxide and oxygen?",
+    "options": {
+      "A": "Ca(NO 3 ) 2",
+      "B": "Cu(NO 3 ) 2",
+      "C": "AgNO 3",
+      "D": "NaNO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When calcium nitrate (Ca(NO\\(_3\\))\\(_2\\)) decomposes on heating, it produces calcium oxide (CaO), nitrogen dioxide (NO\\(_2\\)) gas, and oxygen gas (O2).\nChemical equation: 2Ca(NO\\(_3\\))\\(_2\\) → 2CaO + 4NO\\(_2\\). + O\\(_2\\)..\nWhen copper nitrate (Cu(NO\\(_3\\))\\(_2\\)) decomposes on heating, the products formed are copper oxide (CuO), nitrogen dioxide (NO\\(_2\\)), and oxygen gas (O2). This is a thermal decomposition reaction where the copper nitrate breaks down into these components when heated.\nChemical equation: 2Cu(NO\\(_3\\).)\\(_2\\)) → 2CuO + 4NO\\(_2\\). + O\\(_2\\).\nWhen silver nitrate (AgNO\\(_3\\)) decomposes on heating, the products formed are silver metal (Ag), nitrogen dioxide (NO\\(_2\\)), and oxygen (O\\(_2\\)).\nChemical equation: 2AgNO\\(_3\\) (s) → 2Ag (s) + 2NO\\(_2\\) (g) + O\\(_2\\).(g).\nWhen sodium nitrate (NaNO\\(_3\\)) decomposes on heating, it produces sodium nitrite (NaNO\\(_2\\)) and oxygen gas (O2) as the primary products; essentially breaking down into these two simpler substances.\nChemical reaction: 2NaNO\\(_3\\) → 2NaNO\\(_2\\) + O\\(_2\\).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3275",
+    "passage": ""
   }
 ]
