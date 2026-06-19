@@ -6781,5 +6781,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13857",
     "passage": ""
+  },
+  {
+    "id": 13858,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If the capacitance of a capacitor is C = \\(\\frac{(εA)}{d}\\) which of the following parameters is varied when a variable capacitors is used for tuning radio sets?",
+    "options": {
+      "A": "constant (ε) and area",
+      "B": "area and distance.",
+      "C": "constant (ε) only",
+      "D": "distance only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a variable capacitor, the capacitance is adjusted by changing the overlapping area of the plates (area) and/or the distance between the plates (distance). This allows for tuning in radio sets.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13858",
+    "passage": ""
   }
 ]
