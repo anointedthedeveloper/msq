@@ -2231,5 +2231,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71064",
     "passage": ""
+  },
+  {
+    "id": 71065,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "From the lettered A - E, choose the odd one of the options.\nLes boissons:",
+    "options": {
+      "A": "Le jus de fruit",
+      "B": "L'huile de palme",
+      "C": "Le jus d'orange",
+      "D": "Le vin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The odd one out is L'huile de palme, because palm oil is not a beverage. The other options - Le vin (wine), Le jus de fruit (fruit juice), Le jus d'orange (orange juice), and L'eau (water) - are all types of drink",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71065",
+    "passage": ""
   }
 ]
