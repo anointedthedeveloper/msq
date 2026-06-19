@@ -2000,5 +2000,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/597",
     "passage": ""
+  },
+  {
+    "id": 598,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Some of the features of an animal are scales, teeth, nares and backbone. The animal is likely to be a",
+    "options": {
+      "A": "Toad",
+      "B": "Bird",
+      "C": "Lizard",
+      "D": "Rat",
+      "E": "Bat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/598",
+    "passage": ""
   }
 ]
