@@ -1510,5 +1510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73239",
     "passage": ""
+  },
+  {
+    "id": 73240,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is not a cleaning equipment?",
+    "options": {
+      "A": "Bucket",
+      "B": "Vacuum brush",
+      "C": "Dustpan",
+      "D": "Hand broom"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A bucket is a container used to hold liquids, materials, or other items, but it is not a cleaning equipment itself. While it may be used in conjunction with cleaning tools such as a mop or duster, it is not a tool used to clean surfaces or remove dirt and debris.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73240",
+    "passage": ""
   }
 ]
