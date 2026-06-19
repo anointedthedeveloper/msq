@@ -3211,5 +3211,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/5911",
     "passage": ""
+  },
+  {
+    "id": 7713,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the variance of 2, 6, 8, 6, 2 and 6",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "√6",
+      "D": "√5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7713",
+    "passage": ""
   }
 ]
