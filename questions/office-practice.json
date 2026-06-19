@@ -3845,5 +3845,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75985",
     "passage": ""
+  },
+  {
+    "id": 75987,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "When a meeting decides that a matter should lie on the table, it means that the matter should",
+    "options": {
+      "A": "be discussed immediately",
+      "B": "be discussed at the next meeting",
+      "C": "not be discussed at all",
+      "D": "be discussed at the executive level"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the context of a meeting, when it is decided that a matter should 'lie on the table', it means that the matter is being temporarily set aside. The matter is not being dismissed entirely, but rather postponed for discussion at a later time, typically at the next meeting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75987",
+    "passage": ""
   }
 ]
