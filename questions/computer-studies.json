@@ -16032,5 +16032,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67803",
     "passage": ""
+  },
+  {
+    "id": 67804,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is the standard keyboard layout ?",
+    "options": {
+      "A": "Dvorak",
+      "B": "QWERTY",
+      "C": "AZERTY",
+      "D": "ABCD"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The standard keyboard layout is QWERTY. This layout was patented by Christopher Sholes who invented the typewriter and later adapted to the world's first computers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67804",
+    "passage": ""
   }
 ]
