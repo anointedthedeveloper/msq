@@ -13141,5 +13141,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22668",
     "passage": ""
+  },
+  {
+    "id": 22670,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "A cylindrical container closed at both ends, has a radius of 7cm and height 5cm [Take π = 22/7]. What is the volume of the container?",
+    "options": {
+      "A": "35cm 3",
+      "B": "154cm 3",
+      "C": "220cm 3",
+      "D": "528cm 3",
+      "E": "770cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Volume = \\(\\pi r^2 h\\)\n= \\(\\frac{22}{7} \\times 7^2 \\times 5\\)\n= \\(770 cm^3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22670",
+    "passage": ""
   }
 ]
