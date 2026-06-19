@@ -2810,5 +2810,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50214",
     "passage": ""
+  },
+  {
+    "id": 50215,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "One of the major complaint against public service is",
+    "options": {
+      "A": "inefficiency",
+      "B": "under staffing",
+      "C": "victimization",
+      "D": "discrimination"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Inefficiency is the state of not achieving maximum productivity; failure to make the best use of time or resources.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50215",
+    "passage": ""
   }
 ]
