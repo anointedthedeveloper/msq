@@ -9091,5 +9091,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14215",
     "passage": ""
+  },
+  {
+    "id": 14237,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "When light passes through two media x and y of refraction indices 1.51 and 1.33 respectively, the speed of light in",
+    "options": {
+      "A": "x is same as in y",
+      "B": "x and y is same as in vacuum",
+      "C": "x is higher than in y",
+      "D": "y is higher than in x"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14237",
+    "passage": ""
   }
 ]
