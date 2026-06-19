@@ -8945,5 +8945,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72363",
     "passage": ""
+  },
+  {
+    "id": 72364,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Preventive maintenance measures in the computer room include the following options except",
+    "options": {
+      "A": "good ventilation",
+      "B": "proper illumination",
+      "C": "the use of rugs",
+      "D": "the use of tiles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Use of rugs in the computer room is not recommended as rugs can generate static electricity which can damage sensitive computer equipment. They can also trap moisture leading to humidity issues and have poor heat dissipation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72364",
+    "passage": ""
   }
 ]
