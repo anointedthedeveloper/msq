@@ -11101,5 +11101,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/69565",
     "passage": ""
+  },
+  {
+    "id": 69566,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "When voters exercise their right to vote based on monetary or material inducements, the elected candidates may suffer",
+    "options": {
+      "A": "loss of voters support in the next election",
+      "B": "eroded legitimacy during elected term",
+      "C": "erosion of dividends of democracy",
+      "D": "loss of party support for anothet term"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When voters are induced to vote for a candidate based on monetary or material inducements, it undermines the legitimacy of the elected candidate. This is because the election is not based on the candidate's policies or qualifications, but on their ability to provide inducements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/69566",
+    "passage": ""
   }
 ]
