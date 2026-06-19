@@ -17250,5 +17250,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69828",
     "passage": ""
+  },
+  {
+    "id": 69829,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A file organization in which the records are stored in the order in which they occur is called",
+    "options": {
+      "A": "indexed file.",
+      "B": "serial file.",
+      "C": "sequential file.",
+      "D": "random file."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A file organization in which the records are stored in the order in which they occur is called \"sequential file\" In a sequential file, records are stored in the order in which they occur. This means that the first record is stored at the beginning of the file, the second record is stored after the first record, and so on. To access a record in a sequential file, the computer must start at the beginning of the file and read each record until it finds the one that it is looking for.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69829",
+    "passage": ""
   }
 ]
