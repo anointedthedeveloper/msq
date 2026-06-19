@@ -7264,5 +7264,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9247",
     "passage": ""
+  },
+  {
+    "id": 9248,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The volume of a hemispherical bowl is \\(718\\frac{2}{3}\\). Find its radius .",
+    "options": {
+      "A": "4.0 cm",
+      "B": "5.6 cm",
+      "C": "7.0 cm",
+      "D": "3.8 cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Volume of bowl \\(\\frac{2}{3}\\pi r^3\\\\ 718\\frac{2}{3}=\\frac{2}{3}\\pi r^3\\\\ \\frac{2156}{3}=\\frac{2}{3} \\times \\frac{22}{7} \\times r^3 ∴r^3 = \\frac{2156 \\times 3 \\times 7}{3 \\times 2 \\times 22}\\\\ r^3 = 343\\\\ r = \\sqrt[3]{343}\\\\ r= 7.0cm\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9248",
+    "passage": ""
   }
 ]
