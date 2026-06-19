@@ -1930,5 +1930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75356",
     "passage": ""
+  },
+  {
+    "id": 75357,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which principle is concerned with the repetition of elements to create harmony?",
+    "options": {
+      "A": "Balance",
+      "B": "Variety",
+      "C": "Rhythm",
+      "D": "Unity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Rhythm in art is about repeating elements like shapes, colors, or lines to create a sense of movement and harmony.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75357",
+    "passage": ""
   }
 ]
