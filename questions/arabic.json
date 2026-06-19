@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75291",
     "passage": ""
+  },
+  {
+    "id": 75294,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما معنى \"عين\" في الجملة: \"عين الماء صافية\"؟",
+    "options": {
+      "A": "ينبوع",
+      "B": "عضو في الجسم",
+      "C": "جاسوس",
+      "D": "مكان"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In this context, \"o\" refers to a natural spring or water source.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75294",
+    "passage": ""
   }
 ]
