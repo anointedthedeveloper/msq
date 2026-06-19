@@ -1889,5 +1889,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/637",
     "passage": ""
+  },
+  {
+    "id": 638,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentences:\nIf the company had any delay at the customs office, it was .... their own making",
+    "options": {
+      "A": "at",
+      "B": "of",
+      "C": "from",
+      "D": "with",
+      "E": "through"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Of is one of the preposition commonly used to describe a location, time or place.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/638",
+    "passage": ""
   }
 ]
