@@ -1929,5 +1929,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61491",
     "passage": ""
+  },
+  {
+    "id": 61492,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A single character in an EBCDIC encoding system can be represented using",
+    "options": {
+      "A": "4 bits",
+      "B": "6 bits",
+      "C": "8 bits",
+      "D": "16 bits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61492",
+    "passage": ""
   }
 ]
