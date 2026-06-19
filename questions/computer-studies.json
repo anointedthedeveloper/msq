@@ -13006,5 +13006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64371",
     "passage": ""
+  },
+  {
+    "id": 64372,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which number base system is used by low level languages",
+    "options": {
+      "A": "Duodecimal",
+      "B": "Binary",
+      "C": "Hexadecimal",
+      "D": "Decimal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "binary base system is used by low level languages to interact with the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64372",
+    "passage": ""
   }
 ]
