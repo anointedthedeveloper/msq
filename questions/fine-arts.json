@@ -1993,5 +1993,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75359",
     "passage": ""
+  },
+  {
+    "id": 75360,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In colour theory, complementary colours are located where?",
+    "options": {
+      "A": "Near the centre",
+      "B": "Opposite on the colour wheel",
+      "C": "Next to each other",
+      "D": "In the same family"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Complementary colours are pairs of colours that are directly opposite each other on the colour wheel, such as red and green or blue and orange.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75360",
+    "passage": ""
   }
 ]
