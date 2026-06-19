@@ -2484,5 +2484,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1177",
     "passage": ""
+  },
+  {
+    "id": 1180,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The following are connected with the movement of a reflex action (1) Central nervous (2) Muscles (3) Skin (4) Sensory nerve (5) Motor nerve. Which of the following sequences indicates a correct path?",
+    "options": {
+      "A": "1-2-3-4-5",
+      "B": "2-1-4-5-3",
+      "C": "3-4-1-2-5",
+      "D": "4-1-5-2-3",
+      "E": "3-4-1-5-2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1180",
+    "passage": ""
   }
 ]
