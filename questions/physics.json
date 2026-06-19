@@ -5731,5 +5731,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12936",
     "passage": ""
+  },
+  {
+    "id": 12937,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Tea pots are often silver-coated to prevent heat loss by",
+    "options": {
+      "A": "conduction only",
+      "B": "convention only",
+      "C": "convection and conduction",
+      "D": "radiation only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Teapots are often silver-coated to prevent heat loss by reflecting infrared radiation. Silver is a good reflector of thermal radiation, which helps to minimize heat loss from the teapot, keeping the contents warm for a longer period.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12937",
+    "passage": ""
   }
 ]
