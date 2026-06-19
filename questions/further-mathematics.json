@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50362",
     "passage": ""
+  },
+  {
+    "id": 50363,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "If \\(\\begin{vmatrix}  k & k \\\\ 4 & k \\end{vmatrix} + \\begin{vmatrix}  2 & 3 \\\\ -1 & k \\end{vmatrix} = 6\\), find the value of the constant k, where k > 0.",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{vmatrix} k & k \\\\ 4 & k \\end{vmatrix} + \\begin{vmatrix}  2 & 3 \\\\ -1 & k \\end{vmatrix} = 6\\)\n\\(\\begin{vmatrix} k & k \\\\ 4 & k \\end{vmatrix} = (k^{2} - 4k)\\)\n\\(\\begin{vmatrix}  2 & 3 \\\\ -1 & k \\end{vmatrix} = (2k + 3)\\)\n\\(\\therefore (k^{2} - 4k) + (2k + 3) = k^{2} - 2k + 3 = 6\\)\n\\(k^{2} - 2k - 3 = 0\\), factorising, we have \\(k + 1 = 0\\) or \\(k - 3 = 0\\)\nSince k > 0, k = 3.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50363",
+    "passage": ""
   }
 ]
