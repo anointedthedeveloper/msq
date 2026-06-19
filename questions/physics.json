@@ -13491,5 +13491,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23847",
     "passage": ""
+  },
+  {
+    "id": 23848,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following is/are not affected by a magnetic field?\nI. Neutrons\nII. Cathode rays\nIII. Alpha particles",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I & III only",
+      "E": "I, II & III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23848",
+    "passage": ""
   }
 ]
