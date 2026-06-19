@@ -21053,5 +21053,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76905",
     "passage": ""
+  },
+  {
+    "id": 76906,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Evaluate the BASIC statement LET Z = 4*W2 + 2*y given that W = 5 and Y = 10.",
+    "options": {
+      "A": "50",
+      "B": "120",
+      "C": "8",
+      "D": "100"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The BASIC statement can be evaluated by substituting the given values of W and Y into the equation. So, Z = 4*5^2 + 2*10 = 4*25 +20 = 100 + 20 = 120. Therefore, the correct answer is 120.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76906",
+    "passage": ""
   }
 ]
