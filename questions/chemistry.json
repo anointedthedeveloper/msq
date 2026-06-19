@@ -11779,5 +11779,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4468",
     "passage": ""
+  },
+  {
+    "id": 4469,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The stability of the noble gases is due to the fact that they?",
+    "options": {
+      "A": "have no electron in their outermost shells",
+      "B": "have duplet or octet electron configurations",
+      "C": "belong to group zero of the periodic table",
+      "D": "are volatile in nature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Noble / Rare gases belong to group 0 because they have no bonding electrons in their outermost shell to satisfy the octet rule for stability.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4469",
+    "passage": ""
   }
 ]
