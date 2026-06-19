@@ -5206,5 +5206,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12802",
     "passage": ""
+  },
+  {
+    "id": 12803,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Electrical appliances at home are normally earthed so that?",
+    "options": {
+      "A": "the appliances are maintained at a lower p.d than the earth",
+      "B": "both the a.c and d.c sources can be used",
+      "C": "a person touching the appliances is safe from electric shock",
+      "D": "the appliances are maintained at a higher p.d than the earth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Earthing is used to protect you from an electric shock. It does this by providing a path (a protective conductor) for a fault current to flow to earth. It also causes the protective device (either a circuit-breaker or fuse) to switch off the electric current to the circuit that has the fault.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12803",
+    "passage": ""
   }
 ]
