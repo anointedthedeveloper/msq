@@ -2957,5 +2957,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50222",
     "passage": ""
+  },
+  {
+    "id": 50223,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following cannot be easily abused",
+    "options": {
+      "A": "cosmetics",
+      "B": "stimulant",
+      "C": "tobacco",
+      "D": "narcotics"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cosmetics are generally used for enhancing or altering appearance and are not typically associated with abuse or substance misuse. Stimulants are substances that increase activity in the body and brain and can be easily abused and this can lead to dependence and health issues. Tobacco contains nicotine, which is highly addictive and commonly abused, leading to significant health risks. Narcotics, especially opioids, are known for their high potential for abuse and addiction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50223",
+    "passage": ""
   }
 ]
