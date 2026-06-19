@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/136",
     "passage": ""
+  },
+  {
+    "id": 137,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A major issue that distinguishes pressure groups from political parties is",
+    "options": {
+      "A": "membership drive",
+      "B": "the objective",
+      "C": "the voting pattern",
+      "D": "idealogy."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/137",
+    "passage": ""
   }
 ]
