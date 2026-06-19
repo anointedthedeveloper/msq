@@ -6354,5 +6354,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62479",
     "passage": ""
+  },
+  {
+    "id": 62480,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Us the table below to answer this question\nThe cell labeled ll in the table represents?",
+    "options": {
+      "A": "1001101",
+      "B": "1010100",
+      "C": "1010101",
+      "D": "1010110"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The cell labeled II represents the ACS II code for the letter T. The ASCII Code for the character \" T \" is 01010100",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62480",
+    "passage": ""
   }
 ]
