@@ -17647,5 +17647,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25025",
     "passage": ""
+  },
+  {
+    "id": 25026,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "What is the gravitational potential due to a point mass m at a distance from it? (G = gravitational constant)",
+    "options": {
+      "A": "-Gm 2 /r 2",
+      "B": "-Gm 2 /r",
+      "C": "–Gm/Gr 2",
+      "D": "–Gm/r",
+      "E": "–Gm/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25026",
+    "passage": ""
   }
 ]
