@@ -6717,5 +6717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2952",
     "passage": ""
+  },
+  {
+    "id": 2953,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Which of the following equimolar solutions will have the highest pH?",
+    "options": {
+      "A": "CH 3 COOH",
+      "B": "NaOH",
+      "C": "HCl",
+      "D": "NH 4 OH"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Equimolar solution implies all the aqueous solutions have the same concentration.\nThe pH scale ranges from 0 to 14, with 7 being neutral. Values below 7 indicate acidity, and values above 7 indicate basicity. Among all the aqueous solutions we have in the option, NaOH has the highest value, thus it has the highest pH.\nNaOH is a strong base, meaning it completely dissociates into ions (Na+ and OH-) in water, resulting in a high concentration of hydroxide ions (OH-) and a high pH.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2953",
+    "passage": ""
   }
 ]
