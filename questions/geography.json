@@ -5834,5 +5834,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8031",
     "passage": ""
+  },
+  {
+    "id": 8038,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the following shipping routes carries the world's heaviest ocean traffic?",
+    "options": {
+      "A": "Mediterranean - Suez Canal - Indian Ocean",
+      "B": "Western Europe - Caribbean",
+      "C": "Eastern North America - Western Europe",
+      "D": "West Coast United States - Panama Canal",
+      "E": "Western Europe - southern Africa - Australia"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8038",
+    "passage": ""
   }
 ]
