@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48044",
     "passage": ""
+  },
+  {
+    "id": 48045,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The Zaria Art School is known for its",
+    "options": {
+      "A": "motif design",
+      "B": "natural synthesis",
+      "C": "unnatural synthesis",
+      "D": "freedom of expression"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48045",
+    "passage": ""
   }
 ]
