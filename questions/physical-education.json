@@ -4302,5 +4302,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70740",
     "passage": ""
+  },
+  {
+    "id": 70741,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In a sprint race, what is the most common starting position?",
+    "options": {
+      "A": "Crouching start",
+      "B": "Standing start",
+      "C": "Kneeling start",
+      "D": "Prone start"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The most common starting position in a sprint race is the crouching start. This position allows for a powerful and explosive start, maximizing acceleration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70741",
+    "passage": ""
   }
 ]
