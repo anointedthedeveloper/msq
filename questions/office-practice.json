@@ -2301,5 +2301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66588",
     "passage": ""
+  },
+  {
+    "id": 66589,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The part of a letter which makes it an authentic office document is the",
+    "options": {
+      "A": "address",
+      "B": "Salutation",
+      "C": "enclosure",
+      "D": "signature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Address of the person receiving the correspondence includes a formal name, street address, city, state, and Zip code.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66589",
+    "passage": ""
   }
 ]
