@@ -6045,5 +6045,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2642",
     "passage": ""
+  },
+  {
+    "id": 2643,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The solubility in moldm\\(^{-3}\\) of 20g of CuSO\\(_4\\) dissolved in 100g of water at 180\\(^o\\)C is [Cu = 64, S = 32, O =16]",
+    "options": {
+      "A": "0.13",
+      "B": "0.25",
+      "C": "1.25",
+      "D": "2.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Relative molecular mass of CuSO\\(_4\\) = 64 + 32 + (16 x 4) = 160 The number of moles of CuSO\\(_4\\) = \\(\\frac{mass}{Molar mass}\\)\n= \\(\\frac{20}{160}\\)\nn = 0.125 mole 100g of water dissolved 0.125mole of CuSO\\(_4\\) 100g of water will dissolve \\(\\frac{0.125}{100}\\times{1000}\\)\nSolubility = 1.25 moldm\\(^{-3}\\)\nAlternatively,\nSolubility = Number of moles of solute x  \\(\\frac{1000}{Volume of solvent}\\)\nBut Number of moles of solute = \\(\\frac{mass}{molar mass}\\) = \\(\\frac{20}{160}\\) = 0.125 moles\nSolubility = Number of moles of solute x  \\(\\frac{1000}{Volume of solvent}\\)\nSolubility = 0.125 x  \\(\\frac{1000}{100}\\)\n= 1.25 moldm\\(^{-3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2643",
+    "passage": ""
   }
 ]
