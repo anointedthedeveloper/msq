@@ -4435,5 +4435,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75420",
     "passage": ""
+  },
+  {
+    "id": 75422,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "read thepassage carefully and answer the questions. La Visite au Marche Samedi matin, Fatou accompagne sa mere au marché. Elles partent tot pour éviter la foule. Le marché est coloré et bruyant. Il y a des vendeurs de fruits, de légumes, de poissons et de vêtements. Fatou aide sa mère à porter les paniers. Apres les achats, elles rentrent a la maison en taxi. Fatou aime ces sorties avec sa mere. Comment est le marché ?",
+    "options": {
+      "A": "Tranquille et vide",
+      "B": "Petit et sale",
+      "C": "Ferme le matin",
+      "D": "Bruyant et coloréj"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Le texte affirme que le marche est colore et tres bruyant.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75422",
+    "passage": ""
   }
 ]
