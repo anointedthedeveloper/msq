@@ -1741,5 +1741,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/1377",
     "passage": ""
+  },
+  {
+    "id": 1381,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1997",
+    "question": "Use the conversation below to answer the question below;\nMUSA : Taiwo why are you in business? TAIWO : To optimize profit, provide quality products, and discharge my social responsibilities. What of you, Okon and Kalu OKON : I am in business to cater to the needs of the consumers at all costs. KALU : I am in business to make a profit, provided quality products at reasonable prices, and establish a good reputation for myself.\nThe businessman that may end up not discharging his social responsibility is--------------------",
+    "options": {
+      "A": "Musa",
+      "B": "Okon",
+      "C": "Taiwo",
+      "D": "Kalu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In business, Social Responsibility is the idea that a company should play a positive role in the community and consider the environmental and social impact of business decisions.\nFrom the conversation above, Kalu cares more about making profits and a good name for himself than the needs of the consumer and the environment in which he operates. He is likely to not live up to the social responsibilities he owes the society as a businessman.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/1381",
+    "passage": ""
   }
 ]
