@@ -2704,5 +2704,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61822",
     "passage": ""
+  },
+  {
+    "id": 61823,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "Any document saved into a disc is referred to as a/an?",
+    "options": {
+      "A": "field",
+      "B": "file",
+      "C": "folder",
+      "D": "lcon",
+      "E": "record"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61823",
+    "passage": ""
   }
 ]
