@@ -10140,5 +10140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10931",
     "passage": ""
+  },
+  {
+    "id": 11100,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "The shadow of a pole 5√3m high is 5m. Find the angle of elevation of the sun.",
+    "options": {
+      "A": "45 o",
+      "B": "75 o",
+      "C": "30 o",
+      "D": "60 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/11100",
+    "passage": ""
   }
 ]
