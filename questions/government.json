@@ -3360,5 +3360,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1618",
     "passage": ""
+  },
+  {
+    "id": 1620,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A specialized agency of the United Nations Organization is the",
+    "options": {
+      "A": "International Court of Justice",
+      "B": "Internation Olympic Committee",
+      "C": "General Assembly",
+      "D": "World Health Organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1620",
+    "passage": ""
   }
 ]
