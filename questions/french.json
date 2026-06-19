@@ -2629,5 +2629,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71083",
     "passage": ""
+  },
+  {
+    "id": 71084,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A-E, the most appropriate one to complete the sentenceJ'ai vu_____professeurs.",
+    "options": {
+      "A": "leur",
+      "B": "nos",
+      "C": "tes",
+      "D": "ton"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"Leur\" means \"their\" and is used to refer to something belonging to them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71084",
+    "passage": ""
   }
 ]
