@@ -6884,5 +6884,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76515",
     "passage": ""
+  },
+  {
+    "id": 76516,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which organelle modifies, sorts, and packages proteins for secretion or use within the cell?",
+    "options": {
+      "A": "Mitochondrion",
+      "B": "Golgi apparatus",
+      "C": "Cytoplasm",
+      "D": "Lysosome"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Golgi apparatus acts like the cell's post office, modifying newly made proteins, packaging them into vesicles, and directing them to their correct destinations inside or outside the cell.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76516",
+    "passage": ""
   }
 ]
