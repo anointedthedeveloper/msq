@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75265",
     "passage": ""
+  },
+  {
+    "id": 75268,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The process of shaping clay by hand without using a wheel is called?",
+    "options": {
+      "A": "Hand building",
+      "B": "Throwing",
+      "C": "Glazing",
+      "D": "Casting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Hand building involves using fingers and simple tools to shape clay without a potter's wheel.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75268",
+    "passage": ""
   }
 ]
