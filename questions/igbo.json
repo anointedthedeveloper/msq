@@ -3437,5 +3437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73972",
     "passage": ""
+  },
+  {
+    "id": 73973,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Họpụta nke bụ 115 n'Igbo. Ọtụ narị na",
+    "options": {
+      "A": "iri ise na ise",
+      "B": "ire ise ise",
+      "C": "iri ise",
+      "D": "iri na ise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question is asking for the Igbo translation of \"115\". In Igbo language, \"ọtụ narị\" means \"one hundred\", \"iri\" means \"ten\", and \"ise\" means \"five\". To express \"115\" in Igbo, you combine \"ọtụ narị\" (one hundred) with \"iri na ise\" (fifteen) to get \"ọtụ narị na iri na ise\". Therefore, \"115\" in Igbo is indeed \"Ọtụ narị na iri na ise\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73973",
+    "passage": ""
   }
 ]
