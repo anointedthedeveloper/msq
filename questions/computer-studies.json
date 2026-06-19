@@ -20507,5 +20507,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76804",
     "passage": ""
+  },
+  {
+    "id": 76822,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "A major function of system software is",
+    "options": {
+      "A": "collection of files",
+      "B": "translation of machine language into machine code",
+      "C": "file management",
+      "D": "arrangement of files in ascending order"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The three major functions of system software are allocating system resources, monitoring system activities, and disk and file management.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76822",
+    "passage": ""
   }
 ]
