@@ -2814,5 +2814,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61827",
     "passage": ""
+  },
+  {
+    "id": 61828,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "In the I.P.O cycle, P stands for?",
+    "options": {
+      "A": "pack",
+      "B": "pointer",
+      "C": "procedure",
+      "D": "processing",
+      "E": "programming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61828",
+    "passage": ""
   }
 ]
