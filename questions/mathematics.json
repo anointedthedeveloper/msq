@@ -13757,5 +13757,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22872",
     "passage": ""
+  },
+  {
+    "id": 22873,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Simplify: \\(\\frac{1}{4}(2^n  - 2^{n + 2}\\))",
+    "options": {
+      "A": "\\(2^{n - 2} - 2^n\\)",
+      "B": "\\(2^{n-2}(1-2^n\\))",
+      "C": "\\(2^n + 2^{2 + n}\\)",
+      "D": "\\(2^{2n}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{4}(2^n  - 2^{n + 2}\\)) = \\(\\frac{1}{4}(2^n - 2^n \\times2^2\\))\n\\(\\frac{1}{4} \\times2^n(1 - 2^2\\)) = \\(2^{-2}\\times2^n(1 - 2^2\\))\n\\(2^{n - 2}(2^0 - 2^2\\)) = \\(2^{n - 2} - 2^n\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22873",
+    "passage": ""
   }
 ]
