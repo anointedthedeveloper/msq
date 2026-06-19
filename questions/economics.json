@@ -944,5 +944,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/456",
     "passage": ""
+  },
+  {
+    "id": 457,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The optimum population of a country is reached when",
+    "options": {
+      "A": "All factor of production have been fully employed",
+      "B": "The productive effort  per man is at its highest with a given volume of resources",
+      "C": "The total population of a country increases",
+      "D": "The natural resources of a country increases",
+      "E": "The working population of a country increases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/457",
+    "passage": ""
   }
 ]
