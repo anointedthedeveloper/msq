@@ -459,5 +459,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/67",
     "passage": ""
+  },
+  {
+    "id": 69,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following gases may not be dried with concentrated sulphuric acid?",
+    "options": {
+      "A": "HCl",
+      "B": "N 2",
+      "C": "Cl 2",
+      "D": "SO 2",
+      "E": "NH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/69",
+    "passage": ""
   }
 ]
