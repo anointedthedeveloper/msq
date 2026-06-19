@@ -17383,5 +17383,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25013",
     "passage": ""
+  },
+  {
+    "id": 25014,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In a ripple tank experiment, a vibrating plate is used to generate ripples in the water. If the distance between two successive troughs is 3.5 cm and the wave travels a distance of 31.5 cm in 1.5 s, calculate the frequency of the vibrator",
+    "options": {
+      "A": "3.0Hz",
+      "B": "6.0Hz",
+      "C": "12.0Hz",
+      "D": "27.0Hz",
+      "E": "73.5Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25014",
+    "passage": ""
   }
 ]
