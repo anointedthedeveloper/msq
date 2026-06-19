@@ -11599,5 +11599,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64130",
     "passage": ""
+  },
+  {
+    "id": 64131,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "In which situation does running application remain active?",
+    "options": {
+      "A": "when log off",
+      "B": "when user is switched",
+      "C": "when shut down",
+      "D": "when reboot"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Running applications remain active when user is switched because, when user is switched, cache memory is not cleared and the computer system does not go off. Therefore, running apps remain active when user is switched.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64131",
+    "passage": ""
   }
 ]
