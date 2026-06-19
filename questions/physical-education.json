@@ -3547,5 +3547,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68324",
     "passage": ""
+  },
+  {
+    "id": 68325,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "How many pairs of the spinal nerve are located in human?",
+    "options": {
+      "A": "13",
+      "B": "12",
+      "C": "31",
+      "D": "33"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Spinal nerve arises from spinal cord. In humans, there are 31 pairs. They are 8 cervical, 12 thoracic, 5 lumbar, 5 sacral and 1 coccygeal",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68325",
+    "passage": ""
   }
 ]
