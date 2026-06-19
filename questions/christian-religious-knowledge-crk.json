@@ -768,5 +768,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/159",
     "passage": ""
+  },
+  {
+    "id": 160,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Who were mistaken for gods in the Acts of the Apostles?",
+    "options": {
+      "A": "Paul and James",
+      "B": "Paul and Peter",
+      "C": "Paul and John",
+      "D": "Paul and Silas",
+      "E": "Paul and Barnabas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/160",
+    "passage": ""
   }
 ]
