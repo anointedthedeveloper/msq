@@ -7046,5 +7046,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75955",
     "passage": ""
+  },
+  {
+    "id": 75956,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Mu_____cin abinci.\"",
+    "options": {
+      "A": "ci",
+      "B": "ka",
+      "C": "na",
+      "D": "ke"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The verb ci complements the subject pronoun mu (we).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75956",
+    "passage": ""
   }
 ]
