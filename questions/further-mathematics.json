@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50163",
     "passage": ""
+  },
+  {
+    "id": 50165,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Find the coefficient of \\(x^{4}\\) in the expansion of \\((1-2x)^{6}\\).",
+    "options": {
+      "A": "-320",
+      "B": "-240",
+      "C": "240",
+      "D": "320"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(^{6}C_{4}(1)^{6-4}(-2x)^{4}\\) = \\(15\\times1\\times16x^{4} = 240x^{4}\\)\nThe coefficient of \\(x^{4}\\)= 240",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50165",
+    "passage": ""
   }
 ]
