@@ -1426,5 +1426,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1447",
     "passage": ""
+  },
+  {
+    "id": 1450,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A certain radioactive source emits radiations that were found to be deflected by both magnetic and electric fields. The radiations are",
+    "options": {
+      "A": "beta rays",
+      "B": "gamma rays",
+      "C": "x-rays",
+      "D": "ultra-violet rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When a radioactive source emits radiations that are deflected by both magnetic and electric fields, the radiations are likely to be beta particles (β particles).\nBeta particles(β) : These are high-energy, high-speed electrons (β-) or positrons (β+). They are negatively or positively charged, respectively, and are deflected by both electric and magnetic fields due to their charge and lower mass compared to alpha particles.\nGamma rays (γ) : These are high-energy electromagnetic radiation and are neutral, meaning they are not deflected by electric or magnetic fields.\nAlpha particles (α) : These are positively charged and consist of two protons and two neutrons. They are not significantly deflected by electric or magnetic fields due to their relatively large mass and low speed.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1450",
+    "passage": ""
   }
 ]
