@@ -2131,5 +2131,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/650",
     "passage": ""
+  },
+  {
+    "id": 651,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Complete the following with the appropriate answer to the question: John would you mind lifting this box?",
+    "options": {
+      "A": "yes, i mind",
+      "B": "no, i don't",
+      "C": "no, i do",
+      "D": "yes, i don't mind",
+      "E": "no i mind"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In response to the question \"John, would you mind lifting this box?\" the appropriate and polite response is typically \"No, I don't mind.\" This implies that John is willing to lift the box and does not have an objection or reluctance to doing so.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/651",
+    "passage": ""
   }
 ]
