@@ -5380,5 +5380,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75894",
     "passage": ""
+  },
+  {
+    "id": 75895,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Il dort depuis__heures.",
+    "options": {
+      "A": "des",
+      "B": "le",
+      "C": "deux",
+      "D": "une"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French phrase \"depuis deux heures\" means \"for two hours\" time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75895",
+    "passage": ""
   }
 ]
