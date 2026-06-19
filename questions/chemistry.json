@@ -13696,5 +13696,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/7516",
     "passage": ""
+  },
+  {
+    "id": 12772,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "In an attempt to remove sugar from a breaker containing a quantity of sand and sugar, 2 M ammonium chloride solution was accidentally added instead of water. Which of the following method could be used to remove the ammonium chloride from the mixture?",
+    "options": {
+      "A": "Fractional distillation",
+      "B": "crystallization",
+      "C": "Filtration followed by evaporation",
+      "D": "Evaporation followed by sublimation",
+      "E": "Filtration followed by sublimation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "To remove ammonium chloride from the mixture of sand, sugar, and 2 M ammonium chloride solution, the following steps are taken:\nFiltration : This is the first step used to separate the sand (an insoluble solid) from the liquid phase. The sugar and ammonium chloride remain dissolved in the solution and pass through the filter as the filtrate.\nSublimation : After filtering, the solution containing water, sugar, and ammonium chloride is processed. Heating the mixture allows the water to evaporate and the ammonium chloride to sublime (transition directly from a solid to a gas). This process effectively isolates the ammonium chloride from the sugar, which does not sublime.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12772",
+    "passage": ""
   }
 ]
