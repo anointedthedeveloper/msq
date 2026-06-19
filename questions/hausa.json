@@ -3693,5 +3693,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73865",
     "passage": ""
+  },
+  {
+    "id": 73866,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Gano jimla korau a wad'annan.",
+    "options": {
+      "A": "Ta iya kitso",
+      "B": "Kar ka zo gobe",
+      "C": "Ta yi zugum",
+      "D": "Ya zo jiya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Identify the sentence with a subordinate clause. Answer: Kar ka zo gobe (This sentence contains a subordinate clause, while the other options do not)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73866",
+    "passage": ""
   }
 ]
