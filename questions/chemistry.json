@@ -7158,5 +7158,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2974",
     "passage": ""
+  },
+  {
+    "id": 2975,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Kerosene is commonly used to remove the red colour stain of palm oil from cloths because it",
+    "options": {
+      "A": "helps to spread the oil over a larger surface area",
+      "B": "react with the oil to form an odourless compound",
+      "C": "makes the oil evaporate easily by dissolving it",
+      "D": "helps to dilute the oil and reduce its colour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "kerosene can be used to dissolve oil stains on fabric, especially old or stubborn ones, as it acts as a solvent to lift the oil from the fabric. It is a petroleum-based product that has solvent properties, meaning it can dissolve or break down oil and grease.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2975",
+    "passage": ""
   }
 ]
