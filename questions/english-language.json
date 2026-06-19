@@ -9281,5 +9281,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3903",
     "passage": ""
+  },
+  {
+    "id": 3904,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below which of the following options express the same idea as the one in quotes? : 'To put something aside' is to",
+    "options": {
+      "A": "put it by ones side",
+      "B": "put it in a side pocket for future use",
+      "C": "keep something for some special purpose",
+      "D": "keep in safety",
+      "E": "protect it"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The expression \"to put something aside\" is an idiomatic phrase that usually means to reserve or keep something for future use or a specific purpose, something considered important or special.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3904",
+    "passage": ""
   }
 ]
