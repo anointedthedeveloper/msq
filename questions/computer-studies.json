@@ -18705,5 +18705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70998",
     "passage": ""
+  },
+  {
+    "id": 71002,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the term for an email scam that tries to trick people into giving out personal information?",
+    "options": {
+      "A": "Cracking",
+      "B": "Spoofing",
+      "C": "Hacking",
+      "D": "Phishing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Phishing is a type of email scam where attackers attempt to trick recipients into providing personal information such as passwords and credit card numbers by pretending to be a legitimate entity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/71002",
+    "passage": ""
   }
 ]
