@@ -9574,5 +9574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9950",
     "passage": ""
+  },
+  {
+    "id": 9951,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "If two smaller sides of a right angled triangle are 4cm and 5cm, find its area",
+    "options": {
+      "A": "10 cm 2",
+      "B": "6  cm 2",
+      "C": "24  cm 2",
+      "D": "8  cm 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Area of a triangle = 1/2 base x height = 1/2 x 4 x 5 = 10 cm2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9951",
+    "passage": ""
   }
 ]
