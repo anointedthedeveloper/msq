@@ -3357,5 +3357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1716",
     "passage": ""
+  },
+  {
+    "id": 1718,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "When ΔH is negative, a reaction is said to be",
+    "options": {
+      "A": "ionic",
+      "B": "reversible",
+      "C": "exothermic",
+      "D": "endothermic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When Δ H is negative, the reaction is said to be exothermic, while it is endothermic when Δ H is positive.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1718",
+    "passage": ""
   }
 ]
