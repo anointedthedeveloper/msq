@@ -3924,5 +3924,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73876",
     "passage": ""
+  },
+  {
+    "id": 73877,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "Da malalaci da mayaudari duk malalaciya ce uwarsu. Kalmomin sifa nawa ne a cikin wannan jimla?",
+    "options": {
+      "A": "Uku",
+      "B": "Biyu",
+      "C": "Biyar",
+      "D": "Hudu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "How many adjectives are in the sentence \"Da malalaci da mayaudari duk malalaciya ce uwarsu\"? Answer: Uku (There are three adjectives in the sentence: malalaci, mayaudari, and malalaciya. Biyu means two, Hudu means four, Biyar means five, and Shida means six)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73877",
+    "passage": ""
   }
 ]
