@@ -1032,5 +1032,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/524",
     "passage": ""
+  },
+  {
+    "id": 526,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The plot of a novel is best described as",
+    "options": {
+      "A": "the bare outline of the story arranged in logical order",
+      "B": "the story in all its details",
+      "C": "The story grossly elaborated",
+      "D": "a summary of the story",
+      "E": "the begining,middle and end of the story"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The plot of a novel refers to the structured sequence of events that make up the story. It is the framework on which the details of the story are built.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/526",
+    "passage": ""
   }
 ]
