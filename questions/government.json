@@ -3612,5 +3612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1644",
     "passage": ""
+  },
+  {
+    "id": 1645,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Laws made by state governments are known as",
+    "options": {
+      "A": "bye laws",
+      "B": "decrees",
+      "C": "edicts",
+      "D": "acts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Laws made by state governments (through their Houses of Assembly) are called Acts .\nThese are:\nFormally passed by the legislature Signed into law by the governor Legally binding within the state",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1645",
+    "passage": ""
   }
 ]
