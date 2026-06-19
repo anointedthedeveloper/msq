@@ -6949,5 +6949,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3002",
     "passage": ""
+  },
+  {
+    "id": 3003,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : The angry woman shouted and cursed in language .... shocking for words",
+    "options": {
+      "A": "very",
+      "B": "far",
+      "C": "so",
+      "D": "quite",
+      "E": "too"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase “so ... for words” is an idiomatic expression used to emphasise an extreme degree of something, meaning it is beyond description",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3003",
+    "passage": ""
   }
 ]
