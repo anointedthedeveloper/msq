@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73207",
     "passage": ""
+  },
+  {
+    "id": 73208,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Body measurement taken from the shoulder to the wrist is _______.",
+    "options": {
+      "A": "Shoulder",
+      "B": "Sleeve length",
+      "C": "Arm circumference",
+      "D": "Elbow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Sleeve length is the body measurement taken from the shoulder to the wrist, typically measured from the center back of the neck, over the shoulder, and down to the wrist. This measurement is used to determine the length of a garment’s sleeve, such as a shirt or dress.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73208",
+    "passage": ""
   }
 ]
