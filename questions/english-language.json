@@ -4155,5 +4155,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2039",
     "passage": ""
+  },
+  {
+    "id": 2047,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choosing the word or phrase from A to E which has the same meaning as the underlined word or words in each sentence : I listened with rapt attention as he never suspected that i knew he was telling me a cock and bull story",
+    "options": {
+      "A": "a story about a cock",
+      "B": "a story about bull",
+      "C": "an incredible story",
+      "D": "an interesting",
+      "E": "an eye witness story"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"a cock and bull story\" refers to a story that is fanciful, unlikely or implausible. It is a story that is made up or exaggerated to deceive. Contrary to popular belief, something \"incredible\" does not necessarily mean something amazing but something impossible or difficult to believe.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2047",
+    "passage": ""
   }
 ]
