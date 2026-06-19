@@ -2243,5 +2243,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49902",
     "passage": ""
+  },
+  {
+    "id": 49903,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The duty of a loss assessor is to ensure",
+    "options": {
+      "A": "adequate compensation to the insured",
+      "B": "payment of premium to the insurer",
+      "C": "that risk manager identifies the risk properly",
+      "D": "that insurance broker collects commission"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A Loss Assessor is appointed by the policyholder when they need to submit a substantial or complex claim.\nIndependent entity hired and paid by the insured (policy holder) to negotiate an insurance claim with the insurer (insurance company). The loss assessor receives a fee that is usually a percentage of the claim amount received by the insured.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49903",
+    "passage": ""
   }
 ]
