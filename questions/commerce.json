@@ -13251,5 +13251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7331",
     "passage": ""
+  },
+  {
+    "id": 7333,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "When 'FOB' is written on a document, it implies that the buyer bears the?",
+    "options": {
+      "A": "cost  of goods and advert",
+      "B": "loading costs and insurance",
+      "C": "insurance and transport costs",
+      "D": "transport and communication costs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Free on Board (FOB) is a shipment term used to indicate whether the seller or the buyer is responsible for goods that are damaged or destroyed during shipping. In this instance, it means that the buyer is liable for the insurance and transportation of the goods while on transit",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7333",
+    "passage": ""
   }
 ]
