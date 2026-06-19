@@ -196,5 +196,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/103",
     "passage": ""
+  },
+  {
+    "id": 106,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence; The balance sheet at the end of the business year shows that we broke even",
+    "options": {
+      "A": "lost heavily",
+      "B": "made profit",
+      "C": "neither lost nor gained",
+      "D": "had no money to continue business",
+      "E": "were heavily indebted to our bankers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"broke even\" is a popular idiom in business that means to have no profit or loss at the end of the business activity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/106",
+    "passage": ""
   }
 ]
