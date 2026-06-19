@@ -5660,5 +5660,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62585",
     "passage": ""
+  },
+  {
+    "id": 62587,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Which of the following statements is true?",
+    "options": {
+      "A": "Data leads to information and information leads to knowledge",
+      "B": "Data leads to knowledge and knowledge leads to information",
+      "C": "Information leads to data and data leads to knowledge",
+      "D": "Knowledge leads to information and information leads to data"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct statement is that data leads to information and information leads to knowledge.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62587",
+    "passage": ""
   }
 ]
