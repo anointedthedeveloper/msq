@@ -1714,5 +1714,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/414",
     "passage": ""
+  },
+  {
+    "id": 415,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The major function of contractile vacuole in amoeba is?",
+    "options": {
+      "A": "to secrete enzyme to digest food particles",
+      "B": "to store excess food materials",
+      "C": "to excrete nitrogenous waste",
+      "D": "to absorb water from the surrounding",
+      "E": "to collect and expel water in the cytoplasm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "- The contractile vacuole (CV) complex is an osmoregulatory organelle of free-living amoebae and protozoa, which controls the intracellular water balance by accumulating and expelling excess water out of the cell, allowing cells to survive under hypotonic stress as in pond water.\n- This implies that the contractile vacuole, as its name suggests, expels water out of the cell by contracting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/415",
+    "passage": ""
   }
 ]
