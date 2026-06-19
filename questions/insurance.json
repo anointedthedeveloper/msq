@@ -1949,5 +1949,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49831",
     "passage": ""
+  },
+  {
+    "id": 49835,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "peril in insurance means",
+    "options": {
+      "A": "payment that is made by insurance",
+      "B": "events that lead to a loss",
+      "C": "exposure to no risk at all",
+      "D": "money that is paid for insurance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A specific risk or cause of loss covered by an insurance policy, such as a fire, windstorm, flood, or theft.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49835",
+    "passage": ""
   }
 ]
