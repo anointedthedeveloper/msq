@@ -13029,5 +13029,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21244",
     "passage": ""
+  },
+  {
+    "id": 21246,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The change of the direction of a wave-front because of a change in the velocity of the wave in another medium is called?",
+    "options": {
+      "A": "refraction",
+      "B": "reflection",
+      "C": "diffraction",
+      "D": "interference",
+      "E": "dispersion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Refraction: change in direction of propagation of any wave as a result of its traveling at different speeds at different points along the wave front.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21246",
+    "passage": ""
   }
 ]
