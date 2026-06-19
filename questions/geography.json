@@ -2428,5 +2428,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1099",
     "passage": ""
+  },
+  {
+    "id": 6202,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "What is the length to the nearest kilometer of the main stream that flows into the Lake Lagoon?",
+    "options": {
+      "A": "4 kilometers",
+      "B": "8 kilometers",
+      "C": "10 kilometers",
+      "D": "12 kilometers"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/29219723140_13020627_1057687810962552_1132757905_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888117/myschool/geography/29219723140_13020627_1057687810962552_1132757905_n.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6202",
+    "passage": ""
   }
 ]
