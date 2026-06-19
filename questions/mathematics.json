@@ -5710,5 +5710,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8682",
     "passage": ""
+  },
+  {
+    "id": 8692,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "For what value of n is \\(^{n+1}C_3\\) = 4(\\(^nC_3\\))?",
+    "options": {
+      "A": "6",
+      "B": "5",
+      "C": "4",
+      "D": "3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(^{n+1}C_3 = 4(^nC_3)\\\\\\frac{(n+1)!}{(n+1-3)!3!} = 4\\left(\\frac{n!}{(n-3)!3!}\\right)\\\\\\frac{(n+1)n!}{(n-2)(n-3)!}=4\\left(\\frac{n!}{n-3!}\\right)\\\\=\\frac{n+1}{n-2}=\\frac{4}{1}\\\\n+1 = 4(n-2)\\\\n+1 = 4n-8\\\\-3n = -9\\\\\\frac{-9}{-3}\\\\n=3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8692",
+    "passage": ""
   }
 ]
