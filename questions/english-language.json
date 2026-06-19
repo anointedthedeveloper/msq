@@ -11217,5 +11217,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4419",
     "passage": ""
+  },
+  {
+    "id": 4420,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the option opposite in meaning to the word underlined: The military Governor upheld the decision of his cabinet",
+    "options": {
+      "A": "held up",
+      "B": "undercut",
+      "C": "maintained",
+      "D": "abolished",
+      "E": "reversed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The correct answer is E. reversed . Uphold means to support, maintain or confirm a decision or action. The opposite of \"uphold\" would be to overturn, cancel or reverse the decision.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4420",
+    "passage": ""
   }
 ]
