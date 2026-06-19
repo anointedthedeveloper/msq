@@ -2750,5 +2750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1302",
     "passage": ""
+  },
+  {
+    "id": 1519,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A problem of Nigeria federalism that was resolved by the supreme court between the federal government and littoral states centered on resource",
+    "options": {
+      "A": "maximization",
+      "B": "generation",
+      "C": "derivation",
+      "D": "control"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The dispute between the Nigerian Federal Government and the littoral (coastal) states, taken to the Supreme Court, was centred on the derivation principle of revenue allocation , especially concerning offshore oil revenue and ownership/control of resources .\nThe Supreme Court case clarified how revenue from natural resources should be shared and whether littoral states had a claim based on derivation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1519",
+    "passage": ""
   }
 ]
