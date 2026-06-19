@@ -7999,5 +7999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69795",
     "passage": ""
+  },
+  {
+    "id": 69796,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "People who use cathode ray tube monitor without antiglare screen are susceptible to",
+    "options": {
+      "A": "blurred vision",
+      "B": "back ache",
+      "C": "repetitive strain injury",
+      "D": "stiffness of the wrist"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "People who use cathode ray tube (CRT) monitors without antiglare screens are susceptible to blurred vision . CRT monitors emit a significant amount of glare and can cause reflections on the screen due to ambient light sources. This glare and reflection can lead to visual discomfort, including blurred vision and eyestrain, when using the monitor for extended periods. Antiglare screens or filters are used to reduce glare and reflections, making the screen easier to view and reducing the strain on the eyes. While CRT monitors are less common today, the issue of glare and visual discomfort is relevant to any type of screen, including modern LCD and LED displays.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69796",
+    "passage": ""
   }
 ]
