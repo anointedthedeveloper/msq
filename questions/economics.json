@@ -1295,5 +1295,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/478",
     "passage": ""
+  },
+  {
+    "id": 479,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "By utility we mean",
+    "options": {
+      "A": "usefulness",
+      "B": "power of satisfying a want",
+      "C": "beneficial",
+      "D": "advantageous",
+      "E": "consumable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/479",
+    "passage": ""
+  },
+  {
+    "id": 480,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of the following is not an indirect tax?",
+    "options": {
+      "A": "excise duty",
+      "B": "company tax",
+      "C": "import duty",
+      "D": "export duty",
+      "E": "sales tax"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/480",
+    "passage": ""
   }
 ]
