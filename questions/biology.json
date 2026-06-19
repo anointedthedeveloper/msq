@@ -2132,5 +2132,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/604",
     "passage": ""
+  },
+  {
+    "id": 606,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Water is required for seed germination to take place because it",
+    "options": {
+      "A": "activates the enzymes",
+      "B": "softens the testa",
+      "C": "liberates energy for growth",
+      "D": "permits radicle growth",
+      "E": "allow oxygen to diffuse into the seed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/606",
+    "passage": ""
   }
 ]
