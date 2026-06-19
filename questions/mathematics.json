@@ -4261,5 +4261,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8195",
     "passage": ""
+  },
+  {
+    "id": 8196,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A committee of six is to be formed by a state governor from nine state commissioners and three members of the state house of assembly. In how many ways can the members of the committee be chosen so as to include one member of the house of Assembly",
+    "options": {
+      "A": "378 ways",
+      "B": "462 ways",
+      "C": "840 ways",
+      "D": "924 ways"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The number of ways to choose 1 member from the house of assembly is: \\(\\binom{3}{1} = 3\\)\nThe number of ways to choose 5 members from the state commissioners is: \\(\\binom{9}{5}\\) = 126\nThus, the total number of ways to form the committee is: \\(\\text{Total ways} = \\binom{3}{1} \\times \\binom{9}{5}\\) = 3 \\(\\times\\) 126 = 378\nThe total number of ways to form the committee, including one member from the house of assembly, is 378 Ways.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8196",
+    "passage": ""
   }
 ]
