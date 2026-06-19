@@ -3395,5 +3395,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6323",
     "passage": ""
+  },
+  {
+    "id": 6325,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Which of these contributes the least to Nigeria's national economy?",
+    "options": {
+      "A": "Agriculture",
+      "B": "Animal rearing",
+      "C": "Manufacturing",
+      "D": "Mining",
+      "E": "Tourism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6325",
+    "passage": ""
   }
 ]
