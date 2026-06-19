@@ -2979,5 +2979,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1581",
     "passage": ""
+  },
+  {
+    "id": 1582,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "An element X with relative atomic mass 16.2 contains two isotopes \\(^{16}_{8}\\)X with relative abundance of 90% and \\(^{m}_{8}\\)X with relative abundance of 10%. The value of m is",
+    "options": {
+      "A": "16",
+      "B": "18",
+      "C": "12",
+      "D": "14"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "168X, m8X [\\(\\frac{90}{100}\\times 16\\)] + [\\(\\frac{10}{100}\\times m\\)] = 16.2 14.4 + 0.1m = 16.2 0.1m = 1.8 m = \\(\\frac{1.8}{0.1}\\)\nm = 18\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1582",
+    "passage": ""
   }
 ]
