@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49741",
     "passage": ""
+  },
+  {
+    "id": 49746,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "A life policy holder enjoy days of grace",
+    "options": {
+      "A": "at the inception of the policy",
+      "B": "at the renewal time of the policy",
+      "C": "when he surrenders the policy",
+      "D": "when the policy is paid up"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A grace period allows a borrower or insurance customer to delay payment for a short period of time beyond the due date.\ninsurers allow policyholders a period of grace of at least 15 days , during which arrear premiums can be rectified. In the life insurance industry, the norm is to allow policyholders a grace period of 30 days .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49746",
+    "passage": ""
   }
 ]
