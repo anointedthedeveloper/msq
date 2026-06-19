@@ -16614,5 +16614,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24287",
     "passage": ""
+  },
+  {
+    "id": 24288,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Lenz’s law of electromagnetic induction states that",
+    "options": {
+      "A": "electromotive force is induced in a circuit whenever there is a change in the magnetic flux linked with the circuit",
+      "B": "the induced current in a conductor is in such a direction as to oppose the change producing it",
+      "C": "the induced e.m.f. in a circuit is proportional to the rate of change of number of lines of force linking the circuit",
+      "D": "a force is exerted on a current carrying conductor in a magnetic field",
+      "E": "the induced e.m.f. is proportional to the current producing the magnetic flux."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24288",
+    "passage": ""
   }
 ]
