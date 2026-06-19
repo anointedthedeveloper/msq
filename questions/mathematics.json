@@ -10613,5 +10613,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22026",
     "passage": ""
+  },
+  {
+    "id": 22030,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A ladder 9m long leans against a vertical wall, making an angle of 64° with the horizontal ground. calculate correct to one decimal place, how far the foot of the ladder is from the wall.",
+    "options": {
+      "A": "4.0m",
+      "B": "5.8m",
+      "C": "7.1m",
+      "D": "8.1m",
+      "E": "18.5m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "cos 64° = x /9 x = 9 cos 64° =3.94 ≅ 4.0m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22030",
+    "passage": ""
   }
 ]
