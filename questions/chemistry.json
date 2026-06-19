@@ -920,5 +920,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/776",
     "passage": ""
+  },
+  {
+    "id": 779,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following substances would you see as an indicator in the titration of sodium carbonate solution against hydrochloric acid (complete neutralisation)?",
+    "options": {
+      "A": "Litmus paper",
+      "B": "Phenolphthalein",
+      "C": "Methyl orange",
+      "D": "Universal indicator",
+      "E": "None of these"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/779",
+    "passage": ""
   }
 ]
