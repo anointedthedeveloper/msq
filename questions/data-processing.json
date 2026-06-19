@@ -10007,5 +10007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77103",
     "passage": ""
+  },
+  {
+    "id": 77104,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Word has a list of predefined typing, spelling, capitalization, and grammar errors that ______ detect and correct.",
+    "options": {
+      "A": "autocorrect",
+      "B": "autoentry",
+      "C": "autoadd",
+      "D": "autoSpell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Word has a list of predefined typing, spelling, capitalization, and grammar errors that autocorrect, detect, and correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77104",
+    "passage": ""
   }
 ]
