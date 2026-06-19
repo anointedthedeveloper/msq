@@ -11914,5 +11914,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64312",
     "passage": ""
+  },
+  {
+    "id": 64313,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which is not a network for distribution of information?",
+    "options": {
+      "A": "cloud storage",
+      "B": "Several computers to one printer",
+      "C": "Microsoft Word",
+      "D": "E-mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ms-word is not a network for distribution of information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64313",
+    "passage": ""
   }
 ]
