@@ -6403,5 +6403,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9038",
     "passage": ""
+  },
+  {
+    "id": 9039,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The cost of renovating a 6 m square room is N540. What is the cost of renovating a 9 m square room?",
+    "options": {
+      "A": "N1215",
+      "B": "N720",
+      "C": "N1620",
+      "D": "N810"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cost of removing a 6m\\(^2\\) room = N540 Cost of renovating a 1m\\(^2\\) room = 540 / 6 Cost of removing a 9m\\(^2\\) room = (540 / 6) * 9 = N810\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9039",
+    "passage": ""
   }
 ]
