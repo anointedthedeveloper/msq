@@ -6937,5 +6937,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67136",
     "passage": ""
+  },
+  {
+    "id": 67137,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The capacity of a communication channel is referred to as",
+    "options": {
+      "A": "Bandwidth",
+      "B": "Baud rate",
+      "C": "Bit flow",
+      "D": "Data flow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Bandwidth is the volume of information that can be sent over a connection in a measured amount of time – calculated in megabits per second (Mbps).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67137",
+    "passage": ""
   }
 ]
