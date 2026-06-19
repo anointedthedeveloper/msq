@@ -5372,5 +5372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/7976",
     "passage": ""
+  },
+  {
+    "id": 7978,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the instruments is used in measuring wind speed?",
+    "options": {
+      "A": "Wind vane",
+      "B": "Barometer",
+      "C": "Cup anamometer",
+      "D": "Hygrometer",
+      "E": "Speedometer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/7978",
+    "passage": ""
   }
 ]
