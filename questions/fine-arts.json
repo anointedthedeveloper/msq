@@ -1720,5 +1720,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75311",
     "passage": ""
+  },
+  {
+    "id": 75313,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which material is most common in Yoruba traditional sculpture?",
+    "options": {
+      "A": "Stone",
+      "B": "Beads",
+      "C": "Metal",
+      "D": "Terracotta"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Yoruba artisans historically used terracotta (baked clay) for sculptural forms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75313",
+    "passage": ""
   }
 ]
