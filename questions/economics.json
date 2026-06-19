@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/118",
     "passage": ""
+  },
+  {
+    "id": 122,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The following is NOT a reason for the existence of small firms",
+    "options": {
+      "A": "Scale of production is limited by size of the market",
+      "B": "Expansion brings diminishing returns",
+      "C": "Large firms can carter for wide markets",
+      "D": "Small firms can provide personal services",
+      "E": "All of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/122",
+    "passage": ""
   }
 ]
