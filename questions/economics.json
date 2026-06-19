@@ -2791,5 +2791,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2360",
     "passage": ""
+  },
+  {
+    "id": 2361,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the taxes appear generally progressive in nature?",
+    "options": {
+      "A": "Sales taxes",
+      "B": "The personal income tax",
+      "C": "Property taxes",
+      "D": "Corporation taxes",
+      "E": "none of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2361",
+    "passage": ""
   }
 ]
