@@ -1295,5 +1295,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/478",
     "passage": ""
+  },
+  {
+    "id": 479,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "By utility we mean",
+    "options": {
+      "A": "usefulness",
+      "B": "power of satisfying a want",
+      "C": "beneficial",
+      "D": "advantageous",
+      "E": "consumable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/479",
+    "passage": ""
   }
 ]
