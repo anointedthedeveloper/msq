@@ -7348,5 +7348,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3088",
     "passage": ""
+  },
+  {
+    "id": 3092,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A heterogenous mixture can be defined as any mixture",
+    "options": {
+      "A": "of a solute and a solvent",
+      "B": "whose composition is uniform",
+      "C": "whose composition is not uniform",
+      "D": "formed by solids and liquids"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A heterogeneous mixture is a mixture in which the composition is not uniform. It consists of two or more phases. When oil and water are combined, they do not mix evenly, but instead form two separate layers. Other examples include;\nSoil (containing sand, pebbles, and organic matter).\nBlood (containing red blood cells, white blood cells, platelets, and plasma).\nSand and water.\nVegetable soup (you can see the different vegetables and broth) etc\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3092",
+    "passage": ""
   }
 ]
