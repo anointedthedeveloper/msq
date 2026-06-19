@@ -4153,5 +4153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50299",
     "passage": ""
+  },
+  {
+    "id": 50300,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "A major characteristics of civil society is",
+    "options": {
+      "A": "the desire to win election",
+      "B": "corporate responsibility",
+      "C": "social responsibility",
+      "D": "political gerrymandering"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Social responsibility is an ethical framework and suggests that an entity, be it an organization or individual, has an obligation to act for the benefit of society at large.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50300",
+    "passage": ""
   }
 ]
