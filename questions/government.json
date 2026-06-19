@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/132",
     "passage": ""
+  },
+  {
+    "id": 133,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The structure of the civil service is based on",
+    "options": {
+      "A": "lateral organisation",
+      "B": "merit system",
+      "C": "patronage system",
+      "D": "hierachical organisation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Administrative Class:\nProfessional Class:\nThe Executive Class:\nClerical Class:\nManipulative Class:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/133",
+    "passage": ""
   }
 ]
