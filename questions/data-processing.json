@@ -5912,5 +5912,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62601",
     "passage": ""
+  },
+  {
+    "id": 62602,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Use Figure 1 to answer question 16\nTo visit the previous page using the interface in Figure 1, the user will click on the part labeled",
+    "options": {
+      "A": "I",
+      "B": "II",
+      "C": "III",
+      "D": "IV"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/zSw26zBTL5uZnM3T7NRc6e4TYziGlLS7An5di4zh.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911624/myschool/data-processing/zSw26zBTL5uZnM3T7NRc6e4TYziGlLS7An5di4zh.jpg",
+    "correct_answer": "B",
+    "explanation": "To visit the previous page using the interface in Figure 1, the user will click on the part labeled II.\nThe back button is a user interface feature that takes a user back to their previous location. For instance, clicking the back button in an internet browser takes you back to the last web page you visited. The back button only works if there is a previous page in your browser history.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62602",
+    "passage": ""
   }
 ]
