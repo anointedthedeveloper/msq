@@ -3442,5 +3442,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11838",
     "passage": ""
+  },
+  {
+    "id": 11841,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The diagram above shows the capacitors C\\(_1\\), C\\(_2\\) and C\\(_3\\) 2μF, 6μF and 3μF respectively. The potential difference across C\\(_1\\), C\\(_2\\) and C\\(_3\\) respectively are",
+    "options": {
+      "A": "4V, 6V and 2V",
+      "B": "2V, 6V and 4V",
+      "C": "6V, 4V and 2V",
+      "D": "6V, 2V and 4V"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27179015220_phy200125.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888819/myschool/physics/27179015220_phy200125.jpg",
+    "correct_answer": "D",
+    "explanation": "C = \\(\\frac{\\text{Q}}{\\text{V}}\\)  => Q = CV : ∴ V = \\(\\frac{\\text{Q}}{\\text{C}}\\) ∴V\\(_1\\)  = \\(\\frac{\\text{Q}}{C_1}\\); V\\(_2\\) = \\(\\frac{\\text{Q}}{C_2}\\); V\\(_3\\) = \\(\\frac{\\text{Q}}{C_3}\\) for series \\(\\frac{1}{\\text{C}}\\) = \\(\\frac{1}{C_1}\\) + \\(\\frac{1}{C_2}\\) + \\(\\frac{1}{C_3}\\) = \\(\\frac{1}{2} + \\frac{1}{6} + \\frac{1}{3}\\)\n= \\(\\frac{3 +1 + 2}{6}\\)\n= \\(\\frac{6}{6}\\) = 1\n∴ C = 1μF = 1.0 x 10\\(^{-6}\\)F ∴ Q = CV = 1.0 x 10\\(^{-6}\\) x 12 = 12.0 x 10\\(^{-6}\\)C ∴V\\(_1\\) = \\(\\frac{\\text{Q}}{C_1}\\)\n= \\(\\frac{12 \\times 10^{-6}}{2 \\times 10^{-6}}\\)\n= 6V\nV\\(_2\\) = \\(\\frac{\\text{Q}}{C_2}\\)\n= \\(\\frac{12 \\times 10^{-6}}{6 \\times 10^{-6}}\\)\n= 2V V\\(_3\\) = \\(\\frac{\\text{Q}}{C_3}\\)\n= \\(\\frac{12 \\times 10^{-6}}{3 \\times 10^{-6}}\\)\n= 4V\n∴ 6V, 2V and 4V\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11841",
+    "passage": ""
   }
 ]
