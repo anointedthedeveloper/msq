@@ -11889,5 +11889,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14497",
     "passage": ""
+  },
+  {
+    "id": 14498,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A body of mass 12kg traveling at 4.2ms-1 collides with a second body of mass 18kg at rest. Calculate their common velocity if the two bodies coalesce after collision?",
+    "options": {
+      "A": "1.5 ms -1",
+      "B": "1.4 ms -1",
+      "C": "2.1 ms -1",
+      "D": "1.7 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The sum of momentum before collision M\\(_1\\) U\\(_1\\) + M\\(_2\\)U\\(_2\\) 12 x 4.2 + 18 x 0 12 x 4.2 = 50.4 The sum of momentum after collision (m\\(_1\\) + m\\(_2\\))v = (12 + 18)v = 30v V = 50.4/30 = 1.7ms-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14498",
+    "passage": ""
   }
 ]
