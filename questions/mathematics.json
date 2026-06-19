@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/15",
     "passage": ""
+  },
+  {
+    "id": 16,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Simplify \\(\\sqrt{\\frac{(0.0023 \\times 750)}{(0.00345 \\times 1.25)}}\\)",
+    "options": {
+      "A": "15",
+      "B": "20",
+      "C": "40",
+      "D": "75"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Multiply appropriately to remove decimals on both numerator and denominators.\nSuch that you have \\(\\sqrt{\\frac{(23000 \\times 750)}{(345 \\times 125)}}\\) Dividing, => \\(\\sqrt{400} = 20\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/16",
+    "passage": ""
   }
 ]
