@@ -2479,5 +2479,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58202",
     "passage": ""
+  },
+  {
+    "id": 58203,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Which of the following is safety measure in the computer laboratory?",
+    "options": {
+      "A": "Eating in the computer laboratory",
+      "B": "Illumination in the computer laboratory",
+      "C": "Opening the monitor by unauthorized persons",
+      "D": "Poor ventilation in the computer laboratory"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58203",
+    "passage": ""
   }
 ]
