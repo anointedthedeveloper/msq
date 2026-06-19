@@ -18012,5 +18012,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70756",
     "passage": ""
+  },
+  {
+    "id": 70757,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which application package is used for developing websites?",
+    "options": {
+      "A": "Microsoft PowerPoint",
+      "B": "Microsoft Excel",
+      "C": "Figma",
+      "D": "Adobe Dreamwaver"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Adobe Dreamweaver is a web development application that provides features for coding websites using HTML, CSS, and JavaScript. It offers tools for editing code, managing website files, and previewing the website during development.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70757",
+    "passage": ""
   }
 ]
