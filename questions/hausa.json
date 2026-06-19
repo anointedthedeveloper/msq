@@ -1635,5 +1635,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73667",
     "passage": ""
+  },
+  {
+    "id": 73668,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Ware sunan da ba gama-gari ba.",
+    "options": {
+      "A": "Dabba",
+      "B": "Kwaro",
+      "C": "Kungiya",
+      "D": "Mutum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is Mutum. The question is asking which of the options is not a common name. Mutum is a common noun meaning \"person\" in Hausa, not a proper name. The other options - Dabba, Kungiya, Kwaro, and Tsuntsu - are all proper names, making Mutum the one that is not a common name.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73668",
+    "passage": ""
   }
 ]
