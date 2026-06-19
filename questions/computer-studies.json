@@ -7904,5 +7904,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62559",
     "passage": ""
+  },
+  {
+    "id": 62560,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The number 28 in binary is?",
+    "options": {
+      "A": "1001",
+      "B": "11001",
+      "C": "110011",
+      "D": "11100"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62560",
+    "passage": ""
   }
 ]
