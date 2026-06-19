@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48103",
     "passage": ""
+  },
+  {
+    "id": 48104,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Allemande is a dance in",
+    "options": {
+      "A": "\\(\\frac{3}{4}\\) time",
+      "B": "\\(\\frac{4}{4}\\) time",
+      "C": "\\(\\frac{3}{2}\\) time",
+      "D": "\\(\\frac{6}{4}\\) time"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48104",
+    "passage": ""
   }
 ]
