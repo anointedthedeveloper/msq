@@ -6900,5 +6900,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62508",
     "passage": ""
+  },
+  {
+    "id": 62509,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Converting 4B7\\(_{hexadecimal}\\) to binary is?",
+    "options": {
+      "A": "010010100111",
+      "B": "010010110111",
+      "C": "010010000111",
+      "D": "010011000111"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Converting the hexadecimal number 4B7 to binary involves converting each hexadecimal digit to its 4-digit binary equivalent.\n4 (hexadecimal) = 0100 (binary) B (hexadecimal) = 1011 (binary) 7 (hexadecimal) = 0111 (binary)\nTherefore, 4B7 (hexadecimal) = 010010110111 (binary).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62509",
+    "passage": ""
   }
 ]
