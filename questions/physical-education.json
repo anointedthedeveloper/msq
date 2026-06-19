@@ -4470,5 +4470,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70748",
     "passage": ""
+  },
+  {
+    "id": 70809,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the full meaning of NIPOGA?",
+    "options": {
+      "A": "Nigerian Intra-Polytechnic Games Association",
+      "B": "Nigerian Polytechnic Games Association",
+      "C": "Nigerian Inter-Polytechnic Games Association",
+      "D": "Nigerian International Polytechnic Games Association"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "NIPOGA stands for Nigerian Polytechnic Games Association.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70809",
+    "passage": ""
   }
 ]
