@@ -14308,5 +14308,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64809",
     "passage": ""
+  },
+  {
+    "id": 64811,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The logic equation for the logic-circuit in the diagram above is?",
+    "options": {
+      "A": "Z=A+B+C",
+      "B": "Z=A.B+C",
+      "C": "Z=A+B+C",
+      "D": "Z=A.B.C"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/x5vU6uyoCooJg2RRkCNlPSN6310Pyll63Kl96p7a.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903800/myschool/computer-studies/x5vU6uyoCooJg2RRkCNlPSN6310Pyll63Kl96p7a.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64811",
+    "passage": ""
   }
 ]
