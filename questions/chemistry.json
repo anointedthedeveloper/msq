@@ -3210,5 +3210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1678",
     "passage": ""
+  },
+  {
+    "id": 1680,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A metal M displaces zinc from zinc chloride solution. This shows that",
+    "options": {
+      "A": "M is more electronegative than zinc",
+      "B": "Zinc is above hydrogen in the series",
+      "C": "M is more electropositive than zinc",
+      "D": "Electrons flow from zinc to M"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "M is able to displace Zinc from Zinc Chloride because it is more electropositive than Zinc.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1680",
+    "passage": ""
   }
 ]
