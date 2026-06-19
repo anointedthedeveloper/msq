@@ -18243,5 +18243,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/70804",
     "passage": ""
+  },
+  {
+    "id": 70805,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the output expression for the circuit shown above?",
+    "options": {
+      "A": "ABC+BC",
+      "B": "( A+B )+( B+C )",
+      "C": "AB+AC",
+      "D": "A B+BC"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0plrv4xW3wwFKfaxT7jFc2JGEk5FdkD7mrP0f7eg.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904558/myschool/computer-studies/0plrv4xW3wwFKfaxT7jFc2JGEk5FdkD7mrP0f7eg.png",
+    "correct_answer": "D",
+    "explanation": "The output of the expression for the circuit is shown above:\n___ A  B+BC",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/70805",
+    "passage": ""
   }
 ]
