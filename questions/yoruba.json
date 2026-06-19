@@ -7040,5 +7040,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/76040",
     "passage": ""
+  },
+  {
+    "id": 76041,
+    "subject": "yoruba",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Kínní ọ̀rọ̀ tí ó jọjú nínú wọ̀nyí?",
+    "options": {
+      "A": "Àkọ́lékan",
+      "B": "Ìkànsí",
+      "C": "Àkọ́lé",
+      "D": "Ìsọdọ̀kan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"Àkólé\" túmọ̀ sí topic/tabi title, tí a máa fi șe àkíyèsí ẹ̀ka ọ̀rọ̀.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/76041",
+    "passage": ""
   }
 ]
