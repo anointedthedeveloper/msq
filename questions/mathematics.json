@@ -3484,5 +3484,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7768",
     "passage": ""
+  },
+  {
+    "id": 7772,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Factorize completely 4abx - 2axy -12b\n2\nx + 6bxy",
+    "options": {
+      "A": "2x(a - 3b)(2b - y)",
+      "B": "2x(3b - a)(2b - y)",
+      "C": "2x(a - 3b)(y - 2b)",
+      "D": "2x(2b - a)(3b - y)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7772",
+    "passage": ""
   }
 ]
