@@ -16168,5 +16168,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7638",
     "passage": ""
+  },
+  {
+    "id": 7640,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A broker is an agent who links a potential investor with?",
+    "options": {
+      "A": "a shareholder who wants to register a company",
+      "B": "other members of the exchange who want to trade",
+      "C": "governement official on the exchange",
+      "D": "a quoted company"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A stockbroker is a professional who executes buy and sell orders for stocks and other securities on behalf of clients.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7640",
+    "passage": ""
   }
 ]
