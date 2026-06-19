@@ -2706,5 +2706,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73730",
     "passage": ""
+  },
+  {
+    "id": 73731,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Wanne ne aka rubuta daidai?",
+    "options": {
+      "A": "Nakan",
+      "B": "Ya kan",
+      "C": "Na kan",
+      "D": "Yake"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73731",
+    "passage": ""
   }
 ]
