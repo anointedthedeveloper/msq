@@ -3782,5 +3782,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/75980",
     "passage": ""
+  },
+  {
+    "id": 75981,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The procedure to be followed by a mailroom clerk in handling incoming mails is",
+    "options": {
+      "A": "receiving, sorting, scrutinizing. opening",
+      "B": "receiving, sorting, opening scrutinizing",
+      "C": "opening, receiving, sorting, scrutinizing",
+      "D": "sorting, receiving, opening, scrutinizing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct procedure for handling incoming mails by a mailroom clerk is: receiving, sorting, opening, and scrutinizing. Receiving is the first step where the clerk accepts the mail. Sorting is the next step where the mail is categorized based on certain criteria. Opening is the third step where the mail is opened to reveal its contents. Scrutinizing is the final step where the contents of the mail are carefully examined.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/75981",
+    "passage": ""
   }
 ]
