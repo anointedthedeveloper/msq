@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57297",
     "passage": ""
+  },
+  {
+    "id": 57301,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A field in a database table is also known as",
+    "options": {
+      "A": "index",
+      "B": "relation",
+      "C": "attribute",
+      "D": "key"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A field, also known as a column or attribute, represents a single piece of data within a database table. It corresponds to a specific characteristic or property of the entities being stored in the table.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57301",
+    "passage": ""
   }
 ]
