@@ -3336,5 +3336,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1714",
     "passage": ""
+  },
+  {
+    "id": 1716,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "3Cu(s) + 8HNO\\(_3\\)(aq)  → 3Cu(NO\\(_3\\))\\(_2\\)(aq) + 4H\\(_2\\)O(l) + 2NO(g) In the equation above, copper is",
+    "options": {
+      "A": "an electron acceptor",
+      "B": "a base",
+      "C": "an oxidizing agent",
+      "D": "a reducing agent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A reducing agent (also called a reductant or reducer) is an element or compound that loses (or \"donates\") an electron to another chemical species in a redox chemical reaction. Since the reducing agent is losing electrons, it is said to have been oxidized. In the reaction, Copper is oxidized.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1716",
+    "passage": ""
   }
 ]
