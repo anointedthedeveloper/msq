@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48077",
     "passage": ""
+  },
+  {
+    "id": 48078,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Which of the following musicians contributed greatly ro the development of",
+    "options": {
+      "A": "Manu Dibango",
+      "B": "Awilo Logomba",
+      "C": "Kofi Olomide",
+      "D": "Lucky Dube"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48078",
+    "passage": ""
   }
 ]
