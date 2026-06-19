@@ -11179,5 +11179,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64110",
     "passage": ""
+  },
+  {
+    "id": 64111,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "How many different values can a bit have?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "10",
+      "D": "256"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A bit can have 2 different values.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64111",
+    "passage": ""
   }
 ]
