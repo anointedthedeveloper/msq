@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48060",
     "passage": ""
+  },
+  {
+    "id": 48061,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The famous artist who worked with Suzanne Wenger was",
+    "options": {
+      "A": "Twin Seven Seven",
+      "B": "Ulli Beier",
+      "C": "Jimoh Buraimoh",
+      "D": "Jimoh Akolo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48061",
+    "passage": ""
   }
 ]
