@@ -6319,5 +6319,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13752",
     "passage": ""
+  },
+  {
+    "id": 13755,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The process whereby a liquid turns spontaneously into vapour is called?",
+    "options": {
+      "A": "regelation",
+      "B": "sublimation",
+      "C": "boiling",
+      "D": "evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Evaporation is a process by which molecules undergo a spontaneous transition from the liquid phase to the gaseous phase\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13755",
+    "passage": ""
   }
 ]
