@@ -1627,5 +1627,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57737",
     "passage": ""
+  },
+  {
+    "id": 57738,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A program designed to detect and prevent malicious programs from a computer system is",
+    "options": {
+      "A": "spyware",
+      "B": "passcode",
+      "C": "malware",
+      "D": "firewall"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A firewall is a network security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules. A firewall typically establishes a barrier between a trusted network and an untrusted network,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57738",
+    "passage": ""
   }
 ]
