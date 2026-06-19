@@ -1531,5 +1531,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1503",
     "passage": ""
+  },
+  {
+    "id": 1504,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The height at which the atmosphere ceases to exist is about 80km. If the atmospheric pressure on the ground level is 760mmHg, the pressure at a height of 20km above the ground level is",
+    "options": {
+      "A": "380mmHg",
+      "B": "570mmHg",
+      "C": "190mmHg",
+      "D": "480mmHg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1504",
+    "passage": ""
   }
 ]
