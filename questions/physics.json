@@ -7726,5 +7726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13960",
     "passage": ""
+  },
+  {
+    "id": 13962,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The production of pure spectrum could easily be achieved using a?",
+    "options": {
+      "A": "glass prism with a pin",
+      "B": "triangular prism with two convex lens",
+      "C": "traingular prism only",
+      "D": "triangular prism with two concave lenses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A pure spectrum can be produced using a triangular prism-two converging lenses and a narrow slit of white light\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13962",
+    "passage": ""
   }
 ]
