@@ -12545,5 +12545,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/16345",
     "passage": ""
+  },
+  {
+    "id": 16348,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A body is projected into space with an initial velocity V0 at an angle, θ to the horizontal. Which of the following statements is/are correct about its motion? I. The total time of flight is (V0 Cosθ)/g. II. The maximum height is (V0 Sin 2θ)/2g. III. The range is (V02 Cos2θ)/g.",
+    "options": {
+      "A": "I & II only",
+      "B": "I & III only",
+      "C": "II & III only",
+      "D": "II only",
+      "E": "III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "H\\(_{max}\\) = \\(\\frac{(V_0)^2 Sin^2\\theta}{2g}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/16348",
+    "passage": ""
   }
 ]
