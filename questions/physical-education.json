@@ -3946,5 +3946,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70723",
     "passage": ""
+  },
+  {
+    "id": 70724,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which component of physical fitness relates to the ability to change body position quickly and accurately while maintaining control and balance?",
+    "options": {
+      "A": "Coordination",
+      "B": "Agility",
+      "C": "Reaction time",
+      "D": "Power"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agility is the performance/skill-related component of physical fitness that relates to the ability to change body position quickly and accurately while maintaining control and balance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70724",
+    "passage": ""
   }
 ]
