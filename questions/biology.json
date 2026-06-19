@@ -1076,5 +1076,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/385",
     "passage": ""
+  },
+  {
+    "id": 386,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The carrier of the hereditary character in plants and animal is the",
+    "options": {
+      "A": "Cell",
+      "B": "Nucleus",
+      "C": "Chromosome",
+      "D": "Chloroplast",
+      "E": "Gene"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "- The Hereditary characters of an organism are determined by genes.\n- However, Chromosomes are dark staining structures in a cell's nucleus  on which the organism's genes (DNA molecules) are arranged.\n- I.e Chromosomes are the carriers of genes.\n- And these genes are located on the Loci of the Chromosome.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/386",
+    "passage": ""
   }
 ]
