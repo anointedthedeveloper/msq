@@ -2098,5 +2098,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75364",
     "passage": ""
+  },
+  {
+    "id": 75366,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In art, the term 'focal point' refers to:",
+    "options": {
+      "A": "The area of greatest interest",
+      "B": "The background area",
+      "C": "The edge of the frame",
+      "D": "The secondary object"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The focal point is the primary area that draws and holds the viewer's attention first, often through contrast, placement, or emphasis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75366",
+    "passage": ""
   }
 ]
