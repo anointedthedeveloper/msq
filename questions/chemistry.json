@@ -13938,5 +13938,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12826",
     "passage": ""
+  },
+  {
+    "id": 12827,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following statements is true?",
+    "options": {
+      "A": "Metals conduct electricity while non-metals do not",
+      "B": "Metals have high density, non-metals have low density",
+      "C": "Metals form basic oxides, non-metals form acidic oxides",
+      "D": "In the electro chemical series, metals are above hydrogen while non-metals are below hydrogen",
+      "E": "Metals lose elections while non-metals gain electron during chemical reactions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Not all metals are above hydrogen in the electrochemical series. The electrochemical series, also known as the activity series, lists metals in order of decreasing reactivity. Metals above hydrogen are more reactive than hydrogen, while metals below hydrogen are less reactive. Copper and silver are examples of metals that are below hydrogen in the electrochemical series.\nConversely, all metals lose electrons or donate electrons because they are highly electropositive, hence they are reducing agents while non-metals are electron receptors, as they gain electrons during chemical reaction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12827",
+    "passage": ""
   }
 ]
