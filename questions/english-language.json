@@ -2901,5 +2901,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1353",
     "passage": ""
+  },
+  {
+    "id": 1354,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence : He played the piano .... an hour or two",
+    "options": {
+      "A": "around",
+      "B": "in about",
+      "C": "during",
+      "D": "while",
+      "E": "for"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The choice \"for\" is used to indicate the duration of an action. In this case, the sentence expresses how long he played the piano. So, \"for\" is the appropriate preposition to convey the duration of time. The correct sentence would be \"He played the piano for an hour or two,\" meaning he played the piano throughout the duration of one or two hours.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1354",
+    "passage": ""
   }
 ]
