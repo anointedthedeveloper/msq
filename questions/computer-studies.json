@@ -11284,5 +11284,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64115",
     "passage": ""
+  },
+  {
+    "id": 64116,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A light sensitive device that converts drawing, printed text or other images into digital form is",
+    "options": {
+      "A": "keyboard",
+      "B": "Plotter",
+      "C": "Scanner",
+      "D": "OMR"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A scanner converts hard copy of data and other information to soft copy, by serving as an input device that supplies the computer the information or data contained in the hard copy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64116",
+    "passage": ""
   }
 ]
