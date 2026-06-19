@@ -3979,5 +3979,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1971",
     "passage": ""
+  },
+  {
+    "id": 2020,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Complete the sentences with the\ncorrect options\nfrom the list below\n:\nHe reported to his manager that he .... overseas",
+    "options": {
+      "A": "had never been",
+      "B": "never was",
+      "C": "has never been",
+      "D": "is never",
+      "E": "will never be"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2020",
+    "passage": ""
   }
 ]
