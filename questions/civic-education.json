@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50085",
     "passage": ""
+  },
+  {
+    "id": 50086,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Human rights can be best promoted if?",
+    "options": {
+      "A": "jungle justice is discouraged",
+      "B": "relevant knowledge and information are acquired",
+      "C": "political elites exercises discretionary powers",
+      "D": "there is existing constitution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When there is a constitution on ground that clearly outlines human rights in a society, abused of such rights would be reduced to the minimum as defaulters will be purnished accordingly.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50086",
+    "passage": ""
   }
 ]
