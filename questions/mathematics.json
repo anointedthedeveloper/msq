@@ -11427,5 +11427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22228",
     "passage": ""
+  },
+  {
+    "id": 22229,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The histogram below shows the number of candidates, in thousands, obtaining given ranges of marks in a State examination. How many candidates scored at most 30%?",
+    "options": {
+      "A": "15,000",
+      "B": "20,000",
+      "C": "25,000",
+      "D": "35,000",
+      "E": "60,000"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/GEMYmoCU3SXV38iTDxyRPJYw7cJa4vP0qfM703iE.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781907081/myschool/mathematics/GEMYmoCU3SXV38iTDxyRPJYw7cJa4vP0qfM703iE.png",
+    "correct_answer": "D",
+    "explanation": "Those who scored at most 30% = ( 5 + 10 + 20)thousand = 35000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22229",
+    "passage": ""
   }
 ]
