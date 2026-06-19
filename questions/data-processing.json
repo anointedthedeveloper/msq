@@ -5142,5 +5142,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58989",
     "passage": ""
+  },
+  {
+    "id": 58990,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The MS PowerPoint feature which can be used to change the appearance of the entire presentation is the",
+    "options": {
+      "A": "Add slide option",
+      "B": "Design template",
+      "C": "Online view",
+      "D": "Slide Layout option"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Design template option is the MS PowerPoint feature that can be used to change the appearance of the entire presentation. This feature allows you to select a pre-designed template or create your custom template that can be applied to all slides in your presentation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58990",
+    "passage": ""
   }
 ]
