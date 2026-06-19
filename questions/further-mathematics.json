@@ -3483,5 +3483,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50531",
     "passage": ""
+  },
+  {
+    "id": 50533,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Simplify \\(\\frac{1 + \\sqrt{8}}{3 - \\sqrt{2}}\\).",
+    "options": {
+      "A": "\\(7 + \\sqrt{2}\\)",
+      "B": "\\(7 + 7\\sqrt{2}\\)",
+      "C": "\\(1 - 7\\sqrt{2}\\)",
+      "D": "\\(1 + \\sqrt{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{1 + \\sqrt{8}}{3 - \\sqrt{2}}\\)\nRationalizing by multiplying through with \\(3 + \\sqrt{2}\\),\n\\((\\frac{1 + \\sqrt{8}}{3 - \\sqrt{2}})(\\frac{3 + \\sqrt{2}}{3 + \\sqrt{2}}) = \\frac{3 + \\sqrt{2} + 3\\sqrt{8} + 4}{9 - 2}\\)\n= \\(\\frac{3 + \\sqrt{2} + 3\\sqrt{4 \\times 2} + 4}{7} \\)\n= \\(\\frac{7 + 7\\sqrt{2}}{7} = 1 + \\sqrt{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50533",
+    "passage": ""
   }
 ]
