@@ -7264,5 +7264,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13898",
     "passage": ""
+  },
+  {
+    "id": 13899,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Non-luminous object can be seen because they",
+    "options": {
+      "A": "reflect light",
+      "B": "are near",
+      "C": "are polished",
+      "D": "emit light"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Non-luminous objects do not emit light; instead, they are visible because they reflect light from luminous sources (such as the sun or artificial lights). This reflection allows us to see them.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13899",
+    "passage": ""
   }
 ]
