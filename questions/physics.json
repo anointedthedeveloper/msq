@@ -11026,5 +11026,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14404",
     "passage": ""
+  },
+  {
+    "id": 14407,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A cannon is fired from town X,after how long is the sound heard at a town Y 4.95 km away? [velocity of sound in the air = 330 ms-1]",
+    "options": {
+      "A": "30 s",
+      "B": "10 s",
+      "C": "10 s",
+      "D": "15 s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "V = X/t 330 = ( 4.95 x 10^3)/t t = (4.95 x 10^3/330 = = 15 secs\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14407",
+    "passage": ""
   }
 ]
