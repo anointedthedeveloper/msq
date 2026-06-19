@@ -7528,5 +7528,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/8180",
     "passage": ""
+  },
+  {
+    "id": 8182,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following is NOT characteristic of the International Date Line?",
+    "options": {
+      "A": "A traveller loses a day by crossing from the East to the West",
+      "B": "A traveller gains a day crossing from theWest to the East",
+      "C": "The line is appoximately  along the 180° Merdian",
+      "D": "Local time is the same on either side",
+      "E": "The line has a zigzag shape"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/8182",
+    "passage": ""
   }
 ]
