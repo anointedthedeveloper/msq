@@ -3154,5 +3154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71198",
     "passage": ""
+  },
+  {
+    "id": 71199,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeLe Bénin est un/u.................. Afrique occidentale.",
+    "options": {
+      "A": "pays",
+      "B": "continent",
+      "C": "village",
+      "D": "eat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Benin is a country or pays in West Africa, not a continent, state, village, or city. Therefore, the correct answer is pays (country).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71199",
+    "passage": ""
   }
 ]
