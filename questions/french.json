@@ -1980,5 +1980,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48206",
     "passage": ""
+  },
+  {
+    "id": 48207,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "\"La tumeur est enlevée avec un certain degree de securité auxorgans importants\" C'est-à-dire:",
+    "options": {
+      "A": "la tummeur est la seule partie enlevée",
+      "B": "une partie de la tummeur est toujours épargnée",
+      "D": "la tumeur est enlevée avec sagesse"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/QNKZdOPAcPwD1vZxII3Xb9iibSedjK5YJ9Aq1hGX.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781898447/myschool/french/QNKZdOPAcPwD1vZxII3Xb9iibSedjK5YJ9Aq1hGX.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48207",
+    "passage": ""
   }
 ]
