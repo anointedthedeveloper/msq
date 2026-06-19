@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/72469",
     "passage": ""
+  },
+  {
+    "id": 72470,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Móremí àti ta ni ó te ilé ilá dó?",
+    "options": {
+      "A": "Onífádé",
+      "B": "Elújoba",
+      "C": "Okànbí",
+      "D": "Olálomí"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/72470",
+    "passage": ""
   }
 ]
