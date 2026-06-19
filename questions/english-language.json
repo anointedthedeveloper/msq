@@ -1691,5 +1691,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/612",
     "passage": ""
+  },
+  {
+    "id": 613,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the expression or word which best complete each sentence:\nBy the end of this year, .... in this town for eleven years",
+    "options": {
+      "A": "i'm living",
+      "B": "i'd be living",
+      "C": "i'll live",
+      "D": "i'll have lived",
+      "E": "i have lived"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct option is D. The statement 'By the end of this year, i will have lived in this town for eleven years' is a future perfect tense. A future perfect tense is a combination of future time and the present perfect tense. This means, the speaker has been living and still lives in the town, and by the end of the year it will be eleven years since he started living in the town.\nThis phrase ''will + have'' shows an action or event that started in the past, is starting or will start in the future and that will also be completed at some future time.\nFor instance, At 2:30 tomorrow afternoon, I will have finished my third class. (My classes won't begin until tomorrow morning and they won't finish until tomorrow at 2:30 PM.)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/613",
+    "passage": ""
   }
 ]
