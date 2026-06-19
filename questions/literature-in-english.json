@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/421",
     "passage": ""
+  },
+  {
+    "id": 422,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "One of the peculiar features of drama in general is",
+    "options": {
+      "A": "humour",
+      "B": "satire",
+      "C": "sarcasm",
+      "D": "action",
+      "E": "exposition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "One of the most peculiar (essential) features of drama is action because: Drama is primarily a performative genre , meaning it is meant to be acted out on stage or screen rather than just read. Unlike other literary forms like poetry or prose, drama relies on dialogue and physical movement to tell the story. The plot unfolds through characters interacting and engaging in events , making action a fundamental element of drama.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/422",
+    "passage": ""
   }
 ]
