@@ -82,5 +82,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66044",
     "passage": ""
+  },
+  {
+    "id": 66046,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The type of incoming mail that should be delivered to their addresses unopened is",
+    "options": {
+      "A": "urgent mail",
+      "B": "personal mail",
+      "C": "official mail",
+      "D": "registered mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Registered mail is a type of incoming mail that should be delivered to their addresses unopened. It is a type of mail that is sealed.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66046",
+    "passage": ""
   }
 ]
