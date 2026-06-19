@@ -2285,5 +2285,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49904",
     "passage": ""
+  },
+  {
+    "id": 49906,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "which of the following conditions must be met before and insurer is under obligation to pay claim",
+    "options": {
+      "A": "loss notification",
+      "B": "premium payment",
+      "C": "completion of proposal form",
+      "D": "submission of policy paper to the insurer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In insurance, the insurance policy is a contract between the insurer and the insured, known as the policyholder, which determines the claims which the insurer is legally required to pay. In exchange for an initial payment, known as the premium, the insurer promises to pay for loss caused by perils covered under the policy language. The insurer is only obligated to pay for claims if the insured keeps their own part of the bargain by paying the premium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49906",
+    "passage": ""
   }
 ]
