@@ -5080,5 +5080,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2388",
     "passage": ""
+  },
+  {
+    "id": 2389,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the onion bulb, food is stored in the",
+    "options": {
+      "A": "stem",
+      "B": "lateral buds",
+      "C": "cotyledons",
+      "D": "outer scale leave",
+      "E": "leaf base"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "In an onion bulb, food is stored in the leaf bases, which are modified to become thick and fleshy. As the onion matures, synthesized food (primarily in the form of sugars) is sent down from the green foliage leaves to these bases, causing them to swell and form the characteristic concentric layers of the bulb.\nA. stem: The stem of an onion is actually a very reduced, disc-like structure at the bottom of the bulb known as the basal plate. While it supports the leaves and roots, it is not the primary site of food storage.\nB. lateral buds: These buds are located within the bulb and are responsible for producing new shoots or daughter bulbs for vegetative reproduction, but they do not store the bulk of the plant's food.\nC. cotyledons: These are \"seed leaves\" used for nutrition during germination. In a mature onion bulb, the storage function has shifted to the modified leaf bases of the adult plant.\nD. outer scale leave: Also known as scaly leaves, these are the dry, papery outer layers of the onion. Their primary function is to protect the inner fleshy layers from water loss and pests, rather than acting as the primary food storage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2389",
+    "passage": ""
   }
 ]
