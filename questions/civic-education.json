@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50084",
     "passage": ""
+  },
+  {
+    "id": 50085,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Rendering services to humanity across boundaries is an indication of providing a solution to",
+    "options": {
+      "A": "political crisis",
+      "B": "social dilemma",
+      "C": "natural disaster",
+      "D": "civic problems"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Civic problems center around global issues such as climate change, pollution, malnourishment & hunger, unemployment lack of education among others.\nIndividuals, groups, or organizations engage or participate in activities meant to address these issues.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50085",
+    "passage": ""
   }
 ]
