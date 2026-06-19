@@ -4792,5 +4792,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75815",
     "passage": ""
+  },
+  {
+    "id": 75816,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "La nuit est généralement :",
+    "options": {
+      "A": "bleue",
+      "B": "claire",
+      "C": "sombre",
+      "D": "joyeuse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The French word \"sombre\" means \"dark,\" often describing the night.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75816",
+    "passage": ""
   }
 ]
