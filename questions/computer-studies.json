@@ -13762,5 +13762,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64422",
     "passage": ""
+  },
+  {
+    "id": 64423,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Binary coded decimals (BCD) numbers express each digit as a ___________",
+    "options": {
+      "A": "byte",
+      "B": "nibble",
+      "C": "bit",
+      "D": "All of the above"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Nibbles are used to express binary coded number's digit",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64423",
+    "passage": ""
   }
 ]
