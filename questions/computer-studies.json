@@ -4100,5 +4100,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62262",
     "passage": ""
+  },
+  {
+    "id": 62263,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "The first stage in program development is problem?",
+    "options": {
+      "A": "analysis.",
+      "B": "definition.",
+      "C": "solving.",
+      "D": "testing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The first stage in program development is problem definition, where the problem to be solved is clearly identified and articulated.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62263",
+    "passage": ""
   }
 ]
