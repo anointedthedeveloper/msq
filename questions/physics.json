@@ -8986,5 +8986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14200",
     "passage": ""
+  },
+  {
+    "id": 14201,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Musical instruments playing the same note can be distinguished from one another owing to the differences in their?",
+    "options": {
+      "A": "quality",
+      "B": "pitch",
+      "C": "intensity",
+      "D": "loudness"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The quality of a note is a characteristic that distinguishes it from note of the same frequency played by another musical instrument.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14201",
+    "passage": ""
   }
 ]
