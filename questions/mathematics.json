@@ -12460,5 +12460,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22417",
     "passage": ""
+  },
+  {
+    "id": 22418,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "sinθ = \\(\\frac{1}{2}\\) and cosθ = -\\(\\frac{\\sqrt{3}}{2}\\), what is the value of θ?",
+    "options": {
+      "A": "30 0",
+      "B": "60 0",
+      "C": "90 o",
+      "D": "120 o",
+      "E": "150 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "In the 2nd Quadrant, SINE is the only Positive.\nWhere θ is 30 for the first quadrant and\n150 in the 2nd quadrant, which makes COSINE negative\nSin θ = \\(\\frac{1}{2}\\)\nθ = Sin\\(^{-1}(\\frac{1}{2}\\)) = 30º which is positive in the first quadrant\nSin 30 = Sin 150, i.e, (180 - 30), which is also positive in the second quadrant.\nBUT Cos  θ = -\\(\\frac{\\sqrt{3}}{2}\\)\nθ = Cos\\(^{-1}\\)(-\\(\\frac{\\sqrt{3}}{2}\\)) = 150º which is in the second quadrant but negative\nHence,  θ = 150º",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22418",
+    "passage": ""
+  },
+  {
+    "id": 22419,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "What is the probability that 3 customers waiting in a bank will be served in the sequence of their arrival at the bank",
+    "options": {
+      "A": "1/6",
+      "B": "1/3",
+      "C": "1/2",
+      "D": "2/3",
+      "E": "5/6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Probability that 3 customers are attended to in the sequence they arrive\n= prob of attending to the 1st arrival x prob of attending to the second last x prob of attending to the last\n= \\(\\frac{1}{3} \\times \\frac{1}{2} \\times \\frac{1}{1}\\)\n= \\(\\frac{1}{6}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22419",
+    "passage": ""
   }
 ]
