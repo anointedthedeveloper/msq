@@ -4198,5 +4198,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12273",
     "passage": ""
+  },
+  {
+    "id": 12274,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A satellite is in a parking orbit if its period is",
+    "options": {
+      "A": "less than the period of the earth",
+      "B": "more than the  period of the earth",
+      "C": "equal to the period of the earth",
+      "D": "the square of the period of the earth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12274",
+    "passage": ""
   }
 ]
