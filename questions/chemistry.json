@@ -2034,5 +2034,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1489",
     "passage": ""
+  },
+  {
+    "id": 1490,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The electron configuration of \\(_{22}X^{2+}\\) ion is",
+    "options": {
+      "A": "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 2",
+      "B": "1s 2 2s 2 2p 6 3s 2 3p 6 4s 2 3d 1",
+      "C": "1s 2 2s 2 2p 6 3s 2 3p 6",
+      "D": "1s 2 2s 2 2p 6 3s 2 3p 6 3d 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(_{22}X^{2+}\\) has 22 electrons but has been ionized to 2+ by giving off 2 electrons. Hence, the ion \\(_{22}X^{2+}\\) has 20 electrons.\nThe electronic configuration = 1s\\(^2\\) 2s\\(^2\\) 2p\\(^6\\) 3s\\(^2\\) 3p\\(^6\\) 3d\\(^2\\)\nthe general trend for the first-row transition metals is that they lose electrons from their 4s orbitals first before 3d when forming ions. but this is not true for chromium and copper due to stability related to half-filled or completely-filled 3d orbitals\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1490",
+    "passage": ""
   }
 ]
