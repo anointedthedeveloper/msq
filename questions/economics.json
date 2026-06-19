@@ -3693,5 +3693,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2479",
     "passage": ""
+  },
+  {
+    "id": 2480,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "An increase in the price of butter causes an increase in the demand for margarine. This indicate that butter and margarine are?",
+    "options": {
+      "A": "substitute goods",
+      "B": "complementary  goods",
+      "C": "elastic goods",
+      "D": "inelastic goods",
+      "E": "inferior goods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A substitute good is a good that can be used in place of another. In consumer theory, substitute goods or substitutes are products that a consumer perceives as similar or comparable, so that having more of one product makes them desire less of the other product. Formally, X and Y are substitutes if, when the price of X rises, the demand for Y rises.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2480",
+    "passage": ""
   }
 ]
