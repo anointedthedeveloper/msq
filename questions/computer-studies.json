@@ -5145,5 +5145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62343",
     "passage": ""
+  },
+  {
+    "id": 62344,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The parts of the taskbar include: I recycle bin Il start button lII system tray IV quick launch toolbar",
+    "options": {
+      "A": "I, I and IV only",
+      "B": "I, Ill and IV only",
+      "C": "II, Il and IV only",
+      "D": "I, II, III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62344",
+    "passage": ""
   }
 ]
