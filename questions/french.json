@@ -3679,5 +3679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71223",
     "passage": ""
+  },
+  {
+    "id": 71224,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.Les vétements.",
+    "options": {
+      "A": "Le chapeau",
+      "B": "Le bic",
+      "C": "La robe",
+      "D": "La ceinture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The options are all articles of clothing, such as a belt (La ceinture), a dress (La robe), a hat (Le chapeau), and a scarf (Le foulard). However, a bike (Le bic) is a vehicle, not an article of clothing, making it the odd one out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71224",
+    "passage": ""
   }
 ]
