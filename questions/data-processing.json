@@ -7168,5 +7168,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67147",
     "passage": ""
+  },
+  {
+    "id": 67148,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The standard way of arranging information is known as",
+    "options": {
+      "A": "Organization of information",
+      "B": "Validation of information",
+      "C": "Collection of information",
+      "D": "Classification of information"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Organization of information is the standard way of arranging information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67148",
+    "passage": ""
   }
 ]
