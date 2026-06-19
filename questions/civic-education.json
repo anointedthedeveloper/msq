@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50076",
     "passage": ""
+  },
+  {
+    "id": 50077,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "What does the boy in figure 1 need the bullet proof vest for?",
+    "options": {
+      "A": "demonstration",
+      "B": "protection",
+      "C": "battle",
+      "D": "vengeance"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/lCURZKGZBWOKEBkM9g032OMBvZU8Wp1PatZwQjqg.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891923/myschool/civic-education/lCURZKGZBWOKEBkM9g032OMBvZU8Wp1PatZwQjqg.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50077",
+    "passage": ""
   }
 ]
