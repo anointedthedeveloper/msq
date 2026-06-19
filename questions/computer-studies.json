@@ -12922,5 +12922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64365",
     "passage": ""
+  },
+  {
+    "id": 64367,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The acronym from DATABASE MANAGEMENT SYSTEM is ________________",
+    "options": {
+      "A": "DMS",
+      "B": "DBMS",
+      "C": "DMGS",
+      "D": "DMSM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "DBMS. A Database Management System (DBMS) is software designed to store, retrieve, define, and manage data in a database.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64367",
+    "passage": ""
   }
 ]
