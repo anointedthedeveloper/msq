@@ -16746,5 +16746,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67858",
     "passage": ""
+  },
+  {
+    "id": 67859,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Computers that are small and low cost are referred to as ?",
+    "options": {
+      "A": "mini computers",
+      "B": "small computers",
+      "C": "tablet computers",
+      "D": "micro computers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Micro computers are small and low cost digital computers, which usually consists of a micro-processor, a storage unit, an input channel and an output channel.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67859",
+    "passage": ""
   }
 ]
