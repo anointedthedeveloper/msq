@@ -6949,5 +6949,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9232",
     "passage": ""
+  },
+  {
+    "id": 9233,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The nth term of the sequence \\(\\frac{3}{2}\\), 3, 7, 16, 35, 74 ..... is",
+    "options": {
+      "A": "5 . 2 n-2 - n",
+      "B": "5 . 2 n-2 - \\(\\frac{(n+1)}{2}\\)",
+      "C": "3 . 2 n-2",
+      "D": "\\(\\frac{3n}{2}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "3/2, 3, 7, 16, 35, 74, .... Using the method of substitution When n = 1, 5 . 2n-2 - 1 = 5 . 21-2 - 1 = 5 x 2-1 - 1 = 5 x 1/2 - 1 = 5/2 - 1 = 3/2 When n = 1, 5 . 2n-2 - n = 5 . 22-2 - 2 = 5 x 20 - 2 = 5 x 1 – 2 = 3 When n = 3, 5 . 2n-2 - n = 5 . 23-2 - 3 = 5 x 21 - 3 = 5 x 2 – 3 = 10 -3 = 7 When n = 4, 5 . 2n-2 - n = 5 . 24-2 - 4 = 5 x 22 - 4 = 5 x 4 – 4 = 20 – 4 = 16 When n = 5, 5 . 2n-2 - n = 5 . 25-2 - 5 = 5 x 23 - 5 = 5 x 8 – 5 = 40 – 5 = 35 When n = 6, 5 . 2n-2 - n = 5 . 26-2 - 6 = 5 x 24 - 6 = 5 x 16 – 6 = 80 – 6 = 74 ∴ 5 . 2n-2 - 1 = 3/2, 3, 7, 16, 35, 74\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9233",
+    "passage": ""
   }
 ]
