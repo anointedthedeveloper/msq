@@ -15612,5 +15612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67779",
     "passage": ""
+  },
+  {
+    "id": 67780,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of these commands will reboot the computer ?",
+    "options": {
+      "A": "Ctrl + Alt + Del",
+      "B": "Ctrl + Del",
+      "C": "Ctrl + Alt + C",
+      "D": "Ctrl + Alt"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The command 'Ctrl + Alt + Del' is a common PC shortcut that restarts the computer. It is also known as 'Three-finger salute'. This command is used to bring up the Task Manager or the Windows Security options (including the option to restart or shut down) in Windows operating systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67780",
+    "passage": ""
   }
 ]
