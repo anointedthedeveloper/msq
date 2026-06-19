@@ -1854,5 +1854,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58049",
     "passage": ""
+  },
+  {
+    "id": 58069,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) Folders are used for storing files in the computer. List the steps for carrying out the following operations; (i) creating a folder on the desktop (ii) giving name on the folder (iii) sending a file from \"My Documents\" folder into the folder created in 6 (a)(i), (iv) Changing the name of the folder in 6(a)(ii) to \"RESULTS\".\n(b) The table below shows selected fields and Data Types in MS Access. Use it to answer questions 6(b)(i) and 6(b)(ii)\n(i) What is the appropriate data type for; (I) Date of Birth (II) Fees Fields\n(ii) If MS Access is running, describe the procedure to; I. Create a table with the fields as given above using design view II. Set the Mat. No. Field as the primary key. III. Set the Full Name Fieldto a maximum of 50 characters.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) (i) To Creat a folder on the Desktop ; \"Right-click on the desktop and select \"New\", Select \"Folder\"\n(ii) Naming the folder; Click on the default name of the new folder, Type in the name, Press enter or click elsewhere on the desktop OR right-click on the folder icon and select \"Rename\", Type-in the New Name OR Select the folder, Click on the default Name/New Folder, Type New Name, Press Enter.\n(iii) Sending a file to the new folder; Double-click  on \"My Document\"folder icon, RIght-click on the desired file icon and select \"copy, Open the folder created Paste the copied file OR Select the file in My Documents Folder, Drag it to the created Folder on the Desktop, Select Target Folder, Click on Save.\n(iv) Renaming the folder; Right-click on the folder icon and select \"Rename\", Type in the new name \"RESULTS\"OR select the folder, Click on the default Name/New Folder, Type \"RESULTS\"as the new name, Press Enter.\n(b)(i) (I) Date of Birth----Date/Time\n(I) Fees--------------Currency\n(ii)(I) Create a blank database and give it a name,click on the \"create\"tab on the menu bar and select \"table/design/design view\", Type the field names and set the data types as required. Save the file.\n(II) Select the Mat. No field, Right-click on the field and select primary key OR selct the Mat. No. field, click on the primary key icon on the menu bar.\n(III) Click on the Full Name Field, Go to the Field Properties, Change the Field Size from 255 to 50.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58069",
+    "passage": ""
   }
 ]
