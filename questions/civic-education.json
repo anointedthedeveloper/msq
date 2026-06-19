@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50071",
     "passage": ""
+  },
+  {
+    "id": 50073,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The smooth operation of the public service in Nigeria is being hampered by",
+    "options": {
+      "A": "debt burden",
+      "B": "adequate training",
+      "C": "privatization",
+      "D": "bribery and corruption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Bribery is seen as the offering, giving, receiving, or soliciting of any item of value to influence the actions of an official or other person in charge of a public or legal duty.\nCorruption - is any unlawful or improper behaviour that seeks to gain an advantage through illegitimate means.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50073",
+    "passage": ""
   }
 ]
