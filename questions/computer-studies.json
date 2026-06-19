@@ -10343,5 +10343,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62762",
     "passage": ""
+  },
+  {
+    "id": 62763,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "In database application, the field length determines the?",
+    "options": {
+      "A": "maximum number of characters the field can accommodate.",
+      "B": "maximum number of operations that can be performed on the field.",
+      "C": "level of security of the database.",
+      "D": "maximum number of datatype the field can contain."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62763",
+    "passage": ""
   }
 ]
