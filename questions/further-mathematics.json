@@ -3294,5 +3294,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50519",
     "passage": ""
+  },
+  {
+    "id": 50521,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Forces \\(F_{1} = (8N, 030°)\\) and \\(F_{2} = (10N, 150°)\\) act on a particle. Find the horizontal component of the resultant force.",
+    "options": {
+      "A": "1.7N",
+      "B": "4.5N",
+      "C": "9.0N",
+      "D": "13.0N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(F = F \\cos \\theta + F \\sin \\theta\\)\nwhere \\(F \\cos \\theta = \\text{horizontal component}\\)\n\\(F \\sin \\theta = \\text{vertical component}\\)\nHorizontal component of resultant = sum of horizontal compoents of individual forces\n= \\(8 \\cos 30 + 10 \\cos 150 = 6.928 - 8.66 \\approxeq - 1.7N\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50521",
+    "passage": ""
   }
 ]
