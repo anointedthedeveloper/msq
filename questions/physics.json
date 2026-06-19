@@ -4744,5 +4744,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12750",
     "passage": ""
+  },
+  {
+    "id": 12757,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The force on a charge moving with velocity v in a magnetic field B is half of the maximum force when the angle between v and B is",
+    "options": {
+      "A": "90 o",
+      "B": "45 o",
+      "C": "30 o",
+      "D": "0 o"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "o\no\no",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12757",
+    "passage": ""
   }
 ]
