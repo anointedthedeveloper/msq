@@ -6779,5 +6779,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76510",
     "passage": ""
+  },
+  {
+    "id": 76511,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Why is water important for digestion?",
+    "options": {
+      "A": "It reduces the need for enzymes.",
+      "B": "It creates acids that digest proteins.",
+      "C": "It provides the calories needed for digestion.",
+      "D": "It softens stool and aids in nutrient absorption."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Water plays a crucial role in digestion by softening stool, preventing constipation, and facilitating the smooth passage of food through the digestive tract. It also aids in dissolving nutrients so they can be absorbed into the bloodstream effectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76511",
+    "passage": ""
   }
 ]
