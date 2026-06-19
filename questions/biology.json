@@ -2308,5 +2308,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1159",
     "passage": ""
+  },
+  {
+    "id": 1160,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A green plant growing in a compost pit is feeding?",
+    "options": {
+      "A": "holozoically",
+      "B": "parasitically",
+      "C": "saprophytically",
+      "D": "holophytically",
+      "E": "in none of the above ways"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Saprotrophic nutrition or lysotrophic nutrition is a process of chemoheterotrophic extracellular digestion involved in the processing of decayed organic matter.\nHolozoic nutrition is a heterotrophic mode of nutrition that involves consuming other organisms, while holophytic nutrition is an autotrophic mode of nutrition that involves making food through photosynthesis. Green plants possess Chlorophyll which enables them manufacture their own food through the process of photosynthesis, regardless of where they are growing.However, the compost pit is just to supply the green plant with other nutrients that might be needed for growth.This mode of nutrition is also known as holophytic mode of nutrition.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1160",
+    "passage": ""
   }
 ]
