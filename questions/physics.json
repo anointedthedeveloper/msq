@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1435",
     "passage": ""
+  },
+  {
+    "id": 1441,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "If the frequency of an emitted x-ray is 1.6 x 10\\(^{16}\\)Hz, the accelerating potential is? [e = 1.6 x 10\\(^{19}\\)C, h = 6.63 x 10\\(^{-34}\\)Js]",
+    "options": {
+      "A": "6630.0V",
+      "B": "663.0V",
+      "C": "66.3V",
+      "D": "6.6V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Energy imparted by the accelerating system = e x V, where V is the accelerating potential; and this energy is equal to the energy of the X-ray, give by hf e x V = hf ∴ V = hf/e (6.63 x 10\\(^{-34}\\) x 1.6 x 10\\(^{16}\\))/1.6 x 10\\(^{-19}\\) = 6.63 x 10 = 66.3V\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1441",
+    "passage": ""
   }
 ]
