@@ -4722,5 +4722,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2152",
     "passage": ""
+  },
+  {
+    "id": 2226,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "What volume of oxygen is produced from the decomposition of 2 mole of KCIO\n3\nat s.t.p?\n[Molar volume of a gas at s.t.p = 22.4 dm\n3\n]",
+    "options": {
+      "A": "22.4 dm 3",
+      "B": "33.6 dm 3",
+      "C": "44.8 dm 3",
+      "D": "67.2 dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2226",
+    "passage": ""
   }
 ]
