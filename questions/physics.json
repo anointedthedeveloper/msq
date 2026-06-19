@@ -16197,5 +16197,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24268",
     "passage": ""
+  },
+  {
+    "id": 24269,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A real image of an object fom1ed by a converging lens of focal length 15cm is three times the size of the object. What is the distance of the object from the lens?",
+    "options": {
+      "A": "30cm",
+      "B": "25cm",
+      "C": "20cm",
+      "D": "15cm",
+      "E": "10cm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24269",
+    "passage": ""
   }
 ]
