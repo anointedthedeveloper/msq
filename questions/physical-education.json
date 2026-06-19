@@ -3820,5 +3820,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70717",
     "passage": ""
+  },
+  {
+    "id": 70718,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In badminton, if a player serves before the opponent is ready, what is the ruling?",
+    "options": {
+      "A": "The server loses the point",
+      "B": "The server gets an extra serve",
+      "C": "The serve is replayed",
+      "D": "The receiver wins the point"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "If a player serves before the opponent is ready, the serve is replayed. This is to ensure a fair start to the rally and give both players ample time to prepare for the serve.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70718",
+    "passage": ""
   }
 ]
