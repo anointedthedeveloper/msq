@@ -9574,5 +9574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3991",
     "passage": ""
+  },
+  {
+    "id": 3994,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "The presence of nitrogen in air is to slow down",
+    "options": {
+      "A": "respiration and combustion",
+      "B": "combustion and corrosion",
+      "C": "corrosion and respiration",
+      "D": "respiration and transpiration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Nitrogen in the air slows down the burning process of materials, essentially acting as a fire suppressant by diluting the oxygen concentration needed for combustion to occur rapidly; making up the majority of air, it prevents flames from spreading too quickly.\nAlso,nitrogen in the air does slow down corrosion because it is an inert gas, meaning it doesn't readily react with metals, while the primary contributor to corrosion, oxygen, is displaced by the presence of nitrogen in the atmosphere; essentially, by taking up space, nitrogen limits the amount of oxygen that can come into contact with a metal surface, thus slowing down the corrosion process.\nConversely, nitrogen in the air does not slow down respiration because it is not used in respiration, just as the nitrogen in the soil can affect transpiration rates, but the relationship depends on soil moisture and other factors.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3994",
+    "passage": ""
   }
 ]
