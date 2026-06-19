@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60225",
     "passage": ""
+  },
+  {
+    "id": 60226,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Fig.3 is a flowchart. Use it to answer the question below\nThe part labelled I represents_________",
+    "options": {
+      "A": "Begin/Start Symbol",
+      "B": "Process/Action Symbol",
+      "C": "Read/Write Symbol",
+      "D": "Stop/End Symbol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/li65ptnshqhPYKNyNJz3xh7gguIVcgv0nqShd4tf.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781900493/myschool/computer-studies/li65ptnshqhPYKNyNJz3xh7gguIVcgv0nqShd4tf.jpg",
+    "correct_answer": "C",
+    "explanation": "The part labeled I represents the READ/WRITE SYMBOL.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60226",
+    "passage": ""
   }
 ]
