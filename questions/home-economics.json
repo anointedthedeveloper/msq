@@ -922,5 +922,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73211",
     "passage": ""
+  },
+  {
+    "id": 73212,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The basic unit of raw materials used in making yarns is called",
+    "options": {
+      "A": "Lint",
+      "B": "Fibre",
+      "C": "Bias",
+      "D": "Fabric"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Fibre is the basic unit of raw materials used in making yarns. Fibres can be natural (such as cotton, wool, or silk) or synthetic (such as nylon or polyester). They are the building blocks of yarns, which are then used to create fabrics.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73212",
+    "passage": ""
   }
 ]
