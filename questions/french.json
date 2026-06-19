@@ -3763,5 +3763,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71227",
     "passage": ""
+  },
+  {
+    "id": 71228,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.Les couleurs.",
+    "options": {
+      "A": "Blanc",
+      "B": "Jaune",
+      "C": "Orange",
+      "D": "Jour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The options are all colors, such as white (Blanc), yellow (Jaune), orange (Orange), and red (Rouge). However, \"jour\" means day, not a color, making it the odd one out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71228",
+    "passage": ""
   }
 ]
