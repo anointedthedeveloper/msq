@@ -1257,5 +1257,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1378",
     "passage": ""
+  },
+  {
+    "id": 1379,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The set of pollutants that is most likely to be produced when petrol is accidentally spilled on plastic materials and ignited is",
+    "options": {
+      "A": "CO, CO 2 and SO 2",
+      "B": "CO, HCL and SO 2",
+      "C": "CO, CO 2 and HCL",
+      "D": "SO 2 , CO 2 and HCL"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1379",
+    "passage": ""
   }
 ]
