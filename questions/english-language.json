@@ -10139,5 +10139,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4200",
     "passage": ""
+  },
+  {
+    "id": 4201,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question bellow choose the expression or word which best completes each sentence\n:\nI have not seen my housemaster .... the beginning of this session",
+    "options": {
+      "A": "from",
+      "B": "in",
+      "C": "for",
+      "D": "at",
+      "E": "since"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4201",
+    "passage": ""
   }
 ]
