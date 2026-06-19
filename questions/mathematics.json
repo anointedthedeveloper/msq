@@ -3841,5 +3841,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7948",
     "passage": ""
+  },
+  {
+    "id": 7958,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Find the value of α\\(^2\\) + β\\(^2\\) if α + β = 2 and the distance between points (1, α) and (β, 1) is 3 units",
+    "options": {
+      "A": "14",
+      "B": "3",
+      "C": "5",
+      "D": "11"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "PQ = \\(\\sqrt{(β - 1)^{2} + (1 - α)^{2}}\\) 3 = \\(\\sqrt{(β^{2} -2β^{2} + 1 + 1 - 2α + α^{2})}\\) 3 = \\(\\sqrt{(α^{2} + β^{2} - 2α + 2β + 2)}\\) 3 = \\(\\sqrt{(α^{2} + β^{2} - 2(α + β) + 2)}\\) 3 = \\(\\sqrt{(α^{2} + β^{2} - 2 * 2 + 2)}\\) 3 = \\(\\sqrt{(α^{2} + β^{2} - 2)}\\) 9 = \\(α^{2} + β^{2} - 2)\\) \\(α^{2} + β^{2}\\) = 9 + 2 \\(α^{2} + β^{2}\\) = 11\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7958",
+    "passage": ""
   }
 ]
