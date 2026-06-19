@@ -3441,5 +3441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1723",
     "passage": ""
+  },
+  {
+    "id": 1724,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Fermentation is the",
+    "options": {
+      "A": "breaking down of carbohydrate to glucose",
+      "B": "conversion of sugar to alcohol in the presence of yeast",
+      "C": "breaking down of sugar to carbohydrate",
+      "D": "conversion of alcohol to sugar in the presence of yeast"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Microorganisms, such as yeasts, molds, and bacteria, break down organic substances, usually in the absence of oxygen. This process breaks down starch or cellulose chains into individual sugar molecules, which are then fermented into ethanol and carbon dioxide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1724",
+    "passage": ""
   }
 ]
