@@ -6543,5 +6543,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62488",
     "passage": ""
+  },
+  {
+    "id": 62489,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The act of translating data into a secret code is known as?",
+    "options": {
+      "A": "authentication",
+      "B": "authorisation",
+      "C": "encryption",
+      "D": "piracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Encryption – Process of converting electronic data into another form, called ciphertext, which cannot be easily understood by anyone except the authorized parties. This assures data security. While Authentication is the process of determining whether someone or something is who or what they say they are. So OPTION C is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62489",
+    "passage": ""
   }
 ]
