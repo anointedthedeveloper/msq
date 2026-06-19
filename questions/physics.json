@@ -10330,5 +10330,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14341",
     "passage": ""
+  },
+  {
+    "id": 14342,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Two inductors of inductance 5 mll and 15 mll are connected in series and a current of 5A flows through them. the total energy stored in the inductor is?",
+    "options": {
+      "A": "500.0J",
+      "B": "250.0J",
+      "C": "62.5J",
+      "D": "50.0J",
+      "E": "no correct option"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Total inductance,L = L1 + L2 = m 15 + 5 = 20mH = (20)H/1000 1 = 5A Energy of inductor, (1)/2 L I2 = (1)/2 X (20)/1000 X 5-2 = 0.25 J\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14342",
+    "passage": ""
   }
 ]
