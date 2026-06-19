@@ -7401,5 +7401,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62535",
     "passage": ""
+  },
+  {
+    "id": 62536,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The file that contains historical record is called a?",
+    "options": {
+      "A": "data file",
+      "B": "master file",
+      "C": "reference file",
+      "D": "transaction file"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Master Files: Master files are permanent files kept up-to-date by applying the transactions that have occurred during the operation of the business. E.g. customer ledgers, and student databases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62536",
+    "passage": ""
   }
 ]
