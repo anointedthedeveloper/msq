@@ -8482,5 +8482,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9307",
     "passage": ""
+  },
+  {
+    "id": 9308,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "A student spent 1/5 of his allowance on books, 1/2 of remainder on food and kept the rest for contingencies. What fraction was kept?",
+    "options": {
+      "A": "7 / 15",
+      "B": "8 / 15",
+      "C": "2 / 5",
+      "D": "4 / 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Let his allowance = y.\n\\(Books = \\frac{y}{5}\\)\n\\(Remainder: y - \\frac{y}{5} = \\frac{4y}{5}\\)\n\\(Food: \\frac{1}{2} \\times \\frac{4y}{5} = \\frac{2y}{5}\\)\n\\(Contingencies: \\frac{4y}{5} - \\frac{2y}{5} = \\frac{2y}{5}\\)\nTherefore, he kept \\(\\frac{2}{5}\\) of his allowance for contingencies.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9308",
+    "passage": ""
   }
 ]
