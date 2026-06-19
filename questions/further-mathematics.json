@@ -3252,5 +3252,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50513",
     "passage": ""
+  },
+  {
+    "id": 50518,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A 24N force acts on a body such that it changes its velocity from 5m/s to 9m/s in 2 secs.If the body is travelling in a straight line, calculate the distance covered in the period.",
+    "options": {
+      "A": "22m",
+      "B": "18m",
+      "C": "14m",
+      "D": "10m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(a = \\frac{v - u}{t} = \\frac{9 - 5}{2} = 2 ms^{-2}\\)\n\\(s = ut + \\frac{1}{2}at^{2} = 5(2) + \\frac{1}{2}(2 \\times 2^{2})\\)\n= \\(14m\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50518",
+    "passage": ""
   }
 ]
