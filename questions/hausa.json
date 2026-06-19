@@ -6899,5 +6899,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75939",
     "passage": ""
+  },
+  {
+    "id": 75940,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Ma'anar bakake masu murya ita ce -",
+    "options": {
+      "A": "Haruffan kowane lokaci",
+      "B": "Haruffan guda biyu a wuri ɗaya",
+      "C": "Haruffan da ba sa da sauti",
+      "D": "Haruffan da ke da sauti"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Bakake masu murya are voiced consonants - sounds pronounced with vocal cord vibration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75940",
+    "passage": ""
   }
 ]
