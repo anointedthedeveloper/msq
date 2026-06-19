@@ -4953,5 +4953,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2252",
     "passage": ""
+  },
+  {
+    "id": 2253,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The weakest attractive force that can be observed between two molecules is",
+    "options": {
+      "A": "ionic",
+      "B": "covalent",
+      "C": "coordinate covalent",
+      "D": "van der Waals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The weakest attractive force between two molecules is the London dispersion force, also known as an induced dipole-induced dipole attraction. London dispersion forces are a type of van der Waal force, which are weak intermolecular forces that determine the physical and chemical properties of substances\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2253",
+    "passage": ""
   }
 ]
