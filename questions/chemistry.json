@@ -3777,5 +3777,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1739",
     "passage": ""
+  },
+  {
+    "id": 1740,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A compound contains 31.91% potassium, 28.93% chlorine and the rest oxygen. What is the chemical formula of the compound?\n[K = 39, Cl = 35.5, O = 16]",
+    "options": {
+      "A": "KClO 4",
+      "B": "KClO",
+      "C": "KClO 2",
+      "D": "KClO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1740",
+    "passage": ""
   }
 ]
