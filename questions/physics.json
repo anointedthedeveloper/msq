@@ -9805,5 +9805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14299",
     "passage": ""
+  },
+  {
+    "id": 14302,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The density of a certain oil on frying becomes 0.4 kgm\\(^{-3}\\) with the volume of 20m\\(^{3}\\). what will be its initial volume when its initial density is 0.8 kgm\\(^{-3}\\) assuming no loss of oil due to spillage?",
+    "options": {
+      "A": "12m 3",
+      "B": "10m 3",
+      "C": "8m 3",
+      "D": "5m 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Density (D) = \\(\\frac{mass}{volume}\\)\n\\(\\therefore Mass = Density \\times volume\\)\n= \\(0.4 \\times 20 = 8kg\\)\nThe initial volume = \\(\\frac{Mass}{\\text{Initial density}}\\)\n= \\(\\frac{8}{0.8} = 10m^{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14302",
+    "passage": ""
   }
 ]
