@@ -355,5 +355,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49661",
     "passage": ""
+  },
+  {
+    "id": 49666,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "claims paid by insurers in the event of loss is irrecoverable when the?",
+    "options": {
+      "A": "average clause is applied",
+      "B": "sum insured has been exhausted",
+      "C": "sum insured has not been exhausted",
+      "D": "payment is and ex gratia basis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "average clause . is an insurance policy that restricts the amount payable to a sum not to exceed the value of the property destroyed and that bears the same proportion to the loss as the face of the policy does to the value of the property insured",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49666",
+    "passage": ""
   }
 ]
