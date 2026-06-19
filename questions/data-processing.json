@@ -7389,5 +7389,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67158",
     "passage": ""
+  },
+  {
+    "id": 67159,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "(ai) What is a presentation package? (aii) Give two examples of presentation package (aiii) State three features of a presentation package (b) Highlight the steps followed to find and replace data in MS Excel",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(ai) A presentation package is a software program that contains a text editor and the ability to add charts and graphic images, such as photographs, clip art, or other objects so as to make a slide show for the purpose of communicating visually to an audience. (aii) - Microsoft PowerPoint. - Macromedia flash. - Windows movie maker. - Open Office (aiii) - Presentation packages allow you to create or insert slides anywhere in a presentation. - They are shown on a page-by-page basis, where each page of information is called a slide. - Pictures, images, video and audio files can be inserted into slides. - Inserted slides can easily be deleted. - Slides can be cut and pasted in any order. - You can display presentation designed in the slide show systems - Presentation packages allow animations and sound manipulation on objects in a slide (b) - Press Ctrl+H or go to Home > Find & Select > Replace. - In Find what, type the text or numbers you want to find. - You can further define your search: ... - In the Replace with box, enter the text or numbers you want to use to replace the search text. - Select Replace or Replace All",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67159",
+    "passage": ""
   }
 ]
