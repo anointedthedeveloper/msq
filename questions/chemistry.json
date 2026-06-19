@@ -8713,5 +8713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3745",
     "passage": ""
+  },
+  {
+    "id": 3748,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "When calcium oxide is heated with carbon, the oxide will",
+    "options": {
+      "A": "be converted to carbide",
+      "B": "be converted to the trioxocarbonate (IV) salt",
+      "C": "decompose to the metal",
+      "D": "melt, producing carbon (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When calcium oxide (CaO) reacts with carbon (C), it produces calcium carbide (CaC\\(_2\\))and carbon monoxide (CO). This reaction occurs at very high temperatures, around 700°C.\nCaO   +  3C  → CaC\\(_2\\) +   CO\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3748",
+    "passage": ""
   }
 ]
