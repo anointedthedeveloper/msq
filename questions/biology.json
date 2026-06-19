@@ -3826,5 +3826,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1912",
     "passage": ""
+  },
+  {
+    "id": 1913,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Some of the major elements required by plants are",
+    "options": {
+      "A": "Potassium, nitrogen, phosphorus, sodium, calcium",
+      "B": "Nitrogen, phosphorus, molybdenum, sodium, calcium",
+      "C": "Potassium, phosphorus, molybdenum, sodium, calcium",
+      "D": "Potassium, nitrogen, iron , sodium, calcium",
+      "E": "Potassium, nitrogen, phosphorus, silicon, cadmium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1913",
+    "passage": ""
   }
 ]
