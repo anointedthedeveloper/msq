@@ -2774,5 +2774,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58332",
     "passage": ""
+  },
+  {
+    "id": 58351,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "(a) A teacher asked a student to capture and print out a one-slide presentation assignment using, MS Word, showing everything on the screen.\n(i) What keys or combination of keys can be used to carry out this operation?\n(ii) Describe the procedure to be followed by the student in carrying out this assignment using the keyboard.\n(b) A system analyst was hired to set up a computer laboratory for Bofe international School; (i) Mention three hardware devices the analyst would need to set up the laboratory.\n(ii) List three database application packages likely to recommend by the analyst\n(iii) State three Word processing packages likely to be installed\n(c) Complete Table 1 on keyboard shortcuts.\nTable 1",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a)(i) I     :     Print Screen (PrtSc) OR\nCtrl + PrtSc OR Alt + PrtSc\nII    :      Ctrl + V\nIII    :      Ctrl + P\nProcedure to be followed by the students in carrying out the assignment using the keyboard.\n(ii) Step 1: In Microspft PowerPoint \"Print Screen (PrtSc)\" OR Ctrl + PrtSc OR Alt + PrtSc\nStep 2 : Launch Microsoft Word/Open blank document\nStep 3: Press \"Ctrl + V\"/Paste\nStep 4: Press \"Ctrl + P\"\n(b)(i) Hardware devices the analyst would need to set up the laboratory; Monitor, Keyboard, Mouse, Speaker, Printer, Scanner, Inverter, Photocopier, US, System Unit, Network Devices, Router, Hubs, Backup Devices, Power Stabilizers, Modem,Surge Protector, Switches\n(ii) Word Processing packages likely to be installed are; Ami Pro, Applix Word, Atlantis Word Processor, Corel Word Perfect, Emacs, Google Docs, 1A Writer, Kingsoft Writer, Locoscript, Lotus WordPro, Microsoft Write, MS Edit, MS Word, Nisus Writer, Open WordPad/Ntepad, Ordstar, Zoho Writer\n(c)\nS/N Keystrokes Action (i) Ctrl+Enter/Return Page break (ii) Ctrl+F Opens a search or find option (iii) F1 Opens the help screen (iv) Ctrl+F2 Opens a print preview",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58351",
+    "passage": ""
   }
 ]
