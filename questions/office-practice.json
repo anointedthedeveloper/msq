@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66080",
     "passage": ""
+  },
+  {
+    "id": 66082,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The machine that is used to destroy unwanted papers into unreadable pieces is",
+    "options": {
+      "A": "franking machine.",
+      "B": "guillotine machine.",
+      "C": "perforating machine.",
+      "D": "shredding machine."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Shredding machine is a machine that cuts document in to small pieces so that no one can read them. Unwanted documents are fed into the machine and shredded into strips.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66082",
+    "passage": ""
   }
 ]
