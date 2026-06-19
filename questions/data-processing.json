@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57336",
     "passage": ""
+  },
+  {
+    "id": 57353,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In MS Powerpoint, the action of holding down the left mouse key and moving the mouse around the slide would",
+    "options": {
+      "A": "highlight an item",
+      "B": "drag an item",
+      "C": "select an item",
+      "D": "move an item"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Dragging is the term used when we press and hold the left mouse key and move the mouse around the slide. As we drag, a shadow object shows us where the object will land when we release the mouse button.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57353",
+    "passage": ""
   }
 ]
