@@ -394,5 +394,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/124",
     "passage": ""
+  },
+  {
+    "id": 126,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nThe two sprinters were running neck and neck",
+    "options": {
+      "A": "exact level",
+      "B": "very slowly",
+      "C": "very fast",
+      "D": "with their necks together",
+      "E": "together"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "When two people or things are neck and neck , they are so close or similar that it's impossible to tell who's better or winning. It means they are on equal levels on the race",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/126",
+    "passage": ""
   }
 ]
