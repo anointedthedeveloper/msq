@@ -12831,5 +12831,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7304",
     "passage": ""
+  },
+  {
+    "id": 7305,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Given: i. Shoemaker ii. Policeman iii. Fisherman iv. Gardener v.Broker\nThe persons engaged in primary occupation are?",
+    "options": {
+      "A": "i,iii and iv",
+      "B": "iii and iv",
+      "C": "iii and v",
+      "D": "i, ii and v"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The primary production stage of the supply chain encompasses agricultural activities, aquaculture, fisheries, and similar processes resulting in raw food materials. Form the question above, fishing and gardening are the only tasks that falls under primary production",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7305",
+    "passage": ""
   }
 ]
