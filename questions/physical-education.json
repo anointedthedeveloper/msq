@@ -2182,5 +2182,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68231",
     "passage": ""
+  },
+  {
+    "id": 68233,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "A sport where participants should have no means of contact is called ?",
+    "options": {
+      "A": "outdoor games",
+      "B": "indoor games",
+      "C": "non-contact games",
+      "D": "contact games"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A sport where participants should have no means of contact is called non-contact games. These are games where players are not allowed to make physical contact with each other. Examples include tennis, volleyball, and badminton. The aim is to minimize the risk of injury.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68233",
+    "passage": ""
   }
 ]
