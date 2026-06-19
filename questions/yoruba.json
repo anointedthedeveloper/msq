@@ -1747,5 +1747,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73047",
     "passage": ""
+  },
+  {
+    "id": 73048,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "İdàko kóńsónàntì 'y' ni",
+    "options": {
+      "A": "[ ʃ ]",
+      "B": "[ j ]",
+      "C": "[ l ]",
+      "D": "[ f ]"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73048",
+    "passage": ""
+  },
+  {
+    "id": 73049,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "İpàróje wáyé nínú",
+    "options": {
+      "A": "káàbo",
+      "B": "rugi",
+      "C": "Qseèwè",
+      "D": "òsoosè"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73049",
+    "passage": ""
+  },
+  {
+    "id": 73050,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ewo ni orò tí a sèdá?",
+    "options": {
+      "A": "Ilé",
+      "B": "İşe",
+      "C": "Isé",
+      "D": "İwé"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73050",
+    "passage": ""
   }
 ]
