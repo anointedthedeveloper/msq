@@ -14900,5 +14900,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23149",
     "passage": ""
+  },
+  {
+    "id": 23150,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "What must be added to the expression x\\(^2\\) - 18x to make it a perfect square?",
+    "options": {
+      "A": "3",
+      "B": "9",
+      "C": "36",
+      "D": "72",
+      "E": "81"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "x\\(^2\\) - 18x to be a perfect square.\n\\((\\frac{b}{2})^2\\) is added to ax\\(^2\\) + bx + c in order to make it a perfect square.\n\\(x^2 - 18x + (\\frac{-18}{2})^2\\)\n= \\(x^2 - 18x + 81\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23150",
+    "passage": ""
   }
 ]
