@@ -11431,5 +11431,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64122",
     "passage": ""
+  },
+  {
+    "id": 64123,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The delete permission allows one to ____________",
+    "options": {
+      "A": "share music",
+      "B": "delete or remove files and directories",
+      "C": "read files and directories",
+      "D": "modify files and directories"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Delete or remove files. You can delete a permission that is associated with a user account. When you delete a permission, you remove it from use for all user accounts.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64123",
+    "passage": ""
   }
 ]
