@@ -1740,5 +1740,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61414",
     "passage": ""
+  },
+  {
+    "id": 61415,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The figure 2 in the number 1101\\(_2\\) is indicated in MS Word using a feature called",
+    "options": {
+      "A": "superscript",
+      "B": "subscript",
+      "C": "root",
+      "D": "exponentiation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A superscript appears above another piece of text, while a subscript appears underneath another text. Therefore, the correct option is B.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61415",
+    "passage": ""
   }
 ]
