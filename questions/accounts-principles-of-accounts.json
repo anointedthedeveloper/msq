@@ -2455,5 +2455,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5336",
     "passage": ""
+  },
+  {
+    "id": 5394,
+    "subject": "accounts-principles-of-accounts",
+    "exam_type": "JAMB",
+    "exam_year": "1998",
+    "question": "On Ist January, 1993, lobo Company purchased equipment for N18,000. it uses straight-line depreciation with an estimates eight-year useful life and a N2,000 salvage value. On 31st December, 1996, it sells the equipment for N8000. In recording this sales, it should reflect?",
+    "options": {
+      "A": "N10,000 loss",
+      "B": "N2,000 loss",
+      "C": "N4,000 loss",
+      "D": "N8,000 gain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "equipment price = 18000\nsalvage value after 8 years useful life = 2000\nIf in 1996 ( 3 years later) it is sold for 8000, hence we have\n18000 - (2000 x 3 yrs = 6000) = 12000\n12000 - 8000 = 4000\nThis means that the equipment was supposed to have been sold for 12,000 after 3years of usage instead it was sold for 8,000. This shows a N4000 loss",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/accounts-principles-of-accounts/5394",
+    "passage": ""
   }
 ]
