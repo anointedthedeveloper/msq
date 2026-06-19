@@ -16011,5 +16011,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67802",
     "passage": ""
+  },
+  {
+    "id": 67803,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The connection between two or more computers to share resources or allow electronic communication is called ?",
+    "options": {
+      "A": "Connection",
+      "B": "Communication",
+      "C": "Transfer",
+      "D": "Network"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A network consists of two or more computers that are linked together in order to share resources, exchange files or allow electronic communication",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67803",
+    "passage": ""
   }
 ]
