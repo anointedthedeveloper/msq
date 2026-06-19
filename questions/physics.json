@@ -1804,5 +1804,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/2015",
     "passage": ""
+  },
+  {
+    "id": 7244,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A plane sound wave of frequency 85.5Hz and velocity 342ms\n-1\nis reflected from a vertical wall. At what distance from the wall does the wave have antinode?",
+    "options": {
+      "A": "2m",
+      "B": "4m",
+      "C": "1m",
+      "D": "3m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7244",
+    "passage": ""
   }
 ]
