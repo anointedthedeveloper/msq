@@ -11368,5 +11368,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64119",
     "passage": ""
+  },
+  {
+    "id": 64120,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The combination of the arithmetic and logic units, as well as the ______________ unit makes up the central processing unit.",
+    "options": {
+      "A": "input",
+      "B": "memory",
+      "C": "control",
+      "D": "1/0"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The control unit manages and coordinates the operation of a computer system. The ALU is responsible for performing all the arithmetic and bitwise operations. Therefore, both these units combine to form the brain of the computer, ie CPU.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64120",
+    "passage": ""
   }
 ]
