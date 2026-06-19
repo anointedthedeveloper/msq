@@ -1258,5 +1258,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75242",
     "passage": ""
+  },
+  {
+    "id": 75245,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the difference between fine art and applied art?",
+    "options": {
+      "A": "Fine art is decorative; applied art is functional",
+      "B": "Fine art is modern; applied art is ancient",
+      "C": "Fine art is for children; applied art is for adults",
+      "D": "Fine art is expensive; applied art is cheap"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fine art focuses on beauty; applied art blends aesthetics with utility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75245",
+    "passage": ""
   }
 ]
