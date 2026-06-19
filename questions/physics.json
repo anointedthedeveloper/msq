@@ -3379,5 +3379,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11818",
     "passage": ""
+  },
+  {
+    "id": 11828,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "If ray travelling in air is incident on a transparent medium as shown in the diagram, the refractive index of the medium is given as",
+    "options": {
+      "A": "cosα / sinβ",
+      "B": "sinα / sinβ",
+      "C": "cosβ / sinα",
+      "D": "sinβ / sinα"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17666255646_phy200115.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888804/myschool/physics/17666255646_phy200115.jpg",
+    "correct_answer": "A",
+    "explanation": "\\(n = \\frac{sin  i}{sin  r}\\)\n\\(i = 90 - \\alpha\\)\n\\(\\therefore n = \\frac{sin 90 - \\alpha}{sin \\beta}\\)\n⇒ \\(n = \\frac{cos \\alpha}{sin \\beta}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11828",
+    "passage": ""
   }
 ]
