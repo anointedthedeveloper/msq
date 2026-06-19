@@ -9398,5 +9398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77033",
     "passage": ""
+  },
+  {
+    "id": 77034,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following conditions is used to transmit packets over a medium at the same time?",
+    "options": {
+      "A": "Synchronous",
+      "B": "Collision",
+      "C": "Asynchronous",
+      "D": "Contention"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Contention is the correct answer. Contention is a condition that arises when two or more data stations attempt to transmit at the same time over a shared channel, or when two data stations attempt to transmit at the same time through an interconnecting device where there is a single path for data flow.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77034",
+    "passage": ""
   }
 ]
