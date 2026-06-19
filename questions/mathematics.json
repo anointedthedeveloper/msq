@@ -16154,5 +16154,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23206",
     "passage": ""
+  },
+  {
+    "id": 23207,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In the diagram above, |QR| = 12cm and |QS| = 10cm. If ∠PQR = 90°, ∠RSQ = 90° and PSQ is a straight line, find |PS|",
+    "options": {
+      "A": "3.3cm",
+      "B": "4.4cm",
+      "C": "5cm",
+      "D": "5.5cm",
+      "E": "6.6cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/22156435248_wcmath199321.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910115/myschool/mathematics/22156435248_wcmath199321.jpg",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{PQ}{RQ} = \\frac{RQ}{SQ}\\) (Similar triangles)\n\\(\\therefore \\frac{PS + 10}{12} = \\frac{12}{10}\\)\n\\(10 (PS + 10) = 12 \\times 12\\)\n\\(10 PS + 100 = 144 \\implies 10 PS = 44\\)\n\\(PS = 4.4 cm\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23207",
+    "passage": ""
   }
 ]
