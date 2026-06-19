@@ -586,5 +586,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/621",
     "passage": ""
+  },
+  {
+    "id": 626,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "At what frequency would a 10H inductor have a reactance of 2000Ω?",
+    "options": {
+      "A": "π/200Hz",
+      "B": "π/100Hz",
+      "C": "100/πHz",
+      "D": "100πHz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "L",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/626",
+    "passage": ""
+  },
+  {
+    "id": 628,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The core of an efficient transformer should consist of laminated pieces of metal in order to",
+    "options": {
+      "A": "increase the heat produced by increasing the eddy current",
+      "B": "increase the heat produced by reducing the eddy current",
+      "C": "reduce the  heat produced by increasing the eddy current",
+      "D": "reduce the heat produced by reducing the eddy current"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/628",
+    "passage": ""
+  },
+  {
+    "id": 630,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Gamma rays are produced when",
+    "options": {
+      "A": "high velocity electrons are abruptly stopped in metals",
+      "B": "energy changes occur within the nucleus of atoms",
+      "C": "energy changes occur within the electronic structure of atoms",
+      "D": "electrons are deflected in very strong magnetic fields"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/630",
+    "passage": ""
   }
 ]
