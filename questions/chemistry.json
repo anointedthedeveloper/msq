@@ -11065,5 +11065,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4317",
     "passage": ""
+  },
+  {
+    "id": 4318,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Which of the following metals is purified commercially by electrolysis?",
+    "options": {
+      "A": "Zn",
+      "B": "Fe",
+      "C": "Sn",
+      "D": "Cu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Electrolysis is used extensively in metallurgical processes, such as in extraction (electrowinning) or purification (electrorefining) of metals from ores or compounds and in deposition of metals from solution (electroplating).\nCopper is purified by electrolysis . Electricity is passed through solutions containing copper compounds, such as copper(II) sulfate.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4318",
+    "passage": ""
   }
 ]
