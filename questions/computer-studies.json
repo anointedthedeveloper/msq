@@ -20049,5 +20049,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72688",
     "passage": ""
+  },
+  {
+    "id": 72689,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A user observed that a certain file in a removable storage device changed to a shortcut icon. This implies that",
+    "options": {
+      "A": "the file is corrupt.",
+      "B": "the file is shared.",
+      "C": "the removable storage device is corrupt.",
+      "D": "there is a link to the file."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "This can occur when the storage device is corrupt making the file inaccessible and appear as a shortcut icon.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72689",
+    "passage": ""
   }
 ]
