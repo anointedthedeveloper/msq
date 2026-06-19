@@ -2210,5 +2210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71063",
     "passage": ""
+  },
+  {
+    "id": 71064,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "From the lettered A - E, choose the odd one of the options.\nLe football:",
+    "options": {
+      "A": "Le marteau",
+      "B": "Le gardien de but",
+      "C": "Le ballon",
+      "D": "Le maillot"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The odd one out is Le marteau, because a hammer is not a piece of football equipment or a position on the field. The other options - Le maillot (jersey), Le ballon (ball), Le gardien de but (goalkeeper), and L'arbitre (referee) - are all related to football.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71064",
+    "passage": ""
   }
 ]
