@@ -1384,5 +1384,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64268",
     "passage": ""
+  },
+  {
+    "id": 64269,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Desirable health practices include the following except",
+    "options": {
+      "A": "Adequate diet",
+      "B": "Freedom from drugs",
+      "C": "Immunization",
+      "D": "Self-medication"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Self medication is not a desirable health practice rather it is a dangerous health practice as it involves the use of drugs without the prescription of a physician.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64269",
+    "passage": ""
   }
 ]
