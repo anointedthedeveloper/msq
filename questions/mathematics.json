@@ -4639,5 +4639,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8213",
     "passage": ""
+  },
+  {
+    "id": 8214,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Simplify \\(\\frac{1}{\\sqrt{3}+2}\\) in the form \\(a+b\\sqrt{3}\\)",
+    "options": {
+      "A": "2 -√3",
+      "B": "-2 - √3",
+      "C": "2 + √3",
+      "D": "-2 + √3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\frac{1}{\\sqrt{3}+2}\\)\n= \\(\\frac{1}{\\sqrt{3}+2}\\times \\frac{\\sqrt{3} - 2}{\\sqrt{3} - 2}\\)\n= \\(\\frac{\\sqrt{3}-2}{(\\sqrt{3})^{2} -2^{2}}\\)\n= \\(\\frac{\\sqrt{3}-2}{3-4}\\)\n= \\(\\frac{\\sqrt{3}-2}{1}\\) = -\\(\\sqrt{3}+2\\)\n= 2- \\(\\sqrt{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8214",
+    "passage": ""
   }
 ]
