@@ -13545,5 +13545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7353",
     "passage": ""
+  },
+  {
+    "id": 7354,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "An example of a non-insurable risk is?",
+    "options": {
+      "A": "burglary",
+      "B": "speculation",
+      "C": "fire",
+      "D": "accident"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Uninsurable risks are risks that cannot be covered because they are either too probable, too catastrophic, and costly to cover. Risks whose peril cannot be predicted nor estimated are also considered non-insurable.\nEvents such as war, terrorism, and radioactive contamination are also considered non-insurable.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7354",
+    "passage": ""
   }
 ]
