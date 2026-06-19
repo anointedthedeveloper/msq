@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50058",
     "passage": ""
+  },
+  {
+    "id": 50062,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following is not a major reason for political apathy",
+    "options": {
+      "A": "political violence",
+      "B": "unfulfilled political promises",
+      "C": "bad governance",
+      "D": "cross carpeting phenomenon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Most people who are indifferent towards a government and its affairs, do so in most cases due to Lack of trust in governance. When the government  fails to provide good leadership and governance for the country, the level of apathy towards politics and governance will increase.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50062",
+    "passage": ""
   }
 ]
