@@ -2146,5 +2146,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/yoruba/73066",
     "passage": ""
+  },
+  {
+    "id": 73067,
+    "subject": "yoruba",
+    "exam_type": "WAEC",
+    "exam_year": "2008",
+    "question": "Ta ni ó ń se bíi wèrè?",
+    "options": {
+      "A": "Aáyá",
+      "B": "Edun",
+      "C": "Olóko",
+      "D": "Ogbóni"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/yoruba/73067",
+    "passage": ""
   }
 ]
