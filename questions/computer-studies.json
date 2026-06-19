@@ -5565,5 +5565,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62424",
     "passage": ""
+  },
+  {
+    "id": 62425,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "In a database, a primary key is a field which contains?",
+    "options": {
+      "A": "text only",
+      "B": "unique entries",
+      "C": "duplicate values",
+      "D": "numeric value only."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62425",
+    "passage": ""
   }
 ]
