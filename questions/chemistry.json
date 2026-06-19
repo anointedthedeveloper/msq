@@ -5604,5 +5604,68 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2526",
     "passage": ""
+  },
+  {
+    "id": 2527,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Ethanol reacts with excess acidified K\\(_2\\)Cr\\(_2\\)O\\(_7\\) to produce",
+    "options": {
+      "A": "ethanedioic acid",
+      "B": "ethanal",
+      "C": "ethylethanoate",
+      "D": "ethanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When ethanol reacts with excess acidified potassium dichromate, it produces ethanoic. This reaction occurs in two steps:\nEthanol to ethanal : Ethanol is oxidized to ethanal. Ethanal to ethanoic acid : Ethanal is oxidized to ethanoic acid.Potassium dichromate is a strong oxidizing agent. During the reaction, the color changes from orange to green.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2527",
+    "passage": ""
+  },
+  {
+    "id": 2528,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A compound contains 40.0% carbon 6.7% hydrogen and 53.3% oxygen. If the molar mass of the compound is 180, find the molecular formula.\n[H = 1, C = 12, O = 16]",
+    "options": {
+      "A": "CH 2 O",
+      "B": "C 3 H 6 O 3",
+      "C": "C 6 H 12 O 6",
+      "D": "C 6 H 12 O 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2528",
+    "passage": ""
+  },
+  {
+    "id": 2529,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The process by which atoms are rearranged into different molecular structure in the petroleum refining process is referred to as",
+    "options": {
+      "A": "catalytic cracking",
+      "B": "hydrocracking",
+      "C": "polymerization",
+      "D": "reforming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Reforming is a chemical process that changes the molecular structure of hydrocarbons to improve their properties. It's often used to improve the combustion characteristics of low-quality gasoline stocks. Reforming can be done using thermal or catalytic methods.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2529",
+    "passage": ""
   }
 ]
