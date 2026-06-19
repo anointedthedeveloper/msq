@@ -3914,5 +3914,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1916",
     "passage": ""
+  },
+  {
+    "id": 1917,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of these food chains is NOT possible in a forest?",
+    "options": {
+      "A": "Diatom → fly → toad → snake",
+      "B": "Fly → toad → snake→ hawk",
+      "C": "Leaves → antelope → man → lion",
+      "D": "Leaves → caterpillar → bird → lion",
+      "E": "Leaves →goat → man→  lion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Diatoms are an important source of these energy rich molecules that are food for the entire food web, from zooplankton to aquatic insects to fish to whales. They are type of phytoplankton that are typically found in aquatic environments such as ponds, lakes, or oceans. They are not typically found in forests, making this food chain unlikely to occur in the forest ecosystem.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1917",
+    "passage": ""
   }
 ]
