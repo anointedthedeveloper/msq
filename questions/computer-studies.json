@@ -14224,5 +14224,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64798",
     "passage": ""
+  },
+  {
+    "id": 64799,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "A student would require the following devices to online application form except?",
+    "options": {
+      "A": "keyboard",
+      "B": "mouse",
+      "C": "printer",
+      "D": "webcam"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A printer is not needed to fill an online application form, since you may not necessarily need to print, the form is submitted online.You need mouse and keyboard to input your data and webcam to take passport photograph.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64799",
+    "passage": ""
   }
 ]
