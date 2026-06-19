@@ -4202,5 +4202,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76010",
     "passage": ""
+  },
+  {
+    "id": 76011,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following activities is part of the procedure for handling outgoing mails?",
+    "options": {
+      "A": "Stamping",
+      "B": "Opening",
+      "C": "Sorting",
+      "D": "Coding"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Stamping is part of the procedure for handling outgoing mails. It involves affixing postage stamps to the mail to indicate that the postage fee has been paid. Coding, opening, and sorting are typically associated with incoming mail, not outgoing mail.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76011",
+    "passage": ""
   }
 ]
