@@ -2965,5 +2965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71189",
     "passage": ""
+  },
+  {
+    "id": 71190,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Choisissez l'option justeUne personne juste......la justice.",
+    "options": {
+      "A": "passe",
+      "B": "désobéi",
+      "C": "respecte",
+      "D": "donne"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A just person respects justice, rather than disobeying, giving, passing, or refusing it. Therefore, the correct answer is respecte (respects).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71190",
+    "passage": ""
   }
 ]
