@@ -2581,5 +2581,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73296",
     "passage": ""
+  },
+  {
+    "id": 73297,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Pesticides, heavy metals and toxins are classified as ............",
+    "options": {
+      "A": "Additives",
+      "B": "Contaminants",
+      "C": "Disinfectant",
+      "D": "Micro organism"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Pesticides, heavy metals, and toxins are classified as contaminants, which are harmful substances that can pollute food, water, or the environment. Contaminants can be chemical, physical, or biological in nature and can have adverse effects on human health and the environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73297",
+    "passage": ""
   }
 ]
