@@ -8535,5 +8535,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63768",
     "passage": ""
+  },
+  {
+    "id": 63770,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The Great Trek happened in what country?",
+    "options": {
+      "A": "South Africa",
+      "B": "Liberia",
+      "C": "Sierra Leone",
+      "D": "Egypt"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Great Trek, Afrikaans Groot Trek, the emigration of some 12,000 to 14,000 Boers from Cape Colony in South Africa between 1835 and the early 1840s, in rebellion against the policies of the British government and in search of fresh pasturelands.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63770",
+    "passage": ""
   }
 ]
