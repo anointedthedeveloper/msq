@@ -7936,5 +7936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69792",
     "passage": ""
+  },
+  {
+    "id": 69793,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The following precautionary measures are taken against virus infection except",
+    "options": {
+      "A": "downloading e-mail and attachment before scanning it",
+      "B": "avoiding booting the computer with disks in it",
+      "C": "regular updating of antivirus.",
+      "D": "avoiding the installation of piratted software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The precautionary measure downloading e-mail and attachment before scanning it is not taken against virus infection. Here are some precautionary measures that can be taken against virus infection: Regularly updating your antivirus software: This ensures that your antivirus software has the latest virus definitions to protect your computer from new viruses. Avoiding opening suspicious e-mails and attachments: Many viruses are spread through e-mails and attachments. If you receive an e-mail from someone you don't know, or if the e-mail looks suspicious, don't open it. Avoiding installing pirated software: Pirated software often contains viruses. If you don't want to get a virus, only install software from trusted sources. Avoiding booting your computer with disks in it: If you boot your computer with a disk in it, the virus on the disk could infect your computer. Only boot your computer with disks from trusted sources. It is important to note that no single precautionary measure can guarantee that your computer will not be infected with a virus. However, by taking all of these precautions, you can significantly reduce your risk of infection. The precautionary measure of downloading e-mail and attachment before scanning it is not effective because viruses can be embedded in the e-mail or attachment itself. By downloading the e-mail or attachment, you are essentially giving the virus access to your computer. It is better to scan the e-mail or attachment first before downloading it. If the scan finds a virus, you can delete the e-mail or attachment without putting your computer at risk.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69793",
+    "passage": ""
   }
 ]
