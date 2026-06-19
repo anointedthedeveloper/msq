@@ -4437,5 +4437,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58730",
     "passage": ""
+  },
+  {
+    "id": 58731,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A relational database model is designed according to set of rules known as",
+    "options": {
+      "A": "Normalization",
+      "B": "Isolation",
+      "C": "Grouping",
+      "D": "Enumeration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58731",
+    "passage": ""
   }
 ]
