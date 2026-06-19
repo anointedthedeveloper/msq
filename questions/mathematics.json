@@ -12833,5 +12833,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22644",
     "passage": ""
+  },
+  {
+    "id": 22645,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Let J be the set of positive integers, If H = {x: x∈J, x\\(^2\\) < 3 and x ≠ 0}, then",
+    "options": {
+      "A": "H = {1}",
+      "B": "H is an infinite set",
+      "C": "H = {0, 1, 2}",
+      "D": "H = {}",
+      "E": "J ≤ H"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "H = {x: x is a positive integer, x\\(^2\\) < 3 and x \\(\\neq\\) 0}\nH = {1}",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22645",
+    "passage": ""
   }
 ]
