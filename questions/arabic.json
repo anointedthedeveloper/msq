@@ -523,5 +523,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75206",
     "passage": ""
+  },
+  {
+    "id": 75207,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "في أي عام هاجر النبي محمد إلى المدينة؟",
+    "options": {
+      "A": "632",
+      "B": "570",
+      "C": "610",
+      "D": "622"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Hijrah (migration) occurred in 622 AD, marking the start of the Islamic calendar.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75207",
+    "passage": ""
   }
 ]
