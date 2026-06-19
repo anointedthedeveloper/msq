@@ -13667,5 +13667,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23889",
     "passage": ""
+  },
+  {
+    "id": 23890,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A block of material of volume 20cm\n-3\nand density 2.5gcm\n-3\nis suspended from a spring balance with half the volume immersed in water. What is the reading of the spring balance? (Density of water = 1.0gcm\n-3\n).",
+    "options": {
+      "A": "8g",
+      "B": "25g",
+      "C": "30g",
+      "D": "40g",
+      "E": "50g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23890",
+    "passage": ""
   }
 ]
