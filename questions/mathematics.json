@@ -9826,5 +9826,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10413",
     "passage": ""
+  },
+  {
+    "id": 10414,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "How many two-digit numbers can be formed from the digits 0, 1, 2, 3 if a digit can be repeated and no number begins with 0?",
+    "options": {
+      "A": "4",
+      "B": "12",
+      "C": "20"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "We are to form two-digit numbers using the digits 0, 1, 2, 3, with repetition allowed, but the number cannot begin with 0.\n- Tens place (first digit): Cannot be 0 → Possible digits = 1, 2, 3 → 3 choices - Units place (second digit): Can be any of the 4 digits → 0, 1, 2, 3 → 4 choices\nTotal numbers = 3 × 4 = 12",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10414",
+    "passage": ""
   }
 ]
