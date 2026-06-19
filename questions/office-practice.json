@@ -1440,5 +1440,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66501",
     "passage": ""
+  },
+  {
+    "id": 66502,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "An official written message to several people at different destinations on the same subject matter is",
+    "options": {
+      "A": "memo",
+      "B": "letter",
+      "C": "circular",
+      "D": "report"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Circular is essentially a letter containing some important information that is distributed to a large number of people.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66502",
+    "passage": ""
   }
 ]
