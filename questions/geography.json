@@ -1630,5 +1630,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/981",
     "passage": ""
+  },
+  {
+    "id": 982,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The most common tree in the desert is the",
+    "options": {
+      "A": "date",
+      "B": "acacia",
+      "C": "pine",
+      "D": "larch"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/982",
+    "passage": ""
   }
 ]
