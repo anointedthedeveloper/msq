@@ -5023,5 +5023,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75872",
     "passage": ""
+  },
+  {
+    "id": 75873,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Ce livre est __Marie.",
+    "options": {
+      "A": "pour",
+      "B": "à",
+      "C": "par",
+      "D": "chez"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The French preposition \"pour\" means \"for\" someone or something.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75873",
+    "passage": ""
   }
 ]
