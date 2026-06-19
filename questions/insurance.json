@@ -1,0 +1,23 @@
+[
+  {
+    "id": 49604,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "A document issued by an insurer giving temporary protection to the insure is?",
+    "options": {
+      "A": "endorsement",
+      "B": "certificate",
+      "C": "proposal form",
+      "D": "cover note"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "cover note; A cover note is a temporary document issued by an insurance company that provides proof of insurance coverage until a final insurance policy can be issued.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49604",
+    "passage": ""
+  }
+]
