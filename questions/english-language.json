@@ -7235,5 +7235,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3015",
     "passage": ""
+  },
+  {
+    "id": 3016,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : If you .... me that you had run out of petrol, i would have given you some.",
+    "options": {
+      "A": "were to tell",
+      "B": "tell",
+      "C": "have told",
+      "D": "would tell",
+      "E": "had told"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The sentence expresses a past unreal (third) conditional —a situation that did not happen in the past and its imagined result.\nStructure of the third conditional:\nIf + past perfect , would have + past participle",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3016",
+    "passage": ""
   }
 ]
