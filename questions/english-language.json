@@ -7543,5 +7543,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3029",
     "passage": ""
+  },
+  {
+    "id": 3030,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Choose the word or phrase from the option A-E which has the nearest meaning to the underlined word or words in each sentence : The minister hit on a plan to retain his post after many months of lobbying",
+    "options": {
+      "A": "beat a plan",
+      "B": "drew up a plan",
+      "C": "discovered a plan",
+      "D": "selected a plan",
+      "E": "designed a plan"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "''hit on a plan'' in this context means To discover or realize something",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3030",
+    "passage": ""
   }
 ]
