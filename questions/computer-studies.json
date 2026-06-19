@@ -5923,5 +5923,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62442",
     "passage": ""
+  },
+  {
+    "id": 62443,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a) State two BASIC programming keywords.\n(b) Write the following equations in BASIC format:\n(i) I = PRT/100: (ii) Y= AX\\(_2\\) +BX+C; (iii) Y= MX + C\n(c) Write a BASIC program that accepts mass and volume of a liquid as input from the User.\nThe program should compute.and display the density of the liquid. Density = mass volume",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) BASIC programming keywords: REM, LET, END, CLS, INPUT, IF, NEXT, DATS, GOSUB, RETURN, DIM, STOP, GOTO, READ etc.\n(b)(i) I = P*R*T/100\n(ii) Y =A\"X ^2 +B X+C   OR    Y = A*X * X + B* X + C (ii) Y = M * X +C\n(c) A Sample BASIC Program\n10 CLS 20 REM BASIC program to calculate density of a liquid 30 INPUT\n\"Enter the mass of a liquid. MASS 40 REM Computation of values begins\n50 LET DENSITY = MASS/VOLUME\n60 PRINT \"The density of a liquid\":\nDENSITY 70 END/STOP\n10 CLS\n20 REM BASIC program to calculate density of a liquid\n30 INPUT \"MASS\"; M\n40 INPUT \"VOLUME\"; V\n50 LET DENSITY = M/V50\n60 PRINT\"DENSITY =\" DENSITY\n70 END",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62443",
+    "passage": ""
   }
 ]
