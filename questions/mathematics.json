@@ -13625,5 +13625,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22866",
     "passage": ""
+  },
+  {
+    "id": 22867,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "Find the number whose logarithm to base 10 is 2.6025",
+    "options": {
+      "A": "400.4",
+      "B": "0.4004",
+      "C": "0.04004",
+      "D": "0.004004",
+      "E": "0.0004004"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "For the log to be 2.6025, there must be three digits before the decimal point.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22867",
+    "passage": ""
   }
 ]
