@@ -544,5 +544,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/543",
     "passage": ""
+  },
+  {
+    "id": 544,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Find the volume of solid generated when the area enclosed by y = 0, y = 2x, and x = 3 is rotated about the x-axis.",
+    "options": {
+      "A": "81 π cubic units",
+      "B": "36 π cubic units",
+      "C": "18 π cubic units",
+      "D": "9 π cubic units"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(y = 2x \\\\ V = \\int\\pi y^{2}dy \\\\ but\\hspace{1mm}y = 2x \\\\ V = \\int\\pi4x^{2}dx\\\\ V = \\frac{4(3)^{3}\\pi}{3} - \\frac{4(0)^{3}\\pi}{3}\\)\nV = \\(\\frac{4*27\\pi}{3}\\) = 36\\(\\pi \\hspace{1mm}cubic\\hspace{1mm}units\\)\n(Note: the limit of integration x = 0 → x = 3)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/544",
+    "passage": ""
   }
 ]
