@@ -9805,5 +9805,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10411",
     "passage": ""
+  },
+  {
+    "id": 10413,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Tope bought x oranges at N5.00 each and some mangoes at N4.00 each. If she bought twice as many mangoes as oranges and spent at least N65.00 and at most N130.00, find the range of the value of x.",
+    "options": {
+      "A": "4\\(\\leq\\) x \\(\\leq\\) 5",
+      "B": "5\\(\\leq\\) x \\(\\leq\\) 8",
+      "C": "5\\(\\leq\\) x \\(\\leq\\) 10",
+      "D": "8\\(\\leq\\) x \\(\\leq\\) 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Tope bought x oranges at ₦5.00 each and  2x  mangoes at ₦4.00 each.\nTotal amount spent = \\5x + 4(2x) = 5x + 8x = 13x\nGiven:  ₦65.00 ≤ 13x ≤ ₦130.00\nDivide through by 13: 5 \\(\\leq\\) x \\(\\leq\\) 10.\n(or x = 5, 6, 7, 8, 9, 10)\nVerification: - When x = 5: 13 × 5 = ₦65.00 (minimum) - When x = 10: 13 × 10 = ₦130.00 (maximum)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10413",
+    "passage": ""
   }
 ]
