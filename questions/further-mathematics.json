@@ -2874,5 +2874,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50457",
     "passage": ""
+  },
+  {
+    "id": 50459,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(\\alpha\\) and \\(\\beta\\) are the roots of \\(x^{2} + x - 2 = 0\\), find the value of \\(\\frac{1}{\\alpha^{2}} + \\frac{1}{\\beta^{2}}\\).",
+    "options": {
+      "A": "\\(\\frac{5}{4}\\)",
+      "B": "\\(\\frac{3}{4}\\)",
+      "C": "\\(\\frac{1}{4}\\)",
+      "D": "\\(\\frac{-3}{4}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Given, \\(x^{2} + x - 2 = 0\\), a = 1, b = 1 and c = -2.\n\\(\\alpha + \\beta = \\frac{-b}{a} = \\frac{-1}{1} = -1\\)\n\\(\\alpha\\beta = \\frac{c}{a} = \\frac{-2}{1} = -2\\)\n\\(\\frac{1}{\\alpha^{2}} + \\frac{1}{\\beta^{2}} = \\frac{\\beta^{2} + \\alpha^{2}}{(\\alpha\\beta)^{2}}\\)\n\\(\\beta^{2} + \\alpha^{2} = (\\alpha + \\beta)^{2} - 2\\alpha\\beta = (-1)^{2} - 2(-2) = 1 + 4 = 5\\)\n\\(\\frac{1}{\\alpha^{2}} + \\frac{1}{\\beta^{2}} = \\frac{5}{(-2)^{2}} = \\frac{5}{4}\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50459",
+    "passage": ""
+  },
+  {
+    "id": 50460,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Given that \\(x^{2} + 4x + k = (x + r)^{2} + 1\\), find the value of k and r.",
+    "options": {
+      "A": "k = 5, r = -1",
+      "B": "k = 5, r = 2",
+      "C": "k = 2, r = -5",
+      "D": "k = -1, r = 5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(x^{2} + 4x + k = (x + r)^{2} + 1\\)\n\\(x^{2} + 4x + k = x^{2} + 2rx + r^{2} + 1\\)\nComparing the LHS and RHS equations, we have\n\\(2r = 4 \\implies r = 2\\)\n\\(k = r^{2} + 1 = 2^{2} + 1 = 5\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50460",
+    "passage": ""
   }
 ]
