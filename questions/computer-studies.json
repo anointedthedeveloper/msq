@@ -7841,5 +7841,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62556",
     "passage": ""
+  },
+  {
+    "id": 62557,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The command line prompt of MS-DOS operating system is represented as?",
+    "options": {
+      "A": "C:>",
+      "B": "C:\\",
+      "C": "C:\\>",
+      "D": "C\\:>"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62557",
+    "passage": ""
   }
 ]
