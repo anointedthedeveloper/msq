@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/83",
     "passage": ""
+  },
+  {
+    "id": 87,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "One argument against a multi-party system is the",
+    "options": {
+      "A": "encouragement of opposition and instability",
+      "B": "banning of interest groups",
+      "C": "inability to attract foreign assistance",
+      "D": "high cost of conducting elections."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a multi-party system , the presence of many political parties can lead to increased opposition and political instability , as parties may constantly oppose one another and create fragmentation within the political landscape. This can make it difficult to form strong, stable governments and may lead to frequent changes in leadership, which could hinder effective governance.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/87",
+    "passage": ""
   }
 ]
