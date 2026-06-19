@@ -548,5 +548,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/364",
     "passage": ""
+  },
+  {
+    "id": 365,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following lakes owes its origin mainly to faulting?",
+    "options": {
+      "A": "Lake Chad",
+      "B": "Lake Superior",
+      "C": "Lake Malawi",
+      "D": "Lake Victoria",
+      "E": "lake Kariba"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/365",
+    "passage": ""
   }
 ]
