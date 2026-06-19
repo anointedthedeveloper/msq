@@ -570,5 +570,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/490",
     "passage": ""
+  },
+  {
+    "id": 492,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that most suitably fills the space; The employer, not the salesman and his representative .... responsible for the loss",
+    "options": {
+      "A": "are",
+      "B": "are being",
+      "C": "are never",
+      "D": "have been",
+      "E": "is"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The subject of the sentence is \"The employer\" , which is singular. The phrase \"not the salesman and his representative\" is a parenthetical element that does not affect the number of the verb.\n✅ Correct sentence:\nThe employer, not the salesman and his representative, is responsible for the loss.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/492",
+    "passage": ""
   }
 ]
