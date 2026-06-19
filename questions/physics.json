@@ -14679,5 +14679,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24097",
     "passage": ""
+  },
+  {
+    "id": 24098,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "How much heat is given out when a piece of iron of mass 50g and specific heat capacity 460 Jkg\n-1\nk\n-1\ncools from 85\no\nC to 25\no\nC?",
+    "options": {
+      "A": "1.38 x 10 6 J",
+      "B": "2.53x10 4 J",
+      "C": "7.66x10 3 J",
+      "D": "1.38x10 3 J",
+      "E": "1.27 X10 3 J"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24098",
+    "passage": ""
   }
 ]
