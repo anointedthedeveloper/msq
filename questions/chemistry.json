@@ -701,5 +701,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/743",
     "passage": ""
+  },
+  {
+    "id": 745,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If excess zinc is added to a bluish green solution of copper (II) sulphate, and the excess zinc filtered off after completion of reaction, a colourless solution is obtained because",
+    "options": {
+      "A": "both zinc and copper are metals",
+      "B": "the sulphate radical and the zinc ion are divalent",
+      "C": "zinc is more electropositive than copper",
+      "D": "both zinc and copper form depositive ions in solution",
+      "E": "zinc is a reducing agent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Zinc displaces copper from copper sulphate and generates zinc sulphate solution when added to CuSO\\(_4\\) solution because zinc is a more reactive metal that displaces less reactive metal from its solution. This implies Zinc is more electropositive than Copper. The colour change shows it.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/745",
+    "passage": ""
   }
 ]
