@@ -81,5 +81,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/book-keeping/72818",
     "passage": ""
+  },
+  {
+    "id": 72819,
+    "subject": "book-keeping",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The source document used to prepare the purchases day book is?",
+    "options": {
+      "A": "receipt",
+      "B": "invoice",
+      "C": "cash voucher",
+      "D": "bank statement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The invoice is the ultimate form of document for preparing purchase day book.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/book-keeping/72819",
+    "passage": ""
   }
 ]
