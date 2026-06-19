@@ -9313,5 +9313,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62711",
     "passage": ""
+  },
+  {
+    "id": 62712,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Effects of file insecurity include the following except?",
+    "options": {
+      "A": "virus infection.",
+      "B": "file corruption.",
+      "C": "encrypted data",
+      "D": "data loss."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62712",
+    "passage": ""
   }
 ]
