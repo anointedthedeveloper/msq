@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73174",
     "passage": ""
+  },
+  {
+    "id": 73175,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of this is not a method of preserving cassava?",
+    "options": {
+      "A": "Freezing",
+      "B": "Drying",
+      "C": "Smoking",
+      "D": "Canning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Canning is not a common cassava preservation method, as it requires a high-acid environment to prevent bacterial growth. Cassava’s low acidity makes it unsuitable, and canning also needs specialized facilities that are often unavailable in cassava-growing areas.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73175",
+    "passage": ""
   }
 ]
