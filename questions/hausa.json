@@ -4113,5 +4113,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73885",
     "passage": ""
+  },
+  {
+    "id": 73886,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "\"Marin shi aka yi yau da rana.\" Wakilin suna a wannan jimla shi ne",
+    "options": {
+      "A": "aka",
+      "B": "da",
+      "C": "yau",
+      "D": "shi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The pronoun in the sentence \"Marin shi aka yi yau da rana\" is: Answer: shi (Shi is the pronoun, which means \"him\" or \"it\". Aka is an auxiliary verb, da is a preposition, yau means \"yesterday\", and yi means \"to do\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73886",
+    "passage": ""
   }
 ]
