@@ -16242,5 +16242,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67834",
     "passage": ""
+  },
+  {
+    "id": 67835,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The first computer made available for commercial use was",
+    "options": {
+      "A": "UNIVAC",
+      "B": "EDSAC",
+      "C": "Mark-1",
+      "D": "ENIAC"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "On June 14, 1951, the U.S. Census bureau dedicates UNIVAC(Universal Automatic Computer), the first commercially produced electronic digital computer the US.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67835",
+    "passage": ""
   }
 ]
