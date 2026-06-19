@@ -10225,5 +10225,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14335",
     "passage": ""
+  },
+  {
+    "id": 14337,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Which of the following is used for the correction of short sightedness?",
+    "options": {
+      "A": "convex  lens",
+      "B": "concave lens",
+      "C": "convex mirror",
+      "D": "concave mirror"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Concave lens diverges parallel rays of light. A short sighted person has the image formed before the retina,and the rays have to be diverged so that they intersect to form image onto the retina\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14337",
+    "passage": ""
   }
 ]
