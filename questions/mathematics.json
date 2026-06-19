@@ -6025,5 +6025,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8830",
     "passage": ""
+  },
+  {
+    "id": 8831,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Simplify \\((25)^{\\frac{-1}{2}} \\times (27)^{\\frac{1}{3}} + (121)^{\\frac{-1}{2}} \\times (625)^{\\frac{-1}{4}}\\)",
+    "options": {
+      "A": "34 / 55",
+      "B": "9 / 11",
+      "C": "14 / 5",
+      "D": "3 / 275"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "(25)\\(^{\\frac{-1}{2}}\\) x (27)\\(^{\\frac{1}{3}}\\) + (121)\\(^{\\frac{-1}{2}}\\) x (625)\\(^{\\frac{-1}{4}}\\) 5\\(^{2 \\times \\frac{-1}{2}}\\) x 3\\(^{3 \\times \\frac{1}{3}}\\) + 11\\(^{2 \\times \\frac{-1}{2}}\\) x 5\\(^{4 \\times \\frac{-1}{4}}\\) 5\\(^{-1}\\) x 3\\(^1\\) x 11\\(^{-1}\\) x 5\\(^{-1}\\) \\(\\frac{1}{5} \\times \\frac{3}{1} + \\frac{1}{11} \\times \\frac{1}{5}\\) \\(\\frac{3}{5} + \\frac{1}{55} = \\frac{33+1}{55}\\) = \\(\\frac{34}{55}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8831",
+    "passage": ""
   }
 ]
