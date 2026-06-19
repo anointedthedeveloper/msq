@@ -586,5 +586,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73195",
     "passage": ""
+  },
+  {
+    "id": 73196,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "One important factor to consider in the selection of meat for soup is that the",
+    "options": {
+      "A": "Colour should be dull",
+      "B": "Meat should have plenty of fat",
+      "C": "Flesh should be moist",
+      "D": "Meat should have an unpleasant smell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When selecting meat for soup, it's important to choose meat that is moist and has a good balance of fat and lean tissue. This is because the cooking process for soup involves simmering the meat in liquid for an extended period, which can dry out the meat if it's too lean. Moist meat will help keep the soup juicy and flavorful.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73196",
+    "passage": ""
   }
 ]
