@@ -11229,5 +11229,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22165",
     "passage": ""
+  },
+  {
+    "id": 22182,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Abidjan is 4\no\nwest of Accra and on the same circle of latitude. If the radius of this circle of latitude is 6370km, how far is Abidjan west of Accra, correct  to the nearest kilometer? [Take π = 22/7]",
+    "options": {
+      "A": "222km",
+      "B": "445km",
+      "C": "890km",
+      "D": "5005km",
+      "E": "10010km"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "θ / 360 * 2πr = Rcos4 o\n4 / 360 * 40041 / 1 = 445km",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22182",
+    "passage": ""
   }
 ]
