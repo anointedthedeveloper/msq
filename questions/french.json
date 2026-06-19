@@ -2818,5 +2818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71092",
     "passage": ""
+  },
+  {
+    "id": 71093,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Un homme courageux, c'est un homme qui es.......",
+    "options": {
+      "A": "lâche",
+      "B": "laid",
+      "C": "beau",
+      "D": "brave"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is brave. The sentence \"Un homme courageux, c'est un homme qui est...\" means \"A courageous man is a man who is...\". The correct completion is \"brave\", which means \"brave\" or \"courageous\" in French.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71093",
+    "passage": ""
   }
 ]
