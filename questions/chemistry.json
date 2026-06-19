@@ -7705,5 +7705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3271",
     "passage": ""
+  },
+  {
+    "id": 3272,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Which of the following alloys contain iron?",
+    "options": {
+      "A": "Duralumin and steel",
+      "B": "Brass and bronze",
+      "C": "Steel and permalloy",
+      "D": "Soft solder and duralumin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Iron is not a primary component of duralumin, but it is the primary component of steel alloys. Duralumin is primarily an aluminum alloy, while steel is primarily an iron alloy.\nIron is not a primary or defining component of either brass or bronze alloys; brass is primarily a copper-zinc alloy, while bronze is primarily a copper-tin alloy.\nPermalloy is a nickel–iron magnetic alloy, with about 80% nickel and 20% iron content .\nIron is generally not present in soft solder alloys, which are typically composed of tin and lead, or tin with other metals like silver or copper.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3272",
+    "passage": ""
   }
 ]
