@@ -4288,5 +4288,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1933",
     "passage": ""
+  },
+  {
+    "id": 1934,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The parts of the mammalian eye that strongly bend light rays are the",
+    "options": {
+      "A": "cornea and the lens",
+      "B": "cornea and aqueous humour",
+      "C": "cornea and vitreous humour",
+      "D": "lens and aqueous humour",
+      "E": "lens and vitreous humour"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "- The cornea acts as the eye's outermost lens. It functions like a window that controls and focuses the entry of light into the eye . The cornea contributes between 65- 75 percent of the eye's total focusing power. When light strikes the cornea, it bends--or refracts--the incoming light onto the lens.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1934",
+    "passage": ""
   }
 ]
