@@ -8020,5 +8020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3286",
     "passage": ""
+  },
+  {
+    "id": 3287,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Nigerian crude oil is described as light crude because of its",
+    "options": {
+      "A": "low sulphur content",
+      "B": "high natural gas content",
+      "C": "high octane number",
+      "D": "low aliphatic-hydrocarbon content"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct answer is A. Low sulphur content.\nNigerian crude oil is classified as \"light\" crude oil due to its relatively low density and low sulphur content. Light crude oils typically have:\n- API gravity > 31.1° (less dense)\n- Low sulphur content (< 1%)\n- High API gravity indicates a lower density and a higher proportion of lighter hydrocarbons\nCrude oil is called \"light crude\" when it has a low density, meaning it is less viscous and easier to refine, typically indicated by a high American Petroleum Institute (API) gravity value, which signifies that the oil is lighter than water and will float on it; essentially, it contains a higher proportion of lighter hydrocarbon fractions making it more valuable for producing gasoline and other lighter products compared to heavier crude oils.\nCrude oils are said to be sweet because they have low sulphur content.\nThe low sulphur content makes Nigerian crude oil more desirable for refining into petroleum products, as it requires less processing to remove impurities.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3287",
+    "passage": ""
   }
 ]
