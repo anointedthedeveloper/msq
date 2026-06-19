@@ -218,5 +218,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/56",
     "passage": ""
+  },
+  {
+    "id": 59,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "....was not one of the Apostles of Jesus",
+    "options": {
+      "A": "Bartholomew",
+      "B": "Agrippa",
+      "C": "James the son of Alphaeus",
+      "D": "Simon",
+      "E": "Andrew"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agrippa was not one of the original twelve apostles chosen by Jesus. Instead, he was a king mentioned in the New Testament, particularly in Acts 25 and 26. The other names listed (Bartholomew, James the son of Alphaeus, Simon, and Andrew) are apostles chosen by Jesus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/59",
+    "passage": ""
   }
 ]
