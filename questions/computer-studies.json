@@ -1425,5 +1425,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61397",
     "passage": ""
+  },
+  {
+    "id": 61398,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The IF... THEN statement in BASIC is called",
+    "options": {
+      "A": "an assignment statement",
+      "B": "an object",
+      "C": "a class",
+      "D": "a control structure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61398",
+    "passage": ""
   }
 ]
