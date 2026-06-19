@@ -10984,5 +10984,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14401",
     "passage": ""
+  },
+  {
+    "id": 14403,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "A perfect emitter or absorber of radiant energy is a",
+    "options": {
+      "A": "conductor",
+      "B": "black body",
+      "C": "white body",
+      "D": "red body"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14403",
+    "passage": ""
   }
 ]
