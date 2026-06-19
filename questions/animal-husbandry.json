@@ -1655,5 +1655,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49750",
     "passage": ""
+  },
+  {
+    "id": 49752,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Foot and mouth disease in sheep is caused by a",
+    "options": {
+      "A": "bacterium",
+      "B": "fungus",
+      "C": "protozoan",
+      "D": "virus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Foot-and-mouth disease (FMD) is a severe, highly contagious viral disease . The FMD virus causes illness in cows, pigs, sheep , goats, deer, and other animals with divided hooves",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49752",
+    "passage": ""
   }
 ]
