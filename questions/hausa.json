@@ -5178,5 +5178,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73936",
     "passage": ""
+  },
+  {
+    "id": 73937,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Ruwa ya yi awon gaba da wad'annan in ban da",
+    "options": {
+      "A": "Asabari",
+      "B": "Randuna",
+      "C": "Akwatuna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ruwa ya yi awon gaba da wad'annan in bana ... (The flood affected all of these except ... ). Answer: Randuna (the flood did not affect Randuna, earthen pot). The passage states that the flood affected many things, including akwatuna (pots), asabari, gadaje (beds), and katifu (cushon o1 mattress), but not Randuna .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73937",
+    "passage": ""
   }
 ]
