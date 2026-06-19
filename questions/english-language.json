@@ -3561,5 +3561,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1952",
     "passage": ""
+  },
+  {
+    "id": 1953,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the best option to fill the gaps in the following sentences : The prices .... are too high for us",
+    "options": {
+      "A": "you lent me",
+      "B": "you quoted",
+      "C": "you attended",
+      "D": "you gave me",
+      "E": "you want to buy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Quoted in this context means to give someone the estimated price of a job or service. It correctly fills in the gap.\nThe prices you quoted are too high for us",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1953",
+    "passage": ""
   }
 ]
