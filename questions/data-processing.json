@@ -8630,5 +8630,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72344",
     "passage": ""
+  },
+  {
+    "id": 72345,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The URL www.exams.edu.ng represents the website of",
+    "options": {
+      "A": "an examination body",
+      "B": "a Nigerian-based learning institution",
+      "C": "an educational inctitution in Niger",
+      "D": "a research institution in Niger"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The URL www.exams.edu.ng represents the website of an examination body in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72345",
+    "passage": ""
   }
 ]
