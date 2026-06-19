@@ -7936,5 +7936,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14018",
     "passage": ""
+  },
+  {
+    "id": 14020,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "What is the frequency of vibration if the balance wheel of a wrist watch makes 90 revolutions in 25 s?",
+    "options": {
+      "A": "0.01 Hz",
+      "B": "0.04 Hz",
+      "C": "2.27 Hz",
+      "D": "3.60 Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Frequency = (No. of revolutions)/ Time = (90)/25 = 3.6 Hz\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14020",
+    "passage": ""
   }
 ]
