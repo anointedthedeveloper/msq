@@ -7969,5 +7969,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76207",
     "passage": ""
+  },
+  {
+    "id": 76208,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Me yasa Amina ta ki komawa makaranta bayan hutu?",
+    "options": {
+      "A": "Saboda tana da aiki a gida",
+      "B": "Saboda ta yi fushi da malamai",
+      "C": "Saboda ta samu sabon aiki",
+      "D": "Saboda ba ta da kudin komawa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "An bayyana cewa Amina ba ta da kudin komawa makaranta, shi ya sa ta i komawa bayan hutu.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76208",
+    "passage": ""
   }
 ]
