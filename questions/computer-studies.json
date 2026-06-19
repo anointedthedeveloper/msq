@@ -15423,5 +15423,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67770",
     "passage": ""
+  },
+  {
+    "id": 67771,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the function of the escape key ?",
+    "options": {
+      "A": "to shutdown the computer",
+      "B": "to start an application",
+      "C": "to interrupt or cancel the current process or running program",
+      "D": "to delete a file/folder"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Escape key can perform various functions like interrupting or cancelling the current process or running program or close a pop-up window.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67771",
+    "passage": ""
   }
 ]
