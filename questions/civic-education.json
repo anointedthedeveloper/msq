@@ -10223,5 +10223,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/65919",
     "passage": ""
+  },
+  {
+    "id": 65920,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Article 1 of the Universal Declaration of Human Rights (UDHR) states that all human beings",
+    "options": {
+      "A": "have freedom of movement",
+      "B": "are born free and equal",
+      "C": "have the right to recognition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Article 1 of the UDHR provides an explicit declaration of freedom to all human beings. The Declaration recognizes the rights of all human beings, irrespective of their territorial and geographical location.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/65920",
+    "passage": ""
   }
 ]
