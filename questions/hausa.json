@@ -5933,5 +5933,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74039",
     "passage": ""
+  },
+  {
+    "id": 74040,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "Wace jimla ce ba ta d'auke da aikatau?",
+    "options": {
+      "A": "Binta ta haihu",
+      "B": "Akuya ta mutu",
+      "C": "Malam ya tafi",
+      "D": "Kande doguwa ce"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is Kande doguwa ce. The question is asking which sentence does not have a verb (aikatau). Option \"Kande doguwa ce\", is a sentence that describes a state of being, but it does not contain a verb. \"Kande\" is a noun (a type of food), \"doguwa\" is an adjective (sweet), and \"ce\" is a copula (is), but there is no verb in this sentence. The other options all contain verbs: \"mutu\" (die), \"haihu\" (give birth), \"tafi\" (go), and \"karanta\" (read). Therefore, the correct answer is Kande doguwa ce.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74040",
+    "passage": ""
   }
 ]
