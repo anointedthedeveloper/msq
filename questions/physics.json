@@ -12204,5 +12204,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14512",
     "passage": ""
+  },
+  {
+    "id": 14513,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "The diagram above shows a balanced metre bridge, the value of x is",
+    "options": {
+      "A": "75.0 cm",
+      "B": "66.7 cm",
+      "C": "33.3 cm",
+      "D": "25.0 cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/19098223536_phy201036.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891136/myschool/physics/19098223536_phy201036.jpg",
+    "correct_answer": "C",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14513",
+    "passage": ""
   }
 ]
