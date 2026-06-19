@@ -4750,5 +4750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75809",
     "passage": ""
+  },
+  {
+    "id": 75812,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"regarder\" veut dire :",
+    "options": {
+      "A": "ignorer",
+      "B": "observer longuement",
+      "C": "demander",
+      "D": "voir brièvement"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The French verb \"regarder\" means \"to observe attentively\" carefully.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75812",
+    "passage": ""
   }
 ]
