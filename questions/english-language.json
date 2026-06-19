@@ -10931,5 +10931,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4406",
     "passage": ""
+  },
+  {
+    "id": 4407,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "From the alternative provided in the question below select the one which is most appropriately completes the sentence : Town authorities have put up a railing in front of the exits .... people .... out of the stadium and ... straight across the road",
+    "options": {
+      "A": "prevent/ rush/ dashing",
+      "B": "preventing/ rushing/ to dash",
+      "C": "to prevent/ rushing/ dashing",
+      "D": "to prevent/ rush/ dash",
+      "E": "to prevent/ to rush/ dash"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "After “to prevent” , the correct grammatical structure is:\nAlthough “from” is omitted in the options, the verbs must still be in the -ing form :\nrushing dashing\nOnly Option C correctly uses:\nthe infinitive of purpose → to prevent the -ing forms → rushing , dashing",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4407",
+    "passage": ""
   }
 ]
