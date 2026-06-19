@@ -1846,5 +1846,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50141",
     "passage": ""
+  },
+  {
+    "id": 50143,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The active involvement of people in the decision-making process in a state indicates political",
+    "options": {
+      "A": "indoctrination",
+      "B": "participation",
+      "C": "struggle",
+      "D": "apathy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Political participation is any activity that shapes, affects, or involves the political sphere. Political participation ranges from voting to attending a rally to committing an act of terrorism to sending a letter to a representative.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50143",
+    "passage": ""
   }
 ]
