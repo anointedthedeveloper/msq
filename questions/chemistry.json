@@ -1551,5 +1551,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1463",
     "passage": ""
+  },
+  {
+    "id": 1465,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The salt that reacts with dilute hydrochloric acid to produce a pungent smelling gas which decolourizes acidified purple potassium tetraoxomanganate (VII) solution is",
+    "options": {
+      "A": "Na 2 SO 4",
+      "B": "Na 2 SO 3",
+      "C": "Na 2 S",
+      "D": "Na 2 CO 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1465",
+    "passage": ""
   }
 ]
