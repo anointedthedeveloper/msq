@@ -1509,5 +1509,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73661",
     "passage": ""
+  },
+  {
+    "id": 73662,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "'Malam ya sayi mota shudiya jiya'. Fito da sifa daga wannan jimlar.",
+    "options": {
+      "A": "Shud'iya",
+      "B": "Jiya",
+      "C": "Mota",
+      "D": "Malam"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The adjective in the sentence \"Malam ya sayi mota shudiya jiya\" is: Answer: Shud'iya (Shud'iya is the adjective modifying the noun mota, meaning \"new\". Jiya means \"yesterday\", Malam is the subject, mota means \"car\", and sayi means \"to buy\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73662",
+    "passage": ""
   }
 ]
