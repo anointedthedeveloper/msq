@@ -6172,5 +6172,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8854",
     "passage": ""
+  },
+  {
+    "id": 8867,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram above, POQ is a diameter of the circle PQRS. If ∠PSR = 145°, find x°",
+    "options": {
+      "A": "55 o",
+      "B": "45 o",
+      "C": "35 o",
+      "D": "25 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/10847944560_math200632.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868593/myschool/mathematics/10847944560_math200632.jpg",
+    "correct_answer": "A",
+    "explanation": "∠PSQ = 90° (∠ in semi circle) ∠PSQ + ∠QSR = 145° 90 + ∠QSR = 145 ∠QSR = 145 - 90 ∠QSR = 55° BUt x° = ∠QSR (∠s in the same segment) ∴x° = 55°\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8867",
+    "passage": ""
   }
 ]
