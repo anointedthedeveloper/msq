@@ -4178,5 +4178,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1928",
     "passage": ""
+  },
+  {
+    "id": 1929,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Refrigeration, as a method of preservation, has ONE of the following characteristics:",
+    "options": {
+      "A": "Kills all the bacteria",
+      "B": "Kill most of the bacteria",
+      "C": "Makes the bacteria inactive",
+      "D": "Dries food",
+      "E": "Hydrolyses food"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1929",
+    "passage": ""
   }
 ]
