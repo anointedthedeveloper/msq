@@ -4051,5 +4051,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12266",
     "passage": ""
+  },
+  {
+    "id": 12267,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The length of piece of glass block was measured by means of a vernier calliper as shown above. The length of the glass block is",
+    "options": {
+      "A": "1.63 cm",
+      "B": "1.64 cm",
+      "C": "1.65 cm",
+      "D": "1. 66 cm"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/3U1m09WQyCYIdAbu4BHwUNXJrs3ZV4R4AjjUBH5A.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781889046/myschool/physics/3U1m09WQyCYIdAbu4BHwUNXJrs3ZV4R4AjjUBH5A.png",
+    "correct_answer": "B",
+    "explanation": "The length of the glass block  = The main scale reading of the vernier calliper + the vernier scale reading\n= 1.6 + 0.04 = 1.64cm.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12267",
+    "passage": ""
   }
 ]
