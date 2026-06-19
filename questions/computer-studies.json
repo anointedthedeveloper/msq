@@ -12061,5 +12061,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64319",
     "passage": ""
+  },
+  {
+    "id": 64320,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "What is the etiquette one should follow while working online?",
+    "options": {
+      "A": "Anything goes . . . providing he/she remains anonymous",
+      "B": "Netflix",
+      "C": "Netiquette",
+      "D": "Piracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Netiquette, which is a portmanteau of \"net\" and \"etiquette,\" refers to using courtesy and politeness when communicating with others online.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64320",
+    "passage": ""
   }
 ]
