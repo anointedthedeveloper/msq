@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/catering-craft-practice/57419",
     "passage": ""
+  },
+  {
+    "id": 57442,
+    "subject": "catering-craft-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "What is menu ?",
+    "options": {
+      "A": "The food ordered by a customer",
+      "B": "A list of delicacies in a restaurant",
+      "C": "A list of available foods and their prices",
+      "D": "The special delicacy of  the day"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/catering-craft-practice/57442",
+    "passage": ""
   }
 ]
