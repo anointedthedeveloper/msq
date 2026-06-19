@@ -3757,5 +3757,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7844",
     "passage": ""
+  },
+  {
+    "id": 7845,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Find the number of committees of three that can be formed consisting of two men and one woman from four men and three women",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "18",
+      "D": "24"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(^{4}C_2 \\times ^{3}C_1\\)\n= \\(\\left(\\frac{4!}{(4-2)!2!}\\right)\\times\\left(\\frac{3!}{(3-1)!1!}\\right)\\)\n= \\(\\frac{4!}{2!2!}\\times \\frac{3!}{2!}\\)\n= \\(\\frac{4 \\times 3 \\times 2!}{2 \\times 1 \\times 2!} \\times \\frac{3 \\times 2!}{2!} = 18\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7845",
+    "passage": ""
   }
 ]
