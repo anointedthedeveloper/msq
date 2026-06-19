@@ -9797,5 +9797,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77066",
     "passage": ""
+  },
+  {
+    "id": 77067,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Excel worksheet version 8 has how many columns?",
+    "options": {
+      "A": "65,535",
+      "B": "65,534",
+      "C": "65,536",
+      "D": "65,533"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "version 8.0 through 11.0 could handle 64K (216 = 65536) rows and 256 columns",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77067",
+    "passage": ""
   }
 ]
