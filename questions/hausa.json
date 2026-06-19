@@ -7256,5 +7256,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75966",
     "passage": ""
+  },
+  {
+    "id": 75967,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wa ne ya taka rawa wajen kirkira tsarin rubutun Hausa na zamani?",
+    "options": {
+      "A": "Malaman Larabci",
+      "B": "Manoman Arewa",
+      "C": "Daliban makarantun boko",
+      "D": "Mishinoni na Biritaniya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "British missionaries played a major role in the development and standardisation of Hausa orthography using Roman letters.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75967",
+    "passage": ""
   }
 ]
