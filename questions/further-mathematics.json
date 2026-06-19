@@ -2140,5 +2140,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50410",
     "passage": ""
+  },
+  {
+    "id": 50411,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find the equation of the line which passes through (-4, 3) and parallel to line y =  2x + 5.",
+    "options": {
+      "A": "y = 2x + 11",
+      "B": "y = 3x - 5",
+      "C": "y = 2x - 11"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The gradient of the line y = 2x + 5 ;\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2\\)\n\\(\\frac{y - 3}{x - (-4)} = \\frac{y-3}{x+4} = 2\\)\n\\(y - 3 = 2(x + 4) \\implies y = 2x + 11\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50411",
+    "passage": ""
   }
 ]
