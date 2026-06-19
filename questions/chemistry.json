@@ -8650,5 +8650,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3740",
     "passage": ""
+  },
+  {
+    "id": 3741,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "If the heat of combustion of hydrogen is -285.8kJ, What is the heat of formation of water?",
+    "options": {
+      "A": "+571.6 kJ",
+      "B": "-571.6 kJ",
+      "C": "-285.8 kJ",
+      "D": "+285.8 kJ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Heat of combustion (ΔH°c) is the energy released when a substance is burnt in oxygen.\nThe heat of formation (ΔH°f) is the energy released or absorbed when a substance is formed from its constituent elements.\nThe chemical equation is    H\\(_2\\)   +  1/2 O\\(_2\\)  →  H\\(_2\\)O\nSince the heat of formation of H\\(_2\\)  is zero (ΔHf(H\\(_2\\) ) = 0 kJ/mol), and the heat of combustion of H\\(_2\\)  is -285.8 kJ/mol, we can use the following relationship:\nΔHc(H\\(_2\\) ) = ΔHf( H\\(_2\\)O) - ΔHf(H\\(_2\\) )\nRearrange to solve for ΔHf( H\\(_2\\)O):\nΔHf( H\\(_2\\)O) = ΔHc(H\\(_2\\) ) + ΔHf(H\\(_2\\) )\n= -285.8 kJ/mol + 0 kJ/mol\n= -285.8 kJ/mol\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3741",
+    "passage": ""
   }
 ]
