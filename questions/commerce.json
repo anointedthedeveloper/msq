@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/184",
     "passage": ""
+  },
+  {
+    "id": 185,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "Goods discharged from ships on which import duties have not been paid are kept in the",
+    "options": {
+      "A": "ordinary warehouse",
+      "B": "public warehouse",
+      "C": "private warehouse",
+      "D": "bonded warehouse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/185",
+    "passage": ""
   }
 ]
