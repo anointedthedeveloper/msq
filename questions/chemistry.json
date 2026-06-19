@@ -1152,5 +1152,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/839",
     "passage": ""
+  },
+  {
+    "id": 840,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The method that can be used to convert hard water to soft water is",
+    "options": {
+      "A": "chlorination",
+      "B": "passage over activated charcoal",
+      "C": "the use of an ion-exchange resin",
+      "D": "aeration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Ion-exchange resins(small, porous beads that have a fixed negative charge) are commonly used to convert hard water to soft water by replacing calcium and magnesium ions (which cause hardness) with sodium or potassium ions.\nWhen hard water passes through the resin beads, the calcium and magnesium ions are attracted to the negatively charged resin and displace the sodium or potassium ions that were originally attached. The water that flows out of the resin bed is now \"softened\" because it contains sodium or potassium ions instead of calcium and magnesium ions.\nAfter a period of time, the resin beads become saturated with calcium and magnesium ions and need to be \"regenerated\". This is done by flushing the resin bed with a concentrated salt solution (sodium chloride), which displaces the calcium and magnesium ions and allows the resin to be recharged with sodium ions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/840",
+    "passage": ""
   }
 ]
