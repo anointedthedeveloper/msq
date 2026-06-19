@@ -19356,5 +19356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72610",
     "passage": ""
+  },
+  {
+    "id": 72611,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "MS Access is an example of",
+    "options": {
+      "A": "Word processing package.",
+      "B": "spreadsheet application.",
+      "C": "graphic software.",
+      "D": "database management system."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "D: (database management system) MS Access is an example of database management system. Other examples include MySQL, Oracle, MongoDB.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72611",
+    "passage": ""
   }
 ]
