@@ -7357,5 +7357,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67156",
     "passage": ""
+  },
+  {
+    "id": 67157,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "(a) Define information transmission (bi) Differentiate between internet and intranet (ii) Differentiate between LAN and WAN (c) List four devices used in a LAN environment",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Information transmission is the exchange of information in any form ( e.g voice, data, text and images) over a medium (air, cable ,water ,) using natural, or man- made equipment or tools. (bi)\nInternet Intranet The Internet is a huge network that connects computer networks across the world. It uses the Internet protocol suite (TCP/IP) An intranet is a network connection similar to the internet but it is limited by the users within an organization. It can include several LANs or leased lines in the wide-area network. The internet enables the exchange of a huge amount of (unlimited) information between connected users. It enables the exchange of limited information between limited and authorized people of a particular firm. It provides access to all types of information. The intranet has all the information, resources, programs, events, and more related to a company. It is a public network. It is a private network The internet has multiple users. Anyone can access it. The intranet has limited users. Only certain people with login credentials are authorized to use Intranet. The Internet consists of several intranets. It is like a part of the Internet. It is a wide and insecure network. The Internet is a global network with low privacy. There is the possibility of leaks of data and information. An intranet is a limited and secure network. It has a pre-installed firewall that protects the privacy of the firm against unauthorized access or hackers.\n(bii)\nLAN WAN LAN stands for Local Area Network WAN stands for Wide Area Network. LAN's ownership is private. WAN's ownership can be private or public. The speed of LAN is high(more than WAN) The speed of WAN is slower than LAN. The propagation delay is short in LAN. Whereas the propagation delay in WAN is long(longer than LAN) LAN operates on the principle of broadcasting. WAN works on the principle of point-to-point. LANs technologies are used like ethernet and tokens. WAN technologies are used like Frame Relay and X.25 for connectivity for longer distances.\n(c) - Hub - Bridge - Layer 2 Switch - Layer 2 Switch - Router",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67157",
+    "passage": ""
   }
 ]
