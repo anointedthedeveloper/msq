@@ -2959,5 +2959,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11269",
     "passage": ""
+  },
+  {
+    "id": 11270,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The diagram above shows a magnet X with its south pole moved along a soft - iron bar PQ in the direction shown. After some time, the poles at P and Q respectively are",
+    "options": {
+      "A": "North - North",
+      "B": "North - South",
+      "C": "South - North",
+      "D": "South - South"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14944669817_phy199932.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781888587/myschool/physics/14944669817_phy199932.jpg",
+    "correct_answer": "B",
+    "explanation": "When a magnet is moved near a ferromagnetic material like soft iron, it induces magnetism in the material. The end closer to the magnet becomes the opposite pole.\nIn this scenario, the south pole of the magnet X approaches point P. Point P becomes a north pole to repel the south pole, while the opposite end (Q) becomes a south pole.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11270",
+    "passage": ""
   }
 ]
