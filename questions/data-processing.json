@@ -6185,5 +6185,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62614",
     "passage": ""
+  },
+  {
+    "id": 62615,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The use of the internet to perform illegal activities is generally called",
+    "options": {
+      "A": "cyber crime",
+      "B": "packet sniffing",
+      "C": "phishing",
+      "D": "spamming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cybercrime can be defined as “The illegal usage of any communication device to commit or facilitate in committing any illegal act”. Examples are Phishing and Scam, Identity Theft, Hacking/Misusing Computer Networks, and Internet Fraud.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/62615",
+    "passage": ""
   }
 ]
