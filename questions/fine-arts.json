@@ -1006,5 +1006,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48064",
     "passage": ""
+  },
+  {
+    "id": 48065,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "A work of art is successful if the",
+    "options": {
+      "A": "elements are well organized",
+      "B": "colours are sharp",
+      "C": "surface is bright",
+      "D": "work is monumental"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48065",
+    "passage": ""
   }
 ]
