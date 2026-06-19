@@ -8566,5 +8566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3736",
     "passage": ""
+  },
+  {
+    "id": 3737,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The solution that will conduct the highest amount of electricity is?",
+    "options": {
+      "A": "0.5 mol dm -3 of hydrochloric acid",
+      "B": "2.0 mol dm -3 of hydrochloric acid",
+      "C": "0.5 mol dm -3 ethanoic acid",
+      "D": "2.0 mol dm -3 ethanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is B. 2.0M of HCl.\nHere's why:\n- HCl (hydrochloric acid) is a strong acid, which means it completely dissociates in water to produce H\\(^+\\) ions and Cl\\(^-\\) ions.\n- The concentration of HCl is directly related to its ability to conduct electricity. A higher concentration of HCl means more ions are available to carry electrical charge.\n- Between options A and B, the 2.0M HCl solution has a higher concentration of ions, making it a better conductor of electricity.\nEthanoic acid (CH\\(_3\\)COOH), on the other hand, is a weak acid, which means it only partially dissociates in water. As a result, it produces fewer ions and is a poorer conductor of electricity compared to HCl.\nSo, even though option D has a higher concentration of ethanoic acid, it still won't conduct as much electricity as the 2.0M HCl solution.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3737",
+    "passage": ""
   }
 ]
