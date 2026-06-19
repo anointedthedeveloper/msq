@@ -3561,5 +3561,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/1796",
     "passage": "From the novel; Kongi's Harvest"
+  },
+  {
+    "id": 1797,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Drama is essentially different from poetry because",
+    "options": {
+      "A": "always involve many characters",
+      "B": "exist mainly in action",
+      "C": "uses elevated language",
+      "D": "uses localized imagery",
+      "E": "deals with tragic experience"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Drama is different from poetry because it is primarily meant to be performed. It relies on action, dialogue and stage direction to convey meaning. Unlike poetry, which often focuses on language, imagery and emotions, drama unfolds through the interaction of characters on stage or screen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/1797",
+    "passage": ""
   }
 ]
