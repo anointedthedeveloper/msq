@@ -15273,5 +15273,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24152",
     "passage": ""
+  },
+  {
+    "id": 24153,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Birds can perch safely on overhead electric power cables without being electrocuted because",
+    "options": {
+      "A": "birds can withstand high p.d. of the electric power cables",
+      "B": "any accumulated charge on the birds is quickly dissipated",
+      "C": "the feet of the birds are well insulated",
+      "D": "the current is a.c. and has particular direction",
+      "E": "there is no p.d between the birds and the cables"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "A bird remains safe on a single wire because it has only one point of contact, keeping it at a single electrical potential. However, if the bird touches another object with a different potential, it would complete a path to the ground, resulting in severe electric shock or electrocution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24153",
+    "passage": ""
   }
 ]
