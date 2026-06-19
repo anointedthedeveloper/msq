@@ -9196,5 +9196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3841",
     "passage": ""
+  },
+  {
+    "id": 3844,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "What is the volume of oxygen required to burn complete 45 cm\\(^3\\) of methane at s.t.p?",
+    "options": {
+      "A": "135.0 cm 3",
+      "B": "180.0 cm 3",
+      "C": "45.0 cm 3",
+      "D": "90.0 cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "CH\\(_4\\)(g) + 2O\\(_2\\)(g) → 2H\\(_2\\)O(g) + CO\\(_2\\)(g)\nFirst, ensure the chemical equation is balanced, stoichiometrically.\ni.e CH\\(_4\\) reacts with  2O\\(_2\\) in ratio 1 : 2\nIf          1 mole of CH\\(_4\\) reacts with 2 moles of O\\(_2\\)\nThen   45 cm\\(^3\\) CH\\(_4\\) react with X cm\\(^3\\) O\\(_2\\)\ni.e     1cm\\(^3\\) = 2cm\\(^3\\)\n45cm\\(^3\\)= X cm\\(^3\\)\nX = 45 x 2 = 90 cm\\(^3\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3844",
+    "passage": ""
   }
 ]
