@@ -1782,5 +1782,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73766",
     "passage": ""
+  },
+  {
+    "id": 73767,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Họpụta nke bụ 55 n'Igbo. Iri ise",
+    "options": {
+      "A": "ise",
+      "B": "ọtụt",
+      "C": "ise na ise ise",
+      "D": "na ise"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The question is asking for the Igbo translation of \"55\". In Igbo language, 55 is translated as \"Na iri ise na ise\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73767",
+    "passage": ""
   }
 ]
