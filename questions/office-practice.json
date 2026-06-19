@@ -796,5 +796,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66150",
     "passage": ""
+  },
+  {
+    "id": 66153,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Formal meeting held by the directors of an organization to consider policy issues is",
+    "options": {
+      "A": "statutory meeting",
+      "B": "general meeting",
+      "C": "board meeting",
+      "D": "committee meeting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Board meeting is a formal meeting held by the board of directors of an organisation to consider policy issues.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66153",
+    "passage": ""
   }
 ]
