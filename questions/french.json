@@ -2902,5 +2902,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71096",
     "passage": ""
+  },
+  {
+    "id": 71097,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Tu (prendre) un cours de musique.",
+    "options": {
+      "A": "prend",
+      "B": "prenez",
+      "C": "prennent",
+      "D": "prends"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is prends The correct sentence would be: \"Tu prends un cours de musique.\" Which translates to \"You take a music course.\" The subject of the sentence is \"Tu\" (you), which is a second person singular pronoun, so the verb \"prendre\" must be conjugated in the second person singular form, which is \"prends\". Here's a breakdown of the other options: prend (third person singular, \"he/she/it takes\") prenez (second person plural, \"you take\" - formal or plural form) prennent (third person plural, \"they take\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71097",
+    "passage": ""
   }
 ]
