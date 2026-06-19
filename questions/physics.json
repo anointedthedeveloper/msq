@@ -481,5 +481,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/594",
     "passage": ""
+  },
+  {
+    "id": 596,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Steel is more suitable for permanent magnet than iron because the former",
+    "options": {
+      "A": "is easily demagnetized by shaing vigorously",
+      "B": "is an alloy of many metals",
+      "C": "is easily magnetized by alternating current through one cycle",
+      "D": "retains magnetism more than iron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/596",
+    "passage": ""
   }
 ]
