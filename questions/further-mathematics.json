@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50120",
     "passage": ""
+  },
+  {
+    "id": 50123,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Simplify \\(\\frac{1}{(1-\\sqrt{3})^{2}}\\)",
+    "options": {
+      "A": "\\(1- \\frac{1}{2}\\sqrt{3}\\)",
+      "B": "\\(1+ \\frac{1}{2}\\sqrt{3}\\)",
+      "C": "\\(\\sqrt{3}\\)",
+      "D": "\\(1+\\sqrt{3}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{1}{(1-\\sqrt{3})^{2}}\\)\n\\((1-\\sqrt{3})^{2} = (1-\\sqrt{3})(1-\\sqrt{3})\\)\n\\(1 - 2\\sqrt{3} + 3 = 4 - 2\\sqrt{3}\\)\n\\(\\frac{1}{4-2\\sqrt{3}}\\)\nAfter rationalising (multiplying the denominator and numerator with \\(4+2\\sqrt{3}\\), we have\n\\(\\frac{4+2\\sqrt{3}}{4} = 1 + \\frac{1}{2}\\sqrt{3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50123",
+    "passage": ""
   }
 ]
