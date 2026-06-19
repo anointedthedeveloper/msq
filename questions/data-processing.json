@@ -1806,5 +1806,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57847",
     "passage": ""
+  },
+  {
+    "id": 57955,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "(a)(i) With the aid of a simple diagram, explain information transmission.\n(ii) Give one example of information transmission.\n(b) Give one example of each of the following;\n(i)single user single tasking operating system.\n(ii) single user multitasking operating system.\n(iii) multi user operating system.\n(c) List four features of a Graphical User Interface.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "3(a)(i)\nInformation transmission is the process of sending information from one point to another through a channel.\n(ii) Example; Printing of document; classroom instruction, receiving radio signals; DSTV signals, Telegraph, GSM, Photography, Fascimile, Town Crying, Smoke Message, Use of Birds, Story Telling, Signs/Signals, Internet, Satellite signals, Blowing Horns, Drum Beating, Fire lightening e.t.c\n(b) (i) DOS, OS 2, PC-DOS,Palm.\n(ii) MS Windows, Mac-OS, Linux.\n(iii) Xenix, Zenix, Unix, Linux, Mac OS, VMS, Mainframe OS.\n(c) Features of a Graphical User Interface (GUI) are; Windows, Icons, Menus, Pointing device (mouse).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57955",
+    "passage": ""
   }
 ]
