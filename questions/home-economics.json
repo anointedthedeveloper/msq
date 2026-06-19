@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73248",
     "passage": ""
+  },
+  {
+    "id": 73249,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The safest way of keeping one's daily sales is by",
+    "options": {
+      "A": "Depositing it at the bank",
+      "B": "Putting it under the sewing machine",
+      "C": "Giving it to mother for safe keeping",
+      "D": "Keeping it in an envelope"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Depositing daily sales in a bank is the safest way to keep money secure. Banks provide:\ni) Strong security systems (alarms, cameras, vaults) ii) Insurance for deposits iii) Controlled access and authentication iv) Regular audits and accurate records\nThis keeps your money safe from loss, theft, or damage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73249",
+    "passage": ""
   }
 ]
