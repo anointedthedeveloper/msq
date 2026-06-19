@@ -2140,5 +2140,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2868",
     "passage": ""
+  },
+  {
+    "id": 2869,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "If\n6\nP\nr\n= 6, find the value of\n6\nP\nr+1",
+    "options": {
+      "A": "30",
+      "B": "33",
+      "C": "35",
+      "D": "15"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2869",
+    "passage": ""
   }
 ]
