@@ -834,5 +834,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/350",
     "passage": ""
+  },
+  {
+    "id": 351,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In a breeding program a cross was made between two true breeding cow-pea types: one with round seeds and the other with wrinkled seed. If roundness is dominant why wrinkleness is recessive, in the first filial generation all the seeds produced will be",
+    "options": {
+      "A": "25% wrinkled, 75% round",
+      "B": "100% wrinkled",
+      "C": "50% wrinkled, 50% round",
+      "D": "75% wrinkled, 25% round",
+      "E": "100% round"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Owing to the dominance of roundness, the crossing of the two seeds regularly would see all the offsprings having mixed genes but will be round.\nLet RR = round seeds while RR = wrinkled seed\nIn the first filial generation, if we cross RR x rr\nWe'll have  Rr, Rr, Rr, Rr\nRemember that RR is dominant while rr is recessive\nTherefore, All the four offsprings will be Dominant Round i.e 100% Round",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/351",
+    "passage": ""
   }
 ]
