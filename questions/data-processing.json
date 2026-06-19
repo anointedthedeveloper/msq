@@ -7915,5 +7915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69791",
     "passage": ""
+  },
+  {
+    "id": 69792,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A digital platform for the delivery of public sector information and seminar to citizens is called",
+    "options": {
+      "A": "e-library",
+      "B": "e-commerce",
+      "C": "e-learning",
+      "D": "e-government"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A digital platform for the delivery of public sector information and seminars to citizens is called e-government. E-government refers to the use of digital technology to provide government services, information, and communication to the public. It encompasses various online services, information dissemination, and interactions between the government and citizens through digital means. E-library, e-commerce, and e-learning are related terms but refer to different concepts: online libraries, online commerce, and online learning, respectively.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69792",
+    "passage": ""
   }
 ]
