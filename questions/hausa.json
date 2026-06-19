@@ -4653,5 +4653,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73911",
     "passage": ""
+  },
+  {
+    "id": 73912,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Duk wad'annan misalam kalmomi umurtau ne in ban da.",
+    "options": {
+      "A": "kwanta",
+      "B": "d'azu",
+      "C": "tafi",
+      "D": "tashi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct answer is A. d'azu. The question is asking which of the options is not an imperative (umurtau) verb. D'azu is a verb in the prohibitive form, meaning \"don't go\" or \"don't do\", whereas the other options - kwanta (lie down), tafi (go), tashi (stand up), and zauna (sit down) - are all imperative verbs, used to give commands or instructions. Therefore, the correct answer is A. d'azu, as it is the only prohibitive verb among the options.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73912",
+    "passage": ""
   }
 ]
