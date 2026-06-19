@@ -12941,5 +12941,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21236",
     "passage": ""
+  },
+  {
+    "id": 21238,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A transparent rectangular block 5.0cm thick is placed on a black dot. The dot when viewed from above is seem 3.0cm from the top of the block calculate the refractive index of the material of the block.",
+    "options": {
+      "A": "2/5",
+      "B": "3/5",
+      "C": "3/2",
+      "D": "5/3",
+      "E": "5/2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "refractive index = real depth ÷ apparent depth\n→ 5 ÷ 3\nn = 5/3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21238",
+    "passage": ""
   }
 ]
