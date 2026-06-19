@@ -3738,5 +3738,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1897",
     "passage": ""
+  },
+  {
+    "id": 1900,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "The thoracic vertebrae of a mammal is characterized by the",
+    "options": {
+      "A": "vertebraterial canal",
+      "B": "prominent neural arch",
+      "C": "prominent transverse",
+      "D": "prominent neural spine",
+      "E": "prominent centrum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Thoracic vertebrae in mammals are often characterized by a prominent neural spine, also known as the spinous process. This spine is relatively more pointed and angles sharply downward compared to other vertebral types. This feature, along with the articulation of thoracic vertebrae with ribs, is a key characteristic of these vertebrae.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1900",
+    "passage": ""
   }
 ]
