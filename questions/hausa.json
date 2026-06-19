@@ -8011,5 +8011,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76209",
     "passage": ""
+  },
+  {
+    "id": 76210,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace waka ce ake rerawa lokacin haihuwa a gargajiyar Hausa?",
+    "options": {
+      "A": "Wakar shan ruwan azumi",
+      "B": "Wakar yankan ruwa",
+      "C": "Wakar tarbar jariri",
+      "D": "Wakar tashi tsaye"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Traditional birth songs (wakar tarbar jariri) celebrate new life and are part of Hausa oral customs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76210",
+    "passage": ""
   }
 ]
