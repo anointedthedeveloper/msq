@@ -1560,5 +1560,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/407",
     "passage": ""
+  },
+  {
+    "id": 408,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "If you cross breed a tall variety (Tt) of maize with a short variety (tt), the ratio of tall to short plants in the offspring will be",
+    "options": {
+      "A": "2:1",
+      "B": "1:2",
+      "C": "1:1",
+      "D": "1:3",
+      "E": "3:1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "From the crossing, we have 2Tt : 2tt  ⇒  2  :  2  = 1  :  1\n(See diagram above for better understanding)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/408",
+    "passage": ""
   }
 ]
