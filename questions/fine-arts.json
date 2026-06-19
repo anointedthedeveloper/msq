@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75254",
     "passage": ""
+  },
+  {
+    "id": 75257,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which technique is most suitable for creating texture in a drawing?",
+    "options": {
+      "A": "Outlining",
+      "B": "Blending",
+      "C": "Hatching",
+      "D": "Blocking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hatching uses lines to suggest form and surface texture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75257",
+    "passage": ""
   }
 ]
