@@ -6003,5 +6003,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2839",
     "passage": ""
+  },
+  {
+    "id": 2840,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences, making use of the best of the five options : The guests ...... breakfast by the time the bus arrives.",
+    "options": {
+      "A": "Are finishing",
+      "B": "Have finished",
+      "C": "Shall have finished",
+      "D": "Had finished",
+      "E": "Will have finished"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "The sentence is expressing a future action that will be completed before another future action. The phrase “by the time the bus arrives” indicates a future point in time, so we use the future perfect tense:\nFuture perfect: will have + past participle\nSo:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2840",
+    "passage": ""
   }
 ]
