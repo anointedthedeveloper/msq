@@ -9133,5 +9133,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3831",
     "passage": ""
+  },
+  {
+    "id": 3834,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "MnO\\(_2\\)(s) + x HCl(aq) → MnCl\\(_2\\)(aq) + y H\\(_2\\)O(l) + z Cl\\(_2\\)(g) In the equation above, what are the values of x , y and z respectively",
+    "options": {
+      "A": "2, 1, 2",
+      "B": "4, 1, 2",
+      "C": "4, 2, 1",
+      "D": "1, 2, 1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "MnO\\(_2\\)(s) + x HCl(aq) → MnCl\\(_2\\)(aq) + y H\\(_2\\)O(l) + z Cl\\(_2\\)(g)\nFirst, balance the chemical equation, then equate each of the letters with the coefficients.\nOn balancing, we have :  MnO\\(_2\\)(s) + 4 HCl(aq) → MnCl\\(_2\\)(aq) + 2H\\(_2\\)O(l) + Cl\\(_2\\)(g)\nTherefore, x = 4,y = 2 and z = 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3834",
+    "passage": ""
   }
 ]
