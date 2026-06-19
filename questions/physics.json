@@ -9721,5 +9721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14295",
     "passage": ""
+  },
+  {
+    "id": 14296,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "In a hydraulic press, the pump piston exerts a pressure of 100 pa on the liquid. what force is exerted in the second piston of cross sectional area 3 m2?",
+    "options": {
+      "A": "300 N",
+      "B": "200 N",
+      "C": "150 N",
+      "D": "100 N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Thrust = pressure x area = 100 pa x 3 m2 = 300 N\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14296",
+    "passage": ""
   }
 ]
