@@ -2812,5 +2812,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3381",
     "passage": ""
+  },
+  {
+    "id": 3382,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Find the value of a if the line 2y - ax + 4 = 0 is perpendicular to the line y + (x/4) - 7 = 0",
+    "options": {
+      "A": "-4",
+      "B": "4",
+      "C": "8",
+      "D": "-8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2y - ax + 4 = 0 \\(\\implies\\) 2y = ax - 4.\ny + (x/4) - 7 = 0 \\(\\implies\\) y = -x/4 + 7\nSlope of line 1 = a/2\nSlope of line 2 = -1/4\n-1/4 x a/2 = -1 (product of the slope of two perpendicular lines = -1)\na/8 = 1 \\(\\implies\\) a = 8.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3382",
+    "passage": ""
   }
 ]
