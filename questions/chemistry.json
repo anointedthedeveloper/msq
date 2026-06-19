@@ -3945,5 +3945,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1747",
     "passage": ""
+  },
+  {
+    "id": 1748,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "PCl5(g) ↔ PCl3(g) + Cl2(g) In the reaction above, a decrease in pressure will",
+    "options": {
+      "A": "Decelerate the reaction",
+      "B": "Increase the yield of PCl 3",
+      "C": "Increase the yield of PCl 5",
+      "D": "Accelerate the reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "First, calculate the total number of number of moles of gaseous species only, on both sides.\ni.e  1 mole on the LHS  while 2 moles on RHS.\nAn increase in pressure will favour the side with the lesser value of the total number of moles while a decrease in pressure will favour the side with the higher number of moles i.e the RHS. Hence,increasing the yield of PCl\\(_3\\).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1748",
+    "passage": ""
   }
 ]
