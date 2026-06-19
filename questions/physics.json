@@ -8272,5 +8272,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14046",
     "passage": ""
+  },
+  {
+    "id": 14047,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "I. Total internal reflection of light. II. Conservation of light energy. III. Relative motion of the earth, sun and moon. IV. Rectilinear propagation of light. which of the above is a phenomenon of total solar eclipse?",
+    "options": {
+      "A": "I and IV only",
+      "B": "II and IV only",
+      "C": "I and III only",
+      "D": "III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Due to rectilinear propagation of light we have ecslipse which occur as a result relative motion of the earth, sun and moon\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14047",
+    "passage": ""
   }
 ]
