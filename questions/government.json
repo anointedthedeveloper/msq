@@ -3844,5 +3844,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1663",
     "passage": ""
+  },
+  {
+    "id": 1666,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "In a confederation,the constituency that a member of the legislature represents is a",
+    "options": {
+      "A": "nation-state",
+      "B": "region",
+      "C": "senatorial district",
+      "D": "parliamentary consistuency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In a confederation, sovereign states (nation-states) come together and delegate limited powers to a central authority. The central legislature represents the member states themselves, not individual citizens. Therefore, each representative speaks for a nation-state, not a smaller electoral division.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1666",
+    "passage": ""
   }
 ]
