@@ -14287,5 +14287,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64802",
     "passage": ""
+  },
+  {
+    "id": 64809,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The part labelled X in the figure above is called?",
+    "options": {
+      "A": "auxiliary memory",
+      "B": "output unit",
+      "C": "secondary memory",
+      "D": "storage unit"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/YIy1QPfmxqwp5GXB1OLkaddf7eidk8Ei9k7FkInb.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781903795/myschool/computer-studies/YIy1QPfmxqwp5GXB1OLkaddf7eidk8Ei9k7FkInb.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64809",
+    "passage": ""
   }
 ]
