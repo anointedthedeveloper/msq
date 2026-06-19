@@ -6879,5 +6879,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62507",
     "passage": ""
+  },
+  {
+    "id": 62508,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The first three steps to open an email account include:\nI. - Click on create my account; II. - Go to home page; llI - Click create new account.",
+    "options": {
+      "A": "I, ll and lll",
+      "B": "II, I and ll",
+      "C": "ll, lll and I",
+      "D": "I, lll and lI"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The first three steps to open an e-mail account include:\nII - Go to the home page III - Click Create New Account\nI - Click on create my account",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62508",
+    "passage": ""
   }
 ]
