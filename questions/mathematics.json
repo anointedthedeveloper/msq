@@ -15296,5 +15296,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23167",
     "passage": ""
+  },
+  {
+    "id": 23168,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "If cos θ = 5/13, what is the value of tan \\(\\theta\\) for 0 < θ < 90° ?",
+    "options": {
+      "A": "13",
+      "B": "5",
+      "C": "13/5",
+      "D": "12/5",
+      "E": "5/12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\cos \\theta = \\frac{5}{13}\\)\n\\(\\implies\\) In the right- angled triangle, with an angle \\(\\theta\\), the adjacent side to \\(\\theta\\) = 5 and the hypotenuse = 13.\n\\(\\therefore 13^2 = opp^2 + 5^2\\)\n\\(opp^2 = 169 - 25 = 144 \\implies opp = \\sqrt{144}\\)\n= 12.\n\\(\\tan \\theta = \\frac{opp}{adj} = \\frac{12}{5}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23168",
+    "passage": ""
   }
 ]
