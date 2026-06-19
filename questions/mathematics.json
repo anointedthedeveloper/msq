@@ -10591,5 +10591,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22025",
     "passage": ""
+  },
+  {
+    "id": 22026,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "In the diagram above, find the ratio |PQ|/|PR|",
+    "options": {
+      "A": "2 : 5",
+      "B": "3 : 5",
+      "C": "2 : 3",
+      "D": "3 : 2",
+      "E": "5 : 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17978657853_wcmath19889.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906644/myschool/mathematics/17978657853_wcmath19889.jpg",
+    "correct_answer": "B",
+    "explanation": "From the diagram: PQ = 3 ;   PR = 3+2 → 5\nPQ: PR = \\(\\frac{3}{5}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22026",
+    "passage": ""
   }
 ]
