@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73216",
     "passage": ""
+  },
+  {
+    "id": 73217,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Perishable foods can be stored in the",
+    "options": {
+      "A": "Oven",
+      "B": "Refrigerator",
+      "C": "Basket",
+      "D": "Cooler"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Perishable foods, such as meat, dairy products, and fruits and vegetables, require a cool and controlled environment to prevent spoilage and bacterial growth. A refrigerator maintains a consistent temperature below 40°F (4°C), making it ideal for perishable foods.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73217",
+    "passage": ""
   }
 ]
