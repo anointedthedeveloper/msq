@@ -3904,5 +3904,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70721",
     "passage": ""
+  },
+  {
+    "id": 70722,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the role of the linesman in football?",
+    "options": {
+      "A": "Awards free kicks and penalties",
+      "B": "Keeps track of time",
+      "C": "Maintains order and discipline on the field",
+      "D": "Signals for offside violations and throw-ins."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Linesmen (also called assistant referees) assist the main referee in spotting offside positions, throw-ins, and corner kicks",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70722",
+    "passage": ""
   }
 ]
