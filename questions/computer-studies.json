@@ -13594,5 +13594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64411",
     "passage": ""
+  },
+  {
+    "id": 64413,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Sensitive data can be protected from prying eyes using _________",
+    "options": {
+      "A": "File permissions",
+      "B": "File locks",
+      "C": "passwords",
+      "D": "encryption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "A File permission specifies who and what can read, write, modify and access them. It therefore important as the codex explains, because without it in place, anyone or anything can access confidential files.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64413",
+    "passage": ""
   }
 ]
