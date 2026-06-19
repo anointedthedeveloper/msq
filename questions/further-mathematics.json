@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50398",
     "passage": ""
+  },
+  {
+    "id": 50399,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Solve for x in the equation \\(5^{x} \\times 5^{x + 1} = 25\\).",
+    "options": {
+      "A": "\\(-2\\)",
+      "B": "\\(\\frac{-1}{2}\\)",
+      "C": "\\(\\frac{1}{2}\\)",
+      "D": "\\(2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(5^{x} \\times 5^{x+1} = 25\\)\n\\(5^{x} \\times 5^{x+1} = 5^{2}\\)\n\\(5^{x+x+1} = 5^{2}\\), equating powers,\n\\(2x + 1 = 2 \\implies 2x = 1\\)\n\\(\\therefore x = \\frac{1}{2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50399",
+    "passage": ""
   }
 ]
