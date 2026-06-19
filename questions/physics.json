@@ -13227,5 +13227,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21254",
     "passage": ""
+  },
+  {
+    "id": 21256,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "A battery of emf 24V and internal resistance 4Ω is connected to a resistor of 32Ω. What is the terminal p.d of the battery?",
+    "options": {
+      "A": "24.0V",
+      "B": "21.3V",
+      "C": "16.0V",
+      "D": "2.7V",
+      "E": "2.0V"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21256",
+    "passage": ""
   }
 ]
