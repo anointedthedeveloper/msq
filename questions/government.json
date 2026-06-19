@@ -1,0 +1,23 @@
+[
+  {
+    "id": 42,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Power differs from influence in that it is",
+    "options": {
+      "A": "persuasive while influence is directive",
+      "B": "coercive while influence is harmful",
+      "C": "coercive while influence is persuasive",
+      "D": "arrogant while influence is corruptive"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Power differs from influence in that it is coercive while influence is persuasive.\nInfluence can be defined as the ability to create an impact on the beliefs and actions of an individual. Influence evokes respect. Those under the influence keep working in the desired manner even in the absence of the influential person.\npower is the ability of a person or a group of persons to enforce his or their decisions on other people by use of sanctions, punishment, or penalties against disobedience. On the other hand, through persuasion and conviction, an individual could be made to accept and obey the views of other persons.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/42",
+    "passage": ""
+  }
+]
