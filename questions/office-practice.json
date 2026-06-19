@@ -4055,5 +4055,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76003",
     "passage": ""
+  },
+  {
+    "id": 76004,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "In a closed office layout, workers enjoy",
+    "options": {
+      "A": "swift flow of work",
+      "B": "relative comfort",
+      "C": "better supervision",
+      "D": "better rapport"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In a closed office layout, workers enjoy 'relative comfort'. A closed office layout refers to a workspace design where each employee has their own individual office space. This can provide a more comfortable work environment as it offers more privacy and less noise compared to an open office layout. The other options listed may not necessarily be true in a closed office layout.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76004",
+    "passage": ""
   }
 ]
