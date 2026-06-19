@@ -16494,5 +16494,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67846",
     "passage": ""
+  },
+  {
+    "id": 67847,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following allows devices on one network to communicate with devices on another network ?",
+    "options": {
+      "A": "T-switch",
+      "B": "gateway",
+      "C": "modem",
+      "D": "multiplexer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A computer that sits between different networks or applications. The gateway converts information, data or other communications from one protocol or format to another.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67847",
+    "passage": ""
   }
 ]
