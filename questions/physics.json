@@ -12183,5 +12183,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14511",
     "passage": ""
+  },
+  {
+    "id": 14512,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "A cell of e.m.f 12V and internal resistance 4Ω is connected to an external resistor of resistance 2Ω. Find the current flow.",
+    "options": {
+      "A": "5 A",
+      "B": "4 A",
+      "C": "3 A",
+      "D": "2 A"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "I = E/(R+r) = 12/6 = 2A\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14512",
+    "passage": ""
   }
 ]
