@@ -11116,5 +11116,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64107",
     "passage": ""
+  },
+  {
+    "id": 64108,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The end users are able to operate at the _______ tier.",
+    "options": {
+      "A": "model",
+      "B": "application",
+      "C": "data",
+      "D": "presentation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The presentation tier is the user interface and communication layer of the application where the end user interacts with the application.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64108",
+    "passage": ""
   }
 ]
