@@ -12913,5 +12913,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4772",
     "passage": ""
+  },
+  {
+    "id": 4773,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following noble gases is commonly found in the atmosphere?",
+    "options": {
+      "A": "Xenon",
+      "B": "Neon",
+      "C": "Helium",
+      "D": "Argon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Argon, with the symbol Ar which is the third noble gas, in group 18 makes up about 1% of the Earth's atmosphere, making it the most common noble gas on Earth.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4773",
+    "passage": ""
   }
 ]
