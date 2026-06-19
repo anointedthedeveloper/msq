@@ -5248,5 +5248,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8467",
     "passage": ""
+  },
+  {
+    "id": 8478,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "If y = (1 - 2x)\\(^3\\), find the value of dy/dx at x = -1",
+    "options": {
+      "A": "57",
+      "B": "27",
+      "C": "-6",
+      "D": "-54"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "y = (1 - 2x)\\(^3\\) let u = 1-2x du/dx = -2 ∴y = u\\(^3\\) dy/du = 3u\\(^2\\) But dy/dx = du/dx * dy/du = -2 * 3u\\(^2\\) = -6u\\(^2\\) = -6(1-2x)\\(^2\\) At x = -1: dy/dx = -6(1 - 2(-1))\\(^2\\) dy/dx = -6(1 + 2)\\(^2\\) = -6 * 3\\(^2\\) = -6 * 9 = -54\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8478",
+    "passage": ""
   }
 ]
