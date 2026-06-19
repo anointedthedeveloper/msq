@@ -17625,5 +17625,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25024",
     "passage": ""
+  },
+  {
+    "id": 25025,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "Calculate the escape velocity of a satellite launched from the earth’s surface (Take g as 10ms\n-2\nand the radius of the earth as 6.4 x 10\n6\nm)",
+    "options": {
+      "A": "8.00 x 10 6 ms -1",
+      "B": "1.13 x10 4 ms -1",
+      "C": "3.58x10 2 ms -1",
+      "D": "5.59 x10 -2 ms -1",
+      "E": "3.95x10 -2 ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "V = √ 2gr\n= √ 2 x 10 x 6.4 x 10 6",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25025",
+    "passage": ""
   }
 ]
