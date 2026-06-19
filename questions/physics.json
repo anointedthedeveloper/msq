@@ -17075,5 +17075,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24999",
     "passage": ""
+  },
+  {
+    "id": 25000,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A block of material of volume 2 X 10\\(^{-5}\\)m\\(^3\\) and density 2.5 x 10\\(^3\\) kgm\\(^{-3}\\) is suspended from a spring balance with half volume of the block immersed in water. What is the reading of the spring balance? (Density of water =1.0x10\\(^3\\) kg m\\(^{-3}\\) g = 10 ms\\(^{-2}\\)).",
+    "options": {
+      "A": "0.10N",
+      "B": "0.25N",
+      "C": "0.30N",
+      "D": "0.40N",
+      "E": "0.50N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Weight of object = mg\n= \\(\\rho vg\\) = 2.5 x 10\\(^3\\) x 2 x 10\\(^{-5}\\) x 10 = 0.5N;\nUpthrust = weight of displaced fluid = \\(\\rho_{water} vg\\)\n= \\(\\frac{1.0 \\times 10^3 \\times 2 \\times 10^{-5} \\times 10}{2}\\) = 0.1N\n∴Reading = 0.5 – 0.1 = 0.4N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25000",
+    "passage": ""
   }
 ]
