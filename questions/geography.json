@@ -2735,5 +2735,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6230",
     "passage": ""
+  },
+  {
+    "id": 6231,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Along which latitude will the day-time be longest on Christmas day?",
+    "options": {
+      "A": "30°N",
+      "B": "30°S",
+      "C": "0°",
+      "D": "45°N",
+      "E": "45 o S"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6231",
+    "passage": ""
   }
 ]
