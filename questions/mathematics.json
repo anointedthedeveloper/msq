@@ -12241,5 +12241,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22407",
     "passage": ""
+  },
+  {
+    "id": 22408,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The angle of a sector of a circle of diameter 8cm is 135°. Find the area of the sector [Take \\(\\pi\\) = 22/7].",
+    "options": {
+      "A": "\\(9\\frac{3}{7}cm^2\\)",
+      "B": "\\(12\\frac{4}{7}cm^2\\)",
+      "C": "\\(18\\frac{6}{7}cm^2\\)",
+      "D": "\\(25\\frac{1}{7}cm^2\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Area of a sector\n\\(\\frac{θ}{360°} * πr^2\\)\n= \\(\\frac{135}{360} * 3.142 * 4 * 4\\)\n= \\(18\\frac{6}{7}cm^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22408",
+    "passage": ""
   }
 ]
