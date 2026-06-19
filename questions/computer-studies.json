@@ -11620,5 +11620,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64131",
     "passage": ""
+  },
+  {
+    "id": 64132,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Internet explorer is used for",
+    "options": {
+      "A": "viewing movies",
+      "B": "Listening to music",
+      "C": "Drawing",
+      "D": "viewing Web pages"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The Internet explorer is used view Web pages. Internet Explorer is a free web browser, commonly called IE or MSIE, that allows users to view web pages on the internet. It is also used to access online banking, online marketing over the internet, listen to and watch streaming videos, and many more. It was introduced by Microsoft in 1995.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64132",
+    "passage": ""
   }
 ]
