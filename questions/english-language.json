@@ -7257,5 +7257,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3016",
     "passage": ""
+  },
+  {
+    "id": 3017,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E :\nX: How do you want to be paid? In cash or by cheque?\nY: They asked him .... in cash or by cheque",
+    "options": {
+      "A": "how he wanted to be paid",
+      "B": "whether he wanted to be paid",
+      "C": "how he wants the money",
+      "D": "how to pay",
+      "E": "how did he want to be paid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Reported speech is when we tell someone what another person said. To do this, we can use direct speech or indirect speech. From the statement above, X made the speech while Y is reporting the speech. In reported speech, we do not have to quote the exact statement but report it in its past form and the auxiliary verb must always be changed. The correct reported speech by Y would be;\nY: They asked him whether he wanted to be paid in cash or by cheque.\nThe auxiliary verb 'be' was dropped and replaced with 'whether or if' as the case may be.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3017",
+    "passage": ""
   }
 ]
