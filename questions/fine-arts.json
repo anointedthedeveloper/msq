@@ -1153,5 +1153,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75232",
     "passage": ""
+  },
+  {
+    "id": 75233,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which medium is commonly used for charcoal drawing?",
+    "options": {
+      "A": "Oil paint",
+      "B": "Charcoal sticks",
+      "C": "Graphite",
+      "D": "Ink"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Charcoal sticks are ideal for expressive shading and lines in drawing",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75233",
+    "passage": ""
   }
 ]
