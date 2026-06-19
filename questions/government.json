@@ -2351,5 +2351,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1208",
     "passage": ""
+  },
+  {
+    "id": 1209,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Constitutional disputes in states with written constitutions are resolved by",
+    "options": {
+      "A": "ombudsman",
+      "B": "judiciary",
+      "C": "electorate",
+      "D": "legislature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1209",
+    "passage": ""
   }
 ]
