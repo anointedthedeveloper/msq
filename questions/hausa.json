@@ -3399,5 +3399,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73851",
     "passage": ""
+  },
+  {
+    "id": 73852,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2019",
+    "question": "(Almost identical passage as above, with minor differences at the end)\n...Damukowa yana kiwon wadannan dabbobi in ban da.",
+    "options": {
+      "A": "kaji",
+      "B": "macizai",
+      "C": "A jakai",
+      "D": "rakuma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Damukowa keeps all of these animals except: Answer: macizai (Macizai are wild animals, and Damukowa does not keep them. He keeps jakai (donkeys), kaji (horses), rakuma (camels), and shanu (cows))",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73852",
+    "passage": ""
   }
 ]
