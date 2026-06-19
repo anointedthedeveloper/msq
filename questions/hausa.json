@@ -3147,5 +3147,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73751",
     "passage": ""
+  },
+  {
+    "id": 73752,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Babana ya sayo mani karamar mota ja Kalmomin sifa nawa za a samu?",
+    "options": {
+      "A": "Uku",
+      "B": "Hudu",
+      "C": "Shida",
+      "D": "Daya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is one, \"small\" (karamar). Uku), four (Hudu), six (Shida), and seven (Bakwai), are incorrect.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73752",
+    "passage": ""
   }
 ]
