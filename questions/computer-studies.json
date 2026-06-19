@@ -5062,5 +5062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62339",
     "passage": ""
+  },
+  {
+    "id": 62340,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Data to be processed by the microprocessor is temporarily stored in the?",
+    "options": {
+      "A": "auxiliary storage",
+      "B": "backing storage",
+      "C": "main storage",
+      "D": "random access memory."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Random access memory (RAM)( temporary storage) is computer hardware that temporarily stores data that can be quickly accessed by the computer's processor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62340",
+    "passage": ""
   }
 ]
