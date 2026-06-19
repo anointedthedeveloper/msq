@@ -1363,5 +1363,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1083",
     "passage": ""
+  },
+  {
+    "id": 1106,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Find the sum of the range and the mode of the set of numbers 10, 9, 10, 9, 8, 7, 7, 10, 8, 10, 8, 4, 6, 9, 10, 9, 10, 9, 7, 10, 6, 5",
+    "options": {
+      "A": "16",
+      "B": "14",
+      "C": "12",
+      "D": "10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Range = Highest - lowest number => 10-4 = 6 Mode is the number with highest occurrence => Mode = 10 Sum = 6 + 10 = 16\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1106",
+    "passage": ""
   }
 ]
