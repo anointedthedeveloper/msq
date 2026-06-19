@@ -12097,5 +12097,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4610",
     "passage": ""
+  },
+  {
+    "id": 4611,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the word or phrase which best fills the gap in each sentence : Mary goes to school ..... bus",
+    "options": {
+      "A": "in",
+      "B": "on",
+      "C": "with",
+      "D": "through",
+      "E": "by"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "We use the preposition “by” to talk about modes of transport when no article is used.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4611",
+    "passage": ""
   }
 ]
