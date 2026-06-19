@@ -17031,5 +17031,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24997",
     "passage": ""
+  },
+  {
+    "id": 24998,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A body of mass m = 0.5 kg is suspended by a string and pulled by a horizontal force of 12N as shown in the diagram. Calculate the tension T in the String if the body is in equilibrium. [Take g as 10ms\\(^{-1}\\)]",
+    "options": {
+      "A": "7.0",
+      "B": "10.9",
+      "C": "12.5",
+      "D": "13.0",
+      "E": "17.0"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15257700084_wcphy199337.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781892477/myschool/physics/15257700084_wcphy199337.jpg",
+    "correct_answer": "D",
+    "explanation": "Mg = 5N T\\(_2\\) = 5\\(^2\\) + 12\\(^2\\) = 13N",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24998",
+    "passage": ""
   }
 ]
