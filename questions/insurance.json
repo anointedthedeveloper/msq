@@ -2096,5 +2096,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49870",
     "passage": ""
+  },
+  {
+    "id": 49871,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An event sufficiently related to a legally recognizable injury to be the cause of that injury is?",
+    "options": {
+      "A": "hazard",
+      "B": "remote clause",
+      "C": "proximate cause",
+      "D": "peril"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Proximate cause is a key principle of insurance and is concerned with how the loss or damage actually occurred and whether it is indeed as a result of an insured peril",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49871",
+    "passage": ""
   }
 ]
