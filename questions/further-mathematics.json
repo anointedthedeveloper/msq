@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50170",
     "passage": ""
+  },
+  {
+    "id": 50178,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\(\\begin{pmatrix}  2  &  1 \\\\  4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}  5 \\\\ 4 \\end{pmatrix}\\)  = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\), find the value of k.",
+    "options": {
+      "A": "1.2",
+      "B": "3.6",
+      "C": "0.8",
+      "D": "0.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\begin{pmatrix}  2  &  1 \\\\  4 & 3 \\end{pmatrix}\\)\\(\\begin{pmatrix}  5 \\\\ 4 \\end{pmatrix}\\)  = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\)\n\\(\\begin{pmatrix}  10 + 4  \\\\  20 + 12\\end{pmatrix}\\) = \\(\\begin{pmatrix}  14 \\\\ 32\\end{pmatrix}\\) = k\\(\\begin{pmatrix}  17.5 \\\\ 40.0 \\end{pmatrix}\\)\nk = \\(\\frac{14}{17.5} = \\frac{32}{40} = 0.8\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50178",
+    "passage": ""
   }
 ]
