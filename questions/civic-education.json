@@ -1594,5 +1594,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50116",
     "passage": ""
+  },
+  {
+    "id": 50118,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "One way of being infected with HIV/AIDS is through?",
+    "options": {
+      "A": "the use of unsterilized sharp objects",
+      "B": "sitting close to HIV/AIDS  patients",
+      "C": "having handshakes with persons living with HIV/AIDS",
+      "D": "sharing clothes with HIV/AIDS infected persons"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "using unsterilized needles, clippers, or other sharp objects can increase the chances of getting HIV .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50118",
+    "passage": ""
   }
 ]
