@@ -16914,5 +16914,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67867",
     "passage": ""
+  },
+  {
+    "id": 67868,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "options": {
+      "A": "CPU",
+      "B": "application software",
+      "C": "operating system",
+      "D": "ALU"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Operating system controls the way in which the computer system functions and provides a means by which users can interact with the computer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67868",
+    "passage": ""
   }
 ]
