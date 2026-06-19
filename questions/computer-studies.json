@@ -4915,5 +4915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62332",
     "passage": ""
+  },
+  {
+    "id": 62333,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following was used by Joseph Marie Jacquad in inventing the Loom?",
+    "options": {
+      "A": "Punched card",
+      "B": "Smart card",
+      "C": "Smart chip",
+      "D": "Sound card."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Joseph Marie Jacquard used punched cards to invent the Jacquard Loom. The punched card was used to control the weaving of patterns in the fabric, making it an early example of a programmable machine.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62333",
+    "passage": ""
   }
 ]
