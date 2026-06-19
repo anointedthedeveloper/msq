@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/700",
     "passage": ""
+  },
+  {
+    "id": 701,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "Total internal reflection occurs when light moves from?",
+    "options": {
+      "A": "a dense medium to a less dense medium",
+      "B": "air to water",
+      "C": "water to glass",
+      "D": "a less dense to a dense medium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Total internal reflection (TIR) is the optical phenomenon in which waves arrive at the interface (boundary) from one medium to another (e.g., from water to air). that is from a more optically denser medium to a less optically denser medium.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/701",
+    "passage": ""
   }
 ]
