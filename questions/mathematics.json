@@ -5689,5 +5689,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8671",
     "passage": ""
+  },
+  {
+    "id": 8682,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The pie chart above shows the expenditure of a family whose income is N30,000. If the expenditure on food is twice that on housing and that on school fees is twice that on transport, how much does the family spend on food?",
+    "options": {
+      "A": "N 28 000",
+      "B": "N 25 500",
+      "C": "N15 000",
+      "D": "N 12 500"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12203227674_math20068.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868550/myschool/mathematics/12203227674_math20068.jpg",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8682",
+    "passage": ""
   }
 ]
