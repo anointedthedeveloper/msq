@@ -3882,5 +3882,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50595",
     "passage": ""
+  },
+  {
+    "id": 50596,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If a fair coin is tossed four times, what is the probability of obtaining at least one head?",
+    "options": {
+      "A": "\\(\\frac{1}{2}\\)",
+      "B": "\\(\\frac{1}{4}\\)",
+      "C": "\\(\\frac{13}{16}\\)",
+      "D": "\\(\\frac{15}{16}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "P(at least one head) = 1 - P(4 tails)\nLet \\(p = \\frac{1}{2}\\) = probability of head and \\(q = \\frac{1}{2}\\) = probability of tail.\n\\((p + q)^{4} = p^{4} + 4p^{3}q + 6p^{2}q^{2} + 4pq^{3} + q^{4}\\)\nP(4 tails) = \\(q^{4} = (\\frac{1}{2})^{4} = \\frac{1}{16}\\)\nP(at least one head) = \\(1 - \\frac{1}{16} = \\frac{15}{16}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50596",
+    "passage": ""
   }
 ]
