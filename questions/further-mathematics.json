@@ -2811,5 +2811,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50453",
     "passage": ""
+  },
+  {
+    "id": 50454,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "In how many ways can a committee of 5 be selected from 8 students if 2 particular students are to be included?",
+    "options": {
+      "A": "20",
+      "B": "28",
+      "C": "54",
+      "D": "58"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Since 2 students must be included, we have to arrange the remaining 3 students from the 6 students left\n= \\(^{6}C_{3} = \\frac{6!}{(6-3)!3!}\\)\n= 20 ways",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50454",
+    "passage": ""
   }
 ]
