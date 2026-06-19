@@ -3469,5 +3469,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71213",
     "passage": ""
+  },
+  {
+    "id": 71214,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A - E, the one that most appropriately completes the sentence.Voilà le journal....... je vous ai parlé.",
+    "options": {
+      "A": "qui",
+      "B": "que",
+      "C": "don't",
+      "D": "ой"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "This sentence is saying \"Here's the newspaper I told you about.\" The pronoun \"dont\" is used to replace the preposition \"de\" + noun, and it indicates possession or relationship.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71214",
+    "passage": ""
   }
 ]
