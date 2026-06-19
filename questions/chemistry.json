@@ -7516,5 +7516,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3231",
     "passage": ""
+  },
+  {
+    "id": 3232,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The gas that can be dried using concentrated tetraoxosulphate (VI) acid is",
+    "options": {
+      "A": "hydrogen bromide",
+      "B": "Sulphur (IV) oxide",
+      "C": "hydrogen sulphide",
+      "D": "ammonia"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Concentrated tetraoxosulphate(VI) acid, a hygroscopic liquid is a very strong drying agent as it absorbs moisture from the air, and becomes diluted to about three times its original volume. It can be used to dry all gases except ammonia and Hydrogen sulphide.\nConsequently, for drying SO₂ gas, concentrated sulphuric acid (H₂SO₄) is a suitable drying agent, as it effectively absorbs water vapour without reacting with the sulphur dioxide. On the contrary, concentrated sulphuric acid (H₂SO₄) cannot be used to dry hydrogen bromide (HBr) gas because it is a strong oxidizing agent that will react with HBr, oxidizing it to bromine (Br₂) and sulphur dioxide (SO₂).\nAlso, H₂S cannot be dried using concentrated tetraoxosulphate(VI) acid (H₂SO₄) because it reacts with H₂S, producing water, sulphur dioxide, and elemental sulphur, thus failing to serve its purpose of drying.\nAmmonia cannot be dried using concentrated sulfuric acid (tetraoxosulphate(VI) acid) because they react to form ammonium sulfate, a solid, rather than drying the ammonia.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3232",
+    "passage": ""
   }
 ]
