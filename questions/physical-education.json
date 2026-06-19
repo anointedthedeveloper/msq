@@ -6401,5 +6401,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76489",
     "passage": ""
+  },
+  {
+    "id": 76490,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the most effective method for a community to reduce the amount of waste sent to landfills?",
+    "options": {
+      "A": "Burning all waste in a community incinerator.",
+      "B": "Burying all waste in a designated landfill.",
+      "C": "Practicing the '3 Rs'-Reduce, Reuse, and Recycle.",
+      "D": "Throwing all waste in a public bin."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The '3 Rs'-Reduce, Reuse, and Recycle-are widely recognized as the most effective methods for minimizing waste sent to landfills. Reducing involves consuming less and avoiding unnecessary products, reusing means finding new ways to use items instead of discarding them, and recycling converts waste into new materials, conserving resources and energy. These combined efforts significantly lower the volume of waste requiring landfill disposal, prevent environmental pollution, and promote sustainable living. Simply burying or burning waste does not address the root cause and often leads to pollution or resource depletion. Proper community participation in the 3 Rs' is essential for effective waste management.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76490",
+    "passage": ""
   }
 ]
