@@ -14636,5 +14636,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23117",
     "passage": ""
+  },
+  {
+    "id": 23119,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "In the diagram above , |AD| = 10cm, |DC| = 8cm and |CF| = 15cm. Which of the following is correct?",
+    "options": {
+      "A": "Area BCF = Area DCF",
+      "B": "Area ADE = Area ADF",
+      "C": "Area ADE = Area DCFE",
+      "D": "Area CBF = Area DABC",
+      "E": "Area DABO = Area CFEO"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/19379565534_wcmath199149.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909394/myschool/mathematics/19379565534_wcmath199149.jpg",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23119",
+    "passage": ""
   }
 ]
