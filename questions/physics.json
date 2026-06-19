@@ -11952,5 +11952,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14500",
     "passage": ""
+  },
+  {
+    "id": 14501,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The wave phenomenon demonstrated in the diagram above is?",
+    "options": {
+      "A": "reflection",
+      "B": "deflection",
+      "C": "diffraction",
+      "D": "refraction"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15005233331_phy200926.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891059/myschool/physics/15005233331_phy200926.jpg",
+    "correct_answer": "C",
+    "explanation": "Diffraction is spreading of wave after passing through a slit\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14501",
+    "passage": ""
   }
 ]
