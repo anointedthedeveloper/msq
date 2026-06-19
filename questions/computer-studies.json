@@ -7021,5 +7021,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62514",
     "passage": ""
+  },
+  {
+    "id": 62515,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "State one difference between star and bus topologies\n(b) List four common network devices. (c) Write the acronyms below in full\nHTML, HTTP, ISP, SMTP.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a Differences between bus and star topologies\nBUS TOPOLOGY STAR TOPOLOGY Computers are connected with each other by wire (which serves as a backbone) in an approximately strait manner Every computer is connected with the host computer using a separate cable or wireless connection If one computer in the network is damaged, the whole network stops working If one computer in the network is damaged, the network continues to function It makes use of terminator at both ends of the backbone It does not use terminator. The connection does not involve hub, Media Access Unit (MAU), concentrator, switch and access point The connection can be hub, MAU, concentrator, switch and access point based network. It requires less cable length. It requires more cable length. It's difficult to identify faults It is easy to identify and remove faults (ie fault tolerance) Simple physical network can be created. A bit complex to create. It works best with a limited number It works effectively with large number of computers It is more economical. It is more expensive.\n(b) Examples of Network Devices:\n(i) Hub (ii) Modem (iii) Router (iv) Gateway (v) Switch (vi) Bridge (vii) Repeater (viii) Network Interface Card (NIC) (ix) Multiplexer (x) ISDN terminal adapter (xi) Wireless access point (xii) Media converter.\n(c)\n(i) HTML-Hypertext Markup Language (ii) HTTP - Hypertext Transfer Protocol (iii) ISP- Internet Service Provider (iv) SMTP - Simple Mail Transfer Protocol",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62515",
+    "passage": ""
   }
 ]
