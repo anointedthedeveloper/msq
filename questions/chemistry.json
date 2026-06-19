@@ -2076,5 +2076,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1491",
     "passage": ""
+  },
+  {
+    "id": 1492,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The knowledge of half-life can be used to",
+    "options": {
+      "A": "create an element",
+      "B": "detect an element",
+      "C": "split an element",
+      "D": "irradiate an element"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The half-life of a species is the time it takes for the concentration of that substance to fall to half of its initial value.\nSince every elements have their specific half life which is neither affected by temperature nor pressure, the knowledge of half life can be used to detect the particular element.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1492",
+    "passage": ""
   }
 ]
