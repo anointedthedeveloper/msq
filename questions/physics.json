@@ -5584,5 +5584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12911",
     "passage": ""
+  },
+  {
+    "id": 12912,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "A person can focus an object only when it lies within 200cm from him. Which spectacles should be used to increase his maximum distance of distinct vision infinity",
+    "options": {
+      "A": "Convex lens",
+      "B": "Binoculars",
+      "C": "Concave lens",
+      "D": "Plane glasses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A person with this condition is said to be short-sighted. Hence, to correct it, a concave lens is used for correction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12912",
+    "passage": ""
   }
 ]
