@@ -1510,5 +1510,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75337",
     "passage": ""
+  },
+  {
+    "id": 75339,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما وزن كلمة \"مستشفى\"؟",
+    "options": {
+      "A": "مفعل",
+      "B": "مُستفعل",
+      "C": "مُفتعل",
+      "D": "مفعول"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It follows the pattern \"مستفعل\" (mustafil) from the root verb \"شفى\" (to heal).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75339",
+    "passage": ""
   }
 ]
