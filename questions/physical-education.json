@@ -292,5 +292,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64157",
     "passage": ""
+  },
+  {
+    "id": 64158,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Skills like freestyle and back crawl are associated with",
+    "options": {
+      "A": "basketball",
+      "B": "cricket",
+      "C": "swimming",
+      "D": "table tennis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "These are swimming strokes",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64158",
+    "passage": ""
   }
 ]
