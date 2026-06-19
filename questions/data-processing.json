@@ -7537,5 +7537,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69772",
     "passage": ""
+  },
+  {
+    "id": 69773,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The ruler feature in MS Word that is used to indent the second and subsequent lines of a paragraph is",
+    "options": {
+      "A": "right indent",
+      "B": "hanging indent",
+      "C": "left margin",
+      "D": "left indent"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The ruler feature in MS Word that is used to indent the second and subsequent lines of a paragraph is hanging indent. A hanging indent is when the first line of a paragraph starts at the left margin, but the following lines are indented, creating a visually staggered appearance. This is often used in bibliographies, reference lists, and other situations where the first line needs to be flush with the left margin, while subsequent lines are indented. To create a hanging indent in MS Word, you can follow these steps: Click on the Paragraph tab. In the Indentation section, click on the Special drop-down menu and select Hanging. Enter the amount of indent that you want for the second and subsequent lines in the By box. Click on the OK button. The second and subsequent lines of the paragraph will now be indented.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69773",
+    "passage": ""
   }
 ]
