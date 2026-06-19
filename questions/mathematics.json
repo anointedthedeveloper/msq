@@ -9700,5 +9700,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10307",
     "passage": ""
+  },
+  {
+    "id": 10316,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "from the table above, if the pass mark is 5, how many students failed the test?",
+    "options": {
+      "A": "6",
+      "B": "2",
+      "C": "7",
+      "D": "9"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Marks Number of students 2 3 3 1 4 5 Total 9\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10316",
+    "passage": ""
   }
 ]
