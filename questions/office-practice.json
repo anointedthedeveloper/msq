@@ -1986,5 +1986,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66558",
     "passage": ""
+  },
+  {
+    "id": 66561,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "Which of the following headings is a column in a postage book",
+    "options": {
+      "A": "Date of dispatch",
+      "B": "Value of stamp used",
+      "C": "Reference number",
+      "D": "Title of document"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Date of dispatch is one of the heading in a postage book (petty cash book).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66561",
+    "passage": ""
   }
 ]
