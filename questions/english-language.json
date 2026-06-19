@@ -834,5 +834,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/506",
     "passage": ""
+  },
+  {
+    "id": 507,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Complete each of the following sentences by choosing the option that\nmost suitably\nfills the space;\nHis suggestion are completely .... the point and cannot be accepted",
+    "options": {
+      "A": "to",
+      "B": "about",
+      "C": "beside",
+      "D": "on",
+      "E": "under"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/507",
+    "passage": ""
   }
 ]
