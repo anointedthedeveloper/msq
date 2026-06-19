@@ -15559,5 +15559,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24171",
     "passage": ""
+  },
+  {
+    "id": 24172,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Which of the following is not crystal?",
+    "options": {
+      "A": "Sodium chloride",
+      "B": "Lead",
+      "C": "Copper (II) tetraoxosulphate (VI)",
+      "D": "Glass",
+      "E": "Germanium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Glass is not a crystal because it lacks the long-range ordered atomic structure characteristics of crystalline materials. instead, it is an amorphous solid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24172",
+    "passage": ""
   }
 ]
