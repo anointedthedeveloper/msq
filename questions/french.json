@@ -417,5 +417,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48131",
     "passage": ""
+  },
+  {
+    "id": 48132,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "là, c'est ... oncle, un professeur au lycée",
+    "options": {
+      "A": "m'",
+      "C": "moi",
+      "D": "mon"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48132",
+    "passage": ""
   }
 ]
