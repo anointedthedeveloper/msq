@@ -20654,5 +20654,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76864",
     "passage": ""
+  },
+  {
+    "id": 76865,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Fig 3 is a flow chart. Use it to answer this question\nThe part labelled I represents?",
+    "options": {
+      "A": "read/write symbol",
+      "B": "begin/start symbol",
+      "C": "stop/end symbol",
+      "D": "process/action symbol"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/DiFc3GCxMOdBsc9PBczSnWndUPdiTX7vuk6lKxrU.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781905149/myschool/computer-studies/DiFc3GCxMOdBsc9PBczSnWndUPdiTX7vuk6lKxrU.png",
+    "correct_answer": "A",
+    "explanation": "The symbol labeled 'I' within the flowchart represents a read/write operation, indicating a step where data is either inputted into the system or outputted from the system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76865",
+    "passage": ""
   }
 ]
