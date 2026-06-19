@@ -12661,5 +12661,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4692",
     "passage": ""
+  },
+  {
+    "id": 4694,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Which of the following properties is\nNOT\npeculiar to matter?",
+    "options": {
+      "A": "kinetic energy of particles increase from solid to gas",
+      "B": "Random motion of particles increases from liquid to gas",
+      "C": "Orderliness of particles increases from gas to liquid",
+      "D": "Random motion of particles increases from gas to solid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4694",
+    "passage": ""
   }
 ]
