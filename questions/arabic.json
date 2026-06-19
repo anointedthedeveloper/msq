@@ -166,5 +166,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75182",
     "passage": ""
+  },
+  {
+    "id": 75184,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "ما نوع \"لن\" في الجملة: \"لن أسافرَ غدًّا\"؟",
+    "options": {
+      "A": "استفهام",
+      "B": "نصب",
+      "C": "نفي",
+      "D": "جزم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"ol\" negates the future and causes the verb to be in the accusative.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75184",
+    "passage": ""
   }
 ]
