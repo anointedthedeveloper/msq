@@ -5190,5 +5190,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2393",
     "passage": ""
+  },
+  {
+    "id": 2394,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "A centipede differs from a millipede by its",
+    "options": {
+      "A": "colour",
+      "B": "numerous abdominal segment",
+      "C": "paired legs on each abdominal segment",
+      "D": "poison claws",
+      "E": "cylindrical body"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Millipedes have two sets of legs per segment positioned directly under their body with no poison claws. Centipedes have one set of legs per segment positioned on the side of their body, they have poison claws.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2394",
+    "passage": ""
   }
 ]
