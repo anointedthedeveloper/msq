@@ -1699,5 +1699,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/1511",
     "passage": ""
+  },
+  {
+    "id": 1512,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A ray of light strikes a plane mirror at an angle of incidence of 35°. If the mirror is rotated through 10°, through what angle is the reflected ray rotated?",
+    "options": {
+      "A": "70°",
+      "B": "45°",
+      "C": "25°",
+      "D": "20°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/1512",
+    "passage": ""
   }
 ]
