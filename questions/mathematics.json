@@ -3547,5 +3547,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7777",
     "passage": ""
+  },
+  {
+    "id": 7788,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The locus of a point P which moves on one side only of a straight line XY so that ∠XPY = 90o is",
+    "options": {
+      "A": "a circle",
+      "B": "a semicircle",
+      "C": "an arc of a circle through X, Y",
+      "D": "the perpendicular bisector of XY"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The locus is the \"semicircle with diameter XY\" on the given side.\nBy Thales’ theorem, ∠XPY = 90° means P lies on the circle with diameter XY. “One side only” of line XY restricts it to a semicircle.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7788",
+    "passage": ""
   }
 ]
