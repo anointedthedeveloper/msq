@@ -2203,5 +2203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75370",
     "passage": ""
+  },
+  {
+    "id": 75371,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In art, a harmonious design is created by using:",
+    "options": {
+      "A": "Large shapes",
+      "B": "Similar elements",
+      "C": "Clashing colours",
+      "D": "Conflicting patterns"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A harmonious design is achieved by repeating or using similar elements such as related colors, shapes, textures, or lines. This creates a sense of unity and balance, making the artwork feel calm and well-organized.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75371",
+    "passage": ""
   }
 ]
