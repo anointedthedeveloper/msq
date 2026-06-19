@@ -775,5 +775,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/139",
     "passage": ""
+  },
+  {
+    "id": 140,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "When did Nigeria gain her Independence?",
+    "options": {
+      "A": "1st October, 1963",
+      "B": "31st October, 1690",
+      "C": "1st October, 2012",
+      "D": "1st October, 1960",
+      "E": "12th October, 1992"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Nigeria gained independence from British colonial rule on 1st October, 1960 . This day is celebrated annually as Nigeria’s Independence Day , marking the beginning of self-rule and the end of British control.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/140",
+    "passage": ""
   }
 ]
