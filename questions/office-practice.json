@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66132",
     "passage": ""
+  },
+  {
+    "id": 66134,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The opinion of an investigatory committee on its findings is stated in the report as",
+    "options": {
+      "A": "introduction",
+      "B": "terms of reference",
+      "C": "conclusion",
+      "D": "recommendation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Recommendation is the opinion of an investigatory committee on its findings. It is the report of an Investigating committee on the issuers or findings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66134",
+    "passage": ""
   }
 ]
