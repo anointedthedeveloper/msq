@@ -9413,5 +9413,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3909",
     "passage": ""
+  },
+  {
+    "id": 3910,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below choose the phrase or word which best completes the meaning of each sentence : At the end of the month we .... each other for five years",
+    "options": {
+      "A": "would know",
+      "B": "should have known",
+      "C": "should be knowing",
+      "D": "would have been",
+      "E": "used to know"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The sentence describes a situation where a specific duration of time ( \"for five years\" ) will be completed at a specific point in the future ( \"At the end of the month\" ). The Future Perfect Tense is appropriate for this context. This tense is used to describe an action that will be completed between now and a specific point in the future. In English, this is formed using \"will have\" + past participle.\nHowever, in formal or older British English, \"should\" is used as a first-person substitute for \"will\" (I should / we should). Therefore, \"should have known\" functions as the future perfect tense here.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3910",
+    "passage": ""
   }
 ]
