@@ -14173,5 +14173,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/23923",
     "passage": ""
+  },
+  {
+    "id": 23924,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "A string is stretched between two points 50cm apart. It is then plucked at its center and the velocity of the wave produced is 300m/s. Calculate the number of vibrations made by the string in 1s.",
+    "options": {
+      "A": "3",
+      "B": "6",
+      "C": "150",
+      "D": "300",
+      "E": "600"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/23924",
+    "passage": ""
   }
 ]
