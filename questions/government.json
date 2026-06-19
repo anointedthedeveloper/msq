@@ -2288,5 +2288,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1202",
     "passage": ""
+  },
+  {
+    "id": 1203,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Capitalism is a system of economic organization based on",
+    "options": {
+      "A": "a mixed economy that takes all ineterests into consideration",
+      "B": "individual ownership of the means of production",
+      "C": "very fair distribution of the means of production",
+      "D": "trading among people who own and control their items of trade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1203",
+    "passage": ""
   }
 ]
