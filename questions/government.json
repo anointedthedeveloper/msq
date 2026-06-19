@@ -5210,5 +5210,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2222",
     "passage": ""
+  },
+  {
+    "id": 2225,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "In the present local government structure ,traditional rulers play",
+    "options": {
+      "A": "an advisory role",
+      "B": "an executive role",
+      "C": "a judicial role",
+      "D": "a legislative role"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2225",
+    "passage": ""
   }
 ]
