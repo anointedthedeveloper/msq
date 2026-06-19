@@ -376,5 +376,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50007",
     "passage": ""
+  },
+  {
+    "id": 50008,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following is not a common way by which  people abuse drugs?",
+    "options": {
+      "A": "ingestion",
+      "B": "intrusion",
+      "C": "inhalation",
+      "D": "injection"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Intrusion is an occasion when someone goes into a place where they aren't expected to be. It is not a way of abusing drugs",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50008",
+    "passage": ""
   }
 ]
