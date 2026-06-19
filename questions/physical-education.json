@@ -4659,5 +4659,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70818",
     "passage": ""
+  },
+  {
+    "id": 70819,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is a healthy fat source in a balanced diet?",
+    "options": {
+      "A": "Trans fats",
+      "B": "Refined sugars",
+      "C": "Monounsaturated fats",
+      "D": "Saturated fats"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Monounsaturated fats are considered healthy fats and are beneficial for heart health. They can help lower bad cholesterol levels and reduce the risk of heart disease. Sources of monounsaturated fats include avocados, nuts, olive oil, and fatty fish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70819",
+    "passage": ""
   }
 ]
