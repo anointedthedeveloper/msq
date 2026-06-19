@@ -7109,5 +7109,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75958",
     "passage": ""
+  },
+  {
+    "id": 75960,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wace kalma ke nuna jam'in magana?",
+    "options": {
+      "A": "Su",
+      "B": "Ta",
+      "C": "Shi",
+      "D": "Ya"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Su is the plural form of the third-person pronoun.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75960",
+    "passage": ""
   }
 ]
