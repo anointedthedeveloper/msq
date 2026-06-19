@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48029",
     "passage": ""
+  },
+  {
+    "id": 48030,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "In computer graphics the name given to a device used in navigating the window environment is",
+    "options": {
+      "A": "pencil",
+      "B": "ruling pen",
+      "C": "keyboard",
+      "D": "mouse"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48030",
+    "passage": ""
   }
 ]
