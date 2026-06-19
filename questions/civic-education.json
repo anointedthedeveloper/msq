@@ -1174,5 +1174,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50086",
     "passage": ""
+  },
+  {
+    "id": 50087,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "The rights of citizens can be guaranteed through?",
+    "options": {
+      "A": "gerrymandering",
+      "B": "the writ of habeas corpus",
+      "C": "prerogative",
+      "D": "political immunity"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Habeas corpus is a recourse in law through which a person can report an unlawful detention or imprisonment to a court and request that the court order the custodian of the person, usually a prison official, to bring the prisoner to court, to determine whether the detention is lawful.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50087",
+    "passage": ""
   }
 ]
