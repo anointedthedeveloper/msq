@@ -1669,5 +1669,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57742",
     "passage": ""
+  },
+  {
+    "id": 57745,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Relationship between tables in a relational model are created by",
+    "options": {
+      "A": "foreign keys",
+      "B": "determinants",
+      "C": "composite keys",
+      "D": "candidates keys"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Foreign Key is used to establish relationships between two tables. A foreign key will require each value in a column or set of columns to match the Primary Key of the referential table. Foreign keys help to maintain data and referential integrity. A composite Key is a set of two or more attributes that help identify each tuple in a table uniquely. and a Candidate keys are those attributes that uniquely identify rows of a table.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57745",
+    "passage": ""
   }
 ]
