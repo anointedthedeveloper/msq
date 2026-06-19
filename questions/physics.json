@@ -11637,5 +11637,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14485",
     "passage": ""
+  },
+  {
+    "id": 14486,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "The diagram above shows a plank RS pivoted its center of gravity O and is in equilibrium with the weight P and Q. If a weight 2P is added to P the plank will be in equilibrium again by?",
+    "options": {
+      "A": "moving Q nearer to O",
+      "B": "moving P nearer to O",
+      "C": "addding a weight Q to Q",
+      "D": "moving P further away from O"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16367684100_phy20088.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890968/myschool/physics/16367684100_phy20088.jpg",
+    "correct_answer": "B",
+    "explanation": "If 2P is added P, the beam will bend at R side. So to keep it in equilibrium. P should be moved nearer to 0\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14486",
+    "passage": ""
   }
 ]
