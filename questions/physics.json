@@ -11742,5 +11742,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14490",
     "passage": ""
+  },
+  {
+    "id": 14491,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the effective resistance in the diagram above",
+    "options": {
+      "A": "6 Ω",
+      "B": "12 Ω",
+      "C": "18 Ω",
+      "D": "24 Ω"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9547921418_phy200839.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890998/myschool/physics/9547921418_phy200839.jpg",
+    "correct_answer": "D",
+    "explanation": "The resistors are in series ∴ Reff = R1 + R2 + ..... = 4 + 4 + 4 + 4 + 4 + 4 = 24 Ω\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14491",
+    "passage": ""
   }
 ]
