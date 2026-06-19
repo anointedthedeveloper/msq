@@ -1991,5 +1991,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49845",
     "passage": ""
+  },
+  {
+    "id": 49853,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "when a policy is cancelled before its expiry date, what is owed to the insured is",
+    "options": {
+      "A": "earned premium",
+      "B": "unearned premium",
+      "C": "return premium",
+      "D": "unpaid premium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "return premium . An amount, equal to a fraction of the premium , which is given back to the insured in the case of a cancellation, an adjustment to the rate, or an overpayment of an advance premium .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49853",
+    "passage": ""
   }
 ]
