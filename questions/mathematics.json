@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/1047",
     "passage": ""
+  },
+  {
+    "id": 1050,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "In how many ways can the word MATHEMATICS be arranged?",
+    "options": {
+      "A": "11!/(9! 2!)",
+      "B": "11!/(9! 2! 2!)",
+      "C": "11!/(2! 2! 2!)",
+      "D": "11!/(2! 2!)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Number of letter in MATHEMATICS = 11 Number of letter M = 2 Number of letter T = 2 Number of letter A = 2 Arrangement = 11!/(2! 2! 2!) ways\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/1050",
+    "passage": ""
   }
 ]
