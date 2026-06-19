@@ -3721,5 +3721,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71225",
     "passage": ""
+  },
+  {
+    "id": 71226,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "For each question, choose from the options lettered A- E, the one that most appropriately completes the sentence.Le sport.",
+    "options": {
+      "A": "Le basket-ball",
+      "B": "Le football",
+      "C": "Le rap",
+      "D": "La natation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The options are all sports, such as swimming (La natation), basketball (Le basket-ball), football (Le football), and tennis (Le tennis). Howeve rap (Le rap) is a music genre, not a sport, making it the odd one out.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71226",
+    "passage": ""
   }
 ]
