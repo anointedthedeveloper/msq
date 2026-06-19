@@ -1740,5 +1740,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73764",
     "passage": ""
+  },
+  {
+    "id": 73765,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Họpụta nke bụ narị abụọ na iri abụọ.",
+    "options": {
+      "A": "202",
+      "B": "220",
+      "C": "22",
+      "D": "2002"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The question is asking for the numerical value of \"narị abụọ na iri abụọ\" in Igbo language. This is 220",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73765",
+    "passage": ""
   }
 ]
