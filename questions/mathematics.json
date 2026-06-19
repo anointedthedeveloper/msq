@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2123",
     "passage": ""
+  },
+  {
+    "id": 2124,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "Find the locus of a point which moves such that its distance from the line y = 4 is a constant, k.",
+    "options": {
+      "A": "y = 4 \\(\\pm\\) k",
+      "B": "y = k \\(\\pm\\) 4",
+      "C": "y = 4 + k",
+      "D": "y = k - 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The line y = 4 is a horizontal line in the Cartesian plane. The distance from any point( x, y) to this line is given by d = | y - 4| and this distance to be equal to k\n| y - 4 | = k\ncase1, y - 4 = k, y = k + 4 ⇒ 4 + k\ncase2, y - 4 = - k, y = - k + 4 ⇒ 4 - k\ncombining the two solutions above, we have y = 4 \\(\\pm\\) k\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2124",
+    "passage": ""
   }
 ]
