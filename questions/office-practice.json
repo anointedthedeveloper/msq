@@ -964,5 +964,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66193",
     "passage": ""
+  },
+  {
+    "id": 66195,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The means of internal communication in an organization is",
+    "options": {
+      "A": "letter",
+      "B": "circular",
+      "C": "report",
+      "D": "catalogue"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Circular is the means of internal communication in an organisation. It is used to pass across information to all workers in an organisation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66195",
+    "passage": ""
   }
 ]
