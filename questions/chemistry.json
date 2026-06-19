@@ -657,5 +657,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/741",
     "passage": ""
+  },
+  {
+    "id": 742,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The most common type of chemical reaction which alkanes undergo is",
+    "options": {
+      "A": "substitution",
+      "B": "addition",
+      "C": "condensation",
+      "D": "polymerisation",
+      "E": "double decomposition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/742",
+    "passage": ""
   }
 ]
