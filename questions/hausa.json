@@ -6584,5 +6584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74070",
     "passage": ""
+  },
+  {
+    "id": 74071,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2017",
+    "question": "\"Tashi ka tafi\". Wannan jimla ....... ce.",
+    "options": {
+      "A": "Korau",
+      "B": "umurtau",
+      "C": "bayanau",
+      "D": "Rarfafau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Wannan jimla ... (This sentence is ... ). Answer: umurtau (a command). The sentence \"Tashi ka tafi\" is a command, meaning \"Get up and go",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74071",
+    "passage": ""
   }
 ]
