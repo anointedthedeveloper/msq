@@ -6654,5 +6654,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2949",
     "passage": ""
+  },
+  {
+    "id": 2950,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "C\\(_2\\)H\\(_5\\)OH(aq) → Y If the above reaction takes place in conc. H\\(_2\\)SO\\(_4\\) at 180\\(^0\\)C, Y represents",
+    "options": {
+      "A": "CH 4",
+      "B": "C 2 H 5 COOH",
+      "C": "C 2 H 4",
+      "D": "CH 3 OCH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Dehydration of ethanol is the process of removing water from ethanol to produce ethene, CH\\(_2\\)=CH\\(_2\\). This process can be achieved by heating ethanol with concentrated sulphuric acid H\\(_2\\)SO\\(_4\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2950",
+    "passage": ""
   }
 ]
