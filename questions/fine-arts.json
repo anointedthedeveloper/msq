@@ -1090,5 +1090,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75226",
     "passage": ""
+  },
+  {
+    "id": 75228,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In traditional Nigerian art, wall paintings are commonly found in:",
+    "options": {
+      "A": "Palaces and shrines",
+      "B": "Hospitals",
+      "C": "Warehouses",
+      "D": "Banks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Indigenous wall paintings are used for ritual and decoration in traditional settings.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75228",
+    "passage": ""
   }
 ]
