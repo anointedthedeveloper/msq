@@ -16241,5 +16241,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24270",
     "passage": ""
+  },
+  {
+    "id": 24271,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "When an astronomical telescope is in normal adjustment, the focal length of the objective lens is 50cm and that of the eyepiece is 2.5om. What is the distance between the lenses?",
+    "options": {
+      "A": "20.0cm",
+      "B": "47.5cm",
+      "C": "50.0cm",
+      "D": "52.5cm",
+      "E": "125.0cm."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "0\ne",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24271",
+    "passage": ""
   }
 ]
