@@ -1279,5 +1279,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64262",
     "passage": ""
+  },
+  {
+    "id": 64263,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Insufficient warm-up activities may result to",
+    "options": {
+      "A": "Anaemia",
+      "B": "Convulsion",
+      "C": "Nausea",
+      "D": "Strain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This may result to strain. Strain is an injury to a part of the body due to overexertion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64263",
+    "passage": ""
   }
 ]
