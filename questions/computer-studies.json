@@ -1824,5 +1824,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61418",
     "passage": ""
+  },
+  {
+    "id": 61419,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "What type of relationship can you deduce from the statement a department has many employees?",
+    "options": {
+      "A": "One-to-one",
+      "B": "One-to-many",
+      "C": "Many-to-many",
+      "D": "Many-to-one"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61419",
+    "passage": ""
   }
 ]
