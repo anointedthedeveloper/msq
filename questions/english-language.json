@@ -5123,5 +5123,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2102",
     "passage": ""
+  },
+  {
+    "id": 2103,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Fill in the blank spaces in the following sentences making use of the best of the five options\n:\nAlthough he was invited .... he was not welcome.",
+    "options": {
+      "A": "but",
+      "B": "yet",
+      "C": "so",
+      "D": "since",
+      "E": "because"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2103",
+    "passage": ""
   }
 ]
