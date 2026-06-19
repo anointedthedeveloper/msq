@@ -790,5 +790,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/160",
     "passage": ""
+  },
+  {
+    "id": 161,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "God commanded Abraham to circumcise his male descendants as",
+    "options": {
+      "A": "a rule to the world",
+      "B": "a sign of God's convenant with Abraham",
+      "C": "a mark of honour for Abraham and his descendants",
+      "D": "a remembrance of God's love",
+      "E": "a good thing to do"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/161",
+    "passage": ""
   }
 ]
