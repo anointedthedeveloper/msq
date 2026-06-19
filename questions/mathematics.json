@@ -1909,5 +1909,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/2124",
     "passage": ""
+  },
+  {
+    "id": 2125,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The chord ST of a circle is equal to the radius, r, of the circle. Find the length of arc ST.",
+    "options": {
+      "A": "πr/6",
+      "B": "πr/2",
+      "C": "πr/12",
+      "D": "πr/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/2125",
+    "passage": ""
   }
 ]
