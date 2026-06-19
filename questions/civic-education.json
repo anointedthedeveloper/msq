@@ -1447,5 +1447,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50108",
     "passage": ""
+  },
+  {
+    "id": 50109,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Drugs abuse often lead to?",
+    "options": {
+      "A": "sexually transmitted disease",
+      "B": "cancerous illness",
+      "C": "psychiatric disorder",
+      "D": "incurable ailment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A psychiatric disorder is a mental illness diagnosed by a mental health professional that greatly disturbs your thinking, moods, and/or behavior and seriously increases your risk of disability, pain, death, or loss of freedom. A person who abuses drugs is prone to this disorder",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50109",
+    "passage": ""
   }
 ]
