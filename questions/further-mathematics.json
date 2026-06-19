@@ -61,5 +61,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50123",
     "passage": ""
+  },
+  {
+    "id": 50128,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "If \\(x^{2} - kx + 9 = 0\\) has equal roots, find the values of k.",
+    "options": {
+      "A": "3, 4",
+      "B": "\\(\\pm3\\)",
+      "C": "\\(\\pm5\\)",
+      "D": "\\(\\pm6\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "For equal roots, we have that \\(b^{2} = 4ac\\), so, given a=1, b = -k and c = 9,\n\\((-k)^{2} = 4\\times1\\times9 \\implies k^{2} = 36\\)\n\\(k = \\sqrt{36} = \\pm6\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50128",
+    "passage": ""
   }
 ]
