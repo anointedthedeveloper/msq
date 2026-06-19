@@ -2538,5 +2538,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73802",
     "passage": ""
+  },
+  {
+    "id": 73803,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Ude na-esi",
+    "options": {
+      "A": "akwụkwọ",
+      "B": "ụra",
+      "C": "nri",
+      "D": "akwa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The right answer is nri (which means \"food\"). The sentence \"Ude na-esi\" means \"Ude is cooking\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73803",
+    "passage": ""
   }
 ]
