@@ -691,5 +691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/135",
     "passage": ""
+  },
+  {
+    "id": 136,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "The final interpretation pf the provisions of a federal constitution is vested in the",
+    "options": {
+      "A": "head of state",
+      "B": "council of state",
+      "C": "highest legislative body",
+      "D": "highest court of the land ."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/136",
+    "passage": ""
   }
 ]
