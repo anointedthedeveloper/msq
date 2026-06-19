@@ -3658,5 +3658,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61867",
     "passage": ""
+  },
+  {
+    "id": 62111,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "Write a QBASIC program to grade any score entered from the keyboard as either \"Poor\" for a score that is below 50% or \"Satisfactory\" for a score that is equal to or above 50%. The program execution should stop as soon as a score that is less than zero is entered.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Qbasic Program to grade entered scores\n10 REM program to grade entered scores 20 CLS 30 Score = 0 40 DO UNTIL score < 0 50 INPUT \"Enter a score:\"; Score 60 IF Score <50 THEN 70 PRINT \"Poor\" 80 ELSE 90 PRINT \"Satisfactory\" 100 END IF 110 LOOP 120 END OR\nREM PROGRAM TO GRADE ENTERED SCORES REM USING SELECT CASE...END STRUCTURE CLS DIM   SCORE AS INTEGER DO UNTIL Score < 0 INPUT \"Enter a score:\";Score SELECT CASE (SCORE) CASE 50 to 100 PRINT \"SATISFACTORY\" CASE 1 TO 49 PRINT \"POOR\" END SELECT LOOP END OR\nREM PROGRAM FOR \"GRADING SYSTEM\" CLS Score = 0 DO UNTIL Score > = 0 INPUT Score SELECT CASE (SCORE) IF Score > = 0 THEN IF Score < 50 THEN PRINT \"poor\" ELSE IF Score > = 50 THEN PRINT \"satisfactory\" END IF END IF LOOP END OR\nDIM     SCORE AS INTEGAR SCORE = 0 DO WHILE Score > = 0 INPUT \"Enter a score:\"; Score SELECT CASE (Score) CASE 50 TO 100 PRINT \"SATISFACTORY\" CASE 0 TO 49 PRINT \"POOR\" END SELECT LOOP END OR\nREM PROGRAM FOR \"GRADING SYSTEM\" CLS Score = 0 DO     while score > = 0 INPUT Score IF Score > = 0 THEN IF Score < 50 THEN PRINT \"poor\" ELSE IF Score .> = 50 THEN PRINT \"satisfactory\" END IF END IF LOOP END",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62111",
+    "passage": ""
   }
 ]
