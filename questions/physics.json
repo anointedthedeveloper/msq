@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/694",
     "passage": ""
+  },
+  {
+    "id": 695,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "At a fixed point below a liquid surface, the pressure downwards is P1 and pressure upwards is P2. It can be deduced that?",
+    "options": {
+      "A": "P 1 > P 2",
+      "B": "P 1 ≥ P 2",
+      "C": "P 1 < P 2",
+      "D": "P 1 = P 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "As the temperature increases, the molecules in the gas move faster, impacting the gas's container more frequently and exerting a greater force. This increases the pressure. And similarly As the pressure goes up, the temperature also goes up. So the temperature and the pressure is directly proportional to each other. At a fixed point, temperature is kept constant. Hence, at this point, it can be deduced that \\(P_{1} = P_{2}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/695",
+    "passage": ""
   }
 ]
