@@ -8511,5 +8511,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3647",
     "passage": ""
+  },
+  {
+    "id": 3649,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the question below, choose the expression or word which best completes each sentence : The car owner does not think about the .... of his vehicle and the other payments involved in owning it",
+    "options": {
+      "A": "transportation",
+      "B": "depreciation",
+      "C": "calculation",
+      "D": "appreciation",
+      "E": "association"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Depreciation is the reduction in the value of a car over time, which is indeed one of the hidden costs of owning a vehicle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3649",
+    "passage": ""
   }
 ]
