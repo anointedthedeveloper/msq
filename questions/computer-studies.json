@@ -16851,5 +16851,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67864",
     "passage": ""
+  },
+  {
+    "id": 67865,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The first stage of data processing activities is ?",
+    "options": {
+      "A": "Manipulation",
+      "B": "Collection",
+      "C": "Conversion",
+      "D": "Sorting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The first stage of data processing is the collection or gathering of data and recording it in a usable form.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67865",
+    "passage": ""
   }
 ]
