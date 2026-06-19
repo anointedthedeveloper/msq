@@ -1867,5 +1867,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64461",
     "passage": ""
+  },
+  {
+    "id": 64462,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A good finishing in races is described as",
+    "options": {
+      "A": "Jumping at the finishing line",
+      "B": "Looking back at other athletes",
+      "C": "Running through the finishing line",
+      "D": "Slowing down towards the finishing line"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A good finishing in racing is achieved when the athlete runs through the finishing line.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64462",
+    "passage": ""
   }
 ]
