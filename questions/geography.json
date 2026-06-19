@@ -1693,5 +1693,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/1025",
     "passage": ""
+  },
+  {
+    "id": 1031,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The medium class of layered cloud which brings continuous rain, snow or sleet is the",
+    "options": {
+      "A": "altocumulus",
+      "B": "altostratus",
+      "C": "stratocumulus",
+      "D": "nimbostratus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/1031",
+    "passage": ""
   }
 ]
