@@ -2623,5 +2623,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/3370",
     "passage": ""
+  },
+  {
+    "id": 3372,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If x varies directly as √n and x = 9 when n = 9, find x when n = (17/9)",
+    "options": {
+      "A": "4",
+      "B": "27",
+      "C": "√3",
+      "D": "√17"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(x \\propto \\sqrt{n}\\)\n\\(x = k \\sqrt{n}\\)\n\\(9 = k \\sqrt{9} \\implies 9 = 3k\\)\n\\(k = 3\\)\n\\(x = 3 \\sqrt{n}\\)\nWhen n = 17/9,\n\\(x = 3 \\times \\sqrt{\\frac{17}{9}} = \\sqrt{17}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/3372",
+    "passage": ""
   }
 ]
