@@ -680,5 +680,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/343",
     "passage": ""
+  },
+  {
+    "id": 344,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "A spirogyra cell placed was placed in solution X after 1 minute the cell has been plasmolysed, solution X was",
+    "options": {
+      "A": "Tap water",
+      "B": "a very strong sugar solution",
+      "C": "a weak sugar solution",
+      "D": "a very weak salt solution",
+      "E": "distilled water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When a plant cell is put in highly concentrated solution, it increases the pressure on the cell. Hence, plasmolysis holds in a highly concentrated solution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/344",
+    "passage": ""
   }
 ]
