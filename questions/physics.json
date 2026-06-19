@@ -15691,5 +15691,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24245",
     "passage": ""
+  },
+  {
+    "id": 24246,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Which of the following statements about solid friction is/are correct? I. Friction depends on the nature of the surfaces in contact II. Friction depends on the area of contact III. Friction always acts in the direction of motion.",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I and II only",
+      "E": "I,II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24246",
+    "passage": ""
   }
 ]
