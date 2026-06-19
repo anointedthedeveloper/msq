@@ -7726,5 +7726,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9269",
     "passage": ""
+  },
+  {
+    "id": 9270,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Factorize completely; (4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)",
+    "options": {
+      "A": "(x+5y)(7x+y)",
+      "B": "(x+5y)(7x-y)",
+      "C": "(x-5y)(7x+y)",
+      "D": "(x-5y)(7x-y)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "(4x+3y)\\(^2\\) - (3x-2y)\\(^2\\)\nUsing the differences of two squares:\n(4x+3y+3x-2y)(4x+3y-(3x-2y))\n(4x+3y+3x-2y)(4x+3y-3x+2y)\n(x+5y)(7x+y)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9270",
+    "passage": ""
   }
 ]
