@@ -12438,5 +12438,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22416",
     "passage": ""
+  },
+  {
+    "id": 22417,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Given that logp = 2 logx + 3logq, which of the following expresses p in terms of x and q?",
+    "options": {
+      "A": "p = 5xq",
+      "B": "p = 6xq",
+      "C": "p = x 2 + q 3",
+      "D": "p = 2x + 3q",
+      "E": "p = x 2 q 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2\n3\n2\n3\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22417",
+    "passage": ""
   }
 ]
