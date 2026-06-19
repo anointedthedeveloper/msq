@@ -15181,5 +15181,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/65388",
     "passage": ""
+  },
+  {
+    "id": 65390,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "2. Daniel James and three of his friends came up with the idea of starting a travel agency for college students in Nigeria. They invested sixty thousand naira each and started their dream company, SUMMER BREAK TRAVELS INC. As sales continued to grow, the management of Summer Break Travels Inc. realised they need a better tracking system for First Quarter Sales. Prepare a First Quarter Sales Worksheet that shows the sales for the first quarter using the details in the table  below\nMarkerting outlets[#]\n[a]   (a) Using function or fomula, compute the total: [i] sales at each marketing outlet; (ii) [ii] amount of money made for each vacation place. (Note: create another column \"total\")\n(b)     Format the table using the instruction below: ) the title \"Summer Break  Travels, Inc.\nFirst Quarter Sales\" should be Bold and in Upper Case;\n(ii) fill the table with white background 1 darker-25\"\n[c]      Create two charts for the first quarter sales: )\n[i] a pie chart stating the most effective sales method;\n[ii] a bar chart stating the most popular vacation place. [d]        Type in the formula used in calculating total for each location below your table\n(enclosed in\"\")\n[e]        Save, print out your work and submit to the supervisor.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Table 1                                                           markerting outlets [#]\nlocation mail campus telephone internet total bar beach lagos 5,297.23 3,871.35 4,720.45 2,998.65 16,887.68 trans amusement park ibadan 2,823.23 4,840.53 2,703.56 4,911.16 15,278.48 agodi gardens 6,256.25 7,256.12 2,436.86 7,709.32 23,657.55 obudu park calabar 2,856.15 437.20 4,997.60 1,201.45 9,492.40 total 17,232.86 16,405.20 14,857.47 16,820.58\n=SUM[B4:B7]\n=SUM[B4:E4]\nSUMMER BREAK TRAVELS ,INC FIRST QUARTER SALES\nsee photo above(bar chart)\nMarkerting outlets[#]\nBar beach lagos\ntrans amusement park ibadan\nAgodi gardens\nobudu park calabar\nMarkerting outlets [n] mail\nlocation[vacation place]\nsee photo above(pie chart)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/65390",
+    "passage": ""
   }
 ]
