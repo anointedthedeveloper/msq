@@ -3168,5 +3168,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73752",
     "passage": ""
+  },
+  {
+    "id": 73753,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "\"Wani yaro fari ya rubuta jarabawa jiya\". Kalmar da aka ja wa layi ............... ce",
+    "options": {
+      "A": "bayanau",
+      "B": "aikatau",
+      "C": "sifa",
+      "D": "suna"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\"fari\" (meaning \"white\") is an adjective used to describe the noun \"yaro\" (meaning \"boy\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73753",
+    "passage": ""
   }
 ]
