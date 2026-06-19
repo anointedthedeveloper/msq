@@ -9589,5 +9589,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/3917",
     "passage": ""
+  },
+  {
+    "id": 3918,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "In the question below choose the option nearest in meaning to the underlined : The meeting was cancelled because of the convocation",
+    "options": {
+      "A": "brought up",
+      "B": "called off",
+      "C": "broke off",
+      "D": "dropped out",
+      "E": "phased out"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\"The meeting was cancelled because of the convocation\" indicates that the meeting did not take place due to some event or gathering. In this context, \"called off\" is the option that is closest in meaning.\nExplanation: - A. \"Brought up\" means to introduce a topic or bring something to someone's attention. This is not relevant to the context of cancelling a meeting. - B. \"Called off\" means to cancel or terminate an event. This is the correct choice. - C. \"Broke off\" typically refers to the sudden interruption or ending of something, such as a conversation or a relationship. It doesn't precisely convey the idea of cancelling a meeting. - D. \"Dropped out\" usually refers to withdrawing or leaving a group or activity voluntarily, which doesn't match the context of cancelling a meeting. - E. \"Phased out\" means to gradually discontinue or reduce something over time. This is not the appropriate choice for cancelling a meeting due to a specific event.\nTherefore, the best option is B. \"Called off,\" which accurately conveys the idea that the meeting was cancelled.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/3918",
+    "passage": ""
   }
 ]
