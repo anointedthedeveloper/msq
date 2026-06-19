@@ -1468,5 +1468,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50378",
     "passage": ""
+  },
+  {
+    "id": 50379,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The marks scored by 4 students in Mathematics and Physics are ranked as shown in the table below\nCalculate the Spearmann's rank correlation coefficient.",
+    "options": {
+      "A": "0.2",
+      "B": "0.5",
+      "C": "0.6",
+      "D": "0.7"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Maths (x) Rank \\(r_{x}\\) Physics (y) Rank \\(r_{y}\\) \\(d = |r_{x} - r_{y}|\\) \\(d^{2}\\) 3 2 4 1 1 1 4 1 3 2 1 1 2 3 1 4 1 1 1 4 2 3 1 1 Total 4\n\\(\\rho = 1 - \\frac{6\\sum{d^{2}}}{n(n^{2} - 1)}\\)\n\\( 1 - \\frac{6 \\times 4}{4(4^{2} - 1)} = 1 - \\frac{24}{60}\\)\n= \\(1 - 0.4 = 0.6\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50379",
+    "passage": ""
   }
 ]
