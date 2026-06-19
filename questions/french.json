@@ -5002,5 +5002,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75871",
     "passage": ""
+  },
+  {
+    "id": 75872,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Laquelle est une couleur ?",
+    "options": {
+      "A": "chaise",
+      "B": "rouge",
+      "C": "temps",
+      "D": "bois"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The French word \"rouge\" means \"red,\" which is a color name.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75872",
+    "passage": ""
   }
 ]
