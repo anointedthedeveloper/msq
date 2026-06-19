@@ -1750,5 +1750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48195",
     "passage": ""
+  },
+  {
+    "id": 48196,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "Le mot \"notamment\" a combine de syllables?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "5",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48196",
+    "passage": ""
   }
 ]
