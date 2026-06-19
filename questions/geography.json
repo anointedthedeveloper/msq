@@ -20,5 +20,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/204",
     "passage": ""
+  },
+  {
+    "id": 205,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which pair of activities would you NOT find in an equatorial climate?\n1. commercial grain farming. 2. rice cultivation. 3. lumbering. 4. plantation agriculture. 5. dry farming",
+    "options": {
+      "A": "1 and 2",
+      "B": "2 and 5",
+      "C": "3 and 4",
+      "D": "1 and 5",
+      "E": "2 and 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/205",
+    "passage": ""
   }
 ]
