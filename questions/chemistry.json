@@ -9868,5 +9868,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4025",
     "passage": ""
+  },
+  {
+    "id": 4028,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "\\( _{11} ^{23}Na + _0^1n → _{11}^{24}Na \\) The reaction above is an example of",
+    "options": {
+      "A": "nuclear fission",
+      "B": "nuclear fusion",
+      "C": "artificial transmutation",
+      "D": "beta decay"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Artificial transmutation. It is an artificially induced nuclear reaction caused by the bombardment of a nucleus with subatomic particles or small nuclei. It is also called artififcial radioactivity.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4028",
+    "passage": ""
   }
 ]
