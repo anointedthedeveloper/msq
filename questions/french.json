@@ -2252,5 +2252,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71065",
     "passage": ""
+  },
+  {
+    "id": 71066,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Je (aller) au garage du quartier.",
+    "options": {
+      "A": "allons",
+      "B": "allez",
+      "C": "va",
+      "D": "vais"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is vais The correct sentence would be: \"Je vais au garage du quartier.\" Which translates to \"I am going to the neighborhood garage.\" The subject of the sentence is \"Je\" (I), which is a first person singular pronoun, so the verb \"aller\" must be conjugated in the first person singular form, which is \"vais\". Here's a breakdown of the other options: allez (second person plural, \"you go\") allons (first person plural, \"we go\") va (third person singular, \"he/she/it goes\") vont (third person plural, \"they go\")",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71066",
+    "passage": ""
   }
 ]
