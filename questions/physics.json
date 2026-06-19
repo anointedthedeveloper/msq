@@ -4240,5 +4240,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12275",
     "passage": ""
+  },
+  {
+    "id": 12276,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "A turning fork of frequency 340Hz is vibrated just above a cylindrical tube of height 1.2m. If water is slowly poured into the tube, at what maximum height will resonance occur. [speed of sound in air = 340ms-1]",
+    "options": {
+      "A": "0.95m",
+      "B": "0.60m",
+      "C": "0.50m",
+      "D": "0.45m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In vibration in a closed pipe/tube, the first resonance occurs at a position L = V/4f, When reading from the top of the tube,\nL\\(_1\\) = \\(\\frac{340}{4 \\times 340}\\) = 0.25m\n= 0.25m L\\(_2\\) = \\(\\frac{3V}{4f}\\)\nL\\(_2\\) = \\(\\frac{3 \\times 340}{4 \\times 340}\\)\n= 0.75m L\\(_3\\) = \\(\\frac{5V}{4f}\\)\nL\\(_3\\) = \\(\\frac{5\\times 340}{4\\times 340}\\)\n= 1.25m\nHowever, the effective length of the tube is 1.2m. Thus reading from below, the first position of resonance will be 1.20 - 0.25m = 0.95m",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12276",
+    "passage": ""
   }
 ]
