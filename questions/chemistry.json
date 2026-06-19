@@ -9553,5 +9553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3987",
     "passage": ""
+  },
+  {
+    "id": 3991,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A supersaturated solution is said to contain",
+    "options": {
+      "A": "more solute than it can dissolve at that temperature in the presence of undissolved solute",
+      "B": "as much solute as it can dissolve at that temperature  in the presence of undissolved solute",
+      "C": "as much solute as it can dissolve at that temperature",
+      "D": "more solute than it can dissolve at that temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The correct answer is D. More solute than it can dissolve at that temperature.\nA supersaturated solution is a solution that contains more dissolved solute than it can hold at equilibrium at a given temperature. This means that the solution is unstable and can precipitate out the excess solute at any moment.\nIn contrast, a saturated solution (option C) contains as much dissolved solute as it can hold at equilibrium at a given temperature, while an unsaturated solution contains less dissolved solute than it can hold.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3991",
+    "passage": ""
   }
 ]
