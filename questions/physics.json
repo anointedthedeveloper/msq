@@ -12809,5 +12809,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/21222",
     "passage": ""
+  },
+  {
+    "id": 21224,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following statements about radiant heat is/are not correct? I. radiant heat cannot travel through a vacuum II. rough surfaces emit radiant heat more than polished surfaces III. Dark surfaces absorb radiant heat more than bright surfaces",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I & II only",
+      "E": "II & III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/21224",
+    "passage": ""
   }
 ]
