@@ -8347,5 +8347,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76227",
     "passage": ""
+  },
+  {
+    "id": 76228,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Goron Sallah\" yana cikin wane nau'in adabi?",
+    "options": {
+      "A": "Tatsuniya",
+      "B": "Adabin baka",
+      "C": "Adabin Turanci",
+      "D": "Adabin zamani"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "It's an oral tradition, part of communal practices where symbolic gifts like goro are exchanged.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76228",
+    "passage": ""
   }
 ]
