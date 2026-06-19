@@ -196,5 +196,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15795",
     "passage": ""
+  },
+  {
+    "id": 15804,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Which of the following is not associated with surface irrigation?",
+    "options": {
+      "A": "natural flooding",
+      "B": "check flooding",
+      "C": "sprinkler irrigation",
+      "D": "mole drains",
+      "E": "tiles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15804",
+    "passage": ""
   }
 ]
