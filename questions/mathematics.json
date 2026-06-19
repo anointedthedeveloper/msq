@@ -9532,5 +9532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9804",
     "passage": ""
+  },
+  {
+    "id": 9805,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "From the diagram above, find x",
+    "options": {
+      "A": "65 o",
+      "B": "50 o",
+      "C": "75 o",
+      "D": "55 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/21722975424_maths201028.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868896/myschool/mathematics/21722975424_maths201028.jpg",
+    "correct_answer": "A",
+    "explanation": "∠RTS = 90o (∠ in semi circle) ∠UTS = 25o (∠ in alternate segment) X + 90 + 25 = 180(sum of ∠s on a str line) X + 115 = 180 X = 180 - 115 X = 65o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9805",
+    "passage": ""
   }
 ]
