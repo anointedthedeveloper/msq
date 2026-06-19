@@ -13872,5 +13872,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12819",
     "passage": ""
+  },
+  {
+    "id": 12823,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Under high pressure, real gases do not obey gas laws because their molecules?",
+    "options": {
+      "A": "have become more energetic",
+      "B": "have become less energetic",
+      "C": "have become smaller in size",
+      "D": "decompose into atoms",
+      "E": "start repelling each other"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Van der Waals noticed the behavior of real gases at low temperature and high pressure possesses weak but short range forces.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12823",
+    "passage": ""
   }
 ]
