@@ -4498,5 +4498,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75424",
     "passage": ""
+  },
+  {
+    "id": 75425,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Madame Nana est nee_25 aout 1940.",
+    "options": {
+      "A": "les",
+      "B": "la",
+      "C": "le",
+      "D": "l'"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In French, all dates begin with \"le\", like \"le 1er mai\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75425",
+    "passage": ""
   }
 ]
