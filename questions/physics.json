@@ -8062,5 +8062,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14031",
     "passage": ""
+  },
+  {
+    "id": 14032,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "When cold water is poured on a can containing hot water, the can collapses because the?",
+    "options": {
+      "A": "steam condeses and occupies the partial vacuum in the can",
+      "B": "external air pressure counter balances the pressure within the can",
+      "C": "steam expands to occupy the vacuum remaining in the can",
+      "D": "external pressure becomes greater than the pressure within the can."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Cold water reduces the temperature of the hot water inside the can causing the contraction of the hot water. This reduces the pressure inside the can and the can collapses due to the external greater expression.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14032",
+    "passage": ""
   }
 ]
