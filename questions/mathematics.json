@@ -10077,5 +10077,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/10928",
     "passage": ""
+  },
+  {
+    "id": 10929,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "In the diagram above, a cylinder is summounted by a  hemisphere bowl. Calculate the volume of the solid.",
+    "options": {
+      "A": "180 πcm 3",
+      "B": "162 πcm 3",
+      "C": "216 πcm 3",
+      "D": "198 πcm 3"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14942028981_maath200234.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868956/myschool/mathematics/14942028981_maath200234.jpg",
+    "correct_answer": "D",
+    "explanation": "2\n2\n3\n2\n3πr 3\n2\n3\n2\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10929",
+    "passage": ""
   }
 ]
