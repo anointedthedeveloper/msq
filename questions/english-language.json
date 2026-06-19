@@ -64,5 +64,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/89",
     "passage": ""
+  },
+  {
+    "id": 92,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence;\nThe leader in today's issue of our popular newspaper focuses on inflation",
+    "options": {
+      "A": "president",
+      "B": "headline",
+      "C": "editorial",
+      "D": "columnist",
+      "E": "proprietor"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A leader in a newspaper is a piece of writing which gives the editor's opinion on an important news item.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/92",
+    "passage": ""
   }
 ]
