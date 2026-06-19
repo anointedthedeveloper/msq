@@ -1321,5 +1321,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/76301",
     "passage": ""
+  },
+  {
+    "id": 76302,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "The Ekpo masquerade is common among the",
+    "options": {
+      "A": "Eggon",
+      "B": "Ibibio",
+      "C": "Agatu",
+      "D": "Urhobo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Ekpo masquerade is common among the Ibibio people. Masquerades are a part of traditional African religions and are often associated with spiritual and cultural events.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/76302",
+    "passage": ""
   }
 ]
