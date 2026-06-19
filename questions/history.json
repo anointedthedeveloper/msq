@@ -12395,5 +12395,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68560",
     "passage": ""
+  },
+  {
+    "id": 68561,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which initiative was launched by the Buhari administration to tackle corruption in Nigeria?",
+    "options": {
+      "A": "EFCC (Economic and Financial Crimes Commission)",
+      "B": "Operation Python Dance",
+      "C": "Operation Crocodile Smile",
+      "D": "Operation Lafiya Dole"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Buhari administration launched the EFCC to tackle corruption in Nigeria.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68561",
+    "passage": ""
   }
 ]
