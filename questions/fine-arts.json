@@ -2686,5 +2686,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75400",
     "passage": ""
+  },
+  {
+    "id": 75401,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "A sculpture that moves or has kinetic parts is called:",
+    "options": {
+      "A": "Static",
+      "B": "Relief sculpture",
+      "C": "Mobile",
+      "D": "Environmental sculpture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A mobile is a kinetic sculpture that moves, usually by air or a motor. Invented by Marcel Duchamp for Alexander Calder’s work, mobiles are balanced to gently rotate and change shape with the breeze.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75401",
+    "passage": ""
   }
 ]
