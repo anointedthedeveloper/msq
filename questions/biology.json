@@ -262,5 +262,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/315",
     "passage": ""
+  },
+  {
+    "id": 318,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following is a characteristic of animal cell?",
+    "options": {
+      "A": "Presence of chloroplast",
+      "B": "possession of cellulose cell-wall",
+      "C": "absence of large vacuoles",
+      "D": "presence of large vacuoles",
+      "E": "presence of chromosome"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Unlike the plant cell which possesses one or a few large vacuoles, the animal cell possesses vacuoles but they are smaller in size and plenty in quantity when compared to that of the plants.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/318",
+    "passage": ""
   }
 ]
