@@ -6716,5 +6716,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76507",
     "passage": ""
+  },
+  {
+    "id": 76508,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "In a school setting, what is a key safety practice during emergency drills?",
+    "options": {
+      "A": "Staying calm and following instructions from teachers",
+      "B": "Gathering all personal belongings before leaving",
+      "C": "Leaving the building through the main entrance only",
+      "D": "Running quickly to the nearest exit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "During emergency drills in a school setting, maintaining calm and listening carefully to teachers or drill supervisors is crucial for ensuring an orderly and safe evacuation. Panic or rushing (like running) can cause accidents or injuries. Also, stopping to gather belongings or trying to exit through only one door can cause dangerous congestion. Following instructions helps everyone evacuate efficiently and safely.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76508",
+    "passage": ""
   }
 ]
