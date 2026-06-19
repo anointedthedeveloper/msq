@@ -6685,5 +6685,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2990",
     "passage": ""
+  },
+  {
+    "id": 2991,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Fill the blank spaces with the most appropriate of options A-E : When we were coming back from the picnic last Friday, there …. on EKO bridge.",
+    "options": {
+      "A": "Were many traffics",
+      "B": "Was much traffic",
+      "C": "Were plenty traffic",
+      "D": "Were losts of traffic",
+      "E": "Was a few traffic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Traffic is an uncountable noun, so it does not take a plural verb ( were ), and does not combine with plural quantifiers like many , plenty , lots or a few .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2991",
+    "passage": ""
   }
 ]
