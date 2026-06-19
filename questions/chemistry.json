@@ -63,5 +63,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4",
     "passage": ""
+  },
+  {
+    "id": 5,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "The periodic classification of elements is an arrangement of the elements in order of their",
+    "options": {
+      "A": "Atomic Weights",
+      "B": "Isotopic Weights",
+      "C": "Molecular Weights",
+      "D": "Atomic Numbers",
+      "E": "Atomic Masses"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Henry Moseley arranged the elements in the periodic table by their atomic number and this gave rise to the statement of the modern periodic law",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/5",
+    "passage": ""
   }
 ]
