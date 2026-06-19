@@ -11683,5 +11683,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64134",
     "passage": ""
+  },
+  {
+    "id": 64135,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A permanent memory, which has data and instruction to start up the computer and does not erase data after power off.",
+    "options": {
+      "A": "network interface card",
+      "B": "CPU",
+      "C": "RAM",
+      "D": "ROM"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The read only memory does not erase data after power off because, it is a non volatile memory.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64135",
+    "passage": ""
   }
 ]
