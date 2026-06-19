@@ -15032,5 +15032,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23155",
     "passage": ""
+  },
+  {
+    "id": 23156,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "The diagram above shows the shaded segment of a circle of radius 7cm. if the area of the triangle OXY is 12\\(\\frac{1}{4}\\)cm\\(^2\\), calculate the area of the segment [Take π = 22/7]",
+    "options": {
+      "A": "5/12cm 2",
+      "B": "7/12cm 2",
+      "C": "11/6cm 2",
+      "D": "2 1/3cm 2",
+      "E": "6 1/6cm 2"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12459928527_wcmath199218.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781909597/myschool/mathematics/12459928527_wcmath199218.jpg",
+    "correct_answer": "B",
+    "explanation": "Area of \\(\\Delta OXY\\) = \\(12\\frac{1}{4} cm^2\\)\nArea of sector OXY = \\(\\frac{30}{360} \\times \\frac{22}{7} \\times 7 \\times 7\\)\n= \\(\\frac{77}{6} = 12\\frac{5}{6} cm^2\\)\nArea of the shaded portion = \\(12\\frac{5}{6} - 12\\frac{1}{4}\\)\n= \\(\\frac{7}{12} cm^2\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23156",
+    "passage": ""
   }
 ]
