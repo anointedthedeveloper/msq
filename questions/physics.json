@@ -7852,5 +7852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14014",
     "passage": ""
+  },
+  {
+    "id": 14015,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "I. Force (N) II.Torque (Nm) III. Current (A) IV. Power (W) Which of the above are the correct S. I: units of the quantities indicated?",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "I, II and III only",
+      "D": "I, II, III and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "∴i,ii, iii and iv have correct units.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14015",
+    "passage": ""
   }
 ]
