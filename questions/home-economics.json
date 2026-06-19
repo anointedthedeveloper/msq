@@ -2623,5 +2623,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73298",
     "passage": ""
+  },
+  {
+    "id": 73299,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Abrasives are not suitable for cleaning ..................",
+    "options": {
+      "A": "Pots",
+      "B": "Brass",
+      "C": "Pans",
+      "D": "Polished woods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Abrasives are not suitable for cleaning polished woods because they can:\nScratch the surface Damage the finish Remove the polish or wax coating\nPolished woods require gentle cleaning with a soft cloth and a mild cleaner to maintain their appearance and protect the finish.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73299",
+    "passage": ""
   }
 ]
