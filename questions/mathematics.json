@@ -16220,5 +16220,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23209",
     "passage": ""
+  },
+  {
+    "id": 23210,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "In the diagram above, QRS is a straight line, QP//RT, PRQ = 56°, ∠QPR =84° and ∠TRS = x°. Find x",
+    "options": {
+      "A": "28°",
+      "B": "40°",
+      "C": "44°",
+      "D": "84°",
+      "E": "124°"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12463007832_wcmath199324.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781910151/myschool/mathematics/12463007832_wcmath199324.jpg",
+    "correct_answer": "B",
+    "explanation": "< PQR = 180° - (84° + 56°)\n= 40°\n\\(\\therefore\\) x = 40° (corresponding angles QP// RT)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23210",
+    "passage": ""
   }
 ]
