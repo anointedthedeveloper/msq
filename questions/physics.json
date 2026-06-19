@@ -3925,5 +3925,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12260",
     "passage": ""
+  },
+  {
+    "id": 12261,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "At what frequency would a capacitor of 2.5μF used in the radio circuit have a reactance of 250Ω",
+    "options": {
+      "A": "\\(\\frac{π}{800}\\) Hz",
+      "B": "\\(\\frac{800}{\\pi}\\) Hz",
+      "C": "200π Hz",
+      "D": "2000π Hz"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "X\\(_c\\) = \\(\\frac{1}{2\\pi f c}\\)\nf = \\(\\frac{1}{ 2 \\pi f C}\\) = \\(\\frac{1}{\\pi \\times 2 \\times 250 \\times 2.5 \\times 10^{-6}}\\)\nf = \\(\\frac{1\\times 10^6}{ 1250 \\pi}\\)\nf = \\(\\frac{800}{π}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12261",
+    "passage": ""
   }
 ]
