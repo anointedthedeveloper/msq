@@ -1333,5 +1333,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/57720",
     "passage": ""
+  },
+  {
+    "id": 57722,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The MS Excel worksheet below shows the salary distribution for four staff in a company. The net salary is paid after deductions have been made.\nWhich of the following cells contain numeric data?",
+    "options": {
+      "A": "A1",
+      "B": "A2",
+      "C": "C3",
+      "D": "E1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cell C3 contains numeric data i.e. 35000, A1, and A2 alpha-numeric data while E1 contains alphabets only, therefore, OPTION C is correct.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/57722",
+    "passage": ""
   }
 ]
