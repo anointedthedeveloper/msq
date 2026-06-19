@@ -5086,5 +5086,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75875",
     "passage": ""
+  },
+  {
+    "id": 75876,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Le mot \"rapide\" est un :",
+    "options": {
+      "A": "nom",
+      "B": "adverbe",
+      "C": "verbe",
+      "D": "adjectif"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The French word \"rapide\" is an adjective used to describe nouns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75876",
+    "passage": ""
   }
 ]
