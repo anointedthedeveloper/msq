@@ -11763,5 +11763,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14491",
     "passage": ""
+  },
+  {
+    "id": 14492,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Given the inductor of inductance 5mH, 10mH and 20mH connected in series, the effective inductance is",
+    "options": {
+      "A": "0.35mH",
+      "B": "3.50mH",
+      "C": "2.90mH",
+      "D": "35.0mH"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4091967714_phy200844.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891005/myschool/physics/4091967714_phy200844.jpg",
+    "correct_answer": "D",
+    "explanation": "Left = L1 + L2 + L3 = 5mH + 10mH + 20mH = 35mH\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14492",
+    "passage": ""
   }
 ]
