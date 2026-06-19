@@ -11767,5 +11767,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4444",
     "passage": ""
+  },
+  {
+    "id": 4445,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the option nearest in meaning to the underlined word or phrase : Stephen was blamed for leaving his door ajar during the heavy rainfall.",
+    "options": {
+      "A": "unlocked",
+      "B": "unbolted",
+      "C": "open",
+      "D": "keyless",
+      "E": "locked"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The underlined word “ajar” means slightly open , especially of a door or window.\nSo in the sentence:\nThe closest meaning is open .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4445",
+    "passage": ""
   }
 ]
