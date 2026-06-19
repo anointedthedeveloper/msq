@@ -1677,5 +1677,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/1472",
     "passage": ""
+  },
+  {
+    "id": 1473,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "Which of the following metals is passive to concentrated trioxonitrate (V) acid?",
+    "options": {
+      "A": "Iron",
+      "B": "Tin",
+      "C": "Copper",
+      "D": "Zinc"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/1473",
+    "passage": ""
   }
 ]
