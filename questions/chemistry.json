@@ -8083,5 +8083,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3289",
     "passage": ""
+  },
+  {
+    "id": 3290,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "CH3 - CH2 - C ≡ CH The hybridization in the compound above is",
+    "options": {
+      "A": "Sp 2",
+      "B": "sp",
+      "C": "sp 3 and sp 2",
+      "D": "sp 3 and sp"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In the molecule CH3-CH2-C≡CH, the hybridization of the carbon atoms are: sp3 for the first carbon (CH3), sp3 for the second carbon (CH2), sp for the third carbon (C≡C), and sp for the fourth carbon (C≡CH).\nsp3 hybridization: The first and second carbon atoms are each bonded to four other atoms (three hydrogen atoms and one carbon atom), so they are sp3 hybridized. sp hybridization: The third and fourth carbon atoms are involved in a triple bond, which requires the use of sp hybrid orbitals to form the strong sigma bond and two pi bonds.\nKey points to remember:\nA carbon atom with single bonds to four other atoms is sp3 hybridized. A carbon atom with one double bond and two single bonds is sp2 hybridized. A carbon atom with a triple bond and one single bond is sp hybridized.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3290",
+    "passage": ""
   }
 ]
