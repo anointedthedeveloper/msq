@@ -4767,5 +4767,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62294",
     "passage": ""
+  },
+  {
+    "id": 62295,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "(a) What is a computer file?\n(b) State two features each of: (i) transaction file (ii) reference file.\n(c) List two: (i) effects of file insecurity (ii) methods of securing files.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Is a block of arbitrary information or resource tor Storing information which is available to a computer program and is usually base on some kind of durable storage.\n(b)(i) (1) contains details of all transactions that may occur in the last period (2) once the data has been processed, it can be discarded\n(3) contains temporary collection of data (4) the records may not be in any order at all. (ii) Stores data needed for reference purposes. It's fairly permanent in nature.\n(c) (i) Data loss and Overwriting (ii) Data backup and Anti-virus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62295",
+    "passage": ""
   }
 ]
