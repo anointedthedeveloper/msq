@@ -2571,5 +2571,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1338",
     "passage": ""
+  },
+  {
+    "id": 1339,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option\nnearest in meaning\nto the underlined statement or words:\nHe\ntook a quick look\nat the poor man, shook his head and took to his heels",
+    "options": {
+      "A": "glanced at",
+      "B": "viewed",
+      "C": "observed",
+      "D": "gazed at",
+      "E": "spied"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1339",
+    "passage": ""
   }
 ]
