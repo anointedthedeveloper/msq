@@ -12723,5 +12723,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22606",
     "passage": ""
+  },
+  {
+    "id": 22607,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Find the 4th term of an A.P, whose first term is 2 and the common difference is 0.5",
+    "options": {
+      "A": "0.5",
+      "B": "2.5",
+      "C": "3.5",
+      "D": "4",
+      "E": "4.5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(U_{n} = a + (n - 1)d\\)\n\\(U_{4} = 2 + (4 - 1) \\times 0.5\\)\n= \\(2 + 1.5\\)\n= 3.5",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22607",
+    "passage": ""
   }
 ]
