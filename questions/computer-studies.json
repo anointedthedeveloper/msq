@@ -8809,5 +8809,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62685",
     "passage": ""
+  },
+  {
+    "id": 62686,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The term compiler in computer programming refers to a?",
+    "options": {
+      "A": "key punch operator of the computer.",
+      "B": "person who compiles source programs.",
+      "C": "person who writes the computer programming codes.",
+      "D": "program which translates source program into object program."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62686",
+    "passage": ""
   }
 ]
