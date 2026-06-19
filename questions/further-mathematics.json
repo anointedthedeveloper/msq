@@ -2517,5 +2517,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50428",
     "passage": ""
+  },
+  {
+    "id": 50429,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Simplify \\(\\frac{1 - 2\\sqrt{5}}{2 + 3\\sqrt{2}}\\).",
+    "options": {
+      "A": "\\(14(2\\sqrt{2} + 6\\sqrt{5} - 4\\sqrt{10})\\)",
+      "B": "\\(\\frac{1}{14}(2 - 3\\sqrt{2} - 4\\sqrt{5} - 6\\sqrt{10})\\)",
+      "C": "\\(\\frac{1}{14}(3\\sqrt{2} + 4\\sqrt{5} - 6\\sqrt{10} - 2)\\)",
+      "D": "\\(14(2 + 3\\sqrt{2} - 6\\sqrt{5} + 4\\sqrt{10})\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\frac{1 - 2\\sqrt{5}}{2 + 3\\sqrt{2}} = (\\frac{1 - 2\\sqrt{5}}{2 + 3\\sqrt{2}})(\\frac{2 - 3\\sqrt{2}}{2 - 3\\sqrt{2}})\\)\n= \\(\\frac{2 - 3\\sqrt{2} - 4\\sqrt{5} + 6\\sqrt{10}}{4 - 6\\sqrt{2} + 6\\sqrt{2} - 18}\\)\n= \\(\\frac{2 - 3\\sqrt{2} - 4\\sqrt{5} + 6\\sqrt{10}}{-14}\\)\n= \\(\\frac{1}{14}(3\\sqrt{2} + 4\\sqrt{5} - 2 - 6\\sqrt{10})\\) (dividing through with the minus sign)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50429",
+    "passage": ""
   }
 ]
