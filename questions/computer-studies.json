@@ -1908,5 +1908,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61490",
     "passage": ""
+  },
+  {
+    "id": 61491,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "The part of the computer system shown in Figure 11 is used to",
+    "options": {
+      "A": "perform memory test",
+      "B": "power on or off the computer",
+      "C": "print a document from the computer",
+      "D": "reset the computer to factory setting"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/zvuo0cdbEW09QENcfnviqmjFpBXE0a05R18ksz3O.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781901055/myschool/computer-studies/zvuo0cdbEW09QENcfnviqmjFpBXE0a05R18ksz3O.jpg",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61491",
+    "passage": ""
   }
 ]
