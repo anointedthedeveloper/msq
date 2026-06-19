@@ -2559,5 +2559,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50430",
     "passage": ""
+  },
+  {
+    "id": 50431,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Solve: \\(4(2^{x^2}) = 8^{x}\\)",
+    "options": {
+      "A": "(1, 2)",
+      "B": "(1, -2)",
+      "C": "(-1, 2)",
+      "D": "(-1, -2)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(4(2^{x^2}) = 8^{x}  \\equiv (2^{2})(2^{x^2}) = (2^{3})^{x}\\)\n\\(\\implies 2^{2 + x^{2}} = 2^{3x}\\)\nComparing bases, we have\n\\(2 + x^{2} = 3x \\implies x^{2} - 3x + 2 = 0\\)\n\\(x^{2} - 2x - x + 2 = 0 \\)\n\\(x(x - 2) - 1(x - 2) = 0\\)\n\\((x - 1) = 0\\) or \\((x - 2) = 0\\)\n\\(x = \\text{1 or 2}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50431",
+    "passage": ""
   }
 ]
