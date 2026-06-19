@@ -13342,5 +13342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64389",
     "passage": ""
+  },
+  {
+    "id": 64396,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Applications on a screen are displayed by __________",
+    "options": {
+      "A": "Cursor",
+      "B": "icon",
+      "C": "Home screen",
+      "D": "App drawer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A launcher icon displays applications on the screen.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64396",
+    "passage": ""
   }
 ]
