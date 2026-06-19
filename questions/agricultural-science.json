@@ -6421,5 +6421,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16756",
     "passage": ""
+  },
+  {
+    "id": 16758,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "One of the limitation of machanization of farms is",
+    "options": {
+      "A": "reduction in the cost of production",
+      "B": "exposure of soil to the effects of climate",
+      "C": "increase in yield of crops",
+      "D": "reduction of farm labour",
+      "E": "cultivation of more area of land"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "While both options can be considered limitations, reducing farm labor is a more direct consequence of mechanization, leading to potential unemployment and economic issues in rural areas. Option B refers to soil exposure, which is also a concern but is more about environmental impact than a direct limitation of mechanization itself.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16758",
+    "passage": ""
   }
 ]
