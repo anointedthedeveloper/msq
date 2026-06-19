@@ -6130,5 +6130,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13711",
     "passage": ""
+  },
+  {
+    "id": 13714,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The ray which causes gas molecules to glow is known as",
+    "options": {
+      "A": "cathode ray",
+      "B": "anode ray",
+      "C": "molecular ray",
+      "D": "gamma ray"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The ray which causes gas molecules to fluoresce or glow is the cathode rays\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13714",
+    "passage": ""
   }
 ]
