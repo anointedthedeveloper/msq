@@ -2286,5 +2286,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50417",
     "passage": ""
+  },
+  {
+    "id": 50418,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find an expression for y given that \\(\\frac{\\mathrm d y}{\\mathrm d x} = x^{2}\\sqrt{x}\\)",
+    "options": {
+      "A": "\\(\\frac{1x^{\\frac{2}{7}}}{7} + c\\)",
+      "B": "\\(\\frac{2x^{\\frac{3}{2}}}{7} + c\\)",
+      "C": "\\(\\frac{2x^{\\frac{7}{2}}}{7} + c\\)",
+      "D": "\\(\\frac{1x^{\\frac{7}{2}}}{7} + c\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(x^{2}\\sqrt{x} \\equiv x^{2}. x^{\\frac{1}{2}} = x^{\\frac{5}{2}}\\)\n\\(\\implies \\frac{\\mathrm d y}{\\mathrm d x} = x^{\\frac{5}{2}}\\)\n\\(y = \\int x^{\\frac{5}{2}} \\mathrm d x\\)\n= \\(\\frac{x^{\\frac{5}{2} + 1}}{\\frac{5}{2} + 1} + c\\)\n= \\(\\frac{2x^{\\frac{7}{2}}}{7} + c\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50418",
+    "passage": ""
   }
 ]
