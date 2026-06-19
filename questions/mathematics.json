@@ -9679,5 +9679,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9959",
     "passage": ""
+  },
+  {
+    "id": 10307,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "Find ∫(sin x + 2)dx",
+    "options": {
+      "A": "cos x + x 2 + K",
+      "B": "cos x 2x + K",
+      "C": "-cos x + x 2 + K",
+      "D": "-cos x + 2x + K"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "∫(sin χ + 2)dχ = (∫sin χ + ∫2)dx = -cos χ + 2χ + K\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/10307",
+    "passage": ""
   }
 ]
