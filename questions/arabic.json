@@ -460,5 +460,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75203",
     "passage": ""
+  },
+  {
+    "id": 75204,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": ":\"اختر مرادف كلمة \"جميل",
+    "options": {
+      "A": "قصیر",
+      "B": "طويل",
+      "C": "يشع",
+      "D": "وسيم"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": ". in context of good appearance \"جميل\" is a synonym of \"وسيم\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75204",
+    "passage": ""
   }
 ]
