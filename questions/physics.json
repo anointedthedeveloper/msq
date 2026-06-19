@@ -16943,5 +16943,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24993",
     "passage": ""
+  },
+  {
+    "id": 24994,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A body moves along a circular path with uniform angular speed of 0.6 rad s\n-1\nand at a constant speed of 3.0ms\n-1\n. Calculate the acceleration of the body towards the centre of the circle.",
+    "options": {
+      "A": "25.0ms -2",
+      "B": "5.4 ms -2",
+      "C": "5.0ms -2",
+      "D": "1.8 ms -2",
+      "E": "0.2ms -2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "-2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24994",
+    "passage": ""
   }
 ]
