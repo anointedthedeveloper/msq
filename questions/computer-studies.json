@@ -3690,5 +3690,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62180",
     "passage": ""
+  },
+  {
+    "id": 62181,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2021",
+    "question": "A supermarket listed ten items on sale. Use Microsoft Excel application to create an inventory for the supermarket. (a) Type in the following headings from cell A1 to F1 respectively. SN, Goods Cost Price, Selling Price, Gain/Loss and Target.\n(b) Populate the table by supplying ten different items sold in a supermarket. In column A, fill in the numbers 1 to 10 from cells A2 to A11. Similarly, list the ten items from cells B2 to B11. Supply Cost Price and Selling Price from cell B2 to B11. Supply Cost Price and Selling Price from cells C2 to C11 and D2 to D11 respectively. Note that it is possible to have some selling prices lower than the cost price. Create borders around the table.\n(c) Use formula or function to calculate; (i) the gain (if the selling price is higher than the cost price) or the loss (if the cost price is higher than the selling price) of each item from cells E2 to E11 (ii) 110% of the cost price of each item from cells F2 to F11.\n(d) Determine whether target is met or not by typing \"target met\" or \"target not met\" in cells H2 to H11 for each item. Note that target is met when the selling price is 110% of the cost price or more otherwise target is not met.\n(e) Insert a footer and type in your full name  and index number.\n(f) Save your work in the folder created on the desktop using your full name as th file name.\n(g) Print your work showing formulas and functions and submit to the supervisor.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "S/N Goods Cost Price Selling Price Gain/Loss Target Target met/Target not met 1 Rice 21000 24500 =Sum(D1-D2) =110/100*C2 Target met 2 Beans 7800 7500 =Sum(D3-D3) =110/100*C3 Target not met 3 Garri 4300 4800 =SUM(D4-C4) =110/100*C4 Target met 4 Elubo 6730 8920 =SUM(D5-C5) =110/100*C5 Target met 5 Wheat 11710 11650 =SUM(D6-C6) =110/100*C6 Target not met 6 Sugar 5250 6750 =SUM(D7-C7) =110/100*C7 Target 7 Poundo Yam 1250 2110 =SUM(D8-C8) =110/100*C8 Target met 8 Semovita 4500 5200 =SUM(D9-C9) =110/100*C9 Target met 9 Milo 1500 1450 =SUM(D10-C10) =110/100*C10 Target not met 10 Milk 1670 1680 =SUM(D11-C11) =110/100*C11 Target met",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62181",
+    "passage": ""
   }
 ]
