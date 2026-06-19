@@ -2014,5 +2014,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64469",
     "passage": ""
+  },
+  {
+    "id": 64470,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following equipment is used in javelin?",
+    "options": {
+      "A": "Crossbar",
+      "B": "Measuring tape",
+      "C": "Pole",
+      "D": "Shuttle Cork"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The measuring tape could be useful in a javelin throw to determine how far the javelin has travelled after a throw.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64470",
+    "passage": ""
   }
 ]
