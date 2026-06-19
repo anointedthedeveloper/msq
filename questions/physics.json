@@ -11784,5 +11784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14492",
     "passage": ""
+  },
+  {
+    "id": 14493,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If electron are accelerated from rest through a potential difference of 10kv, what is the wavelength of the associated electron? [m = 9.1 x 10\\(^{-31}\\)kg, e = 1.6 x 10\\(^{-19}\\)C, h = 6.6 x 10\\(^{-34}\\)js]",
+    "options": {
+      "A": "1.22 x 10 -11 m",
+      "B": "3.87 x 10 -10 m",
+      "C": "2.27 x 10 11 m",
+      "D": "2.27 x 10 14 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(\\lambda\\) = \\(\\frac{h}{\\sqrt{2evm}}\\)\n= \\(\\frac{6.6 \\times 10^{34}}{\\sqrt{ 2 \\times 1.6 \\times 10^{-19} \\times 10000 \\times 9.1 \\times 10^{-31}}}\\)\n= 1.223 x 10\\(^{-11}\\)m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14493",
+    "passage": ""
   }
 ]
