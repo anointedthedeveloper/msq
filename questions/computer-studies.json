@@ -17859,5 +17859,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/69858",
     "passage": ""
+  },
+  {
+    "id": 69859,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Stored instructions and data in digital computer consist of",
+    "options": {
+      "A": "bits.",
+      "B": "numerals.",
+      "C": "alphabets",
+      "D": "characters."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Stored instructions and data in a digital computer consist of \"bits.\" A bit is the smallest unit of information in a digital computer. It can be either a 0 or a 1. Bits are combined to form bytes, which are used to represent characters, numbers, and instructions. Alphabets, numerals, and characters are all represented by bits in a digital computer. For example, the letter \"A\" can be represented by the bits 01000001, the number \"1\" can be represented by the bits 00000001, and the character \"@\" can be represented by the bits 01001000. The instructions that a computer follows are also stored as bits. These instructions tell the computer what to do, such as add two numbers, print a message, or open a file. Bits are the foundation of all data and instructions in a digital computer. Without bits, computers would not be able to function.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/69859",
+    "passage": ""
   }
 ]
