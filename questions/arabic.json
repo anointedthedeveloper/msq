@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75266",
     "passage": ""
+  },
+  {
+    "id": 75269,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Read the passage below to answer questions below. .العقل زينة\"؛ هذا القول يوضح أن التفكير السليم والتعقل يجمل شخصية الإنسان ويجعله محط احترام .أما \"العلم في الصغر كالنقش في الحجر\"، فهو يشير إلى أن التعلم في سن مبكرة يبقى راسخًا في الذاكرة ولا يُنسى بسهولة .ويقال أيضًا: \"الكتاب خير جليس\"، تعبيرًا عن أهمية القراءة وأن الكتاب رفيق صامت ومفيد لا يُمل منه .ومن الحكم المعروفة: \"الصحة أغلى من الذهب\"، إشارة إلى أن الصحة لا تقدر بتمن وهي أفضل من أي مال أو تروة .ويختم المثل \"من جد وجد\" بحكمة تحت على المتابرة والاجتهاد لتحقيق الأهداف ما الفكرة الرئيسية في الجملة: \"الصحة أغلى من الذهب\"؟",
+    "options": {
+      "A": "الذهب لا فائدة منه",
+      "B": "الصحة لا قيمة لها",
+      "C": "الصحة كنز تمين",
+      "D": "الذهب أغلى من الصحة"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The statement underscores that health is more precious than gold, as wealth is meaningless without well-being.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75269",
+    "passage": ""
   }
 ]
