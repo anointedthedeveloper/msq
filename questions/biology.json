@@ -1142,5 +1142,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/388",
     "passage": ""
+  },
+  {
+    "id": 389,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The region of cell division in a root is",
+    "options": {
+      "A": "Root cap",
+      "B": "Endodermis",
+      "C": "Xylem",
+      "D": "Piliferous layer",
+      "E": "Meristem"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/389",
+    "passage": ""
   }
 ]
