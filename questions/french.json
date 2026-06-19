@@ -4393,5 +4393,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/75418",
     "passage": ""
+  },
+  {
+    "id": 75419,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Read thepassage carefully and answer the questions. La Visite au Marche Samedi matin, Fatou accompagne sa mère au marché. Elles partent tôt pour éviter la foule. Le marché est coloré et bruyant. Il y a des vendeurs de fruits, de légumes, de poissons et de vêtements. Fatou aide sa mère à porter les paniers. Apres les achats, elles rentrent a la maison en taxi. Fatou aime ces sorties avec sa mère. Pourquoi Fatou et sa mere partent-elles tot au marché ?",
+    "options": {
+      "A": "Pour aller à l'école",
+      "B": "Pour éviter la foule",
+      "C": "Pour acheter des vetements",
+      "D": "Pour rencontrer des amis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Le passage mentionne que \"Fatou aide sa mère à porter les paniers.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/75419",
+    "passage": ""
   }
 ]
