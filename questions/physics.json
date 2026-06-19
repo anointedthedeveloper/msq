@@ -2434,5 +2434,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9674",
     "passage": ""
+  },
+  {
+    "id": 9675,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A particle in circular motion performs 30 oscillation in 6 seconds. Its angular velocity is",
+    "options": {
+      "A": "5 rad s -1",
+      "B": "6 rad s -1",
+      "C": "5π rad s -1",
+      "D": "10π rad s -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9675",
+    "passage": ""
   }
 ]
