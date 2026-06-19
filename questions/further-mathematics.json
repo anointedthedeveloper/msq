@@ -2748,5 +2748,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50446",
     "passage": ""
+  },
+  {
+    "id": 50449,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Find the minimum value of \\(y = x^{2} + 6x - 12\\).",
+    "options": {
+      "A": "-21",
+      "B": "-12",
+      "C": "-6",
+      "D": "-3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(y = x^{2} + 6x - 12\\)\n\\(\\frac{\\mathrm d y}{\\mathrm d x} = 2x + 6 = 0\\)\n\\(2x = -6 \\implies x = -3\\)\n\\(y(-3) = (-3)^{2} + 6(-3) - 12 = 9 - 18 - 12 = -21\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50449",
+    "passage": ""
   }
 ]
