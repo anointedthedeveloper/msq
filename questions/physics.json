@@ -16987,5 +16987,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24995",
     "passage": ""
+  },
+  {
+    "id": 24996,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "A body timed 20 oscillations of a certain pendulum three times and obtained 44.3s, 45.5s and 45.7s respectively. Calculate the mean period of oscillation of the pendulum",
+    "options": {
+      "A": "0.13s",
+      "B": "2.22s",
+      "C": "2.26s",
+      "D": "44.30s",
+      "E": "45.17s"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\text{Given times: } 44.3 \\, \\text{s}, \\, 45.5 \\, \\text{s}, \\, 45.7 \\, \\text{s}\\)\nSum the total times: \\(\\text{Total time} = 44.3 + 45.5 + 45.7 = 135.5 \\, \\text{s}\\)\nCalculate the mean time for 20 oscillations: \\(\\text{Mean time} = \\frac{135.5 \\, \\text{s}}{3} = 45.17 \\, \\text{s}\\)\nFind the mean period of oscillation (for one oscillation): \\(\\text{Mean period} = \\frac{45.17 \\, \\text{s}}{20} = 2.2585 \\, \\text{s}\\)\nThus, the mean period of oscillation of the pendulum is approximately  2.26 seconds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24996",
+    "passage": ""
   }
 ]
