@@ -5521,5 +5521,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/12901",
     "passage": ""
+  },
+  {
+    "id": 12903,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "What types of mirror are capable of producing parallel beams of light such as those arising from the headlamps of a car?",
+    "options": {
+      "A": "Parabolic mirrors",
+      "B": "Plane mirrors",
+      "C": "Cylindrical mirrors",
+      "D": "Spherical mirrors"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Parabolic mirrors (specifically concave parabolic reflectors) are designed so that when a light source is placed at their focal point, the reflected rays emerge as a tight, parallel beam\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/12903",
+    "passage": ""
   }
 ]
