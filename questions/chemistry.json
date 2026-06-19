@@ -7053,5 +7053,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2969",
     "passage": ""
+  },
+  {
+    "id": 2970,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A substance that is used as a ripening agent for fruits is",
+    "options": {
+      "A": "ethene",
+      "B": "propene",
+      "C": "methane",
+      "D": "butane"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "- Ethene is a plant hormone which causes fruit to ripen.\n- Ethene is used routinely within the food industry to provide controlled ripening during storage and transport or when fruit is displayed in shops, in sealed packages.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2970",
+    "passage": ""
   }
 ]
