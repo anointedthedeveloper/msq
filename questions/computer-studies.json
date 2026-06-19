@@ -838,5 +838,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60244",
     "passage": ""
+  },
+  {
+    "id": 60245,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The process of restarting a computer is known as ________",
+    "options": {
+      "A": "Cold booting",
+      "B": "Warm booting",
+      "C": "Resume booting",
+      "D": "Restart booting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60245",
+    "passage": ""
   }
 ]
