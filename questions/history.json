@@ -6058,5 +6058,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/63579",
     "passage": ""
+  },
+  {
+    "id": 63582,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "The 1959 general election was between three political parties which at the time were",
+    "options": {
+      "A": "NCNC, NPC, NNDP",
+      "B": "AG, NCNC, NNDP",
+      "C": "SDP, LP, NPC",
+      "D": "AG, NCNC, NPC"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The three (3) main political parties that participated in the 1959 election were AG, NCNC and NPC, there was no clear winner, making NCNC form coalition government with NPC leaving AG as watchdog.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/63582",
+    "passage": ""
   }
 ]
