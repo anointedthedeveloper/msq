@@ -3127,5 +3127,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/11277",
     "passage": ""
+  },
+  {
+    "id": 11700,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A travelling wave moving from left to right has an amplitude of 0.15m, a frequency of 550Hz and a wavelength of 0.01m. The equation describing the wave is",
+    "options": {
+      "A": "y = 0.15 sin 200π(x - 5.5t)",
+      "B": "y = 0.15 sin π(0.01x - 5.5t)",
+      "C": "y = 0.15 sin 5.5π(x - 200t)",
+      "D": "y = 0.15 sin π(550x - 0.01t)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/11700",
+    "passage": ""
   }
 ]
