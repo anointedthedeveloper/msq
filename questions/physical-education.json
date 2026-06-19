@@ -1405,5 +1405,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64269",
     "passage": ""
+  },
+  {
+    "id": 64270,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The world cup is usually organized by which of the following bodies?",
+    "options": {
+      "A": "Confederation of African Football",
+      "B": "European Union Football Association",
+      "C": "Federation of International Football Association",
+      "D": "Nigeria Football Association"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The governing body which sees to the organization of world cup is the FIFA, Federation of International Football Association.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64270",
+    "passage": ""
   }
 ]
