@@ -418,5 +418,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48036",
     "passage": ""
+  },
+  {
+    "id": 48037,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "In the pictorial composition given, the eye level is represented by line",
+    "options": {
+      "A": "GH",
+      "B": "KL",
+      "C": "EF",
+      "D": "IJ"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/jXAxJMffM4XAjYtBeYuK4f15HcLUrhgoCCpqOHzR.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890009/myschool/fine-arts/jXAxJMffM4XAjYtBeYuK4f15HcLUrhgoCCpqOHzR.png",
+    "correct_answer": "A",
+    "explanation": "In perspective drawing the eye level is also known as the horizon line. The horizon line is an imaginary line that represents the viewer's eye level or line of sight. it is an imaginary line that appears where it seems as if the sky is touching land. All objects above the horizon line is in the area considered to be above eye level (the viewer's eye is essentially looking up), while objects below the horizon line is below the viewer's eye level, otherwise said to be below eye level.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48037",
+    "passage": ""
   }
 ]
