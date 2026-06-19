@@ -817,5 +817,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/arabic/75220",
     "passage": ""
+  },
+  {
+    "id": 75222,
+    "subject": "arabic",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "أين الفاعل في الجملة: \"أكلّ محمد التفاحةُ\"؟",
+    "options": {
+      "A": "أکل",
+      "B": "التفاحۀُ",
+      "C": "لا يوجد فاعل",
+      "D": "محمدٌ"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\"2ass\" is the doer of the action (subject). It performs the action.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/arabic/75222",
+    "passage": ""
   }
 ]
