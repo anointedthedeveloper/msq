@@ -13976,5 +13976,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22912",
     "passage": ""
+  },
+  {
+    "id": 22913,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1991",
+    "question": "The shaded portion shows the outer boundary of the half plane defined by the inequality",
+    "options": {
+      "A": "4x + 3y \\(\\geq\\) 6",
+      "B": "4x + 3y = 6",
+      "C": "4x + 3y < 6",
+      "D": "3y >6",
+      "E": "4x < 6"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/b0qnYtcF7Izf6nPanZB0rjI5ieXXobyclJlv3GKE.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908984/myschool/mathematics/b0qnYtcF7Izf6nPanZB0rjI5ieXXobyclJlv3GKE.png",
+    "correct_answer": "A",
+    "explanation": "The region is denoted by 4x + 3y \\(\\geq\\) 6",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22913",
+    "passage": ""
   }
 ]
