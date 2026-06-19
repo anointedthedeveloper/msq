@@ -12691,5 +12691,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64349",
     "passage": ""
+  },
+  {
+    "id": 64352,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The arrow displayed on the screen of a computer is called",
+    "options": {
+      "A": "Pointer",
+      "B": "Arrow",
+      "C": "Cursor",
+      "D": "Indicator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The cursor is displayed on the monitor screen to help with navigation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64352",
+    "passage": ""
   }
 ]
