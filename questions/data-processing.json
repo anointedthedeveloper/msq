@@ -6580,5 +6580,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67119",
     "passage": ""
+  },
+  {
+    "id": 67120,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "One example of web design package is",
+    "options": {
+      "A": "MS frontpage",
+      "B": "MS outlook",
+      "C": "SPSS",
+      "D": "Peachtree"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Other examples of web design package - Adobe Dreamweaver. - Google web designers. - Microsoft SharePoint designer. - Net Objects fusion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67120",
+    "passage": ""
   }
 ]
