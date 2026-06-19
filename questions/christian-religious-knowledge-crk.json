@@ -416,5 +416,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/85",
     "passage": ""
+  },
+  {
+    "id": 88,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "In his parables of the \"Wheat and the tares\" Jesus",
+    "options": {
+      "A": "Told people to root out the tares",
+      "B": "Told people the tares should be left until harvest",
+      "C": "Spoke of different kinds of soil",
+      "D": "Contrasted the size of wheat and tares",
+      "E": "Said the tares will wither before harvest"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Parable of the Wheat and the Tares is found in Matthew 13:24-30 (RSV). In this parable, Jesus describes a man who sows good seed (wheat) in his field, but an enemy comes at night and sows tares (weeds) among the wheat. When the wheat and tares begin to grow together, the servants ask the master if they should pull out the tares. The master replies:\n“Let both grow together until the harvest, and at harvest time I will tell the reapers, Gather the weeds first and bind them in bundles to be burned, but gather the wheat into my barn.” (Matthew 13:30, RSV)\nThis teaches that the righteous and the wicked will coexist until the final judgment , when God will separate them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/88",
+    "passage": ""
   }
 ]
