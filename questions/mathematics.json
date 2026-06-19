@@ -12987,5 +12987,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22655",
     "passage": ""
+  },
+  {
+    "id": 22657,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "Solve the equation 7y\\(^2\\) = 3y",
+    "options": {
+      "A": "y = 3 or 7",
+      "B": "y = 0 or 7",
+      "C": "y = 0 or 3/7",
+      "D": "y = 0 or 9",
+      "E": "y = 0 or 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "7y\\(^2\\) = 3y\n7y\\(^2\\) - 3y = 0\ny(7y - 3) = 0\ny = 0 or y = \\(\\frac{3}{7}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22657",
+    "passage": ""
   }
 ]
