@@ -9553,5 +9553,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9805",
     "passage": ""
+  },
+  {
+    "id": 9950,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "From the cyclic quadrilateral TUVW above, find the value of x",
+    "options": {
+      "A": "26 o",
+      "B": "24 o",
+      "C": "20 o",
+      "D": "23 o"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/10862098312_math201030.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868900/myschool/mathematics/10862098312_math201030.jpg",
+    "correct_answer": "B",
+    "explanation": "TUVW is a cyclic quad 3 χ + 20 + 88 = 180 (opp ∠ s of a cyclic quad are supplementary) 3 χ + 108 = 180 3 χ = 180 - 108 3 χ = 72 χ = 72/3 χ = 24o\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9950",
+    "passage": ""
   }
 ]
