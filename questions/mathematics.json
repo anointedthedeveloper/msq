@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/16",
     "passage": ""
+  },
+  {
+    "id": 17,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "If \\(m*n = (\\frac{m}{n} - \\frac{n}{m}\\)) for m, n belong to R, evaluate -3*4",
+    "options": {
+      "A": "\\(\\frac{-25}{12}\\)",
+      "B": "\\(\\frac{-7}{12}\\)",
+      "C": "\\(\\frac{7}{12}\\)",
+      "D": "\\(\\frac{25}{12}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(m*n = \\frac{m}{n}-\\frac{n}{m} = \\frac{-3}{4} - \\frac{4}{-3} = \\frac{-3}{4} + \\frac{4}{3} = \\frac{(-9+16)}{12} = \\frac{7}{12}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/17",
+    "passage": ""
   }
 ]
