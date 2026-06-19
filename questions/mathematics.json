@@ -7768,5 +7768,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9271",
     "passage": ""
+  },
+  {
+    "id": 9272,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "If p varies inversely as the square of q and p = 8 when q = 4, find q when p = 32",
+    "options": {
+      "A": "\\(\\pm\\)16",
+      "B": "\\(\\pm\\)8",
+      "C": "\\(\\pm\\)4",
+      "D": "\\(\\pm\\)2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "p ∝ \\(\\frac{1}{q}\\) p = \\(\\frac{k}{q}\\) K = q\\(^2\\)p = 4\\(^2\\)(8) ∴ p = \\(\\frac{128}{\\text{q}}\\) 32 = \\(\\frac{128}{\\text{q}}\\) q\\(^2\\) = \\(\\frac{128}{32}\\) q\\(^2\\) = 4 q = √4 = \\(\\pm\\) 2\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9272",
+    "passage": ""
   }
 ]
