@@ -14833,5 +14833,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64954",
     "passage": ""
+  },
+  {
+    "id": 64966,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The pictorial representation of an object or application in the computer is called?",
+    "options": {
+      "A": "diagram",
+      "B": "graphic",
+      "C": "Icon",
+      "D": "image"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An icon is an image on the computer screen that represents an application, a capability, or some other concept or specific entity with meaning for the user.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64966",
+    "passage": ""
   }
 ]
