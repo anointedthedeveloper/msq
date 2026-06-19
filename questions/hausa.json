@@ -7843,5 +7843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/76200",
     "passage": ""
+  },
+  {
+    "id": 76201,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Wane yanayi ne kalmar *karya* ke nuni da shi?",
+    "options": {
+      "A": "Gaskiya",
+      "B": "Aiki",
+      "C": "Halayya",
+      "D": "Abinci"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\"karya\" halayya ce mara kyau wadda ba ta dace a yi ba.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/76201",
+    "passage": ""
   }
 ]
