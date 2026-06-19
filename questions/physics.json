@@ -2287,5 +2287,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9217",
     "passage": ""
+  },
+  {
+    "id": 9502,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "The magnetic force on a charged particle moving with velocity v is",
+    "options": {
+      "A": "proportional to both the magnitude of the charge and the velocity v",
+      "B": "independent of the magnitude of the charge",
+      "C": "proportional to the velocity v only",
+      "D": "proportional to the magnitude of the charge only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9502",
+    "passage": ""
   }
 ]
