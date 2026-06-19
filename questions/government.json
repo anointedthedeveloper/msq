@@ -1301,5 +1301,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/960",
     "passage": ""
+  },
+  {
+    "id": 961,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "A major consequence of proportional representation is that it",
+    "options": {
+      "A": "reduces the chances of political instability",
+      "B": "favours the development of a two-party system",
+      "C": "discourages voting along ethnic lines",
+      "D": "encourages the proliferation of parties"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/961",
+    "passage": ""
   }
 ]
