@@ -2378,5 +2378,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71071",
     "passage": ""
+  },
+  {
+    "id": 71072,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Elles achètent un cadeau_leur père.",
+    "options": {
+      "A": "parmi",
+      "B": "dans",
+      "C": "pour",
+      "D": "entre"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is pour The correct sentence would be: \"Elles achètent un cadeau pour leur père.\" Which translates to \"They are buying a gift for their father.\" \"Pour\" is a preposition that indicates the recipient or intended beneficiary of an action, in this case, the gift is being bought for their father.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71072",
+    "passage": ""
   }
 ]
