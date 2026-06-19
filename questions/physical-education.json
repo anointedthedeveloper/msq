@@ -2203,5 +2203,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68233",
     "passage": ""
+  },
+  {
+    "id": 68236,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What year was the first modern olympic game held ?",
+    "options": {
+      "A": "1976",
+      "B": "1896",
+      "C": "1986",
+      "D": "1856"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Athens 1896 Olympic Games, athletic festival held in Athens that took place April 6–15, 1896. The Athens Games were the first occurrence of the modern Olympic Games.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68236",
+    "passage": ""
   }
 ]
