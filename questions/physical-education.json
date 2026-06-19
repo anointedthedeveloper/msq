@@ -1111,5 +1111,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64248",
     "passage": ""
+  },
+  {
+    "id": 64249,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Flexibility can be defined as the ability to",
+    "options": {
+      "A": "Control excess weight",
+      "B": "Control the movement of object over another",
+      "C": "Maintain stability and rest",
+      "D": "Move easily in different directions"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Flexibility is the ability of a joint or series of joints to move through an unrestricted pain free range of motion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64249",
+    "passage": ""
   }
 ]
