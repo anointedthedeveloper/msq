@@ -15622,5 +15622,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7599",
     "passage": ""
+  },
+  {
+    "id": 7600,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "An oil exploration company is engaged in?",
+    "options": {
+      "A": "tertiary production",
+      "B": "constructive occupation",
+      "C": "extractive occupation",
+      "D": "secondary production"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A primary or extractive occupation is occupations concerned with the production of primary products or products that are extracted from nature. Examples of Extractive occupation: farmer, fishing, mining, oil exploration etc",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7600",
+    "passage": ""
   }
 ]
