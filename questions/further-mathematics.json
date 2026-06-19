@@ -2098,5 +2098,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50408",
     "passage": ""
+  },
+  {
+    "id": 50409,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Evaluate \\(\\cos 75°\\), leaving the answer in surd form.",
+    "options": {
+      "A": "\\(\\frac{\\sqrt{2}}{2}(\\sqrt{3} + 1)\\)",
+      "B": "\\(\\frac{\\sqrt{2}}{4}(\\sqrt{3} - 1)\\)",
+      "C": "\\(\\frac{\\sqrt{2}}{4}(\\sqrt{3} + 1)\\)",
+      "D": "\\(\\frac{\\sqrt{2}}{2}(\\sqrt{3} - 1)\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\cos(a + b) = \\cos a\\cos b - \\sin a\\sin b\\)\n\\(\\cos75° = \\cos(30 + 45) = (\\cos30)(\\cos45) - (\\sin30)(\\sin45)\\)\n= \\((\\frac{\\sqrt{3}}{2} \\times \\frac{\\sqrt{2}}{2}) - (\\frac{1}{2} \\times \\frac{\\sqrt{2}}{2})\\)\n= \\(\\frac{\\sqrt{6} - \\sqrt{2}}{4}\\)\n= \\(\\frac{\\sqrt{2}(\\sqrt{3} - 1)}{4}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50409",
+    "passage": ""
   }
 ]
