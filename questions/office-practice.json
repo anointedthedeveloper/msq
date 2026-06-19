@@ -4223,5 +4223,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76011",
     "passage": ""
+  },
+  {
+    "id": 76012,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Bodex co.Ltd sends out lots of mails. Which of the following office machines would help to remove the burden of affixing postage stamps on each envelope?",
+    "options": {
+      "A": "Folding machine",
+      "B": "Collating machine",
+      "C": "Addressing machine",
+      "D": "Franking machine"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A franking machine is used to print a postage mark directly onto envelopes or labels, which can then be affixed to mail. This removes the need to manually affix postage stamps to each envelope, making it an ideal solution for a company like Bodex co.Ltd that sends out lots of mails. Collating machines, addressing machines, and folding machines perform different functions and would not help with this task.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76012",
+    "passage": ""
   }
 ]
