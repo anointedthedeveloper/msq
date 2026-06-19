@@ -11129,5 +11129,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/4415",
     "passage": ""
+  },
+  {
+    "id": 4416,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "In the question below choose the option opposite in meaning to the word underlined : The chief was generous in his award of university scholarships",
+    "options": {
+      "A": "nobel",
+      "B": "considerate",
+      "C": "liberal",
+      "D": "mean",
+      "E": "honest"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The underlined word \"generous\" means kind, giving, or willing to share resources freely . The opposite of generous is stingy or unwilling to give , which is best represented by \"mean\" in this context.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/4416",
+    "passage": ""
   }
 ]
