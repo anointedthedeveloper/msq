@@ -40,5 +40,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49609",
     "passage": ""
+  },
+  {
+    "id": 49614,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "full return of premium paid for a contract of insurance is applicable in a situation involving?",
+    "options": {
+      "A": "double insurance",
+      "B": "reduction of cover",
+      "C": "absence of agreement",
+      "D": "financial distress"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "double insurance: Situation in which the same risk is insured by two overlapping but independent insurance policies. When an individual has double insurance, he or she has coverage by two different insurance companies upon the identical interest in the identical subject matter.\nThe general rule is that in the event of double insurance, if a loss is caused by the risk insured against, subject to the terms of each insurance policy, the insured may recover the full amount of his loss from whichever insurer or insurers he chooses.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49614",
+    "passage": ""
   }
 ]
