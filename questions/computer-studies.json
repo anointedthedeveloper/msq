@@ -5020,5 +5020,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62337",
     "passage": ""
+  },
+  {
+    "id": 62338,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following can be described as the brain of the computer hardware?",
+    "options": {
+      "A": "BIOS",
+      "B": "microprocessor",
+      "C": "RAM chip",
+      "D": "system clock"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The computer brain is a microprocessor called the central processing unit (CPU). The CPU is a chip containing millions of tiny transistors. It's the CPU's job to perform the calculations necessary to make the computer work -- the transistors in the CPU manipulate the data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62338",
+    "passage": ""
   }
 ]
