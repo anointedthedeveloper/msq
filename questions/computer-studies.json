@@ -10680,5 +10680,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62779",
     "passage": ""
+  },
+  {
+    "id": 62780,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "(a) Explain two differences between an Algorithm and a Flowchart.\n(b) List three examples of utility programs.\n(c) Draw a flowchart of the stops to be used in updating a customer's balance.",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "(a) Algorithm is a process or set of rules or step-by-step method to be followed in problem-solving operations\nwhile\nflowchart is a diagrammatic/graphical representation of an algorithm.\nFlow chart Algorithm Block by block information diagram representing Step by step instruction representing the process the data flow. It is a pictorial representation of a process. It is step wise analysis of the work to be done. Solution is shown in graphical format. Solution is shown in non-computer language like English. Easy to show branching and looping Difficult to show branching and looping. Flowchart for big problem is impractical Algorithm can be written for any problem. Symbols and shapes are used. Texts are used.\n(b) Examples of utility programs\n(i) Editor (ii) Disk defragmenter (iii) Registry cleaner (iv) Device drivers (v) Backup software (vi) Anti-virus (vi) Disk clean-up (vii) Scan disk (ix) Firmware\n(C) The flowchart of steps to update customer's balance",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62780",
+    "passage": ""
   }
 ]
