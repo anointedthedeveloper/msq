@@ -1027,5 +1027,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/60253",
     "passage": ""
+  },
+  {
+    "id": 60254,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following ideals is protected by copyright?",
+    "options": {
+      "A": "Ideas",
+      "B": "Profit",
+      "C": "Expression of ideas",
+      "D": "Inexperience"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/60254",
+    "passage": ""
   }
 ]
