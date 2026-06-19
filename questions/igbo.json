@@ -2265,5 +2265,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73789",
     "passage": ""
+  },
+  {
+    "id": 73790,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Ọlee aha ụlọakwụkwọ ụnu?",
+    "options": {
+      "A": "Ụlọakwụkwọ ha bụ GSS",
+      "B": "GSS bụ ụlọakwụkwọ ya",
+      "C": "Ọ gụchara na GSS",
+      "D": "Aha ụlọakwụkwọ anyị bụ GSS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Aha ụlọakwụkwọ anyị bụ GSS (which means \"The name of our school is GSS\"). The question asks \"What is the name of your school?\" and the answer is \"GSS\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73790",
+    "passage": ""
   }
 ]
