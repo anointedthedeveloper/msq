@@ -11471,5 +11471,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22230",
     "passage": ""
+  },
+  {
+    "id": 22231,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The surnames of 40 children in a class arranged in alphabetical order. 16 of the surnames begins with O and 9 of the surname begins with A, 14, of the letters of the alphabet do not appear as the first letter of a surname",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22231",
+    "passage": ""
   }
 ]
