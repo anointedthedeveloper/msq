@@ -9007,5 +9007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3808",
     "passage": ""
+  },
+  {
+    "id": 3813,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "How long would it take to deposit 0.08g of copper from CuCl\\(_2\\) solution by passing a current of 0.5A? [Cu = 64, 1F = 96500 C mol-1]",
+    "options": {
+      "A": "6 mins",
+      "B": "8 mins",
+      "C": "24 mins",
+      "D": "48 mins"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cu\\(^{2+}\\) + 2e- → Cu(s) 2 x 96500C deposits 64g of Cu ∴ x quantity of electricity will deposit 0.08g x = (2 x 96500 x 0.08)/64 =241.25 coulomb. Q = It 241.25 = 0.5t t = 241.25/60 = 8 mins\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3813",
+    "passage": ""
   }
 ]
