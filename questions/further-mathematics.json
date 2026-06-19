@@ -2202,5 +2202,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50413",
     "passage": ""
+  },
+  {
+    "id": 50414,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Find \\(\\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3}\\).",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "7",
+      "D": "13"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(\\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3}\\)\n\\(2x^{2} + x - 21 = 2x^{2} - 6x + 7x - 21 \\) (by factorizing)\n= \\((2x + 7)(x - 3)\\)\n\\(\\therefore \\lim\\limits_{x \\to 3} \\frac{2x^{2} + x - 21}{x - 3} \\equiv \\lim\\limits_{x \\to 3} \\frac{(2x+7)(x-3)}{x-3}\\)\n\\(\\lim\\limits_{x \\to 3} (2x + 7)  = 2(3) + 7 = 13\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50414",
+    "passage": ""
   }
 ]
