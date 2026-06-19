@@ -103,5 +103,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66046",
     "passage": ""
+  },
+  {
+    "id": 66048,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "Filing document according to dates is",
+    "options": {
+      "A": "geographical filing",
+      "B": "subject filing",
+      "C": "numerical filing",
+      "D": "chronological filing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Chronological filing is a filing method whereby documents are filed according to date.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66048",
+    "passage": ""
   }
 ]
