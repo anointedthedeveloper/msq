@@ -8356,5 +8356,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3302",
     "passage": ""
+  },
+  {
+    "id": 3303,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The element with the electron configuration 1S\\(^2\\)2S\\(^2\\)2P\\(^3\\) is",
+    "options": {
+      "A": "calcium",
+      "B": "chlorine",
+      "C": "oxygen",
+      "D": "nitrogen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The element with the electron configuration 1S\\(^2\\)2S\\(^2\\)2P\\(^3\\) is Nitrogen.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3303",
+    "passage": ""
   }
 ]
