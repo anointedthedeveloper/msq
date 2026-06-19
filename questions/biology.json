@@ -6444,5 +6444,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2610",
     "passage": ""
+  },
+  {
+    "id": 2621,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1984",
+    "question": "Which of the following group does NOT reproduce asexually?",
+    "options": {
+      "A": "Mucor, Spirogyra and Paramecium",
+      "B": "Penicillium, Paramecium and Amoeba",
+      "C": "Mucor, Rhizophus and Penicillium",
+      "D": "Amoeba, Spyrogyra and Mucor",
+      "E": "Rhizophus, Ascaris and Amoeba"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "mucor, spirogyra, rhizopus, paramecium carry out sexual reproduction.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2621",
+    "passage": ""
   }
 ]
