@@ -4318,5 +4318,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73895",
     "passage": ""
+  },
+  {
+    "id": 73896,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "(full Damukowa passage)\nDuk wadannan halayen Damukowa ne in ban da",
+    "options": {
+      "A": "keta",
+      "B": "barna",
+      "C": "gulma",
+      "D": "kinibibi"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All of these are characteristics of Damukowa except:",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73896",
+    "passage": ""
   }
 ]
