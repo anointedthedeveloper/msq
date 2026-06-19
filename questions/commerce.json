@@ -271,5 +271,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/179",
     "passage": ""
+  },
+  {
+    "id": 180,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "The rate at which a country's exports exchange for its imports is called",
+    "options": {
+      "A": "balance of payments",
+      "B": "balance of trade",
+      "C": "terms of payment",
+      "D": "terms of trade"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/180",
+    "passage": ""
   }
 ]
