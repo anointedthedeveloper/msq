@@ -3593,5 +3593,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6405",
     "passage": ""
+  },
+  {
+    "id": 6409,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "What feature would you associate with a rejuvenated river?",
+    "options": {
+      "A": "a waterfall",
+      "B": "a delta",
+      "C": "a meander",
+      "D": "sand deposits",
+      "E": "a wide u-shaped valley"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6409",
+    "passage": ""
   }
 ]
