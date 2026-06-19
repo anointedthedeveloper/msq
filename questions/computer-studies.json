@@ -3364,5 +3364,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/61852",
     "passage": ""
+  },
+  {
+    "id": 61853,
+    "subject": "computer-studies",
+    "exam_type": "NECO",
+    "exam_year": "2014",
+    "question": "The user chosen secret string of characters that allows access to the use of computer is called?",
+    "options": {
+      "A": "address code",
+      "B": "ID-Name",
+      "C": "password",
+      "D": "pin code",
+      "E": "username"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/61853",
+    "passage": ""
   }
 ]
