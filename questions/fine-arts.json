@@ -1972,5 +1972,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75358",
     "passage": ""
+  },
+  {
+    "id": 75359,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which technique uses wax to resist dye on cloth?",
+    "options": {
+      "A": "Quilting",
+      "B": "Batik",
+      "C": "Tie-dye",
+      "D": "To say"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Batik is a technique where wax is applied to cloth to resist dye, creating patterns and designs.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75359",
+    "passage": ""
   }
 ]
