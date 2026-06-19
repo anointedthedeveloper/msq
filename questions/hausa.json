@@ -2223,5 +2223,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73707",
     "passage": ""
+  },
+  {
+    "id": 73708,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2021",
+    "question": "Wata yarinya siririya ta zo.' Fito da kalmar sifa a wannan jimlar.",
+    "options": {
+      "A": "Yarinya",
+      "B": "Ta",
+      "C": "Siriya",
+      "D": "Wata"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A Siriya. The question is asking about the adjective used to describe a girl in Hausa, and the answer is Siriya (meaning \"beautiful\").",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73708",
+    "passage": ""
   }
 ]
