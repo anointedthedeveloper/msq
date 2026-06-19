@@ -12059,5 +12059,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68544",
     "passage": ""
+  },
+  {
+    "id": 68545,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which historical period is characterized by the emergence of written language and the invention of the wheel?",
+    "options": {
+      "A": "Bronze Age",
+      "B": "Middle Ages",
+      "C": "Stone Age",
+      "D": "Neolithic Age"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Bronze Age is characterized by the emergence of written language and the invention of the wheel. This period marked the first time humans started to work with metal. Bronze tools and weapons, brick and stone buildings, and irrigation systems were new innovations of this period. The invention of the wheel is also attributed to this period.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68545",
+    "passage": ""
   }
 ]
