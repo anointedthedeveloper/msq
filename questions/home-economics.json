@@ -1825,5 +1825,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73256",
     "passage": ""
+  },
+  {
+    "id": 73257,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "________ is a method of cooking in which the heat gets to food directly",
+    "options": {
+      "A": "Baking",
+      "B": "Grilling",
+      "C": "Stewing",
+      "D": "Boiling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Grilling is a cooking method where food is placed directly over or under a heat source, cooking it quickly with direct heat to create a crispy outside and juicy inside.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73257",
+    "passage": ""
   }
 ]
