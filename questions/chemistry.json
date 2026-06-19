@@ -13850,5 +13850,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/12810",
     "passage": ""
+  },
+  {
+    "id": 12819,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following reactions is correct as as written?",
+    "options": {
+      "A": "FeCl 2 + 3NH 4 OH → Fe(OH) 3 + 3NH 4 Cl",
+      "B": "Pb 2 O 3 + 4HCl → PbCl 2 + 2H 2 O",
+      "C": "PbNO 3 + H 2 S → PbS + 2HNO 3",
+      "D": "NaOH + H 2 SO 4 →  NaHSO 4 +H 2 O",
+      "E": "2NH 4 NO 3 → N 2 + 2H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/12819",
+    "passage": ""
   }
 ]
