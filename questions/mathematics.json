@@ -3736,5 +3736,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7843",
     "passage": ""
+  },
+  {
+    "id": 7844,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "If \\(^{n}P_{3} - 6(^{n}C_{4}) = 0\\), find the value of n.",
+    "options": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To solve the equation \\(^{n}P_{3} - 6(^{n}C_{4}) = 0\\), we start by using the formulas for permutations and combinations:\n\\(^{n}P_{r} = \\frac{n!}{(n-r)!}\\) \\(^{n}C_{r} = \\frac{n!}{r!(n-r)!}\\)\n\\(^{n}P_{3} = \\frac{n!}{(n-3)!}\\)\n\\(^{n}C_{4} = \\frac{n!}{4!(n-4)!}\\)\n\\(\\frac{n!}{(n-3)!} - 6 \\left(\\frac{n!}{4!(n-4)!}\\right) = 0\\)\nFactor out \\(n!\\)\nFactoring \\(n!\\) from both terms gives:\n\\(n! \\left(\\frac{1}{(n-3)!} - \\frac{6}{4!(n-4)!}\\right) = 0\\)\nSince \\(n! \\neq 0\\), we can simplify to:\n\\(\\frac{1}{(n-3)!} - \\frac{6}{4!(n-4)!} = 0\\)\nRecall that \\(4! = 24\\), so:\n\\(\\frac{6}{4!(n-4)!} = \\frac{6}{24(n-4)!} = \\frac{1}{4(n-4)!}\\)\nThe equation now is:\n\\(\\frac{1}{(n-3)!} - \\frac{1}{4(n-4)!} = 0\\)\nMultiply through by \\(4(n-3)!(n-4)!\\) gives:\n\\(4(n-4)! - (n-3)! = 0\\)\nRecall that \\((n-3)! = (n-3)(n-4)!\\), so:\n\\(4(n-4)! - (n-3)(n-4)! = 0\\)\n\\((n-4)!\\)\nFactoring out \\((n-4)!\\) gives:\n\\((n-4)! \\left(4 - (n-3)\\right) = 0\\)\nSince \\((n-4)! \\neq 0\\), we have:\n\\(4 - (n-3) = 0\\)\nSolving for \\(n\\):\n\\(n - 3 = 4 \\implies n = 7\\)\nThe value of n is: 7\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7844",
+    "passage": ""
   }
 ]
