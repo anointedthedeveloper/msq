@@ -712,5 +712,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/music/48100",
     "passage": ""
+  },
+  {
+    "id": 48101,
+    "subject": "music",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "The pitch in the stave above sounds the same as",
+    "options": {
+      "A": "E flat",
+      "B": "E",
+      "C": "D flat",
+      "D": "D"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/DMdlpdmaj3dLUBnPCLqXWrYIMwoXZASTJr3K5OfH.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781890319/myschool/music/DMdlpdmaj3dLUBnPCLqXWrYIMwoXZASTJr3K5OfH.png",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/music/48101",
+    "passage": ""
   }
 ]
