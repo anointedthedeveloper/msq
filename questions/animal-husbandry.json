@@ -1193,5 +1193,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/49691",
     "passage": ""
+  },
+  {
+    "id": 49692,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Anaemia in farm animals is caused by",
+    "options": {
+      "A": "sulphur deficiency",
+      "B": "magnesium deficiency",
+      "C": "iodine deficiency",
+      "D": "iron deficiency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Anemia is defined as a decrease in the number of red blood cells or the amount of hemoglobin in the blood. Iron deficiency anemia is a common type of anemia — a condition in which blood lacks adequate healthy red blood cells. Red blood cells carry oxygen to the body's tissues. As the name implies, iron deficiency anemia is due to insufficient iron .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/49692",
+    "passage": ""
   }
 ]
