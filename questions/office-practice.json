@@ -2196,5 +2196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66581",
     "passage": ""
+  },
+  {
+    "id": 66582,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The exchange of information among individuals is",
+    "options": {
+      "A": "coding",
+      "B": "decoding",
+      "C": "communication",
+      "D": "feedback"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Communication is the imparting or exchanging of information by speaking, writing ,or using some other medium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66582",
+    "passage": ""
   }
 ]
