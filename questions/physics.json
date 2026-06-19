@@ -1132,5 +1132,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/708",
     "passage": ""
+  },
+  {
+    "id": 709,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "The main reason for making the cover of a vacuum flask airtight is to prevent heat loss by",
+    "options": {
+      "A": "convection",
+      "B": "conduction",
+      "C": "radiation",
+      "D": "evaporation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The airtight stopper prevents heat loss by convection because it is tightly sealed.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/709",
+    "passage": ""
   }
 ]
