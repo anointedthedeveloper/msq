@@ -3571,5 +3571,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6403",
     "passage": ""
+  },
+  {
+    "id": 6405,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "A ship's radioed message on the high sea at 5.45pm was heard at Abidjan(5°W) at 11.15a.m on the same day.Find the position of the ship",
+    "options": {
+      "A": "90E°",
+      "B": "92° 30'E",
+      "C": "95°E",
+      "D": "97° 30'E",
+      "E": "100°E"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6405",
+    "passage": ""
   }
 ]
