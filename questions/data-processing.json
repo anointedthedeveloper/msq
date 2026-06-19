@@ -6517,5 +6517,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/62639",
     "passage": ""
+  },
+  {
+    "id": 67117,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The database tool that allows the user to select and filter data from multiple tables is referred to as",
+    "options": {
+      "A": "Form",
+      "B": "Table",
+      "C": "Query",
+      "D": "Report"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A query in a database is a request for information from a database management system (DBMS), which is the software program that maintains data. Users can make a query to retrieve data or change information in a database, such as adding or removing data.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67117",
+    "passage": ""
   }
 ]
