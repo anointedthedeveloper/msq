@@ -1801,5 +1801,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1002",
     "passage": ""
+  },
+  {
+    "id": 1004,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": ".....Appeared to Jesus on the mount of transfiguration",
+    "options": {
+      "A": "Abraham and Isaac",
+      "B": "David and Solomon",
+      "C": "Jonathan and Samuel",
+      "D": "Moses and Elijah",
+      "E": "Paul and Barnabas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1004",
+    "passage": ""
   }
 ]
