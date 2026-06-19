@@ -6256,5 +6256,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13739",
     "passage": ""
+  },
+  {
+    "id": 13746,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "A body of mass 36kg falls through a viscous liquid which offers a drag force of 260N on the body. The upthrust on the body at terminal velocity is? [g = 10ms\\(^2\\)]",
+    "options": {
+      "A": "100N",
+      "B": "620N",
+      "C": "50N",
+      "D": "310N"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "For anybody falling through a viscous liquid, at its terminal velocity. the resultant force acting on its is zero. from the equation: Mg - v - u = 0. where v = viscous drag U = upthrust Mg = weight of the body. ∴ 36 x 10 - 260 - U = 0 ∴ U = 360 - 260 = 100N Upthrust on the body = 100N.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13746",
+    "passage": ""
   }
 ]
