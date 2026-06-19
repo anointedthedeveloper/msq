@@ -1636,5 +1636,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/75301",
     "passage": ""
+  },
+  {
+    "id": 75303,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "Which element of design is essential in drawing contour lines?",
+    "options": {
+      "A": "Line",
+      "B": "Shape",
+      "C": "Form",
+      "D": "Space"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In Fine Arts, lines are used to define contours and boundaries.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/75303",
+    "passage": ""
   }
 ]
