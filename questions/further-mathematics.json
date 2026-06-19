@@ -2832,5 +2832,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50454",
     "passage": ""
+  },
+  {
+    "id": 50455,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "If \\(x = i - 3j\\) and \\(y = 6i + j\\), calculate the angle between x and y.",
+    "options": {
+      "A": "60°",
+      "B": "75°",
+      "C": "81°",
+      "D": "85°"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\overrightarrow{x} . \\overrightarrow{y} = |\\overrightarrow{x}||\\overrightarrow{y}|\\cos\\theta\\)\n\\(\\overrightarrow{x} . \\overrightarrow{y} = (i - 3j) . (6i + j) = 6 - 3 = 3\\)\n\\(|\\overrightarrow{x}| = \\sqrt{1^{2} + (-3)^{2}} = \\sqrt{10}\\)\n\\(|\\overrightarrow{y}| = \\sqrt{6^{2} + 1^{2}} = \\sqrt{37}\\)\n\\(\\therefore 3 = (\\sqrt{10})(\\sqrt{37})\\cos \\theta\\)\n\\(\\cos\\theta = \\frac{3}{\\sqrt{370}} = 0.1559\\)\n\\(\\theta = \\cos^{-1} 0.1559 \\approxeq 81°\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50455",
+    "passage": ""
   }
 ]
