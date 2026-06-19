@@ -11669,5 +11669,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22348",
     "passage": ""
+  },
+  {
+    "id": 22349,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "Factorize the following expression; 2x\n2\n+ x - 15",
+    "options": {
+      "A": "(2x+5)(x-3)",
+      "B": "(2x-5)(x+3)",
+      "C": "(2x-5)(x-3)",
+      "D": "(2x-3)(x+5)",
+      "E": "(2x+5)(x+3)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\n2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22349",
+    "passage": ""
   }
 ]
