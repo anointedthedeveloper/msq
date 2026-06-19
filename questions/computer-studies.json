@@ -8093,5 +8093,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62568",
     "passage": ""
+  },
+  {
+    "id": 62569,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "The uses of spreadsheet packages include:\n1. -Preparing organisation's logo;   II. - Performing sensitivity analysis; III, - Preparing reports for senior manage- ment; IV. - Preparation of profit forecasts.\nWhich of the following options is true?",
+    "options": {
+      "A": "Il and IV only",
+      "B": "Ill and IV only",
+      "C": "I, Il and Ill only",
+      "D": "II, Il and IV only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Spreadsheet packages are typically used for performing sensitivity analysis, preparing reports for senior management, and preparing profit forecasts, but not for preparing an organization's logo. Therefore, the correct answer is D. II, III, and IV only.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62569",
+    "passage": ""
   }
 ]
