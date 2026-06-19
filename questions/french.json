@@ -60,5 +60,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/48114",
     "passage": ""
+  },
+  {
+    "id": 48115,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2010",
+    "question": "\"Enfermer la femme, ca ne sert à  rien\"! Qui dit ceci dans Chaque chose en son temps?",
+    "options": {
+      "A": "El-Hadji",
+      "B": "Dr. Mariama",
+      "C": "zénabou",
+      "D": "fatou"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/48115",
+    "passage": ""
   }
 ]
