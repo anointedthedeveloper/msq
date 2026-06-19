@@ -5357,5 +5357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/2323",
     "passage": ""
+  },
+  {
+    "id": 2324,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Diplomatic missions among the Commonwealth member states are referred to as",
+    "options": {
+      "A": "legations",
+      "B": "high commissions",
+      "C": "embassies",
+      "D": "consulates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/2324",
+    "passage": ""
   }
 ]
