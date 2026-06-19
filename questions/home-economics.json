@@ -1300,5 +1300,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73229",
     "passage": ""
+  },
+  {
+    "id": 73230,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following drinks will be most suitable for a school child?",
+    "options": {
+      "A": "Coffee sip",
+      "B": "Ginger beer",
+      "C": "Soy milk",
+      "D": "Black tea"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Soy milk is a nutritious and suitable drink for school children, providing essential nutrients like protein, calcium, and vitamins. It’s also a good alternative for those with lactose intolerance or dietary restrictions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73230",
+    "passage": ""
   }
 ]
