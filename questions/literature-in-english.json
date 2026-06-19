@@ -1912,5 +1912,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/literature-in-english/883",
     "passage": ""
+  },
+  {
+    "id": 884,
+    "subject": "literature-in-english",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The Adventure of Tom Sawyer depicts Tom's",
+    "options": {
+      "A": "naivety",
+      "B": "crass stupidity",
+      "C": "ingenuity",
+      "D": "hard heartedness",
+      "E": "riches"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/literature-in-english/884",
+    "passage": "From the novel; The Adventures of Tom Sawyer"
   }
 ]
