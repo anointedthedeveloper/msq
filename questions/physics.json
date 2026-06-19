@@ -1195,5 +1195,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/711",
     "passage": ""
+  },
+  {
+    "id": 712,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2000",
+    "question": "A projection lantern is used to give the image of a slide on a screen. If the image is 24 times as large as the slide and the screen is 72.0m from the projecting lens, what is the position of the slide from the lens?",
+    "options": {
+      "A": "0.3m",
+      "B": "3.0m",
+      "C": "3.5m",
+      "D": "4.0m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "V = 72m U = ?, Magnification = 24 But Magnification = V/U ∴ 24 = 72/U U = 72/24 U = 3.0m\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/712",
+    "passage": ""
   }
 ]
