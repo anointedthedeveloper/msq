@@ -5520,5 +5520,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76344",
     "passage": ""
+  },
+  {
+    "id": 76345,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What is the main function of the 'shin guards' worn by football players?",
+    "options": {
+      "A": "To protect the player's lower legs from kicks and impacts.",
+      "B": "To give the player a better grip on the ball with their feet.",
+      "C": "To provide extra support for the ankle joint.",
+      "D": "To improve a player's speed and agility"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Shin guards are a crucial piece of protective equipment in football, designed specifically to shield the lower legs- particularly the shinbone (tibia)-from injuries caused by direct contact such as kicks, collisions, or accidental impacts during the game. The lower legs are vulnerable during tackles and challenges, so shin guards help prevent bruises, cuts, fractures, and other serious injuries.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76345",
+    "passage": ""
   }
 ]
