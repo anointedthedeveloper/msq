@@ -145,5 +145,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/insurance/49642",
     "passage": ""
+  },
+  {
+    "id": 49643,
+    "subject": "insurance",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Marine cargo insurance indemnifies the insured for a loss of?",
+    "options": {
+      "A": "vessel",
+      "B": "container",
+      "C": "consignment",
+      "D": "freight"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "marine cargo insurance is a class of property insurance that insures property while in transit against loss or damage arising from perils associated with the navigation of the sea or air and subsequent land and inland waterways. shippers can request cargo insurance to protect their goods from loss, damage, or theft while in transit.\nconsignment is a batch of goods destined for or delivered to someone.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/insurance/49643",
+    "passage": ""
   }
 ]
