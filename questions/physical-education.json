@@ -6968,5 +6968,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/76519",
     "passage": ""
+  },
+  {
+    "id": 76520,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "What role does the hypothalamus play in the central nervous system?",
+    "options": {
+      "A": "Processes visual information",
+      "B": "Controls balance and posture",
+      "C": "Controls voluntary muscle movements",
+      "D": "Regulates body temperature and hunger."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The hypothalamus, located below the thalamus, regulates vital autonomic functions such as body temperature, hunger, thirst, and hormonal secretions, all important for maintaining homeostasis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/76520",
+    "passage": ""
   }
 ]
