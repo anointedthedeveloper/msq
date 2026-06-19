@@ -13490,5 +13490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/5059",
     "passage": ""
+  },
+  {
+    "id": 5062,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "In the question below choose the option nearest in meaning to the word(s) or phrase underlined : The accounts clerk was jailed because he cooked the books",
+    "options": {
+      "A": "set fire to the account books",
+      "B": "sold the books in his office to get money for food",
+      "C": "falsified the accounts to his advantage",
+      "D": "destroyed the accounts books by cooking them"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The idiom “cooked the books” means to falsify financial records, usually to hide fraud or gain personal benefit . So the sentence means: The accounts clerk was jailed because he falsified the accounts to his advantage .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/5062",
+    "passage": ""
   }
 ]
