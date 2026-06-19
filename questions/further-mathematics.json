@@ -628,5 +628,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50269",
     "passage": ""
+  },
+  {
+    "id": 50271,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2017",
+    "question": "Given the table above as the results of tossing a fair die 150 times. Find the probability of obtaining a 5.",
+    "options": {
+      "A": "\\(\\frac{1}{10}\\)",
+      "B": "\\(\\frac{1}{6}\\)",
+      "C": "\\(\\frac{1}{5}\\)",
+      "D": "\\(\\frac{3}{10}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Probability of obtaining a 5 = \\(\\frac{\\text{frequency of 5}}{\\text{total frequency}}\\)\n\\(12+18+y+30+2y+45 = 150 \\implies 105+3y = 150\\)\n\\(3y = 45; y = 15\\)\nProbability of 5 = \\(\\frac{2\\times 15}{150} = \\frac{1}{5}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50271",
+    "passage": ""
   }
 ]
