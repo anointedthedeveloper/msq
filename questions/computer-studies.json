@@ -7631,5 +7631,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62546",
     "passage": ""
+  },
+  {
+    "id": 62547,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "which of the following network cables offers highest data transmission?",
+    "options": {
+      "A": "Coaxial",
+      "B": "Fibre optic",
+      "C": "Telephone line",
+      "D": "Twisted pair"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Fiber optics (optical fibers) are long, thin strands of very pure glass about the size of a human hair. It can transmit signals over much longer distances than coaxial and twisted pairs. It also can carry information at vastly greater speeds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62547",
+    "passage": ""
   }
 ]
