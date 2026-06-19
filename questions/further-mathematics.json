@@ -3945,5 +3945,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50599",
     "passage": ""
+  },
+  {
+    "id": 50600,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Find the equation of a circle with centre (2, -3) and radius 2 units.",
+    "options": {
+      "A": "\\(x^{2} + y^{2} - 4x + 6y + 9 = 0\\)",
+      "B": "\\(x^{2} + y^{2} + 4x - 6y - 9 = 0\\)",
+      "C": "\\(x^{2} + y^{2} + 4x + 6y - 9 = 0\\)",
+      "D": "\\(x^{2} + y^{2} + 4x - 6y + 9 = 0\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The equation of a circle with centre coordinate (a, b) and radius r is :\n\\((x - a)^{2} + (y - b)^{2} = r^{2}\\)\nGiven centre = (2, -3) and radius r = 2 units\nEquation = \\((x - 2)^{2} + (y - (-3))^{2} = 2^{2}\\)\n\\(x^{2} - 4x + 4 + y^{2} + 6y + 9 = 4\\)\n\\(x^{2} + y^{2} - 4x + 6y + 4 + 9 - 4 = 0 \\implies x^{2} + y^{2} - 4x + 6y + 9 = 0\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50600",
+    "passage": ""
   }
 ]
