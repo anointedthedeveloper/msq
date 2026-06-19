@@ -1342,5 +1342,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64265",
     "passage": ""
+  },
+  {
+    "id": 64267,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Which of the following is not a manipulative movement?",
+    "options": {
+      "A": "Catching",
+      "B": "Heading",
+      "C": "Laughing",
+      "D": "Striking"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Catching is a manipulative movement. Manipulative movement is a movement skill that requires an ability to handle an object or piece of equipment with control.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64267",
+    "passage": ""
   }
 ]
