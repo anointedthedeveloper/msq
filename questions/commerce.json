@@ -15601,5 +15601,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/commerce/7598",
     "passage": ""
+  },
+  {
+    "id": 7599,
+    "subject": "commerce",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "The three main classification of occupation are?",
+    "options": {
+      "A": "construction, trade and services",
+      "B": "manufacturing, industry and services",
+      "C": "farming, banking and trading",
+      "D": "industry, commerce and services"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "occupations can be classified into three categories: - Industry - Commerce - Service,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/commerce/7599",
+    "passage": ""
   }
 ]
