@@ -1048,5 +1048,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64240",
     "passage": ""
+  },
+  {
+    "id": 64242,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Who is a sports journalist?",
+    "options": {
+      "A": "An individual trained to counsel athletes",
+      "B": "One who instructs the athletes on how to win their opponents",
+      "C": "Professional that impact knowledge in the student",
+      "D": "Sports writer that reports and analyses sports and games"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A sport journalist is a person who reports and writes on matters pertaining to sports.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64242",
+    "passage": ""
   }
 ]
