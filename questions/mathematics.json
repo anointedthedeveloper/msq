@@ -8671,5 +8671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9317",
     "passage": ""
+  },
+  {
+    "id": 9318,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Determine the value of x for which (x\\(^2\\) - 1) > 0?",
+    "options": {
+      "A": "x < -1 or x > 1",
+      "B": "-1 < x < 1",
+      "C": "x > 0",
+      "D": "x < -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "x\\(^2\\) > 0 (x+1)(x-1) > 0 x = 1 or -1\nx < -1 or x > 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9318",
+    "passage": ""
   }
 ]
