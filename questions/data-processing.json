@@ -5394,5 +5394,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/59008",
     "passage": ""
+  },
+  {
+    "id": 59009,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The arrangement that gives the correct order of magnitude of the database elements is",
+    "options": {
+      "A": "character, field, record, table, database, file",
+      "B": "character, field, record, table, file, database",
+      "C": "database, table, file, record, field, character",
+      "D": "database, record, file, field, table, character"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/59009",
+    "passage": ""
   }
 ]
