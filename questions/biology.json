@@ -4992,5 +4992,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2384",
     "passage": ""
+  },
+  {
+    "id": 2385,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "Which of the following substance is not found in urine?",
+    "options": {
+      "A": "Water",
+      "B": "Sodium chloride",
+      "C": "Nitrogenous compounds",
+      "D": "Calcium chloride",
+      "E": "Nitrogenous salts"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2385",
+    "passage": ""
   }
 ]
