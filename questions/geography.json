@@ -2559,5 +2559,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/6220",
     "passage": ""
+  },
+  {
+    "id": 6221,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Rotation of the earth is",
+    "options": {
+      "A": "the movement of the earth in the atmosphere",
+      "B": "the movement of the earth on its axis",
+      "C": "the movement of the earth around the sun",
+      "D": "the movement of the moon round the earth",
+      "E": "the movement of  the earth on its orbit"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/6221",
+    "passage": ""
   }
 ]
