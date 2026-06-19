@@ -7032,5 +7032,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2968",
     "passage": ""
+  },
+  {
+    "id": 2969,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Equal moles of ethyne and hydrogen iodide react to give",
+    "options": {
+      "A": "CH 2 = CH 2",
+      "B": "CH 2 - CHI",
+      "C": "CH 3 - CI",
+      "D": "CH 2 = CHI"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Whenever equal moles of ethyne and hydrogen iodide react, the triple bond in ethyne is broken down to double bond in order to accommodate the hydrogen iodide coming in because it is an addition reaction.\nLet's consider the reaction below:\nH - C ≡ C - H   +   HI →  H\\(_2\\)-C = CHI\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2969",
+    "passage": ""
   }
 ]
