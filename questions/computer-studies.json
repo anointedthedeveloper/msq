@@ -15318,5 +15318,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/67761",
     "passage": ""
+  },
+  {
+    "id": 67763,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "The logic gate in the figure above is",
+    "options": {
+      "A": "XNOR gate",
+      "B": "NOT gate",
+      "C": "XOR gate",
+      "D": "OR gate"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/L2YW2MNduRzWVRVeR0JdexOiqtYrjDhbKWvpH88v.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781904021/myschool/computer-studies/L2YW2MNduRzWVRVeR0JdexOiqtYrjDhbKWvpH88v.jpg",
+    "correct_answer": "C",
+    "explanation": "The figure above is the \"XOR (exclusive-OR) gate\" acts in the same way as the logical \"either/or.\" The output is true if either, but not both, of the inputs are true. The output is false if both inputs are \"false\" or if both inputs are true. Similarly, the output is 1 if the inputs are different but 0 if the inputs are the same. OR  It's an XOR gate denoted by Z = A ⊕ B.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/67763",
+    "passage": ""
   }
 ]
