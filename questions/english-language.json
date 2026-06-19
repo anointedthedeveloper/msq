@@ -4727,5 +4727,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/2084",
     "passage": ""
+  },
+  {
+    "id": 2085,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Choose the\ncorrect word\nto fill the space in the following sentences\n:\nThe meeting starts .... two o'clock. Please be punctual",
+    "options": {
+      "A": "about",
+      "B": "in",
+      "C": "on",
+      "D": "at",
+      "E": "around"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/2085",
+    "passage": ""
   }
 ]
