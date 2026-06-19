@@ -6559,5 +6559,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67118",
     "passage": ""
+  },
+  {
+    "id": 67119,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "Shared-memory is an architecture in",
+    "options": {
+      "A": "Parallel database",
+      "B": "Trusted distributed database",
+      "C": "Relational database",
+      "D": "Distributed database"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Shared-memory is the architectural model adopted by recent servers based on symmetric multiprocessors (SMP). It has been used by several parallel database system prototypes and products as it makes DBMS porting easy, using both inter-query and intra-query parallelism.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67119",
+    "passage": ""
   }
 ]
