@@ -229,5 +229,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/80",
     "passage": ""
+  },
+  {
+    "id": 81,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "One of the advantages of a bicameral over a unicameral legislature is that it",
+    "options": {
+      "A": "is cheap to maintain",
+      "B": "promotes social equality",
+      "C": "takes less time for the bills to be passed",
+      "D": "prevents the passage of ill-considered bills."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "One of the advantages of a bicameral over a unicameral legislature is that it prevents the passage of ill-considered bills. According to J.C. Anyaele (1991) the second Chamber checks and prevents hasty and ill-considered passage of bills as done in a unicameral legislature.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/81",
+    "passage": ""
   }
 ]
