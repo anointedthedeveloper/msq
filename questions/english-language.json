@@ -438,5 +438,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/127",
     "passage": ""
+  },
+  {
+    "id": 129,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Choose the option that best conveys the meaning of the underlined portion in the following sentence:\nWhen the man was caught by police, he presented a bold front.",
+    "options": {
+      "A": "he attacked the policemen boldly",
+      "B": "he walked up to the policemen",
+      "C": "he faced the situation with apparent boldness",
+      "D": "he bravely attempted to give them a present",
+      "E": "he frowned at them in a defiant manner"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The phrase \"presented a bold front\" is an idiom that means someone is acting bravely or confidently in a difficult situation , even if they might not feel that way inside.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/129",
+    "passage": ""
   }
 ]
