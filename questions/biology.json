@@ -2198,5 +2198,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/608",
     "passage": ""
+  },
+  {
+    "id": 848,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following food substances is digested in the stomach?",
+    "options": {
+      "A": "Carbohydrate",
+      "B": "Fats and oil",
+      "C": "Fats and proteins",
+      "D": "Proteins",
+      "E": "Carbohydrates and fats"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/848",
+    "passage": ""
   }
 ]
