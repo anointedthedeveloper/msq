@@ -9692,5 +9692,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/77057",
     "passage": ""
+  },
+  {
+    "id": 77062,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The feature in word processing that compares every word with an electronic dictionary is",
+    "options": {
+      "A": "thesaurus",
+      "B": "help",
+      "C": "spell check",
+      "D": "page alignment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A word processor is software or a device that allows users to create, edit, and print ... spell checking: Identifies words that don't appear in a standard dictionary.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/77062",
+    "passage": ""
   }
 ]
