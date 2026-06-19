@@ -775,5 +775,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/home-economics/73204",
     "passage": ""
+  },
+  {
+    "id": 73205,
+    "subject": "home-economics",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Examples of cooking methods that use conduction are:",
+    "options": {
+      "A": "Grilling, steaming, and baking",
+      "B": "Roasting, poaching, and steaming",
+      "C": "Boiling, poaching, and steaming",
+      "D": "Frying, boiling, and roasting"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Conduction is a cooking method that involves direct heat transfer through physical contact between the food and a heat source, such as a pan or cooking surface.\nFrying: food is in direct contact with the hot pan or oil. Boiling: food is submerged in hot water. Roasting: food is in direct contact with the hot oven surface or pan.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/home-economics/73205",
+    "passage": ""
   }
 ]
