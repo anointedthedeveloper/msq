@@ -208,5 +208,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/17",
     "passage": ""
+  },
+  {
+    "id": 18,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "1999",
+    "question": "The sum of two numbers is twice their difference. If the difference of the numbers is P, find the larger of the two numbers",
+    "options": {
+      "A": "p/2",
+      "B": "3p/2",
+      "C": "5p/2",
+      "D": "3p"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/18",
+    "passage": ""
   }
 ]
