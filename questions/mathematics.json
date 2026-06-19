@@ -3946,5 +3946,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7981",
     "passage": ""
+  },
+  {
+    "id": 8012,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2004",
+    "question": "Find the value of x in the figure above",
+    "options": {
+      "A": "15\\(\\sqrt{6}\\)",
+      "B": "20\\(\\sqrt{6}\\)",
+      "C": "3\\(\\sqrt{6}\\)",
+      "D": "5\\(\\sqrt{6}\\)"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27108875300_maths20048.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781868385/myschool/mathematics/27108875300_maths20048.jpg",
+    "correct_answer": "D",
+    "explanation": "\\(\\frac{X}{\\sin 45^\\circ} = \\frac{15}{\\sin 60^\\circ}\\)\n\\(X = \\frac{15 \\sin 45^\\circ}{\\sin 60^\\circ}\\)\n\\(X = \\frac{15 \\times \\left( \\frac{1}{\\sqrt{2}} \\right)}{\\sqrt{\\frac{3}{2}}}\\)\n\\(X = \\frac{15}{\\sqrt{2}} \\times \\frac{2}{\\sqrt{3}}\\)\n\\(X = \\frac{30}{\\sqrt{6}}\\)\n\\(X = \\frac{30}{\\sqrt{6}} \\times \\frac{\\sqrt{6}}{\\sqrt{6}} = \\frac{30\\sqrt{6}}{6} = 5\\sqrt{6}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8012",
+    "passage": ""
   }
 ]
