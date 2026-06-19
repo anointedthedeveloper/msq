@@ -187,5 +187,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73446",
     "passage": ""
+  },
+  {
+    "id": 73447,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Zaa ajuju a\nEgo ole ka nna ya nyere ya zuo akwụkwọ a? Nari naira",
+    "options": {
+      "A": "Ise",
+      "B": "Asaa",
+      "C": "Ano",
+      "D": "Isii"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "How much money did Nnedi's father give her? Nari naira ise. Nnedi's father gave her five hundred naira.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73447",
+    "passage": ""
   }
 ]
