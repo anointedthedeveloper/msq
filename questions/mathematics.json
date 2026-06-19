@@ -10393,5 +10393,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/21978",
     "passage": ""
+  },
+  {
+    "id": 22006,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1994",
+    "question": "If sin\\( \\theta \\) = K find tan\\(\\theta\\), 0° \\(\\leq\\) \\(\\theta\\) \\(\\leq\\) 90°.",
+    "options": {
+      "A": "1-K",
+      "B": "\\( \\frac{k}{k - 1} \\)",
+      "C": "\\( \\frac{k}{\\sqrt{1 - k^2}} \\)",
+      "D": "\\( \\frac{k}{1 - k} \\)",
+      "E": "\\( \\frac{k}{\\sqrt{ k^2 - 1}} \\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\sin \\theta = \\frac{k}{1}\\)\n\\(\\implies 1^2 = k^2 + adj^2\\)\n\\(adj = \\sqrt{1 - k^2}\\)\n\\(\\therefore \\tan \\theta = \\frac{k}{\\sqrt{1 - k^2}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22006",
+    "passage": ""
   }
 ]
