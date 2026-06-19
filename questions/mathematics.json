@@ -6046,5 +6046,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8831",
     "passage": ""
+  },
+  {
+    "id": 8832,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Convert 2232\\(_4\\) to base six",
+    "options": {
+      "A": "450 6",
+      "B": "254 6",
+      "C": "553 6",
+      "D": "540 6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1st convert to base 10 2232\\(_4\\) = 2 x 4\\(^3\\) + 2 x 4\\(^2\\) + 3 x 4\\(^1\\) + 2 x 4\\(^0\\) = 2 x 64 + 2 x 16 + 3 x 4 + 2 x 1 = 128 + 32 + 12 + 2 = 174 convert to base 6 6/174 6/29 R 0 6/4 R 5 6/0 R 4 = 450\\(_6\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8832",
+    "passage": ""
   }
 ]
