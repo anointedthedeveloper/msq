@@ -11361,5 +11361,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22208",
     "passage": ""
+  },
+  {
+    "id": 22226,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Cotonou and Niamey are on the same line of longitude and  Niamey is 7\no\nnorth of Cotonou. If the radius of the earth is 6400km, how far is Niamey north of Cotonou along the line of longitude, correct to the nearest kilometer? [Take π = 22/7]",
+    "options": {
+      "A": "391km",
+      "B": "503km",
+      "C": "782km",
+      "D": "1006km",
+      "E": "2012km"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "θ / 360 * 2πR\n= 7 / 360 * 2 * 22 / 7 * 6400 = 782km",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22226",
+    "passage": ""
   }
 ]
