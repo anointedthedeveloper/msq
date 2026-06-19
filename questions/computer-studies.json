@@ -11095,5 +11095,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64106",
     "passage": ""
+  },
+  {
+    "id": 64107,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "A 2-input gate that can be used to pass a digital waveform unchanged at certain times and inverted at other times is ___________",
+    "options": {
+      "A": "AND gate",
+      "B": "OR gate",
+      "C": "NAND gate",
+      "D": "XOR gate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This is what a XOR gate can do.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64107",
+    "passage": ""
   }
 ]
