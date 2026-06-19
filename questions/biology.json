@@ -4552,5 +4552,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2293",
     "passage": ""
+  },
+  {
+    "id": 2294,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "In man, spermatozoa are never found in the?",
+    "options": {
+      "A": "testis",
+      "B": "urethra",
+      "C": "epididymis",
+      "D": "prostrate glands",
+      "E": "vas deferens"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "- The prostate gland is located just below the bladder in men and surrounds the top portion of the tube that drains urine from the bladder (urethra). The prostate's primary function is to produce the fluid that nourishes and transports sperm (seminal fluid).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2294",
+    "passage": ""
   }
 ]
