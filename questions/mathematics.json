@@ -10789,5 +10789,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22050",
     "passage": ""
+  },
+  {
+    "id": 22051,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "Calculate the value of x in the diagram above",
+    "options": {
+      "A": "18 o",
+      "B": "30 o",
+      "C": "40 o",
+      "D": "60 o",
+      "E": "15°"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/12446830980_wcmath198818.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781906728/myschool/mathematics/12446830980_wcmath198818.jpg",
+    "correct_answer": "E",
+    "explanation": "vertically opposite angles are equal, hence\n3x + 6x + 3x = 180°\n12x = 180°\nx = 15°",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22051",
+    "passage": ""
   }
 ]
