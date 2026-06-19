@@ -4617,5 +4617,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70816",
     "passage": ""
+  },
+  {
+    "id": 70817,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "What is the first step in managing a severe bleeding wound?",
+    "options": {
+      "A": "Apply pressure to the wound",
+      "B": "Clean the wound with water",
+      "C": "Elevate the limb",
+      "D": "Apply a cold compress"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Applying direct pressure to the wound helps control bleeding by reducing blood flow and allowing clotting.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70817",
+    "passage": ""
   }
 ]
