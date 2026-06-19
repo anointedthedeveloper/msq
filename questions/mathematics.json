@@ -13471,5 +13471,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22698",
     "passage": ""
+  },
+  {
+    "id": 22699,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The table shows that the amount of money (in naira)collected through voluntary donations in a secondary school. What is the mode?",
+    "options": {
+      "A": "N3",
+      "B": "N6",
+      "C": "N9",
+      "D": "N12",
+      "E": "N15"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/23516524184_wcmath199047.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908633/myschool/mathematics/23516524184_wcmath199047.jpg",
+    "correct_answer": "D",
+    "explanation": "Mode = 12",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22699",
+    "passage": ""
   }
 ]
