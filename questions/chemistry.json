@@ -9322,5 +9322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3859",
     "passage": ""
+  },
+  {
+    "id": 3860,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A mixture of petrol and water can be separated through",
+    "options": {
+      "A": "centrifugation",
+      "B": "distillation",
+      "C": "the use of separating funnel",
+      "D": "the use of filter paper"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Petrol and water are immiscible liquids, so the best method of separation of petrol and water is by a separating funnel.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3860",
+    "passage": ""
   }
 ]
