@@ -18151,5 +18151,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/25063",
     "passage": ""
+  },
+  {
+    "id": 25064,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1995",
+    "question": "A brass rod is 2 m long at a certain temperature. Calculate the linear expansion of the rod for a temperature change of 100K. (Take the linear expansivity of brass as 1.8 x 10'5K\").",
+    "options": {
+      "A": "0.3600 m",
+      "B": "0.1800 m",
+      "C": "0.0360 m",
+      "D": "0.0036m",
+      "E": "0.0018 m"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/25064",
+    "passage": ""
   }
 ]
