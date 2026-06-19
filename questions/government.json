@@ -502,5 +502,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/119",
     "passage": ""
+  },
+  {
+    "id": 121,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "When Nigeria achieved independence in 1960, the head of state was the",
+    "options": {
+      "A": "president",
+      "B": "prime minister",
+      "C": "Governor-General",
+      "D": "Queen of England."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When Nigeria achieved independence in 1960, the Head of state was the Governor-General, representing the queen of England. One of the main provisions of the constitution of 1960 was that the governor general was made the constitutional ceremonial Head of state and a representative of the Queen of England.\nThis means the queen was the head of state but appointed a representative in the person of the governor-general to stand in for her, in her absence.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/121",
+    "passage": ""
   }
 ]
