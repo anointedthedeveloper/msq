@@ -196,5 +196,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/geography/212",
     "passage": ""
+  },
+  {
+    "id": 213,
+    "subject": "geography",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "Which of the following factors least explains the fast growing population in Africa?",
+    "options": {
+      "A": "control of diseases",
+      "B": "decline in death rate",
+      "C": "the education of women",
+      "D": "improvement in transportation",
+      "E": "provision of more hospitals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/geography/213",
+    "passage": ""
   }
 ]
