@@ -13573,5 +13573,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/64408",
     "passage": ""
+  },
+  {
+    "id": 64411,
+    "subject": "computer-studies",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "Running other software on idle computer without the knowledge of the organisation is called theft of ___________",
+    "options": {
+      "A": "Software",
+      "B": "computer",
+      "C": "computer time",
+      "D": "use"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Computer time theft is hacking into a large computer system and utilising its computing resources for a purpose not authorised by the owner of the system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/64411",
+    "passage": ""
   }
 ]
