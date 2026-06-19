@@ -901,5 +901,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/fine-arts/48059",
     "passage": ""
+  },
+  {
+    "id": 48060,
+    "subject": "fine-arts",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "i. ii. iii. iv.\nThe illustration reflects contrast of",
+    "options": {
+      "A": "tone and size",
+      "B": "size and texture",
+      "C": "shape and size",
+      "D": "tone and shape"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The illustrations (i-iv) showcases a contrast in its display of irregular shapes with different tonal variations which can be seen by squinting the eyes (tone here simply means the lightness or darkness of an object). Illustration (ii) represents the highlight, (iv) represnts the light tone, (iii) is the mid tone and illustration (i) is the dark tone or shadow. Therefore, the illustration is a contrast of tones and shapes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/fine-arts/48060",
+    "passage": ""
   }
 ]
