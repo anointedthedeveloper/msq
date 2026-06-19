@@ -7117,5 +7117,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9240",
     "passage": ""
+  },
+  {
+    "id": 9241,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "A man made a profit of 5% when he sold an article for N60,000.00. How much would he have sell the article to make a profit of 26%",
+    "options": {
+      "A": "N68,000",
+      "B": "N72,000",
+      "C": "N65,000",
+      "D": "N70,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "5% profit = 100 + 5 = 105% 26% profit = 100 + 26 = 126% ∴ 105% → N60,000 1% → \\(\\frac{60000}{105}\\) 126% = \\(\\frac{60000}{105}\\) x \\(\\frac{126}{1}\\) = N72,000.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9241",
+    "passage": ""
   }
 ]
