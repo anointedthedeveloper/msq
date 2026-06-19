@@ -670,5 +670,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/civic-education/50036",
     "passage": ""
+  },
+  {
+    "id": 50037,
+    "subject": "civic-education",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Which of the following concepts can guarantee adherence to the rule of law",
+    "options": {
+      "A": "political immunity",
+      "B": "political gerrymandering",
+      "C": "national development",
+      "D": "representative democracy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Representative democracy is a type of democracy founded on the principle of elected officials representing a group of people, as opposed to direct democracy. There is usually seperation of power in a representative democracy and the rule of law is upheld as every elected official act within their office power.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/civic-education/50037",
+    "passage": ""
   }
 ]
