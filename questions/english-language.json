@@ -372,5 +372,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/120",
     "passage": ""
+  },
+  {
+    "id": 124,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1978",
+    "question": "If my father had not arrived, I would have starved. This sentence means",
+    "options": {
+      "A": "My father did arrive and I didn't starve",
+      "B": "I had to starve because my father didn't come",
+      "C": "my father didn't arrive and I didn't starve",
+      "D": "I should have starved but I didn't",
+      "E": "I had starved before my father arrived"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "It means, the reason why he didn't starve is because his father had arrived.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/124",
+    "passage": ""
   }
 ]
