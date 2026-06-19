@@ -1587,5 +1587,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/66510",
     "passage": ""
+  },
+  {
+    "id": 66512,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "An electirc device which process data into information by following a set of programme instructions is",
+    "options": {
+      "A": "computer",
+      "B": "teleprinter",
+      "C": "photocopier",
+      "D": "calculator"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Computer is an eletronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/66512",
+    "passage": ""
   }
 ]
