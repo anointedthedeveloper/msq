@@ -6802,5 +6802,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13858",
     "passage": ""
+  },
+  {
+    "id": 13859,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "When an a.c. voltage is applied to a capacitor, no power is consumed because the current",
+    "options": {
+      "A": "leads the voltage by 90°",
+      "B": "lags behind the voltage by 90°",
+      "C": "and voltage are in phase",
+      "D": "and voltage are 180° out of phase"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13859",
+    "passage": ""
   }
 ]
