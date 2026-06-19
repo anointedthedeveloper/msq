@@ -7004,5 +7004,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/75953",
     "passage": ""
+  },
+  {
+    "id": 75954,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2025",
+    "question": "\"Yarinya mai kyau ce.\" Wace ce jimla mai suna?",
+    "options": {
+      "A": "Yarinya",
+      "B": "Yarinya mai kyau",
+      "C": "Ce",
+      "D": "Mai kyau"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "This is a complete noun phrase: a noun and its modifier.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/75954",
+    "passage": ""
   }
 ]
