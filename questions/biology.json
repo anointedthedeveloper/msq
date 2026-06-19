@@ -4882,5 +4882,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2379",
     "passage": ""
+  },
+  {
+    "id": 2380,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Which of the following is not associated with excretion in mammals?",
+    "options": {
+      "A": "Glomerulus",
+      "B": "Urea",
+      "C": "Faeces",
+      "D": "Carbon Dioxide",
+      "E": "Bowman's capsule"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Faeces are not considered an excretory product in the strictest sense. While faeces are waste products eliminated from the body, they are primarily composed of undigested food and other waste materials from the digestive tract, not metabolic byproducts. The process of removing faeces is called egestion, not excretion.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2380",
+    "passage": ""
   }
 ]
