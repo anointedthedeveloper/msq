@@ -4609,5 +4609,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/animal-husbandry/59599",
     "passage": ""
+  },
+  {
+    "id": 59600,
+    "subject": "animal-husbandry",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "The function of an electro-ejaculator during artificial insemination is to___________",
+    "options": {
+      "A": "collect semen",
+      "B": "service the female",
+      "C": "induce semen release",
+      "D": "induce heat in the animal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An electro-ejaculator stimulates the male's reproductive organs using electrical impulses, prompting the release of semen for collection.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/animal-husbandry/59600",
+    "passage": ""
   }
 ]
