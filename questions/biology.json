@@ -4618,5 +4618,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/2296",
     "passage": ""
+  },
+  {
+    "id": 2297,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "Flatworms and roundworms are said to be invertebrates because",
+    "options": {
+      "A": "they are small animals",
+      "B": "they can live inside the vertebrates",
+      "C": "some of them are unicellular",
+      "D": "they have no backbones",
+      "E": "they are parasitic"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/2297",
+    "passage": ""
   }
 ]
