@@ -482,5 +482,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/15823",
     "passage": ""
+  },
+  {
+    "id": 15824,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1988",
+    "question": "The plant-a-tree-campaign of the Federal Government of Nigeria is a way of encouraging forest",
+    "options": {
+      "A": "regulation",
+      "B": "exploration",
+      "C": "exploitation",
+      "D": "integration",
+      "E": "regeneration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/15824",
+    "passage": ""
   }
 ]
