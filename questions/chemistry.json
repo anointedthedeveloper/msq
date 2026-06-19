@@ -11023,5 +11023,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4314",
     "passage": ""
+  },
+  {
+    "id": 4315,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The colour changes observed when testing for reducing agents using acidified potassium heptaoxodichromate (VI) solution is?",
+    "options": {
+      "A": "yellow to purple",
+      "B": "orange to green",
+      "C": "green to orange",
+      "D": "purple to yellow"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Reducing agent like SO\\(_2\\).\nSulphur dioxide gas (SO\\(_2\\)) is bubbled through acidified potassium dichromate. The orange solution turns green.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4315",
+    "passage": ""
   }
 ]
