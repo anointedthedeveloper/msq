@@ -2857,5 +2857,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1351",
     "passage": ""
+  },
+  {
+    "id": 1352,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the word/expression which best completes each sentence :\nIt is time we ....",
+    "options": {
+      "A": "should be going",
+      "B": "ought to go",
+      "C": "are going",
+      "D": "went",
+      "E": "go"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Whenever \" It's time/It's high time\" is used in a sentence, the verb that follows must be in the past tense form.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1352",
+    "passage": ""
   }
 ]
