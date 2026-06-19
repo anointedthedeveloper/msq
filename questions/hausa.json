@@ -1362,5 +1362,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/73654",
     "passage": ""
+  },
+  {
+    "id": 73655,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Wakili ya auri wata farar yarinya.\" Kalmar da aka ja wa layi ........... ce.",
+    "options": {
+      "A": "bayanau",
+      "B": "aikatau",
+      "C": "suna",
+      "D": "sifa"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The verb in the sentence \"Wakili ya_auri_wata farar yarinya\" is: Answer: aikatau (Aikatau means \"verb\", and in this sentence, the verb is \"auri\", which means \"to marry\". Bayanau is a modifier, sifa is an adjective, suna is a noun, and wakilin suna is a possessive pronoun)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/73655",
+    "passage": ""
   }
 ]
