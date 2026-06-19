@@ -8419,5 +8419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3729",
     "passage": ""
+  },
+  {
+    "id": 3730,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The idea of planetary electron was that of",
+    "options": {
+      "A": "Rutherford",
+      "B": "Thompson",
+      "C": "Bohr",
+      "D": "Dalton"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ernest Rutherford proposed the idea of the planetary model of the atom, where electrons orbit a central nucleus, in 1911.\nThe idea of a \"planetary electron,\" where electrons orbit the nucleus like planets around the sun, is attributed to Ernest Rutherford; his model is often called the \"planetary model\" of the atom. While Bohr later refined this model by proposing fixed energy levels for electrons, the initial concept of electrons orbiting a central nucleus like planets was put forward by Rutherford. The idea of a \"planetary\" model of the atom, where electrons orbit the nucleus like planets around the sun, was later proposed by Niels Bohr in 1913.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3730",
+    "passage": ""
   }
 ]
