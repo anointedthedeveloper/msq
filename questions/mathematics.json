@@ -13493,5 +13493,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/22699",
     "passage": ""
+  },
+  {
+    "id": 22700,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1990",
+    "question": "The table shows that the amount of money (in naira)collected through voluntary donations in a secondary school.",
+    "options": {
+      "A": "N3.00",
+      "B": "N9.00",
+      "C": "N12.00",
+      "D": "N15.00",
+      "E": "N18.00"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/16599901824_wcmath199047.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781908645/myschool/mathematics/16599901824_wcmath199047.jpg",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/22700",
+    "passage": ""
   }
 ]
