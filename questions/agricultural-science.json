@@ -2044,5 +2044,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/16000",
     "passage": ""
+  },
+  {
+    "id": 16001,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "1989",
+    "question": "The expression of a gene in the phenotype irrespective of whether the cell is homozygous or heterozygous is known as",
+    "options": {
+      "A": "recessive",
+      "B": "partial dominance",
+      "C": "test-cross",
+      "D": "segregation",
+      "E": "dominance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/16001",
+    "passage": ""
   }
 ]
