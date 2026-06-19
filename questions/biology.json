@@ -3100,5 +3100,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1259",
     "passage": ""
+  },
+  {
+    "id": 1260,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following instruments is used to demonstrate the response of roots and shoots to gravity?",
+    "options": {
+      "A": "Clinostat",
+      "B": "Manometer",
+      "C": "Porometer",
+      "D": "Potometer",
+      "E": "Photometer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Clinostat : A device used in experiments to test the influence of gravity on the growth movements of plants (see geotropism).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1260",
+    "passage": ""
   }
 ]
