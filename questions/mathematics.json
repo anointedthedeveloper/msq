@@ -8755,5 +8755,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9321",
     "passage": ""
+  },
+  {
+    "id": 9322,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If m * n = n - (m+2) for any real number m and n find the value of 3*(-5)?",
+    "options": {
+      "A": "-6",
+      "B": "-8",
+      "C": "-10",
+      "D": "-12"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "m * n = n - (m+2) = -5 - (3+2) = -5-5 = -10\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9322",
+    "passage": ""
   }
 ]
