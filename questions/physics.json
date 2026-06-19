@@ -6109,5 +6109,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/13709",
     "passage": ""
+  },
+  {
+    "id": 13711,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "The charge carriers in gasses are",
+    "options": {
+      "A": "ions only",
+      "B": "electrons and ions",
+      "C": "electrons and holes",
+      "D": "electrons only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The electrons and cations of ionized gas act as charge carriers.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/13711",
+    "passage": ""
   }
 ]
