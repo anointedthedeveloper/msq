@@ -4034,5 +4034,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/office-practice/76002",
     "passage": ""
+  },
+  {
+    "id": 76003,
+    "subject": "office-practice",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "Which of the following activties does the handling of incoming mails involve?",
+    "options": {
+      "A": "Addressing the envelope",
+      "B": "Examining the content",
+      "C": "Enveloping the document",
+      "D": "Dispatching the mail"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The handling of incoming mails involves 'Examining the content'. This is a crucial step in the process of handling incoming mail, as it allows the recipient to understand the purpose of the mail and take appropriate action. The other options listed are not typically involved in the handling of incoming mail.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/office-practice/76003",
+    "passage": ""
   }
 ]
