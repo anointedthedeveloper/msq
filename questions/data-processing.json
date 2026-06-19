@@ -6895,5 +6895,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/67134",
     "passage": ""
+  },
+  {
+    "id": 67135,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2022",
+    "question": "The part labelled I in this figure is used in Microsoft Word to",
+    "options": {
+      "A": "Enlarge current document",
+      "B": "Minimize current document",
+      "C": "Highlight current document",
+      "D": "Close current document"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0UqQOaDiYnYRvuLvPM2QreQFd9yWoYbJVdZQs2mF.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781911868/myschool/data-processing/0UqQOaDiYnYRvuLvPM2QreQFd9yWoYbJVdZQs2mF.png",
+    "correct_answer": "B",
+    "explanation": "I minimizes current document",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/67135",
+    "passage": ""
   }
 ]
