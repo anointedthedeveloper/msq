@@ -2287,5 +2287,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68246",
     "passage": ""
+  },
+  {
+    "id": 68258,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an indoor recreational activity?",
+    "options": {
+      "A": "swimming",
+      "B": "hiking",
+      "C": "jogging",
+      "D": "playing chess"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Indoor recreational activities are activities performed inside a house, hall or generally under a roof. Examples - singing - playing ludo - playing chess - dancing -reading etc",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68258",
+    "passage": ""
   }
 ]
