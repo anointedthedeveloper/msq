@@ -2497,5 +2497,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/68267",
     "passage": ""
+  },
+  {
+    "id": 68268,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following games is a traditional game in Nigeria before colonization ?",
+    "options": {
+      "A": "badmiton",
+      "B": "chess",
+      "C": "soccer",
+      "D": "ayo game"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ayo game is a traditional game in Nigeria before colonization. It is a popular game among the Yoruba, Igbo and Hausa tribes. The other options like soccer, badminton, and chess are not traditional Nigerian games.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/68268",
+    "passage": ""
   }
 ]
