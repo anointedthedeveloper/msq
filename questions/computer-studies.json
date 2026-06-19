@@ -8914,5 +8914,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62690",
     "passage": ""
+  },
+  {
+    "id": 62691,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2019",
+    "question": "The topology represented in figure 1 is?",
+    "options": {
+      "A": "bus topology.",
+      "B": "mesh topology.",
+      "C": "ring topology.",
+      "D": "star topology."
+    },
+    "image_url": "https://myschool.ng/storage/classroom/IXhrbM50RplzD332s61Ouqg82QJbfyDXBgtv0Ayr.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781902833/myschool/computer-studies/IXhrbM50RplzD332s61Ouqg82QJbfyDXBgtv0Ayr.jpg",
+    "correct_answer": "A",
+    "explanation": "The Topology represented in figure1 above is Bus topology.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62691",
+    "passage": ""
   }
 ]
