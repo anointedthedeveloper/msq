@@ -2330,5 +2330,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/government/1205",
     "passage": ""
+  },
+  {
+    "id": 1208,
+    "subject": "government",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Associations whose main interest is to influence public policies without having to capture power are",
+    "options": {
+      "A": "communal groups",
+      "B": "trade unions",
+      "C": "political parties",
+      "D": "pressure groups"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/government/1208",
+    "passage": ""
   }
 ]
