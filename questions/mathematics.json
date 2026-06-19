@@ -8041,5 +8041,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/9284",
     "passage": ""
+  },
+  {
+    "id": 9285,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "Find the gradient of a line which is perpendicular to the line with the equation 3x + 2y + 1 = 0",
+    "options": {
+      "A": "3 / 2",
+      "B": "2 / 3",
+      "C": "- 2 / 3",
+      "D": "- 3 / 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "3X + 2Y + 1 = 0 2Y = -3X - 1 \\(\\frac{-3}{2}X - \\frac{1}{2}\\) Gradient of 3X + 2Y +1 = 0 is -3/2 Gradient of a line perpendicular to 3X + 2Y + 1 = 0 \\(=-1 \\div \\frac{3}{2}\\) =-1 \\(\\times \\frac{-2}{3} = \\frac{2}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/9285",
+    "passage": ""
   }
 ]
