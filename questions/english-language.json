@@ -2417,5 +2417,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/english-language/1331",
     "passage": ""
+  },
+  {
+    "id": 1332,
+    "subject": "english-language",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "Choose the option nearest in meaning to the underlined words :\nMost of his observations were wide of the mark",
+    "options": {
+      "A": "comprehensive",
+      "B": "irrelevant",
+      "C": "pertinent",
+      "D": "came rather late",
+      "E": "unacceptable"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In this context, wide of the mark means to be irrelevant, incorrect or inaccurate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/english-language/1332",
+    "passage": ""
   }
 ]
