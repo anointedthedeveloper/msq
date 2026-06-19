@@ -3737,5 +3737,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/2481",
     "passage": ""
+  },
+  {
+    "id": 2483,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "When a nation’s exports are greater than its imports",
+    "options": {
+      "A": "The net foreign  trade is zero",
+      "B": "an unfavourable balance of payment exist",
+      "C": "A favourable balance of payment exists",
+      "D": "An un favourable balance of trade exist",
+      "E": "A favourable balance of trade exists"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "When a nation's exports are greater than its imports, it is said to have a favorable balance of trade, indicating that it is selling more to other countries than it is buying from them.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/2483",
+    "passage": ""
   }
 ]
