@@ -2790,5 +2790,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50450",
     "passage": ""
+  },
+  {
+    "id": 50453,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A line passes through the origin and the point \\((1\\frac{1}{4}, 2\\frac{1}{2})\\). Find the y-coordinate of the line when x = 4.",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "6",
+      "D": "8"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The gradient of the equation = \\(\\frac{y_{1} - y_{0}}{x_{1} - x_{0}} = \\frac{\\frac{5}{2} - 0}{\\frac{5}{4} - 0}\\)\n= \\(\\frac{\\frac{5}{2}}{\\frac{5}{4}} = 2\\)\nThe line passes through the origin, therefore the equation of the line is y = mx\n\\(y = 2x\\)\nWhen x = 4, y = 2 x 4 = 8.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50453",
+    "passage": ""
   }
 ]
