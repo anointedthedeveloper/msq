@@ -21116,5 +21116,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/76908",
     "passage": ""
+  },
+  {
+    "id": 76909,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2025",
+    "question": "The conversion of 110012 to base 10 equals",
+    "options": {
+      "A": "30",
+      "B": "20",
+      "C": "25",
+      "D": "28"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "110012 to base 10\n14130201\n(1×24) + (1 ×23) + (0×22)+(0×21)+(1×20)\n16+8+0+0+1 = 25",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/76909",
+    "passage": ""
   }
 ]
