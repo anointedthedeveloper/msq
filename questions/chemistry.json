@@ -12850,5 +12850,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/4769",
     "passage": ""
+  },
+  {
+    "id": 4770,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2011",
+    "question": "What type of bond exits between an element X with atomic number 12 and Y with atomic number 17?",
+    "options": {
+      "A": "Electrovalent",
+      "B": "Metallic",
+      "C": "Covalent",
+      "D": "Dative"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/4770",
+    "passage": ""
   }
 ]
