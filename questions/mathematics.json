@@ -4870,5 +4870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/8224",
     "passage": ""
+  },
+  {
+    "id": 8225,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "If m = 3, p = -3, q = 7 and r = \\(\\frac{5}{2}\\), evaluate m(p+q+r)",
+    "options": {
+      "A": "19.50",
+      "B": "19.15",
+      "C": "18.95",
+      "D": "18.05"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "m = 3, p = -3, q = 7 and r = \\(\\frac{5}{2}\\) m(p+q+r) = 3(-3 + 7 + \\(\\frac{5}{2}\\)) = 3(4 + \\(\\frac{5}{2}\\)) = 3(4 + 2\\(\\frac{1}{2}\\)) = 3 * 6\\(\\frac{1}{2}\\) = 3 * \\(\\frac{13}{2}\\) = \\(\\frac{39}{2}\\) = 19.50\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/8225",
+    "passage": ""
   }
 ]
