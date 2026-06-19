@@ -4394,5 +4394,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62276",
     "passage": ""
+  },
+  {
+    "id": 62277,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following items changes shape depending on the task being performed?",
+    "options": {
+      "A": "Ribbon",
+      "B": "Active tab",
+      "C": "Insertion point",
+      "D": "Mouse pointer"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62277",
+    "passage": ""
   }
 ]
