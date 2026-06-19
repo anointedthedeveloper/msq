@@ -16438,5 +16438,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/24279",
     "passage": ""
+  },
+  {
+    "id": 24280,
+    "subject": "physics",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "A pipe closed at one end is 1.0m long. The air in the pipe is set into vibration and a fundamental note of frequency 85Hz is produced. Calculate the velocity of sound in the air. (Neglect end correction).",
+    "options": {
+      "A": "340.0ms -1",
+      "B": "33Oms -1",
+      "C": "170ms -1",
+      "D": "85.0ms -1",
+      "E": "42.5ms -1"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "-1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/24280",
+    "passage": ""
   }
 ]
