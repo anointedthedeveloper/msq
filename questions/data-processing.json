@@ -9192,5 +9192,21 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/72387",
     "passage": ""
+  },
+  {
+    "id": 72388,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "a(i) Define the term file organization. (ii) Group the following file organization attributes under the appropriate heading as shown below. I. It does not support use of tapes II. Records are inserted one after the other III. It does not generate random keys to identify location IV. It generates random key to identify locate\nb(I) State two safety rules observed in a computer laboratory (ii) List three internet browsers",
+    "options": {},
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "a(i)Definition of File organisation: File organization is a logical arrangement of data/records in a file. OR  File organization refers to the systematic method and structure used to store, manage and retrieve data in files within a computer system. OR File organization encompasses how files are arranged on storage devices (like hard drives, SSDs, or cloud storage) and how the data within these files is formatted and accessed. (ii) File organization attributes grouping\nSequential Organization Indexed Organization Records are inserted one after the other (II) It does not support the use of tapes (I) It does not generate random key to identify location (III) It generates random key to identify location (IV)\nb(i) Safety rules in computer laboratory:\nUse of surge protectors for computers Locate emergency exits and familiarize yourself with the nearest exits Clearly identify/label emergency equipment Have a list of emergency contact numbers and procedures posted in the lab Ensure the use personal protective equipment.\n(ii) Internet browser:\nMozilla UC browser Avant Browser Firefox Browser Internet browser Microsoft browser Explorer edge Vivaldi",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/72388",
+    "passage": ""
   }
 ]
