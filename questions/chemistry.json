@@ -5436,5 +5436,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/2518",
     "passage": ""
+  },
+  {
+    "id": 2519,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "The metal that liberates hydrogen from cold water in bubbles only is?",
+    "options": {
+      "A": "Na",
+      "B": "K",
+      "C": "Ca",
+      "D": "Al"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "After a second or so, the calcium metal begins to bubble vigorously as it reacts with the water , producing hydrogen gas, and a cloudy white precipitate of calcium hydroxide.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/2519",
+    "passage": ""
   }
 ]
