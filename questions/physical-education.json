@@ -5205,5 +5205,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/70845",
     "passage": ""
+  },
+  {
+    "id": 70846,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which dance step involves high leaps and kicks and is associated with the Yoruba people?",
+    "options": {
+      "A": "Shadi",
+      "B": "Bata",
+      "C": "Mmanwu",
+      "D": "Atilogwu"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The Bata dance, associated with the Yoruba people, features high leaps and kicks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/70846",
+    "passage": ""
   }
 ]
