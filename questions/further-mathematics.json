@@ -3819,5 +3819,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50591",
     "passage": ""
+  },
+  {
+    "id": 50592,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Given that \\(AB = \\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix}\\) and \\(AC = \\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}\\), find |BC|.",
+    "options": {
+      "A": "\\(4\\sqrt{2}\\)",
+      "B": "\\(6\\sqrt{2}\\)",
+      "C": "\\(2\\sqrt{10}\\)",
+      "D": "\\(4\\sqrt{10}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(BC = BA + AC\\)\nGiven, \\(AB\\), then \\(BA = - AB\\)\n= \\(AB = \\begin{pmatrix} 4 \\\\ 3 \\end{pmatrix} \\implies BA = \\begin{pmatrix} -4 \\\\ -3 \\end{pmatrix}\\)\n\\(\\therefore BC = \\begin{pmatrix} -4 \\\\ -3 \\end{pmatrix} + \\begin{pmatrix} 2 \\\\ -3 \\end{pmatrix}\\)\n= \\(\\begin{pmatrix} -2 \\\\ -6 \\end{pmatrix}\\)\n\\(|BC| = \\sqrt{(-2)^{2} + (-6)^{2}} = \\sqrt{40} \\)\n= \\(2\\sqrt{10}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50592",
+    "passage": ""
   }
 ]
