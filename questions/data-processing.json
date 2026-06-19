@@ -3583,5 +3583,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/58459",
     "passage": ""
+  },
+  {
+    "id": 58461,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2020",
+    "question": "A file organization that has reference which identifies a record in relation to other records is called...",
+    "options": {
+      "A": "indexed file organization",
+      "B": "random file organization",
+      "C": "sequential file organization",
+      "D": "serial file organization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/58461",
+    "passage": ""
   }
 ]
