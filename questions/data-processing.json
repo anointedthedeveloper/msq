@@ -7831,5 +7831,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/data-processing/69787",
     "passage": ""
+  },
+  {
+    "id": 69788,
+    "subject": "data-processing",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Database Administrator is a professional who",
+    "options": {
+      "A": "handles packet sniffing in a network",
+      "B": "designs, implements and maintains a database",
+      "C": "performs data entry in a database",
+      "D": "tests and detects vulnerabilities on hardware devices and software"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A Database Administrator is a professional who designs, implements, and maintains a database. Database administrators are responsible for managing and overseeing the organization's databases to ensure they are efficient, secure, and reliable. Their tasks include designing the database structure, implementing data models, optimizing database performance, ensuring data security, creating backup and recovery plans, and more. They play a crucial role in ensuring that data is organized, accessible, and properly managed within an organization's database systems. The other options mentioned—testing and detecting vulnerabilities, handling packet sniffing, and performing data entry—are tasks related to network security, network analysis, and data input, respectively, but they are not the primary responsibilities of a Database Administrator.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/data-processing/69788",
+    "passage": ""
   }
 ]
