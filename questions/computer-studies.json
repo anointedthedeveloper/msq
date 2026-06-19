@@ -19944,5 +19944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/72666",
     "passage": ""
+  },
+  {
+    "id": 72667,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The ASCII character set represents alphabetical and control characters using numeric code ranging from",
+    "options": {
+      "A": "0 to 32.",
+      "B": "0 to 64.",
+      "C": "0 to 127.",
+      "D": "0 to 128."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The ASCII character set ,represents using numeric code ranging from 0 to 127 (128 characters in total).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/72667",
+    "passage": ""
   }
 ]
