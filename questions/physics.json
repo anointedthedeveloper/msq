@@ -1930,5 +1930,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/7286",
     "passage": ""
+  },
+  {
+    "id": 7292,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2001",
+    "question": "A working electric motor takes a current of 1.5 A when the p.d across it is 250V. If its efficiency is 80%, the power output is",
+    "options": {
+      "A": "300.0W",
+      "B": "469.0W",
+      "C": "133.0W",
+      "D": "4.8W"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Efficiency = \\(\\frac{\\text{power output}}{\\text{power Input}}\\) => \\(\\frac{80}{100} = \\frac{\\text{power output}}{1.5\\times 250}\\) i.e  power output = \\(\\frac{1.5\\times250\\times80}{100}\\) = 300W\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/7292",
+    "passage": ""
   }
 ]
