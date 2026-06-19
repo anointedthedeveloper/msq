@@ -5723,5 +5723,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/hausa/74021",
     "passage": ""
+  },
+  {
+    "id": 74022,
+    "subject": "hausa",
+    "exam_type": "JAMB",
+    "exam_year": "2018",
+    "question": "Wanne ne ya kebanta ga rubutun wasika?",
+    "options": {
+      "A": "Adireshi",
+      "B": "Amfani da wakafi.",
+      "C": "Amfani da alamar tsayawa",
+      "D": "Jera tunani"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Wanne ne ya kebanta ga rubutun wasika? (What is essential in writing a letter?). Answer: Adireshi (the address). The address is a crucial element in writing a letter, as it ensures that the letter reaches the intended recipient",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/hausa/74022",
+    "passage": ""
   }
 ]
