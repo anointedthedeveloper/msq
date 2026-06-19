@@ -11177,5 +11177,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/history/68501",
     "passage": ""
+  },
+  {
+    "id": 68502,
+    "subject": "history",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Apartheid in South Africa was a system that institutionalized racial segregation and discrimination. What year did it officially begin?",
+    "options": {
+      "A": "1948",
+      "B": "1956",
+      "C": "1971",
+      "D": "1963"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Apartheid officially began in South Africa in 1948. It was a system of institutionalized racial segregation and discrimination that lasted until the early 1990s. The National Party, which came to power in 1948, formalized and expanded segregationist laws into the apartheid system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/history/68502",
+    "passage": ""
   }
 ]
