@@ -11973,5 +11973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14501",
     "passage": ""
+  },
+  {
+    "id": 14502,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "The diagram above represents the graph of the force F applied in stretching a spiral spring against the corresponding extension (X). The force constant of the spring is?",
+    "options": {
+      "A": "20 Nm -1",
+      "B": "40 Nm -1",
+      "C": "30 Nm -1",
+      "D": "10 Nm -1"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/9548787269_phy200915.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781891066/myschool/physics/9548787269_phy200915.jpg",
+    "correct_answer": "A",
+    "explanation": "F = Ke (Hooke's law) K = F/e = 80/4 = 20 Nm-1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14502",
+    "passage": ""
   }
 ]
