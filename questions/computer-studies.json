@@ -4894,5 +4894,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62331",
     "passage": ""
+  },
+  {
+    "id": 62332,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following is true about raw data?",
+    "options": {
+      "A": "It is well categorized",
+      "B": "It exists in oral form only",
+      "C": "It exists in written form only",
+      "D": "It cannot be relied on to make decision."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Raw data refers to unprocessed or unorganized data that hasn't undergone any analysis or transformation. It is often messy and lacks context. Therefore, it cannot be relied upon to make informed decisions without further processing, analysis, and interpretation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62332",
+    "passage": ""
   }
 ]
