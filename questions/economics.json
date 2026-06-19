@@ -1427,5 +1427,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/economics/624",
     "passage": ""
+  },
+  {
+    "id": 625,
+    "subject": "economics",
+    "exam_type": "JAMB",
+    "exam_year": "1979",
+    "question": "The value of money is generally measured in reference to",
+    "options": {
+      "A": "the interest rate charged on bank loans",
+      "B": "the general price level",
+      "C": "the size of countries gold stock",
+      "D": "the level of economic development in a country",
+      "E": "the price of stocks and shareson the stock exchange"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/economics/625",
+    "passage": ""
   }
 ]
