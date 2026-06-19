@@ -4002,5 +4002,49 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/1920",
     "passage": ""
+  },
+  {
+    "id": 1921,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "The glottis is the opening which leads to the",
+    "options": {
+      "A": "Oesophagus",
+      "B": "Larynx",
+      "C": "Nostrils",
+      "D": "Pharynx",
+      "E": "Mouth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The glottis is the area between the vocal cords, which connect the airways in your throat to your lungs. The epiglottis covers the entrance to the larynx to prevent food particles from entering the larynx and trachea when food is swallowed into the oesophagus, therefore glottis is the opening that leads to the LARYNX.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1921",
+    "passage": ""
+  },
+  {
+    "id": 1922,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": "A tapeworm has no alimentary canal because",
+    "options": {
+      "A": "It is autotrophic",
+      "B": "It does not feed",
+      "C": "It has no enzymes",
+      "D": "Its body absorbs digested food",
+      "E": "The suckers on the scolex suck blood"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/1922",
+    "passage": ""
   }
 ]
