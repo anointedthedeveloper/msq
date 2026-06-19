@@ -3589,5 +3589,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/7796",
     "passage": ""
+  },
+  {
+    "id": 7837,
+    "subject": "mathematics",
+    "exam_type": "JAMB",
+    "exam_year": "2003",
+    "question": "Evaluate \\(\\int^{3} _{2}(x^2 - 2x)dx\\)",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "4/3",
+      "D": "1/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "\\(\\int^{3} _{2}(x^2 - 2x)\\)dx\n=\\(\\left[\\frac{x^3}{3}-\\frac{2x^2}{2}\\right ]^{3}_{2}\\\\\\left[\\frac{x^3}{3}-x^2 + C\\right ]^{3}_{2}\\\\\\left[\\frac{3^3}{3}-3^2 + C \\right ]-\\left[\\frac{2^3}{3}-2^2 + C \\right ]\\\\9-9-\\left[\\frac{8}{3}-4 \\right ]\\)\n=\\(\\frac{-8}{3}\\) + 4 = \\(\\frac{4}{3}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/7837",
+    "passage": ""
   }
 ]
