@@ -2776,5 +2776,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/french/71090",
     "passage": ""
+  },
+  {
+    "id": 71091,
+    "subject": "french",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Dans_____ ville est-ce que Vous habitez?",
+    "options": {
+      "A": "quell",
+      "B": "quelles",
+      "C": "quelle",
+      "D": "que"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The correct answer is quelle The correct sentence would be: \"Dans quelle ville est-ce que vous habitez?\" Which translates to \"In which city do you live?\" \"Quelle\" is used to ask for a specific identification or description of a singular feminine noun, in this case, \"ville\" (city).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/french/71091",
+    "passage": ""
   }
 ]
