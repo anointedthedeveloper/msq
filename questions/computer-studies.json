@@ -7967,5 +7967,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/computer-studies/62562",
     "passage": ""
+  },
+  {
+    "id": 62563,
+    "subject": "computer-studies",
+    "exam_type": "WAEC",
+    "exam_year": "2018",
+    "question": "Use the logic truth table in figure 3 to answer question\nGiven that X and Y are input variables while Z is the output. The truth table in figure 3 represents?",
+    "options": {
+      "A": "XOR gate",
+      "B": "EX OR gate",
+      "C": "NOR gate",
+      "D": "NAND gate"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/computer-studies/62563",
+    "passage": ""
   }
 ]
