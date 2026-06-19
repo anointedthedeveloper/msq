@@ -9217,5 +9217,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/14262",
     "passage": ""
+  },
+  {
+    "id": 14264,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "Cancerous cells can be destroyed by?",
+    "options": {
+      "A": "ultraviolet rays",
+      "B": "alpha particules",
+      "C": "x - rays",
+      "D": "infrared rays"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Canorous cells can be destroyed with a high penetrating radiation which is x - rays\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/14264",
+    "passage": ""
   }
 ]
