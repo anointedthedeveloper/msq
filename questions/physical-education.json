@@ -1888,5 +1888,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physical-education/64462",
     "passage": ""
+  },
+  {
+    "id": 64463,
+    "subject": "physical-education",
+    "exam_type": "JAMB",
+    "exam_year": "2022",
+    "question": "The two major divisions in gymnastics are",
+    "options": {
+      "A": "Activities with and without apparatus",
+      "B": "Ring and flexibility",
+      "C": "Stunts and tumbling",
+      "D": "Strength and balance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The two major divisions include activities that require apparatus and does that do not require apparatus.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physical-education/64463",
+    "passage": ""
   }
 ]
