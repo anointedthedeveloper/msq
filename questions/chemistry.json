@@ -65104,5 +65104,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44617",
     "passage": ""
+  },
+  {
+    "id": 44620,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "A chemical reaction in which the hydration energy is greater than the lattice energy is referred to as",
+    "options": {
+      "A": "A reversible reaction",
+      "B": "A spontenous  reaction",
+      "C": "An endothermic reaction",
+      "D": "An exothermic reaction"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In salts for which the hydration energy is higher than the lattice energy, solvation occurs with a release of energy in the form of heat. A reaction in which there is a release of energy as LIGHT OR HEAT is EXOTHERMIC.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44620",
+    "passage": ""
   }
 ]
