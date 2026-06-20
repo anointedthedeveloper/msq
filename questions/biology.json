@@ -70010,5 +70010,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37175",
     "passage": ""
+  },
+  {
+    "id": 37187,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, the illustration is a typical example of a plant pollinated by",
+    "options": {
+      "A": "wind",
+      "B": "man",
+      "C": "insects",
+      "D": "birds"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5805283112_12431372_989600851104582_1313035708_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982969/myschool/biology/5805283112_12431372_989600851104582_1313035708_n.jpg",
+    "correct_answer": "A",
+    "explanation": "wind-pollinated.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37187",
+    "passage": ""
   }
 ]
