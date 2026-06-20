@@ -59081,5 +59081,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69638",
     "passage": ""
+  },
+  {
+    "id": 69639,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Post-planting operations in cocoa plantation include I. rogueing II. stumping III. mulching",
+    "options": {
+      "A": "I and II only",
+      "B": "I, II and III",
+      "C": "I and III only.",
+      "D": "II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Post-planting operations in a cocoa plantation include rogueing, stumping, and mulching. Rogueing involves removing plants that are diseased or not growing properly. Stumping is the process of cutting back the tree to a short stump to encourage new growth. Mulching involves covering the soil around the plants with organic material to conserve moisture, suppress weeds, and improve soil fertility.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69639",
+    "passage": ""
   }
 ]
