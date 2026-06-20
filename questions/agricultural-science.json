@@ -59954,5 +59954,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71386",
     "passage": ""
+  },
+  {
+    "id": 71387,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is an example of igneous rock?",
+    "options": {
+      "A": "granite",
+      "B": "sandstone",
+      "C": "limestone",
+      "D": "gneiss"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Igneous rocks are formed from the solidification of magma or lava. The given options are types of rocks. Among them, granite is an example of an igneous rock. Gneiss is a type of metamorphic rock, while limestone and sandstone are types of sedimentary rocks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71387",
+    "passage": ""
   }
 ]
