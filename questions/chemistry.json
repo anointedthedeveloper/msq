@@ -63420,5 +63420,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44427",
     "passage": ""
+  },
+  {
+    "id": 44428,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "From the above diagram, the caustic soda in the conical flask serves to",
+    "options": {
+      "A": "dry ethene gas",
+      "B": "remove carbon (iv) oxides from ethene",
+      "C": "remove carbon (ii) oxide from ethene",
+      "D": "remove sulphur (iv) oxide from ethene"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/pOoZj8yENZJKqcKKUqkIccGax5PDqbJcMOfLjk3g.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781981965/myschool/chemistry/pOoZj8yENZJKqcKKUqkIccGax5PDqbJcMOfLjk3g.jpg",
+    "correct_answer": "B",
+    "explanation": "Caustic soda, \\(NaOH\\) , serves to remove gaseous impurities from the gas evolved during the laboratory preparation of ethene. Basically, the major impurities are Sulphur (IV) oxide and Carbon (IV) oxide.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44428",
+    "passage": ""
   }
 ]
