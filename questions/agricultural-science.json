@@ -59438,5 +59438,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69655",
     "passage": ""
+  },
+  {
+    "id": 69656,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A beneficial effect of bush burning is that it",
+    "options": {
+      "A": "replenishes oxygen in the atmosphere",
+      "B": "increases the organic matter of soil",
+      "C": "encourages the regeneration of grasses",
+      "D": "increases the population of soil microorganisms"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "When a controlled fire burns through a grassland, it can remove accumulated dead plant material and woody debris, known as thatch. Thatch can hinder the growth of new grass shoots and prevent sunlight and rainwater from reaching the soil surface. By removing the thatch through controlled burning, the fire creates a favorable environment for grass regeneration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69656",
+    "passage": ""
   }
 ]
