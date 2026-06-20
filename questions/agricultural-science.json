@@ -60794,5 +60794,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71449",
     "passage": ""
+  },
+  {
+    "id": 71458,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following will not be affected by an excessive amount of water content in feeds?",
+    "options": {
+      "A": "improving quality of such feeds",
+      "B": "decrease in nutritive value",
+      "C": "encouraging growth of molds",
+      "D": "formation of toxic products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Excessive amounts of water content in feeds do not improve their quality. Instead, it can lead to a decrease in nutritive value, formation of toxic products, and growth of molds.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71458",
+    "passage": ""
   }
 ]
