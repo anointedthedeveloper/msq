@@ -64999,5 +64999,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44607",
     "passage": ""
+  },
+  {
+    "id": 44608,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "In a neutralization reaction involving HCI and NaOH using litmus as indicator, the colour at the end point is",
+    "options": {
+      "A": "Blue",
+      "B": "Red",
+      "C": "Orange",
+      "D": "Purple"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Neutral litmus paper is purple. the result of a neutralization reaction is salt and water and hence is neutral.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44608",
+    "passage": ""
   }
 ]
