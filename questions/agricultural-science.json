@@ -58641,5 +58641,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68114",
     "passage": ""
+  },
+  {
+    "id": 68115,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of processing facilities in agriculture?",
+    "options": {
+      "A": "To process raw agricultural materials into value-added products",
+      "B": "To provide shelter and housing for livestock",
+      "C": "To package and label agricultural products",
+      "D": "To store and preserve harvested crops"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The primary purpose of processing facilities in agriculture is to process raw agricultural materials into value-added products. Processing facilities are equipped with machinery and technology to transform harvested crops and other agricultural products into processed goods. This may include activities such as sorting, cleaning, grinding, milling, refining, canning, freezing, drying, and packaging.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68115",
+    "passage": ""
   }
 ]
