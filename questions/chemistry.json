@@ -63100,5 +63100,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43736",
     "passage": ""
+  },
+  {
+    "id": 43737,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "X = - log\n10\nH\n+\n]\nWhat does X stand for in the expression above?",
+    "options": {
+      "A": "Degree of acidity",
+      "B": "Enthalpy change",
+      "C": "Equilibrium constant",
+      "D": "Ionic product of water",
+      "E": "Solubility product"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43737",
+    "passage": ""
   }
 ]
