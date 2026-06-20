@@ -70157,5 +70157,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37198",
     "passage": ""
+  },
+  {
+    "id": 37204,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In the diagram, the structure labelled X is for?",
+    "options": {
+      "A": "attachment",
+      "B": "feeding",
+      "C": "seeing",
+      "D": "breathing"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5746152804_209-1.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983030/myschool/biology/5746152804_209-1.jpg",
+    "correct_answer": "A",
+    "explanation": "suckers are the organs of attachment to the host tissues.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37204",
+    "passage": ""
   }
 ]
