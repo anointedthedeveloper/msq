@@ -66511,5 +66511,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45742",
     "passage": ""
+  },
+  {
+    "id": 45743,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following pairs of elements forms amphoteric oxides?",
+    "options": {
+      "A": "Be and Mg",
+      "B": "Na and K",
+      "C": "B and Al",
+      "D": "Si and Pb"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Metal oxides which react with both acids as well as bases to produce salts and water are known as amphoteric oxides.\nMany metals (such as zinc, tin, lead, aluminium, and beryllium ) form amphoteric oxides or hydroxides.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45743",
+    "passage": ""
   }
 ]
