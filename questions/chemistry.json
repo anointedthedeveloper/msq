@@ -63889,5 +63889,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44475",
     "passage": ""
+  },
+  {
+    "id": 44476,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "3.0g of a mixture of potassium carbonate and potassium chloride were dissolved were dissolved in a 250cm\\(^3\\) standard flask. 25cm\\(^3\\)  of this solution required 40.00cm\\(^3\\) of 0.1M HCl for neutralization. What is the percentage by weight of K\\(_2\\)CO\\(_3\\) in the mixture ? (K = 39, O = 16, C = 12)",
+    "options": {
+      "A": "60",
+      "B": "72",
+      "C": "82",
+      "D": "89",
+      "E": "92"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "K\\(_2\\)CO\\(_3\\)  +  2HCl  →  2KCl  +  CO\\(_2\\)  +   H\\(_2\\)O\n1 mole    :   2 moles\nn = \\(\\frac{CV}{1000}\\)\nn = \\(\\frac{{0.1}\\times{40}}{1000}\\)\nn = 0.004 mole\nStoichiometrically, if  2 moles of HCl reacted with 1 mole of   K\\(_2\\)CO\\(_3\\)\nthen, 0.004 mole of HCl will react with 0.002 mole of  K\\(_2\\)CO\\(_3\\)\nSo, if 0.002 mole of  K\\(_2\\)CO\\(_3\\) reacted with 25cm\\(^3\\) solution during titration\nthen,  X  mole of  K\\(_2\\)CO\\(_3\\) will react with 250cm\\(^3\\) solution of mixture\nX = \\(\\frac{{0.002}\\times{250}}{25}\\) = 0.02mole\nNow, we need to get the mass of  K\\(_2\\)CO\\(_3\\) by using the formula,  n = \\(\\frac{mass}{Molar mass}\\)\nMolar mass of  K\\(_2\\)CO\\(_3\\) = (39 x 2) + 12 + (16 x 3) = 138g/mol\nMass of  K\\(_2\\)CO\\(_3\\) = n x M\n= 0.02 X 138 = 2.76g\nRecall that we were given the Mass of the mixture in the question to be = 3.0g\nTherefore,  % Weight = \\(\\frac{mass of  {K_2}{CO_3}}{mass of mixture}\\times 100\\)\n= \\(\\frac{2.76}{3}\\times 100\\)\n= 92%",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44476",
+    "passage": ""
   }
 ]
