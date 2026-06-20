@@ -58557,5 +58557,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68110",
     "passage": ""
+  },
+  {
+    "id": 68111,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is a potential disadvantage of mass media for farmers?",
+    "options": {
+      "A": "Lack of credibility in agricultural news",
+      "B": "Insufficient coverage of farming practices",
+      "C": "Limited access to information",
+      "D": "Increased cost of agricultural inputs"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A potential disadvantage of mass media for farmers is limited access to information. This is particularly true in rural areas where access to the internet and other forms of mass media may be limited. While mass media can be a powerful tool for disseminating information, it is not always accessible or relevant to all farmers, particularly those in remote or underserved areas.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68111",
+    "passage": ""
   }
 ]
