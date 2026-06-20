@@ -63673,5 +63673,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44459",
     "passage": ""
+  },
+  {
+    "id": 44460,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "The relationship between the velocity (U) of gas molecules and their relative molecular mass (M) is shown by the equation",
+    "options": {
+      "A": "U = (kM)\\(\\frac{1}{2}\\)",
+      "B": "U = (kM) 2",
+      "C": "U = \\(\\sqrt{\\frac{k}{m}}\\)",
+      "D": "U = \\(\\frac{k}{m}\\)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The relationship between (U) of a gas molecule and the relative molecular mass is \\(\\bar{U}\\) = (\\(\\frac{k}{m}\\))\\(^{\\frac{1}{2}}\\) or \\(\\bar{U}\\) = \\(\\sqrt{\\frac{k}{m}}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44460",
+    "passage": ""
   }
 ]
