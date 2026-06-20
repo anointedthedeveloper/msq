@@ -70073,5 +70073,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37192",
     "passage": ""
+  },
+  {
+    "id": 37195,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, if species i, ii and iii interact in a community, which of the following statement is true?",
+    "options": {
+      "A": "the population of species ii is growing at a slow rate",
+      "B": "the population of species iii has reached its carrying capacity?",
+      "C": "the population of species I has become extinct",
+      "D": "the population of species I is always higher than species ii"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2873070700_208-4.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983005/myschool/biology/2873070700_208-4.jpg",
+    "correct_answer": "C",
+    "explanation": "the graph shows thatThe population of species I have become extinct.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37195",
+    "passage": ""
   }
 ]
