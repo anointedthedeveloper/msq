@@ -66007,5 +66007,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45204",
     "passage": ""
+  },
+  {
+    "id": 45205,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following bonds are broken when ethanol is boiled?\nI. Covalent bonds\nII. Ionic bonds\nIII. Hydrogen bonds",
+    "options": {
+      "A": "I only",
+      "B": "II only",
+      "C": "III only",
+      "D": "I, II, III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45205",
+    "passage": ""
   }
 ]
