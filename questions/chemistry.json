@@ -63462,5 +63462,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44441",
     "passage": ""
+  },
+  {
+    "id": 44442,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1993",
+    "question": "At 25\no\nC and 1atm, a gas occupies a volume of 1.50dm\n3\n. What volume will it occupy at 100\no\nC and 1atm?",
+    "options": {
+      "A": "1.88 dm 3",
+      "B": "6.00 dm 3",
+      "C": "18.80 dm 3",
+      "D": "18.80 dm 3",
+      "E": "60.00dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44442",
+    "passage": ""
   }
 ]
