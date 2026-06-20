@@ -60605,5 +60605,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71440",
     "passage": ""
+  },
+  {
+    "id": 71441,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "New-born animals should be fed with colostrum because it",
+    "options": {
+      "A": "provides them permanent immunity against diseases",
+      "B": "contains antibodies protecting them against diseases",
+      "C": "is easily digested",
+      "D": "is the first milk produced before birth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Colostrum is the first form of milk produced by the mammary glands of mammals (including many humans) immediately following delivery of the newborn. New-born animals should be fed with colostrum because it contains antibodies that protect them against diseases. These antibodies are produced by the mother and passed to the baby, providing the baby with a temporary immunity against diseases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71441",
+    "passage": ""
   }
 ]
