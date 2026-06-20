@@ -69884,5 +69884,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37161",
     "passage": ""
+  },
+  {
+    "id": 37164,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the diagram, it shows that the organisms are?",
+    "options": {
+      "A": "hermaphrodite",
+      "B": "viviparous",
+      "C": "oviparous",
+      "D": "ovoviviparous"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24420999341_207-2.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982926/myschool/biology/24420999341_207-2.jpg",
+    "correct_answer": "C",
+    "explanation": "Oviparous animals are those that reproduce by laying eggs. They include animals like birds, most reptiles, most amphibians, most fishes.\nViviparous animals are the animals that give birth directly to their kind. These individuals grow up and live. Oviparous animals are animals that do not give birth to their kind. Instead, they lay eggs that are either fertilised or unfertilised.\nOvoviviparous means producing eggs that hatch inside the mother's body, rather than being laid outside. It's a reproductive strategy that's seen in some fishes and reptiles.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37164",
+    "passage": ""
   }
 ]
