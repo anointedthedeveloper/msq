@@ -64915,5 +64915,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44555",
     "passage": ""
+  },
+  {
+    "id": 44557,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "The number of electronic shells contained in an atom with electron configuration 1S\\(^2\\)2S\\(^2\\)2P\\(^6\\)3S\\(^2\\)3P\\(^6\\)4S\\(^2\\) is",
+    "options": {
+      "A": "3",
+      "B": "2",
+      "C": "4",
+      "D": "5"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "To determine the number of electronic shell, first, you need to add up the electrons (the numbers at the superscript or power).\n1S\\(^2\\)2S\\(^2\\)2P\\(^6\\)3S\\(^2\\)3P\\(^6\\)4S\\(^2\\) →  2 + 2 + 6 + 2 + 6 + 2 = 20\nNow we can represent the element with the atomic number 20 is shells i.e  2,8,8,2\nThis means first shell is 2, second shell is 8, third shell is 8, and the fourth shell is 2 = In total, there are 4 electron shells.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44557",
+    "passage": ""
   }
 ]
