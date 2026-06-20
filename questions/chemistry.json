@@ -64175,5 +64175,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44490",
     "passage": ""
+  },
+  {
+    "id": 44491,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "When copper (ii) sulphate solution is treated with excess ammonium hydroxide, a precipitate is first formed, and then this dissolves to give a deep blue solution.\nThis deep blue solution is a?",
+    "options": {
+      "A": "Cu(OH) 2",
+      "B": "CuSo 4 .5H 2 O",
+      "C": "(NH 4 ) 2 SO 4",
+      "D": "Cu(NH 3 ) 4 (OH) 2",
+      "E": "CuSO 4 .(NH 4 ) 2 SO 4 .2H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "\\(CuSO_4+2NH_4OH→(NH_4)_2SO_4+Cu(OH)_2\\)(pale−blue)\nThe pale blue precipitate of copper hydroxide dissolves in excess of ammonium hydroxide forming tetraamine copper [II] sulphate, an azure blue(deep blue) soluble complex salt.\n\\(Cu(OH)_2+(NH_4)_2SO_4+2NH_4OH→[Cu(NH_3)_4]SO_4+4H_2O\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44491",
+    "passage": ""
   }
 ]
