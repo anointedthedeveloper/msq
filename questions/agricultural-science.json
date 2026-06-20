@@ -59333,5 +59333,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69650",
     "passage": ""
+  },
+  {
+    "id": 69651,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Grading of farm produce is important because it",
+    "options": {
+      "A": "maintains produce quality",
+      "B": "prolongs storability",
+      "C": "facilitates pricing",
+      "D": "facilitates transportation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Grading allows farm produce to be classified into different grades based on their quality attributes. Each grade can then be assigned a specific price point, reflecting its quality and market demand. This transparent pricing system benefits both producers and consumers.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69651",
+    "passage": ""
   }
 ]
