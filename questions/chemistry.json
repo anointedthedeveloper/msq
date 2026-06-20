@@ -65356,5 +65356,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45081",
     "passage": ""
+  },
+  {
+    "id": 45082,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An atom X consist of 6 protons, 6 electrons and 7 neutrons. Which of the following representations of the atom is correct?",
+    "options": {
+      "A": "13 6 X",
+      "B": "13 7 X",
+      "C": "19 6 X",
+      "D": "19 7 X"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45082",
+    "passage": ""
+  },
+  {
+    "id": 45083,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "How many electrons are present in \\(^9_4Be^{2+}\\)?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Neutral Be has 4 electrons but \\(Be^{2+}\\) means it has lost two electrons from possible four and became a positive ion.\n\\(\\therefore\\) the number of electrons left will be equal to two.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45083",
+    "passage": ""
   }
 ]
