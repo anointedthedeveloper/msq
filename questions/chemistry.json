@@ -63568,5 +63568,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44446",
     "passage": ""
+  },
+  {
+    "id": 44452,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1989",
+    "question": "CO(g) + H\\(_2\\)O(g) \\(\\to\\) \\(CO_{2g}\\) + H\\(_2\\)(g)  \\(\\Delta\\)H = - 4100J. Which of the following factors favour the formation of hydrogen in the above reaction? i. high pressure. ii. low pressure iii. high-temperature iv. use of excess steam",
+    "options": {
+      "A": "i, iii and iv",
+      "B": "iii only",
+      "C": "ii, iii and i",
+      "D": "iv only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "i, ii will have no effect because the number of mole of reactants(volume) is equal to the number of mole of the product(volume) and iii will also have no effect since the forward reaction which favours the production of hydrogen is exothermic, therefore, the production of hydrogen will be favored by iv only.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44452",
+    "passage": ""
   }
 ]
