@@ -64021,5 +64021,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44481",
     "passage": ""
+  },
+  {
+    "id": 44482,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Copper sulphate solution is electolysed using platinum electrodes A. current of 0.193 amperes is passed for 2hrs. How many grams of copper are deposited? (cu = 63.5, F = 96500 coulombs)",
+    "options": {
+      "A": "0.457g",
+      "B": "0.500g",
+      "C": "0.882g",
+      "D": "0.914g",
+      "E": "1.00g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Time = 2hrs = 120mins = 120 x 60secs =7200secs. current = 0.193amps Quantity of electricity = 7200 x 0.193 = 1389.6 2 x 96,500 deposits 63.5 gms of Cu 1389.6  will deposit \\(\\frac{63.5 \\times 1389.6}{2 \\times 96500}\\) = 0.457g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44482",
+    "passage": ""
   }
 ]
