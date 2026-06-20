@@ -60374,5 +60374,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71429",
     "passage": ""
+  },
+  {
+    "id": 71430,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Financial assistance from the government to the farmers is usually in the following forms except",
+    "options": {
+      "A": "tax",
+      "B": "loans",
+      "C": "credit",
+      "D": "subsidy"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Financial assistance from government to farmers is usually in the form of loans, credit, and subsidies. These are all financial support that help farmers manage their finances and improve their farming practices. Tax, on the other hand, is not a form of financial assistance but a financial obligation that farmers, like all citizens, are required to pay to the government.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71430",
+    "passage": ""
   }
 ]
