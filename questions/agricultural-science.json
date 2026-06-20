@@ -59375,5 +59375,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69652",
     "passage": ""
+  },
+  {
+    "id": 69653,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following pairs of livestock diseases could be contracted through inhalation?",
+    "options": {
+      "A": "Coccidiosis and rinderpest",
+      "B": "Newcastle disease and aspergillosis",
+      "C": "Anthrax and tuberculosis",
+      "D": "Gumboro and brucellosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Newcastle disease and aspergillosis are livestock diseases that can be contracted through inhalation of infectious agents.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69653",
+    "passage": ""
   }
 ]
