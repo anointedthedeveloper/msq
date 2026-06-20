@@ -62902,5 +62902,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43727",
     "passage": ""
+  },
+  {
+    "id": 43728,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "Which of the following salt solutions will have a pH greater than 7?",
+    "options": {
+      "A": "NaCl",
+      "B": "NaHSO 4",
+      "C": "Na 2 CO 4",
+      "D": "Na 2 SO 4",
+      "E": "MgCl 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43728",
+    "passage": ""
   }
 ]
