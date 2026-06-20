@@ -61298,5 +61298,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72646",
     "passage": ""
+  },
+  {
+    "id": 72647,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following fertilizers would not be required by the root system in the diagram above?",
+    "options": {
+      "A": "Potassium sulphate",
+      "B": "Ammonium sulphate",
+      "C": "Azotobacter",
+      "D": "Rhizobium"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4Jocwls972GidwwkeifXso623iWzDXHwPbClZrSe.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982861/myschool/agricultural-science/4Jocwls972GidwwkeifXso623iWzDXHwPbClZrSe.jpg",
+    "correct_answer": "D",
+    "explanation": "The part labeled is the root nodule,These nodules house nitrogen fixing bacterial such as (Rhizobium),The bacterial helps in symbiotic nitrogen fixation",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72647",
+    "passage": ""
   }
 ]
