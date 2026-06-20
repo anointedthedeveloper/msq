@@ -58200,5 +58200,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68093",
     "passage": ""
+  },
+  {
+    "id": 68094,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the term used to describe the deliberate modification of an organism's genetic material using biotechnology techniques?",
+    "options": {
+      "A": "Mutation",
+      "B": "Cloning",
+      "C": "Genetic engineering",
+      "D": "Hybridization"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Genetic engineering is the term used to describe the deliberate modification of an organism's genetic material using biotechnology techniques. It involves the manipulation of an organism's DNA to introduce or alter specific traits. Genetic engineering techniques include gene insertion, deletion, or modification to achieve desired characteristics in plants, animals, or microorganisms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68094",
+    "passage": ""
   }
 ]
