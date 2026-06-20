@@ -63955,5 +63955,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44478",
     "passage": ""
+  },
+  {
+    "id": 44479,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Hydrogen is not liberated when trioxonitrate(v)acid reacts with zinc because",
+    "options": {
+      "A": "zinx is not rendered passive by acid",
+      "B": "hydrogen produced is oxidized to water",
+      "C": "oxides of nitrogen are produced",
+      "D": "all nitrates are soluble in water",
+      "E": "trioxonitrate(v)acid is a strong acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When metals react with nitric acid, hydrogen gas is liberated. Nitric acid is a very strong oxidizing agent. So , it oxidizes the hydrogen gas formed during the reaction to form water and an oxide of nitrogen.\n\\(Zn+4HNO_{3} \\to Zn(NO_{3})_{2} + 2NO_{2} + 2H_{2}O\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44479",
+    "passage": ""
   }
 ]
