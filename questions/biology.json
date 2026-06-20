@@ -67574,5 +67574,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35636",
     "passage": ""
+  },
+  {
+    "id": 35683,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2013",
+    "question": "In which of the following levels of classification are the members most similar?",
+    "options": {
+      "A": "Order",
+      "B": "Genus",
+      "C": "Species",
+      "D": "Phylum"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the biological hierarchy of classification (Taxonomy), organisms are grouped from the most general level to the most specific. As you move down the hierarchy, the number of shared characteristics increases, meaning members within that level are more similar to one another.\nThe standard levels of classification are:\nDomain (Broadest/Least Similar) Kingdom Phylum Class Order Family Genus Species (Most Specific/Most Similar)\nSpecies is the most specific level. Members of the same species are so similar that they share the same evolutionary history, physical traits, and genetic makeup, and they are capable of interbreeding to produce fertile offspring.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35683",
+    "passage": ""
   }
 ]
