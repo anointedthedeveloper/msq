@@ -61151,5 +61151,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72586",
     "passage": ""
+  },
+  {
+    "id": 72589,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A soil sample that contains predominantly mineral matter that are smaller than 0.002mm in size is,The diagram above illustrates a bag of compound fertilizer,use it to answer the questions.",
+    "options": {
+      "A": "gravel",
+      "B": "sand",
+      "C": "clay",
+      "D": "loam"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/OpRKpTCUBv8rSo2PcfDvjctF9y9727Zo2AQPGut4.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982825/myschool/agricultural-science/OpRKpTCUBv8rSo2PcfDvjctF9y9727Zo2AQPGut4.jpg",
+    "correct_answer": "C",
+    "explanation": "Clay consists of very fine particles smaller than 0.002mm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72589",
+    "passage": ""
   }
 ]
