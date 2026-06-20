@@ -64789,5 +64789,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44543",
     "passage": ""
+  },
+  {
+    "id": 44545,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "Which of the following statements is correct about the periodic table?",
+    "options": {
+      "A": "Elements in the same group have the same number of electron shells",
+      "B": "The non-metallic properties of the elements tend to decrease across each period",
+      "C": "Elements in the same period have the same number of valence electrons",
+      "D": "The valence electrons of  the elements increase progressively across the period"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44545",
+    "passage": ""
   }
 ]
