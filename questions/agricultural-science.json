@@ -60458,5 +60458,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71433",
     "passage": ""
+  },
+  {
+    "id": 71434,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following is not correct about the importance of agriculture?",
+    "options": {
+      "A": "provision of the raw materials for agro-based industries",
+      "B": "serving as main source of foreign exchange",
+      "C": "supply of food",
+      "D": "provision of employment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agriculture is not the main source of foreign exchange for many countries, especially those with a diversified economy. While it can contribute to foreign exchange through the export of agricultural products, it is not the main source. The main sources of foreign exchange are usually industries like oil and gas, manufacturing, and services.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71434",
+    "passage": ""
   }
 ]
