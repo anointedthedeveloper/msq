@@ -59627,5 +59627,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69671",
     "passage": ""
+  },
+  {
+    "id": 69672,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "In a poultry farm, 2,000 birds were laying an average of 1,680 eggs per day. Use this information to answer the question What is the percentage of birds that did not lay eggs?",
+    "options": {
+      "A": "16%",
+      "B": "84%",
+      "C": "19%",
+      "D": "46%"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Number of birds that did not lay eggs = Total number of birds - Number of eggs laid Given information: Total number of birds = 2,000 Number of eggs laid = 1,680 per day Number of birds that did not lay eggs = 2,000 - 1,680 = 320 Now, we can calculate the percentage of birds that did not lay eggs: Percentage of birds that did not lay eggs = (Number of birds that did not lay eggs / Total number of birds) x 100 Percentage of birds that did not lay eggs = (320 / 2,000) x 100 = 0.16 x 100 = 16% Therefore, the percentage of birds that did not lay eggs on that particular day is 16%.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69672",
+    "passage": ""
   }
 ]
