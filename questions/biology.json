@@ -69926,5 +69926,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37165",
     "passage": ""
+  },
+  {
+    "id": 37170,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2007",
+    "question": "In the diagram, the experiment demonstrates",
+    "options": {
+      "A": "geotropism",
+      "B": "thigmotropism",
+      "C": "phototropism",
+      "D": "hydrotropism"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/27294073667_207-5.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982942/myschool/biology/27294073667_207-5.jpg",
+    "correct_answer": "A",
+    "explanation": "Charles Darwin was one of the first to scientifically document that roots show positive gravitropism and stems show negative gravitropism . That is, roots grow in the direction of gravitational pull (i.e., downward) and stems grow in the opposite direction (i.e., upwards).\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37170",
+    "passage": ""
   }
 ]
