@@ -70136,5 +70136,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37197",
     "passage": ""
+  },
+  {
+    "id": 37198,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, the genotypic ratio of the offspring of the cross is",
+    "options": {
+      "A": "1:2",
+      "B": "1:2:1",
+      "C": "1:1:1:1",
+      "D": "3:1"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14365359500_208-6.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983024/myschool/biology/14365359500_208-6.jpg",
+    "correct_answer": "B",
+    "explanation": "TT : 2Tt : tt\nso it is 1 : 2 : 1\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37198",
+    "passage": ""
   }
 ]
