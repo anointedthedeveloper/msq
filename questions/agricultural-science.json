@@ -58683,5 +58683,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69619",
     "passage": ""
+  },
+  {
+    "id": 69620,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "If 200 ml of water was poured on a soil sample in a beaker and 25% of the water drained through the soil, determine the amount of water retained in the soil.",
+    "options": {
+      "A": "25 ml",
+      "B": "175 ml",
+      "C": "50 ml",
+      "D": "150 ml"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "If 200 ml of water was poured onto a soil sample in a beaker and 25% of the water drained through the soil, it means that 75% of the water remains retained in the soil. To find the amount of water retained in the soil, we can calculate 75% of the original 200 ml of water: Amount of water retained = 0.75 (75%) * 200 ml = 150 ml So, 150 ml of water is retained in the soil after 25% of the water has drained through.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69620",
+    "passage": ""
   }
 ]
