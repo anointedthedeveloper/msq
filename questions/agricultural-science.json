@@ -61843,5 +61843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72710",
     "passage": ""
+  },
+  {
+    "id": 72711,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following group of diseases of farm animals are caused by bacteria?",
+    "options": {
+      "A": "Rinderpest,swine fever and trypanosomiasis",
+      "B": "Coccidiosis, Newcastle and fowl typhoid",
+      "C": "Fowl,pox,mastsis and gumboro",
+      "D": "Brucelosis,anthrax and tuberculosis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Brucellosis,anthrax and tuberculosis are all caused by bacterial",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72711",
+    "passage": ""
   }
 ]
