@@ -65524,5 +65524,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45089",
     "passage": ""
+  },
+  {
+    "id": 45090,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An unsaturated solution differs from a saturated solution at a given temperature because it",
+    "options": {
+      "A": "Cannot dissolve more solute",
+      "B": "Can hold more solute than it can actually dissolve",
+      "C": "Can still dissolve more solute at given temperature",
+      "D": "Form crystal more easily on cooling"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "An unsaturated solution contains a lesser amount of solute than that in a saturated solution. It can go on to dissolve more quantities of solute at the same temperature until it becomes a saturated solution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45090",
+    "passage": ""
   }
 ]
