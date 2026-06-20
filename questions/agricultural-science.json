@@ -61277,5 +61277,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72645",
     "passage": ""
+  },
+  {
+    "id": 72646,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A bacterium that could be found in the part labeled I",
+    "options": {
+      "A": "Nitrosomonas",
+      "B": "Nitrobacter",
+      "C": "Azotobacter",
+      "D": "Rhizobium"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/tV6ftY8CakAsEz2vE65I5aQX0oiEPu8RAAu9U3eH.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982854/myschool/agricultural-science/tV6ftY8CakAsEz2vE65I5aQX0oiEPu8RAAu9U3eH.jpg",
+    "correct_answer": "D",
+    "explanation": "The part labeled is called the root nodule,These nodules house the nitrogen fixing bacterial such as (Rhizobium),The bacterial help in symbiotic nitrogen fixation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72646",
+    "passage": ""
   }
 ]
