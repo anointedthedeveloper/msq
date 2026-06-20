@@ -59270,5 +59270,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69647",
     "passage": ""
+  },
+  {
+    "id": 69648,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following paring enterprise could best be combined with fish farming for mutual benefits? I. Vegetable production II. Beekeeping III. Poultry production",
+    "options": {
+      "A": "I and III only",
+      "B": "I, II and III",
+      "C": "I and II only",
+      "D": "II and III only"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Fish farming can be combined with vegetable production and poultry production for mutual benefits. The waste from the fish can be used as fertilizer for the vegetables, and the vegetables can help filter the water for the fish. Similarly, poultry droppings can serve as a source of food for the fish, and the fish waste can be used as a source of protein for the poultry. Therefore, the correct answer is 'I and III only'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69648",
+    "passage": ""
   }
 ]
