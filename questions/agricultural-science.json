@@ -60479,5 +60479,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71434",
     "passage": ""
+  },
+  {
+    "id": 71435,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The alternate heating and cooling of rocks will result in",
+    "options": {
+      "A": "sublimation",
+      "B": "solidification",
+      "C": "fragmentation",
+      "D": "molten magma"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Thermal weathering is a type of physical or mechanical weathering. The alternate heating and cooling cause the rocks tc expand and contract. Over time, this can cause the rocks to crack and eventually break apart, a process known as fragmentation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71435",
+    "passage": ""
   }
 ]
