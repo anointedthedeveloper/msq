@@ -63867,5 +63867,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44474",
     "passage": ""
+  },
+  {
+    "id": 44475,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Given that the molecular mass of iron is 56 and that of oxygen is 16, how many moles of iron(iii)oxide will be contained in 1kg of the compound?",
+    "options": {
+      "A": "25.0 moles",
+      "B": "12.5 moless",
+      "C": "6.25 moles",
+      "D": "3.125 moles",
+      "E": "0.625 moles"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44475",
+    "passage": ""
   }
 ]
