@@ -60416,5 +60416,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71431",
     "passage": ""
+  },
+  {
+    "id": 71432,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "In the nitrogen cycle , nitrite is oxidized to nitrate by",
+    "options": {
+      "A": "nitrobacter",
+      "B": "nitrosomonas",
+      "C": "azotobacter",
+      "D": "rhizobium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "In the nitrogen cycle, nitrite is oxidized to nitrate by the bacteria Nitrobacter This process is known as nitrification.Nitrosomonas is involved in the first step of nitrification, which is the oxidation of ammonia to nitrite. Azotobacter and Rhizobium are nitrogen-fixing bacteria, they convert atmospheric nitrogen into a form that plants can use.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71432",
+    "passage": ""
   }
 ]
