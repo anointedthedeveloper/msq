@@ -64390,5 +64390,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44502",
     "passage": ""
+  },
+  {
+    "id": 44504,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "The principle of column chromatography is based on th ability of the constituents to",
+    "options": {
+      "A": "React with the solvent in the column",
+      "B": "React with each other in the solvent in the column",
+      "C": "Dissolve in each other in the column",
+      "D": "Move at different speeds in the column"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44504",
+    "passage": ""
   }
 ]
