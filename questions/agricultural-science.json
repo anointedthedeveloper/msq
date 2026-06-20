@@ -58431,5 +58431,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68104",
     "passage": ""
+  },
+  {
+    "id": 68105,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which part of a tractor is responsible for providing power to the attached implements or machinery?",
+    "options": {
+      "A": "Steering system",
+      "B": "Transmission",
+      "C": "Engine",
+      "D": "Hydraulic system"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The hydraulic system of a tractor is responsible for providing power to the attached implements or machinery. It uses a fluid under pressure to transmit power from the tractor to the implements for various functions. The engine is the power source of the tractor, but it is the hydraulic system that transmits this power to the implements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68105",
+    "passage": ""
   }
 ]
