@@ -70052,5 +70052,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37191",
     "passage": ""
+  },
+  {
+    "id": 37192,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, the part labelled IV indicated that the yeast population has",
+    "options": {
+      "A": "reached its maximum size",
+      "B": "reached senescence",
+      "C": "stopped metabolizing food",
+      "D": "started dying"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/2873068368_208-5.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982981/myschool/biology/2873068368_208-5.jpg",
+    "correct_answer": "A",
+    "explanation": "It indicates reached its maximum size.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37192",
+    "passage": ""
   }
 ]
