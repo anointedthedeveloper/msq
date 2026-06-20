@@ -63484,5 +63484,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44442",
     "passage": ""
+  },
+  {
+    "id": 44443,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1993",
+    "question": "The fraction of crude oil used as jet fuel is",
+    "options": {
+      "A": "refinery gas",
+      "B": "diesel oil",
+      "C": "kerosine",
+      "D": "gasoline"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44443",
+    "passage": ""
   }
 ]
