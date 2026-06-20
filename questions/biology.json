@@ -69695,5 +69695,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37150",
     "passage": ""
+  },
+  {
+    "id": 37151,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the type of adaptation shown in the larva is",
+    "options": {
+      "A": "mimicry",
+      "B": "countershading",
+      "C": "flash colouration",
+      "D": "disruptive colouration"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/0BYJAHj6o2zkwF6WSQs8hGf1eTssOy6neV4UOfcf.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982867/myschool/biology/0BYJAHj6o2zkwF6WSQs8hGf1eTssOy6neV4UOfcf.png",
+    "correct_answer": "D",
+    "explanation": "The adaptation shown by a larva on plant leaves is most likely disruptive coloration, where the larva's coloration breaks up its outline, making it harder for predators to spot.  Many insects, like butterflies and caterpillars, use disruptive coloration to blend in with leaves, twigs, or other parts of their environment.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37151",
+    "passage": ""
   }
 ]
