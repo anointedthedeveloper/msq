@@ -60248,5 +60248,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71403",
     "passage": ""
+  },
+  {
+    "id": 71404,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following will not lead to loss of nitrogen compound from the soil? .",
+    "options": {
+      "A": "burning",
+      "B": "crop removal",
+      "C": "lodging",
+      "D": "leaching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Lodging refers to the falling over of crops, usually due to wind or heavy rain. This does not lead to a loss of nitrogen compounds from the soil. Nitrogen loss from the soil can occur through crop removal, burning, and leaching. Leaching is the process where nutrients are washed out from the soil by rain or irrigation.\nBurning can lead to the loss of nitrogen and it can volatilize and escape into the atmosphere. Crop removal can also lead to nitrogen loss as the nutrient is taken up by the plants and removed when the crop is harvested",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71404",
+    "passage": ""
   }
 ]
