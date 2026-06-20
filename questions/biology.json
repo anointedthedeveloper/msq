@@ -69527,5 +69527,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35870",
     "passage": ""
+  },
+  {
+    "id": 37140,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Using the diagram, sexual reproduction is illustrated in",
+    "options": {
+      "A": "II",
+      "B": "I",
+      "C": "III",
+      "D": "IV"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/17238298848_206-1.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982806/myschool/biology/17238298848_206-1.jpg",
+    "correct_answer": "B",
+    "explanation": "Paramecia can undergo sexual reproduction, specifically through a process called conjugation, although their primary mode of reproduction is asexual binary fission, where a single cell divides into two identical daughter cells.\nSexual Reproduction (Conjugation): Under certain conditions, like nutrient scarcity, paramecia can engage in sexual reproduction through conjugation. It involves two paramecia temporarily fusing, exchanging genetic material (specifically micronuclear elements), and then separating. This process leads to genetic recombination and nuclear reorganization within the cell, which can increase genetic diversity and potentially help the paramecia adapt to changing environments.  Paramecia also exhibit autogamy, a form of self-fertilization, where two nuclei fuse within the same cell.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37140",
+    "passage": ""
   }
 ]
