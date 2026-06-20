@@ -2581,5 +2581,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9711",
     "passage": ""
+  },
+  {
+    "id": 9712,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "the property that is propagated in a traveling wave is",
+    "options": {
+      "A": "frequency",
+      "B": "amplitude",
+      "C": "energy",
+      "D": "wave lenght"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In a traveling wave, energy is what is propagated (transferred) from one point to another through the medium. Frequency, amplitude, and wavelength remain constant (in a uniform medium) but are not the quantity being \"carried along\" the wave.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9712",
+    "passage": ""
   }
 ]
