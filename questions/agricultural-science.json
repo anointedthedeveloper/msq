@@ -61214,5 +61214,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72641",
     "passage": ""
+  },
+  {
+    "id": 72642,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Determine the quantity of potassium in the illustrated bag of fertilizer",
+    "options": {
+      "A": "8.3 kg",
+      "B": "16.7 kg",
+      "C": "25.0 kg",
+      "D": "30.0 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "",
+    "explanation": "Since the fertilizer contains 15% potassium,the quantity of potassium in  50kg bag\n(15 ÷ 100) × 50kg = 7.5kg\nThe closest value is 8.3 kg",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72642",
+    "passage": ""
   }
 ]
