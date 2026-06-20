@@ -61109,5 +61109,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72578",
     "passage": ""
+  },
+  {
+    "id": 72585,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The chemical composition of soil is influenced by",
+    "options": {
+      "A": "pH",
+      "B": "structure",
+      "C": "parent material",
+      "D": "living organisms."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Soil Composition is influenced by several factors,including parent material, The parent material from which the soil is derived greatly affects its chemical composition.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72585",
+    "passage": ""
   }
 ]
