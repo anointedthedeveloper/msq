@@ -69737,5 +69737,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37153",
     "passage": ""
+  },
+  {
+    "id": 37154,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the structure labelled I is sensitive to",
+    "options": {
+      "A": "light and touch",
+      "B": "chemicals only",
+      "C": "light only",
+      "D": "chemicals and touch"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/25857497520_206-5.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982878/myschool/biology/25857497520_206-5.jpg",
+    "correct_answer": "D",
+    "explanation": "Insect antennae are sensitive to touch, air movement, heat, vibration (sound), and especially smell or taste.\nInsect antennae are highly sensitive to both touch and chemicals, serving as their primary sensory organs for detecting environmental stimuli like odors, vibrations, and even humidity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37154",
+    "passage": ""
   }
 ]
