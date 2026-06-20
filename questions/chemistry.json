@@ -67288,5 +67288,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45838",
     "passage": ""
+  },
+  {
+    "id": 45841,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following process does not take place in domestic water treatment?",
+    "options": {
+      "A": "Chlorination",
+      "B": "Flocculation",
+      "C": "Neutralization",
+      "D": "Sedimentation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45841",
+    "passage": ""
   }
 ]
