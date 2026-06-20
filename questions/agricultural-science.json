@@ -57885,5 +57885,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67941",
     "passage": ""
+  },
+  {
+    "id": 67944,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of a pasture in agriculture?",
+    "options": {
+      "A": "Grazing animals for forage",
+      "B": "Providing shade for livestock",
+      "C": "Growing cash crops",
+      "D": "Fostering wildlife habitat"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The primary purpose of a pasture in agriculture is to provide grazing animals with forage. A pasture is an area of land specifically designated for the purpose of growing and providing vegetation for livestock to graze on. It consists of various grasses, legumes, and other suitable plants that are palatable and nutritious for animals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67944",
+    "passage": ""
   }
 ]
