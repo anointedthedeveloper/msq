@@ -61529,5 +61529,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72680",
     "passage": ""
+  },
+  {
+    "id": 72681,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A farmer produced 25 tonnes TgQPHd|[] of cocoa. If 16 bags TgQPHd|[] of cocoa make one tonne and the total output was sold at ₦350.00 per kilogram TgQPHd|[] , calculate the cost of one bag of cocoa. (1 tonne = 1,000 kg)",
+    "options": {
+      "A": "#62.50",
+      "B": "#5,600.00",
+      "C": "#8,750.000",
+      "D": "#21,875.00"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Since they are 16 bags per tonne,the entire 25 tonnes will contain (16 × 25) bags = 400 bags.\nsince the total amount realized is # 8,750,000, cost per bag = #8,750,000 ÷ 400 = #21,875.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72681",
+    "passage": ""
   }
 ]
