@@ -66238,5 +66238,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45282",
     "passage": ""
+  },
+  {
+    "id": 45284,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The compound that makes palm wine taste sour after exposure to the air for few days is",
+    "options": {
+      "A": "Ethanol",
+      "B": "Ethanoic acid",
+      "C": "Methanol",
+      "D": "Methanoic acid"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The ethanol (alcohol content) of the wine, is oxidized, by the oxygen in the air into ethanoic acid.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45284",
+    "passage": ""
   }
 ]
