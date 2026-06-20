@@ -57654,5 +57654,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67904",
     "passage": ""
+  },
+  {
+    "id": 67905,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of farmstead planning in agriculture?",
+    "options": {
+      "A": "Maximizing crop yields",
+      "B": "Optimizing livestock management",
+      "C": "Efficient utilization of available space",
+      "D": "Ensuring efficient water usage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The primary purpose of farmstead planning in agriculture is to ensure the efficient utilization of available space. Farmstead planning involves designing and organizing the physical layout of the farm, including buildings, structures, roads, and other facilities, in a manner that optimizes space usage.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67905",
+    "passage": ""
   }
 ]
