@@ -58305,5 +58305,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68098",
     "passage": ""
+  },
+  {
+    "id": 68099,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary focus of animal husbandry in agriculture?",
+    "options": {
+      "A": "Veterinary care for domestic pets",
+      "B": "Protection of wildlife habitats",
+      "C": "Breeding and management of farm animals",
+      "D": "Crop cultivation for livestock feed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The primary focus of animal husbandry in agriculture is the breeding and management of farm animals. Animal husbandry involves various practices related to the care, breeding, and rearing of domesticated animals for agricultural purposes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68099",
+    "passage": ""
   }
 ]
