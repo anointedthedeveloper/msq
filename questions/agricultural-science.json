@@ -57549,5 +57549,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67899",
     "passage": ""
+  },
+  {
+    "id": 67900,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is subsistence agriculture?",
+    "options": {
+      "A": "Export-oriented agricultural production",
+      "B": "Intensive farming using advanced technology",
+      "C": "Farming for self-sufficiency and survival",
+      "D": "Large-scale commercial farming"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Subsistence agriculture refers to a type of farming where the primary purpose is to meet the food and basic needs of a family or community. It is characterized by small-scale farming practices with limited use of modern technology and resources. The produce from subsistence agriculture is primarily consumed by the farmer and their family, with little or no surplus for sale.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67900",
+    "passage": ""
   }
 ]
