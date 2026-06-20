@@ -61675,5 +61675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72698",
     "passage": ""
+  },
+  {
+    "id": 72700,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Low relative humidity in livestock pens would",
+    "options": {
+      "A": "predispose animals to diseases",
+      "B": "encourage moldness of feeds",
+      "C": "decrease water intake",
+      "D": "increase water intake"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Low humidity in livestock pens can led to dry and irritated respiratory tracts making animals more susceptible to diseases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72700",
+    "passage": ""
   }
 ]
