@@ -61780,5 +61780,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72707",
     "passage": ""
+  },
+  {
+    "id": 72708,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Climatic factors that should be monitored during the management practice illustrated are temperature.",
+    "options": {
+      "A": "I and II only",
+      "B": "I and III only",
+      "C": "II and III only",
+      "D": "I,I and III"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/iSVl8suQ8QKO5WJnol40OFS1OgmYduv5jzD7qi2Z.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983009/myschool/agricultural-science/iSVl8suQ8QKO5WJnol40OFS1OgmYduv5jzD7qi2Z.png",
+    "correct_answer": "B",
+    "explanation": "Temperature: Correct temperature is crucial for the health and growth of chicks.\nRelative humidity: Proper humidity levels are important to maintain during brooding tp prevent dehydration and ensure comfort\nDay length: day length does not typically need to be monitored  during brooding.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72708",
+    "passage": ""
   }
 ]
