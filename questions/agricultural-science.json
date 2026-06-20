@@ -61256,5 +61256,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72644",
     "passage": ""
+  },
+  {
+    "id": 72645,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The diagram above illustrates the root system of a crop. An example of a crop with the illustrated root system is?",
+    "options": {
+      "A": "Rice",
+      "B": "Tomato",
+      "C": "Oil Palm",
+      "D": "Soya bean"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/zNyUKMXyddZJASghIzAHhPGqrt03lt5tsy4DcW7X.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982849/myschool/agricultural-science/zNyUKMXyddZJASghIzAHhPGqrt03lt5tsy4DcW7X.jpg",
+    "correct_answer": "D",
+    "explanation": "Since what we have in the diagram is a taproot system,it is easy to associate it with plants like peas,beans and soya beans.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72645",
+    "passage": ""
   }
 ]
