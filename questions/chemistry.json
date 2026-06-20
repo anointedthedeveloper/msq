@@ -65965,5 +65965,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45202",
     "passage": ""
+  },
+  {
+    "id": 45203,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "On evaporation to dryness, 350cm\\(^3\\) of saturated solution of salt Z gave 55.5g of salt. What is the solubility of the salt? [Z = 101]",
+    "options": {
+      "A": "1.57 moldm -3",
+      "B": "3.14 moldm -3",
+      "C": "6.28 moldm -3",
+      "D": "12.56 moldm -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Saturated solution = 350cm\\(^3\\) mass of salt Z in saturated solution = 55.5g Number of moles of salt = \\(\\frac{55.5}{101}\\) = 0.55mole\nIf 350cm\\(^3\\) of solution contains 0.55mole 1000cm\\(^3\\) will contain \\(\\frac{1000 \\times 0.55}{350}\\) = 1.57moldm\\(^{-3}\\)\nAlternatively, you can use the formula for solubility which is:\nSolubility = \\(\\frac{mass of solute}{Molar mass of solute}\\times\\frac{1000}{Volume of solvent}\\)\n= \\(\\frac{55.5}{101}\\times\\frac{1000}{350}\\)\n= 1.571 moldm\\(^{-3}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45203",
+    "passage": ""
   }
 ]
