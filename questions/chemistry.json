@@ -66931,5 +66931,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45773",
     "passage": ""
+  },
+  {
+    "id": 45777,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following statements about intermolecular distances and cohesive forces between gas is correct? They are",
+    "options": {
+      "A": "Both large",
+      "B": "Both negligible",
+      "C": "Constant and negligible",
+      "D": "Large and negligible"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In a gas, the distance between molecules, whether monatomic or polyatomic, is very large compared with the size of the molecules; thus gases have a low density and are highly compressible.\nCohesive Force is negligible in case of gases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45777",
+    "passage": ""
   }
 ]
