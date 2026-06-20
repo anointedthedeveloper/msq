@@ -64087,5 +64087,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44486",
     "passage": ""
+  },
+  {
+    "id": 44487,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1982",
+    "question": ".00g of mixture of calcium carbonate and calcium oxide liberated 0.33g of carbon dioxide on strong heating. The percentage of calcium oxide in the mixture is? (Ca = 40, C = 12, O = 16)",
+    "options": {
+      "A": "5",
+      "B": "15",
+      "C": "25",
+      "D": "35",
+      "E": "50"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "3\n2\n3\n3\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44487",
+    "passage": ""
   }
 ]
