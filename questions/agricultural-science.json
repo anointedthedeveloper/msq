@@ -58137,5 +58137,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68090",
     "passage": ""
+  },
+  {
+    "id": 68091,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What does the concept of demand and supply refer to in agriculture?",
+    "options": {
+      "A": "The government's role in regulating agricultural prices",
+      "B": "The distribution of agricultural resources among different regions",
+      "C": "The quantity of agricultural products produced and consumed",
+      "D": "The interaction between buyers and sellers in agricultural markets"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The concept of demand and supply in agriculture refers to the interaction between buyers and sellers in agricultural markets. It is based on the principle that the quantity of agricultural products demanded by consumers and the quantity supplied by producers determine the equilibrium price and quantity in the market.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68091",
+    "passage": ""
   }
 ]
