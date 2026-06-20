@@ -69800,5 +69800,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37156",
     "passage": ""
+  },
+  {
+    "id": 37157,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, Which of the following can be decided from the distribution?",
+    "options": {
+      "A": "species II is found only in locations where it rains all year round",
+      "B": "species III inreases in number as rainfall increases",
+      "C": "the distribution of species IV is not dependent on rainfall",
+      "D": "species I thrives under conditions of moderate to high rainfall"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/21547927755_206-8.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982897/myschool/biology/21547927755_206-8.jpg",
+    "correct_answer": "D",
+    "explanation": "Species I thrives under conditions of moderate to high rainfall because as rainfall gradually increases, the number of organisms increases as well.\nSpecie II is not only found in locations where it rains all year round because even at point zero where there was no rainfall, the number of the organisms remained at 200/km\\(^2\\).\nSpecies III decreases in number as rainfall increases, which means increase in rainfall does not favour them.\nSpecies IV increases in number gradually as rainfall increases, got to a peak and started decreasing in number again which means its distribution is dependent on rainfall.\nTherefore, the correct option is D.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37157",
+    "passage": ""
   }
 ]
