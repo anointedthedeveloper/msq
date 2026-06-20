@@ -60206,5 +60206,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71401",
     "passage": ""
+  },
+  {
+    "id": 71402,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following soil water is tightly held to the surface of the soil particles?",
+    "options": {
+      "A": "capillary water",
+      "B": "superfluous water",
+      "C": "hygroscopic water",
+      "D": "gravitational water"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Hygroscopic water is the type of soil water tightly held to the surface of the soil particles. It is held by absorption and is not available to plants because it is held too tightly for the roots to absorb. It is also not affected by gravity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71402",
+    "passage": ""
   }
 ]
