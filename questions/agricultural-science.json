@@ -59849,5 +59849,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71381",
     "passage": ""
+  },
+  {
+    "id": 71382,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The type of soil with a particle size of 0.02 to",
+    "options": {
+      "A": "Clay",
+      "B": "silt",
+      "C": "fine sand",
+      "D": "coarse sand"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The type of soil with a particle size of 0.02 to 0.002 mm is clay. Clay particles are the smallest of the three main soil particles (sand, silt, and clay). They are less than 0.002 mm in diameter and are known for their ability to hold water and nutrients.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71382",
+    "passage": ""
   }
 ]
