@@ -61696,5 +61696,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72700",
     "passage": ""
+  },
+  {
+    "id": 72704,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A poultry farmer collects 100 trays of eggs per day on the farm. If the market price of a tray of eggs is #900.00, determine the income realized from the sale of eggs in one week",
+    "options": {
+      "A": "#630,000",
+      "B": "#90,000",
+      "C": "#90,000",
+      "D": "#6,300"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Number of trays collected in a day = 100. In one week,we have 7 × 100 trays = 700 trays.\nAs the price of the tray is 900#, the total income is 700 × #900 = #630,000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72704",
+    "passage": ""
   }
 ]
