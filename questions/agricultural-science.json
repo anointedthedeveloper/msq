@@ -60647,5 +60647,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71442",
     "passage": ""
+  },
+  {
+    "id": 71443,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following group of crops can be attacked by smut diseases?",
+    "options": {
+      "A": "sugarcane, maize and banana",
+      "B": "guinea corn, sugarcane and rubber",
+      "C": "maize, guinea corn and yam",
+      "D": "rice, maize and guinea corn"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Smut diseases are a type of fungal disease that primarily affects grains and grasses, including crops like maize, rice, and guinea corn. Therefore, the correct answer is 'rice, maize and guinea corn'. Sugarcane can also be affected by smut, but banana and rubber are not typically susceptible to this type of disease.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71443",
+    "passage": ""
   }
 ]
