@@ -66280,5 +66280,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45287",
     "passage": ""
+  },
+  {
+    "id": 45290,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Consider the following reaction equation\nC\n2\nH\n4(g)\n+ 3O\n2(g)\n\\(\\to\\) 2CO\n2(g)\n+ 2H\n2\nO\n(l)\n.\nThe volume of oxygen at s.t.p that will be required to burn 14g of ethene is\n[C\n2\nH\n4\n= 28; Molar volume of gas at s.t.p = 22.4dm\n3",
+    "options": {
+      "A": "64.2dm 3",
+      "B": "33.6dm 3",
+      "C": "11.2dm 3",
+      "D": "3.73dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "2\n4(g)\n2(g)\n2(g)\n2\n(l)\n2\n3\n2\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45290",
+    "passage": ""
   }
 ]
