@@ -60773,5 +60773,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71448",
     "passage": ""
+  },
+  {
+    "id": 71449,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The water-snail is important in the life cycle of",
+    "options": {
+      "A": "coccidium",
+      "B": "tapeworm",
+      "C": "roundworm",
+      "D": "liver fluke"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The liver fluke is a parasitic worm that requires two hosts to complete its life cycle. The first host is a snail, usually a water snail, where the fluke undergoes several developmental stages. The second host is a mammal, usually a sheep or a cow, where the fluke matures and reproduces",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71449",
+    "passage": ""
   }
 ]
