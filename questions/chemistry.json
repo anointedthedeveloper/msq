@@ -63631,5 +63631,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44457",
     "passage": ""
+  },
+  {
+    "id": 44458,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "The number of atoms of chlorine present in 5.85g of NaCl is [Avogadro's Number = 6.02 x 10\\(^{23}\\)]",
+    "options": {
+      "A": "6.02 x 10 22",
+      "B": "5.85 x 10 23",
+      "C": "6.02 x 10 23",
+      "D": "5.85 x 10 24"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "NaCl(s) ⇌ Na⁺(aq) + Cl⁻(aq).\nNumber of moles = \\(\\frac{Number of atom}{Avogadro number}\\)\nn = \\(\\frac{N}{L}\\)\nRecall that Number of moles, n = \\(\\frac{mass}{Molar mass}\\)\nMolar mass of NaCl = 23 + 35.5 = 58.5g/mol\nn =  \\(\\frac{5.85}{58.5}\\)\nn = 0.1 mole\n⇒                        N = n x L = 0.1 x 6.02 x 10\\(^{23}\\)\nN = 6.02 x 10\\(^{22}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44458",
+    "passage": ""
   }
 ]
