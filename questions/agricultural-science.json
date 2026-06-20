@@ -60542,5 +60542,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71437",
     "passage": ""
+  },
+  {
+    "id": 71438,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Plant breeders aim at obtaining the following except",
+    "options": {
+      "A": "adaptation to pollination",
+      "B": "tolerance to climate extremes",
+      "C": "uniformity in the time of maturity",
+      "D": "resistance of pest"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Plant breeders aim at obtaining tolerance to climate extremes, resistance to pests, and uniformity in the time of maturity, However, adaptation to pollination is not a direct aim of plant breeding. Pollination is a natural process that occurs in plants and is not something that plant breeders aim to adapt or modify.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71438",
+    "passage": ""
   }
 ]
