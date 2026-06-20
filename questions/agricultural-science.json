@@ -60101,5 +60101,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71393",
     "passage": ""
+  },
+  {
+    "id": 71394,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Food shortage can be minimized by",
+    "options": {
+      "A": "hoarding",
+      "B": "natural hazards",
+      "C": "illegal exportation of farm produce",
+      "D": "efficient pest control services"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Food shortage can be minimized by efficient pest control services. This is because pests can destroy crops and reduce the amount of food produced. By controlling pests, we can ensure that crops are not destroyed and that food production is maximized. Natural hazards, illegal exportation of farm produce, and hoarding do not help to minimize food shortage",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71394",
+    "passage": ""
   }
 ]
