@@ -60899,5 +60899,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71464",
     "passage": ""
+  },
+  {
+    "id": 71465,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Air sacs are present in",
+    "options": {
+      "A": "rabbit",
+      "B": "goat",
+      "C": "poultry",
+      "D": "cattle"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Air sacs are present in poultry. Air sacs are part of the respiratory system in birds. They allow for a continuous flow of air through the lungs, which is more efficient than the in-and-out flow of air seen in mammals",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71465",
+    "passage": ""
   }
 ]
