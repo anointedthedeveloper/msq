@@ -66196,5 +66196,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45278",
     "passage": ""
+  },
+  {
+    "id": 45281,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "When a compound X is heated with concentrated tetraoxosulphate(VI)acid, it produces an alkene. X is an",
+    "options": {
+      "A": "Alkane",
+      "B": "Alkanol",
+      "C": "Alkanoate",
+      "D": "Alkyne"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "When alcohol reacts with concentrated sulphuric acid, H\\(_2\\)SO\\(_4\\), it undergoes a dehydration reaction that removes water molecules. The reaction can produce alkenes or ethers, depending on the conditions.\nConcentrated sulfuric acid is a strong oxidizing agent that absorbs water. It removes the hydroxyl (OH) group from the alcohol carbon atom and a hydrogen atom from an adjacent carbon atom.\nAlkenes: The reaction can produce alkenes, such as ethene, C\\(_2\\)H\\(_4\\), when the alcohol loses water molecules. Ethers : The reaction can produce Ethers, such as diethyl ether, when two alcohol molecules are dehydrated.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45281",
+    "passage": ""
   }
 ]
