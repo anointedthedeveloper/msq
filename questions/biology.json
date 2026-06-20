@@ -68792,5 +68792,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35835",
     "passage": ""
+  },
+  {
+    "id": 35836,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The following events occur during mitosis in a cell: I. Chromatids separate; II. Chromosomes become visible; III. Chromosomes align at the equator IV. Cytoplasm divides (Cytokinesis): The correct sequence of the events is",
+    "options": {
+      "A": "lll, ll,lV,l.",
+      "B": "ll, lll, l,lV",
+      "C": "ll, l, lll, lV",
+      "D": "II, IV, I, III."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "During mitosis, 1. The chromosomes become conspicuous (visible) 2. The nuclear membrane disappears: a spindle forms and the chromosomes line up across the middle of the cell and attach to the spindle fibers at the centromeres. 3. The 'sister' chromatids are pulled apart to opposite ends (poles) of the cells as the spindle fibers contrast. 4. The cell divides into two daughter cells (cytokinesis).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35836",
+    "passage": ""
   }
 ]
