@@ -164,7 +164,7 @@ def upload_to_cloudinary(src_url: str, subject_slug: str, retries: int = 3) -> s
 
     # Quick HEAD check — skip broken images immediately
     try:
-        head = requests.head(src_url, headers=HEADERS, timeout=10)
+        head = requests.head(src_url, headers=get_headers(), timeout=10)
         if head.status_code != 200:
             print(f"    [SKIP] Image not available (HTTP {head.status_code}): {src_url}")
             _upload_cache[src_url] = ""
@@ -868,7 +868,9 @@ def scrape_subject(
         page_url = f"{subject_url}?page={page_num}" if page_num > 1 else subject_url
 
         if page_num > 1:
-            time.sleep(REQUEST_DELAY)
+            # Add random jitter to delay to avoid detection
+            delay = REQUEST_DELAY + random.uniform(0.5, 1.5)
+            time.sleep(delay)
             soup = get_page(page_url)
             if not soup:
                 print(f"  Page {page_num}: fetch failed, skipping.")
@@ -881,7 +883,9 @@ def scrape_subject(
 
         for stub in new_stubs:
             if fetch_details:
-                time.sleep(DETAIL_DELAY)
+                # Add random jitter to delay to avoid detection
+                delay = DETAIL_DELAY + random.uniform(0.3, 0.7)
+                time.sleep(delay)
                 question = enrich_with_detail(stub, upload_images)
             else:
                 question = stub
