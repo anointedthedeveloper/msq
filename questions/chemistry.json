@@ -65545,5 +65545,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45090",
     "passage": ""
+  },
+  {
+    "id": 45091,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following arrangements shows increasing order of reactivity of the halogens?",
+    "options": {
+      "A": "F 2 > Cl 2 > Br 2 >I 2",
+      "B": "I 2 < Br 2 < Cl 2 < F 2",
+      "C": "F 2 < Cl 2 < Br 2 < I 2",
+      "D": "I 2 > Br 2 > Cl 2 > F 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The reactivity of halogens decreases as you move down Group 7.\nHalogens become less reactive as you move down the group as the atomic radius of the element increases which means that the distance between the outer shell of electrons and the nucleus increases.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45091",
+    "passage": ""
   }
 ]
