@@ -67330,5 +67330,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45843",
     "passage": ""
+  },
+  {
+    "id": 45845,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following products of biotechnology can be used as a fuel in place of petrol?",
+    "options": {
+      "A": "Butane",
+      "B": "Ethanol",
+      "C": "Ethene",
+      "D": "Propanol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ethanol can be used as a fuel in place of petrol. it is commonly produced through biotechnology processes such as the fermentation of sugars from crops like corn or sugarcane. Ethanol is used as a biofuel and can be blended with gasoline to create ethanol-gasoline blends.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45845",
+    "passage": ""
   }
 ]

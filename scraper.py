@@ -17,8 +17,10 @@ Usage:
 import argparse
 import json
 import os
+import queue
 import re
 import subprocess
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -261,6 +263,26 @@ def elem_to_text(elem) -> str:
     return "\n".join(parts) if any("\n" in p for p in parts) else " ".join(parts)
 
 
+def is_garbage_text(text: str) -> bool:
+    """Detect if text is garbage (e.g., repeated single characters like 'o\no\no')."""
+    if not text or len(text) < 10:
+        return True
+    
+    # Check for repeated single character patterns
+    lines = text.split('\n')
+    if len(lines) > 3:
+        # Check if most lines are the same single character
+        unique_chars = set(line.strip() for line in lines if line.strip())
+        if len(unique_chars) == 1 and len(list(unique_chars)[0]) == 1:
+            return True
+    
+    # Check for text that's mostly degree symbols or similar
+    if re.match(r'^[o°\s\n]+$', text):
+        return True
+    
+    return False
+
+
 def get_explanation_html(soup: BeautifulSoup) -> tuple[str, str]:
     """
     Extract explanation text and explanation image URL from the detail page.
@@ -323,7 +345,13 @@ def get_explanation_html(soup: BeautifulSoup) -> tuple[str, str]:
             if text:
                 text_parts.append(text)
 
-    return "\n".join(text_parts).strip(), expl_img_url
+    expl_text = "\n".join(text_parts).strip()
+    
+    # Filter out garbage text
+    if is_garbage_text(expl_text):
+        return "", expl_img_url
+    
+    return expl_text, expl_img_url
 
 
 # ── Listing page parser ────────────────────────────────────────────────────────
@@ -398,7 +426,7 @@ def parse_questions_from_listing(soup: BeautifulSoup, subject_slug: str) -> list
 
 # ── Detail page parser ─────────────────────────────────────────────────────────
 
-def enrich_with_detail(question: dict, upload_images: bool) -> dict:
+def enrich_with_detail(question: dict, upload_images: bool, max_retries: int = 3) -> dict:
     """
     Fetch the detail page and fill:
     - question text (full, from <p> tags in question-desc)
@@ -407,6 +435,9 @@ def enrich_with_detail(question: dict, upload_images: bool) -> dict:
     - correct_answer
     - explanation (ALL paragraphs)
     - image URLs + Cloudinary CDN URLs
+    
+    Args:
+        max_retries: Number of times to retry fetching explanation if it's garbage/empty
     """
     soup = get_page(question["url"])
     if not soup:
@@ -470,8 +501,20 @@ def enrich_with_detail(question: dict, upload_images: bool) -> dict:
         if m:
             question["correct_answer"] = m.group(1).upper()
 
-    # ── Explanation (full multi-paragraph) ────────────────────────────────
+    # ── Explanation (full multi-paragraph) with retry logic ────────────────
     expl_text, expl_img_url = get_explanation_html(soup)
+    
+    # Retry if explanation is garbage or empty
+    for retry in range(max_retries):
+        if expl_text and not is_garbage_text(expl_text):
+            break
+        if retry < max_retries - 1:
+            print(f"    [RETRY] Explanation garbage/empty for Q#{question['id']}, retry {retry + 1}/{max_retries}")
+            time.sleep(1)
+            soup = get_page(question["url"])
+            if soup:
+                expl_text, expl_img_url = get_explanation_html(soup)
+    
     question["explanation"] = expl_text
     if expl_img_url:
         question["explanation_image_url"] = expl_img_url
@@ -509,6 +552,29 @@ def enrich_with_detail(question: dict, upload_images: bool) -> dict:
 GIT_LOCK_FILE = ".git_lock"
 GIT_LOCK_TIMEOUT = 30  # seconds
 GIT_LOCK_RETRY_DELAY = 0.1  # seconds
+SKIPPED_QUESTIONS_FILE = "skipped_questions.json"
+
+# Global commit queue for thread-safe git operations
+_commit_queue: queue.Queue = queue.Queue()
+_commit_thread: threading.Thread | None = None
+_commit_thread_running = False
+
+
+def cleanup_stale_git_locks():
+    """Clean up stale git lock files on startup."""
+    lock_files = [
+        ".git/index.lock",
+        GIT_LOCK_FILE
+    ]
+    for lock_file in lock_files:
+        try:
+            if os.path.exists(lock_file):
+                lock_age = time.time() - os.path.getmtime(lock_file)
+                if lock_age > 60:  # Stale if older than 60 seconds
+                    os.remove(lock_file)
+                    print(f"  [GIT] Removed stale lock: {lock_file}")
+        except OSError as e:
+            print(f"  [GIT] Could not check/remove {lock_file}: {e}")
 
 
 def acquire_git_lock() -> bool:
@@ -542,8 +608,52 @@ def release_git_lock():
         pass
 
 
-def git_commit_question(subject_slug: str, question: dict, total_count: int) -> bool:
-    """Commit changes for a single question to git."""
+def _commit_queue_worker():
+    """Worker thread that processes commit requests from the queue."""
+    global _commit_thread_running
+    while _commit_thread_running or not _commit_queue.empty():
+        try:
+            task = _commit_queue.get(timeout=1)
+            if task is None:  # Sentinel to stop the thread
+                break
+            
+            task_type, args = task
+            if task_type == "question":
+                subject_slug, question, total_count = args
+                _git_commit_question_impl(subject_slug, question, total_count)
+            elif task_type == "subject":
+                subject_slug, question_count = args
+                _git_commit_subject_impl(subject_slug, question_count)
+            
+            _commit_queue.task_done()
+        except queue.Empty:
+            continue
+        except Exception as e:
+            print(f"  [GIT] Queue worker error: {e}")
+
+
+def start_commit_queue():
+    """Start the commit queue worker thread."""
+    global _commit_thread, _commit_thread_running
+    if _commit_thread is None or not _commit_thread.is_alive():
+        _commit_thread_running = True
+        _commit_thread = threading.Thread(target=_commit_queue_worker, daemon=True)
+        _commit_thread.start()
+        print(f"  [GIT] Commit queue thread started")
+
+
+def stop_commit_queue():
+    """Stop the commit queue worker thread."""
+    global _commit_thread_running
+    _commit_thread_running = False
+    _commit_queue.put(None)  # Sentinel to stop the thread
+    if _commit_thread and _commit_thread.is_alive():
+        _commit_thread.join(timeout=5)
+        print(f"  [GIT] Commit queue thread stopped")
+
+
+def _git_commit_question_impl(subject_slug: str, question: dict, total_count: int) -> bool:
+    """Implementation of commit for a single question to git."""
     if not acquire_git_lock():
         print(f"  [GIT] Could not acquire lock for Q#{question['id']}")
         return False
@@ -567,6 +677,7 @@ def git_commit_question(subject_slug: str, question: dict, total_count: int) -> 
         commit_msg = f"scrape({subject_slug}): Q#{question['id']} {question['exam_type']} {question['exam_year']} [{total_count} total]"
         
         subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
+        print(f"      [GIT] Committed Q#{question['id']} [{total_count} total]")
         return True
     except subprocess.CalledProcessError as e:
         print(f"  [GIT] Error committing question {question['id']}: {e}")
@@ -575,8 +686,14 @@ def git_commit_question(subject_slug: str, question: dict, total_count: int) -> 
         release_git_lock()
 
 
-def git_commit_subject(subject_slug: str, question_count: int) -> bool:
-    """Commit changes for a subject to git (legacy, for batch commits)."""
+def git_commit_question(subject_slug: str, question: dict, total_count: int) -> bool:
+    """Queue a commit request for a single question to git."""
+    _commit_queue.put(("question", (subject_slug, question, total_count)))
+    return True  # Assume success (actual result handled by queue thread)
+
+
+def _git_commit_subject_impl(subject_slug: str, question_count: int) -> bool:
+    """Implementation of commit for a subject to git."""
     if not acquire_git_lock():
         print(f"  [GIT] Could not acquire lock for {subject_slug}")
         return False
@@ -610,7 +727,64 @@ def git_commit_subject(subject_slug: str, question_count: int) -> bool:
         release_git_lock()
 
 
+def git_commit_subject(subject_slug: str, question_count: int) -> bool:
+    """Queue a commit request for a subject to git."""
+    _commit_queue.put(("subject", (subject_slug, question_count)))
+    return True  # Assume success (actual result handled by queue thread)
+
+
 # ── Main scraper ───────────────────────────────────────────────────────────────
+
+def validate_question(question: dict) -> tuple[bool, str]:
+    """Validate a question has required fields. Returns (is_valid, reason)."""
+    # Check question text is not empty or just symbols
+    q_text = str(question.get("question", "")).strip()
+    if not q_text or len(q_text) < 5:
+        return False, "Question text is empty or too short"
+    
+    # Check for garbage text (repeated single characters)
+    if is_garbage_text(q_text):
+        return False, "Question text appears to be garbage"
+    
+    # Check options exist and have meaningful content
+    options = question.get("options", {})
+    if not isinstance(options, dict) or len(options) < 2:
+        return False, "Question has fewer than 2 options"
+    
+    # Check option values are not empty
+    for key, value in options.items():
+        if not str(value).strip() or len(str(value).strip()) < 2:
+            return False, f"Option {key} is empty or too short"
+    
+    return True, ""
+
+
+def add_skipped_question(question: dict, reason: str):
+    """Add a skipped question to the skipped_questions.json file."""
+    skipped_entry = {
+        "id": question.get("id"),
+        "subject": question.get("subject"),
+        "url": question.get("url"),
+        "reason": reason,
+        "timestamp": time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    }
+    
+    # Load existing skipped questions
+    skipped = []
+    if os.path.exists(SKIPPED_QUESTIONS_FILE):
+        try:
+            with open(SKIPPED_QUESTIONS_FILE, "r", encoding="utf-8") as f:
+                skipped = json.load(f)
+        except (json.JSONDecodeError, IOError):
+            skipped = []
+    
+    # Add new entry
+    skipped.append(skipped_entry)
+    
+    # Save
+    with open(SKIPPED_QUESTIONS_FILE, "w", encoding="utf-8") as f:
+        json.dump(skipped, f, ensure_ascii=False, indent=2)
+
 
 def scrape_subject(
     subject_slug: str,
@@ -653,6 +827,8 @@ def scrape_subject(
     # Resume from previous run
     existing_ids: set[int] = set()
     all_questions: list[dict] = []
+    skipped_count = 0
+    pages_skipped = 0
     if os.path.exists(output_file):
         with open(output_file, "r", encoding="utf-8") as f:
             all_questions = json.load(f)
@@ -683,6 +859,7 @@ def scrape_subject(
             soup = get_page(page_url)
             if not soup:
                 print(f"  Page {page_num}: fetch failed, skipping.")
+                pages_skipped += 1
                 continue
 
         stubs = parse_questions_from_listing(soup, subject_slug)
@@ -696,6 +873,14 @@ def scrape_subject(
             else:
                 question = stub
 
+            # Validate question before saving
+            is_valid, reason = validate_question(question)
+            if not is_valid:
+                print(f"    [SKIP] Q#{question['id']}: {reason}")
+                add_skipped_question(question, reason)
+                skipped_count += 1
+                continue
+
             all_questions.append(question)
             existing_ids.add(question["id"])
 
@@ -707,8 +892,7 @@ def scrape_subject(
             if autocommit and commit_frequency == 1:
                 with open(output_file, "w", encoding="utf-8") as f:
                     json.dump(all_questions, f, ensure_ascii=False, indent=2)
-                if git_commit_question(subject_slug, question, len(all_questions)):
-                    print(f"      [GIT] Committed Q#{question['id']} [{len(all_questions)} total]")
+                git_commit_question(subject_slug, question, len(all_questions))
 
         # Save after every page
         with open(output_file, "w", encoding="utf-8") as f:
@@ -720,6 +904,7 @@ def scrape_subject(
                 print(f"  [GIT] Batch committed: {len(all_questions)} questions")
 
     print(f"\n  Done: {len(all_questions)} questions -> {output_file}")
+    print(f"  Summary: {len(all_questions)} saved, {skipped_count} skipped, {pages_skipped} pages failed")
     
     # Final commit if autocommit enabled and not already committed per-question
     if autocommit and commit_frequency > 1:
@@ -758,6 +943,9 @@ Examples:
 
     args = parser.parse_args()
 
+    # Clean up stale git locks on startup
+    cleanup_stale_git_locks()
+
     if args.list_subjects:
         print(f"\n{'#':>3}  {'Name':<45} Slug")
         print("-" * 75)
@@ -770,6 +958,10 @@ Examples:
 
     if args.all:
         print(f"\nScraping {len(SUBJECTS)} subjects with {args.workers} workers...\n")
+        
+        # Start commit queue if autocommit is enabled
+        if args.autocommit:
+            start_commit_queue()
         
         def scrape_wrapper(subject):
             return scrape_subject(
@@ -796,6 +988,10 @@ Examples:
                         print(f"  ERROR scraping {subject['name']}: {e}")
                         pbar.update(1)
         
+        # Stop commit queue if it was started
+        if args.autocommit:
+            stop_commit_queue()
+        
         print("\nAll subjects done!")
         return
 
@@ -804,7 +1000,15 @@ Examples:
         print(f"Unknown slug: '{args.subject}'. Run --list-subjects.")
         return
 
+    # Start commit queue if autocommit is enabled for single subject
+    if args.autocommit:
+        start_commit_queue()
+    
     scrape_subject(args.subject, args.pages, args.output, fetch_details, upload_images, args.autocommit, args.commit_frequency)
+    
+    # Stop commit queue if it was started
+    if args.autocommit:
+        stop_commit_queue()
 
 
 if __name__ == "__main__":
