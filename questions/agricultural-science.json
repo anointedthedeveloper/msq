@@ -59585,5 +59585,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69669",
     "passage": ""
+  },
+  {
+    "id": 69670,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Soil structure is described as the",
+    "options": {
+      "A": "proportion of different sizes of soil particles",
+      "B": "degree of water percolation within the soil",
+      "C": "degree of soil aeration within the soil",
+      "D": "arrangement of soil particles into aggregates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Soil structure refers to the way soil particles are organized and arranged into aggregates or clumps. It is an important characteristic of soil that influences various soil properties and processes, including water retention, aeration, root penetration, and nutrient availability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69670",
+    "passage": ""
   }
 ]
