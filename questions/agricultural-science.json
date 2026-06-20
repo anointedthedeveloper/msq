@@ -57717,5 +57717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67907",
     "passage": ""
+  },
+  {
+    "id": 67908,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is commercial agriculture?",
+    "options": {
+      "A": "Large-scale farming for profit and market-oriented production",
+      "B": "Farming for self-sufficiency and survival",
+      "C": "Small-scale farming with limited use of modern technology",
+      "D": "Intensive farming using advanced technology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Commercial agriculture refers to farming practices that are primarily focused on generating profit through the sale of agricultural products in the market. It involves large-scale cultivation of crops or raising of livestock with the aim of maximizing productivity and economic returns.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67908",
+    "passage": ""
   }
 ]
