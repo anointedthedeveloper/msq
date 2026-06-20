@@ -57633,5 +57633,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67903",
     "passage": ""
+  },
+  {
+    "id": 67904,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is a soil profile, and what information does it provide in agricultural practices?",
+    "options": {
+      "A": "A soil profile is an analysis of soil microorganisms and their activities",
+      "B": "A soil profile is an assessment of soil compaction and drainage",
+      "C": "A soil profile is a vertical section of the soil that reveals its layers or horizons",
+      "D": "A soil profile is a measurement of soil pH and nutrient levels"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A soil profile refers to a vertical section of the soil that displays the different layers or horizons of the soil. It provides valuable information about the composition, structure, and properties of the soil, which is crucial in agricultural practices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67904",
+    "passage": ""
   }
 ]
