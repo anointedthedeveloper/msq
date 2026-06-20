@@ -61948,5 +61948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72717",
     "passage": ""
+  },
+  {
+    "id": 72721,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Farm gate price is mostly enjoyed by",
+    "options": {
+      "A": "wholesalers",
+      "B": "producers",
+      "C": "consumers",
+      "D": "retailers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Farm gate price refers to the price farmers (producers) receive for their products at the point of sale, directly from their farm to the production site.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72721",
+    "passage": ""
   }
 ]
