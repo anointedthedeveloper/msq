@@ -59207,5 +59207,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69644",
     "passage": ""
+  },
+  {
+    "id": 69645,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The storage structure usually installed by the government for bulk storage of grains in West Africa is",
+    "options": {
+      "A": "crib",
+      "B": "rhombus",
+      "C": "bin",
+      "D": "silo"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A silo is a storage structure that is commonly used for bulk storage of grains, such as rice, wheat, maize, and other agricultural products. It is often installed by governments and agricultural organizations to store large quantities of harvested grains for future use and to ensure food security.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69645",
+    "passage": ""
   }
 ]
