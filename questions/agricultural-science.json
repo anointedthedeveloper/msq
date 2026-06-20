@@ -61172,5 +61172,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72589",
     "passage": ""
+  },
+  {
+    "id": 72640,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The least nutrient in the illustrated bag of fertilizer is",
+    "options": {
+      "A": "potassium",
+      "B": "sulphur",
+      "C": "phosphorus",
+      "D": "nitrogen"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1eBuqVNCVLECytetLFn9oRPgwVmlDC28syd0GUoj.png",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982830/myschool/agricultural-science/1eBuqVNCVLECytetLFn9oRPgwVmlDC28syd0GUoj.png",
+    "correct_answer": "C",
+    "explanation": "The fertilizer is NPK fertilizer, the label 10-5-15 means it contains 10% nitrogen,5% phosphorus, and 15% potassium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72640",
+    "passage": ""
   }
 ]
