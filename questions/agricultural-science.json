@@ -61822,5 +61822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72709",
     "passage": ""
+  },
+  {
+    "id": 72710,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The meat from a tender calf is",
+    "options": {
+      "A": "beef",
+      "B": "mutton",
+      "C": "veal",
+      "D": "chevron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Veal meat is the meat from young calves typically around 3 to 16 weeks old,known for its tender texture and mild flavor compared to beef from older cattle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72710",
+    "passage": ""
   }
 ]
