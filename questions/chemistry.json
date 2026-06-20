@@ -66994,5 +66994,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45779",
     "passage": ""
+  },
+  {
+    "id": 45780,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following oxides can be reduced by hydrogen?",
+    "options": {
+      "A": "Aluminium oxide",
+      "B": "Magnesium oxide",
+      "C": "Sodium oxide",
+      "D": "Silver oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Considering the electrochemical series, we can say that hydrogen can reduce only oxides of copper, mercury, silver, and gold as these metals are less reactive than hydrogen. The reduction of oxides of tin, iron, zinc, magnesium, calcium, and potassium is not possible by hydrogen as these metals are more reactive than hydrogen",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45780",
+    "passage": ""
   }
 ]
