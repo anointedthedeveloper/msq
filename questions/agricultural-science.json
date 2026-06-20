@@ -59870,5 +59870,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71382",
     "passage": ""
+  },
+  {
+    "id": 71383,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "When a piece of land is leased to a farmer, the land is said to be",
+    "options": {
+      "A": "Purchase on loan",
+      "B": "given to him as subsidy",
+      "C": "given as a gift",
+      "D": "allocated on a rental basis"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "When a piece of land is leased to a farmer, it means the farmer is given the right to use the land for a specified period in exchange for payment. This is known as renting or allocation on a rental basis. It is not a subsidy, loan, or gift.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71383",
+    "passage": ""
   }
 ]
