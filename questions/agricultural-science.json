@@ -58221,5 +58221,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68094",
     "passage": ""
+  },
+  {
+    "id": 68095,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary focus of agronomy in agriculture?",
+    "options": {
+      "A": "Management of soil and crops",
+      "B": "Breeding and genetics of crops",
+      "C": "Study of climate and weather patterns",
+      "D": "Marketing and selling of agricultural products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The primary focus of agronomy in agriculture is the management of soil and crops. Agronomy is a branch of agricultural science that deals with the principles and practices of soil and crop management.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68095",
+    "passage": ""
   }
 ]
