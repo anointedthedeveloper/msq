@@ -57843,5 +57843,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67934",
     "passage": ""
+  },
+  {
+    "id": 67936,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of mixed cropping in agriculture?",
+    "options": {
+      "A": "Maximizing the yield of a single crop",
+      "B": "Simplifying farm management practices",
+      "C": "Enhancing soil fertility through crop rotation",
+      "D": "Reducing the risk of crop failure"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "he primary purpose of mixed cropping in agriculture is to reduce the risk of crop failure. Mixed cropping involves growing two or more different crops together in the same field. This practice helps farmers mitigate the potential negative impacts of pests, diseases, adverse weather conditions, and market fluctuations that can affect a single crop.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67936",
+    "passage": ""
   }
 ]
