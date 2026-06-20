@@ -61445,5 +61445,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72653",
     "passage": ""
+  },
+  {
+    "id": 72656,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following environmental conditions would cause spoilage of crops stored in the illustrated structure?",
+    "options": {
+      "A": "High temperature and low relative humidity",
+      "B": "Low temperature and high relative humidity",
+      "C": "High rainfall and high wind velocity",
+      "D": "Low rainfall and low wind velocity"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/816O2zxYTpo2sc37tw6NPnb4AJc5cFatz2rw0QTB.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982898/myschool/agricultural-science/816O2zxYTpo2sc37tw6NPnb4AJc5cFatz2rw0QTB.jpg",
+    "correct_answer": "B",
+    "explanation": "High humidity induces moisture accumulation stored crops.Thus causes mold growth and spoilage,Also,low temperature ca worsen the situation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72656",
+    "passage": ""
   }
 ]
