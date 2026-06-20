@@ -57759,5 +57759,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67909",
     "passage": ""
+  },
+  {
+    "id": 67910,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following are branches of agriculture?",
+    "options": {
+      "A": "Economics and Mathematics",
+      "B": "Agronomy and Horticulture",
+      "C": "Biology and Chemistry",
+      "D": "Botany and Zoology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agriculture is a broad field that encompasses various branches or disciplines focused on different aspects of plant and animal production. Among the given options, Agronomy and Horticulture are the branches of agriculture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67910",
+    "passage": ""
   }
 ]
