@@ -70094,5 +70094,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37195",
     "passage": ""
+  },
+  {
+    "id": 37196,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, the population size of species II on the 20th day is",
+    "options": {
+      "A": "100",
+      "B": "200",
+      "C": "300",
+      "D": "400"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/18674960616_208-4.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983010/myschool/biology/18674960616_208-4.jpg",
+    "correct_answer": "B",
+    "explanation": "from the given graph, It is 200.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37196",
+    "passage": ""
   }
 ]
