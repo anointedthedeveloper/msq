@@ -66133,5 +66133,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45210",
     "passage": ""
+  },
+  {
+    "id": 45212,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Consider the following ionic equation: Cr\\(_2\\)O\\(_7\\)\\(^{2-}\\) + 14H\\(^+\\) + ne-  → 2Cr\\(^{3+}\\) + 7H\\(_2\\)O. The value of n in the equation is_______?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "3",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Cr\\(_2\\)O\\(_7\\)\\(^{2-}\\) + 14H\\(^+\\) + ne-  → 2Cr\\(^{3+}\\) + 7H\\(_2\\)O.\nAll you need to do is to balance the chemical equation, balancing the ionic/ number of moles of the electrons on both sides\nCr\\(_2\\)O\\(_7\\)\\(^{2-}\\) + 14H\\(^+\\) + ne-  → 2Cr\\(^{3+}\\) + 7H\\(_2\\)O.\n(1 x - 2) +  (14 x +1) + n  =  ( 2 x +3)\n- 2  + 14 + n = +6\n12  + n = + 6\nWhat do we need to the +12 on the left hand side to equate +6 on the right hand side\n+12 - 6 = +6\nTherefore, number of electrons is 6. i.e 6e\\(^-\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45212",
+    "passage": ""
   }
 ]
