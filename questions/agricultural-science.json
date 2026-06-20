@@ -57570,5 +57570,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67900",
     "passage": ""
+  },
+  {
+    "id": 67901,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is soil conservation, and why is it important in agriculture?",
+    "options": {
+      "A": "Soil conservation involves the removal of topsoil for agricultural purposes",
+      "B": "Soil conservation refers to the preservation and sustainable management of soil resources",
+      "C": "Soil conservation aims to maximize crop yields through intensive farming practices",
+      "D": "Soil conservation focuses on increasing soil fertility through the use of chemical fertilizers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Soil conservation is the practice of protecting and managing the soil to prevent erosion, degradation, and loss of fertility. It involves implementing various techniques and practices to ensure the long-term sustainability and productivity of agricultural lands.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67901",
+    "passage": ""
   }
 ]
