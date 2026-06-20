@@ -61319,5 +61319,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72647",
     "passage": ""
+  },
+  {
+    "id": 72648,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "An important limitation in the use of sprinkler irrigation system is that",
+    "options": {
+      "A": "soluble fertilizers and herbicides can not be applied with irrigation water",
+      "B": "cannot be used on farmlands with high evapotranspiration rates",
+      "C": "requires the use of large volume of water",
+      "D": "high wind velocity could prevent uniform distribution of irrigation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A major limitation in the use of sprinkler irrigation system is that high wind velocity could prevent uniform distribution of irrigation water while sprinkler irrigation does require a significant volume of water,this is not a limitation in areas with adequate water supply.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72648",
+    "passage": ""
   }
 ]
