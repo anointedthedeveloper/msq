@@ -69821,5 +69821,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37157",
     "passage": ""
+  },
+  {
+    "id": 37158,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the species whose distribution is not affected by rainfall is",
+    "options": {
+      "A": "ii",
+      "B": "iv",
+      "C": "i",
+      "D": "iii"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14365285810_206-8.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982903/myschool/biology/14365285810_206-8.jpg",
+    "correct_answer": "A",
+    "explanation": "The distribution of Species II is not affected by rainfall because as the rate of rainfall increases, the number of organisms remained constant at 200. Hence, the distribution of species II are not affected by rainfall.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37158",
+    "passage": ""
   }
 ]
