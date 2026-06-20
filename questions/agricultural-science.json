@@ -58830,5 +58830,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69626",
     "passage": ""
+  },
+  {
+    "id": 69627,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Study the table below and use it to answer the question\nThe useful life represented by Y in the illustrated table is",
+    "options": {
+      "A": "3 years",
+      "B": "4 years",
+      "C": "15 years",
+      "D": "20 years"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Cost Price (N) = 20000 Salvage value (N) = 5000 Annual depreciation (N) = 1000 Total depreciation = 15000 The formula to calculate the useful life is: Useful life = (Cost Price - Salvage value) / Annual depreciation Now, let's plug in the values: Useful life = (20000 - 5000) / 1000 Useful life = 15000 / 1000 Useful life = 15 years Therefore, the useful life represented by Y in the table is 15 years.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69627",
+    "passage": ""
   }
 ]
