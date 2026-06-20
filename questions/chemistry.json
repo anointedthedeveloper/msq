@@ -62748,5 +62748,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43717",
     "passage": ""
+  },
+  {
+    "id": 43718,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "How many zones are present in a luminous Bunsen burner flame?",
+    "options": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5",
+      "E": "6"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The luminous bunsen burner flame has four zones namely:\nDark zone/ zone of unburnt gas; burning of the gas does not take place here, it is dark and cool. Luminous yellow zone ; the gas burns in this zone but not completely because of limited air. Tiny particles glow in this region to give out light. Thin outer zone ; the zone is colorless and gas burns completely due to plenty of air. Blue zone; this zone receives plenty of air and burning is more complete than in the luminous zone.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43718",
+    "passage": ""
   }
 ]
