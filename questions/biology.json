@@ -68078,5 +68078,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35800",
     "passage": ""
+  },
+  {
+    "id": 35801,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2013",
+    "question": "The correct arrangement of food classes of the same quantity in the order of magnitude of energy value in animals in descending order is",
+    "options": {
+      "A": "Carbohydrates, fats and oils, water, protein",
+      "B": "Fats and oils, carbohydrates, protein, water",
+      "C": "Water, fats and oils, carbohydrates, protein",
+      "D": "Protein, fats and oils water and carbohydrates"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In the order of magnitude of energy value in animals in descending order is Fats and oil, carbohydrates, proteins and water. This is due to the fact that fats and oils have the highest energy value, about twice that of carbohydrates.\nFats and oils contain significantly more energy per gram than carbohydrates. Fats provide approximately 9 calories per gram, while carbohydrates yield around 4 calories per gram. This difference in energy density means that fats are a more concentrated source of fuel for the body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35801",
+    "passage": ""
   }
 ]
