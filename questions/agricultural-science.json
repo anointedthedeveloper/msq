@@ -58242,5 +58242,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68095",
     "passage": ""
+  },
+  {
+    "id": 68096,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What happens to the price of a agricultural product when demand exceeds supply?",
+    "options": {
+      "A": "The price fluctuates randomly",
+      "B": "The price decreases",
+      "C": "The price remains unchanged",
+      "D": "The price increases"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In economics, when demand exceeds supply, it creates a shortage. The price of the product will increase until the quantity demanded is equal to the quantity supplied, a state known as equilibrium. This is because the high demand and low supply create a competitive market where buyers are willing to pay more to secure the product.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68096",
+    "passage": ""
   }
 ]
