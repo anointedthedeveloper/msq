@@ -66250,5 +66250,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35435",
     "passage": ""
+  },
+  {
+    "id": 35439,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "1992",
+    "question": "Which of the following is not an adaptation of plants or animals to desert environment?",
+    "options": {
+      "A": "Well developed tap root system",
+      "B": "small leaves with thick epidermis",
+      "C": "Stems with spike-like leaves",
+      "D": "Metabolic waste in the form of uric acid in some animals",
+      "E": "Broad leaves for storage"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Desert plants have adapted to the hot, dry conditions if the desert by developing specialised features such as; small or absent leaves, narrow, waxy, hairy leaves, deep roots to access deep water in the soil.\nBroad leaves would lead to excessive water loss through Transpiration, making it difficult for desert plants to survive. Hence, broad leaves is not adaptation of plants in desert environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35439",
+    "passage": ""
   }
 ]
