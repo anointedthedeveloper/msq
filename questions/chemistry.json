@@ -66973,5 +66973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45778",
     "passage": ""
+  },
+  {
+    "id": 45779,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "An example of an acid salt is",
+    "options": {
+      "A": "CH 3 COOONa",
+      "B": "Mg(OH)Cl",
+      "C": "NaHSO 4",
+      "D": "(NH 4 ) 2 SO 4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Acidic Salt: A normal salt which is formed by the neutralization of a strong acid and weak base is called acidic salt",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45779",
+    "passage": ""
   }
 ]
