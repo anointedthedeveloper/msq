@@ -2284,5 +2284,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1076",
     "passage": ""
+  },
+  {
+    "id": 1091,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "This place was called the valley of Eshcol Because",
+    "options": {
+      "A": "the sons of Israel cut down a cluster of grapes there",
+      "B": "the sons of Israel stop there on theirway canaan",
+      "C": "the spies used the valley as their hideout",
+      "D": "grapes grew in the valley",
+      "E": "two spies carried away grapes from the valley"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The Valley of Eshcol was named after the large cluster of grapes that the Israelite spies cut down and brought back as proof of the land’s fruitfulness. This event is recorded in Numbers 13:23-24 (RSV) :\n\"And they came to the valley of Eshcol, and cut down from there a branch with a single cluster of grapes, and they carried it on a pole between two of them; they also brought some pomegranates and figs. That place was called the Valley of Eshcol, because of the cluster which the people of Israel cut down from there.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1091",
+    "passage": ""
   }
 ]
