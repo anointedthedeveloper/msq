@@ -69569,5 +69569,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37141",
     "passage": ""
+  },
+  {
+    "id": 37142,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "Using the diagram, the part labelled IV is for",
+    "options": {
+      "A": "excretion",
+      "B": "nourishment",
+      "C": "protection",
+      "D": "respiration"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/14365251940_206-2.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982821/myschool/biology/14365251940_206-2.jpg",
+    "correct_answer": "C",
+    "explanation": "Amniotic fluid, the fluid surrounding the fetus, protects it from injury, maintains a stable temperature, allows for fetal movement and development, and supports the development of the lungs and digestive system.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37142",
+    "passage": ""
   }
 ]
