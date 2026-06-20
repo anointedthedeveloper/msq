@@ -2518,5 +2518,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9679",
     "passage": ""
+  },
+  {
+    "id": 9680,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "I. Temperature. II. Density of air molecules III. Pressure IV. Pitch Which of the above will affect the velocity of sound in the air",
+    "options": {
+      "A": "I and II only",
+      "B": "II and IV only",
+      "C": "I,II and IV only",
+      "D": "I,II,III nad IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Air pressure has no effect on speed of sound in an ideal gas because pressure and density both contribute to sound velocity equally, the two effects cancel each other out",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9680",
+    "passage": ""
   }
 ]
