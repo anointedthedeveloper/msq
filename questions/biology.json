@@ -69863,5 +69863,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37160",
     "passage": ""
+  },
+  {
+    "id": 37161,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the association illustrated demonstrates",
+    "options": {
+      "A": "parasitism",
+      "B": "commensalism",
+      "C": "saprophytism",
+      "D": "mutualism"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/7182644670_206-9.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982917/myschool/biology/7182644670_206-9.jpg",
+    "correct_answer": "D",
+    "explanation": "The relationship between fungal hyphae and algal plants in lichens is a mutualistic symbiosis, where both organisms benefit from the interaction. The algae (or cyanobacteria) provide food through photosynthesis, while the fungus offers protection and resources.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37161",
+    "passage": ""
   }
 ]
