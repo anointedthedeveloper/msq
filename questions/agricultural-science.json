@@ -58851,5 +58851,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69627",
     "passage": ""
+  },
+  {
+    "id": 69628,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Study the table below and use it to answer the question\nThe total depreciation represented by Z in the illustrated table is",
+    "options": {
+      "A": "N 42,000",
+      "B": "N78,000",
+      "C": "N 22,200",
+      "D": "N 55,800"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Cost Price (N) = 60000 Salvage value (N) = 18000 Annual depreciation (N) = 4200 Useful life (Years) = 10 The formula to calculate the total depreciation is: Total depreciation = Cost Price - Salvage value = 60000 - 18000 Therefore, the total depreciation represented by Z in the table is N 42,000.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69628",
+    "passage": ""
   }
 ]
