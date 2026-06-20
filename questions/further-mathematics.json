@@ -4071,5 +4071,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/further-mathematics/50607",
     "passage": ""
+  },
+  {
+    "id": 50610,
+    "subject": "further-mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "If the points (-1, t -1), (t, t - 3) and (t - 6, 3) lie on the same straight line, find the values of t.",
+    "options": {
+      "A": "t = -2 and 3",
+      "B": "t = 2 and -3",
+      "C": "t = 2 and 3",
+      "D": "t = -2 and -3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "For collinear points (points on the same line), the slopes are equal for any 2 points on the line.\nGiven (-1, t - 1), (t, t - 3), (t - 6, 3),\n\\(slope = \\frac{(t-3) - (t-1)}{t - (-1)} = \\frac{3 - (t-3)}{(t-6) - t} = \\frac{3 - (t-1)}{(t-6) - (-1)}\\)\nTaking any two of the equations above, solve for t.\n\\(\\frac{t - 3 - t + 1}{t + 1} = \\frac{6 -t}{-6}\\)\n\\(12 = (6 - t)(t + 1)\\)\n\\(-t^{2} + 5t + 6 - 12 = 0 \\implies t^{2} - 5t + 6 = 0\\)\nSolving, we have t = 2 and 3.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/further-mathematics/50610",
+    "passage": ""
   }
 ]

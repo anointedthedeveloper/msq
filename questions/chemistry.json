@@ -7621,5 +7621,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/3267",
     "passage": ""
+  },
+  {
+    "id": 3268,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2005",
+    "question": "Metalloids are also referred to as",
+    "options": {
+      "A": "semi-metals",
+      "B": "metals",
+      "C": "colloids",
+      "D": "non-metals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Metalloids are also known as semi-metals.\nMetalloids are elements that exhibit properties intermediate between those of metals and non-metals.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/3268",
+    "passage": ""
   }
 ]

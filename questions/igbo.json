@@ -4028,5 +4028,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/igbo/73985",
     "passage": ""
+  },
+  {
+    "id": 73986,
+    "subject": "igbo",
+    "exam_type": "JAMB",
+    "exam_year": "2020",
+    "question": "Ọtụ puku, narị abụọ na anọ pụtara",
+    "options": {
+      "A": "1,204",
+      "B": "1,402",
+      "C": "1,002",
+      "D": "1,040"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ọtụ puku means \"one thousand\"; narị abụọ means \"two hundred\" and anọ means \"four\".",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/igbo/73986",
+    "passage": ""
   }
 ]

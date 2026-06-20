@@ -16638,5 +16638,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/mathematics/23229",
     "passage": ""
+  },
+  {
+    "id": 23230,
+    "subject": "mathematics",
+    "exam_type": "WAEC",
+    "exam_year": "1993",
+    "question": "What is the probability that an integer selected from the set of integers (20, 21, ...., 30) is a prime number?",
+    "options": {
+      "A": "2/11",
+      "B": "5/11",
+      "C": "6/11",
+      "D": "9/11",
+      "E": "2/3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "S = {20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30}\nn(S) = 11\nP = {23, 29}\nn(P) = 2\nProb(P) = \\(\\frac{2}{11}\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/mathematics/23230",
+    "passage": ""
   }
 ]
