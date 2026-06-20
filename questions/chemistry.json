@@ -62924,5 +62924,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43728",
     "passage": ""
+  },
+  {
+    "id": 43729,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "The relationship between equilibrium constant and free energy change is represented as",
+    "options": {
+      "A": "δ G ° =-nFE °",
+      "B": "δG °-RT ln K",
+      "C": "δ G °= + RT In k",
+      "D": "δG ° = δH – T S",
+      "E": "H=TδS"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43729",
+    "passage": ""
   }
 ]
