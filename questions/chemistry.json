@@ -65251,5 +65251,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44642",
     "passage": ""
+  },
+  {
+    "id": 44643,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "The curve depicts titration between a strong acid of pH",
+    "options": {
+      "A": "Strong acid and strong base",
+      "B": "Strong acid and weak base",
+      "C": "Weak acid and weak base",
+      "D": "Weak acid and strong base"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/29529003520_14658288_1190219151042750_234961054_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982478/myschool/chemistry/29529003520_14658288_1190219151042750_234961054_n.jpg",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44643",
+    "passage": ""
   }
 ]
