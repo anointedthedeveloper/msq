@@ -64852,5 +64852,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44548",
     "passage": ""
+  },
+  {
+    "id": 44550,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "What volume of 0.5M H2SO4 will exactly neutralize 20cm3 of 0.1M NaOH Solution?",
+    "options": {
+      "A": "2.0cm 3",
+      "B": "5.0cm 3",
+      "C": "6.8cm 3",
+      "D": "8.3cm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The balanced equation is given as:\n\\(H_{2}SO_{4} + 2NaOH \\to Na_{2}SO_{4} + 2H_{2}O\\)\nMolarity of \\(NaOH = 0.1M\\)\nVolume of \\(NaOH = 20cm^{3}\\)\nMolarity of \\(H_{2}SO_{4} = 0.5M\\)\nmol NaOH = \\(0.1 \\times 20cm^{3} = 2molNaOH\\)\n⇒ \\(2mol NaOH \\times \\frac{1mol H_{2}SO_{4}}{2mol NaOH} = 1 mol H_{2}SO_{4}\\)\n\\(volume of H_{2}SO_{4} = \\frac{mole of H_{2}SO_{4}}{molarity of H_{2}SO_{4}}\\)\n= \\(\\frac{1 mole}{0.5 M} = 2cm^{3} H_{2}SO_{4}\\)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44550",
+    "passage": ""
   }
 ]
