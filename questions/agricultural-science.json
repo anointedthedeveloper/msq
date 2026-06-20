@@ -58368,5 +58368,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68101",
     "passage": ""
+  },
+  {
+    "id": 68102,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of storage facilities in agriculture?",
+    "options": {
+      "A": "Offering a workspace for farm laborers",
+      "B": "Storing and preserving harvested crops",
+      "C": "Providing shelter for farm animals",
+      "D": "Housing agricultural machinery and equipment"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The primary purpose of storage facilities in agriculture is to store and preserve harvested crops. These facilities, such as warehouses, silos, or cold storage units, are designed to protect harvested crops from environmental factors, pests, and diseases. They provide a controlled environment that helps maintain the quality, nutritional value, and market value of the stored crops.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68102",
+    "passage": ""
   }
 ]
