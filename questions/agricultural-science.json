@@ -57969,5 +57969,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67965",
     "passage": ""
+  },
+  {
+    "id": 67967,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What does the scale of preference represent in agricultural decision-making?",
+    "options": {
+      "A": "The ranking of available choices based on personal preference",
+      "B": "The availability of resources for agricultural production",
+      "C": "The total cost of implementing different agricultural practices",
+      "D": "The market demand for agricultural products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The scale of preference represents the ranking of available choices based on personal preference in agricultural decision-making. When making choices in agriculture, farmers and agricultural stakeholders evaluate different options and rank them according to their preferences and goals.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67967",
+    "passage": ""
   }
 ]
