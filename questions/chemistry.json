@@ -65818,5 +65818,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45185",
     "passage": ""
+  },
+  {
+    "id": 45188,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "An aqueous solution of (NH4)2 SO4 is",
+    "options": {
+      "A": "Acidic",
+      "B": "Alkaline",
+      "C": "Amphoteric",
+      "D": "Neutral"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ammonium sulphate is an ACIDIC SALT. This is because it is formed when sulphuric acid reacts with ammonia. Since, sulphuric acid is a strong acid and ammonia is a weak base , so it gets acidic in nature.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45188",
+    "passage": ""
   }
 ]
