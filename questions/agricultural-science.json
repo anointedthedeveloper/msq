@@ -59144,5 +59144,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69641",
     "passage": ""
+  },
+  {
+    "id": 69642,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following products is not a primary forest product?",
+    "options": {
+      "A": "Plup",
+      "B": "Fuelwood",
+      "C": "Timber",
+      "D": "Mushroom"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Pulp is a processed material derived from wood, whereas timber and fuelwood are directly harvested from forests, and mushrooms are fungi found in forest ecosystems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69642",
+    "passage": ""
   }
 ]
