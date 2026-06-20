@@ -65713,5 +65713,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45098",
     "passage": ""
+  },
+  {
+    "id": 45099,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following apparatus can be used to measure a specific volume of a liquid accurately?",
+    "options": {
+      "A": "Beaker",
+      "B": "Conical flask",
+      "C": "Measuring cyclinder",
+      "D": "Pipette"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A pipette is generally more accurate than a measuring cylinder for measuring specific volumes of liquid. Pipettes are designed for precise transfer and measurement of specific volumes, while measuring cylinders are less precise due to their larger meniscus and less accurate calibration.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45099",
+    "passage": ""
   }
 ]
