@@ -58011,5 +58011,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68010",
     "passage": ""
+  },
+  {
+    "id": 68085,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary goal of crop improvement in agriculture?",
+    "options": {
+      "A": "Reducing pest and disease resistance",
+      "B": "Expanding crop cultivation areas",
+      "C": "Increasing crop diversity",
+      "D": "Enhancing crop yield and quality"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The primary goal of crop improvement in agriculture is to enhance crop yield and quality. Crop improvement involves various techniques, such as plant breeding, genetic engineering, and selection of superior traits, to develop new varieties or cultivars with improved characteristics. These characteristics may include higher yields, improved nutritional content, resistance to pests and diseases, tolerance to environmental stresses, and better adaptation to specific growing conditions.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68085",
+    "passage": ""
   }
 ]
