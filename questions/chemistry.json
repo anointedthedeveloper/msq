@@ -64197,5 +64197,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44491",
     "passage": ""
+  },
+  {
+    "id": 44492,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following derivatives of nitrogen affords an aqueous solution having a pH of less that 7?",
+    "options": {
+      "A": "N 2 O",
+      "B": "NO",
+      "C": "NO 2",
+      "D": "NaNO 3",
+      "E": "NH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "NO\\(_2\\) (Nitrogen dioxide) is an acid anhydride. When it dissolves in water, it undergoes a disproportionation reaction to produce a mixture of two acids: nitric acid (HNO\\(_3\\)) and nitrous acid (HNO\\(_2\\)).\nNO\\(_2\\) + H\\(_2\\)0  → HNO\\(_3\\)  +. HNO\\(_2\\)\nBecause these acids release hydrogen ions (H\\(^+\\)) in solution, the resulting aqueous solution is acidic and has a pH of less than 7.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44492",
+    "passage": ""
   }
 ]
