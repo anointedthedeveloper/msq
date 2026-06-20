@@ -58704,5 +58704,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69620",
     "passage": ""
+  },
+  {
+    "id": 69621,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "A combine harvester is mainly used for harvesting",
+    "options": {
+      "A": "tomato",
+      "B": "groundnut",
+      "C": "pepper",
+      "D": "rice"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A combine harvester, also known as a combine, is mainly used for harvesting rice. A combine harvester is a versatile agricultural machine that combines several functions into one, making it efficient for harvesting various crops.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69621",
+    "passage": ""
   }
 ]
