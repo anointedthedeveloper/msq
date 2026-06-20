@@ -69338,5 +69338,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35861",
     "passage": ""
+  },
+  {
+    "id": 35862,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following traits is not a morphological variation in humans?",
+    "options": {
+      "A": "Ability to taste PTC",
+      "B": "Colour",
+      "C": "Fingerprints",
+      "D": "Size"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The ability to taste PTC (phenylthiocarbamide) is not an example of morphological variation, but rather a physiological variation, as it relates to taste perception, which is a functional trait, not a structural one.\nMorphological variation : refers to differences in the physical structure or form of an organism, such as variations in bone structure, skin color, or body shape. Physiological variation , on the other hand, relates to differences in the function or processes of an organism, such as variations in metabolism, hormone levels, or, in this case, taste perception. The ability to taste PTC is determined by a single gene (TAS2R38) that codes for a bitter-taste receptor on the tongue. Different variations, or alleles, of this gene determine whether PTC tastes bitter or not. The ability to taste PTC is a classic example of a genetic trait that varies in human populations, and the variation is linked to the function of a specific taste receptor.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35862",
+    "passage": ""
   }
 ]
