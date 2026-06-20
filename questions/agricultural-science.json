@@ -60269,5 +60269,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71404",
     "passage": ""
+  },
+  {
+    "id": 71405,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The factors that affect the number and the activities of soil micro-organisms include the following except",
+    "options": {
+      "A": "soil moisture",
+      "B": "top biography",
+      "C": "degree of soil acidity",
+      "D": "soil aeration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The number and activities of soil micro-organisms are influenced by factors such as soil moisture, soil aeration, and degree of soil acidity. However, topography, which refers to the physical features of land, does not directly affect the number and activities of soil micro-organisms. Therefore, the correct answer is 'topography'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71405",
+    "passage": ""
   }
 ]
