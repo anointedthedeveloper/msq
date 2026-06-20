@@ -58389,5 +58389,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68102",
     "passage": ""
+  },
+  {
+    "id": 68103,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the purpose of using a scale of preference in agricultural decision-making?",
+    "options": {
+      "A": "To evaluate the environmental impact of farming practices",
+      "B": "To determine the most profitable crops to cultivate",
+      "C": "To allocate resources effectively among different activities",
+      "D": "To prioritize agricultural tasks based on urgency"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The purpose of using a scale of preference in agricultural decision-making is to allocate resources effectively among different activities. A scale of preference is a tool used to prioritize and rank various options or choices based on their relative importance or value. In agriculture, farmers often face limited resources such as land, labor, capital, and time.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68103",
+    "passage": ""
   }
 ]
