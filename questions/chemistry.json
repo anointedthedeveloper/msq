@@ -65398,5 +65398,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45083",
     "passage": ""
+  },
+  {
+    "id": 45084,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "When element \\(_{20}\\)Y combines with element \\(_8\\)Z, it forms",
+    "options": {
+      "A": "A covalent compound , YZ is formed",
+      "B": "A covalent compound, ZY is formed",
+      "C": "An ionic compound, YZ is formed",
+      "D": "An ionic compound, ZY is formed"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Y = 2,8,8,2 and Z = 2,6.\nY will readily give off its 2 valence electrons and Z will accept the 2 electrons in order to achieve octet configuration. Hence, the compound YZ is formed by ionic bonding.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45084",
+    "passage": ""
   }
 ]
