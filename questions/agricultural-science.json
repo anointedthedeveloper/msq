@@ -61508,5 +61508,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72678",
     "passage": ""
+  },
+  {
+    "id": 72680,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Use the information below to answer questions 28 and 29.\nA farmer produced 25 tonnes of cocoa,if 16 bags of cocoa was later sold at 350.00 per kilogram.(1 tonne = 1,000 kg)\nDetermine the income realized by the farmer.",
+    "options": {
+      "A": "#140,000",
+      "B": "#400,000",
+      "C": "#5,600,000",
+      "D": "#8,750,000"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Total weight in Kg = (25 × 100) kg\nsince the price per kg is #350, total amount realized = # (25,000 × 350) = #8,750,000",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72680",
+    "passage": ""
   }
 ]
