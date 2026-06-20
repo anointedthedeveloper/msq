@@ -57591,5 +57591,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67901",
     "passage": ""
+  },
+  {
+    "id": 67902,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What are the main differences between monocot and dicot plants?",
+    "options": {
+      "A": "Monocots have parallel leaf veins, while dicots have branched leaf veins",
+      "B": "Monocots have flower parts in multiples of three, while dicots have flower parts in multiples of four or five",
+      "C": "All of the above",
+      "D": "Monocots have fibrous root systems, while dicots have taproot systems"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Monocots and dicots are differentiated by several characteristics. Monocots have parallel leaf veins, while dicots have branched leaf veins. This is due to the different growth patterns of the two types of plants. Monocots have flower parts in multiples of three, while dicots have flower parts in multiples of four or five. This is due to the different evolutionary paths of the two types of plants. Monocots have fibrous root systems, while dicots have taproot systems. This is due to the different needs of the two types of plants, with monocots typically being grasses and cereals that benefit from a fibrous root system, and dicots being broad-leaved plants that benefit from a taproot system.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67902",
+    "passage": ""
   }
 ]
