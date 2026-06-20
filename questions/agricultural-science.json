@@ -60059,5 +60059,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71391",
     "passage": ""
+  },
+  {
+    "id": 71392,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following defines agriculture?",
+    "options": {
+      "A": "a way of life by which farmers produced food",
+      "B": "the raising of crops to satisfy human needs",
+      "C": "the science and art of farming to satisfy human needs",
+      "D": "the raising of farm animals by rural communities"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Agriculture is defined as the science and art of farming to satisfy human needs. It involves the cultivation of plants and the rearing of animals for food, fiber, medicinal plants, and other products used to sustain and enhance human life. Therefore, the option 'the science and art of farming to satisfy human needs' is the most comprehensive and accurate definition of agriculture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71392",
+    "passage": ""
   }
 ]
