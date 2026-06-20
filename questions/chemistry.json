@@ -62858,5 +62858,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43724",
     "passage": ""
+  },
+  {
+    "id": 43725,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "The Ideal Gas Law is expressed mathematically as",
+    "options": {
+      "A": "P1 /T1 = P2/T2",
+      "B": "P1/V1 = P2V2",
+      "C": "PV =nRT",
+      "D": "PV =KT",
+      "E": "V1/T1 = V2/T2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The empirical relationships among the volume, the temperature, the pressure, and the amount of a gas can be combined into the ideal gas law , PV = nRT.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43725",
+    "passage": ""
   }
 ]
