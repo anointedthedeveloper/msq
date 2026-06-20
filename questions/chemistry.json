@@ -66532,5 +66532,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45743",
     "passage": ""
+  },
+  {
+    "id": 45744,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following pairs of compounds belongs to the same homologous series?",
+    "options": {
+      "A": "C 3 H 8 and C 3 H 6",
+      "B": "C 4 H 10 and C 5 H 10",
+      "C": "C 2 H 4 and C 4 H 10",
+      "D": "C 2 H 6 and C 4 H 10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "both ethane and butane are in the same homologous series.( alkanes)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45744",
+    "passage": ""
   }
 ]
