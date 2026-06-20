@@ -57612,5 +57612,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67902",
     "passage": ""
+  },
+  {
+    "id": 67903,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is agricultural ecology?",
+    "options": {
+      "A": "The study of genetics and breeding techniques used in agriculture",
+      "B": "The study of climate change and its effects on agricultural productivity",
+      "C": "The study of ecological processes in agricultural systems and their interactions",
+      "D": "The study of agricultural practices and their economic impact on farmers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Agricultural ecology is a branch of science that focuses on understanding the ecological processes and interactions within agricultural systems. It involves studying the relationships between crops, livestock, pests, beneficial organisms, soil, water, and the surrounding environment.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67903",
+    "passage": ""
   }
 ]
