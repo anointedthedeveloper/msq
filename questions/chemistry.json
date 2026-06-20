@@ -65734,5 +65734,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45099",
     "passage": ""
+  },
+  {
+    "id": 45100,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The general gas equation \\(\\frac{PV}{T}\\) = K is a combination of",
+    "options": {
+      "A": "Boyle's and Charles' laws",
+      "B": "Boyle's and Graham's laws",
+      "C": "Charles' and Graham's laws",
+      "D": "Dalton's and Graham's laws"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45100",
+    "passage": ""
   }
 ]
