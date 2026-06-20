@@ -65419,5 +65419,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45084",
     "passage": ""
+  },
+  {
+    "id": 45085,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The boiling points of HF, H2O and NH3 increase in the order of",
+    "options": {
+      "A": "NH 3",
+      "B": "H 2 O < HF",
+      "C": "HF < NH 3 < H 2 O",
+      "D": "NH 3 < HF < H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Ammonia = -33.34°C;  Hydrogen fluoride = 19.5°C; Water = 100°C",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45085",
+    "passage": ""
   }
 ]
