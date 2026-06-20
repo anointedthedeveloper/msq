@@ -59669,5 +59669,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69674",
     "passage": ""
+  },
+  {
+    "id": 69675,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Assuming a sow was serviced on May 1 and conceived the same day, the expected date of parturition is",
+    "options": {
+      "A": "June 2",
+      "B": "September 30",
+      "C": "August 24",
+      "D": "October 2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The gestation period for a sow (female pig) is approximately 3 months, 3 weeks, and 3 days, which is equivalent to about 114 days. If the sow was serviced (mated) on May 1, we can calculate the expected date of parturition (giving birth) as follows: Count 3 months from May 1: May + 3 months = August 1 Count 3 weeks from August 1: August 1 + 3 weeks = August 22 Count 3 more days from August 22: August 22 + 3 days = August 25 So, based on the gestation period, the expected date of parturition is around August 25. However, since not all months have the same number of days, we need to adjust for the extra days to reach the actual parturition date. Counting from August 25 to September 30, there are 36 days (25 days in August and 5 days in September). Adding these 36 days to August 25: August 25 + 36 days = September 30 Therefore, the expected date of parturition is September 30.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69675",
+    "passage": ""
   }
 ]
