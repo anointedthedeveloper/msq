@@ -64306,5 +64306,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44496",
     "passage": ""
+  },
+  {
+    "id": 44497,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "The condition required for corrosion to take place is the presence of",
+    "options": {
+      "A": "Oxygen and Carbon (IV) oxide",
+      "B": "Water and Oxygen",
+      "C": "Water and Carbon (IV) oxide and Oxygen",
+      "D": "Water and Carbon (IV) oxide"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "the conditions necessary for corrosion to take place are; 1 presence of oxygen 2 moisture(water)\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44497",
+    "passage": ""
   }
 ]
