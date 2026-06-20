@@ -57948,5 +57948,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67947",
     "passage": ""
+  },
+  {
+    "id": 67965,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of farm machinery used for planting seeds?",
+    "options": {
+      "A": "Combine harvester",
+      "B": "Harrow",
+      "C": "Tractor",
+      "D": "Seed drill"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A seed drill is an example of farm machinery used for planting seeds. It is a device or implement designed to precisely sow seeds at a consistent depth and spacing.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67965",
+    "passage": ""
   }
 ]
