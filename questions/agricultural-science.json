@@ -58263,5 +58263,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68096",
     "passage": ""
+  },
+  {
+    "id": 68097,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What does the term \"recombinant DNA\" refer to in biotechnology?",
+    "options": {
+      "A": "DNA synthesized in a laboratory",
+      "B": "DNA replicated using polymerase chain reaction (PCR)",
+      "C": "DNA extracted from ancient fossils",
+      "D": "DNA modified to contain genes from different organisms"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The term \"recombinant DNA\" in biotechnology refers to DNA that has been modified or engineered to contain genes from different organisms. This process involves the insertion of specific genes or gene segments into the DNA of an organism, resulting in the creation of a new DNA sequence with combined genetic information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68097",
+    "passage": ""
   }
 ]
