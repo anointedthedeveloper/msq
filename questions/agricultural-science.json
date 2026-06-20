@@ -58914,5 +58914,25 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69630",
     "passage": ""
+  },
+  {
+    "id": 69631,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following tools are used in soil analysis? I. pH meter II. Sieve III. Hygrometer",
+    "options": {
+      "A": "I and III",
+      "C": "I, II and III",
+      "D": "II and III"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "All the tools listed are used in soil analysis. A pH meter is used to measure the acidity or alkalinity of the soil. A sieve is used to separate and grade soil and rock particles according to their size. A hygrometer is used to measure the moisture content in the atmosphere, which can affect soil moisture levels.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69631",
+    "passage": ""
   }
 ]
