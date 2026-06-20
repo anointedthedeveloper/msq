@@ -66322,5 +66322,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45292",
     "passage": ""
+  },
+  {
+    "id": 45293,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "A consequences of global warming is",
+    "options": {
+      "A": "Air pollution",
+      "B": "Flooding",
+      "C": "Increased humidity",
+      "D": "Water pollution"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Global warming is a gradual increase in the earth’s temperature generally due to the greenhouse effect caused by increased levels of carbon dioxide,  CFCs, and other pollutants . , consequences of global warming include: Seasonal/climate change, Rising oceans, Increase in flooding occurrences. Melting ice caps or polar ice. Increase in the average temperature of the world.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45293",
+    "passage": ""
   }
 ]
