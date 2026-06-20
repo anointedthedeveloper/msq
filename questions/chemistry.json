@@ -64978,5 +64978,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44606",
     "passage": ""
+  },
+  {
+    "id": 44607,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "In the extraction of iron, the waste gas from the furnace is a mixture of",
+    "options": {
+      "A": "PH 3 CO and CO 2",
+      "B": "CO and C",
+      "C": "N 2 , CO and CO 2",
+      "D": "PH 3 and CO"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "the \\(N_2\\) from the hot air blast to burn the coke (48%), the \\(CO\\) (23%) and \\(CO_2\\) (21%) produced from the reduction of the iron ore \\(Fe_{2}O_{3}\\) by carbon (the coke) are the major components of the waste from the extraction.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44607",
+    "passage": ""
   }
 ]
