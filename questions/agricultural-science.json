@@ -58179,5 +58179,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68092",
     "passage": ""
+  },
+  {
+    "id": 68093,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Farm animals can be classified into three main categories based on their primary purpose. Which of the following is NOT one of those categories?",
+    "options": {
+      "A": "Poultry",
+      "B": "Aquatic animals",
+      "C": "Companion animals",
+      "D": "Livestock animals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Farm animals can be classified into three main categories based on their primary purpose: livestock animals, poultry, and companion animals. Livestock animals include cattle, sheep, goats, pigs, and other large mammals primarily raised for meat, milk, or fiber production. Poultry refers to birds such as chickens, turkeys, ducks, and geese, which are raised for meat and egg production. Companion animals encompass animals such as horses, dogs, and cats that are primarily kept for companionship, recreation, or other non-agricultural purposes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68093",
+    "passage": ""
   }
 ]
