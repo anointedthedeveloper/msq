@@ -63589,5 +63589,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44452",
     "passage": ""
+  },
+  {
+    "id": 44453,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1990",
+    "question": "The Avogadro number of 24g of magnesium is the same as that of",
+    "options": {
+      "A": "1g of hydrogen molecules",
+      "B": "16g of oxygen molecules",
+      "C": "32g of oxygen molecules",
+      "D": "35.5g of chlorine molecules"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2\n2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44453",
+    "passage": ""
   }
 ]
