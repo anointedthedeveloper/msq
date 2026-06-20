@@ -70031,5 +70031,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37187",
     "passage": ""
+  },
+  {
+    "id": 37191,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, the part labelled I represents the",
+    "options": {
+      "A": "stationary phase",
+      "B": "lag phase",
+      "C": "log phase",
+      "D": "steady phase"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/15801869688_208-5.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982975/myschool/biology/15801869688_208-5.jpg",
+    "correct_answer": "B",
+    "explanation": "lag phase.  The lag phase is a n adaptation period, where the organisms are adjusting to their new conditions.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37191",
+    "passage": ""
   }
 ]
