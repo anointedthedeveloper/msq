@@ -57696,5 +57696,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67906",
     "passage": ""
+  },
+  {
+    "id": 67907,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is pollination in plants?",
+    "options": {
+      "A": "The dispersal of seeds by wind or animals",
+      "B": "The transfer of pollen from the anther to the stigma of a flower",
+      "C": "The process of seed formation after fertilization",
+      "D": "The production of flowers by a plant"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Pollination is the process by which pollen grains from the male reproductive organ of a flower (anther) are transferred to the female reproductive organ (stigma) of the same or a different flower.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67907",
+    "passage": ""
   }
 ]
