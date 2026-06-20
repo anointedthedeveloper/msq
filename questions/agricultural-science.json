@@ -57780,5 +57780,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67910",
     "passage": ""
+  },
+  {
+    "id": 67911,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary goal of agricultural extension services in the field of agricultural economics?",
+    "options": {
+      "A": "Promoting sustainable farming practices",
+      "B": "Maximizing crop yields",
+      "C": "Enhancing market access for farmers",
+      "D": "Increasing farm profits"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The primary goal of agricultural extension services in the field of agricultural economics is to enhance market access for farmers. Agricultural extension services provide farmers with information, training, and support to improve their understanding of market dynamics, marketing strategies, and value chain development.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67911",
+    "passage": ""
   }
 ]
