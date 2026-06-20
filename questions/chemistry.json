@@ -63526,5 +63526,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44444",
     "passage": ""
+  },
+  {
+    "id": 44445,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1992",
+    "question": "Which of the following is a measure of the average kinetic energy of the molecules of a substance?",
+    "options": {
+      "A": "volume",
+      "B": "mass",
+      "C": "pressure",
+      "D": "temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44445",
+    "passage": ""
   }
 ]
