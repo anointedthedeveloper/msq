@@ -62990,5 +62990,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43731",
     "passage": ""
+  },
+  {
+    "id": 43732,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "The following are ores of metals EXCEPT",
+    "options": {
+      "A": "bauxite",
+      "B": "dolomite",
+      "C": "graphite",
+      "D": "haematite",
+      "E": "magnetite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "So Dolomite is a magnesium ore, haematite, and magnetite is an iron ore, Bauxite is an aluminum ore while graphite is not a metal ore but a crystalline allotrope form of carbon.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43732",
+    "passage": ""
   }
 ]
