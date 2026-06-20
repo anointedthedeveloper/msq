@@ -63357,5 +63357,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44422",
     "passage": ""
+  },
+  {
+    "id": 44423,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "which of these metals CANNOT replace hydrogen from alkaline solutions?",
+    "options": {
+      "A": "Aluminium",
+      "B": "Zinc",
+      "C": "Tin",
+      "D": "Iron"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Aluminum, Zinc, and Tin react with both acids and alkalis to liberate hydrogen and so all are amphoteric metals except iron.\nIron can displace hydrogen from acids, but not from alkaline solutions. Iron is a metal that is more reactive than hydrogen and therefore can displace hydrogen from acids, but not from alkaline solutions.\nIn general, metals that are more reactive than hydrogen can displace hydrogen from acids. This means that when a metal reacts with an acid, the metal replaces the hydrogen in the acid, forming a salt and releasing hydrogen gas. Iron is considered a reactive metal and is placed above hydrogen in the reactivity series, which means it can displace hydrogen from acids. In alkaline solutions (solutions with a high pH, like those containing hydroxide ions), the hydrogen is not in a form that can be easily displaced by metals. Instead, the alkaline solution contains hydroxide ions (OH-) and the metal will react with these ions to form a hydroxide or oxide.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44423",
+    "passage": ""
   }
 ]
