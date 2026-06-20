@@ -68309,5 +68309,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35812",
     "passage": ""
+  },
+  {
+    "id": 35813,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2013",
+    "question": "Ascaris lumbricoides is a parasitic",
+    "options": {
+      "A": "flat worm",
+      "B": "round worm",
+      "C": "arthropod",
+      "D": "elastic worm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Ascaris lumbricoides is a parasitic worm that infects humans. Ascaris lumbricoides is a nematode, or roundworm, that lives in the human intestines. It's the most common parasitic worm in humans. The common name for Ascaris lumbricoides is the human roundworm",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35813",
+    "passage": ""
   }
 ]
