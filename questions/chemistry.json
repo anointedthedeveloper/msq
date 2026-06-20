@@ -63441,5 +63441,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44428",
     "passage": ""
+  },
+  {
+    "id": 44441,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1993",
+    "question": "The dissolution of common salt in water is a physical change because",
+    "options": {
+      "A": "the salt can be obtained by crystallization",
+      "B": "the salt can be recovered by the evaporation of water",
+      "C": "heat is not generated during mixing",
+      "D": "the solution will not boil at 100 o C"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The evaporation of water is a physical change. When water evaporates, it changes from the liquid state to the gas state, but it is still water; it has not changed into any other substance.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44441",
+    "passage": ""
   }
 ]
