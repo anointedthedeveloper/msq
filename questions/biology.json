@@ -67385,5 +67385,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35571",
     "passage": ""
+  },
+  {
+    "id": 35576,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2003",
+    "question": "Which of the following is an example of discontinuous variation?",
+    "options": {
+      "A": "the range in height of a pea plant from 30cm to 50cm",
+      "B": "Offspring, including the two male cats and three female cats",
+      "C": "the colour of pear plants grown in the dark",
+      "D": "the adult body weight ranging from 50 kg t0 95 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "A characteristic of any species with only a limited number of possible values shows discontinuous variation (i.e It can only be a discrete number of values). Human blood group is an example of discontinuous variation. In the ABO blood group system, only four blood groups are possible (A, B, AB or O). There are no values in between, so this is discontinuous variation.\nHere are some examples: blood group, sex (male or female), eye color etc.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35576",
+    "passage": ""
   }
 ]
