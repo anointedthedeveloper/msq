@@ -69779,5 +69779,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37155",
     "passage": ""
+  },
+  {
+    "id": 37156,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the structures used for offense and defense are labelled",
+    "options": {
+      "A": "i and iv",
+      "B": "i and ii",
+      "C": "ii and iii",
+      "D": "iii and iv"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/1436528214_206-7.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982889/myschool/biology/1436528214_206-7.jpg",
+    "correct_answer": "B",
+    "explanation": "Birds use both their beaks as well as their limbs for offense and defense against predators.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37156",
+    "passage": ""
   }
 ]
