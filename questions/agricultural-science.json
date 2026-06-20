@@ -58473,5 +58473,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68106",
     "passage": ""
+  },
+  {
+    "id": 68107,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What are some advantages of agricultural extension?",
+    "options": {
+      "A": "All of the above",
+      "B": "Increased access to modern agricultural technologies",
+      "C": "Improved farm productivity and profitability",
+      "D": "Enhanced knowledge and skills of farmers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Agricultural extension services provide numerous advantages to farmers and the agricultural sector. Through agricultural extension, farmers gain increased access to modern agricultural technologies, such as improved crop varieties, efficient irrigation methods, and mechanized farming equipment. This leads to improved farm productivity and profitability.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68107",
+    "passage": ""
   }
 ]
