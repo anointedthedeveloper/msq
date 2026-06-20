@@ -66154,5 +66154,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45212",
     "passage": ""
+  },
+  {
+    "id": 45216,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Consider the following half-cell reactions.\nAl\n(s)\n\\(\\to\\) Al\n3+\n(aq)\n+ 3e\n-\nCu\n2+\n(aq)\n+ 2e\n-\n\\(\\to\\) Cu\n(s)\nThe overall equation for the reaction is",
+    "options": {
+      "A": "Al (s) + Cu 2+ (aq) \\(\\to\\)  Al 3+ (aq) + Cu (s)",
+      "B": "2Al (s) + Cu 2+ (aq) \\(\\to\\) 2Al (aq) + Cu (s)",
+      "C": "2Al (s) + 3Cu 2+ (aq) \\(\\to\\) 3Cu (s) +  2Al 3+ (aq)",
+      "D": "3Al (s) + 2Cu 2+ (aq) \\(\\to\\) Cu (s) + 3Al 3+ (aq)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "(s)\n3+\n(aq)\n-\n2+\n(aq)\n-\n(s)\n(s)\n3+\n(aq)\n-\n2+\n(aq)\n-\n(s)\n(s)\n2+\n(aq)\n(s)\n3+\n(aq)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45216",
+    "passage": ""
   }
 ]
