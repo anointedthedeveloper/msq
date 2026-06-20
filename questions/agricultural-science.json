@@ -57822,5 +57822,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67933",
     "passage": ""
+  },
+  {
+    "id": 67934,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a potential disadvantage of agricultural extension?",
+    "options": {
+      "A": "Lack of access to extension services in remote areas",
+      "B": "Increased farmer knowledge and skills",
+      "C": "Strengthened farmer-government relationships",
+      "D": "Enhanced adoption of improved farming practices"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "One of the potential disadvantages of agricultural extension is the lack of access to extension services in remote areas. Agricultural extension services aim to provide information, education, and support to farmers, enabling them to adopt improved farming practices and enhance their productivity. However, in remote or geographically isolated regions, the availability of extension services may be limited or non-existent.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67934",
+    "passage": ""
   }
 ]
