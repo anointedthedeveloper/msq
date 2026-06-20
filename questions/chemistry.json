@@ -62792,5 +62792,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43720",
     "passage": ""
+  },
+  {
+    "id": 43721,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "Which of the following metals is NOT extracted by electrolysis?",
+    "options": {
+      "A": "Aluminium",
+      "B": "Calcium",
+      "C": "iron",
+      "D": "Magnesium",
+      "E": "Sodium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43721",
+    "passage": ""
   }
 ]
