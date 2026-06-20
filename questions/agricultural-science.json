@@ -61550,5 +61550,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72681",
     "passage": ""
+  },
+  {
+    "id": 72682,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "A disadvantage of selection as a method of crop improvement is that it.",
+    "options": {
+      "A": "ensures picking of crops",
+      "B": "requires expertise when carrying it out",
+      "C": "increases the spread of diseases",
+      "D": "increases the susceptibility of crops to pests"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "A disadvantage of selection as a method of crop improvement is that it increase the susceptibility of crops to pests.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72682",
+    "passage": ""
   }
 ]
