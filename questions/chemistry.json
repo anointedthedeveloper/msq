@@ -67183,5 +67183,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45829",
     "passage": ""
+  },
+  {
+    "id": 45831,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A compound has an empirical formular CH\n2\nO and molecular mass of 90.\n[H = 1.00, C = 12.0, O = 16.0]",
+    "options": {
+      "A": "C4H10O2",
+      "B": "C3H10O2",
+      "C": "C3H6O3",
+      "D": "C2H2O4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "2\n2\n3\n3\n6\n3",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45831",
+    "passage": ""
   }
 ]
