@@ -58620,5 +58620,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68113",
     "passage": ""
+  },
+  {
+    "id": 68114,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What are the primary benefits of agricultural extension services?",
+    "options": {
+      "A": "Preservation of traditional farming practices",
+      "B": "Enhanced knowledge and skills of farmers",
+      "C": "Increased crop diversity and yield",
+      "D": "Improved market access for agricultural products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Agricultural extension services are primarily designed to enhance farmers' knowledge and skills through education and training. These services offer valuable information on best practices, innovative technologies, and sustainable farming methods, enabling farmers to boost productivity and refine their overall practices. Although the other options may represent additional benefits, the main objective of extension services is to empower farmers with improved knowledge and capabilities.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68114",
+    "passage": ""
   }
 ]
