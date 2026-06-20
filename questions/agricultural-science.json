@@ -58934,5 +58934,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69631",
     "passage": ""
+  },
+  {
+    "id": 69632,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The reduction of three seedlings of maize to two plants per stand is referred to as",
+    "options": {
+      "A": "rogueing",
+      "B": "thinning",
+      "C": "weeding",
+      "D": "pruning"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Thinning refers to the process of reducing the number of seedlings in a plant stand to achieve proper spacing and optimum plant density. In the context of the question, thinning involves removing one out of three seedlings of maize, resulting in two plants remaining per stand.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69632",
+    "passage": ""
   }
 ]
