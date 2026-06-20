@@ -65944,5 +65944,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45201",
     "passage": ""
+  },
+  {
+    "id": 45202,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Which of the following factors will affect the rate of the reaction represented by the following equation? 2HCl(aq) + CaCO3(s) \\(\\rightarrow\\) CaCl2(aq) + H2O(1) + CO2(g) I. Pressure II.Concentration III. Nature of reactants IV. Temperature",
+    "options": {
+      "A": "I and II only",
+      "B": "II, III and IV only",
+      "C": "I, II and III only",
+      "D": "I, II. III and IV"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "All others except pressure would affect the equilibrium of the system.\nIf only the product is gaseous and none of the reactants are gaseous, then pressure will not have a significant effect on the rate of reaction because the pressure change only affects the concentration of gaseous species, and since no reactants are in the gas phase, there's no change in their concentration to influence the reaction rate.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45202",
+    "passage": ""
   }
 ]
