@@ -57675,5 +57675,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67905",
     "passage": ""
+  },
+  {
+    "id": 67906,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is animal production in agriculture?",
+    "options": {
+      "A": "The management and care of livestock for various purposes",
+      "B": "The breeding and genetic improvement of animals for specific traits",
+      "C": "The production of animal-based products such as milk and eggs",
+      "D": "The cultivation of crops for animal consumption"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Animal production in agriculture refers to the practice of managing and caring for livestock for various purposes.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67906",
+    "passage": ""
   }
 ]
