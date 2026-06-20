@@ -57864,5 +57864,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67936",
     "passage": ""
+  },
+  {
+    "id": 67941,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a form of land ownership in which an individual holds complete ownership and control over a piece of land?",
+    "options": {
+      "A": "Tenancy",
+      "B": "Freehold",
+      "C": "Leasehold",
+      "D": "Commonhold"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Freehold is a form of land ownership in which an individual holds complete ownership and control over a piece of land. The individual has the right to use, sell, or transfer the land as they wish, subject to legal regulations. This form of ownership is often associated with privately owned properties, where the land is owned outright and not subject to any time-limited agreements.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67941",
+    "passage": ""
   }
 ]
