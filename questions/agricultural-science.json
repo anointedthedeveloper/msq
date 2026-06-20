@@ -60710,5 +60710,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71445",
     "passage": ""
+  },
+  {
+    "id": 71446,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Gestation period is defined as the time",
+    "options": {
+      "A": "of release of ovum from the ovary",
+      "B": "of fusion of the sperm and the egg",
+      "C": "of the birth of the young animal",
+      "D": "between conception and parturition"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The gestation period is defined as the time between conception (fertilization of the egg by the sperm) and parturition (birth). It is the period during which an embryo develops into a fetus inside the mother's body.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71446",
+    "passage": ""
   }
 ]
