@@ -69191,5 +69191,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35854",
     "passage": ""
+  },
+  {
+    "id": 35855,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "The following organisms are consumers except",
+    "options": {
+      "A": "earthworm",
+      "B": "spirogyra",
+      "C": "bacteria",
+      "D": "Rhizopus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Generally, in a food chain, producers are autotrophs. i.e They produce their own food by themselves.\nSpirogyra is a producer, specifically a type of green algae. As a producer, it can convert sunlight into energy through photosynthesis, creating its own food.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35855",
+    "passage": ""
   }
 ]
