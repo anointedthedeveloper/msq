@@ -58872,5 +58872,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69628",
     "passage": ""
+  },
+  {
+    "id": 69629,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "High relative humidity in a brooder house could lead to",
+    "options": {
+      "A": "reduced feed intake",
+      "B": "production of dry litter",
+      "C": "build up of pests and diseases",
+      "D": "heat stress"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "High humidity in a brooder house creates a conducive environment for the growth and multiplication of pests and diseases. It can also lead to the development of mould and fungi, which can be harmful to the chicks.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69629",
+    "passage": ""
   }
 ]
