@@ -59291,5 +59291,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69648",
     "passage": ""
+  },
+  {
+    "id": 69649,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The number of teats in the udder of a cow is",
+    "options": {
+      "A": "four",
+      "B": "two",
+      "C": "six",
+      "D": "eight"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The udder of a cow consists of four separate compartments, each corresponding to one teat. Each teat serves as an outlet for the milk produced in the corresponding compartment of the udder.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69649",
+    "passage": ""
   }
 ]
