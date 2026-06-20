@@ -58536,5 +58536,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68109",
     "passage": ""
+  },
+  {
+    "id": 68110,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of an agricultural extension service?",
+    "options": {
+      "A": "Providing financial assistance to farmers",
+      "B": "Offering training and advisory services to farmers",
+      "C": "Conducting research on agricultural practices",
+      "D": "Marketing and selling agricultural products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The primary purpose of an agricultural extension service is to offer training and advisory services to farmers. Agricultural extension services provide education, information, and support to farmers and rural communities to enhance their agricultural practices, productivity, and livelihoods. They offer training programs, workshops, demonstrations, and on-farm advisory services to help farmers adopt new technologies, improve their farming techniques, manage pests and diseases, and enhance sustainable agricultural practices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68110",
+    "passage": ""
   }
 ]
