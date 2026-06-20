@@ -2392,5 +2392,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9671",
     "passage": ""
+  },
+  {
+    "id": 9672,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "If the distance between two suspended masses 10kg each is tripled, the gravitational force of attraction between them is reduced by",
+    "options": {
+      "A": "one half",
+      "B": "one third",
+      "C": "one quarter",
+      "D": "one ninth"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "1\n2\n2\n1\n2\n2\n2\n2\n2\n2\n2\n1\n2\n2\n2\n2\n2\n1",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9672",
+    "passage": ""
   }
 ]
