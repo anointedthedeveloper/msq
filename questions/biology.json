@@ -70178,5 +70178,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37204",
     "passage": ""
+  },
+  {
+    "id": 37205,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "In the diagram, the habitat of the organism is",
+    "options": {
+      "A": "slow moving streams and marshes",
+      "B": "the stomach of large mammals",
+      "C": "under leaf filter on forest floor",
+      "D": "the small intestine of large vertebrates"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11492306600_209-1.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983035/myschool/biology/11492306600_209-1.jpg",
+    "correct_answer": "D",
+    "explanation": "Tapeworms generally inhabit the intestines of humans and animals. They have a series of hooks (or suckers) on one end that they use to attach to the intestine to get nourishment from the host.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37205",
+    "passage": ""
   }
 ]
