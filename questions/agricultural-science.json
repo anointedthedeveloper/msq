@@ -59690,5 +59690,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69675",
     "passage": ""
+  },
+  {
+    "id": 69676,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following combinations of NPK fertilizer is recommended for the cultivation of yam and cassava?",
+    "options": {
+      "A": "10:10:10",
+      "B": "20:10:10",
+      "C": "10:10:20",
+      "D": "20:20:10"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "For the cultivation of yam and cassava, the recommended NPK fertilizer ratio is 20:10:10. This means the fertilizer contains a higher percentage of nitrogen (N) compared to phosphorus (P) and potassium (K). Nitrogen is essential for promoting vegetative growth and leaf development, which is important for yam and cassava during their early stages of growth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69676",
+    "passage": ""
   }
 ]
