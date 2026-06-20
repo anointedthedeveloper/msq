@@ -63757,5 +63757,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44463",
     "passage": ""
+  },
+  {
+    "id": 44464,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Which of the following conduct electricity?",
+    "options": {
+      "A": "sulfur",
+      "B": "graphite",
+      "C": "diamond",
+      "D": "red phosphorus",
+      "E": "yellow phosphorus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44464",
+    "passage": ""
   }
 ]
