@@ -65923,5 +65923,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45196",
     "passage": ""
+  },
+  {
+    "id": 45201,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "Chemical equilibrium is attained when",
+    "options": {
+      "A": "All the reactants have been completely used up",
+      "B": "The reaction goes to completion",
+      "C": "The concentration of reactants and products remain constant",
+      "D": "The concentration of reactants and products are equal"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45201",
+    "passage": ""
   }
 ]
