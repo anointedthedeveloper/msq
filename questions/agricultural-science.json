@@ -57507,5 +57507,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67897",
     "passage": ""
+  },
+  {
+    "id": 67898,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a common problem in agricultural economics and extension?",
+    "options": {
+      "A": "Inadequate market infrastructure",
+      "B": "Excessive government regulations",
+      "C": "Overreliance on chemical inputs",
+      "D": "Lack of access to modern technology"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Agricultural economics and extension deal with the application of economic methods to optimizing the decisions made by agricultural producers. A common problem in this field is the lack of access to modern technology. This can hinder the efficiency and productivity of agricultural practices. Excessive government regulations, overreliance on chemical inputs, and inadequate market infrastructure can also be challenges in agriculture, but they are not specific to agricultural economics and extension.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67898",
+    "passage": ""
   }
 ]
