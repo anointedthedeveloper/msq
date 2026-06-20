@@ -60941,5 +60941,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71467",
     "passage": ""
+  },
+  {
+    "id": 72569,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following land tenure systems allow a farmer to cultivate a piece of land in one growing season, at a fee?",
+    "options": {
+      "A": "Freehold",
+      "B": "Communal",
+      "C": "Rent",
+      "D": "Leasehold"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In the context of land tenure systems,renting land typically involves paying a fee to use the land for a specified period.which can be as short as one growing season.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72569",
+    "passage": ""
   }
 ]
