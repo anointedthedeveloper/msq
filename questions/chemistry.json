@@ -65671,5 +65671,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45096",
     "passage": ""
+  },
+  {
+    "id": 45097,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "How many moles of oxygen would contain 1.204 x 10\n24\nmolecules?\n[Avogadro's constant (NA) = 6.02 x 10\n23\n]",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "23\n24",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45097",
+    "passage": ""
   }
 ]
