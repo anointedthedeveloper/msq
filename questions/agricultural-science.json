@@ -58809,5 +58809,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69625",
     "passage": ""
+  },
+  {
+    "id": 69626,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The bacterium which is responsible for conversion of ammonium compounds to nitrites in the nitrogen cycle is",
+    "options": {
+      "A": "Nitrobacter",
+      "B": "Nitrosomonas",
+      "C": "Azotobacter",
+      "D": "Rhizobium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Nitrosomonas is the bacterium responsible for the first step in this conversion process, where it oxidizes ammonium compounds to nitrites. This conversion is essential as it prepares the nitrogen compounds for the subsequent steps in the nitrogen cycle.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69626",
+    "passage": ""
   }
 ]
