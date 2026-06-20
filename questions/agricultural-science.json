@@ -58976,5 +58976,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69633",
     "passage": ""
+  },
+  {
+    "id": 69634,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Day-neutral crops are crops that produce flowers regardless of",
+    "options": {
+      "A": "daylength being longer than the length of night",
+      "B": "extremely low temperature",
+      "C": "amount of sunlight received by flowering plants",
+      "D": "extremely high temperature"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A plant that flowers regardless of the length of the period of light it is exposed to . Rice, corn, and cucumber are day-neutral plants. Day-neutral crops, also known as non-photoperiodic crops,",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69634",
+    "passage": ""
   }
 ]
