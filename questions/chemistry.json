@@ -63933,5 +63933,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44477",
     "passage": ""
+  },
+  {
+    "id": 44478,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "A certain volume of gas at 298k is heated such that its volume and pressure are now four times the original values. What is the new temperature?",
+    "options": {
+      "A": "18.6k",
+      "B": "100.0k",
+      "C": "298.0k",
+      "D": "1192.0k",
+      "E": "4768.0k"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "2",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44478",
+    "passage": ""
   }
 ]
