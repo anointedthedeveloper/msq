@@ -61466,5 +61466,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72656",
     "passage": ""
+  },
+  {
+    "id": 72677,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The correct sequence of land preparation for the cultivation of yam is",
+    "options": {
+      "A": "clearing-stumping-ploughing-harrowing-ridging.",
+      "B": "ploughing-clearing-harrowing-ridging-stumping",
+      "C": "clearing-harrowing-ridging-stumping-ridging",
+      "D": "ploughing-stumping-clearing-ridging-harrowing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The correct sequence is clearing-stumping-ploughing-harrowing-ridging",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72677",
+    "passage": ""
   }
 ]
