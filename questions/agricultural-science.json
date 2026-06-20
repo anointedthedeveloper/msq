@@ -59354,5 +59354,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69651",
     "passage": ""
+  },
+  {
+    "id": 69652,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following statements about underground drainage is true",
+    "options": {
+      "A": "Ditches are constructed to remove excess water",
+      "B": "Ditches are dug from a source of water to the farmland",
+      "C": "Furrows are constructed to direct water out of the farmland",
+      "D": "Water seeps into tiles to reach an outlet where it is discharged"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "In this drainage system, perforated pipes or tiles are placed underground at a certain depth, usually below the root zone of the crops. These pipes or tiles have small holes or perforations that allow water to seep into them from the surrounding soil. As the water table rises due to excess moisture in the soil, the water seeps into these pipes through the perforations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69652",
+    "passage": ""
   }
 ]
