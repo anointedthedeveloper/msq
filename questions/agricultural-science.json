@@ -58452,5 +58452,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68105",
     "passage": ""
+  },
+  {
+    "id": 68106,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary purpose of agricultural mechanization?",
+    "options": {
+      "A": "Promoting sustainable irrigation techniques",
+      "B": "Increasing crop diversity in farming systems",
+      "C": "Reducing labor requirements in agriculture",
+      "D": "Enhancing organic farming practices"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The primary purpose of agricultural mechanization is to reduce labor requirements in agriculture. Agricultural mechanization involves the use of machinery, equipment, and technology to automate and streamline various farming operations. By employing mechanized tools such as tractors, harvesters, planters, and irrigation systems, farmers can increase efficiency, save time, and reduce the physical labor needed for tasks like land preparation, planting, harvesting, and irrigation.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68106",
+    "passage": ""
   }
 ]
