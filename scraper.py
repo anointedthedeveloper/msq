@@ -18,6 +18,7 @@ import argparse
 import json
 import os
 import queue
+import random
 import re
 import subprocess
 import threading
@@ -46,19 +47,26 @@ cloudinary.config(
 BASE_URL      = "https://myschool.ng"
 CLASSROOM_URL = f"{BASE_URL}/classroom"
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/120.0.0.0 Safari/537.36"
-    ),
-    "Accept":          "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Referer":         "https://myschool.ng/",
-}
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+]
 
-REQUEST_DELAY = 1.5   # between listing pages
-DETAIL_DELAY  = 1.2   # between question detail pages
+def get_headers() -> dict:
+    """Get headers with random User-Agent."""
+    return {
+        "User-Agent": random.choice(USER_AGENTS),
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Referer": "https://myschool.ng/",
+        "DNT": "1",
+        "Connection": "keep-alive",
+    }
+
+REQUEST_DELAY = 2.0   # between listing pages (increased)
+DETAIL_DELAY  = 1.5   # between question detail pages (increased)
 IMAGE_DELAY   = 0.5   # between Cloudinary uploads
 
 # ── Subject list ──────────────────────────────────────────────────────────────
@@ -109,13 +117,18 @@ def get_page(url: str, retries: int = 3) -> BeautifulSoup | None:
     """Fetch a URL and return BeautifulSoup, or None on failure."""
     for attempt in range(retries):
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=20)
+            resp = requests.get(url, headers=get_headers(), timeout=20)
             if resp.status_code == 200:
                 resp.encoding = "utf-8"
                 return BeautifulSoup(resp.text, "lxml")
             elif resp.status_code == 429:
                 wait = 15 * (attempt + 1)
                 print(f"  Rate limited. Waiting {wait}s...")
+                time.sleep(wait)
+            elif resp.status_code == 500:
+                # Server error - retry with longer delay
+                wait = 10 * (attempt + 1)
+                print(f"  HTTP 500 for {url} - retry {attempt + 1}/{retries} in {wait}s...")
                 time.sleep(wait)
             elif resp.status_code == 404:
                 return None
