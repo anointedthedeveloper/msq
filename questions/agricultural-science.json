@@ -58326,5 +58326,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68099",
     "passage": ""
+  },
+  {
+    "id": 68100,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an important aspect of livestock management in agriculture?",
+    "options": {
+      "A": "Irrigation scheduling",
+      "B": "Fertilizer application rates",
+      "C": "Animal health and welfare",
+      "D": "Crop rotation techniques"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Animal health and welfare is an important aspect of livestock management in agriculture. Livestock managers and farmers are responsible for ensuring the well-being of the animals under their care. This includes providing proper nutrition, appropriate housing and shelter, disease prevention and control measures, and veterinary care.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68100",
+    "passage": ""
   }
 ]
