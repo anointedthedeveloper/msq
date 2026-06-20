@@ -58284,5 +58284,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68097",
     "passage": ""
+  },
+  {
+    "id": 68098,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the process of introducing foreign genetic material into an organism called?",
+    "options": {
+      "A": "Transcription",
+      "B": "Transformation",
+      "C": "Translocation",
+      "D": "Translation"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The process of introducing foreign genetic material into an organism is called transformation. In biotechnology, transformation involves the insertion of specific genes or DNA sequences into the genome of an organism, resulting in the expression of new traits or characteristics.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68098",
+    "passage": ""
   }
 ]
