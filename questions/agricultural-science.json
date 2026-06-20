@@ -59606,5 +59606,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69670",
     "passage": ""
+  },
+  {
+    "id": 69671,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Which of the following crops require a nursery?",
+    "options": {
+      "A": "Rubber",
+      "B": "Cotton seed",
+      "C": "Yam",
+      "D": "Soya bean"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Among the given options, 'Rubber' is the crop that requires a nursery. A nursery is a place where plants are propagated and grown to a desired age. Rubber seeds are usually sown in a nursery and the seedlings are transplanted to the field when they are about 6 months old.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69671",
+    "passage": ""
   }
 ]
