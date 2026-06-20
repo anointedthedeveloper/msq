@@ -69632,5 +69632,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37147",
     "passage": ""
+  },
+  {
+    "id": 37148,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the change in the length of the neck of the giraffes shown was brought about by",
+    "options": {
+      "A": "geographical isolation",
+      "B": "predation",
+      "C": "symbiosis",
+      "D": "natural selection"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/28730541100_206-4.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982839/myschool/biology/28730541100_206-4.jpg",
+    "correct_answer": "D",
+    "explanation": "Geographical selection, in the context of evolution, refers to the process where populations of the same species become separated by physical barriers, leading to the development of distinct species over time due to adaptation to different environments.\nPredation is a biological interaction where one organism (the predator) kills and consumes another organism (the prey) for food.\ninteraction between two different organisms living in close physical association, typically to the advantage of both.\nThe change in the length of giraffes' necks is primarily attributed to natural selection, where individuals with slightly longer necks had a survival advantage, allowing them to reach higher food sources and reproduce more successfully, thus passing on their longer neck genes - Charles Darwin\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37148",
+    "passage": ""
   }
 ]
