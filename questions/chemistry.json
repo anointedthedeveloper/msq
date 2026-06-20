@@ -62814,5 +62814,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43721",
     "passage": ""
+  },
+  {
+    "id": 43723,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "The furring of kettles and boilers are caused by",
+    "options": {
+      "A": "calcium hydroxide",
+      "B": "calcium hydrogen trioxocarbonate (IV)",
+      "C": "calcium trioxocarbonate (IV)",
+      "D": "calcium tetraoxocarbonate",
+      "E": "magnesium tetraoxocarbonate (VI)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "The furring of kettles or boilers - this is as a result of the decomposition of Ca(HCO3)2 into CaCO3, and this coats the inside of a kettle or boiler used in heating water containing dissolved Ca(HCO3)2.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43723",
+    "passage": ""
   }
 ]
