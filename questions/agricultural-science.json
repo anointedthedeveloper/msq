@@ -60668,5 +60668,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71443",
     "passage": ""
+  },
+  {
+    "id": 71444,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following feedstuff does not contain phosphorus?",
+    "options": {
+      "A": "limestone",
+      "B": "fish meal",
+      "C": "blood meal",
+      "D": "oyster shell"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Oyster shell does not contain phosphorous. Phosphorous is an essential mineral for animals, it is found in many feed stuff including blood meal, limestone, and fish meal. However, oyster shell is primarily composed of calcium carbonate and does not contain significant amounts of phosphorous.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71444",
+    "passage": ""
   }
 ]
