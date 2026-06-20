@@ -60164,5 +60164,47 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71397",
     "passage": ""
+  },
+  {
+    "id": 71399,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Igneous rocks formed within the crust are called",
+    "options": {
+      "A": "plutonic",
+      "B": "volcanic",
+      "C": "stratified",
+      "D": "guartzite"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Plutonic rocks form from magma that cools and solidifies within the crust of the Earth, as opposed to volcanic rocks, which form from lava that cools on the Earth's surface.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71399",
+    "passage": ""
+  },
+  {
+    "id": 71401,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following processes does not lead to the physical disintegration of rock?",
+    "options": {
+      "A": "expansion and contraction of rock minerals",
+      "B": "formation of cracks and cervices in the rocks",
+      "C": "heating and cooling of rock surface",
+      "D": "rapid cooling and solidification of rocks"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The physical disintegration of rock, also known as physical or mechanical weathering involves the breakdown of rocks and soils through direct contact with atmospheric conditions, such as heat, water, ice, and pressure. The rapid cooling and solidification of rocks is not a process that leads to the physical disintegration of rock. Instead, it is a process that leads to the formation of igneous rocks. When magma or lava cools and solidifies rapidly, it forms a type of igneous rock known as extrusive igneous rock.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71401",
+    "passage": ""
   }
 ]
