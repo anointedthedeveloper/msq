@@ -2130,5 +2130,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1045",
     "passage": ""
+  },
+  {
+    "id": 1048,
+    "subject": "christian-religious-knowledge-crk",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "...was born at the time when Pharaoh ordered that all Hebrew male children be killed",
+    "options": {
+      "A": "Miriam",
+      "B": "Aaron",
+      "C": "Joseph",
+      "D": "Moses",
+      "E": "Jesus"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Pharaoh spoke to the Hebrew midwives and ordered that all the first-born male babies of the Israelites be killed because he was worried that the Israelites were growing in number and the Israelite slaves would rise up against him.\nIt was during this decree that Moses was born",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/christian-religious-knowledge-crk/1048",
+    "passage": ""
   }
 ]
