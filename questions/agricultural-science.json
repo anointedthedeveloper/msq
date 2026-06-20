@@ -60836,5 +60836,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71460",
     "passage": ""
+  },
+  {
+    "id": 71461,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The correct sequence of the components of a goat's stomach is",
+    "options": {
+      "A": "rum en - reti culum - abomasum -omasum",
+      "B": "rum en - reti culum - omasum - abomasum",
+      "C": "reti culum - rum en - omasum - abomasum",
+      "D": "reti culum - omasum - abomasum - rum en"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The correct sequence of the components of a goat's stomach is rumen-reticulum-omasum-abomasum. The rumen is the first part of the stomach and is where the fermentation of food occurs. The reticulum is the second part and works with the rumen to further break down food. The omasum is the third part and absorbs water and nutrients. The abomasum is the fourth and final part and is similar to a human stomach.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71461",
+    "passage": ""
   }
 ]
