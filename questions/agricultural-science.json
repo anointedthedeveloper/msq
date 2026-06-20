@@ -58410,5 +58410,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68103",
     "passage": ""
+  },
+  {
+    "id": 68104,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a common by-product of farm animals?",
+    "options": {
+      "A": "All of the above",
+      "B": "Wool",
+      "C": "Fertilizer",
+      "D": "Milk"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Farm animals often produce various valuable by-products. Milk is a common by-product of dairy animals such as cows, goats, and sheep. It is a significant source of nutrition for humans and is used to produce dairy products such as cheese, butter, and yogurt. Fertilizer is another by-product that can be obtained from farm animals, specifically from their manure.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68104",
+    "passage": ""
   }
 ]
