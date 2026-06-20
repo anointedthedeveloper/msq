@@ -61067,5 +61067,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72575",
     "passage": ""
+  },
+  {
+    "id": 72577,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The diagram above illustrates a source of form A power.\nThe power generated from the illustrated diagram could be converted to",
+    "options": {
+      "A": "solar energy",
+      "B": "electrical energy",
+      "C": "hydro power",
+      "D": "animal power"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/iBfP5Ohoja78ylJ7Xq5n04lCR3zrmIeNjz4y5Fwa.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982804/myschool/agricultural-science/iBfP5Ohoja78ylJ7Xq5n04lCR3zrmIeNjz4y5Fwa.jpg",
+    "correct_answer": "B",
+    "explanation": "The windmill generates mechanical power from wind,which can be converted into electrical energy.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72577",
+    "passage": ""
   }
 ]
