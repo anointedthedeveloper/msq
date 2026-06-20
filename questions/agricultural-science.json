@@ -59228,5 +59228,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69645",
     "passage": ""
+  },
+  {
+    "id": 69646,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "Monocotyledonous crops are characterized by",
+    "options": {
+      "A": "parallel-veined leaves",
+      "B": "woody stems and branches",
+      "C": "taproot system",
+      "D": "net-veined leaves"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Monocotyledonous crops typically have leaves with parallel venation. This means that the veins in the leaf run parallel to each other, extending from the base to the tip of the leaf without forming a complex network. The parallel arrangement of veins is a key characteristic that sets monocots apart from dicotyledonous plants (dicots), which have net-veined leaves.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69646",
+    "passage": ""
   }
 ]
