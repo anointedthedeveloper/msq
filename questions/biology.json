@@ -68540,5 +68540,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35823",
     "passage": ""
+  },
+  {
+    "id": 35824,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2013",
+    "question": "Which of the following traits may be considered in marriage counseling?",
+    "options": {
+      "A": "Height",
+      "B": "Fingerprints",
+      "C": "Rhesus factor",
+      "D": "Colour of skin"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Rhesus factor (Rh factor) incompatibility can be a relevant topic in marriage counseling, particularly for couples planning to have children, as it can impact pregnancy outcomes and require specific medical interventions.\nThe Rh factor is a protein found on the surface of red blood cells, and individuals are either Rh positive (have the protein) or Rh negative (do not have the protein).\nRh incompatibility occurs when a Rh-negative woman is carrying a Rh-positive fetus. The mother's immune system can develop antibodies against the Rh-positive fetal blood cells, which can lead to complications in future pregnancies.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35824",
+    "passage": ""
   }
 ]
