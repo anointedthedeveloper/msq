@@ -64065,5 +64065,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44485",
     "passage": ""
+  },
+  {
+    "id": 44486,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1983",
+    "question": "In the experiment above, a current was passed for 10 minutes, and 0.63g of copper was found to be deposited on the cathode of CuSO4 cells. The weight of silver deposited on the cathode of AgNO3 cell during the same period would be? [Cu = 63, Ag = 108]",
+    "options": {
+      "A": "0.54g",
+      "B": "1.08g",
+      "C": "1.62g",
+      "D": "2.16g",
+      "E": "3.24g"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/11712198632_13275861_1079993372065329_1524302721_n.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982140/myschool/chemistry/11712198632_13275861_1079993372065329_1524302721_n.jpg",
+    "correct_answer": "D",
+    "explanation": "Same period, Same current\n\\(Cu^{2+} + 2e^- → Cu;  2Ag^+ + 2e^-\\) → Ag\nFrom the equation above, 2 mol Ag ≡ 1 mol Cu\nBut 0.63g Cu = \\(\\frac{0.63}{63}\\) = 0.01mole Cu\nHence 0.002 mole Ag is deposited\nmass of Ag deposited = 0.002 x 108 = 2.16g.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44486",
+    "passage": ""
   }
 ]
