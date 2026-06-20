@@ -59912,5 +59912,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71384",
     "passage": ""
+  },
+  {
+    "id": 71385,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following group of basic amenities should be provided in rural areas for improved agricultural productivity?",
+    "options": {
+      "A": "Roads, airport and recreation centers.",
+      "B": "water, electricity and health care centres",
+      "C": "electricity, guest houses and water",
+      "D": "health care centres, water and airport"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The provision of basic amenities such as water, electricity, and health care centres in rural areas can significantly improve agricultural productivity. Access to clean water is essential for both crop irrigation and livestock rearing.\nElectricity can power machinery and equipment that can increase the efficiency of farming practices. Health care centres can provide medical services to rural populations, ensuring that they are healthy and able to work on their farms. The other options, such as guest houses, airports, and recreation centers, while beneficial in some ways, are not as directly linked to agricultural productivity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71385",
+    "passage": ""
   }
 ]
