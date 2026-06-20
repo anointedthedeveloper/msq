@@ -64705,5 +64705,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44534",
     "passage": ""
+  },
+  {
+    "id": 44535,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "Which of the following compounds is used as a gaseous fuel?",
+    "options": {
+      "A": "CH 3 -CH 2 -CHO 2 -COOH",
+      "B": "CH 3 -C = CH",
+      "C": "CH 3 -CH 2 -CH 2 -CH 3",
+      "D": "CH 2 -CH 2 -CH 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "C\\(_4\\)H\\(_{10}\\), which is butane, is a common and easily liquefied gaseous fuel, used in various applications like portable stoves, cigarette lighters, and as a fuel for cooking and camping.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44535",
+    "passage": ""
   }
 ]
