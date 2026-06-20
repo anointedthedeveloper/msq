@@ -57801,5 +57801,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67911",
     "passage": ""
+  },
+  {
+    "id": 67933,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary characteristic of weeds in agriculture?",
+    "options": {
+      "A": "They are beneficial for crop growth",
+      "B": "They compete with crops for resources",
+      "C": "They are cultivated intentionally by farmers",
+      "D": "They do not require any maintenance"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The primary characteristic of weeds in agriculture is that they compete with crops for resources. Weeds are unwanted plants that grow in agricultural fields and compete with cultivated crops for sunlight, water, nutrients, and space. They can reduce crop yields by depriving crops of essential resources and sometimes release chemicals that inhibit crop growth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67933",
+    "passage": ""
   }
 ]
