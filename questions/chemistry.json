@@ -66490,5 +66490,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45740",
     "passage": ""
+  },
+  {
+    "id": 45742,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "A metallic ion Z\\(^{2+}\\) with an inert gas structure contains 18 electrons. How many protons are contained in this ion?",
+    "options": {
+      "A": "20",
+      "B": "18",
+      "C": "16",
+      "D": "2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The number of electron would have been equal to number of proton if the atom were a neutral atom or represented as Z without Z\\(^{2+}\\). But because it is Z\\(^{2+}\\), carrying +2, meaning 2electrons were given out, therefore number of protons will be more than number electron by 2. i.e number of electron + 2 = 18 + 2 = 20. Therefore, the number of protons will be 20.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45742",
+    "passage": ""
   }
 ]
