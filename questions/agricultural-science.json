@@ -58347,5 +58347,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68100",
     "passage": ""
+  },
+  {
+    "id": 68101,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary objective of agricultural research?",
+    "options": {
+      "A": "Developing new farming technologies",
+      "B": "Increasing crop diversity",
+      "C": "Promoting organic farming practices",
+      "D": "Enhancing agricultural productivity and sustainability"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The primary objective of agricultural research is to enhance agricultural productivity and sustainability. Agricultural researchers work to develop innovative techniques, technologies, and practices that improve crop yields, reduce environmental impact, and ensure the long-term viability of agricultural systems.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68101",
+    "passage": ""
   }
 ]
