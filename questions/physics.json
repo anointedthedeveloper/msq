@@ -2602,5 +2602,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/physics/9712",
     "passage": ""
+  },
+  {
+    "id": 9717,
+    "subject": "physics",
+    "exam_type": "JAMB",
+    "exam_year": "2002",
+    "question": "Which of the following eye defects can be corrected using a cylindrical lens.",
+    "options": {
+      "A": "myopia",
+      "B": "Astigmatism",
+      "C": "Presbyopia",
+      "D": "Chromatic abiration"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/physics/9717",
+    "passage": ""
   }
 ]
