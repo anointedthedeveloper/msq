@@ -60584,5 +60584,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71439",
     "passage": ""
+  },
+  {
+    "id": 71440,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Gummosis is caused by a",
+    "options": {
+      "A": "fungus",
+      "B": "nematoda",
+      "C": "virus",
+      "D": "bacterium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Gummosis is a disease in plants, particularly fruit trees, where sap oozes from the bark, resulting in the formation of amber-like gum deposits. It is primarily caused by fungal infections, hence the correct answer is 'fungus'.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71440",
+    "passage": ""
   }
 ]
