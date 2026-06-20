@@ -60731,5 +60731,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71446",
     "passage": ""
+  },
+  {
+    "id": 71447,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following livestock endoparasite is a hermaphmdite?",
+    "options": {
+      "A": "trypanosome",
+      "B": "roundworm",
+      "C": "liverfluke",
+      "D": "tapeworm"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Tapeworms are hermaphrodites, meaning they have both male and female repmductive organs. This allows them to self fertilize and produce eggs without needing a mate. Liver flukes, trypanosomes, and roundworms are not hermaphmdites",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71447",
+    "passage": ""
   }
 ]
