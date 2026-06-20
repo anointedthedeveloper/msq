@@ -63315,5 +63315,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44094",
     "passage": ""
+  },
+  {
+    "id": 44097,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2009",
+    "question": "If the relative atomic mass of an element is not a whole number, it can be deduced that the element is?",
+    "options": {
+      "A": "Naturally radioactive",
+      "B": "abundant in nature",
+      "C": "a transition metal",
+      "D": "an isotopic mixture"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "This happens because the relative atomic mass is the average of all an element’s isotopes , weighted by how common each isotope is. If the isotopes have different masses , the average won’t be a whole number.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44097",
+    "passage": ""
   }
 ]
