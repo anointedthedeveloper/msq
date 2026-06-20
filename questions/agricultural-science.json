@@ -59891,5 +59891,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71383",
     "passage": ""
+  },
+  {
+    "id": 71384,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following does not fit into the agricultural use of land",
+    "options": {
+      "A": "crop production",
+      "B": "animal production",
+      "C": "forest establishment",
+      "D": "mining"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Mining is not typically considered an agricultural use of land. While it does involve the use of land, it does not involve the cultivation of plants or the rearing of animals, which are the primary activities associated with agriculture.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71384",
+    "passage": ""
   }
 ]
