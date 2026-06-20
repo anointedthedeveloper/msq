@@ -63779,5 +63779,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44464",
     "passage": ""
+  },
+  {
+    "id": 44469,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "An organic compound contains 72% carbon, 12% hydrogen and 16% oxygen by mass. The empirical formula of  the compound is",
+    "options": {
+      "A": "C 8 H 22 O 3",
+      "B": "C 6 H 10 O 3",
+      "C": "C 12 H 12 O",
+      "D": "C 6 H 12 O",
+      "E": "C 3 H 6 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "6\n12",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44469",
+    "passage": ""
   }
 ]
