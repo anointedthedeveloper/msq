@@ -58725,5 +58725,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69621",
     "passage": ""
+  },
+  {
+    "id": 69622,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "The diagram above illustrates a reproductive process in a farm animal. Study it and answer the question. The reproductive process illustrated by the diagram is",
+    "options": {
+      "A": "lactation",
+      "B": "gestation",
+      "C": "ovulation",
+      "D": "heat"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/LOqLfpmmrZpr7yY903vT3s8KkJEsnxg7tfxHWMzt.jpeg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982104/myschool/agricultural-science/LOqLfpmmrZpr7yY903vT3s8KkJEsnxg7tfxHWMzt.jpg",
+    "correct_answer": "B",
+    "explanation": "Gestation refers to the period of pregnancy or the time it takes for female animals, particularly livestock, to carry and develop their offspring before giving birth.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69622",
+    "passage": ""
   }
 ]
