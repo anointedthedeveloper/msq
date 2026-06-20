@@ -60920,5 +60920,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71465",
     "passage": ""
+  },
+  {
+    "id": 71467,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The foot and mouth disease of cattle is caused by a",
+    "options": {
+      "A": "virus",
+      "B": "fungus",
+      "C": "nematode",
+      "D": "bacterium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The foot and mouth disease of cattle is caused by a virus. Foot-and-mouth disease (FMD) is a severe, highly contagious-viral disease of cattle and swine. It also affects sheep, goats, deer, and other cloven-hooved ruminants. FMD is not recognized as a zoonotic disease.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71467",
+    "passage": ""
   }
 ]
