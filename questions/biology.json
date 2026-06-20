@@ -69590,5 +69590,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37142",
     "passage": ""
+  },
+  {
+    "id": 37146,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "The diagram represents the structure of",
+    "options": {
+      "A": "proteins",
+      "B": "chromosomes",
+      "C": "RNA",
+      "D": "DNA"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/24420954512_206-3.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982829/myschool/biology/24420954512_206-3.jpg",
+    "correct_answer": "D",
+    "explanation": "The structure of DNA is a double helix, resembling a twisted ladder, composed of two strands of nucleotides linked by sugar-phosphate backbones, with nitrogenous bases (adenine, thymine, guanine, and cytosine) pairing specifically (A with T, C with G).\nDNA is the long molecule that contains your unique genetic code. A bit like a recipe book, which holds the instructions your cells need to make all the proteins in your body.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37146",
+    "passage": ""
   }
 ]
