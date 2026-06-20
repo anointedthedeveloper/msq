@@ -70115,5 +70115,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37196",
     "passage": ""
+  },
+  {
+    "id": 37197,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2008",
+    "question": "In the diagram, which of the four offspring of the cross will be short if T the gene for tallness is dominant to t?",
+    "options": {
+      "A": "i",
+      "B": "ii",
+      "C": "iii",
+      "D": "iv"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/4309606827_208-6.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781983019/myschool/biology/4309606827_208-6.jpg",
+    "correct_answer": "D",
+    "explanation": "The cross that will be short is iv.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37197",
+    "passage": ""
   }
 ]
