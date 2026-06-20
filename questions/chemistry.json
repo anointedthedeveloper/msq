@@ -64873,5 +64873,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44550",
     "passage": ""
+  },
+  {
+    "id": 44552,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "Diamond cannot be used",
+    "options": {
+      "A": "In making bicycle chains",
+      "B": "As abrasives",
+      "C": "In cutting glass and metals",
+      "D": "As dies for drawing wires"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44552",
+    "passage": ""
   }
 ]
