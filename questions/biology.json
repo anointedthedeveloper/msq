@@ -69653,5 +69653,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/37148",
     "passage": ""
+  },
+  {
+    "id": 37149,
+    "subject": "biology",
+    "exam_type": "JAMB",
+    "exam_year": "2006",
+    "question": "In the diagram, the variation illustration is",
+    "options": {
+      "A": "discontinuous",
+      "B": "morphological",
+      "C": "physiological",
+      "D": "biochemical"
+    },
+    "image_url": "https://myschool.ng/storage/classroom/5746108512_206-4.jpg",
+    "image_cloudinary": "https://res.cloudinary.com/dccjvdfn9/image/upload/v1781982845/myschool/biology/5746108512_206-4.jpg",
+    "correct_answer": "B",
+    "explanation": "The elongated neck of a giraffe is a clear example of a morphological adaptation, as it's a physical characteristic that allows them to reach high-up foliage for food and also helps with visual vigilance.\nThere is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/37149",
+    "passage": ""
   }
 ]
