@@ -57738,5 +57738,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67908",
     "passage": ""
+  },
+  {
+    "id": 67909,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of an agricultural extension method used to disseminate information to farmers?",
+    "options": {
+      "A": "Crop rotation",
+      "B": "Irrigation systems",
+      "C": "Farmer field schools",
+      "D": "Soil testing"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Farmer field schools are an example of an agricultural extension method used to disseminate information to farmers. Farmer field schools are structured learning programs where farmers actively participate in hands-on training and field demonstrations.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67909",
+    "passage": ""
   }
 ]
