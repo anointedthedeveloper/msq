@@ -57990,5 +57990,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67967",
     "passage": ""
+  },
+  {
+    "id": 68010,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a primary function of the digestive system?",
+    "options": {
+      "A": "Regulation of body temperature",
+      "B": "Oxygen transport",
+      "C": "Production of hormones",
+      "D": "Absorption of nutrients"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The primary function of the digestive system is the absorption of nutrients. The digestive system breaks down food into smaller molecules through processes such as mechanical digestion (chewing) and chemical digestion (enzymes breaking down food).",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68010",
+    "passage": ""
   }
 ]
