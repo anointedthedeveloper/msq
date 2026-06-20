@@ -60353,5 +60353,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71408",
     "passage": ""
+  },
+  {
+    "id": 71429,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "The following are characteristics of quartz except",
+    "options": {
+      "A": "having cleavage",
+      "B": "being granular",
+      "C": "being glass-like",
+      "D": "having shiny surface"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Quartz is a mineral that is known for its hardness and glass-like appearance. It does not have cleavage, which is the ability of a mineral to break along flat surfaces. This characteristic is not present in quartz, hence the correct answer is 'having cleavage",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71429",
+    "passage": ""
   }
 ]
