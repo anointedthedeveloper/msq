@@ -61340,5 +61340,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72648",
     "passage": ""
+  },
+  {
+    "id": 72649,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following characteristics is not associated with monocotyledonous crops",
+    "options": {
+      "A": "Fibrous root system",
+      "B": "Parallel venation of leaf",
+      "C": "Leaves are nei-veined",
+      "D": "Presence of one-seed leaf."
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Net venation is associated with dicotyledonous crops,monocots exhibit parallel venation",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72649",
+    "passage": ""
   }
 ]
