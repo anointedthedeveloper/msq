@@ -64131,5 +64131,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44488",
     "passage": ""
+  },
+  {
+    "id": 44489,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "The following arrangement of elements in order of decreasing number of outer electrons; One of the elements is wrongly placed. Which is it? ALUMINIUM, CHLORINE, SILICON, MAGNESIUM AND SODIUM.",
+    "options": {
+      "A": "chlorine",
+      "B": "aluminium",
+      "C": "silicon",
+      "D": "magnesium",
+      "E": "sodium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44489",
+    "passage": ""
   }
 ]
