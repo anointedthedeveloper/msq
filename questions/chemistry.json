@@ -63188,5 +63188,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43740",
     "passage": ""
+  },
+  {
+    "id": 43750,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "The following equations represent redox reactions EXCEPT",
+    "options": {
+      "A": "Ba 2+ (aq) + SO 2- 4 (aq) → BaSO 4 (s)",
+      "B": "Cl 2 (g) + 2Br - (aq) → 2CI - (aq) + Br 2 (g)",
+      "C": "Fe 2+ (aq) + ½ C I 2 (aq) → Fe 3+ (aq) + CI - (aq)",
+      "D": "2Fe 3+ (aq) + Sn 2+ (aq) → 2Fe 2+ (aq) Sn 4+ (aq)",
+      "E": "Zn(s) + CU 2+ (aq) → Zn 2+ (aq) + CU(s)"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43750",
+    "passage": ""
   }
 ]
