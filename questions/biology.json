@@ -67973,5 +67973,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35795",
     "passage": ""
+  },
+  {
+    "id": 35796,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2013",
+    "question": "The resolution of a microscope refers to its power to",
+    "options": {
+      "A": "increase an object's apparent size",
+      "B": "distinguish clearly between two objects",
+      "C": "scan the surface of an object",
+      "D": "focus on an object"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The resolution of a microscope is its ability to distinguish two close points. Resolution measures the microscope’s ability to distinguish between two points that are close together on an object. If a microscope can clearly distinguish between the two points, it has a good or high resolution.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35796",
+    "passage": ""
   }
 ]
