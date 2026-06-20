@@ -68750,5 +68750,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/biology/35833",
     "passage": ""
+  },
+  {
+    "id": 35834,
+    "subject": "biology",
+    "exam_type": "WAEC",
+    "exam_year": "2014",
+    "question": "Which of the following cell inclusions can destroy other cell organelles?",
+    "options": {
+      "A": "Centriole",
+      "B": "Ribosome",
+      "C": "Lysosome",
+      "D": "Mitochondrion"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Lysosomes are small membrane-bound vesicles within the interior of the cells that contain digestive enzymes that break down damaged organelles/getting rid of old organelles or digesting bacteria taken into the cell by phagocytosis.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/biology/35834",
+    "passage": ""
   }
 ]
