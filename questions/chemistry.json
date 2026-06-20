@@ -67246,5 +67246,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45835",
     "passage": ""
+  },
+  {
+    "id": 45837,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Which of the following compounds is a secondary alkanol?",
+    "options": {
+      "A": "Ethanol",
+      "B": "2-methylbutan-2-ol",
+      "C": "3-methylpentan-2-ol",
+      "D": "Propan-1-ol"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A secondary alkanol has two alkyl groups attached to the carbon atom carrying the hydroxyl group. drawing the structures of the alkanol listed above option C is the correct answer.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45837",
+    "passage": ""
   }
 ]
