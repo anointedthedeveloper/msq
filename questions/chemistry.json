@@ -64109,5 +64109,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44487",
     "passage": ""
+  },
+  {
+    "id": 44488,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1981",
+    "question": "Which of the following represents a precipitation reaction?",
+    "options": {
+      "A": "H 2 SO 4 + NaCl \\(\\to\\) NaHSO 4 + HCl",
+      "B": "Fe +H 2 SO 4 \\(\\to\\) FeSO 4 + H 2",
+      "C": "4HCl + MnO 2 \\(\\to\\) MnCl 2 + 2H 2 O + Cl 2",
+      "D": "Na 2 SO 4 + pb(NO 3 ) \\(\\to\\)  PbSO 4 + 2NaNO",
+      "E": "CuO +2HCl \\(\\to\\) Cl 2 + H 2 O"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44488",
+    "passage": ""
   }
 ]
