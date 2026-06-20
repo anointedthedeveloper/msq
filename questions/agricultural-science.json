@@ -59417,5 +59417,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69654",
     "passage": ""
+  },
+  {
+    "id": 69655,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "If the seed rate for the cultivation of cowpea is 25 kg per hectare, determine the quantity of cowpea seeds required to cultivate a farmland measuring 100 m by 500 m.",
+    "options": {
+      "A": "125 kg",
+      "B": "50 kg",
+      "C": "250 kg",
+      "D": "1,250 kg"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "1 hectare = 10,000 square meters Area of the farmland = 100 m x 500 m = 50,000 square meters Now, we can convert the area to hectares: Area in hectares = 50,000 square meters / 10,000 square meters/hectare = 5 hectares Next, we can calculate the quantity of cowpea seeds required using the given seed rate: Seed rate = 25 kg/hectare Quantity of cowpea seeds required = Seed rate x Area Quantity of cowpea seeds required = 25 kg/hectare x 5 hectares Quantity of cowpea seeds required = 125 kg Therefore, the quantity of cowpea seeds required to cultivate the farmland is 125 kg. The correct answer is \"125 kg.\"",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69655",
+    "passage": ""
   }
 ]
