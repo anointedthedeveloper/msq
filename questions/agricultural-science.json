@@ -58515,5 +58515,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68108",
     "passage": ""
+  },
+  {
+    "id": 68109,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the relationship between demand and supply in agriculture?",
+    "options": {
+      "A": "Demand in agriculture is independent of supply",
+      "B": "Demand and supply in agriculture are interdependent",
+      "C": "Supply in agriculture is determined solely by demand",
+      "D": "Demand and supply in agriculture are unrelated"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "In agriculture, demand and supply are interdependent factors. Demand refers to the quantity of agricultural products that consumers are willing and able to purchase at a given price. Supply, on the other hand, refers to the quantity of agricultural products that producers are willing and able to offer for sale at a given price. The relationship between demand and supply is often represented by the concept of market equilibrium.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68109",
+    "passage": ""
   }
 ]
