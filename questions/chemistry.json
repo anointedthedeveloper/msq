@@ -63144,5 +63144,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43738",
     "passage": ""
+  },
+  {
+    "id": 43739,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "Brain tumors can be located by using an isotope of",
+    "options": {
+      "A": "carbon - 14",
+      "B": "iodine 131",
+      "C": "technetium 99",
+      "D": "uranium235",
+      "E": "uranium 238"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43739",
+    "passage": ""
   }
 ]
