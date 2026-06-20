@@ -61717,5 +61717,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72704",
     "passage": ""
+  },
+  {
+    "id": 72705,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "Which of the following is an advantage of pen mating?",
+    "options": {
+      "A": "spread of a veneral disease",
+      "B": "deformed males may not be allowed to mate.",
+      "C": "cost of keeping a breeding male is low",
+      "D": "the tendency of mating females on heat is high"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "In pen mating,a single male can mate with multiple females, which reduces the need for multiple breeding males and lowers the associated ones",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72705",
+    "passage": ""
   }
 ]
