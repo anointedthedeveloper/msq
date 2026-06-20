@@ -58158,5 +58158,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68091",
     "passage": ""
+  },
+  {
+    "id": 68092,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the primary goal of genetic engineering in agriculture?",
+    "options": {
+      "A": "Creating genetically modified organisms (GMOs) with desirable traits",
+      "B": "Preserving traditional farming practices and crop varieties",
+      "C": "Eliminating the use of pesticides and fertilizers in farming",
+      "D": "Enhancing crop yields through traditional breeding methods"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "The primary goal of genetic engineering in agriculture is to create genetically modified organisms (GMOs) with desirable traits. Genetic engineering involves manipulating the genetic material of organisms, such as plants, to introduce specific genes from other organisms.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68092",
+    "passage": ""
   }
 ]
