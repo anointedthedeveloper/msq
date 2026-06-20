@@ -59648,5 +59648,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/69672",
     "passage": ""
+  },
+  {
+    "id": 69674,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2023",
+    "question": "In a poultry farm, 2,000 birds were laying an average of 1,680 eggs per day. Use this information to answer the questionIf an egg tray contains 30 eggs, how many trays of eggs will be collected in one week?",
+    "options": {
+      "A": "240",
+      "B": "526",
+      "C": "286",
+      "D": "392"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Total number of birds = 2,000 Number of eggs laid per day = 1,680 Number of eggs laid in 7days = 1,680 x 7 =11760 Number of eggs in one tray = 30 x =11760/30 =392 trays",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/69674",
+    "passage": ""
   }
 ]
