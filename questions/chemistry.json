@@ -64153,5 +64153,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44489",
     "passage": ""
+  },
+  {
+    "id": 44490,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1980",
+    "question": "Which of the following tests would confirm-unequivocally that a solution X contain the sulphate ion if it gives with?",
+    "options": {
+      "A": "silver nitrates solution, a white precipates insoluble in dilute HNO 3",
+      "B": "barium chloride solution, a white precipitate insoluble in dilute H 2 SO 4",
+      "C": "barium chloride solution, a white precipitate soluble in dilute HCl",
+      "D": "barium chloride solution a white precipitate soluble in dilute ammonia",
+      "E": "barium chloride solution a white precipitate insoluble in dilute HCl"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "Sulfate ions in solution are detected using barium chloride solution .\nThe test solution is acidified using a few drops of dilute hydrochloric acid, and then a few drops of barium chloride solution are added.\nA white precipitate of barium sulfate forms if sulfate ions are present.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44490",
+    "passage": ""
   }
 ]
