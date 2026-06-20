@@ -60332,5 +60332,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71407",
     "passage": ""
+  },
+  {
+    "id": 71408,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Although clay soil is rich in nutrients, they are not good for most agricultural crop production because they do not release their nutrients are too compact and poorly aerated contain too much iron, aluminum, and boron lose their nutrient too readily after rain",
+    "options": {
+      "A": "do not release nutrients",
+      "B": "are too compact or poorly aerated",
+      "C": "contains too much iron,aluminum and boron",
+      "D": "lose their nutrient readily after rain"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "Clay soils are not good for most agricultural crop production because they are too compact and poorly aerated. Clay particles are very small and tightly packed together, which limits the amount of air and water that can penetrate the soil This can lead to poor root growth and reduced nutrient uptake by plants.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71408",
+    "passage": ""
   }
 ]
