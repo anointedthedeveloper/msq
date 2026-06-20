@@ -58032,5 +58032,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68085",
     "passage": ""
+  },
+  {
+    "id": 68086,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is a common method of disseminating information to farmers?",
+    "options": {
+      "A": "All of the above",
+      "B": "Social media campaigns",
+      "C": "Radio broadcasts",
+      "D": "Field demonstrations"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Disseminating information to farmers involves utilizing various methods to reach them effectively. Social media campaigns, such as through platforms like Facebook, Twitter, and WhatsApp, have become increasingly popular for sharing agricultural knowledge, news, and updates. Radio broadcasts, especially in rural areas, serve as an important means of reaching farmers with relevant agricultural information.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68086",
+    "passage": ""
   }
 ]
