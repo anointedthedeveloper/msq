@@ -63336,5 +63336,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44097",
     "passage": ""
+  },
+  {
+    "id": 44422,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1994",
+    "question": "MnO4(aq) + 8H + 5Fe2+ \\(\\to\\) Mn2+(aq) + 5Fe3+(aq) + H2O. The oxidation number of maganese in the above reaction changed from",
+    "options": {
+      "A": "+7 to +2",
+      "B": "+6 to +2",
+      "C": "+5 to +2",
+      "D": "+4 to +2"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "\\(MnO_{{4}{(aq)}}\\) has a charge of \\(-1\\)\nLet the oxidation number of \\(Mn\\) in \\(MnO_{{4}{(aq)}}\\) be X\nRecall, the oxidation number of \\(O_{2}\\) is \\(-2\\)\n\\(\\therefore\\) \\(X + (-2\\times 4) = -1\\)\n\\(X - 8 = -1\\)\n\\(X = +7\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44422",
+    "passage": ""
   }
 ]
