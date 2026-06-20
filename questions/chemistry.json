@@ -63845,5 +63845,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44472",
     "passage": ""
+  },
+  {
+    "id": 44474,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1985",
+    "question": "Hydrogen diffuses through a porous plug",
+    "options": {
+      "A": "at the same rate as oxygen",
+      "B": "at a slower rate than oxygen",
+      "C": "twice as fast as oxygen",
+      "D": "three times as fast as oxygen",
+      "E": "four times as fast as oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "E",
+    "explanation": "click here",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44474",
+    "passage": ""
   }
 ]
