@@ -58074,5 +58074,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68087",
     "passage": ""
+  },
+  {
+    "id": 68088,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "What is the role of agricultural extension officers in the field of agriculture?",
+    "options": {
+      "A": "Providing financial assistance to farmers",
+      "B": "Marketing agricultural products to consumers",
+      "C": "Conducting research on new farming techniques",
+      "D": "Delivering agricultural education and training to farmers"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The role of agricultural extension officers in the field of agriculture is primarily to deliver agricultural education and training to farmers. Agricultural extension officers work closely with farmers, providing them with information, knowledge, and technical expertise to improve their farming practices. They facilitate the transfer of scientific research and technology to farmers, helping them adopt modern and sustainable agricultural practices.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68088",
+    "passage": ""
   }
 ]
