@@ -64663,5 +64663,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44532",
     "passage": ""
+  },
+  {
+    "id": 44533,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "2016",
+    "question": "Which of the following properties is not peculiar to matter?",
+    "options": {
+      "A": "Kinetic energy of particles increases from solid to gas",
+      "B": "Random motion of particles increases from gas to solid",
+      "C": "Orderliness of particles increases from gas to liquid",
+      "D": "Random motion of particles increases from liquid to gas"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "There is an explanation video available below .",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44533",
+    "passage": ""
   }
 ]
