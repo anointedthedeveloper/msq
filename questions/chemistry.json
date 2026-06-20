@@ -65566,5 +65566,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45091",
     "passage": ""
+  },
+  {
+    "id": 45092,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2016",
+    "question": "The shape of the water molecule is_______?",
+    "options": {
+      "A": "Linear",
+      "B": "Pyramidal",
+      "C": "Tetrahedral",
+      "D": "V-shaped"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "The bond angle in water is compressed approximately to 105°, such that the structure of the water molecule is V-shaped or Angular.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45092",
+    "passage": ""
   }
 ]
