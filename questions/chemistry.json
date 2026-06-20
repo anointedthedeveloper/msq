@@ -63078,5 +63078,27 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/43735",
     "passage": ""
+  },
+  {
+    "id": 43736,
+    "subject": "chemistry",
+    "exam_type": "NECO",
+    "exam_year": "2009",
+    "question": "Which of the following gases is absorbed from the air due to photosynthesis?",
+    "options": {
+      "A": "Carbon (II) oxide",
+      "B": "Carbon (IV) oxide",
+      "C": "Nitrogen",
+      "D": "Noble gases",
+      "E": "Oxygen"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The gas that is absorbed from the air due to photosynthesis is carbon dioxide (CO₂). During this process, plants take in carbon dioxide from the atmosphere and, using sunlight, convert it into glucose and oxygen",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/43736",
+    "passage": ""
   }
 ]
