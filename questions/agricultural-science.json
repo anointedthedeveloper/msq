@@ -57528,5 +57528,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/67898",
     "passage": ""
+  },
+  {
+    "id": 67899,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following best describes agricultural marketing?",
+    "options": {
+      "A": "The process of producing agricultural goods",
+      "B": "The transportation of agricultural products to consumers",
+      "C": "The storage and preservation of agricultural goods",
+      "D": "The promotion and selling of agricultural products"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Agricultural marketing refers to the activities involved in the promotion and selling of agricultural products. It encompasses various processes, such as market research, product promotion, pricing, distribution, and sales.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/67899",
+    "passage": ""
   }
 ]
