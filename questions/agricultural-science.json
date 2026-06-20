@@ -61193,5 +61193,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72640",
     "passage": ""
+  },
+  {
+    "id": 72641,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The plant nutrient which is responsible for the green colour of leaves",
+    "options": {
+      "A": "boron",
+      "B": "magnesium",
+      "C": "calcium",
+      "D": "potassium"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "The green color of leaves is due to its chlorophyll content,magnesium is an important component of chlorophyl.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72641",
+    "passage": ""
   }
 ]
