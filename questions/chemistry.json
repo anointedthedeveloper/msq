@@ -66784,5 +66784,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/45756",
     "passage": ""
+  },
+  {
+    "id": 45758,
+    "subject": "chemistry",
+    "exam_type": "WAEC",
+    "exam_year": "2015",
+    "question": "Consider the following reaction equation: C2H4(g) + 3O2(g) \\(\\to\\) 2CO2(g) + 2H2O(g) The volume of CO2(g) produced at s.t.p when 0.05 moles of C2H4(g) was burnt in O2(g) is [Molar Volume of gas = 22.4dm3",
+    "options": {
+      "A": "1.12dm 3",
+      "B": "2.24dm 3",
+      "C": "3.72dm 3",
+      "D": "4.48dm 3"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "\\(\\frac{\\text{volume}}{\\text{molar volume}}\\) = 0.05\n1 mole of ethane produces 2 moles of carbon(iv)oxide\n∴ 0.05  mole of ethane will produce x moles of carbon(iv)oxide = \\(\\frac{\\text{volume}}{22.4}\\) = 0.05 X 2 X 22.4 =  2.24dm\\(_3\\)",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/45758",
+    "passage": ""
   }
 ]
