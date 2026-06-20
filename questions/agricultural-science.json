@@ -61130,5 +61130,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/72585",
     "passage": ""
+  },
+  {
+    "id": 72586,
+    "subject": "agricultural-science",
+    "exam_type": "WAEC",
+    "exam_year": "2024",
+    "question": "The ash produced after burning crop residues would.",
+    "options": {
+      "A": "decrease soil acidity",
+      "B": "increase soil acidity",
+      "C": "decrease soil alkalinity",
+      "D": "render the PH unchanged"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "A",
+    "explanation": "Ash generally contains  basic compounds which can neutralize acids and decrease soil acidity.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/72586",
+    "passage": ""
   }
 ]
