@@ -60227,5 +60227,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/71402",
     "passage": ""
+  },
+  {
+    "id": 71403,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2024",
+    "question": "Which of the following processes will not lead to the loss of nutrients from the soil?",
+    "options": {
+      "A": "leaching",
+      "B": "harvesting",
+      "C": "erosion",
+      "D": "mulching"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "D",
+    "explanation": "Mulching does not lead to the loss of nutrients from the soil. Instead, it helps to conserve soil moisture, reduce erosion, and contribute to the health of the soil by decomposing into organic matter. The other options are erosion, harvesting, and leaching all lead to nutrient loss from the soil.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/71403",
+    "passage": ""
   }
 ]
