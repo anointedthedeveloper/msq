@@ -58578,5 +58578,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68111",
     "passage": ""
+  },
+  {
+    "id": 68112,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is an example of a pasture commonly used in agriculture?",
+    "options": {
+      "A": "Corn plantation",
+      "B": "Orange orchard",
+      "C": "Cattle pasture",
+      "D": "Wheat field"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "A cattle pasture is an example of a pasture commonly used in agriculture. It is an area of land specifically designated for grazing cattle. Cattle pastures consist of various grasses and forage crops that provide the necessary nutrition for the cattle to graze on.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68112",
+    "passage": ""
   }
 ]
