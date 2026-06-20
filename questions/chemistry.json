@@ -63652,5 +63652,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/chemistry/44458",
     "passage": ""
+  },
+  {
+    "id": 44459,
+    "subject": "chemistry",
+    "exam_type": "JAMB",
+    "exam_year": "1986",
+    "question": "How much of magnesium is required to react with 260cm3 of 0.5 M HCl? [Mg = 24]",
+    "options": {
+      "A": "0.3g",
+      "B": "1.5g",
+      "C": "2.4g",
+      "D": "3.0g"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "B",
+    "explanation": "First write a balanced chemical equation to show the reaction\nMg           +        2HCl  →  MgCl\\(_2\\)  +  H\\(_2\\)\n1mole        :        2 moles\nFrom what we were given  n = \\(\\frac{CV}{1000}\\)\nn = \\(\\frac{{0.5}\\times{260}}{1000}\\)\nn = 0.13 mole\nBy Simple proportion,\n1 mole of Mg → 2 moles of HCl\nthen        x mole of Mg → 0.13mole of HCl\nx = \\(\\frac{0.13}{2}\\) = 0.065mole\nAlso recall that  n = \\(\\frac{m}{M}\\)\nm = n x M\nm = 0.065 x 24 = 1.56g\nTherefore the mass of Magnesium required to react with 260cm3 of 0.5 M HCl is 1.56g",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/chemistry/44459",
+    "passage": ""
   }
 ]
