@@ -58599,5 +58599,26 @@
     "explanation_image_cloudinary": "",
     "url": "https://myschool.ng/classroom/agricultural-science/68112",
     "passage": ""
+  },
+  {
+    "id": 68113,
+    "subject": "agricultural-science",
+    "exam_type": "JAMB",
+    "exam_year": "2023",
+    "question": "Which of the following is NOT a component of soil?",
+    "options": {
+      "A": "Organic matter",
+      "B": "Water",
+      "C": "rubber",
+      "D": "Minerals"
+    },
+    "image_url": "",
+    "image_cloudinary": "",
+    "correct_answer": "C",
+    "explanation": "Rubber is not considered a component of soil. Soil is composed of mineral particles, organic matter, water, and air spaces. The mineral particles include sand, silt, and clay, which provide the physical structure of the soil.",
+    "explanation_image_url": "",
+    "explanation_image_cloudinary": "",
+    "url": "https://myschool.ng/classroom/agricultural-science/68113",
+    "passage": ""
   }
 ]
