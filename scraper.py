@@ -8,7 +8,6 @@ Usage:
     python scraper.py --subject mathematics --pages 10
     python scraper.py --all                     # all subjects (parallel, 4 workers)
     python scraper.py --all --workers 8         # all subjects with 8 workers
-    python scraper.py --all --autocommit        # all subjects with auto git commits
     python scraper.py --list-subjects
     python scraper.py --no-details              # fast mode, no answers
     python scraper.py --no-images               # skip Cloudinary uploads
@@ -17,11 +16,9 @@ Usage:
 import argparse
 import json
 import os
-import queue
 import random
 import re
 import subprocess
-import threading
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -562,188 +559,7 @@ def enrich_with_detail(question: dict, upload_images: bool, max_retries: int = 3
 
 # ── Git autocommit ─────────────────────────────────────────────────────────────
 
-GIT_LOCK_FILE = ".git_lock"
-GIT_LOCK_TIMEOUT = 30  # seconds
-GIT_LOCK_RETRY_DELAY = 0.1  # seconds
 SKIPPED_QUESTIONS_FILE = "skipped_questions.json"
-
-# Global commit queue for thread-safe git operations
-_commit_queue: queue.Queue = queue.Queue()
-_commit_thread: threading.Thread | None = None
-_commit_thread_running = False
-
-
-def cleanup_stale_git_locks():
-    """Clean up stale git lock files on startup."""
-    lock_files = [
-        ".git/index.lock",
-        GIT_LOCK_FILE
-    ]
-    for lock_file in lock_files:
-        try:
-            if os.path.exists(lock_file):
-                lock_age = time.time() - os.path.getmtime(lock_file)
-                if lock_age > 60:  # Stale if older than 60 seconds
-                    os.remove(lock_file)
-                    print(f"  [GIT] Removed stale lock: {lock_file}")
-        except OSError as e:
-            print(f"  [GIT] Could not check/remove {lock_file}: {e}")
-
-
-def acquire_git_lock() -> bool:
-    """Acquire git lock file with retry logic."""
-    start_time = time.time()
-    while time.time() - start_time < GIT_LOCK_TIMEOUT:
-        try:
-            # Try to create lock file exclusively
-            with open(GIT_LOCK_FILE, "x") as f:
-                f.write(str(os.getpid()))
-            return True
-        except FileExistsError:
-            # Check if lock is stale (older than 60 seconds)
-            try:
-                lock_age = time.time() - os.path.getmtime(GIT_LOCK_FILE)
-                if lock_age > 60:
-                    os.remove(GIT_LOCK_FILE)
-                    continue
-            except OSError:
-                pass
-            time.sleep(GIT_LOCK_RETRY_DELAY)
-    return False
-
-
-def release_git_lock():
-    """Release git lock file."""
-    try:
-        if os.path.exists(GIT_LOCK_FILE):
-            os.remove(GIT_LOCK_FILE)
-    except OSError:
-        pass
-
-
-def _commit_queue_worker():
-    """Worker thread that processes commit requests from the queue."""
-    global _commit_thread_running
-    while _commit_thread_running or not _commit_queue.empty():
-        try:
-            task = _commit_queue.get(timeout=1)
-            if task is None:  # Sentinel to stop the thread
-                break
-            
-            task_type, args = task
-            if task_type == "question":
-                subject_slug, question, total_count = args
-                _git_commit_question_impl(subject_slug, question, total_count)
-            elif task_type == "subject":
-                subject_slug, question_count = args
-                _git_commit_subject_impl(subject_slug, question_count)
-            
-            _commit_queue.task_done()
-        except queue.Empty:
-            continue
-        except Exception as e:
-            print(f"  [GIT] Queue worker error: {e}")
-
-
-def start_commit_queue():
-    """Start the commit queue worker thread."""
-    global _commit_thread, _commit_thread_running
-    if _commit_thread is None or not _commit_thread.is_alive():
-        _commit_thread_running = True
-        _commit_thread = threading.Thread(target=_commit_queue_worker, daemon=True)
-        _commit_thread.start()
-        print(f"  [GIT] Commit queue thread started")
-
-
-def stop_commit_queue():
-    """Stop the commit queue worker thread."""
-    global _commit_thread_running
-    _commit_thread_running = False
-    _commit_queue.put(None)  # Sentinel to stop the thread
-    if _commit_thread and _commit_thread.is_alive():
-        _commit_thread.join(timeout=5)
-        print(f"  [GIT] Commit queue thread stopped")
-
-
-def _git_commit_question_impl(subject_slug: str, question: dict, total_count: int) -> bool:
-    """Implementation of commit for a single question to git."""
-    if not acquire_git_lock():
-        print(f"  [GIT] Could not acquire lock for Q#{question['id']}")
-        return False
-    
-    try:
-        output_file = f"questions/{subject_slug}.json"
-        if not os.path.exists(output_file):
-            return False
-        
-        # Reset staging area for this file to avoid staged/unstaged conflicts
-        subprocess.run(["git", "reset", output_file], capture_output=True)
-        
-        subprocess.run(["git", "add", output_file], check=True, capture_output=True)
-        
-        # Check if there are changes to commit
-        result = subprocess.run(["git", "diff", "--cached", "--quiet", output_file], 
-                              capture_output=True)
-        if result.returncode == 0:
-            return False  # No changes
-        
-        commit_msg = f"scrape({subject_slug}): Q#{question['id']} {question['exam_type']} {question['exam_year']} [{total_count} total]"
-        
-        subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
-        print(f"      [GIT] Committed Q#{question['id']} [{total_count} total]")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"  [GIT] Error committing question {question['id']}: {e}")
-        return False
-    finally:
-        release_git_lock()
-
-
-def git_commit_question(subject_slug: str, question: dict, total_count: int) -> bool:
-    """Queue a commit request for a single question to git."""
-    _commit_queue.put(("question", (subject_slug, question, total_count)))
-    return True  # Assume success (actual result handled by queue thread)
-
-
-def _git_commit_subject_impl(subject_slug: str, question_count: int) -> bool:
-    """Implementation of commit for a subject to git."""
-    if not acquire_git_lock():
-        print(f"  [GIT] Could not acquire lock for {subject_slug}")
-        return False
-    
-    try:
-        output_file = f"questions/{subject_slug}.json"
-        if not os.path.exists(output_file):
-            return False
-        
-        # Reset staging area for this file to avoid staged/unstaged conflicts
-        subprocess.run(["git", "reset", output_file], capture_output=True)
-        
-        subprocess.run(["git", "add", output_file], check=True, capture_output=True)
-        
-        # Check if there are changes to commit
-        result = subprocess.run(["git", "diff", "--cached", "--quiet", output_file], 
-                              capture_output=True)
-        if result.returncode == 0:
-            return False  # No changes
-        
-        timestamp = time.strftime("%Y-%m-%d %H:%M UTC", time.gmtime())
-        commit_msg = f"scrape({subject_slug}): {question_count} questions [{timestamp}]"
-        
-        subprocess.run(["git", "commit", "-m", commit_msg], check=True, capture_output=True)
-        print(f"  [GIT] Committed: {subject_slug} ({question_count} questions)")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"  [GIT] Error committing {subject_slug}: {e}")
-        return False
-    finally:
-        release_git_lock()
-
-
-def git_commit_subject(subject_slug: str, question_count: int) -> bool:
-    """Queue a commit request for a subject to git."""
-    _commit_queue.put(("subject", (subject_slug, question_count)))
-    return True  # Assume success (actual result handled by queue thread)
 
 
 # ── Main scraper ───────────────────────────────────────────────────────────────
@@ -764,10 +580,10 @@ def validate_question(question: dict) -> tuple[bool, str]:
     if not isinstance(options, dict) or len(options) < 2:
         return False, "Question has fewer than 2 options"
     
-    # Check option values are not empty
+    # Check option values are not empty (allow single characters like numbers/letters)
     for key, value in options.items():
-        if not str(value).strip() or len(str(value).strip()) < 2:
-            return False, f"Option {key} is empty or too short"
+        if not str(value).strip():
+            return False, f"Option {key} is empty"
     
     return True, ""
 
@@ -805,8 +621,6 @@ def scrape_subject(
     output_dir: str = "questions",
     fetch_details: bool = True,
     upload_images: bool = True,
-    autocommit: bool = False,
-    commit_frequency: int = 1,
 ) -> list[dict]:
     """
     Scrape all past questions for a subject and save to
@@ -851,7 +665,6 @@ def scrape_subject(
     print(f"\n{'='*60}")
     print(f"  Subject    : {subject_slug}")
     print(f"  Details    : {fetch_details} | Cloudinary: {upload_images}")
-    print(f"  Autocommit : {autocommit} (every {commit_frequency} question(s))")
     print(f"{'='*60}")
 
     soup = get_page(subject_url)
@@ -905,27 +718,12 @@ def scrape_subject(
             print(f"    Q#{question['id']:<6} {question['exam_type']:<5} "
                   f"{question['exam_year']} ans={question['correct_answer'] or '?'} {has_img}")
 
-            # Commit after each question if autocommit enabled
-            if autocommit and commit_frequency == 1:
-                with open(output_file, "w", encoding="utf-8") as f:
-                    json.dump(all_questions, f, ensure_ascii=False, indent=2)
-                git_commit_question(subject_slug, question, len(all_questions))
-
         # Save after every page
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(all_questions, f, ensure_ascii=False, indent=2)
-        
-        # Commit batch if commit_frequency > 1
-        if autocommit and commit_frequency > 1 and len(all_questions) % commit_frequency == 0:
-            if git_commit_subject(subject_slug, len(all_questions)):
-                print(f"  [GIT] Batch committed: {len(all_questions)} questions")
 
     print(f"\n  Done: {len(all_questions)} questions -> {output_file}")
     print(f"  Summary: {len(all_questions)} saved, {skipped_count} skipped, {pages_skipped} pages failed")
-    
-    # Final commit if autocommit enabled and not already committed per-question
-    if autocommit and commit_frequency > 1:
-        git_commit_subject(subject_slug, len(all_questions))
     
     return all_questions
 
@@ -954,14 +752,9 @@ Examples:
     parser.add_argument("--no-images",     action="store_true")
     parser.add_argument("--list-subjects", action="store_true")
     parser.add_argument("--all",           action="store_true")
-    parser.add_argument("--autocommit",    action="store_true", help="Auto-commit after each question (or batch)")
-    parser.add_argument("--commit-frequency", type=int, default=1, metavar="N", help="Commit every N questions (default: 1)")
     parser.add_argument("--workers",       type=int, default=4, metavar="N", help="Parallel workers (default: 4)")
 
     args = parser.parse_args()
-
-    # Clean up stale git locks on startup
-    cleanup_stale_git_locks()
 
     if args.list_subjects:
         print(f"\n{'#':>3}  {'Name':<45} Slug")
@@ -976,19 +769,13 @@ Examples:
     if args.all:
         print(f"\nScraping {len(SUBJECTS)} subjects with {args.workers} workers...\n")
         
-        # Start commit queue if autocommit is enabled
-        if args.autocommit:
-            start_commit_queue()
-        
         def scrape_wrapper(subject):
             return scrape_subject(
                 subject["slug"], 
                 args.pages, 
                 args.output, 
                 fetch_details, 
-                upload_images,
-                args.autocommit,
-                args.commit_frequency
+                upload_images
             )
         
         with ThreadPoolExecutor(max_workers=args.workers) as executor:
@@ -1005,10 +792,6 @@ Examples:
                         print(f"  ERROR scraping {subject['name']}: {e}")
                         pbar.update(1)
         
-        # Stop commit queue if it was started
-        if args.autocommit:
-            stop_commit_queue()
-        
         print("\nAll subjects done!")
         return
 
@@ -1017,15 +800,7 @@ Examples:
         print(f"Unknown slug: '{args.subject}'. Run --list-subjects.")
         return
 
-    # Start commit queue if autocommit is enabled for single subject
-    if args.autocommit:
-        start_commit_queue()
-    
-    scrape_subject(args.subject, args.pages, args.output, fetch_details, upload_images, args.autocommit, args.commit_frequency)
-    
-    # Stop commit queue if it was started
-    if args.autocommit:
-        stop_commit_queue()
+    scrape_subject(args.subject, args.pages, args.output, fetch_details, upload_images)
 
 
 if __name__ == "__main__":
