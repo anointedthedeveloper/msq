@@ -557,9 +557,25 @@ def enrich_with_detail(question: dict, upload_images: bool, max_retries: int = 3
     return question
 
 
-# ── Git autocommit ─────────────────────────────────────────────────────────────
+# ── Skipped questions tracking ─────────────────────────────────────────────────────
 
 SKIPPED_QUESTIONS_FILE = "skipped_questions.json"
+
+
+def write_json_with_retry(filepath: str, data, retries: int = 3):
+    """Write JSON data to file with retries for Windows file locking."""
+    for attempt in range(retries):
+        try:
+            with open(filepath, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            return
+        except OSError as e:
+            if attempt < retries - 1:
+                wait_time = 1 * (attempt + 1)
+                print(f"    [RETRY] File write failed (attempt {attempt + 1}/{retries}), waiting {wait_time}s...")
+                time.sleep(wait_time)
+            else:
+                raise
 
 
 # ── Main scraper ───────────────────────────────────────────────────────────────
@@ -574,6 +590,13 @@ def validate_question(question: dict) -> tuple[bool, str]:
     # Check for garbage text (repeated single characters)
     if is_garbage_text(q_text):
         return False, "Question text appears to be garbage"
+    
+    # Check for essay-type questions (multiple parts like (a), (b), etc.)
+    # These are typically theory/essay questions, not multiple choice
+    essay_pattern = re.compile(r'\([a-z]\)\s+', re.IGNORECASE)
+    essay_matches = essay_pattern.findall(q_text)
+    if len(essay_matches) >= 2:
+        return False, "Essay-type question with multiple parts"
     
     # Check options exist and have meaningful content
     options = question.get("options", {})
@@ -611,8 +634,7 @@ def add_skipped_question(question: dict, reason: str):
     skipped.append(skipped_entry)
     
     # Save
-    with open(SKIPPED_QUESTIONS_FILE, "w", encoding="utf-8") as f:
-        json.dump(skipped, f, ensure_ascii=False, indent=2)
+    write_json_with_retry(SKIPPED_QUESTIONS_FILE, skipped)
 
 
 def scrape_subject(
@@ -719,8 +741,7 @@ def scrape_subject(
                   f"{question['exam_year']} ans={question['correct_answer'] or '?'} {has_img}")
 
         # Save after every page
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(all_questions, f, ensure_ascii=False, indent=2)
+        write_json_with_retry(output_file, all_questions)
 
     print(f"\n  Done: {len(all_questions)} questions -> {output_file}")
     print(f"  Summary: {len(all_questions)} saved, {skipped_count} skipped, {pages_skipped} pages failed")
