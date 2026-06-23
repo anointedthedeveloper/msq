@@ -15,3 +15,4 @@ venv/
 
 # Old output folder (now using questions/)
 output/
+*.txt
